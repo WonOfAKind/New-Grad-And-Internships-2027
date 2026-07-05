@@ -6,7 +6,7 @@ Thanks to the people and tools helping keep this 2027 role board useful.
 
 | Contributor | Role |
 |---|---|
-| WonChae Lee | Creator and maintainer |
+| Wonchae Lee | Creator and maintainer |
 | Codex | Automation and repository setup collaborator |
 
 ## Notes

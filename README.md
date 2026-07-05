@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last scan: 2026-07-05T21:05:03.154Z
+Last scan: 2026-07-05T22:37:09.470Z
 
 Companies tracked: 337
 
@@ -29,7 +29,7 @@ Fresh roles this scan: 0
 | Company | Role | Location | Grad Window | Posted/Seen | Apply |
 |---|---|---|---|---|---|
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2027 grad eligible | 2026-07-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| IMC Trading | Graduate Software Engineer | Chicago, United States | New grad or university grad | 2026-07-05 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
+| IMC Trading | Graduate Software Engineer | Chicago, United States | 2027 grad eligible | 2026-07-05 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | Chicago, IL | New grad or university grad | 2026-07-05 | [Apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | New grad or university grad | 2026-07-05 | [Apply](https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728) |
 | Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | New grad or university grad | 2026-07-05 | [Apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
@@ -62,7 +62,7 @@ _No roles found yet._
 |---|---|---|---|---|---|
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | 2027 grad eligible | 2026-07-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | 2027 grad eligible | 2026-07-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007) |
-| IMC Trading | Graduate Hardware Engineer | Chicago, United States | New grad or university grad | 2026-07-05 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
+| IMC Trading | Graduate Hardware Engineer | Chicago, United States | 2027 grad eligible | 2026-07-05 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
 
 ### Aerospace Engineering
 
@@ -113,4 +113,5 @@ _No roles found yet._
 
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
+- Roles not seen for 21 days are automatically removed from the public board.
 - Generated files are updated by `.github/workflows/monitor.yml`.

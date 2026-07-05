@@ -33,9 +33,12 @@ jobs:
         run: npm run monitor
         env:
           FETCH_TIMEOUT_MS: "10000"
+          FETCH_RETRIES: "1"
+          FETCH_RETRY_BASE_MS: "350"
           DOUBLE_CHECK_TIMEOUT_MS: "20000"
           DIRECT_PAGE_CONCURRENCY: "32"
           DOUBLE_CHECK_CONCURRENCY: "12"
+          STALE_AFTER_DAYS: "21"
 
       - name: Commit generated updates
         uses: stefanzweifel/git-auto-commit-action@v5

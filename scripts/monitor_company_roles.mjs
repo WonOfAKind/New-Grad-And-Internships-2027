@@ -20,10 +20,12 @@ const maxNewPerCompany = Number.parseInt(process.env.MAX_NEW_PER_COMPANY ?? "20"
 const startedAt = Date.now();
 const fetchTimeoutMs = Number.parseInt(process.env.FETCH_TIMEOUT_MS ?? "7000", 10);
 const fetchRetries = Number.parseInt(process.env.FETCH_RETRIES ?? "0", 10);
+const fetchRetryBaseMs = Number.parseInt(process.env.FETCH_RETRY_BASE_MS ?? "350", 10);
 const directPageConcurrency = Number.parseInt(process.env.DIRECT_PAGE_CONCURRENCY ?? "48", 10);
 const doubleCheckErrors = process.env.DOUBLE_CHECK_ERRORS !== "0";
 const doubleCheckTimeoutMs = Number.parseInt(process.env.DOUBLE_CHECK_TIMEOUT_MS ?? "15000", 10);
 const doubleCheckConcurrency = Number.parseInt(process.env.DOUBLE_CHECK_CONCURRENCY ?? "16", 10);
+const staleAfterDays = Number.parseInt(process.env.STALE_AFTER_DAYS ?? "21", 10);
 const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
 
 const titleRolePatterns = [
@@ -135,6 +137,10 @@ const atsCompanyNames = new Set();
 
 function normalize(value) {
   return String(value ?? "").trim();
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function keyFor(company, title, location, url = "") {
@@ -288,7 +294,9 @@ async function fetchWithRetries(url, accept, readBody, timeoutMs = fetchTimeoutM
         },
       });
       if (!response.ok) {
-        throw new Error(`${response.status} ${response.statusText}`);
+        const error = new Error(`${response.status} ${response.statusText}`);
+        error.retryable = response.status === 408 || response.status === 429 || response.status >= 500;
+        throw error;
       }
       const body = await readBody(response);
       clearTimeout(timeout);
@@ -296,6 +304,9 @@ async function fetchWithRetries(url, accept, readBody, timeoutMs = fetchTimeoutM
     } catch (error) {
       clearTimeout(timeout);
       lastError = error;
+      if (attempt >= fetchRetries || error.retryable === false) break;
+      const retryDelayMs = fetchRetryBaseMs * (2 ** attempt) + Math.floor(Math.random() * fetchRetryBaseMs);
+      await sleep(retryDelayMs);
     }
   }
   throw lastError;
@@ -848,15 +859,28 @@ function toPublicRole(lead, scannedAt) {
   };
 }
 
-function mergeRoles(existing, fresh, scannedAt) {
+function mergeRoles(existing, candidates, scannedAt) {
   const byKey = new Map();
   for (const role of existing.map((lead) => toPublicRole(lead, lead.last_seen || scannedAt))) {
     byKey.set(keyFor(role.company, role.title, role.location, role.url), role);
   }
-  for (const role of fresh.map((lead) => toPublicRole(lead, scannedAt))) {
-    byKey.set(keyFor(role.company, role.title, role.location, role.url), role);
+  for (const role of candidates.map((lead) => toPublicRole(lead, scannedAt))) {
+    const key = keyFor(role.company, role.title, role.location, role.url);
+    const existingRole = byKey.get(key);
+    byKey.set(key, {
+      ...existingRole,
+      ...role,
+      date_seen: existingRole?.date_seen || role.date_seen,
+      last_seen: scannedAt.slice(0, 10),
+    });
   }
   return [...byKey.values()].sort(compareRoles);
+}
+
+function isRecentlySeen(role, scannedAt) {
+  const lastSeenMs = Date.parse(role.last_seen || role.date_seen || "");
+  if (Number.isNaN(lastSeenMs)) return true;
+  return Date.parse(scannedAt) - lastSeenMs <= staleAfterDays * 24 * 60 * 60 * 1000;
 }
 
 function compareRoles(a, b) {
@@ -957,6 +981,7 @@ ${sections.join("\n")}
 
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
+- Roles not seen for ${staleAfterDays} days are automatically removed from the public board.
 - Generated files are updated by \`.github/workflows/monitor.yml\`.
 `;
 }
@@ -998,7 +1023,7 @@ if (includeDirectPageLeads) {
 }
 scanLog.push(...combinedDirectScan.scanned.map((item) => ({ ...item, adapter: "direct-page" })));
 
-const freshLeads = capByCompany(dedupeLeads(existingLeads, allCandidates)
+const boardEligibleCandidates = allCandidates
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
   .filter((lead) => lead.priority !== "P2")
@@ -1009,7 +1034,8 @@ const freshLeads = capByCompany(dedupeLeads(existingLeads, allCandidates)
     const gradDiff = (b.graduation_match === "2027 grad eligible" ? 1 : 0) - (a.graduation_match === "2027 grad eligible" ? 1 : 0);
     if (gradDiff !== 0) return gradDiff;
     return Date.parse(b.updated_at || "0") - Date.parse(a.updated_at || "0");
-  }), maxNewPerCompany);
+  });
+const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
 
 const scannedAt = new Date().toISOString();
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
@@ -1027,12 +1053,15 @@ const coverage = {
   error_sources: finalSourceStatuses.filter((entry) => entry.status === "error").length,
   blocked_sources: finalSourceStatuses.filter((entry) => entry.status === "blocked").length,
   error_breakdown: errorBreakdown(finalSourceStatuses),
+  board_eligible_candidates: boardEligibleCandidates.length,
+  stale_after_days: staleAfterDays,
   unattempted_companies: targets
     .filter((target) => !scanLog.some((entry) => entry.company === target.company))
     .map((target) => target.company),
 };
 const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt));
-const updatedLeads = mergeRoles(existingLeads, freshLeads, scannedAt);
+const updatedLeads = mergeRoles(existingLeads, boardEligibleCandidates, scannedAt)
+  .filter((role) => isRecentlySeen(role, scannedAt));
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(csvOutputPath, rolesToCsv(updatedLeads), "utf8");
 await fs.writeFile(scanOutputPath, `${JSON.stringify({ scanned_at: scannedAt, fresh_leads: publicFreshLeads, scan_log: scanLog, coverage }, null, 2)}\n`, "utf8");
