@@ -1,0 +1,44 @@
+name: Monitor roles
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: role-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check monitor syntax
+        run: npm run check
+
+      - name: Run monitor
+        run: npm run monitor
+        env:
+          FETCH_TIMEOUT_MS: "10000"
+          DOUBLE_CHECK_TIMEOUT_MS: "20000"
+          DIRECT_PAGE_CONCURRENCY: "32"
+          DOUBLE_CHECK_CONCURRENCY: "12"
+
+      - name: Commit generated updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 2027 role board"
+          file_pattern: "README.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json"

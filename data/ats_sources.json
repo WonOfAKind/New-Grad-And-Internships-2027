@@ -1,0 +1,257 @@
+[
+  {
+    "company": "SpaceX",
+    "adapter": "greenhouse",
+    "board": "spacex",
+    "priority": "P0"
+  },
+  {
+    "company": "Roblox",
+    "adapter": "greenhouse",
+    "board": "roblox",
+    "priority": "P0"
+  },
+  {
+    "company": "Databricks",
+    "adapter": "greenhouse",
+    "board": "databricks",
+    "priority": "P0"
+  },
+  {
+    "company": "Stripe",
+    "adapter": "greenhouse",
+    "board": "stripe",
+    "priority": "P0"
+  },
+  {
+    "company": "Scale AI",
+    "adapter": "greenhouse",
+    "board": "scaleai",
+    "priority": "P1"
+  },
+  {
+    "company": "Anduril",
+    "adapter": "greenhouse",
+    "board": "andurilindustries",
+    "priority": "P1"
+  },
+  {
+    "company": "Palantir",
+    "adapter": "lever",
+    "site": "palantir",
+    "timeoutMs": 30000,
+    "doubleCheckTimeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
+    "company": "Robinhood",
+    "adapter": "greenhouse",
+    "board": "robinhood",
+    "priority": "P0"
+  },
+  {
+    "company": "Bloomberg",
+    "adapter": "avature",
+    "baseUrl": "https://bloomberg.avature.net",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P0"
+  },
+  {
+    "company": "OpenAI",
+    "adapter": "ashby",
+    "board": "openai",
+    "priority": "P1"
+  },
+  {
+    "company": "Perplexity",
+    "adapter": "ashby",
+    "board": "perplexity",
+    "priority": "P1"
+  },
+  {
+    "company": "Persona",
+    "adapter": "ashby",
+    "board": "persona",
+    "priority": "P1"
+  },
+  {
+    "company": "Anysphere",
+    "adapter": "ashby",
+    "board": "cursor",
+    "priority": "P1"
+  },
+  {
+    "company": "Physical Intelligence",
+    "adapter": "ashby",
+    "board": "physicalintelligence",
+    "priority": "P1"
+  },
+  {
+    "company": "Elastic",
+    "adapter": "greenhouse",
+    "board": "elastic",
+    "priority": "P1"
+  },
+  {
+    "company": "Chime",
+    "adapter": "greenhouse",
+    "board": "chime",
+    "priority": "P1"
+  },
+  {
+    "company": "Confluent",
+    "adapter": "ashby",
+    "board": "confluent",
+    "priority": "P1"
+  },
+  {
+    "company": "DoorDash",
+    "adapter": "greenhouse",
+    "board": "doordashusa",
+    "priority": "P1"
+  },
+  {
+    "company": "Epic Games",
+    "adapter": "greenhouse",
+    "board": "epicgames",
+    "priority": "P1"
+  },
+  {
+    "company": "Box",
+    "adapter": "greenhouse",
+    "board": "boxinc",
+    "priority": "P1"
+  },
+  {
+    "company": "Labelbox",
+    "adapter": "greenhouse",
+    "board": "labelbox",
+    "priority": "P1"
+  },
+  {
+    "company": "IMC Trading",
+    "adapter": "greenhouse",
+    "board": "imc",
+    "priority": "P0"
+  },
+  {
+    "company": "Toast",
+    "adapter": "greenhouse",
+    "board": "toast",
+    "priority": "P1"
+  },
+  {
+    "company": "Tripadvisor",
+    "adapter": "greenhouse",
+    "board": "tripadvisor",
+    "priority": "P2"
+  },
+  {
+    "company": "Udemy",
+    "adapter": "greenhouse",
+    "board": "udemy",
+    "priority": "P1"
+  },
+  {
+    "company": "Point72",
+    "adapter": "greenhouse",
+    "board": "point72",
+    "priority": "P1"
+  },
+  {
+    "company": "Maven Securities",
+    "adapter": "ashby",
+    "board": "maven",
+    "priority": "P1"
+  },
+  {
+    "company": "World Labs",
+    "adapter": "greenhouse",
+    "board": "worldlabs",
+    "priority": "P1"
+  },
+  {
+    "company": "Zscaler",
+    "adapter": "greenhouse",
+    "board": "zscaler",
+    "priority": "P1"
+  },
+  {
+    "company": "Instacart",
+    "adapter": "greenhouse",
+    "board": "instacart",
+    "priority": "P1"
+  },
+  {
+    "company": "Saronic",
+    "adapter": "ashby",
+    "board": "saronic",
+    "priority": "P1"
+  },
+  {
+    "company": "BlackRock",
+    "adapter": "workday",
+    "host": "blackrock.wd1.myworkdayjobs.com",
+    "tenant": "blackrock",
+    "site": "BlackRock_Professional",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P1"
+  },
+  {
+    "company": "Blue Origin",
+    "adapter": "workday",
+    "host": "blueorigin.wd5.myworkdayjobs.com",
+    "tenant": "blueorigin",
+    "site": "BlueOrigin",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P2"
+  },
+  {
+    "company": "Visa",
+    "adapter": "workday",
+    "host": "visa.wd5.myworkdayjobs.com",
+    "tenant": "visa",
+    "site": "Visa",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P1"
+  },
+  {
+    "company": "Leidos",
+    "adapter": "workday",
+    "host": "leidos.wd5.myworkdayjobs.com",
+    "tenant": "leidos",
+    "site": "External",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P1"
+  },
+  {
+    "company": "RTX",
+    "adapter": "phenom",
+    "baseUrl": "https://careers.rtx.com",
+    "referer": "https://careers.rtx.com/global/en/search-results",
+    "searchText": "software engineer",
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "AT&T",
+    "adapter": "workday",
+    "host": "att.wd1.myworkdayjobs.com",
+    "tenant": "att",
+    "site": "ATTGeneral",
+    "searchText": "software engineer",
+    "limit": 20,
+    "priority": "P1"
+  },
+  {
+    "company": "Jane Street",
+    "adapter": "greenhouse",
+    "board": "janestreet",
+    "priority": "P0"
+  }
+]

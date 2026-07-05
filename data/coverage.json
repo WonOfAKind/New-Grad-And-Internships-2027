@@ -1,0 +1,23 @@
+{
+  "scanned_at": "2026-07-05T21:05:03.154Z",
+  "elapsed_ms": 47195,
+  "companies_in_target_list": 337,
+  "ats_sources_configured": 38,
+  "direct_sources_attempted": 300,
+  "double_check_enabled": true,
+  "double_check_attempts": 63,
+  "unique_sources_attempted": 338,
+  "total_fetch_attempts": 401,
+  "ok_sources": 312,
+  "error_sources": 26,
+  "blocked_sources": 0,
+  "error_breakdown": {
+    "403 Forbidden": 11,
+    "fetch failed": 1,
+    "429 Too Many Requests": 2,
+    "404 Not Found": 10,
+    "404 NOT FOUND": 1,
+    "This operation was aborted": 1
+  },
+  "unattempted_companies": []
+}

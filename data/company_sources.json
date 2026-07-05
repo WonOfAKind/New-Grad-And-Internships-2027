@@ -1,0 +1,3372 @@
+[
+  {
+    "company": "Google",
+    "bucket": "Big Tech",
+    "priority": "P0",
+    "career_url": "https://www.google.com/about/careers/applications/jobs/results/",
+    "role_families": "SWE, AI/ML, ML Platform",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "early career; university graduate; software engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Meta",
+    "bucket": "Big Tech",
+    "priority": "P0",
+    "career_url": "https://www.metacareers.com/jobs/",
+    "role_families": "SWE, ML, Production Engineering",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "university grad; software engineer; machine learning; production engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Amazon",
+    "bucket": "Big Tech",
+    "priority": "P0",
+    "career_url": "https://www.amazon.jobs/en/search",
+    "role_families": "SDE, ML, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software development engineer new grad; university talent; SDE I",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Microsoft",
+    "bucket": "Big Tech",
+    "priority": "P0",
+    "career_url": "https://jobs.careers.microsoft.com/global/en/search",
+    "role_families": "SWE, AI Platform, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; recent graduate; university; Aspire",
+    "source_type": "Recent graduate page plus jobs search"
+  },
+  {
+    "company": "Apple",
+    "bucket": "Big Tech",
+    "priority": "P0",
+    "career_url": "https://jobs.apple.com/en-us/search",
+    "role_families": "SWE, ML, Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; new grad; early career",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "NVIDIA",
+    "bucket": "AI Infra",
+    "priority": "P0",
+    "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "role_families": "AI/ML, Systems, GPU, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "new college grad; software engineer; machine learning; deep learning",
+    "source_type": "Workday"
+  },
+  {
+    "company": "Netflix",
+    "bucket": "Big Tech",
+    "priority": "P1",
+    "career_url": "https://explore.jobs.netflix.net/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Adobe",
+    "bucket": "Product/Creative",
+    "priority": "P1",
+    "career_url": "https://careers.adobe.com/us/en/search-results",
+    "role_families": "SWE, ML, Product",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "university graduate; software engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Salesforce",
+    "bucket": "SaaS",
+    "priority": "P1",
+    "career_url": "https://careers.salesforce.com/en/jobs/",
+    "role_families": "SWE, AI, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; software engineer; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Oracle",
+    "bucket": "Cloud/Data",
+    "priority": "P1",
+    "career_url": "https://careers.oracle.com/jobs/",
+    "role_families": "SWE, Cloud, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; college graduate; cloud; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "IBM",
+    "bucket": "Enterprise AI",
+    "priority": "P1",
+    "career_url": "https://www.ibm.com/careers/search",
+    "role_families": "SWE, AI, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "entry level; software developer; AI engineer; data scientist",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "ServiceNow",
+    "bucket": "SaaS/AI",
+    "priority": "P1",
+    "career_url": "https://careers.servicenow.com/jobs/",
+    "role_families": "SWE, AI Platform",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "university; software engineer; AI; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Intuit",
+    "bucket": "Fintech/SaaS",
+    "priority": "P1",
+    "career_url": "https://jobs.intuit.com/search-jobs",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Bloomberg",
+    "bucket": "Data/Finance",
+    "priority": "P0",
+    "career_url": "https://careers.bloomberg.com/job/search",
+    "role_families": "SWE, Data, ML, Financial Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; entry level; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Uber",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://www.uber.com/us/en/careers/list/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "university; software engineer; machine learning; data engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Airbnb",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://careers.airbnb.com/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "DoorDash",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://careers.doordash.com/jobs/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lyft",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://www.lyft.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Pinterest",
+    "bucket": "Consumer",
+    "priority": "P1",
+    "career_url": "https://www.pinterestcareers.com/jobs/",
+    "role_families": "SWE, ML, Recommender Systems",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; university grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Snap",
+    "bucket": "Consumer/AR",
+    "priority": "P1",
+    "career_url": "https://www.snap.com/en-US/jobs",
+    "role_families": "SWE, ML, AR",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Roblox",
+    "bucket": "Gaming/Infra",
+    "priority": "P0",
+    "career_url": "https://careers.roblox.com/jobs",
+    "role_families": "SWE, ML, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; software engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Reddit",
+    "bucket": "Consumer",
+    "priority": "P1",
+    "career_url": "https://www.redditinc.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Discord",
+    "bucket": "Consumer",
+    "priority": "P1",
+    "career_url": "https://discord.com/jobs",
+    "role_families": "SWE, ML, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "TikTok",
+    "bucket": "Consumer/AI",
+    "priority": "P1",
+    "career_url": "https://careers.tiktok.com/search",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "new grad; software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Spotify",
+    "bucket": "Consumer/Audio",
+    "priority": "P1",
+    "career_url": "https://www.lifeatspotify.com/jobs",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Shopify",
+    "bucket": "Commerce",
+    "priority": "P1",
+    "career_url": "https://www.shopify.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; software engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Atlassian",
+    "bucket": "Dev Tools/SaaS",
+    "priority": "P1",
+    "career_url": "https://www.atlassian.com/company/careers/all-jobs",
+    "role_families": "SWE, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate; software engineer; backend; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Dropbox",
+    "bucket": "Productivity",
+    "priority": "P1",
+    "career_url": "https://jobs.dropbox.com/all-jobs",
+    "role_families": "SWE, Infra, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zoom",
+    "bucket": "Productivity",
+    "priority": "P1",
+    "career_url": "https://careers.zoom.us/jobs/search",
+    "role_families": "SWE, AI, Realtime Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "GitHub",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.github.careers/careers-home/jobs",
+    "role_families": "SWE, Platform, AI Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; copilot; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "GitLab",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://about.gitlab.com/jobs/all-jobs/",
+    "role_families": "SWE, Platform, DevOps",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Figma",
+    "bucket": "Design/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.figma.com/careers/",
+    "role_families": "SWE, Product, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; product engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Notion",
+    "bucket": "Productivity/AI",
+    "priority": "P1",
+    "career_url": "https://www.notion.com/careers",
+    "role_families": "SWE, AI Product",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Airtable",
+    "bucket": "Productivity",
+    "priority": "P1",
+    "career_url": "https://www.airtable.com/careers",
+    "role_families": "SWE, Product, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Asana",
+    "bucket": "Productivity",
+    "priority": "P1",
+    "career_url": "https://asana.com/jobs",
+    "role_families": "SWE, Product, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "monday.com",
+    "bucket": "Productivity",
+    "priority": "P2",
+    "career_url": "https://monday.com/careers",
+    "role_families": "SWE, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Twilio",
+    "bucket": "Cloud Communications",
+    "priority": "P1",
+    "career_url": "https://www.twilio.com/en-us/company/jobs",
+    "role_families": "SWE, Infra, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; backend",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Block",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://careers.block.xyz/us/en/search-results",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Stripe",
+    "bucket": "Fintech",
+    "priority": "P0",
+    "career_url": "https://stripe.com/jobs/search",
+    "role_families": "SWE, Infra, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; software engineer; backend; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Plaid",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://plaid.com/careers/openings/",
+    "role_families": "SWE, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Affirm",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.affirm.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Chime",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://careers.chime.com/jobs/",
+    "role_families": "SWE, Data, Risk ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Ramp",
+    "bucket": "Fintech",
+    "priority": "P0",
+    "career_url": "https://ramp.com/careers",
+    "role_families": "SWE, AI, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Robinhood",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://careers.robinhood.com/openings/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Capital One",
+    "bucket": "Fintech/Bank",
+    "priority": "P1",
+    "career_url": "https://www.capitalonecareers.com/search-jobs",
+    "role_families": "SWE, Data, TDP",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology development program; software engineer; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer program; full-time analyst",
+    "source_type": "Student program page"
+  },
+  {
+    "company": "Goldman Sachs",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/americas/new-analyst-program",
+    "role_families": "Engineering, Quant, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new analyst; engineering; software",
+    "source_type": "Student program page"
+  },
+  {
+    "company": "Datadog",
+    "bucket": "Cloud/Observability",
+    "priority": "P0",
+    "career_url": "https://careers.datadoghq.com/all-jobs/",
+    "role_families": "SWE, Infra, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Snowflake",
+    "bucket": "Data/Cloud",
+    "priority": "P0",
+    "career_url": "https://careers.snowflake.com/us/en/search-results",
+    "role_families": "SWE, Data Platform, ML Platform",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; university graduate; data; ML",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Databricks",
+    "bucket": "Data/AI",
+    "priority": "P0",
+    "career_url": "https://www.databricks.com/company/careers/open-positions",
+    "role_families": "SWE, ML Platform, Data Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "new grad; software engineer; data platform; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Confluent",
+    "bucket": "Data Streaming",
+    "priority": "P1",
+    "career_url": "https://careers.confluent.io/jobs",
+    "role_families": "SWE, Data Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Elastic",
+    "bucket": "Search/Data",
+    "priority": "P1",
+    "career_url": "https://www.elastic.co/careers/jobs",
+    "role_families": "SWE, Search, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; search; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "MongoDB",
+    "bucket": "Database",
+    "priority": "P1",
+    "career_url": "https://www.mongodb.com/careers/jobs",
+    "role_families": "SWE, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; database",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Redis",
+    "bucket": "Database",
+    "priority": "P2",
+    "career_url": "https://redis.io/careers/",
+    "role_families": "SWE, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; database",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cockroach Labs",
+    "bucket": "Database",
+    "priority": "P1",
+    "career_url": "https://www.cockroachlabs.com/careers/",
+    "role_families": "SWE, Distributed Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; database",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SingleStore",
+    "bucket": "Database/AI",
+    "priority": "P1",
+    "career_url": "https://www.singlestore.com/careers/jobs/",
+    "role_families": "SWE, Data, ML Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; database; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cloudflare",
+    "bucket": "Cloud/Infra",
+    "priority": "P0",
+    "career_url": "https://www.cloudflare.com/careers/jobs/",
+    "role_families": "SWE, Systems, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; software engineer; systems; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Fastly",
+    "bucket": "Cloud/Infra",
+    "priority": "P1",
+    "career_url": "https://www.fastly.com/about/careers/current-openings",
+    "role_families": "SWE, Systems, Networking",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; systems; network",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Vercel",
+    "bucket": "Dev Tools/Cloud",
+    "priority": "P1",
+    "career_url": "https://vercel.com/careers",
+    "role_families": "SWE, Infra, AI Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; AI; frontend; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Netlify",
+    "bucket": "Dev Tools/Cloud",
+    "priority": "P2",
+    "career_url": "https://www.netlify.com/careers/",
+    "role_families": "SWE, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "HashiCorp",
+    "bucket": "Cloud/Infra",
+    "priority": "P1",
+    "career_url": "https://www.hashicorp.com/careers/open-positions",
+    "role_families": "SWE, Infra, DevOps",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Okta",
+    "bucket": "Identity/Security",
+    "priority": "P1",
+    "career_url": "https://www.okta.com/company/careers/",
+    "role_families": "SWE, Security, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "CrowdStrike",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.crowdstrike.com/en-us/careers/",
+    "role_families": "SWE, Security, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Palo Alto Networks",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://jobs.paloaltonetworks.com/en/jobs/",
+    "role_families": "SWE, Security, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; security; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zscaler",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.zscaler.com/careers/search-jobs",
+    "role_families": "SWE, Security, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Wiz",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.wiz.io/careers",
+    "role_families": "SWE, Security, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cloud security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Snyk",
+    "bucket": "Security/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://snyk.io/careers/",
+    "role_families": "SWE, Security, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "OpenAI",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://openai.com/careers/search",
+    "role_families": "AI Engineer, SWE, ML Systems",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; applied AI; ML systems; early career",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Anthropic",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://www.anthropic.com/careers/jobs",
+    "role_families": "Research Eng, ML Systems, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning systems; research engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "xAI",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://x.ai/careers",
+    "role_families": "SWE, ML Systems, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; ML; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cohere",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://cohere.com/careers",
+    "role_families": "AI Engineer, ML, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "machine learning; software engineer; applied AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Perplexity",
+    "bucket": "AI Product",
+    "priority": "P1",
+    "career_url": "https://www.perplexity.ai/hub/careers",
+    "role_families": "SWE, AI Product, Search",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; search",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hugging Face",
+    "bucket": "AI Platform",
+    "priority": "P1",
+    "career_url": "https://huggingface.co/jobs",
+    "role_families": "ML Platform, SWE, DevRel Eng",
+    "default_resume": "AI/ML",
+    "monitor_queries": "machine learning engineer; software engineer; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Runway",
+    "bucket": "AI Creative",
+    "priority": "P1",
+    "career_url": "https://runwayml.com/careers/",
+    "role_families": "ML, Product SWE, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; applied AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "ElevenLabs",
+    "bucket": "AI Audio",
+    "priority": "P1",
+    "career_url": "https://elevenlabs.io/careers",
+    "role_families": "SWE, ML, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; audio",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Harvey",
+    "bucket": "Legal AI",
+    "priority": "P1",
+    "career_url": "https://www.harvey.ai/careers",
+    "role_families": "SWE, AI Product, ML",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Glean",
+    "bucket": "Enterprise AI",
+    "priority": "P1",
+    "career_url": "https://www.glean.com/careers",
+    "role_families": "SWE, Search, AI",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; search; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Scale AI",
+    "bucket": "AI/Data",
+    "priority": "P1",
+    "career_url": "https://www.scale.com/careers",
+    "role_families": "SWE, AI, ML Platform, FDE",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; forward deployed",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Character.AI",
+    "bucket": "AI Product",
+    "priority": "P1",
+    "career_url": "https://character.ai/careers",
+    "role_families": "SWE, ML, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Anysphere",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://anysphere.co/careers",
+    "role_families": "SWE, AI Product, Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Sierra",
+    "bucket": "Enterprise AI",
+    "priority": "P1",
+    "career_url": "https://sierra.ai/careers",
+    "role_families": "SWE, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Weights & Biases",
+    "bucket": "AI Platform",
+    "priority": "P1",
+    "career_url": "https://wandb.ai/careers",
+    "role_families": "ML Platform, SWE, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "LangChain",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.langchain.com/careers",
+    "role_families": "SWE, AI Platform",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Pinecone",
+    "bucket": "Vector DB",
+    "priority": "P1",
+    "career_url": "https://www.pinecone.io/careers/",
+    "role_families": "SWE, Data, ML Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; vector database; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Modal",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://modal.com/careers",
+    "role_families": "SWE, Infra, ML Platform",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; infrastructure; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "CoreWeave",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://www.coreweave.com/careers",
+    "role_families": "SWE, Cloud, GPU Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; cloud; GPU; ML",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lambda",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://lambdalabs.com/careers",
+    "role_families": "SWE, ML Infra, Cloud",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Together AI",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://www.together.ai/careers",
+    "role_families": "SWE, ML Systems, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; inference",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Fireworks AI",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://fireworks.ai/careers",
+    "role_families": "SWE, ML Systems, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; inference",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cerebras",
+    "bucket": "AI Hardware/Systems",
+    "priority": "P1",
+    "career_url": "https://www.cerebras.ai/careers",
+    "role_families": "SWE, ML Systems, Hardware",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; compiler",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Groq",
+    "bucket": "AI Hardware/Systems",
+    "priority": "P1",
+    "career_url": "https://groq.com/careers/",
+    "role_families": "SWE, ML Systems, Compiler",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; compiler; ML systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SambaNova",
+    "bucket": "AI Systems",
+    "priority": "P2",
+    "career_url": "https://sambanova.ai/careers",
+    "role_families": "SWE, ML Systems",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Palantir",
+    "bucket": "FDE/Data",
+    "priority": "P0",
+    "career_url": "https://www.palantir.com/careers/open-positions/",
+    "role_families": "SWE, FDSE, FDE, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; forward deployed software engineer; software engineer",
+    "source_type": "Students and early talent page"
+  },
+  {
+    "company": "Anduril",
+    "bucket": "Defense/AI",
+    "priority": "P1",
+    "career_url": "https://www.anduril.com/careers/",
+    "role_families": "SWE, Robotics, AI, Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; autonomy; perception",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Applied Intuition",
+    "bucket": "Autonomy",
+    "priority": "P1",
+    "career_url": "https://www.appliedintuition.com/careers",
+    "role_families": "SWE, Autonomy, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; autonomy; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Samsara",
+    "bucket": "IoT/AI",
+    "priority": "P1",
+    "career_url": "https://www.samsara.com/company/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Verkada",
+    "bucket": "Security/AI",
+    "priority": "P1",
+    "career_url": "https://www.verkada.com/careers/",
+    "role_families": "SWE, CV, Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; computer vision; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "C3 AI",
+    "bucket": "Enterprise AI",
+    "priority": "P1",
+    "career_url": "https://c3.ai/careers/",
+    "role_families": "SWE, AI Engineer, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI engineer; data scientist",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Shield AI",
+    "bucket": "Defense/AI",
+    "priority": "P1",
+    "career_url": "https://shield.ai/careers/",
+    "role_families": "SWE, Autonomy, ML",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; autonomy; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SpaceX",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://www.spacex.com/careers/jobs/",
+    "role_families": "SWE, Systems, Flight Software",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; flight software",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Blue Origin",
+    "bucket": "Aerospace",
+    "priority": "P2",
+    "career_url": "https://www.blueorigin.com/careers/search",
+    "role_families": "SWE, Systems, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; entry level; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Jane Street",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.janestreet.com/join-jane-street/open-roles/",
+    "role_families": "SWE, Quant Dev, Trading Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; quantitative developer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hudson River Trading",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.hudsonrivertrading.com/careers/",
+    "role_families": "SWE, C++, Python, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; C++; Python",
+    "source_type": "Student opportunities"
+  },
+  {
+    "company": "Two Sigma",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.twosigma.com/careers/",
+    "role_families": "SWE, Quant, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; quantitative; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Citadel",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.citadel.com/careers/open-opportunities/",
+    "role_families": "SWE, Quant Dev, UI, SRE",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new graduate; quantitative developer",
+    "source_type": "Engineering and student pages"
+  },
+  {
+    "company": "Citadel Securities",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.citadelsecurities.com/careers/open-opportunities/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new graduate; quantitative developer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Optiver",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://optiver.com/working-at-optiver/career-opportunities/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate software engineer; software developer; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "IMC Trading",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.imc.com/us/careers/jobs/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate software engineer; software engineer; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "DRW",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://drw.com/work-at-drw/listings/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; new grad; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Jump Trading",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.jumptrading.com/careers/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; campus; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SIG",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://careers.sig.com/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; new grad; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Akuna Capital",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://akunacapital.com/careers/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "junior developer; software engineer; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Five Rings",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://fiverings.com/careers/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; campus; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tower Research",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.tower-research.com/open-positions/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; entry level; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Radix Trading",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://radixtrading.co/careers/",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; quant; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Aquatic Capital",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.aquatic.com/careers",
+    "role_families": "SWE, Quant, Research",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; researcher; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SIGMA Computing",
+    "bucket": "Data/Analytics",
+    "priority": "P1",
+    "career_url": "https://www.sigmacomputing.com/company/careers",
+    "role_families": "SWE New Grad, AI/ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer new grad; AI/ML engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rippling",
+    "bucket": "SaaS",
+    "priority": "P1",
+    "career_url": "https://www.rippling.com/careers",
+    "role_families": "SWE, Product, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Brex",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.brex.com/careers",
+    "role_families": "SWE, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; backend",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Mercury",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://mercury.com/jobs",
+    "role_families": "SWE, Product, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Faire",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://www.faire.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Instabase",
+    "bucket": "Enterprise AI",
+    "priority": "P1",
+    "career_url": "https://www.instabase.com/careers",
+    "role_families": "SWE, AI Product, ML",
+    "default_resume": "AI/ML",
+    "monitor_queries": "new grad; software engineer; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Benchling",
+    "bucket": "Bio/Cloud",
+    "priority": "P1",
+    "career_url": "https://www.benchling.com/careers",
+    "role_families": "SWE, Data, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Vanta",
+    "bucket": "Security/SaaS",
+    "priority": "P1",
+    "career_url": "https://www.vanta.com/careers",
+    "role_families": "SWE, Security, Product",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Linear",
+    "bucket": "Productivity/Dev Tools",
+    "priority": "P2",
+    "career_url": "https://linear.app/careers",
+    "role_families": "SWE, Product",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; product engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Replit",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://replit.com/careers",
+    "role_families": "SWE, AI Product, Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "AMD",
+    "bucket": "Hardware/AI Systems",
+    "priority": "P1",
+    "career_url": "https://careers.amd.com/careers-home/jobs",
+    "role_families": "SWE, ML Systems, Compiler, GPU",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; machine learning; compiler; GPU",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Intel",
+    "bucket": "Hardware/AI Systems",
+    "priority": "P1",
+    "career_url": "https://jobs.intel.com/en/search-jobs",
+    "role_families": "SWE, Systems, AI, Compiler",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "college graduate; software engineer; AI; compiler",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Qualcomm",
+    "bucket": "Hardware/AI Systems",
+    "priority": "P1",
+    "career_url": "https://careers.qualcomm.com/careers",
+    "role_families": "SWE, ML, Embedded, Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new college graduate; software engineer; machine learning; embedded",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Broadcom",
+    "bucket": "Hardware/Infra",
+    "priority": "P1",
+    "career_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+    "role_families": "SWE, Systems, Networking",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; systems; networking",
+    "source_type": "Workday"
+  },
+  {
+    "company": "Arm",
+    "bucket": "Hardware/Systems",
+    "priority": "P1",
+    "career_url": "https://careers.arm.com/",
+    "role_families": "SWE, Compiler, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate software engineer; compiler; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Marvell",
+    "bucket": "Hardware/Networking",
+    "priority": "P1",
+    "career_url": "https://www.marvell.com/company/careers.html",
+    "role_families": "SWE, Systems, Networking",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new college graduate; software engineer; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Micron",
+    "bucket": "Hardware/Data",
+    "priority": "P1",
+    "career_url": "https://careers.micron.com/careers",
+    "role_families": "SWE, Data, ML, Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new college graduate; software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Samsung Semiconductor",
+    "bucket": "Hardware/AI Systems",
+    "priority": "P1",
+    "career_url": "https://semiconductor.samsung.com/us/careers/",
+    "role_families": "SWE, ML, Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; new grad; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Texas Instruments",
+    "bucket": "Hardware/Embedded",
+    "priority": "P1",
+    "career_url": "https://careers.ti.com/",
+    "role_families": "SWE, Embedded, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new college graduate; software engineer; embedded",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "ASML",
+    "bucket": "Semiconductor",
+    "priority": "P1",
+    "career_url": "https://www.asml.com/en/careers/find-your-job",
+    "role_families": "SWE, Systems, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; computer science; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tesla",
+    "bucket": "Autonomy/EV",
+    "priority": "P0",
+    "career_url": "https://www.tesla.com/careers/search",
+    "role_families": "SWE, Autopilot, AI, Infra",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; autopilot; machine learning; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Waymo",
+    "bucket": "Autonomy",
+    "priority": "P0",
+    "career_url": "https://waymo.com/careers/",
+    "role_families": "SWE, ML, Autonomy, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; perception; autonomy",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zoox",
+    "bucket": "Autonomy",
+    "priority": "P1",
+    "career_url": "https://zoox.com/careers/",
+    "role_families": "SWE, ML, Robotics, Simulation",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; autonomy; simulation",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Aurora",
+    "bucket": "Autonomy",
+    "priority": "P1",
+    "career_url": "https://aurora.tech/careers",
+    "role_families": "SWE, ML, Autonomy",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; autonomous vehicles",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Nuro",
+    "bucket": "Autonomy",
+    "priority": "P1",
+    "career_url": "https://www.nuro.ai/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Motional",
+    "bucket": "Autonomy",
+    "priority": "P2",
+    "career_url": "https://motional.com/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; autonomy",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Toyota Research Institute",
+    "bucket": "Autonomy/Robotics",
+    "priority": "P1",
+    "career_url": "https://www.tri.global/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Boston Dynamics",
+    "bucket": "Robotics",
+    "priority": "P1",
+    "career_url": "https://bostondynamics.com/careers/",
+    "role_families": "SWE, Robotics, Controls, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; robotics; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Figure AI",
+    "bucket": "Robotics/AI",
+    "priority": "P1",
+    "career_url": "https://www.figure.ai/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics; humanoid",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Skild AI",
+    "bucket": "Robotics/AI",
+    "priority": "P1",
+    "career_url": "https://www.skild.ai/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Physical Intelligence",
+    "bucket": "Robotics/AI",
+    "priority": "P1",
+    "career_url": "https://www.physicalintelligence.company/careers",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Covariant",
+    "bucket": "Robotics/AI",
+    "priority": "P1",
+    "career_url": "https://covariant.ai/careers/",
+    "role_families": "SWE, ML, Robotics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Agility Robotics",
+    "bucket": "Robotics",
+    "priority": "P1",
+    "career_url": "https://agilityrobotics.com/careers",
+    "role_families": "SWE, Robotics, Controls",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; robotics; autonomy",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Walmart Global Tech",
+    "bucket": "Retail Tech",
+    "priority": "P0",
+    "career_url": "https://careers.walmart.com/technology/software-development-and-engineering",
+    "role_families": "SWE, AI/ML, Data, Cloud",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; new grad; AI/ML; data; cloud",
+    "source_type": "Technology careers page"
+  },
+  {
+    "company": "Target Tech",
+    "bucket": "Retail Tech",
+    "priority": "P1",
+    "career_url": "https://corporate.target.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; technology development program; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Home Depot Technology",
+    "bucket": "Retail Tech",
+    "priority": "P1",
+    "career_url": "https://careers.homedepot.com/job-search-results/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; technology; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lowe's Technology",
+    "bucket": "Retail Tech",
+    "priority": "P1",
+    "career_url": "https://talent.lowes.com/us/en/search-results",
+    "role_families": "SWE, Data, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; technology; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Wayfair",
+    "bucket": "Ecommerce",
+    "priority": "P1",
+    "career_url": "https://www.wayfair.com/careers/jobs",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Chewy",
+    "bucket": "Ecommerce",
+    "priority": "P1",
+    "career_url": "https://careers.chewy.com/us/en/search-results",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Instacart",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://www.instacart.com/company/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Etsy",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://www.etsy.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "eBay",
+    "bucket": "Marketplace",
+    "priority": "P1",
+    "career_url": "https://jobs.ebayinc.com/us/en/search-results",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "university graduate; software engineer; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zillow",
+    "bucket": "Marketplace/PropTech",
+    "priority": "P1",
+    "career_url": "https://www.zillow.com/careers/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Opendoor",
+    "bucket": "PropTech",
+    "priority": "P2",
+    "career_url": "https://www.opendoor.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Yelp",
+    "bucket": "Consumer/Local",
+    "priority": "P1",
+    "career_url": "https://www.yelp.careers/us/en",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Expedia Group",
+    "bucket": "Travel Tech",
+    "priority": "P1",
+    "career_url": "https://careers.expediagroup.com/jobs/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tripadvisor",
+    "bucket": "Travel Tech",
+    "priority": "P2",
+    "career_url": "https://careers.tripadvisor.com/jobs/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hopper",
+    "bucket": "Travel/Fintech",
+    "priority": "P1",
+    "career_url": "https://www.hopper.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Duolingo",
+    "bucket": "EdTech/AI",
+    "priority": "P1",
+    "career_url": "https://careers.duolingo.com/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Coursera",
+    "bucket": "EdTech",
+    "priority": "P1",
+    "career_url": "https://about.coursera.org/careers/jobs",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Khan Academy",
+    "bucket": "EdTech/AI",
+    "priority": "P1",
+    "career_url": "https://www.khanacademy.org/careers",
+    "role_families": "SWE, AI, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Quizlet",
+    "bucket": "EdTech/AI",
+    "priority": "P1",
+    "career_url": "https://quizlet.com/jobs",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Udemy",
+    "bucket": "EdTech",
+    "priority": "P2",
+    "career_url": "https://about.udemy.com/careers/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Grammarly",
+    "bucket": "AI/Productivity",
+    "priority": "P1",
+    "career_url": "https://www.grammarly.com/jobs",
+    "role_families": "SWE, NLP, ML, Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; NLP; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Canva",
+    "bucket": "Design/Productivity",
+    "priority": "P1",
+    "career_url": "https://www.lifeatcanva.com/en/jobs/",
+    "role_families": "SWE, ML, Product",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "graduate software engineer; machine learning; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Miro",
+    "bucket": "Productivity",
+    "priority": "P1",
+    "career_url": "https://miro.com/careers/open-positions/",
+    "role_families": "SWE, Product, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; product; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Coda",
+    "bucket": "Productivity",
+    "priority": "P2",
+    "career_url": "https://coda.io/careers",
+    "role_families": "SWE, Product, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; product; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Quora",
+    "bucket": "Consumer/AI",
+    "priority": "P1",
+    "career_url": "https://www.quora.com/careers",
+    "role_families": "SWE, ML, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Twitch",
+    "bucket": "Consumer/Video",
+    "priority": "P1",
+    "career_url": "https://www.twitch.tv/jobs/en/",
+    "role_families": "SWE, Video, ML, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; machine learning; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Riot Games",
+    "bucket": "Gaming",
+    "priority": "P1",
+    "career_url": "https://www.riotgames.com/en/work-with-us/jobs",
+    "role_families": "SWE, Data, Game Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Epic Games",
+    "bucket": "Gaming/3D",
+    "priority": "P1",
+    "career_url": "https://www.epicgames.com/site/en-US/careers/jobs",
+    "role_families": "SWE, Engine, Backend, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Unity",
+    "bucket": "Gaming/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://unity.com/careers/positions",
+    "role_families": "SWE, Engine, Tools, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; machine learning; tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Niantic",
+    "bucket": "Gaming/AR",
+    "priority": "P2",
+    "career_url": "https://nianticlabs.com/careers/openings",
+    "role_families": "SWE, AR, ML, Maps",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; AR",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Electronic Arts",
+    "bucket": "Gaming",
+    "priority": "P1",
+    "career_url": "https://www.ea.com/careers/careers-overview/worldwide-studios",
+    "role_families": "SWE, Data, Game Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; university graduate",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SAP",
+    "bucket": "Enterprise Software",
+    "priority": "P1",
+    "career_url": "https://jobs.sap.com/",
+    "role_families": "SWE, Data, AI, Cloud",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "graduate; software developer; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Workday",
+    "bucket": "Enterprise SaaS",
+    "priority": "P1",
+    "career_url": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; university graduate; data",
+    "source_type": "Workday"
+  },
+  {
+    "company": "Cisco",
+    "bucket": "Networking/Security",
+    "priority": "P1",
+    "career_url": "https://jobs.cisco.com/jobs/SearchJobs",
+    "role_families": "SWE, Networking, Security, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new graduate; software engineer; networking",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Juniper Networks",
+    "bucket": "Networking",
+    "priority": "P1",
+    "career_url": "https://jobs.juniper.net/jobs",
+    "role_families": "SWE, Networking, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; software engineer; networking",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Arista Networks",
+    "bucket": "Networking",
+    "priority": "P1",
+    "career_url": "https://www.arista.com/en/careers",
+    "role_families": "SWE, Networking, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; networking",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Dell Technologies",
+    "bucket": "Enterprise Hardware",
+    "priority": "P1",
+    "career_url": "https://jobs.dell.com/search-jobs",
+    "role_families": "SWE, Cloud, Data, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; recent graduate; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "HPE",
+    "bucket": "Enterprise Cloud",
+    "priority": "P1",
+    "career_url": "https://careers.hpe.com/us/en/search-results",
+    "role_families": "SWE, Cloud, Data, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; graduate; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "NetApp",
+    "bucket": "Storage/Cloud",
+    "priority": "P1",
+    "career_url": "https://www.netapp.com/company/careers/",
+    "role_families": "SWE, Storage, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; storage",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Pure Storage",
+    "bucket": "Storage/Cloud",
+    "priority": "P1",
+    "career_url": "https://www.purestorage.com/company/careers.html",
+    "role_families": "SWE, Storage, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; storage",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Nutanix",
+    "bucket": "Cloud/Infra",
+    "priority": "P1",
+    "career_url": "https://www.nutanix.com/company/careers",
+    "role_families": "SWE, Cloud, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new college grad; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rubrik",
+    "bucket": "Security/Data",
+    "priority": "P1",
+    "career_url": "https://www.rubrik.com/company/careers",
+    "role_families": "SWE, Security, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cohesity",
+    "bucket": "Security/Data",
+    "priority": "P1",
+    "career_url": "https://www.cohesity.com/company/careers/",
+    "role_families": "SWE, Security, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Box",
+    "bucket": "Enterprise SaaS",
+    "priority": "P1",
+    "career_url": "https://www.box.com/about-us/careers",
+    "role_families": "SWE, Platform, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; AI; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "DocuSign",
+    "bucket": "Enterprise SaaS",
+    "priority": "P1",
+    "career_url": "https://careers.docusign.com/jobs",
+    "role_families": "SWE, Data, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "HubSpot",
+    "bucket": "SaaS",
+    "priority": "P1",
+    "career_url": "https://www.hubspot.com/careers/jobs",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zendesk",
+    "bucket": "SaaS",
+    "priority": "P1",
+    "career_url": "https://jobs.zendesk.com/us/en",
+    "role_families": "SWE, Data, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Qualtrics",
+    "bucket": "SaaS/Data",
+    "priority": "P1",
+    "career_url": "https://www.qualtrics.com/careers/us/en/search-results",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Klaviyo",
+    "bucket": "SaaS/Data",
+    "priority": "P1",
+    "career_url": "https://www.klaviyo.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Braze",
+    "bucket": "SaaS/Data",
+    "priority": "P1",
+    "career_url": "https://www.braze.com/company/careers",
+    "role_families": "SWE, Data, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zapier",
+    "bucket": "Automation/SaaS",
+    "priority": "P1",
+    "career_url": "https://zapier.com/jobs",
+    "role_families": "SWE, AI, Platform",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; automation",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Sentry",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://sentry.io/careers/",
+    "role_families": "SWE, Dev Tools, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform; observability",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Grafana Labs",
+    "bucket": "Observability",
+    "priority": "P1",
+    "career_url": "https://grafana.com/about/careers/open-positions/",
+    "role_families": "SWE, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; observability; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "New Relic",
+    "bucket": "Observability",
+    "priority": "P1",
+    "career_url": "https://newrelic.com/careers",
+    "role_families": "SWE, Data, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; observability; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Splunk",
+    "bucket": "Data/Security",
+    "priority": "P1",
+    "career_url": "https://www.splunk.com/en_us/careers/search-jobs.html",
+    "role_families": "SWE, Data, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Sumo Logic",
+    "bucket": "Observability/Security",
+    "priority": "P1",
+    "career_url": "https://www.sumologic.com/company/careers/",
+    "role_families": "SWE, Data, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Honeycomb",
+    "bucket": "Observability",
+    "priority": "P1",
+    "career_url": "https://www.honeycomb.io/careers",
+    "role_families": "SWE, Infra, Observability",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; infrastructure; observability",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Postman",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.postman.com/company/careers/",
+    "role_families": "SWE, Platform, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Docker",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.docker.com/career-openings/",
+    "role_families": "SWE, Platform, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Pulumi",
+    "bucket": "Cloud/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.pulumi.com/careers/",
+    "role_families": "SWE, Cloud, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cloud; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Temporal",
+    "bucket": "Cloud/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://temporal.io/careers",
+    "role_families": "SWE, Distributed Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; distributed systems; backend",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tailscale",
+    "bucket": "Networking/Security",
+    "priority": "P1",
+    "career_url": "https://tailscale.com/careers",
+    "role_families": "SWE, Networking, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; networking; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "1Password",
+    "bucket": "Security/Product",
+    "priority": "P1",
+    "career_url": "https://1password.com/jobs",
+    "role_families": "SWE, Security, Product",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SentinelOne",
+    "bucket": "Security/AI",
+    "priority": "P1",
+    "career_url": "https://www.sentinelone.com/careers/",
+    "role_families": "SWE, Security, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tenable",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.tenable.com/careers/jobs",
+    "role_families": "SWE, Security, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rapid7",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.rapid7.com/careers/jobs/",
+    "role_families": "SWE, Security, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "HackerOne",
+    "bucket": "Security",
+    "priority": "P2",
+    "career_url": "https://www.hackerone.com/careers",
+    "role_families": "SWE, Security, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "dbt Labs",
+    "bucket": "Data/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.getdbt.com/careers/open-positions",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Fivetran",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://www.fivetran.com/careers",
+    "role_families": "SWE, Data Infra, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Airbyte",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://airbyte.com/careers",
+    "role_families": "SWE, Data Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Astronomer",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://www.astronomer.io/careers/",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Dagster Labs",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://dagster.io/careers",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Prefect",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://www.prefect.io/careers",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "MotherDuck",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://motherduck.com/careers/",
+    "role_families": "SWE, Data, Database",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; database",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "ClickHouse",
+    "bucket": "Database/Data",
+    "priority": "P1",
+    "career_url": "https://clickhouse.com/company/careers",
+    "role_families": "SWE, Database, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; database; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Starburst",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://www.starburst.io/careers/",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; distributed systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Dremio",
+    "bucket": "Data Infra",
+    "priority": "P1",
+    "career_url": "https://www.dremio.com/careers/",
+    "role_families": "SWE, Data Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Neo4j",
+    "bucket": "Database/Graph",
+    "priority": "P1",
+    "career_url": "https://neo4j.com/careers/",
+    "role_families": "SWE, Database, Graph ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; database; graph; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Timescale",
+    "bucket": "Database",
+    "priority": "P1",
+    "career_url": "https://www.timescale.com/careers",
+    "role_families": "SWE, Database, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; database; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Neon",
+    "bucket": "Database",
+    "priority": "P1",
+    "career_url": "https://neon.tech/careers",
+    "role_families": "SWE, Database, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; database; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Supabase",
+    "bucket": "Database/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://supabase.com/careers",
+    "role_families": "SWE, Database, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; database; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Railway",
+    "bucket": "Cloud/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://railway.com/careers",
+    "role_families": "SWE, Cloud, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cloud; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Render",
+    "bucket": "Cloud/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://render.com/careers",
+    "role_families": "SWE, Cloud, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cloud; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Fly.io",
+    "bucket": "Cloud/Infra",
+    "priority": "P2",
+    "career_url": "https://fly.io/jobs/",
+    "role_families": "SWE, Cloud, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cloud; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Mistral AI",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://mistral.ai/careers",
+    "role_families": "SWE, ML, Research Eng, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; research engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Inflection AI",
+    "bucket": "AI Lab",
+    "priority": "P2",
+    "career_url": "https://inflection.ai/careers",
+    "role_families": "SWE, ML, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "World Labs",
+    "bucket": "AI Lab",
+    "priority": "P1",
+    "career_url": "https://www.worldlabs.ai/careers",
+    "role_families": "SWE, ML, Computer Vision",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; computer vision",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Luma AI",
+    "bucket": "AI Product",
+    "priority": "P1",
+    "career_url": "https://lumalabs.ai/careers",
+    "role_families": "SWE, ML, Computer Vision",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; computer vision",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Pika",
+    "bucket": "AI Product",
+    "priority": "P1",
+    "career_url": "https://pika.art/careers",
+    "role_families": "SWE, ML, AI Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Midjourney",
+    "bucket": "AI Product",
+    "priority": "P1",
+    "career_url": "https://www.midjourney.com/jobs",
+    "role_families": "SWE, ML, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cognition",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.cognition.ai/careers",
+    "role_families": "SWE, AI Product, Agents",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; agents; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Poolside",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://poolside.ai/careers",
+    "role_families": "SWE, ML, Code AI",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; code",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Magic",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://magic.dev/careers",
+    "role_families": "SWE, ML, Code AI",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; code",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Factory AI",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.factory.ai/careers",
+    "role_families": "SWE, AI Product, Agents",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; agents",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Labelbox",
+    "bucket": "AI/Data",
+    "priority": "P1",
+    "career_url": "https://labelbox.com/careers/",
+    "role_families": "SWE, ML Platform, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Snorkel AI",
+    "bucket": "AI/Data",
+    "priority": "P1",
+    "career_url": "https://snorkel.ai/careers/",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Anyscale",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://www.anyscale.com/careers",
+    "role_families": "SWE, ML Systems, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; distributed systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Baseten",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://www.baseten.co/careers/",
+    "role_families": "SWE, ML Systems, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; inference",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Replicate",
+    "bucket": "AI Infra",
+    "priority": "P1",
+    "career_url": "https://replicate.com/careers",
+    "role_families": "SWE, ML Infra, Product",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lightning AI",
+    "bucket": "AI Platform",
+    "priority": "P1",
+    "career_url": "https://lightning.ai/careers",
+    "role_families": "SWE, ML Platform, Infra",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; platform",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Roboflow",
+    "bucket": "AI Platform",
+    "priority": "P1",
+    "career_url": "https://roboflow.com/careers",
+    "role_families": "SWE, Computer Vision, ML",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; computer vision; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Vapi",
+    "bucket": "AI Voice",
+    "priority": "P1",
+    "career_url": "https://www.vapi.ai/careers",
+    "role_families": "SWE, AI Product, Voice",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; voice",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cartesia",
+    "bucket": "AI Voice",
+    "priority": "P1",
+    "career_url": "https://cartesia.ai/careers",
+    "role_families": "SWE, ML, Voice",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; voice",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Descript",
+    "bucket": "AI Media",
+    "priority": "P1",
+    "career_url": "https://www.descript.com/careers",
+    "role_families": "SWE, ML, Product",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Tempus",
+    "bucket": "Healthcare AI",
+    "priority": "P1",
+    "career_url": "https://www.tempus.com/careers/",
+    "role_families": "SWE, ML, Data, Bioinformatics",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data; bioinformatics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Flatiron Health",
+    "bucket": "Healthcare/Data",
+    "priority": "P1",
+    "career_url": "https://flatiron.com/careers/open-positions/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Verily",
+    "bucket": "Healthcare AI",
+    "priority": "P1",
+    "career_url": "https://verily.com/careers",
+    "role_families": "SWE, ML, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Recursion",
+    "bucket": "Bio/AI",
+    "priority": "P1",
+    "career_url": "https://www.recursion.com/careers",
+    "role_families": "SWE, ML, Data, Bio",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Insitro",
+    "bucket": "Bio/AI",
+    "priority": "P1",
+    "career_url": "https://www.insitro.com/careers",
+    "role_families": "SWE, ML, Data, Bio",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "PathAI",
+    "bucket": "Healthcare AI",
+    "priority": "P1",
+    "career_url": "https://www.pathai.com/careers/",
+    "role_families": "SWE, ML, Computer Vision",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; computer vision",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Abridge",
+    "bucket": "Healthcare AI",
+    "priority": "P1",
+    "career_url": "https://www.abridge.com/careers",
+    "role_families": "SWE, AI Product, NLP",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; NLP; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Natera",
+    "bucket": "Bio/Data",
+    "priority": "P2",
+    "career_url": "https://www.natera.com/careers/",
+    "role_families": "SWE, Data, Bioinformatics",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data; bioinformatics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Coinbase",
+    "bucket": "Crypto/Fintech",
+    "priority": "P1",
+    "career_url": "https://www.coinbase.com/careers/positions",
+    "role_families": "SWE, Data, Infra, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; backend; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Kraken",
+    "bucket": "Crypto/Fintech",
+    "priority": "P1",
+    "career_url": "https://www.kraken.com/careers",
+    "role_families": "SWE, Security, Backend",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Gemini",
+    "bucket": "Crypto/Fintech",
+    "priority": "P1",
+    "career_url": "https://www.gemini.com/careers",
+    "role_families": "SWE, Security, Backend",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Ripple",
+    "bucket": "Crypto/Fintech",
+    "priority": "P1",
+    "career_url": "https://ripple.com/careers/",
+    "role_families": "SWE, Backend, Distributed Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; distributed systems; backend",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Chainlink Labs",
+    "bucket": "Crypto/Infra",
+    "priority": "P1",
+    "career_url": "https://chainlinklabs.com/careers",
+    "role_families": "SWE, Distributed Systems, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; distributed systems; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Uniswap Labs",
+    "bucket": "Crypto/DeFi",
+    "priority": "P1",
+    "career_url": "https://boards.greenhouse.io/uniswaplabs",
+    "role_families": "SWE, Backend, Protocol",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; backend; protocol",
+    "source_type": "Greenhouse"
+  },
+  {
+    "company": "Circle",
+    "bucket": "Crypto/Fintech",
+    "priority": "P1",
+    "career_url": "https://www.circle.com/en/careers",
+    "role_families": "SWE, Payments, Security",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; payments; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Alchemy",
+    "bucket": "Crypto/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.alchemy.com/careers",
+    "role_families": "SWE, Infra, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; infrastructure; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "SoFi",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.sofi.com/careers/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "PayPal",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.paypal.com/us/webapps/mpp/jobs",
+    "role_families": "SWE, Data, ML, Risk",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; recent graduate; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Adyen",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.adyen.com/careers",
+    "role_families": "SWE, Payments, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; payments; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Wise",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://www.wise.jobs/",
+    "role_families": "SWE, Payments, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; graduate; payments",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Remitly",
+    "bucket": "Fintech",
+    "priority": "P1",
+    "career_url": "https://careers.remitly.com/",
+    "role_families": "SWE, Payments, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; payments; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Toast",
+    "bucket": "Fintech/SaaS",
+    "priority": "P1",
+    "career_url": "https://careers.toasttab.com/jobs",
+    "role_families": "SWE, Data, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Visa",
+    "bucket": "Payments",
+    "priority": "P1",
+    "career_url": "https://usa.visa.com/careers.html",
+    "role_families": "SWE, Data, ML, Payments",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new college grad; software engineer; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Mastercard",
+    "bucket": "Payments",
+    "priority": "P1",
+    "career_url": "https://careers.mastercard.com/us/en/search-results",
+    "role_families": "SWE, Data, ML, Payments",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; graduate; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Bank of America",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://careers.bankofamerica.com/en-us/students",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology analyst; software engineer; campus",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "Morgan Stanley",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology analyst; software engineer; graduate",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "BlackRock",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://careers.blackrock.com/students",
+    "role_families": "SWE, Data, Quant Tech, Aladdin",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "analyst; software engineer; technology",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "Fidelity Investments",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://jobs.fidelity.com/students",
+    "role_families": "SWE, Data, Tech Program",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology program; software engineer; graduate",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "Vanguard",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.vanguardjobs.com/career-areas/students-recent-graduates/",
+    "role_families": "SWE, Data, Tech Program",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology development program; software engineer",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "Charles Schwab",
+    "bucket": "Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.schwabjobs.com/early-talent",
+    "role_families": "SWE, Data, Tech Program",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology development program; software engineer",
+    "source_type": "Student programs"
+  },
+  {
+    "company": "D.E. Shaw",
+    "bucket": "Quant/Trading",
+    "priority": "P0",
+    "career_url": "https://www.deshaw.com/careers",
+    "role_families": "SWE, Quant Dev, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software developer; software engineer; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Virtu Financial",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.virtu.com/careers/",
+    "role_families": "SWE, Trading Systems, Quant Dev",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; trading; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Flow Traders",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.flowtraders.com/careers",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate software developer; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Maven Securities",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.mavensecurities.com/careers",
+    "role_families": "SWE, Quant Dev, Trading",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate software developer; trading",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Balyasny Asset Management",
+    "bucket": "Quant/Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.bamfunds.com/careers",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data engineer; quant",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Millennium",
+    "bucket": "Quant/Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.mlp.com/careers/",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; quant",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Point72",
+    "bucket": "Quant/Finance Tech",
+    "priority": "P1",
+    "career_url": "https://point72.com/careers/",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology analyst; software engineer; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "G-Research",
+    "bucket": "Quant/Trading",
+    "priority": "P1",
+    "career_url": "https://www.gresearch.com/careers/",
+    "role_families": "SWE, Quant Dev, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; quantitative",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Schonfeld",
+    "bucket": "Quant/Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.schonfeld.com/careers/",
+    "role_families": "SWE, Data, Quant Tech",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; quant",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "AQR",
+    "bucket": "Quant/Finance Tech",
+    "priority": "P1",
+    "career_url": "https://www.aqr.com/About-Us/Careers",
+    "role_families": "SWE, Data, Quant Research",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data; quantitative",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "bucket": "Consulting/FDE",
+    "priority": "P1",
+    "career_url": "https://careers.boozallen.com/jobs/search",
+    "role_families": "SWE, AI, Data, Defense",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; data scientist; university",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Leidos",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://careers.leidos.com/search/jobs",
+    "role_families": "SWE, AI, Data, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Northrop Grumman",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://www.northropgrumman.com/jobs/",
+    "role_families": "SWE, AI, Systems, Space",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lockheed Martin",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://www.lockheedmartinjobs.com/",
+    "role_families": "SWE, AI, Systems, Space",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; college; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "RTX",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://careers.rtx.com/global/en/search-results",
+    "role_families": "SWE, AI, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "L3Harris",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://careers.l3harris.com/search-jobs",
+    "role_families": "SWE, AI, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "General Dynamics Mission Systems",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://gdmissionsystems.com/careers",
+    "role_families": "SWE, Systems, Cyber",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; cyber; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Axon",
+    "bucket": "Public Safety AI",
+    "priority": "P1",
+    "career_url": "https://www.axon.com/careers",
+    "role_families": "SWE, AI, Computer Vision",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; computer vision",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Skydio",
+    "bucket": "Defense/Robotics",
+    "priority": "P1",
+    "career_url": "https://www.skydio.com/careers",
+    "role_families": "SWE, Robotics, Computer Vision",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; computer vision; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Epirus",
+    "bucket": "Defense Tech",
+    "priority": "P1",
+    "career_url": "https://www.epirusinc.com/careers",
+    "role_families": "SWE, Systems, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; systems; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hadrian",
+    "bucket": "Defense/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://www.hadrian.co/careers",
+    "role_families": "SWE, Manufacturing Systems, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; systems; manufacturing",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Saronic",
+    "bucket": "Defense/Autonomy",
+    "priority": "P1",
+    "career_url": "https://www.saronic.com/careers",
+    "role_families": "SWE, Robotics, Autonomy",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; autonomy; robotics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Vannevar Labs",
+    "bucket": "Defense/FDE",
+    "priority": "P1",
+    "career_url": "https://www.vannevarlabs.com/careers",
+    "role_families": "SWE, AI, FDE, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; forward deployed",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Primer AI",
+    "bucket": "Defense/AI",
+    "priority": "P1",
+    "career_url": "https://primer.ai/careers/",
+    "role_families": "SWE, NLP, AI, Data",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; NLP; AI; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Astranis",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.astranis.com/careers",
+    "role_families": "SWE, Systems, Satellite",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; systems; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rocket Lab",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.rocketlabusa.com/careers/positions/",
+    "role_families": "SWE, Systems, Flight Software",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; flight software; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Relativity Space",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.relativityspace.com/careers",
+    "role_families": "SWE, Robotics, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; robotics; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Planet",
+    "bucket": "Space/Data",
+    "priority": "P1",
+    "career_url": "https://www.planet.com/company/careers/",
+    "role_families": "SWE, Data, ML, Geospatial",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Maxar",
+    "bucket": "Space/Data",
+    "priority": "P1",
+    "career_url": "https://www.maxar.com/careers",
+    "role_families": "SWE, Data, ML, Geospatial",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; machine learning; geospatial",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Oscar Health",
+    "bucket": "Healthcare Tech",
+    "priority": "P1",
+    "career_url": "https://www.hioscar.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cedar",
+    "bucket": "Healthcare Tech",
+    "priority": "P1",
+    "career_url": "https://www.cedar.com/careers",
+    "role_families": "SWE, Data, Product",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; product",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Doximity",
+    "bucket": "Healthcare Tech",
+    "priority": "P1",
+    "career_url": "https://workat.doximity.com/positions",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Commure",
+    "bucket": "Healthcare AI",
+    "priority": "P1",
+    "career_url": "https://www.commure.com/careers",
+    "role_families": "SWE, AI, Data",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; data; new grad",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Netskope",
+    "bucket": "Security",
+    "priority": "P1",
+    "career_url": "https://www.netskope.com/company/careers",
+    "role_families": "SWE, Security, Cloud",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; cloud",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Abnormal Security",
+    "bucket": "Security/AI",
+    "priority": "P1",
+    "career_url": "https://abnormalsecurity.com/careers",
+    "role_families": "SWE, Security, ML",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; machine learning; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Chainguard",
+    "bucket": "Security/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.chainguard.dev/careers",
+    "role_families": "SWE, Security, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Semgrep",
+    "bucket": "Security/Dev Tools",
+    "priority": "P1",
+    "career_url": "https://semgrep.dev/jobs",
+    "role_families": "SWE, Security, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; security; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Sourcegraph",
+    "bucket": "Dev Tools/AI",
+    "priority": "P1",
+    "career_url": "https://sourcegraph.com/jobs",
+    "role_families": "SWE, AI, Dev Tools",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; AI; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "JetBrains",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://www.jetbrains.com/careers/jobs/",
+    "role_families": "SWE, IDE, AI Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; developer tools; AI",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Codeium",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://codeium.com/careers",
+    "role_families": "SWE, AI, ML, Dev Tools",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Windsurf",
+    "bucket": "AI Dev Tools",
+    "priority": "P1",
+    "career_url": "https://windsurf.com/careers",
+    "role_families": "SWE, AI, ML, Dev Tools",
+    "default_resume": "AI/ML",
+    "monitor_queries": "software engineer; AI; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Retool",
+    "bucket": "Dev Tools/SaaS",
+    "priority": "P1",
+    "career_url": "https://retool.com/careers",
+    "role_families": "SWE, Product, Infra",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; product; infrastructure",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Amplitude",
+    "bucket": "Analytics",
+    "priority": "P1",
+    "career_url": "https://amplitude.com/careers",
+    "role_families": "SWE, Data, Analytics",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; analytics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "LaunchDarkly",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://launchdarkly.com/careers/",
+    "role_families": "SWE, Platform, Dev Tools",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform; developer tools",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "CircleCI",
+    "bucket": "Dev Tools",
+    "priority": "P1",
+    "career_url": "https://circleci.com/careers/",
+    "role_families": "SWE, Platform, DevOps",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; platform; DevOps",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Checkr",
+    "bucket": "SaaS/Trust",
+    "priority": "P1",
+    "career_url": "https://checkr.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Persona",
+    "bucket": "Identity/Security",
+    "priority": "P1",
+    "career_url": "https://withpersona.com/careers",
+    "role_families": "SWE, Security, Product",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; identity; security",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Nextdoor",
+    "bucket": "Consumer",
+    "priority": "P2",
+    "career_url": "https://about.nextdoor.com/careers/",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Strava",
+    "bucket": "Consumer/Fitness",
+    "priority": "P2",
+    "career_url": "https://www.strava.com/careers",
+    "role_families": "SWE, Data, ML",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Garmin",
+    "bucket": "Consumer/Embedded",
+    "priority": "P1",
+    "career_url": "https://careers.garmin.com/careers-home/jobs",
+    "role_families": "SWE, Embedded, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; new grad; embedded",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Roku",
+    "bucket": "Consumer/Streaming",
+    "priority": "P1",
+    "career_url": "https://www.weareroku.com/jobs",
+    "role_families": "SWE, Data, ML, Platform",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; data; machine learning",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Comcast",
+    "bucket": "Media/Telecom Tech",
+    "priority": "P1",
+    "career_url": "https://jobs.comcast.com/search-jobs",
+    "role_families": "SWE, Data, ML, Network",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; technology; data",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "AT&T",
+    "bucket": "Telecom Tech",
+    "priority": "P1",
+    "career_url": "https://www.att.jobs/search-jobs",
+    "role_families": "SWE, Data, Network, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology development program; software engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Verizon",
+    "bucket": "Telecom Tech",
+    "priority": "P1",
+    "career_url": "https://mycareer.verizon.com/jobs/",
+    "role_families": "SWE, Data, Network, AI",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "technology; software engineer; data",
+    "source_type": "Direct careers search"
+  }
+]

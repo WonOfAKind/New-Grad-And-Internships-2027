@@ -1,0 +1,13 @@
+{
+  "name": "new-grad-and-internships-2027",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "monitor": "node scripts/monitor_company_roles.mjs",
+    "check": "node --check scripts/monitor_company_roles.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
