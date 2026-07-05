@@ -27,6 +27,7 @@ const doubleCheckTimeoutMs = Number.parseInt(process.env.DOUBLE_CHECK_TIMEOUT_MS
 const doubleCheckConcurrency = Number.parseInt(process.env.DOUBLE_CHECK_CONCURRENCY ?? "16", 10);
 const staleAfterDays = Number.parseInt(process.env.STALE_AFTER_DAYS ?? "21", 10);
 const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
+const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 
 const titleRolePatterns = [
   /(?:2027|summer\s+2027|spring\s+2027|fall\s+2027).*(?:software|developer|\bSWE\b|machine\s+learning|\bML\b|\bAI\b|data|platform|infrastructure|forward\s+deployed|quant|technical\s+writer|documentation|mechanical|aerospace|avionics|propulsion|manufacturing|systems)/i,
@@ -338,6 +339,22 @@ function isRetryableScanError(errorMessage = "") {
   return /aborted|timeout|fetch failed|429|too many requests|econnreset|etimedout|socket/i.test(errorMessage);
 }
 
+function sourceErrorStatus(source, errorMessage = "") {
+  if (source.adapter === "tesla" && /401|403|406|429|451|forbidden|access denied|akamai|permission/i.test(errorMessage)) {
+    return "blocked";
+  }
+  return "error";
+}
+
+function sourceErrorLog(source, errorMessage, phase) {
+  const status = sourceErrorStatus(source, errorMessage);
+  const log = { company: source.company, adapter: source.adapter, status, error: errorMessage, phase };
+  if (status === "blocked") {
+    log.blocked_reason = "Tesla's official careers endpoint denied automated access from this runner; retry later or use the search-index/manual fallback.";
+  }
+  return log;
+}
+
 function directFetchInit(target) {
   if (target.fetch_mode !== "browser") return {};
   return {
@@ -534,6 +551,124 @@ function avatureJobToLead(source, job) {
   };
 }
 
+function teslaTypeLabel(value) {
+  const labels = {
+    fulltime: "Full-Time",
+    parttime: "Part-Time",
+    intern: "Intern/Apprentice",
+    seasonal: "Seasonal",
+  };
+  const key = normalize(value).toLowerCase();
+  return labels[key] ?? normalize(value).replace(/[_-]+/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+}
+
+function teslaSlug(title, jobId) {
+  const slug = normalize(title).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "job";
+  return `https://www.tesla.com/careers/search/job/${slug}-${jobId}`;
+}
+
+function teslaStringLookup(value) {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return {};
+  return Object.fromEntries(Object.entries(value).map(([key, item]) => [String(key), normalize(item)]));
+}
+
+function teslaIdSet(value) {
+  if (value == null) return new Set();
+  if (Array.isArray(value)) return new Set(value.map((item) => normalize(item)).filter(Boolean));
+  const id = normalize(value);
+  return id ? new Set([id]) : new Set();
+}
+
+function collectTeslaLocationIds(node, ids) {
+  const cities = node?.cities;
+  if (cities && typeof cities === "object") {
+    for (const values of Object.values(cities)) {
+      for (const id of teslaIdSet(values)) ids.add(id);
+    }
+  }
+  for (const state of node?.states ?? []) {
+    if (state && typeof state === "object") collectTeslaLocationIds(state, ids);
+  }
+}
+
+function teslaLocationIdsForSite(payload, site = "US") {
+  const ids = new Set();
+  const wanted = site.toLowerCase();
+  for (const region of payload.geo ?? []) {
+    if (!region || typeof region !== "object") continue;
+    for (const siteNode of region.sites ?? []) {
+      if (!siteNode || typeof siteNode !== "object") continue;
+      if (normalize(siteNode.id).toLowerCase() !== wanted) continue;
+      collectTeslaLocationIds(siteNode, ids);
+    }
+  }
+  return ids;
+}
+
+function teslaListingToLead(source, row, lookups) {
+  const title = normalize(row.t);
+  const jobId = normalize(row.id);
+  const locationId = [...teslaIdSet(row.l)][0] ?? "";
+  if (!title || !jobId) return null;
+  const department = normalize(lookups.departments[String(row.dp)]);
+  const location = normalize(lookups.locations[locationId]);
+  const jobType = teslaTypeLabel(lookups.types[String(row.y)]);
+  const content = normalize(`${department}\n${jobType}\n${location}`);
+  const category = categorize(title, content);
+  const resumeChoice = chooseResume(title, content);
+  const gradMatch = graduationMatch(title, content);
+  const url = teslaSlug(title, jobId);
+  return {
+    detected_date: new Date().toISOString().slice(0, 10),
+    company: source.company,
+    role_title: title,
+    location,
+    resume_choice: resumeChoice,
+    priority: priorityFor(title, source.priority),
+    direct_apply_url: url,
+    career_source_url: sourceByCompany.get(source.company)?.career_url ?? source.url ?? teslaStateUrl,
+    lead_status: "Tailor Resume",
+    updated_at: "",
+    category,
+    graduation_match: gradMatch,
+    jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
+    fit_notes: fitNotes(title, category),
+    tailoring_notes: tailoringNotes(title, category, resumeChoice),
+    apply_notes: "Review after resume upload; do not submit without user confirmation.",
+  };
+}
+
+async function scanTesla(source, timeoutMs = fetchTimeoutMs) {
+  const url = source.url ?? teslaStateUrl;
+  const payload = await fetchJson(url, timeoutMs);
+  if (!payload || typeof payload !== "object" || !Array.isArray(payload.listings)) {
+    throw new Error("Tesla careers state endpoint returned an unexpected payload shape");
+  }
+  const lookup = payload.lookup && typeof payload.lookup === "object" ? payload.lookup : {};
+  const lookups = {
+    departments: teslaStringLookup(lookup.departments),
+    locations: teslaStringLookup(lookup.locations),
+    types: teslaStringLookup(lookup.types),
+  };
+  const locationIds = teslaLocationIdsForSite(payload, source.site ?? "US");
+  if (locationIds.size === 0) {
+    throw new Error(`Tesla careers state payload did not include location ids for site=${source.site ?? "US"}`);
+  }
+
+  const leads = [];
+  for (const row of payload.listings) {
+    if (!row || typeof row !== "object") continue;
+    const rowLocationIds = teslaIdSet(row.l);
+    if (![...rowLocationIds].some((id) => locationIds.has(id))) continue;
+    const lead = teslaListingToLead(source, row, lookups);
+    if (!lead) continue;
+    if (!isRelevant(lead.role_title, `${lead.category}\n${lead.location}`)) continue;
+    if (hasOnlyExcludedGraduationWindow(lead.role_title, `${lead.category}\n${lead.location}`)) continue;
+    leads.push(lead);
+  }
+  return leads;
+}
+
 async function scanGreenhouse(source, timeoutMs = fetchTimeoutMs) {
   const url = `https://boards-api.greenhouse.io/v1/boards/${source.board}/jobs?content=true`;
   const data = await fetchJson(url, timeoutMs);
@@ -726,7 +861,9 @@ async function scanAtsSources(sources) {
                   ? scanPhenom(source, sourceTimeoutMs)
                   : source.adapter === "avature"
                     ? scanAvature(source, sourceTimeoutMs)
-                    : Promise.resolve([]);
+                    : source.adapter === "tesla"
+                      ? scanTesla(source, sourceTimeoutMs)
+                      : Promise.resolve([]);
       const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter}`, sourceTimeoutMs);
       return {
         leads,
@@ -737,7 +874,7 @@ async function scanAtsSources(sources) {
       if (!doubleCheckErrors || !isRetryableScanError(initialError)) {
         return {
           leads: [],
-          log: { company: source.company, adapter: source.adapter, status: "error", error: initialError, phase: "fast-pass" },
+          log: sourceErrorLog(source, initialError, "fast-pass"),
         };
       }
 
@@ -756,7 +893,9 @@ async function scanAtsSources(sources) {
                     ? scanPhenom(source, retryTimeoutMs)
                     : source.adapter === "avature"
                       ? scanAvature(source, retryTimeoutMs)
-                      : Promise.resolve([]);
+                      : source.adapter === "tesla"
+                        ? scanTesla(source, retryTimeoutMs)
+                        : Promise.resolve([]);
         const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter} double-check`, retryTimeoutMs);
         return {
           leads,
@@ -769,8 +908,8 @@ async function scanAtsSources(sources) {
         return {
           leads: [],
           log: [
-            { company: source.company, adapter: source.adapter, status: "error", error: initialError, phase: "fast-pass" },
-            { company: source.company, adapter: source.adapter, status: "error", error: retryError.message, phase: "double-check" },
+            sourceErrorLog(source, initialError, "fast-pass"),
+            sourceErrorLog(source, retryError.message, "double-check"),
           ],
         };
       }

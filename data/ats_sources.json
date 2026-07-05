@@ -58,6 +58,14 @@
     "priority": "P0"
   },
   {
+    "company": "Tesla",
+    "adapter": "tesla",
+    "url": "https://www.tesla.com/cua-api/apps/careers/state?site=US",
+    "site": "US",
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
     "company": "OpenAI",
     "adapter": "ashby",
     "board": "openai",
