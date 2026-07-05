@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-05T23:19:59.153Z",
-  "elapsed_ms": 14730,
+  "scanned_at": "2026-07-05T23:36:13.315Z",
+  "elapsed_ms": 38636,
   "companies_in_target_list": 337,
   "ats_sources_configured": 39,
   "direct_sources_attempted": 299,
@@ -12,9 +12,9 @@
   "error_sources": 25,
   "blocked_sources": 1,
   "error_breakdown": {
-    "403 Forbidden": 11,
-    "fetch failed": 1,
+    "403 Forbidden": 10,
     "404 Not Found": 10,
+    "fetch failed": 2,
     "429 Too Many Requests": 2,
     "404 NOT FOUND": 1
   },
