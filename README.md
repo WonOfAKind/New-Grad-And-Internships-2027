@@ -12,6 +12,8 @@ Tracked disciplines:
 
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
+[Contributors](CONTRIBUTORS.md)
+
 Last scan: 2026-07-05T21:05:03.154Z
 
 Companies tracked: 337

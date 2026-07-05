@@ -934,6 +934,8 @@ Tracked disciplines:
 
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
+[Contributors](CONTRIBUTORS.md)
+
 Last scan: ${coverage.scanned_at}
 
 Companies tracked: ${coverage.companies_in_target_list}
