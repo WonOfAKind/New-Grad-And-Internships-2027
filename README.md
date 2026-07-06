@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last scan: 2026-07-06T14:35:04.677Z
+Last scan: 2026-07-06T17:24:09.256Z
 
 Companies tracked: 337
 
-Current roles: 30
+Current roles: 31
 
-Fresh roles this scan: 0
+Fresh roles this scan: 1
 
 ## New Grad Roles
 
@@ -77,6 +77,7 @@ _No roles found yet._
 
 | Company | Role | Location | Grad Window | Posted/Seen | Apply |
 |---|---|---|---|---|---|
+| IMC Trading | Machine Learning Research Intern - Summer 2027 | Amsterdam, Netherlands | 2027 grad eligible | 2026-07-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | IMC Trading | Machine Learning Research Intern - Summer 2027 | Chicago, United States | 2027 internship eligible | 2026-07-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | 2027 internship eligible | 2026-07-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | 2027 internship eligible | 2026-07-06 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |

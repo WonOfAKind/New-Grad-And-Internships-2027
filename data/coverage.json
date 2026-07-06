@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-06T14:35:04.677Z",
-  "elapsed_ms": 24799,
+  "scanned_at": "2026-07-06T17:24:09.256Z",
+  "elapsed_ms": 26034,
   "companies_in_target_list": 337,
   "ats_sources_configured": 39,
   "direct_sources_attempted": 299,
@@ -12,13 +12,13 @@
   "error_sources": 25,
   "blocked_sources": 1,
   "error_breakdown": {
-    "403 Forbidden": 11,
+    "403 Forbidden": 12,
+    "404 Not Found": 9,
     "fetch failed": 1,
-    "404 Not Found": 10,
     "429 Too Many Requests": 2,
     "404 NOT FOUND": 1
   },
-  "board_eligible_candidates": 30,
+  "board_eligible_candidates": 31,
   "stale_after_days": 21,
   "unattempted_companies": []
 }
