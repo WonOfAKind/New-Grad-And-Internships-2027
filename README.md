@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last scan: 2026-07-06T10:59:28.186Z
+Last scan: 2026-07-06T14:35:04.677Z
 
 Companies tracked: 337
 
