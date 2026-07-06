@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last scan: 2026-07-06T17:24:09.256Z
+Last scan: 2026-07-06T19:22:15.029Z
 
 Companies tracked: 337
 
 Current roles: 31
 
-Fresh roles this scan: 1
+Fresh roles this scan: 0
 
 ## New Grad Roles
 
