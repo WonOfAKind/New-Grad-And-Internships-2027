@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-06T22:47:34.756Z",
-  "elapsed_ms": 21337,
+  "scanned_at": "2026-07-07T00:19:09.872Z",
+  "elapsed_ms": 43021,
   "companies_in_target_list": 337,
   "ats_sources_configured": 39,
   "direct_sources_attempted": 299,
@@ -8,15 +8,16 @@
   "double_check_attempts": 4,
   "unique_sources_attempted": 338,
   "total_fetch_attempts": 342,
-  "ok_sources": 312,
-  "error_sources": 25,
+  "ok_sources": 311,
+  "error_sources": 26,
   "blocked_sources": 1,
   "error_breakdown": {
     "403 Forbidden": 12,
     "fetch failed": 1,
     "404 Not Found": 9,
     "429 Too Many Requests": 2,
-    "404 NOT FOUND": 1
+    "404 NOT FOUND": 1,
+    "timeout: Vanguard": 1
   },
   "board_eligible_candidates": 31,
   "stale_after_days": 21,
