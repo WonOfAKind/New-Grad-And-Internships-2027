@@ -3,7 +3,9 @@ name: Monitor roles
 on:
   workflow_dispatch:
   schedule:
-    - cron: "13,43 * * * *"
+    # GitHub cron is UTC; the first step gates the exact weekday
+    # 8 AM-8 PM America/New_York window across daylight/standard time.
+    - cron: "13,43 0-1,12-23 * * *"
 
 permissions:
   contents: write
@@ -18,18 +20,33 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      - name: Check weekday monitor window
+        id: window
+        run: |
+          day=$(TZ=America/New_York date +%u)
+          hour=$(TZ=America/New_York date +%H)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$day" -le 5 ] && [ "$hour" -ge 8 ] && [ "$hour" -le 20 ]; }; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout
+        if: steps.window.outputs.run == 'true'
         uses: actions/checkout@v4
 
       - name: Setup Node
+        if: steps.window.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Check monitor syntax
+        if: steps.window.outputs.run == 'true'
         run: npm run check
 
       - name: Run monitor
+        if: steps.window.outputs.run == 'true'
         run: npm run monitor
         env:
           FETCH_TIMEOUT_MS: "10000"
@@ -41,6 +58,7 @@ jobs:
           STALE_AFTER_DAYS: "21"
 
       - name: Commit generated updates
+        if: steps.window.outputs.run == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update 2027 role board"

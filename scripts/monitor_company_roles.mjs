@@ -270,6 +270,41 @@ function tailoringNotes(title, category, resumeChoice) {
   return "Emphasize role-matching projects and skills without adding anything not already supported by the resume truth bank.";
 }
 
+function normalizeCompensation(value) {
+  return normalize(value)
+    .replace(/\s+/g, " ")
+    .replace(/\s*[\u2013\u2014]\s*/g, " - ")
+    .replace(/\s+\bto\b\s+/gi, " - ")
+    .replace(/\s*\/\s*/g, "/")
+    .trim();
+}
+
+function findCompensation(patterns, text, rejectHourly = false) {
+  for (const pattern of patterns) {
+    const match = text.match(pattern);
+    if (!match) continue;
+    const value = normalizeCompensation(match[0]);
+    if (rejectHourly && /\b(?:hourly|per hour|\/(?:hr|hour))\b/i.test(value)) continue;
+    return value;
+  }
+  return "";
+}
+
+function extractCompensation(title, text = "") {
+  const haystack = normalize(`${title}\n${text}`);
+  const isInternship = roleType(title, text) === "Internship";
+  const hourlyPatterns = [
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|hourly)\b/i,
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|hourly)\b/i,
+  ];
+  const salaryPatterns = [
+    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:per\s+year|annually|\/\s?year|base\s+salary))?/i,
+    /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}\s?k\b(?:\s*(?:per\s+year|annually|\/\s?year|base\s+salary))?/i,
+  ];
+  if (isInternship) return findCompensation(hourlyPatterns, haystack);
+  return findCompensation(salaryPatterns, haystack, true);
+}
+
 async function readJson(filePath, fallback) {
   try {
     return JSON.parse(await fs.readFile(filePath, "utf8"));
@@ -397,6 +432,7 @@ function greenhouseJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.updated_at ?? "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -424,6 +460,7 @@ function leverJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.createdAt ? new Date(job.createdAt).toISOString() : "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -460,6 +497,7 @@ function ashbyJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.publishedAt ?? "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -489,6 +527,7 @@ function workdayJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.postedOn ?? "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -516,6 +555,7 @@ function phenomJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.postedDate ?? job.dateCreated ?? "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -543,6 +583,7 @@ function avatureJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -630,6 +671,7 @@ function teslaListingToLead(source, row, lookups) {
     lead_status: "Tailor Resume",
     updated_at: "",
     category,
+    compensation: extractCompensation(title, content),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -988,6 +1030,7 @@ function toPublicRole(lead, scannedAt) {
     location: normalize(lead.location),
     role_type: type,
     discipline,
+    compensation: normalize(lead.compensation),
     grad_window: gradWindow,
     url,
     source: normalize(lead.career_source_url) || normalize(lead.source) || url,
@@ -1009,6 +1052,7 @@ function mergeRoles(existing, candidates, scannedAt) {
     byKey.set(key, {
       ...existingRole,
       ...role,
+      compensation: role.compensation || existingRole?.compensation || "",
       date_seen: existingRole?.date_seen || role.date_seen,
       last_seen: scannedAt.slice(0, 10),
     });
@@ -1045,7 +1089,7 @@ function csvEscape(value) {
 }
 
 function rolesToCsv(roles) {
-  const columns = ["company", "title", "location", "role_type", "discipline", "grad_window", "url", "source", "date_seen", "last_seen", "updated_at", "priority"];
+  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "date_seen", "last_seen", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(role[column])).join(",")),
@@ -1063,13 +1107,27 @@ function markdownEscape(value) {
 function renderTable(roles) {
   if (roles.length === 0) return "_No roles found yet._\n";
   const lines = [
-    "| Company | Role | Location | Grad Window | Posted/Seen | Apply |",
-    "|---|---|---|---|---|---|",
+    "| Company | Role | Location | Salary / Hourly | Grad Window | Posted/Seen | Apply |",
+    "|---|---|---|---|---|---|---|",
   ];
   for (const role of roles) {
-    lines.push(`| ${markdownEscape(role.company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.grad_window)} | ${markdownEscape(role.date_seen)} | ${markdownLink("Apply", role.url)} |`);
+    lines.push(`| ${markdownEscape(role.company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${markdownEscape(role.date_seen)} | ${markdownLink("Apply", role.url)} |`);
   }
   return `${lines.join("\n")}\n`;
+}
+
+function formatReadmeTimestamp(value) {
+  const date = new Date(value);
+  if (!value || Number.isNaN(date.getTime())) return "Not scanned yet";
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short",
+  }).format(date);
 }
 
 function renderReadme(roles, coverage, freshCount) {
@@ -1099,7 +1157,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last scan: ${coverage.scanned_at}
+Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
 
 Companies tracked: ${coverage.companies_in_target_list}
 
@@ -1120,6 +1178,7 @@ ${sections.join("\n")}
 
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
+- Salary/hourly data is extracted only when the official posting text exposes it.
 - Roles not seen for ${staleAfterDays} days are automatically removed from the public board.
 - Generated files are updated by \`.github/workflows/monitor.yml\`.
 `;

@@ -3368,5 +3368,305 @@
     "default_resume": "General CS/SWE",
     "monitor_queries": "technology; software engineer; data",
     "source_type": "Direct careers search"
+  },
+  {
+    "company": "Boeing",
+    "bucket": "Aerospace",
+    "priority": "P0",
+    "career_url": "https://jobs.boeing.com/",
+    "role_families": "Aerospace, Mechanical, Software, Data Science",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; entry level; software engineer; data scientist; mechanical engineer; aerospace engineer; flight systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "GE Aerospace",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://jobs.gecareers.com/aviation/global/en",
+    "role_families": "Aerospace, Mechanical, Manufacturing, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; early career; engineering development program; software engineer; data scientist; mechanical engineer; aerospace engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Honeywell",
+    "bucket": "Aerospace/Industrial",
+    "priority": "P1",
+    "career_url": "https://careers.honeywell.com/us/en/search-results",
+    "role_families": "Aerospace, Mechanical, Software, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "early career; software engineer; data scientist; mechanical engineer; aerospace engineer; systems engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Ford",
+    "bucket": "Automotive/EV",
+    "priority": "P1",
+    "career_url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; early career; software engineer; data scientist; mechanical engineer; manufacturing engineer",
+    "source_type": "Oracle Cloud careers search"
+  },
+  {
+    "company": "General Motors",
+    "bucket": "Automotive/EV",
+    "priority": "P1",
+    "career_url": "https://search-careers.gm.com/en/jobs/",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; entry level; software engineer; data scientist; mechanical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rivian",
+    "bucket": "Automotive/EV",
+    "priority": "P1",
+    "career_url": "https://careers.rivian.com/jobs",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; university; software engineer; data scientist; mechanical engineer; manufacturing engineer; autonomy",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lucid Motors",
+    "bucket": "Automotive/EV",
+    "priority": "P1",
+    "career_url": "https://lucidmotors.wd1.myworkdayjobs.com/Lucid",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; early career; software engineer; data scientist; mechanical engineer; manufacturing engineer; vehicle systems",
+    "source_type": "Workday"
+  },
+  {
+    "company": "Joby Aviation",
+    "bucket": "Aerospace/eVTOL",
+    "priority": "P1",
+    "career_url": "https://www.jobyaviation.com/careers/",
+    "role_families": "Aerospace, Mechanical, Software, Flight Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; mechanical engineer; aerospace engineer; flight controls; autonomy; systems engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Archer Aviation",
+    "bucket": "Aerospace/eVTOL",
+    "priority": "P1",
+    "career_url": "https://www.archer.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Flight Systems",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; mechanical engineer; aerospace engineer; flight controls; avionics; systems engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Wisk Aero",
+    "bucket": "Aerospace/eVTOL",
+    "priority": "P1",
+    "career_url": "https://wisk.aero/careers/",
+    "role_families": "Aerospace, Mechanical, Software, Autonomy",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; mechanical engineer; aerospace engineer; autonomy; avionics; flight systems",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Sierra Space",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.sierraspace.com/careers/",
+    "role_families": "Aerospace, Mechanical, Software, Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; entry level; software engineer; mechanical engineer; aerospace engineer; systems engineer; mission operations",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Stoke Space",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.stokespace.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Propulsion",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; propulsion; avionics; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Firefly Aerospace",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://fireflyspace.com/careers/",
+    "role_families": "Aerospace, Mechanical, Software, Propulsion",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; propulsion; avionics; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Axiom Space",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.axiomspace.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Mission Operations",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; mission operations; systems engineer; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Vast",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.vastspace.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Space Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; space systems; avionics; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hermeus",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://www.hermeus.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Propulsion",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; propulsion; flight systems; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Beta Technologies",
+    "bucket": "Aerospace/eVTOL",
+    "priority": "P1",
+    "career_url": "https://www.beta.team/careers/",
+    "role_families": "Aerospace, Mechanical, Software, Battery Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; battery; flight controls; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Boom Supersonic",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://boomsupersonic.com/careers",
+    "role_families": "Aerospace, Mechanical, Software, Flight Systems",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "software engineer; mechanical engineer; aerospace engineer; propulsion; flight systems; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Zipline",
+    "bucket": "Robotics/Autonomy",
+    "priority": "P1",
+    "career_url": "https://www.flyzipline.com/careers",
+    "role_families": "Software, Robotics, Mechanical, Data Science",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; robotics; autonomy; mechanical engineer; data scientist; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Red Hat",
+    "bucket": "Enterprise/Open Source",
+    "priority": "P1",
+    "career_url": "https://www.redhat.com/en/jobs",
+    "role_families": "Software, Technical Writing, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; early career; software engineer; technical writer; documentation; data scientist",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Canonical",
+    "bucket": "Enterprise/Open Source",
+    "priority": "P1",
+    "career_url": "https://canonical.com/careers/all",
+    "role_families": "Software, Technical Writing, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate; new grad; software engineer; technical writer; documentation; data scientist",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "F5",
+    "bucket": "Cloud/Security",
+    "priority": "P1",
+    "career_url": "https://www.f5.com/company/careers/jobs",
+    "role_families": "Software, Security, Technical Writing, Data",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "early career; software engineer; technical writer; documentation; data scientist; security engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "MathWorks",
+    "bucket": "Engineering Software",
+    "priority": "P1",
+    "career_url": "https://www.mathworks.com/company/jobs/opportunities.html",
+    "role_families": "Software, Data Science, Technical Writing, Mechanical",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; engineering development group; software engineer; data scientist; technical writer; mechanical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Ansys",
+    "bucket": "Engineering Software",
+    "priority": "P1",
+    "career_url": "https://www.ansys.com/careers/search-jobs",
+    "role_families": "Software, Data Science, Mechanical, Aerospace",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; data scientist; mechanical engineer; aerospace engineer; simulation",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Autodesk",
+    "bucket": "Engineering Software",
+    "priority": "P1",
+    "career_url": "https://www.autodesk.com/careers/job-search",
+    "role_families": "Software, Data Science, Technical Writing, Design Engineering",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; software engineer; data scientist; technical writer; documentation; mechanical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Siemens",
+    "bucket": "Industrial/Engineering Software",
+    "priority": "P1",
+    "career_url": "https://jobs.siemens.com/careers",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "graduate; early career; software engineer; data scientist; mechanical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "John Deere",
+    "bucket": "Industrial/Robotics",
+    "priority": "P1",
+    "career_url": "https://www.deere.com/en/our-company/john-deere-careers/",
+    "role_families": "Software, Data Science, Mechanical, Robotics",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "new grad; entry level; software engineer; data scientist; mechanical engineer; robotics; autonomy",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Caterpillar",
+    "bucket": "Industrial/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://careers.caterpillar.com/en/jobs/",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; early career; software engineer; data scientist; mechanical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Cummins",
+    "bucket": "Industrial/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://cummins.jobs/",
+    "role_families": "Software, Data Science, Mechanical, Manufacturing",
+    "default_resume": "General CS/SWE",
+    "monitor_queries": "new grad; early career; software engineer; data scientist; mechanical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "iRobot",
+    "bucket": "Robotics",
+    "priority": "P1",
+    "career_url": "https://www.irobot.com/en_US/careers.html",
+    "role_families": "Software, Robotics, Mechanical, Data Science",
+    "default_resume": "General CS/SWE or AI/ML",
+    "monitor_queries": "software engineer; robotics; mechanical engineer; data scientist; new grad; entry level",
+    "source_type": "Direct careers search"
   }
 ]
