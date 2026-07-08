@@ -290,16 +290,29 @@ function findCompensation(patterns, text, rejectHourly = false) {
   return "";
 }
 
-function extractCompensation(title, text = "") {
+function textFromValue(value) {
+  if (value == null) return "";
+  if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") return String(value);
+  if (Array.isArray(value)) return value.map((item) => textFromValue(item)).join("\n");
+  if (typeof value === "object") {
+    return Object.entries(value)
+      .map(([key, item]) => `${key}\n${textFromValue(item)}`)
+      .join("\n");
+  }
+  return "";
+}
+
+function extractCompensation(title, ...texts) {
+  const text = texts.map((value) => textFromValue(value)).join("\n");
   const haystack = normalize(`${title}\n${text}`);
   const isInternship = roleType(title, text) === "Internship";
   const hourlyPatterns = [
-    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|hourly)\b/i,
-    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|hourly)\b/i,
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)\b/i,
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)\b/i,
   ];
   const salaryPatterns = [
-    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:per\s+year|annually|\/\s?year|base\s+salary))?/i,
-    /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}\s?k\b(?:\s*(?:per\s+year|annually|\/\s?year|base\s+salary))?/i,
+    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:per\s+year|annually|\/\s?year|\/year|base\s+salary|usd))?/i,
+    /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}\s?k\b(?:\s*(?:per\s+year|annually|\/\s?year|\/year|base\s+salary|usd))?/i,
   ];
   if (isInternship) return findCompensation(hourlyPatterns, haystack);
   return findCompensation(salaryPatterns, haystack, true);
@@ -432,7 +445,7 @@ function greenhouseJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.updated_at ?? "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -444,7 +457,15 @@ function greenhouseJobToLead(source, job) {
 function leverJobToLead(source, job) {
   const title = normalize(job.text);
   const location = normalize(job.categories?.location);
-  const content = normalize(job.descriptionPlain);
+  const listContent = (job.lists ?? [])
+    .map((list) => `${list.text ?? ""}\n${list.content ?? ""}`)
+    .join("\n");
+  const content = normalize(`${job.descriptionPlain ?? ""}
+${job.descriptionBodyPlain ?? ""}
+${job.openingPlain ?? ""}
+${job.additionalPlain ?? ""}
+${job.additional ?? ""}
+${listContent}`);
   const category = categorize(title, content);
   const resumeChoice = chooseResume(title, content);
   const gradMatch = graduationMatch(title, content);
@@ -460,7 +481,7 @@ function leverJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.createdAt ? new Date(job.createdAt).toISOString() : "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -497,7 +518,7 @@ function ashbyJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.publishedAt ?? "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -527,7 +548,7 @@ function workdayJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.postedOn ?? "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -555,7 +576,7 @@ function phenomJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: job.postedDate ?? job.dateCreated ?? "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -583,7 +604,7 @@ function avatureJobToLead(source, job) {
     lead_status: "Tailor Resume",
     updated_at: "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),
@@ -671,7 +692,7 @@ function teslaListingToLead(source, row, lookups) {
     lead_status: "Tailor Resume",
     updated_at: "",
     category,
-    compensation: extractCompensation(title, content),
+    compensation: extractCompensation(title, content, row),
     graduation_match: gradMatch,
     jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
     fit_notes: fitNotes(title, category),

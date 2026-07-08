@@ -1,12 +1,12 @@
 {
-  "scanned_at": "2026-07-08T03:15:42.558Z",
+  "scanned_at": "2026-07-08T03:25:08.704Z",
   "fresh_leads": [],
   "scan_log": [
     {
       "company": "SpaceX",
       "adapter": "greenhouse",
       "status": "ok",
-      "matches": 503,
+      "matches": 504,
       "phase": "fast-pass"
     },
     {
@@ -277,7 +277,7 @@
       "phase": "fast-pass"
     },
     {
-      "company": "Intuit",
+      "company": "ServiceNow",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -291,42 +291,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "NVIDIA",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Airbnb",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "ServiceNow",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Amazon",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Lyft",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Netflix",
+      "company": "Intuit",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -340,6 +305,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Pinterest",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Atlassian",
       "status": "ok",
       "matched": true,
@@ -347,7 +319,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Adobe",
+      "company": "Airbnb",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -361,6 +333,27 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Netflix",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Lyft",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Amazon",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Spotify",
       "status": "ok",
       "matched": false,
@@ -368,21 +361,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "GitLab",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Pinterest",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Zoom",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "NVIDIA",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Notion",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -396,6 +389,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "GitLab",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Asana",
       "status": "ok",
       "matched": true,
@@ -403,23 +403,16 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Notion",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Meta",
+      "company": "Adobe",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "GitHub",
-      "status": "ok",
-      "matched": true,
+      "company": "Block",
+      "status": "error",
+      "error": "fetch failed",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -431,28 +424,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Reddit",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Affirm",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Capital One",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Goldman Sachs",
+      "company": "Apple",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -466,16 +438,79 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Apple",
+      "company": "Capital One",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Salesforce",
+      "company": "Meta",
       "status": "ok",
       "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "monday.com",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Vercel",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Airtable",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "SingleStore",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Goldman Sachs",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Affirm",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Cloudflare",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Snap",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "CrowdStrike",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -494,27 +529,6 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Airtable",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Cloudflare",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Fastly",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Ramp",
       "status": "ok",
       "matched": true,
@@ -522,70 +536,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "SingleStore",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Vercel",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Block",
-      "status": "error",
-      "error": "fetch failed",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Netlify",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "status": "error",
-      "error": "404 Not Found",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "monday.com",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "CrowdStrike",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Plaid",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Wiz",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Snyk",
+      "company": "Cockroach Labs",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -599,28 +550,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Cohere",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Harvey",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "JPMorgan Chase",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Glean",
+      "company": "Fastly",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -634,37 +564,37 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Cockroach Labs",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Snap",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "ElevenLabs",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Character.AI",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Oracle",
+      "company": "Salesforce",
       "status": "ok",
       "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "GitHub",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Reddit",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Netlify",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Wiz",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -676,37 +606,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Microsoft",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "LangChain",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Modal",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Together AI",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Pinecone",
-      "status": "ok",
-      "matched": true,
+      "company": "Palo Alto Networks",
+      "status": "error",
+      "error": "404 Not Found",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -718,49 +620,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Hugging Face",
+      "company": "Harvey",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "C3 AI",
+      "company": "LangChain",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Dropbox",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Shield AI",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Runway",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Applied Intuition",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Sierra",
+      "company": "Together AI",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -774,16 +648,37 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Hudson River Trading",
+      "company": "Pinecone",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Citadel Securities",
-      "status": "error",
-      "error": "403 Forbidden",
+      "company": "Cohere",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Oracle",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Modal",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Character.AI",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -795,7 +690,98 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Dropbox",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Snyk",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Glean",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Fireworks AI",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Plaid",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Sierra",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "CoreWeave",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Runway",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Anthropic",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Hugging Face",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Microsoft",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "ElevenLabs",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Applied Intuition",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -809,21 +795,21 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Citadel Securities",
+      "status": "error",
+      "error": "403 Forbidden",
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Shield AI",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Two Sigma",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Akuna Capital",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Lambda",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -837,7 +823,35 @@
       "adapter": "direct-page"
     },
     {
-      "company": "MongoDB",
+      "company": "Hudson River Trading",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Instabase",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "C3 AI",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Lambda",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Akuna Capital",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -858,20 +872,6 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Cerebras",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Groq",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Brex",
       "status": "ok",
       "matched": false,
@@ -886,7 +886,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Benchling",
+      "company": "Groq",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Cerebras",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -900,14 +907,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Verkada",
+      "company": "Benchling",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Instabase",
+      "company": "Replit",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -915,20 +922,6 @@
     },
     {
       "company": "Rippling",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "SIGMA Computing",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Weights & Biases",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -949,28 +942,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Tower Research",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Qualcomm",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Arm",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "SIG",
+      "company": "Verkada",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -984,42 +956,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Replit",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Micron",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Fireworks AI",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Marvell",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Motional",
+      "company": "Qualcomm",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Five Rings",
+      "company": "SIGMA Computing",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1033,7 +977,28 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Nuro",
+      "company": "Weights & Biases",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Arm",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Tower Research",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Jump Trading",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1047,7 +1012,28 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Figure AI",
+      "company": "Micron",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Motional",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "SIG",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Nuro",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1068,9 +1054,37 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Marvell",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Figure AI",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Five Rings",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Target Tech",
       "status": "ok",
       "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Skild AI",
+      "status": "error",
+      "error": "404 Not Found",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1089,13 +1103,6 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Skild AI",
-      "status": "error",
-      "error": "404 Not Found",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Home Depot Technology",
       "status": "ok",
       "matched": true,
@@ -1103,30 +1110,23 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Aurora",
+      "company": "MongoDB",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Samsung Semiconductor",
+      "company": "Waymo",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Jump Trading",
+      "company": "Zoox",
       "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "DRW",
-      "status": "ok",
-      "matched": true,
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1145,14 +1145,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Zoox",
+      "company": "Samsung Semiconductor",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Waymo",
+      "company": "DRW",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1173,6 +1173,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Duolingo",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Hopper",
       "status": "ok",
       "matched": false,
@@ -1187,20 +1194,6 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Chewy",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Duolingo",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Agility Robotics",
       "status": "ok",
       "matched": false,
@@ -1208,7 +1201,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "eBay",
+      "company": "Etsy",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -1229,6 +1222,20 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Expedia Group",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Aurora",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Walmart Global Tech",
       "status": "ok",
       "matched": true,
@@ -1236,14 +1243,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Etsy",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Arista Networks",
+      "company": "eBay",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -1257,16 +1257,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Texas Instruments",
+      "company": "Arista Networks",
       "status": "ok",
       "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Miro",
-      "status": "ok",
-      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1278,14 +1271,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Coursera",
+      "company": "Chewy",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Twitch",
+      "company": "Miro",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Coursera",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -1306,6 +1306,20 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Boston Dynamics",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Twitch",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Workday",
       "status": "ok",
       "matched": false,
@@ -1320,42 +1334,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Boston Dynamics",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Rubrik",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Zapier",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Pure Storage",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "New Relic",
+      "company": "Wayfair",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Braze",
+      "company": "Rubrik",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1369,6 +1355,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Zapier",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Klaviyo",
       "status": "ok",
       "matched": true,
@@ -1376,30 +1369,16 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Anthropic",
+      "company": "SAP",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Yelp",
+      "company": "New Relic",
       "status": "ok",
       "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Sentry",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Grammarly",
-      "status": "ok",
-      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1411,35 +1390,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "HPE",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Wayfair",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Qualtrics",
+      "company": "Braze",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "NetApp",
+      "company": "Texas Instruments",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Honeycomb",
+      "company": "Pure Storage",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1453,7 +1418,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "DocuSign",
+      "company": "NetApp",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Honeycomb",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1474,28 +1446,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Postman",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Nutanix",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "SentinelOne",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Fivetran",
+      "company": "Cohesity",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1509,14 +1460,28 @@
       "adapter": "direct-page"
     },
     {
-      "company": "dbt Labs",
-      "status": "error",
-      "error": "404 Not Found",
+      "company": "HackerOne",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
       "company": "Sumo Logic",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Yelp",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Grammarly",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1530,126 +1495,35 @@
       "adapter": "direct-page"
     },
     {
-      "company": "SAP",
+      "company": "Fivetran",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "HackerOne",
+      "company": "Sentry",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Cohesity",
+      "company": "SentinelOne",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Astronomer",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "ClickHouse",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Zendesk",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Starburst",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Rapid7",
+      "company": "dbt Labs",
       "status": "error",
       "error": "404 Not Found",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "MotherDuck",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Expedia Group",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Dremio",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "1Password",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Neo4j",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Supabase",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Railway",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Airbyte",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Fly.io",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Render",
+      "company": "Splunk",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1663,6 +1537,62 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Zendesk",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "MotherDuck",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Postman",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "ClickHouse",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Rapid7",
+      "status": "error",
+      "error": "404 Not Found",
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Starburst",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Supabase",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Airbyte",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Midjourney",
       "status": "error",
       "error": "403 Forbidden",
@@ -1670,14 +1600,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Prefect",
+      "company": "DocuSign",
       "status": "ok",
-      "matched": false,
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Splunk",
+      "company": "Neo4j",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Astronomer",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1691,7 +1628,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Grafana Labs",
+      "company": "Fly.io",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Dremio",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1699,6 +1643,27 @@
     },
     {
       "company": "Poolside",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Prefect",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "1Password",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Timescale",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1719,9 +1684,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Anyscale",
+      "company": "HPE",
       "status": "ok",
-      "matched": true,
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1733,9 +1698,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Timescale",
+      "company": "Inflection AI",
       "status": "ok",
-      "matched": true,
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1747,7 +1712,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Recursion",
+      "company": "Anyscale",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1761,9 +1726,16 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Luma AI",
+      "company": "Grafana Labs",
       "status": "ok",
-      "matched": false,
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Recursion",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1775,35 +1747,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Inflection AI",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Kraken",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Abridge",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Ripple",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Chainlink Labs",
+      "company": "Qualtrics",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1817,6 +1761,34 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Luma AI",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Abridge",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Niantic",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Kraken",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Coinbase",
       "status": "ok",
       "matched": true,
@@ -1824,9 +1796,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Uniswap Labs",
-      "status": "error",
-      "error": "404 Not Found",
+      "company": "Baseten",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1838,21 +1810,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Gemini",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "SoFi",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Replicate",
+      "company": "Chainlink Labs",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1866,6 +1824,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Gemini",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Vapi",
       "status": "ok",
       "matched": true,
@@ -1873,9 +1838,16 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Baseten",
+      "company": "Replicate",
       "status": "ok",
       "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Ripple",
+      "status": "ok",
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -1894,28 +1866,21 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Neon",
+      "company": "Uniswap Labs",
+      "status": "error",
+      "error": "404 Not Found",
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Insitro",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Remitly",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Morgan Stanley",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Flatiron Health",
+      "company": "SoFi",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1929,6 +1894,34 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Flatiron Health",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Render",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Nutanix",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Railway",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Snorkel AI",
       "status": "ok",
       "matched": true,
@@ -1936,28 +1929,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Insitro",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "PathAI",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Virtu Financial",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Bank of America",
+      "company": "Remitly",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -1971,28 +1943,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Natera",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Schonfeld",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Balyasny Asset Management",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "D.E. Shaw",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2006,7 +1957,42 @@
       "adapter": "direct-page"
     },
     {
+      "company": "PathAI",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Bank of America",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Balyasny Asset Management",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Neon",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "PayPal",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Mastercard",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2020,14 +2006,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Niantic",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Adyen",
+      "company": "Natera",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2048,9 +2027,16 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Charles Schwab",
+      "company": "Astranis",
       "status": "ok",
-      "matched": false,
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Adyen",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -2062,7 +2048,35 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Fidelity Investments",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "D.E. Shaw",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Charles Schwab",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Axon",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Skydio",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2076,6 +2090,13 @@
       "adapter": "direct-page"
     },
     {
+      "company": "Hadrian",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
       "company": "Relativity Space",
       "status": "ok",
       "matched": true,
@@ -2083,14 +2104,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Mastercard",
+      "company": "Virtu Financial",
       "status": "ok",
-      "matched": true,
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Skydio",
+      "company": "L3Harris",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2111,7 +2132,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Hadrian",
+      "company": "Morgan Stanley",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Commure",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2132,14 +2160,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Commure",
+      "company": "AQR",
       "status": "ok",
-      "matched": true,
+      "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Lockheed Martin",
+      "company": "Rocket Lab",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2153,14 +2181,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "L3Harris",
+      "company": "Netskope",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Rocket Lab",
+      "company": "JetBrains",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2174,28 +2202,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "JetBrains",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Fidelity Investments",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Retool",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Sourcegraph",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2209,14 +2216,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Doximity",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Windsurf",
+      "company": "Nextdoor",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2230,14 +2230,28 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Nextdoor",
+      "company": "Sourcegraph",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Windsurf",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Verizon",
+      "company": "Roku",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Doximity",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2251,13 +2265,6 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Astranis",
-      "status": "error",
-      "error": "fetch failed",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
       "company": "Boeing",
       "status": "ok",
       "matched": true,
@@ -2265,7 +2272,28 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Strava",
+      "company": "Amplitude",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Lockheed Martin",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Verizon",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Vast",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2279,30 +2307,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Codeium",
+      "company": "Axiom Space",
       "status": "ok",
       "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Netskope",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Vanguard",
-      "status": "error",
-      "error": "404 Not Found",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Amplitude",
-      "status": "ok",
-      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -2314,7 +2321,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Axiom Space",
+      "company": "Codeium",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2335,49 +2342,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Vast",
-      "status": "ok",
-      "matched": false,
+      "company": "GE Aerospace",
+      "status": "error",
+      "error": "fetch failed",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
       "company": "General Motors",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Roku",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Primer AI",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "AQR",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Sierra Space",
-      "status": "error",
-      "error": "403 Forbidden",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Checkr",
       "status": "ok",
       "matched": true,
       "phase": "fast-pass",
@@ -2391,14 +2363,14 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Joby Aviation",
-      "status": "ok",
-      "matched": false,
+      "company": "Vanguard",
+      "status": "error",
+      "error": "404 Not Found",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Northrop Grumman",
+      "company": "Joby Aviation",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2419,37 +2391,23 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Garmin",
+      "company": "Northrop Grumman",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "Stoke Space",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "MathWorks",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Hermeus",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "GE Aerospace",
+      "company": "Sierra Space",
       "status": "error",
-      "error": "fetch failed",
+      "error": "403 Forbidden",
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Checkr",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -2461,9 +2419,65 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Autodesk",
-      "status": "error",
-      "error": "404 Not Found",
+      "company": "Garmin",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Circle",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Strava",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Rivian",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Hermeus",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Canonical",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Stoke Space",
+      "status": "ok",
+      "matched": false,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Primer AI",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "MathWorks",
+      "status": "ok",
+      "matched": true,
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -2475,14 +2489,35 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Cummins",
-      "status": "ok",
-      "matched": false,
+      "company": "Ansys",
+      "status": "error",
+      "error": "404 Not Found",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
     {
-      "company": "John Deere",
+      "company": "Autodesk",
+      "status": "error",
+      "error": "404 Not Found",
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Zipline",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Beta Technologies",
+      "status": "ok",
+      "matched": true,
+      "phase": "fast-pass",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Cummins",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2496,21 +2531,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Beta Technologies",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Zipline",
-      "status": "ok",
-      "matched": true,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Rivian",
+      "company": "John Deere",
       "status": "ok",
       "matched": false,
       "phase": "fast-pass",
@@ -2538,16 +2559,9 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Ansys",
+      "company": "Lucid Motors",
       "status": "error",
-      "error": "404 Not Found",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Canonical",
-      "status": "ok",
-      "matched": true,
+      "error": "500 Internal Server Error",
       "phase": "fast-pass",
       "adapter": "direct-page"
     },
@@ -2559,35 +2573,7 @@
       "adapter": "direct-page"
     },
     {
-      "company": "Circle",
-      "status": "ok",
-      "matched": false,
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Lucid Motors",
-      "status": "error",
-      "error": "500 Internal Server Error",
-      "phase": "fast-pass",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Astranis",
-      "status": "ok",
-      "matched": true,
-      "phase": "double-check",
-      "adapter": "direct-page"
-    },
-    {
       "company": "GE Aerospace",
-      "status": "error",
-      "error": "fetch failed",
-      "phase": "double-check",
-      "adapter": "direct-page"
-    },
-    {
-      "company": "Block",
       "status": "error",
       "error": "fetch failed",
       "phase": "double-check",
@@ -2597,6 +2583,13 @@
       "company": "Tempus",
       "status": "error",
       "error": "429 Too Many Requests",
+      "phase": "double-check",
+      "adapter": "direct-page"
+    },
+    {
+      "company": "Block",
+      "status": "error",
+      "error": "fetch failed",
       "phase": "double-check",
       "adapter": "direct-page"
     },
@@ -2616,15 +2609,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-08T03:15:42.558Z",
-    "elapsed_ms": 29330,
+    "scanned_at": "2026-07-08T03:25:08.704Z",
+    "elapsed_ms": 28882,
     "companies_in_target_list": 367,
     "ats_sources_configured": 39,
     "direct_sources_attempted": 329,
     "double_check_enabled": true,
-    "double_check_attempts": 5,
+    "double_check_attempts": 4,
     "unique_sources_attempted": 368,
-    "total_fetch_attempts": 373,
+    "total_fetch_attempts": 372,
     "ok_sources": 336,
     "error_sources": 31,
     "blocked_sources": 1,
@@ -2636,7 +2629,7 @@
       "404 NOT FOUND": 1,
       "500 Internal Server Error": 1
     },
-    "board_eligible_candidates": 31,
+    "board_eligible_candidates": 46,
     "stale_after_days": 21,
     "unattempted_companies": []
   }

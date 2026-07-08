@@ -1,13 +1,13 @@
 {
-  "scanned_at": "2026-07-08T03:15:42.558Z",
-  "elapsed_ms": 29330,
+  "scanned_at": "2026-07-08T03:25:08.704Z",
+  "elapsed_ms": 28882,
   "companies_in_target_list": 367,
   "ats_sources_configured": 39,
   "direct_sources_attempted": 329,
   "double_check_enabled": true,
-  "double_check_attempts": 5,
+  "double_check_attempts": 4,
   "unique_sources_attempted": 368,
-  "total_fetch_attempts": 373,
+  "total_fetch_attempts": 372,
   "ok_sources": 336,
   "error_sources": 31,
   "blocked_sources": 1,
@@ -19,7 +19,7 @@
     "404 NOT FOUND": 1,
     "500 Internal Server Error": 1
   },
-  "board_eligible_candidates": 31,
+  "board_eligible_candidates": 46,
   "stale_after_days": 21,
   "unattempted_companies": []
 }
