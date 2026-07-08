@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-08T03:15:42.558Z",
-  "elapsed_ms": 29330,
+  "scanned_at": "2026-07-08T03:18:25.746Z",
+  "elapsed_ms": 31116,
   "companies_in_target_list": 367,
   "ats_sources_configured": 39,
   "direct_sources_attempted": 329,
@@ -8,14 +8,15 @@
   "double_check_attempts": 5,
   "unique_sources_attempted": 368,
   "total_fetch_attempts": 373,
-  "ok_sources": 336,
-  "error_sources": 31,
+  "ok_sources": 334,
+  "error_sources": 33,
   "blocked_sources": 1,
   "error_breakdown": {
-    "403 Forbidden": 11,
+    "403 Forbidden": 13,
     "fetch failed": 2,
-    "404 Not Found": 14,
+    "404 Not Found": 13,
     "429 Too Many Requests": 2,
+    "503 Service Unavailable": 1,
     "404 NOT FOUND": 1,
     "500 Internal Server Error": 1
   },
