@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 8, 2026 at 10:38 AM EDT
+Last updated: July 8, 2026 at 12:18 PM EDT
 
 Companies tracked: 367
 
@@ -77,8 +77,8 @@ _No roles found yet._
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted/Seen | Apply |
 |---|---|---|---|---|---|---|
-| IMC Trading | Machine Learning Research Intern - Summer 2027 | Amsterdam, Netherlands | - | 2027 grad eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
-| IMC Trading | Machine Learning Research Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
+| IMC Trading | Machine Learning Research Intern - Summer 2027 - Amsterdam | Amsterdam, Netherlands | - | 2027 grad eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
+| IMC Trading | Machine Learning Research Intern - Summer 2027 - Chicago | Chicago, United States | - | 2027 internship eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
 | IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-08 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
