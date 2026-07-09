@@ -14,20 +14,57 @@ const scanOutputPath = path.join(dataDir, "latest_scan.json");
 const coverageOutputPath = path.join(dataDir, "coverage.json");
 const csvOutputPath = path.join(dataDir, "roles.csv");
 const readmePath = path.join(rootDir, "README.md");
-const recentDays = Number.parseInt(process.env.RECENT_DAYS ?? "7", 10);
+
+function envInteger(name, fallback, { min = 0, max = Number.MAX_SAFE_INTEGER } = {}) {
+  const raw = process.env[name];
+  if (raw == null || raw === "") return fallback;
+  const value = Number(raw);
+  if (!Number.isSafeInteger(value) || value < min || value > max) {
+    throw new Error(`${name} must be an integer between ${min} and ${max}; received ${JSON.stringify(raw)}`);
+  }
+  return value;
+}
+
+const recentDays = envInteger("RECENT_DAYS", 7, { min: 1, max: 365 });
 const includeDirectPageLeads = process.env.INCLUDE_DIRECT_PAGE_LEADS === "1";
-const maxNewPerCompany = Number.parseInt(process.env.MAX_NEW_PER_COMPANY ?? "20", 10);
+const maxNewPerCompany = envInteger("MAX_NEW_PER_COMPANY", 20, { min: 1, max: 500 });
 const startedAt = Date.now();
-const fetchTimeoutMs = Number.parseInt(process.env.FETCH_TIMEOUT_MS ?? "7000", 10);
-const fetchRetries = Number.parseInt(process.env.FETCH_RETRIES ?? "0", 10);
-const fetchRetryBaseMs = Number.parseInt(process.env.FETCH_RETRY_BASE_MS ?? "350", 10);
-const directPageConcurrency = Number.parseInt(process.env.DIRECT_PAGE_CONCURRENCY ?? "48", 10);
+const fetchTimeoutMs = envInteger("FETCH_TIMEOUT_MS", 7000, { min: 1000, max: 120000 });
+const fetchRetries = envInteger("FETCH_RETRIES", 0, { min: 0, max: 5 });
+const fetchRetryBaseMs = envInteger("FETCH_RETRY_BASE_MS", 350, { min: 0, max: 30000 });
+const atsSourceConcurrency = envInteger("ATS_SOURCE_CONCURRENCY", 12, { min: 1, max: 64 });
+const directPageConcurrency = envInteger("DIRECT_PAGE_CONCURRENCY", 48, { min: 1, max: 128 });
+const htmlDetailConcurrency = envInteger("HTML_DETAIL_CONCURRENCY", 4, { min: 1, max: 16 });
 const doubleCheckErrors = process.env.DOUBLE_CHECK_ERRORS !== "0";
-const doubleCheckTimeoutMs = Number.parseInt(process.env.DOUBLE_CHECK_TIMEOUT_MS ?? "15000", 10);
-const doubleCheckConcurrency = Number.parseInt(process.env.DOUBLE_CHECK_CONCURRENCY ?? "16", 10);
-const staleAfterDays = Number.parseInt(process.env.STALE_AFTER_DAYS ?? "21", 10);
+const doubleCheckTimeoutMs = envInteger("DOUBLE_CHECK_TIMEOUT_MS", 15000, { min: 1000, max: 180000 });
+const doubleCheckConcurrency = envInteger("DOUBLE_CHECK_CONCURRENCY", 16, { min: 1, max: 64 });
+const staleAfterDays = envInteger("STALE_AFTER_DAYS", 21, { min: 1, max: 365 });
+const minAtsSuccessPercent = envInteger("MIN_ATS_SUCCESS_PERCENT", 75, { min: 0, max: 100 });
 const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
 const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
+const supportedAdapters = new Set([
+  "greenhouse",
+  "lever",
+  "ashby",
+  "workday",
+  "phenom",
+  "avature",
+  "tesla",
+  "html_jobs",
+  "google_careers",
+]);
+const defaultSearchTexts = [
+  "software engineer",
+  "new grad",
+  "early career",
+  "2027 intern",
+  "data science",
+  "technical writer",
+  "mechanical engineer",
+  "aerospace engineer",
+  "hardware engineer",
+  "quantitative",
+];
 
 const titleRolePatterns = [
   /(?:2027|summer\s+2027|spring\s+2027|fall\s+2027).*(?:software|developer|\bSWE\b|machine\s+learning|\bML\b|\bAI\b|data|platform|infrastructure|forward\s+deployed|quant|technical\s+writer|documentation|mechanical|aerospace|avionics|propulsion|manufacturing|systems)/i,
@@ -130,6 +167,14 @@ const excludedLocationPatterns = [
   /germany|france|japan|poland|romania|netherlands|amsterdam/i,
 ];
 
+const explicitUnitedStatesLocationPatterns = [
+  /\b(?:United States(?: of America)?|US|USA|U\.S\.A\.?|U\.S\.)\b/i,
+  /\b(?:Remote|Virtual|Hybrid)\s*[-,(]?\s*(?:US|USA|United States)\b/i,
+  /\bWashington,?\s+D\.?C\.?\b/i,
+  /(?:^|[,;/]\s*)(?:AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)(?:\b|$)/,
+];
+const namedUnitedStatesStatePattern = /\b(?:Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia|Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland|Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey|New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina|South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming)\b/i;
+
 const aiPatterns = [/machine\s+learning/i, /\bAI\b/i, /\bML\b/i, /data/i, /model/i, /platform/i];
 const targetGradPatterns = [
   /class\s+of\s+2027/i,
@@ -165,8 +210,41 @@ function normalize(value) {
   return String(value ?? "").trim();
 }
 
+function absoluteHttpUrl(baseUrl, value) {
+  const candidate = normalize(value);
+  if (!candidate) return "";
+  try {
+    const resolved = new URL(candidate, baseUrl);
+    return ["http:", "https:"].includes(resolved.protocol) ? resolved.toString() : "";
+  } catch {
+    return "";
+  }
+}
+
+function searchTextsFor(source) {
+  const configured = Array.isArray(source.searchTexts) && source.searchTexts.length > 0
+    ? source.searchTexts
+    : [source.searchText, ...defaultSearchTexts];
+  return [...new Set(configured.map(normalize).filter(Boolean))];
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function mapConcurrent(items, concurrency, mapper) {
+  if (items.length === 0) return [];
+  const results = new Array(items.length);
+  let nextIndex = 0;
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex;
+      nextIndex += 1;
+      results[index] = await mapper(items[index], index);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, () => worker()));
+  return results;
 }
 
 function canonicalApplyUrl(url) {
@@ -174,10 +252,18 @@ function canonicalApplyUrl(url) {
   if (!value) return "";
   try {
     const parsed = new URL(value);
+    parsed.hash = "";
     if (/\/jobs\/results\/\d+/i.test(parsed.pathname)) {
       parsed.search = "";
-      parsed.hash = "";
+    } else {
+      for (const key of [...parsed.searchParams.keys()]) {
+        if (/^utm_/i.test(key) || /^(?:gh_src|lever-source|ref|referrer|source|sourceToken)$/i.test(key)) {
+          parsed.searchParams.delete(key);
+        }
+      }
+      parsed.searchParams.sort();
     }
+    if (parsed.pathname !== "/") parsed.pathname = parsed.pathname.replace(/\/+$/, "");
     return parsed.toString();
   } catch {
     return value;
@@ -198,9 +284,8 @@ function applyUrl(lead) {
   return canonicalApplyUrl(lead.direct_apply_url ?? lead.url ?? "");
 }
 
-function isRelevant(title, text = "") {
-  const haystack = `${title}\n${text}`;
-  return titleRolePatterns.some((pattern) => pattern.test(haystack));
+function isRelevant(title) {
+  return titleRolePatterns.some((pattern) => pattern.test(title));
 }
 
 function isProbablySenior(title) {
@@ -276,6 +361,7 @@ function isFreshEnough(lead) {
   const title = roleTitle(lead);
   const context = `${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
   if (excludedDirectApplyUrls.has(normalize(applyUrl(lead)))) return false;
+  if (!isRelevant(title)) return false;
   if (!isEligibleRole(title, context)) return false;
   if (/2027/.test(`${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}`)) return true;
   if (/\b(?:new\s+grad(?:uate)?|university\s+grad(?:uate)?|graduate\s+\w+\s+engineer|early\s+careers?|entry[-\s]?level|career\s+catalyst|recent\s+grad(?:uate)?)\b/i.test(title)) return true;
@@ -287,8 +373,11 @@ function isFreshEnough(lead) {
 }
 
 function isAllowedLocation(lead) {
-  const location = lead.location ?? "";
-  return !excludedLocationPatterns.some((pattern) => pattern.test(location));
+  const location = normalize(lead.location);
+  if (!location) return false;
+  if (explicitUnitedStatesLocationPatterns.some((pattern) => pattern.test(location))) return true;
+  if (excludedLocationPatterns.some((pattern) => pattern.test(location))) return false;
+  return namedUnitedStatesStatePattern.test(location);
 }
 
 function fitNotes(title, category) {
@@ -382,21 +471,48 @@ function formatMoneyValue(value, currency = "USD") {
   return currency.toUpperCase() === "USD" ? `$${formatted}` : `${formatted} ${currency.toUpperCase()}`;
 }
 
-function structuredCompensationFromValue(value) {
+function compensationPeriodSuffix(value) {
+  const unit = normalize(value).toUpperCase();
+  if (/HOUR/.test(unit)) return "/hr";
+  if (/DAY/.test(unit)) return "/day";
+  if (/WEEK/.test(unit)) return "/week";
+  if (/MONTH/.test(unit)) return "/month";
+  return "";
+}
+
+function structuredCompensationFromValue(value, seen = new Set()) {
   if (!value || typeof value !== "object") return "";
+  if (seen.has(value)) return "";
+  seen.add(value);
   const candidate = value.baseSalary ?? value.estimatedSalary ?? (/\b(?:MonetaryAmount|MonetaryAmountDistribution)\b/i.test(normalize(value["@type"])) ? value : null);
-  if (!candidate || typeof candidate !== "object") return "";
-  const amount = candidate.value && typeof candidate.value === "object" ? candidate.value : candidate;
-  const currency = normalize(candidate.currency ?? amount.currency) || "USD";
-  const min = amount.minValue ?? amount.minvalue;
-  const max = amount.maxValue ?? amount.maxvalue;
-  const single = amount.value ?? amount.amount;
-  if (min != null && max != null) {
-    const minText = formatMoneyValue(min, currency);
-    const maxText = formatMoneyValue(max, currency);
-    return minText && maxText ? `${minText} - ${maxText}` : "";
+  if (candidate && typeof candidate === "object") {
+    const amount = candidate.value && typeof candidate.value === "object" ? candidate.value : candidate;
+    const currency = normalize(candidate.currency ?? amount.currency) || "USD";
+    const suffix = compensationPeriodSuffix(amount.unitText ?? candidate.unitText);
+    const min = amount.minValue ?? amount.minvalue;
+    const max = amount.maxValue ?? amount.maxvalue;
+    const single = amount.value ?? amount.amount;
+    if (min != null && max != null) {
+      const minText = formatMoneyValue(min, currency);
+      const maxText = formatMoneyValue(max, currency);
+      if (minText && maxText) return `${minText} - ${maxText}${suffix}`;
+    }
+    const singleText = formatMoneyValue(single, currency);
+    if (singleText) return `${singleText}${suffix}`;
   }
-  return formatMoneyValue(single, currency);
+  for (const item of Object.values(value)) {
+    if (!item || typeof item !== "object") continue;
+    const nested = structuredCompensationFromValue(item, seen);
+    if (nested) return nested;
+  }
+  return "";
+}
+
+function ensureHourlySuffix(value) {
+  const normalized = normalizeCompensation(value);
+  if (!normalized || /\b(?:hourly|per hour|an hour)\b|\/(?:hr|hour)\b/i.test(normalized)) return normalized;
+  if (!/^\$\s?\d{1,3}(?:\.\d{1,2})?(?:\s*-\s*\$?\s?\d{1,3}(?:\.\d{1,2})?)?(?:\s+USD)?$/i.test(normalized)) return normalized;
+  return /\s+USD$/i.test(normalized) ? normalized.replace(/\s+USD$/i, "/hr USD") : `${normalized}/hr`;
 }
 
 function textFromValue(value) {
@@ -433,7 +549,9 @@ function extractCompensation(title, ...texts) {
     /\$\s?\d{5,6}(?:\.\d{1,2})?\s*(?:\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
     /\$\s?\d{2,3}\s?k\b\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
   ];
-  if (isInternship) return findCompensation(hourlyPatterns, haystack) || structuredCompensation || compensationFromMoneyFallback(haystack, true);
+  if (isInternship) {
+    return ensureHourlySuffix(findCompensation(hourlyPatterns, haystack) || structuredCompensation || compensationFromMoneyFallback(haystack, true));
+  }
   return findCompensation(salaryPatterns, haystack, true) || structuredCompensation || compensationFromMoneyFallback(haystack, false);
 }
 
@@ -444,6 +562,96 @@ async function readJson(filePath, fallback) {
     if (error.code === "ENOENT") return fallback;
     throw error;
   }
+}
+
+function isHttpUrl(value) {
+  try {
+    return ["http:", "https:"].includes(new URL(value).protocol);
+  } catch {
+    return false;
+  }
+}
+
+function validateConfiguration(targets, sources) {
+  if (!Array.isArray(targets)) throw new Error("data/company_sources.json must contain a JSON array");
+  if (!Array.isArray(sources)) throw new Error("data/ats_sources.json must contain a JSON array");
+  if (targets.length === 0) throw new Error("data/company_sources.json must contain at least one company");
+  if (sources.length === 0) throw new Error("data/ats_sources.json must contain at least one source");
+
+  const targetCompanies = new Set();
+  for (const [index, target] of targets.entries()) {
+    const label = `company_sources.json[${index}]`;
+    if (!normalize(target?.company)) throw new Error(`${label}.company is required`);
+    const companyKey = normalize(target.company).toLowerCase();
+    if (targetCompanies.has(companyKey)) throw new Error(`Duplicate company target: ${target.company}`);
+    targetCompanies.add(companyKey);
+    if (!isHttpUrl(target.career_url)) throw new Error(`${label}.career_url must be an HTTP(S) URL`);
+    if (!/^P[0-2]$/.test(normalize(target.priority))) throw new Error(`${label}.priority must be P0, P1, or P2`);
+  }
+
+  const requiredByAdapter = {
+    greenhouse: ["board"],
+    lever: ["site"],
+    ashby: ["board"],
+    workday: ["tenant", "site"],
+    phenom: ["baseUrl"],
+    avature: ["baseUrl"],
+    tesla: ["url"],
+  };
+  const sourceKeys = new Set();
+  for (const [index, source] of sources.entries()) {
+    const label = `ats_sources.json[${index}]`;
+    if (!normalize(source?.company)) throw new Error(`${label}.company is required`);
+    if (!supportedAdapters.has(source.adapter)) throw new Error(`${label}.adapter is unsupported: ${source.adapter}`);
+    if (source.priority != null && !/^P[0-2]$/.test(normalize(source.priority))) {
+      throw new Error(`${label}.priority must be P0, P1, or P2`);
+    }
+    if (!targetCompanies.has(normalize(source.company).toLowerCase())) {
+      throw new Error(`${label}.company is missing from company_sources.json: ${source.company}`);
+    }
+    const sourceKey = `${normalize(source.company).toLowerCase()}|${source.adapter}`;
+    if (sourceKeys.has(sourceKey)) throw new Error(`Duplicate ATS source: ${source.company} (${source.adapter})`);
+    sourceKeys.add(sourceKey);
+    for (const field of requiredByAdapter[source.adapter] ?? []) {
+      if (!normalize(source[field])) throw new Error(`${label}.${field} is required for ${source.adapter}`);
+    }
+    if (["phenom", "avature"].includes(source.adapter) && !isHttpUrl(source.baseUrl)) {
+      throw new Error(`${label}.baseUrl must be an HTTP(S) URL`);
+    }
+    if (source.adapter === "tesla" && !isHttpUrl(source.url)) {
+      throw new Error(`${label}.url must be an HTTP(S) URL`);
+    }
+    if (["html_jobs", "google_careers"].includes(source.adapter)) {
+      const urls = source.urls ?? (source.url ? [source.url] : []);
+      if (!Array.isArray(urls) || urls.length === 0 || urls.some((url) => !isHttpUrl(url))) {
+        throw new Error(`${label} must define at least one valid HTTP(S) url`);
+      }
+      for (const pattern of source.detailUrlPatterns ?? []) {
+        try {
+          new RegExp(pattern, "i");
+        } catch (error) {
+          throw new Error(`${label}.detailUrlPatterns contains an invalid regex: ${error.message}`);
+        }
+      }
+    }
+    if (source.searchTexts != null && (!Array.isArray(source.searchTexts) || source.searchTexts.length === 0 || source.searchTexts.some((value) => !normalize(value)))) {
+      throw new Error(`${label}.searchTexts must be a non-empty array of strings`);
+    }
+    for (const field of ["timeoutMs", "doubleCheckTimeoutMs", "limit", "detailLimit", "maxPages"]) {
+      if (source[field] != null && (!Number.isSafeInteger(source[field]) || source[field] <= 0)) {
+        throw new Error(`${label}.${field} must be a positive integer`);
+      }
+    }
+  }
+}
+
+function retryAfterMs(response) {
+  const value = response.headers.get("retry-after");
+  if (!value) return 0;
+  const seconds = Number(value);
+  if (Number.isFinite(seconds) && seconds >= 0) return Math.min(seconds * 1000, 120000);
+  const date = Date.parse(value);
+  return Number.isNaN(date) ? 0 : Math.min(Math.max(date - Date.now(), 0), 120000);
 }
 
 async function fetchWithRetries(url, accept, readBody, timeoutMs = fetchTimeoutMs, init = {}) {
@@ -464,17 +672,20 @@ async function fetchWithRetries(url, accept, readBody, timeoutMs = fetchTimeoutM
       if (!response.ok) {
         const error = new Error(`${response.status} ${response.statusText}`);
         error.retryable = response.status === 408 || response.status === 429 || response.status >= 500;
+        error.retryAfterMs = retryAfterMs(response);
         throw error;
       }
-      const body = await readBody(response);
-      clearTimeout(timeout);
-      return body;
+      return await readBody(response);
     } catch (error) {
-      clearTimeout(timeout);
-      lastError = error;
+      lastError = error.name === "AbortError"
+        ? Object.assign(new Error(`request timed out after ${timeoutMs}ms`), { retryable: true })
+        : error;
       if (attempt >= fetchRetries || error.retryable === false) break;
-      const retryDelayMs = fetchRetryBaseMs * (2 ** attempt) + Math.floor(Math.random() * fetchRetryBaseMs);
+      const jitter = fetchRetryBaseMs > 0 ? Math.floor(Math.random() * fetchRetryBaseMs) : 0;
+      const retryDelayMs = Math.max(error.retryAfterMs ?? 0, fetchRetryBaseMs * (2 ** attempt) + jitter);
       await sleep(retryDelayMs);
+    } finally {
+      clearTimeout(timeout);
     }
   }
   throw lastError;
@@ -486,20 +697,6 @@ async function fetchJson(url, timeoutMs = fetchTimeoutMs) {
 
 async function fetchText(url, timeoutMs = fetchTimeoutMs, init = {}) {
   return fetchWithRetries(url, "text/html,text/plain,*/*", (response) => response.text(), timeoutMs, init);
-}
-
-async function withTimeout(promise, label, timeoutMs = fetchTimeoutMs) {
-  let timeout;
-  try {
-    return await Promise.race([
-      promise,
-      new Promise((_, reject) => {
-        timeout = setTimeout(() => reject(new Error(`timeout: ${label}`)), timeoutMs + 1000);
-      }),
-    ]);
-  } finally {
-    clearTimeout(timeout);
-  }
 }
 
 function isRetryableScanError(errorMessage = "") {
@@ -647,9 +844,14 @@ function ashbyJobToLead(source, job) {
 }
 
 function workdayJobToLead(source, job) {
-  const title = normalize(job.title);
-  const location = normalize(job.locationsText);
-  const content = normalize(`${job.title ?? ""}\n${job.timeType ?? ""}\n${job.locationsText ?? ""}\n${(job.bulletFields ?? []).join("\n")}`);
+  const info = job.jobPostingInfo && typeof job.jobPostingInfo === "object" ? job.jobPostingInfo : {};
+  const title = normalize(info.title ?? job.title);
+  const additionalLocations = Array.isArray(info.additionalLocations)
+    ? info.additionalLocations.map((item) => normalize(item?.location ?? item)).filter(Boolean)
+    : [];
+  const location = [normalize(info.location ?? job.locationsText), ...additionalLocations].filter(Boolean).join("; ");
+  const description = stripHtml(info.jobDescription ?? job.jobDescription ?? "");
+  const content = normalize(`${title}\n${info.timeType ?? job.timeType ?? ""}\n${location}\n${description}\n${(job.bulletFields ?? []).join("\n")}`);
   const category = categorize(title, content);
   const resumeChoice = chooseResume(title, content);
   const gradMatch = graduationMatch(title, content);
@@ -665,7 +867,7 @@ function workdayJobToLead(source, job) {
     direct_apply_url: url,
     career_source_url: sourceByCompany.get(source.company)?.career_url ?? url,
     lead_status: "Tailor Resume",
-    updated_at: job.postedOn ?? "",
+    updated_at: info.postedOn ?? info.startDate ?? job.postedOn ?? "",
     category,
     compensation: extractCompensation(title, content, job),
     graduation_match: gradMatch,
@@ -690,8 +892,8 @@ function phenomJobToLead(source, job) {
     location,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
-    direct_apply_url: job.applyUrl ?? job.url ?? sourceByCompany.get(source.company)?.career_url,
-    career_source_url: sourceByCompany.get(source.company)?.career_url ?? job.applyUrl ?? job.url,
+    direct_apply_url: absoluteHttpUrl(source.baseUrl, job.applyUrl ?? job.url) || sourceByCompany.get(source.company)?.career_url,
+    career_source_url: sourceByCompany.get(source.company)?.career_url ?? absoluteHttpUrl(source.baseUrl, job.applyUrl ?? job.url),
     lead_status: "Tailor Resume",
     updated_at: job.postedDate ?? job.dateCreated ?? "",
     category,
@@ -707,7 +909,7 @@ function phenomJobToLead(source, job) {
 function avatureJobToLead(source, job) {
   const title = normalize(job.title);
   const location = normalize(job.location);
-  const content = normalize(`${job.title ?? ""}\n${job.location ?? ""}`);
+  const content = normalize(`${job.title ?? ""}\n${job.location ?? ""}\n${job.description ?? ""}`);
   const category = categorize(title, content);
   const resumeChoice = chooseResume(title, content);
   const gradMatch = graduationMatch(title, content);
@@ -718,8 +920,8 @@ function avatureJobToLead(source, job) {
     location,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
-    direct_apply_url: job.url,
-    career_source_url: sourceByCompany.get(source.company)?.career_url ?? job.url,
+    direct_apply_url: absoluteHttpUrl(source.baseUrl, job.url),
+    career_source_url: sourceByCompany.get(source.company)?.career_url ?? absoluteHttpUrl(source.baseUrl, job.url),
     lead_status: "Tailor Resume",
     updated_at: "",
     category,
@@ -1096,77 +1298,123 @@ async function scanAshby(source, timeoutMs = fetchTimeoutMs) {
 async function scanWorkday(source, timeoutMs = fetchTimeoutMs) {
   const host = source.host ?? `${source.tenant}.wd1.myworkdayjobs.com`;
   const url = `https://${host}/wday/cxs/${source.tenant}/${source.site}/jobs`;
-  const data = await fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      limit: source.limit ?? 100,
-      offset: 0,
-      searchText: source.searchText ?? "software engineer",
-    }),
+  const limit = source.limit ?? 50;
+  const maxPages = source.maxPages ?? 3;
+  const jobsByPath = new Map();
+
+  for (const searchText of searchTextsFor(source)) {
+    for (let page = 0; page < maxPages; page += 1) {
+      const offset = page * limit;
+      const data = await fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ limit, offset, searchText }),
+      });
+      const postings = Array.isArray(data.jobPostings) ? data.jobPostings : [];
+      for (const job of postings) {
+        if (job.externalPath) jobsByPath.set(job.externalPath, job);
+      }
+      const total = Number(data.total);
+      if (postings.length < limit || (Number.isFinite(total) && offset + postings.length >= total)) break;
+    }
+  }
+
+  const candidates = [...jobsByPath.values()].filter((job) => {
+    const context = `${job.timeType ?? ""}\n${job.locationsText ?? ""}\n${(job.bulletFields ?? []).join("\n")}`;
+    return isRelevant(job.title)
+      && isEligibleRole(job.title, context)
+      && !hasOnlyExcludedGraduationWindow(job.title, context);
   });
-  return (data.jobPostings ?? [])
-    .filter((job) => isRelevant(job.title) && !hasOnlyExcludedGraduationWindow(job.title, `${job.timeType ?? ""}\n${job.locationsText ?? ""}\n${(job.bulletFields ?? []).join("\n")}`))
-    .map((job) => workdayJobToLead(source, job));
+  const detailLimit = source.detailLimit ?? 100;
+  const detailBase = `https://${host}/wday/cxs/${source.tenant}/${source.site}`;
+  const enriched = await mapConcurrent(candidates.slice(0, detailLimit), htmlDetailConcurrency, async (job) => {
+    try {
+      const detail = await fetchJson(`${detailBase}${job.externalPath}`, timeoutMs);
+      return { ...job, ...detail };
+    } catch {
+      return job;
+    }
+  });
+  return enriched.map((job) => workdayJobToLead(source, job));
 }
 
 async function scanPhenom(source, timeoutMs = fetchTimeoutMs) {
   const url = source.widgetsUrl ?? `${source.baseUrl}/widgets`;
-  const data = await fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Origin": source.baseUrl,
-      "Referer": source.referer ?? `${source.baseUrl}/global/en/search-results`,
-    },
-    body: JSON.stringify({
-      ddoKey: "refineSearch",
-      sortBy: "",
-      subsearch: "",
-      from: 0,
-      jobs: true,
-      counts: true,
-      all_fields: source.allFields ?? ["category", "country", "state", "city", "type"],
-      size: source.limit ?? 50,
-      clearAll: false,
-      jdsource: "facets",
-      isSliderEnable: false,
-      pageName: source.pageName ?? "search-results",
-      siteType: "external",
-      keywords: source.searchText ?? "software engineer",
-      global: true,
-      selected_fields: source.selectedFields ?? {},
-    }),
-  });
-  const jobs = data.refineSearch?.data?.jobs ?? [];
-  return jobs
+  const jobsByKey = new Map();
+  for (const searchText of searchTextsFor(source)) {
+    const data = await fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Origin": source.baseUrl,
+        "Referer": source.referer ?? `${source.baseUrl}/global/en/search-results`,
+      },
+      body: JSON.stringify({
+        ddoKey: "refineSearch",
+        sortBy: "",
+        subsearch: "",
+        from: 0,
+        jobs: true,
+        counts: true,
+        all_fields: source.allFields ?? ["category", "country", "state", "city", "type"],
+        size: source.limit ?? 50,
+        clearAll: false,
+        jdsource: "facets",
+        isSliderEnable: false,
+        pageName: source.pageName ?? "search-results",
+        siteType: "external",
+        keywords: searchText,
+        global: true,
+        selected_fields: source.selectedFields ?? {},
+      }),
+    });
+    for (const job of data.refineSearch?.data?.jobs ?? []) {
+      const key = normalize(job.jobId ?? job.reqId ?? job.applyUrl ?? job.url) || `${normalize(job.title)}|${normalize(job.location)}`;
+      jobsByKey.set(key, job);
+    }
+  }
+  return [...jobsByKey.values()]
     .filter((job) => isRelevant(job.title) && !hasOnlyExcludedGraduationWindow(job.title, `${job.descriptionTeaser ?? ""}\n${job.type ?? ""}\n${job.experienceLevel ?? ""}\n${job.category ?? ""}`))
     .map((job) => phenomJobToLead(source, job));
 }
 
 async function scanAvature(source, timeoutMs = fetchTimeoutMs) {
-  const query = encodeURIComponent(source.searchText ?? "software engineer");
   const limit = source.limit ?? 20;
-  const url = `${source.baseUrl}/careers/SearchJobs/?jobRecordsPerPage=${limit}&jobOffset=0&jobSearch=${query}`;
-  const html = await fetchText(url, timeoutMs, {
-    headers: {
-      "User-Agent": "Mozilla/5.0",
-      "Accept": "text/html,*/*",
-    },
-  });
-  const cards = [...html.matchAll(/<article[\s\S]*?<\/article>/gi)].map((match) => match[0]);
-  return cards
-    .map((card) => {
-      const titleMatch = card.match(/<a class="link" href="([^"]+)">\s*([\s\S]*?)\s*<\/a>/);
-      const locationMatch = card.match(/<span class="list-item-location">([\s\S]*?)<\/span>/);
-      return {
-        url: titleMatch?.[1],
+  const jobsByUrl = new Map();
+  for (const searchText of searchTextsFor(source)) {
+    const query = encodeURIComponent(searchText);
+    const url = `${source.baseUrl}/careers/SearchJobs/?jobRecordsPerPage=${limit}&jobOffset=0&jobSearch=${query}`;
+    const html = await fetchText(url, timeoutMs, {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html,*/*",
+      },
+    });
+    const cards = [...html.matchAll(/<article[\s\S]*?<\/article>/gi)].map((match) => match[0]);
+    for (const card of cards) {
+      const titleMatch = card.match(/<a\b[^>]*class=["'][^"']*\blink\b[^"']*["'][^>]*href=["']([^"']+)["'][^>]*>\s*([\s\S]*?)\s*<\/a>/i)
+        ?? card.match(/<a\b[^>]*href=["']([^"']+)["'][^>]*class=["'][^"']*\blink\b[^"']*["'][^>]*>\s*([\s\S]*?)\s*<\/a>/i);
+      const locationMatch = card.match(/<span\b[^>]*class=["'][^"']*list-item-location[^"']*["'][^>]*>([\s\S]*?)<\/span>/i);
+      const job = {
+        url: absoluteHttpUrl(source.baseUrl, titleMatch?.[1]),
         title: stripHtml(titleMatch?.[2] ?? ""),
         location: stripHtml(locationMatch?.[1] ?? ""),
       };
-    })
-    .filter((job) => job.url && isRelevant(job.title) && !hasOnlyExcludedGraduationWindow(job.title, job.location))
-    .map((job) => avatureJobToLead(source, job));
+      if (job.url) jobsByUrl.set(job.url, job);
+    }
+  }
+  const candidates = [...jobsByUrl.values()]
+    .filter((job) => isRelevant(job.title) && isEligibleRole(job.title, job.location) && !hasOnlyExcludedGraduationWindow(job.title, job.location));
+  const detailLimit = source.detailLimit ?? 100;
+  const enriched = await mapConcurrent(candidates.slice(0, detailLimit), htmlDetailConcurrency, async (job) => {
+    try {
+      const html = await fetchText(job.url, timeoutMs, { headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html,*/*" } });
+      return { ...job, description: stripHtml(html) };
+    } catch {
+      return job;
+    }
+  });
+  return enriched.map((job) => avatureJobToLead(source, job));
 }
 
 async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
@@ -1198,8 +1446,8 @@ async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
     }
   }
 
-  for (const job of [...detailCandidates.values()].slice(0, detailLimit)) {
-    if (leadByUrl.has(job.url)) continue;
+  await mapConcurrent([...detailCandidates.values()].slice(0, detailLimit), htmlDetailConcurrency, async (job) => {
+    if (leadByUrl.has(job.url)) return;
     const html = await fetchText(job.url, timeoutMs, {
       headers: {
         "User-Agent": "Mozilla/5.0",
@@ -1208,11 +1456,11 @@ async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
     });
     const enrichedJob = htmlJobFromDetail(source, job.url, html, job);
     const context = `${enrichedJob.location}\n${enrichedJob.description}`;
-    if (!isRelevant(enrichedJob.title, context)) continue;
-    if (!isEligibleRole(enrichedJob.title, context)) continue;
-    if (hasOnlyExcludedGraduationWindow(enrichedJob.title, context)) continue;
+    if (!isRelevant(enrichedJob.title, context)) return;
+    if (!isEligibleRole(enrichedJob.title, context)) return;
+    if (hasOnlyExcludedGraduationWindow(enrichedJob.title, context)) return;
     leadByUrl.set(enrichedJob.url, htmlJobToLead(source, enrichedJob));
-  }
+  });
 
   return [...leadByUrl.values()];
 }
@@ -1270,7 +1518,7 @@ async function scanDirectPages(targets, limit, options = {}) {
         const target = targetSubset[nextIndex];
         nextIndex += 1;
         try {
-          const html = await withTimeout(fetchText(target.career_url, timeoutMs, directFetchInit(target)), target.company, timeoutMs);
+          const html = await fetchText(target.career_url, timeoutMs, directFetchInit(target));
           const lead = directPageToLead(target, html);
           scanned.push({ company: target.company, status: "ok", matched: Boolean(lead), phase });
           if (lead) leads.push(lead);
@@ -1302,31 +1550,25 @@ async function scanDirectPages(targets, limit, options = {}) {
   };
 }
 
-async function scanAtsSources(sources) {
-  return Promise.all(sources.map(async (source) => {
+async function scanSource(source, timeoutMs) {
+  switch (source.adapter) {
+    case "greenhouse": return scanGreenhouse(source, timeoutMs);
+    case "lever": return scanLever(source, timeoutMs);
+    case "ashby": return scanAshby(source, timeoutMs);
+    case "workday": return scanWorkday(source, timeoutMs);
+    case "phenom": return scanPhenom(source, timeoutMs);
+    case "avature": return scanAvature(source, timeoutMs);
+    case "tesla": return scanTesla(source, timeoutMs);
+    case "html_jobs": return scanHtmlJobs(source, timeoutMs);
+    case "google_careers": return scanGoogleCareers(source, timeoutMs);
+    default: throw new Error(`Unsupported adapter: ${source.adapter}`);
+  }
+}
+
+async function scanAtsSource(source) {
     const sourceTimeoutMs = source.timeoutMs ?? fetchTimeoutMs;
     try {
-      const leadPromise =
-        source.adapter === "greenhouse"
-          ? scanGreenhouse(source, sourceTimeoutMs)
-          : source.adapter === "lever"
-            ? scanLever(source, sourceTimeoutMs)
-            : source.adapter === "ashby"
-              ? scanAshby(source, sourceTimeoutMs)
-              : source.adapter === "workday"
-                ? scanWorkday(source, sourceTimeoutMs)
-                : source.adapter === "phenom"
-                  ? scanPhenom(source, sourceTimeoutMs)
-                  : source.adapter === "avature"
-                    ? scanAvature(source, sourceTimeoutMs)
-                    : source.adapter === "tesla"
-                      ? scanTesla(source, sourceTimeoutMs)
-                      : source.adapter === "html_jobs"
-                        ? scanHtmlJobs(source, sourceTimeoutMs)
-                        : source.adapter === "google_careers"
-                        ? scanGoogleCareers(source, sourceTimeoutMs)
-                        : Promise.resolve([]);
-      const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter}`, sourceTimeoutMs);
+      const leads = await scanSource(source, sourceTimeoutMs);
       return {
         leads,
         log: { company: source.company, adapter: source.adapter, status: "ok", matches: leads.length, phase: "fast-pass" },
@@ -1342,31 +1584,11 @@ async function scanAtsSources(sources) {
 
       try {
         const retryTimeoutMs = source.doubleCheckTimeoutMs ?? doubleCheckTimeoutMs;
-        const leadPromise =
-          source.adapter === "greenhouse"
-            ? scanGreenhouse(source, retryTimeoutMs)
-            : source.adapter === "lever"
-              ? scanLever(source, retryTimeoutMs)
-              : source.adapter === "ashby"
-                ? scanAshby(source, retryTimeoutMs)
-                : source.adapter === "workday"
-                  ? scanWorkday(source, retryTimeoutMs)
-                  : source.adapter === "phenom"
-                    ? scanPhenom(source, retryTimeoutMs)
-                    : source.adapter === "avature"
-                      ? scanAvature(source, retryTimeoutMs)
-                      : source.adapter === "tesla"
-                        ? scanTesla(source, retryTimeoutMs)
-                        : source.adapter === "html_jobs"
-                          ? scanHtmlJobs(source, retryTimeoutMs)
-                          : source.adapter === "google_careers"
-                          ? scanGoogleCareers(source, retryTimeoutMs)
-                          : Promise.resolve([]);
-        const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter} double-check`, retryTimeoutMs);
+        const leads = await scanSource(source, retryTimeoutMs);
         return {
           leads,
           log: [
-            { company: source.company, adapter: source.adapter, status: "error", error: initialError, phase: "fast-pass" },
+            sourceErrorLog(source, initialError, "fast-pass"),
             { company: source.company, adapter: source.adapter, status: "ok", matches: leads.length, phase: "double-check" },
           ],
         };
@@ -1380,15 +1602,14 @@ async function scanAtsSources(sources) {
         };
       }
     }
-  }));
+}
+
+async function scanAtsSources(sources) {
+  return mapConcurrent(sources, atsSourceConcurrency, scanAtsSource);
 }
 
 function flattenLogs(results) {
   return results.flatMap((result) => Array.isArray(result.log) ? result.log : [result.log]);
-}
-
-function uniqueAttemptedCompanies(scanLog) {
-  return new Set(scanLog.map((entry) => entry.company)).size;
 }
 
 function terminalSourceStatuses(scanLog) {
@@ -1399,11 +1620,32 @@ function terminalSourceStatuses(scanLog) {
   return [...latestBySource.values()];
 }
 
+function normalizedErrorCategory(errorMessage) {
+  const value = normalize(errorMessage);
+  const status = value.match(/\b(4\d\d|5\d\d)\b/)?.[1];
+  const statusLabels = {
+    400: "Bad Request",
+    401: "Unauthorized",
+    403: "Forbidden",
+    404: "Not Found",
+    408: "Request Timeout",
+    429: "Too Many Requests",
+    500: "Internal Server Error",
+    502: "Bad Gateway",
+    503: "Service Unavailable",
+    504: "Gateway Timeout",
+  };
+  if (status) return `${status} ${statusLabels[status] ?? "HTTP Error"}`;
+  if (/timed?\s*out|timeout|aborted/i.test(value)) return "Request Timeout";
+  if (/fetch failed|econnreset|etimedout|socket/i.test(value)) return "Network Error";
+  return value || "Unknown Error";
+}
+
 function errorBreakdown(entries) {
   return entries
     .filter((entry) => entry.status === "error")
     .reduce((counts, entry) => {
-      const key = entry.error ?? "unknown";
+      const key = normalizedErrorCategory(entry.error);
       counts[key] = (counts[key] ?? 0) + 1;
       return counts;
     }, {});
@@ -1510,7 +1752,8 @@ function compareRoles(a, b) {
 }
 
 function csvEscape(value) {
-  const text = String(value ?? "");
+  let text = String(value ?? "");
+  if (/^[=+\-@\t\r]/.test(text)) text = `'${text}`;
   return /[",\n]/.test(text) ? `"${text.replace(/"/g, '""')}"` : text;
 }
 
@@ -1523,11 +1766,17 @@ function rolesToCsv(roles) {
 }
 
 function markdownLink(label, url) {
-  return url ? `[${label}](${url})` : label;
+  if (!isHttpUrl(url)) return label;
+  return `[${label}](<${String(url).replace(/>/g, "%3E")}>)`;
 }
 
 function markdownEscape(value) {
-  return String(value ?? "").replace(/\|/g, "\\|").replace(/\n/g, " ");
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/\|/g, "\\|")
+    .replace(/\n/g, " ");
 }
 
 function renderTable(roles) {
@@ -1622,6 +1871,16 @@ function assertTruthy(value, label) {
   if (!value) throw new Error(`${label}: expected truthy value`);
 }
 
+function assertThrows(callback, pattern, label) {
+  try {
+    callback();
+  } catch (error) {
+    if (pattern.test(error.message)) return;
+    throw new Error(`${label}: threw unexpected error ${JSON.stringify(error.message)}`);
+  }
+  throw new Error(`${label}: expected callback to throw`);
+}
+
 async function runSelfTests() {
   const encodedSalary = `
     &lt;div class=&quot;content-pay-transparency&quot;&gt;
@@ -1649,8 +1908,20 @@ async function runSelfTests() {
   );
   assertEqual(
     extractCompensation("Electrical Engineer Intern - Summer 2027", "US Salary Range $30 - $45 USD"),
-    "$30 - $45 USD",
+    "$30 - $45/hr USD",
     "intern hourly range without hour suffix",
+  );
+  assertEqual(
+    extractCompensation("Software Engineer Intern - Summer 2027", {
+      jobPostingInfo: {
+        baseSalary: {
+          currency: "USD",
+          value: { minValue: 32, maxValue: 48, unitText: "HOUR" },
+        },
+      },
+    }),
+    "$32 - $48/hr",
+    "nested structured hourly compensation",
   );
   assertEqual(
     isEligibleRole("[2026] Senior Machine Learning Engineer - PhD Early Career", ""),
@@ -1686,6 +1957,37 @@ async function runSelfTests() {
     isEligibleRole("Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program", "Ability to start in June 2027."),
     true,
     "early career with 2027 start",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, New Grad", "Master's degree preferred."),
+    true,
+    "masters preference does not exclude bachelors role",
+  );
+  assertEqual(
+    isRelevant("Account Executive, Early Career", "Works with software engineers and data systems."),
+    false,
+    "role relevance is determined by the title",
+  );
+  assertEqual(isAllowedLocation({ location: "New York, NY" }), true, "US state location");
+  assertEqual(isAllowedLocation({ location: "Remote - United States" }), true, "US remote location");
+  assertEqual(isAllowedLocation({ location: "Remote" }), false, "ambiguous remote location");
+  assertEqual(isAllowedLocation({ location: "London, United Kingdom" }), false, "foreign location");
+  assertEqual(isAllowedLocation({ location: "Washington, United Kingdom" }), false, "foreign city named like US state");
+  assertEqual(isAllowedLocation({ location: "Toronto, Canada; New York, NY" }), true, "multi-location role with US option");
+  assertEqual(
+    canonicalApplyUrl("https://example.com/jobs/123/?utm_source=test&ref=friend#apply"),
+    "https://example.com/jobs/123",
+    "tracking URL canonicalization",
+  );
+  assertEqual(csvEscape("=HYPERLINK(\"bad\")"), "\"'=HYPERLINK(\"\"bad\"\")\"", "CSV formula neutralization");
+  assertEqual(normalizedErrorCategory("404 NOT FOUND"), "404 Not Found", "stable HTTP error category");
+  assertThrows(
+    () => validateConfiguration(
+      [{ company: "Example", career_url: "https://example.com/careers", priority: "P1" }],
+      [{ company: "Example", adapter: "mystery" }],
+    ),
+    /unsupported/,
+    "unknown adapter validation",
   );
 
   const htmlFixture = `
@@ -1727,6 +2029,11 @@ async function runSelfTests() {
   const lead = htmlJobToLead(htmlSource, parsedJob);
   assertEqual(lead.compensation, "$90,000 - $120,000", "html structured compensation");
   assertTruthy(isEligibleRole(lead.role_title, parsedJob.description), "html job eligibility");
+
+  validateConfiguration(
+    await readJson(targetPath, []),
+    await readJson(sourcePath, []),
+  );
 }
 
 if (process.argv.includes("--self-test")) {
@@ -1739,6 +2046,8 @@ await fs.mkdir(dataDir, { recursive: true });
 const targets = await readJson(targetPath, []);
 const atsSources = await readJson(sourcePath, []);
 const existingLeads = await readJson(roleDataPath, []);
+validateConfiguration(targets, atsSources);
+if (!Array.isArray(existingLeads)) throw new Error("data/roles.json must contain a JSON array");
 for (const target of targets) {
   sourceByCompany.set(target.company, target);
 }
@@ -1748,7 +2057,9 @@ for (const source of atsSources) {
 
 const allCandidates = [];
 const scanLog = [];
-const directLimit = process.env.DIRECT_PAGE_LIMIT ? Number.parseInt(process.env.DIRECT_PAGE_LIMIT, 10) : Number.POSITIVE_INFINITY;
+const directLimit = process.env.DIRECT_PAGE_LIMIT
+  ? envInteger("DIRECT_PAGE_LIMIT", 0, { min: 1, max: targets.length })
+  : Number.POSITIVE_INFINITY;
 const directScanPromise = scanDirectPages(targets, directLimit);
 const atsScan = await scanAtsSources(atsSources);
 allCandidates.push(...atsScan.flatMap((result) => result.leads));
@@ -1788,6 +2099,9 @@ const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidat
 
 const scannedAt = new Date().toISOString();
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
+const finalAtsStatuses = finalSourceStatuses.filter((entry) => entry.adapter !== "direct-page");
+const atsOkSources = finalAtsStatuses.filter((entry) => entry.status === "ok").length;
+const atsSuccessPercent = finalAtsStatuses.length === 0 ? 0 : Math.round((atsOkSources / finalAtsStatuses.length) * 1000) / 10;
 const coverage = {
   scanned_at: scannedAt,
   elapsed_ms: Date.now() - startedAt,
@@ -1801,6 +2115,11 @@ const coverage = {
   ok_sources: finalSourceStatuses.filter((entry) => entry.status === "ok").length,
   error_sources: finalSourceStatuses.filter((entry) => entry.status === "error").length,
   blocked_sources: finalSourceStatuses.filter((entry) => entry.status === "blocked").length,
+  ats_ok_sources: atsOkSources,
+  ats_error_sources: finalAtsStatuses.filter((entry) => entry.status === "error").length,
+  ats_blocked_sources: finalAtsStatuses.filter((entry) => entry.status === "blocked").length,
+  ats_success_percent: atsSuccessPercent,
+  minimum_ats_success_percent: minAtsSuccessPercent,
   error_breakdown: errorBreakdown(finalSourceStatuses),
   board_eligible_candidates: boardEligibleCandidates.length,
   stale_after_days: staleAfterDays,
@@ -1847,4 +2166,8 @@ console.log(JSON.stringify({
   })),
   truncated_fresh_output: publicFreshLeads.length > 10,
 }, null, 2));
+if (atsSuccessPercent < minAtsSuccessPercent) {
+  console.error(`ATS source success rate ${atsSuccessPercent}% is below the required ${minAtsSuccessPercent}%`);
+  process.exit(1);
+}
 process.exit(0);
