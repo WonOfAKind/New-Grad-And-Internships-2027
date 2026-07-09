@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 9, 2026 at 6:50 PM EDT
+Last updated: July 9, 2026 at 7:50 PM EDT
 
 Companies tracked: 367
 
-Current roles: 47
+Current roles: 48
 
 Fresh roles this scan: 1
 
@@ -67,6 +67,7 @@ _No roles found yet._
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | 2026-07-09 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007>) |
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | 2026-07-09 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | 2026-07-09 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
+| SpaceX | Mechanical Engineer, Fluid Systems (Design &amp; Build) | McGregor, TX | - | Early career | 2026-07-09 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8578082002?gh_jid=8578082002>) |
 
 ### Aerospace Engineering
 
