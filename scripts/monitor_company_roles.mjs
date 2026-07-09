@@ -108,6 +108,17 @@ const seniorPatterns = [
   /\barchitect\b/i,
 ];
 
+const excludedDegreeProgramPatterns = [
+  /\bph\.?\s*d\.?\b/i,
+  /\bdoctorate\b/i,
+  /\bdoctoral\b/i,
+  /\b(?:bs|b\.s\.)\s*\/\s*(?:ms|m\.s\.)\b/i,
+  /\b(?:ms|m\.s\.)\s*\/\s*(?:ph\.?\s*d\.?|phd)\b/i,
+  /\((?=[^)]*\b(?:ms|m\.s\.|master'?s)\b)[^)]*\)/i,
+  /\bmaster'?s\b/i,
+  /\bm\.?\s?s\.?\b/i,
+];
+
 const excludedLocationPatterns = [
   /canada|toronto|vancouver|montreal|ottawa/i,
   /mexico|brazil|argentina|chile|colombia/i,
@@ -196,6 +207,10 @@ function isProbablySenior(title) {
   return seniorPatterns.some((pattern) => pattern.test(title));
 }
 
+function hasExcludedDegreeProgram(title) {
+  return excludedDegreeProgramPatterns.some((pattern) => pattern.test(title));
+}
+
 function graduationMatch(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
@@ -225,6 +240,7 @@ function isEligibleRole(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (hasOnlyExcludedGraduationWindow(title, text)) return false;
   if (isProbablySenior(title)) return false;
+  if (hasExcludedDegreeProgram(title)) return false;
   const type = roleType(title, text);
   if (type === "New Grad") return true;
   if (type === "Internship") return internshipEligiblePatterns.some((pattern) => pattern.test(haystack));
@@ -322,6 +338,8 @@ function normalizeCompensation(value) {
     .replace(/\s*[\u2013\u2014]\s*/g, " - ")
     .replace(/\s+\bto\b\s+/gi, " - ")
     .replace(/\s*\/\s*/g, "/")
+    .replace(/\(\s*(USD|CAD|GBP|EUR)\s*\)/gi, "$1")
+    .replace(/\$(\d{5,})(?=\D|$)/g, (_, digits) => `$${Number.parseInt(digits, 10).toLocaleString("en-US")}`)
     .replace(/\busd\b/gi, "USD")
     .trim();
 }
@@ -349,7 +367,7 @@ function compensationFromMoneyFallback(text, isInternship) {
     if (hourlyAmounts.length === 1 && /\b(?:USD|hour|hourly|\/hr)\b/i.test(window)) return hourlyAmounts[0];
     return "";
   }
-  const annualAmounts = [...window.matchAll(/\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*USD)?|\$\s?\d{2,3}\s?k\b(?:\s*USD)?/gi)]
+  const annualAmounts = [...window.matchAll(/\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*USD)?|\$\s?\d{5,6}(?:\.\d{1,2})?(?:\s*\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?)?|\$\s?\d{2,3}\s?k\b(?:\s*USD)?/gi)]
     .map((match) => normalizeCompensation(match[0]));
   if (annualAmounts.length >= 2) return `${annualAmounts[0]} - ${annualAmounts[1]}`;
   if (annualAmounts.length === 1) return annualAmounts[0];
@@ -406,10 +424,13 @@ function extractCompensation(title, ...texts) {
   ];
   const salaryPatterns = [
     /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr|base\s+salary))?/i,
+    /\$\s?\d{5,6}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{5,6}(?:\.\d{1,2})?(?:\s*\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?|\s*(?:per\s+year|annually|\/\s?(?:year|yr)|year|yr|base\s+salary))?/i,
     /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{2,3}\s?k\b(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr|base\s+salary))?/i,
     /\b(?:salary|base\s+salary|compensation|pay\s+range|salary\s+range|base\s+pay)[^$]{0,180}(\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr))?)/i,
+    /\b(?:salary|base\s+salary|compensation|pay\s+range|salary\s+range|base\s+pay)[^$]{0,180}(\$\s?\d{5,6}(?:\.\d{1,2})?(?:\s*\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?|\s*(?:per\s+year|annually|\/\s?(?:year|yr)|year|yr))?)/i,
     /\b(?:salary|base\s+salary|compensation|pay\s+range|salary\s+range|base\s+pay)[^$]{0,180}(\$\s?\d{2,3}\s?k\b(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr))?)/i,
     /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
+    /\$\s?\d{5,6}(?:\.\d{1,2})?\s*(?:\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
     /\$\s?\d{2,3}\s?k\b\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
   ];
   if (isInternship) return findCompensation(hourlyPatterns, haystack) || structuredCompensation || compensationFromMoneyFallback(haystack, true);
@@ -1622,6 +1643,11 @@ async function runSelfTests() {
     "single annual salary",
   );
   assertEqual(
+    extractCompensation("Software Engineer II, Early Career", "US: $123000 - $175000 (USD) + 15% bonus target + equity + benefits"),
+    "$123,000 - $175,000 USD",
+    "uncommaed annual salary range",
+  );
+  assertEqual(
     extractCompensation("Electrical Engineer Intern - Summer 2027", "US Salary Range $30 - $45 USD"),
     "$30 - $45 USD",
     "intern hourly range without hour suffix",
@@ -1635,6 +1661,26 @@ async function runSelfTests() {
     isEligibleRole("Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start", ""),
     false,
     "2026 start false positive",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, Systems Research, PhD, Early Career", ""),
+    false,
+    "PhD early-career false positive",
+  );
+  assertEqual(
+    isEligibleRole("Graduate Quantitative Researcher (BS/MS)", ""),
+    false,
+    "BS/MS graduate false positive",
+  );
+  assertEqual(
+    isEligibleRole("Quantitative Research Intern (PhD) - Summer 2027", ""),
+    false,
+    "PhD internship false positive",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, MS New Graduate", ""),
+    false,
+    "MS new-grad false positive",
   );
   assertEqual(
     isEligibleRole("Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program", "Ability to start in June 2027."),

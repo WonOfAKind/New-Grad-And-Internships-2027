@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 8, 2026 at 10:20 PM EDT
+Last updated: July 8, 2026 at 10:29 PM EDT
 
 Companies tracked: 367
 
-Current roles: 51
+Current roles: 46
 
 Fresh roles this scan: 0
 
@@ -29,10 +29,7 @@ Fresh roles this scan: 0
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted/Seen | Apply |
 |---|---|---|---|---|---|---|
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | 2026-07-09 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007) |
-| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | United States | - | 2027 grad eligible | 2026-07-09 | [Apply](https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program) |
-| Google | Software Engineer, Systems Research, PhD, Early Career | United States | - | Early career | 2026-07-09 | [Apply](https://www.google.com/about/careers/applications/jobs/results/76908711519363782-software-engineer-systems-research-phd-early-career) |
-| IMC Trading | Graduate Quantitative Researcher (BS/MS) | Chicago, United States | $250,000 | 2027 grad eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907368101) |
-| IMC Trading | Graduate Quantitative Researcher (PhD) | Chicago, United States | $250,000 | 2027 grad eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912325101) |
+| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | United States | $123,000 - $175,000 USD | 2027 grad eligible | 2026-07-09 | [Apply](https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4751729101) |
 | IMC Trading | Graduate Software Engineer | Chicago, United States | $200,000 | 2027 grad eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4818790101) |
 | IMC Trading | Software Engineer, Early Career | Chicago, United States | $200,000 | Early career | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
@@ -84,8 +81,6 @@ _No roles found yet._
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted/Seen | Apply |
 |---|---|---|---|---|---|---|
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Chicago | Chicago, United States | - | 2027 internship eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
-| IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) |
-| IMC Trading | Quantitative Research Intern (PhD) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907400101) |
 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | 2026-07-09 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) |
 | Palantir | Forward Deployed Software Engineer, Internship - Defense Tech | Washington, D.C. | - | 2027 internship eligible | 2026-07-09 | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
