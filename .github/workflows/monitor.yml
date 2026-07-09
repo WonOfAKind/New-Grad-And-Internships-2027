@@ -54,9 +54,12 @@ jobs:
           FETCH_RETRY_BASE_MS: "350"
           ATS_SOURCE_CONCURRENCY: "12"
           DOUBLE_CHECK_TIMEOUT_MS: "20000"
-          DIRECT_PAGE_CONCURRENCY: "32"
-          DOUBLE_CHECK_CONCURRENCY: "12"
           HTML_DETAIL_CONCURRENCY: "4"
+          DISCOVERY_CONCURRENCY: "8"
+          DISCOVERY_LIMIT: "30"
+          DISCOVERY_REFRESH_HOURS: "168"
+          DISCOVERY_ERROR_REFRESH_HOURS: "6"
+          SITEMAP_DETAIL_LIMIT: "30"
           MIN_ATS_SUCCESS_PERCENT: "75"
           STALE_AFTER_DAYS: "21"
 
@@ -66,7 +69,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json
+          git add README.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
             exit 0

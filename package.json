@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "monitor": "node scripts/monitor_company_roles.mjs",
-    "check": "node --check scripts/monitor_company_roles.mjs",
-    "test": "node scripts/monitor_company_roles.mjs --self-test",
+    "discover": "node scripts/discover_company_sources.mjs",
+    "check": "node scripts/check_monitor_modules.mjs",
+    "test": "node scripts/monitor/self-test.mjs",
     "validate": "npm run check && npm test"
   },
   "engines": {

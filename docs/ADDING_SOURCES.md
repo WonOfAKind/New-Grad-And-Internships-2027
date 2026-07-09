@@ -9,10 +9,15 @@ Prefer structured ATS adapters when a company uses a known provider:
 - `phenom`
 - `avature`
 - `tesla`
+- `sitemap_jobs`
 
 The monitor validates every source at startup. A source must reference a company in `data/company_sources.json`, use a supported adapter, and include that adapter's required fields. Invalid URLs, regular expressions, limits, timeouts, priorities, and duplicate sources fail validation instead of silently producing zero roles.
 
 Search-based adapters (`workday`, `phenom`, and `avature`) automatically query the tracked disciplines plus new-grad, early-career, internship, hardware, and quantitative terms. Set `searchTexts` to a non-empty string array when a source needs a custom query set. Workday sources also support `maxPages` and detail-page enrichment.
+
+Most companies should not require a hand-written source. The discovery layer inspects the official career URL, follows redirects, recognizes Greenhouse, Lever, Ashby, Workday, and Avature fingerprints, reads `JobPosting` JSON-LD, and checks declared job sitemaps while honoring `robots.txt`. Results are cached in `data/source_discovery.json` and promoted to runtime sources automatically.
+
+Add a curated source only when the official site does not expose a supported machine-readable surface or when its public integration needs stable provider-specific parameters.
 
 For official company pages that expose job detail pages but do not use one of those adapters, use `html_jobs` in `data/ats_sources.json`.
 
@@ -51,11 +56,12 @@ Only use official company or ATS URLs. Avoid unofficial GitHub lists as primary 
 
 Public rows are restricted to unambiguous United States locations. Generic `Remote` locations are intentionally excluded unless the posting identifies them as US remote. Roles whose titles target master's, PhD, or mixed BS/MS programs are also excluded; a normal bachelor's role is not excluded merely because its description says a graduate degree is preferred.
 
-Useful runtime controls include `ATS_SOURCE_CONCURRENCY`, `DIRECT_PAGE_CONCURRENCY`, `HTML_DETAIL_CONCURRENCY`, `FETCH_TIMEOUT_MS`, `FETCH_RETRIES`, and `MIN_ATS_SUCCESS_PERCENT`. Invalid values fail immediately. The scheduled workflow requires at least a 75% successful structured-source scan so a broad outage cannot look like a healthy update.
+Useful runtime controls include `ATS_SOURCE_CONCURRENCY`, `HTML_DETAIL_CONCURRENCY`, `DISCOVERY_CONCURRENCY`, `DISCOVERY_LIMIT`, `DISCOVERY_REFRESH_HOURS`, `SITEMAP_DETAIL_LIMIT`, `FETCH_TIMEOUT_MS`, `FETCH_RETRIES`, and `MIN_ATS_SUCCESS_PERCENT`. Invalid values fail immediately. The scheduled workflow requires at least a 75% successful curated-source scan so a broad outage cannot look like a healthy update.
 
 Run this before opening a PR:
 
 ```bash
 npm run validate
+npm run discover
 npm run monitor
 ```
