@@ -66,6 +66,25 @@
     "priority": "P0"
   },
   {
+    "company": "Google",
+    "adapter": "html_jobs",
+    "urls": [
+      "https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program",
+      "https://www.google.com/about/careers/applications/jobs/results/?q=early%20career%20software%20engineer&location=United%20States",
+      "https://www.google.com/about/careers/applications/jobs/results/?q=career%20catalyst&location=United%20States"
+    ],
+    "relativeJobBase": "https://www.google.com/about/careers/applications/",
+    "detailUrlPatterns": [
+      "/jobs/results/\\d+"
+    ],
+    "contentStartPattern": "<h3>\\s*Minimum qualifications",
+    "titleSuffixPattern": "\\s+(?:-|[\\u2013\\u2014])\\s+Google Careers$",
+    "location": "United States",
+    "detailLimit": 8,
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
     "company": "OpenAI",
     "adapter": "ashby",
     "board": "openai",

@@ -50,7 +50,9 @@ const titleRolePatterns = [
   /platform\s+(?:software\s+)?engineer/i,
   /site\s+reliability\s+engineer|\bSRE\b/i,
   /forward\s+deployed\s+(?:software\s+)?engineer/i,
-  /quant(?:itative)?\s+(?:developer|engineer)/i,
+  /quant(?:itative)?\s+(?:developer|engineer|researcher|trader|analyst)/i,
+  /trading\s+(?:developer|engineer|systems?|platform)/i,
+  /career\s+catalyst/i,
   /product\s+engineer/i,
   /(?:robotics|autonomy|simulation)\s+software\s+engineer/i,
 ];
@@ -64,6 +66,14 @@ const internshipPatterns = [
   /\bstudent\s+(?:intern|researcher)\b/i,
 ];
 
+const earlyCareerPatterns = [
+  /\bearly\s+careers?\b/i,
+  /\bentry[-\s]?level\b/i,
+  /\bcareer\s+catalyst\b/i,
+  /\bnew\s+college\s+grad(?:uate)?\b/i,
+  /\brecent\s+grad(?:uate)?\b/i,
+];
+
 const fullTimeNewGradPatterns = [
   /new\s+grad(?:uate)?/i,
   /university\s+grad(?:uate)?/i,
@@ -74,6 +84,7 @@ const fullTimeNewGradPatterns = [
   /(?:spring|summer|fall|winter)\s+2027\s+grad(?:uate)?/i,
   /(?:may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|dec(?:ember)?)\s+2027/i,
   /2027\s+(?:new\s+grad|university\s+grad|early\s+career)/i,
+  ...earlyCareerPatterns,
 ];
 
 const internshipEligiblePatterns = [
@@ -105,7 +116,7 @@ const excludedLocationPatterns = [
   /sydney|australia/i,
   /seoul|south korea/i,
   /london|dublin|ireland|united kingdom|uk\b/i,
-  /germany|france|japan|poland|romania/i,
+  /germany|france|japan|poland|romania|netherlands|amsterdam/i,
 ];
 
 const aiPatterns = [/machine\s+learning/i, /\bAI\b/i, /\bML\b/i, /data/i, /model/i, /platform/i];
@@ -127,6 +138,9 @@ const excludedGradWindowPatterns = [
   /(?:may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|dec(?:ember)?)\s+2026/i,
   /2026\s+(?:new\s+grad|university\s+grad|early\s+career)/i,
   /(?:spring|summer|fall|winter)\s+2026/i,
+  /2026\s+start/i,
+  /start(?:ing)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*2026/i,
+  /(?:january|february|march|april|may|june|july|august|september|october|november|december)\s+2026\s+start/i,
 ];
 
 const excludedDirectApplyUrls = new Set([
@@ -144,8 +158,23 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+function canonicalApplyUrl(url) {
+  const value = normalize(url).replace(/&amp;/gi, "&");
+  if (!value) return "";
+  try {
+    const parsed = new URL(value);
+    if (/\/jobs\/results\/\d+/i.test(parsed.pathname)) {
+      parsed.search = "";
+      parsed.hash = "";
+    }
+    return parsed.toString();
+  } catch {
+    return value;
+  }
+}
+
 function keyFor(company, title, location, url = "") {
-  const normalizedUrl = normalize(url).toLowerCase();
+  const normalizedUrl = canonicalApplyUrl(url).toLowerCase();
   if (normalizedUrl) return `url|${normalizedUrl}`;
   return `${normalize(company).toLowerCase()}|${normalize(title).replace(/\s+/g, " ").toLowerCase()}|${normalize(location).toLowerCase()}`;
 }
@@ -155,7 +184,7 @@ function roleTitle(lead) {
 }
 
 function applyUrl(lead) {
-  return lead.direct_apply_url ?? lead.url ?? "";
+  return canonicalApplyUrl(lead.direct_apply_url ?? lead.url ?? "");
 }
 
 function isRelevant(title, text = "") {
@@ -170,9 +199,10 @@ function isProbablySenior(title) {
 function graduationMatch(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
-  if (internshipPatterns.some((pattern) => pattern.test(haystack)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
+  if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
   if (/new\s+grad|university\s+grad/i.test(haystack)) return "New grad or university grad";
-  if (internshipPatterns.some((pattern) => pattern.test(haystack))) return "Internship";
+  if (earlyCareerPatterns.some((pattern) => pattern.test(haystack))) return "Early career";
+  if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
   return "";
 }
 
@@ -185,7 +215,8 @@ function hasOnlyExcludedGraduationWindow(title, text = "") {
 
 function roleType(title, text = "") {
   const haystack = `${title}\n${text}`;
-  if (internshipPatterns.some((pattern) => pattern.test(haystack))) return "Internship";
+  if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
+  if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internship|co[-\s]?op)\b/i.test(text)) return "Internship";
   if (fullTimeNewGradPatterns.some((pattern) => pattern.test(haystack))) return "New Grad";
   return "";
 }
@@ -193,6 +224,7 @@ function roleType(title, text = "") {
 function isEligibleRole(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (hasOnlyExcludedGraduationWindow(title, text)) return false;
+  if (isProbablySenior(title)) return false;
   const type = roleType(title, text);
   if (type === "New Grad") return true;
   if (type === "Internship") return internshipEligiblePatterns.some((pattern) => pattern.test(haystack));
@@ -216,20 +248,21 @@ function categorize(title, text = "") {
 
 function priorityFor(title, sourcePriority) {
   if (/top\s+secret|clearance/i.test(title)) return "P2";
+  if (isProbablySenior(title)) return "P2";
   if (targetGradPatterns.some((pattern) => pattern.test(title))) return "P0";
   if (internshipEligiblePatterns.some((pattern) => pattern.test(title))) return "P0";
+  if (earlyCareerPatterns.some((pattern) => pattern.test(title))) return "P0";
   if (/new\s+grad|university\s+grad|graduate\s+\w+\s+engineer/i.test(title)) return "P0";
-  if (isProbablySenior(title)) return "P2";
   return sourcePriority ?? "P1";
 }
 
 function isFreshEnough(lead) {
   const title = roleTitle(lead);
-  const context = `${lead.graduation_match ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
+  const context = `${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
   if (excludedDirectApplyUrls.has(normalize(applyUrl(lead)))) return false;
   if (!isEligibleRole(title, context)) return false;
-  if (/2027/.test(lead.graduation_match ?? "")) return true;
-  if (/\b(?:new\s+grad(?:uate)?|university\s+grad(?:uate)?|graduate\s+\w+\s+engineer)\b/i.test(title)) return true;
+  if (/2027/.test(`${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}`)) return true;
+  if (/\b(?:new\s+grad(?:uate)?|university\s+grad(?:uate)?|graduate\s+\w+\s+engineer|early\s+careers?|entry[-\s]?level|career\s+catalyst|recent\s+grad(?:uate)?)\b/i.test(title)) return true;
   if (!lead.updated_at) return false;
   const updatedAt = Date.parse(lead.updated_at);
   if (Number.isNaN(updatedAt)) return false;
@@ -270,24 +303,82 @@ function tailoringNotes(title, category, resumeChoice) {
   return "Emphasize role-matching projects and skills without adding anything not already supported by the resume truth bank.";
 }
 
-function normalizeCompensation(value) {
+function cleanCompensationText(value) {
   return normalize(value)
+    .replace(/&nbsp;|&#160;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&quot;|&#34;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/&mdash;|&#8212;|&#x2014;/gi, " - ")
+    .replace(/&ndash;|&#8211;|&#x2013;/gi, " - ")
+    .replace(/&lt;\/?[a-z][\s\S]*?&gt;/gi, " ")
+    .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
+    .trim();
+}
+
+function normalizeCompensation(value) {
+  return cleanCompensationText(value)
     .replace(/\s*[\u2013\u2014]\s*/g, " - ")
     .replace(/\s+\bto\b\s+/gi, " - ")
     .replace(/\s*\/\s*/g, "/")
+    .replace(/\busd\b/gi, "USD")
     .trim();
 }
 
 function findCompensation(patterns, text, rejectHourly = false) {
+  const haystack = cleanCompensationText(text);
   for (const pattern of patterns) {
-    const match = text.match(pattern);
+    const match = haystack.match(pattern);
     if (!match) continue;
-    const value = normalizeCompensation(match[0]);
-    if (rejectHourly && /\b(?:hourly|per hour|\/(?:hr|hour))\b/i.test(value)) continue;
+    const value = normalizeCompensation(match[1] ?? match[0]);
+    if (rejectHourly && /\b(?:hourly|per hour|an hour|\/(?:hr|hour))\b/i.test(value)) continue;
     return value;
   }
   return "";
+}
+
+function compensationFromMoneyFallback(text, isInternship) {
+  const haystack = cleanCompensationText(text);
+  const markerIndex = haystack.search(/\b(?:salary\s+range|pay\s+range|pay\s+transparency|base\s+salary|compensation|hourly\s+range)\b/i);
+  if (markerIndex < 0) return "";
+  const window = haystack.slice(markerIndex, markerIndex + 900);
+  if (isInternship) {
+    const hourlyAmounts = [...window.matchAll(/\$\s?\d{1,3}(?:\.\d{1,2})?(?:\s*USD)?/gi)].map((match) => normalizeCompensation(match[0]));
+    if (hourlyAmounts.length >= 2) return `${hourlyAmounts[0]} - ${hourlyAmounts[1]}`;
+    if (hourlyAmounts.length === 1 && /\b(?:USD|hour|hourly|\/hr)\b/i.test(window)) return hourlyAmounts[0];
+    return "";
+  }
+  const annualAmounts = [...window.matchAll(/\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*USD)?|\$\s?\d{2,3}\s?k\b(?:\s*USD)?/gi)]
+    .map((match) => normalizeCompensation(match[0]));
+  if (annualAmounts.length >= 2) return `${annualAmounts[0]} - ${annualAmounts[1]}`;
+  if (annualAmounts.length === 1) return annualAmounts[0];
+  return "";
+}
+
+function formatMoneyValue(value, currency = "USD") {
+  const number = Number.parseFloat(String(value ?? "").replace(/,/g, ""));
+  if (Number.isNaN(number)) return "";
+  const rounded = Number.isInteger(number) ? number : Number(number.toFixed(2));
+  const formatted = rounded.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  return currency.toUpperCase() === "USD" ? `$${formatted}` : `${formatted} ${currency.toUpperCase()}`;
+}
+
+function structuredCompensationFromValue(value) {
+  if (!value || typeof value !== "object") return "";
+  const candidate = value.baseSalary ?? value.estimatedSalary ?? (/\b(?:MonetaryAmount|MonetaryAmountDistribution)\b/i.test(normalize(value["@type"])) ? value : null);
+  if (!candidate || typeof candidate !== "object") return "";
+  const amount = candidate.value && typeof candidate.value === "object" ? candidate.value : candidate;
+  const currency = normalize(candidate.currency ?? amount.currency) || "USD";
+  const min = amount.minValue ?? amount.minvalue;
+  const max = amount.maxValue ?? amount.maxvalue;
+  const single = amount.value ?? amount.amount;
+  if (min != null && max != null) {
+    const minText = formatMoneyValue(min, currency);
+    const maxText = formatMoneyValue(max, currency);
+    return minText && maxText ? `${minText} - ${maxText}` : "";
+  }
+  return formatMoneyValue(single, currency);
 }
 
 function textFromValue(value) {
@@ -304,18 +395,25 @@ function textFromValue(value) {
 
 function extractCompensation(title, ...texts) {
   const text = texts.map((value) => textFromValue(value)).join("\n");
-  const haystack = normalize(`${title}\n${text}`);
+  const haystack = cleanCompensationText(`${title}\n${text}`);
   const isInternship = roleType(title, text) === "Internship";
+  const structuredCompensation = texts
+    .map((value) => structuredCompensationFromValue(value))
+    .find(Boolean) ?? "";
   const hourlyPatterns = [
-    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)\b/i,
-    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)\b/i,
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{1,3}(?:\.\d{1,2})?\s*(?:USD|\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)?\b/i,
+    /\$\s?\d{1,3}(?:\.\d{1,2})?\s*(?:USD|\/\s?(?:hr|hour)|per\s+hour|an\s+hour|hourly)\b/i,
   ];
   const salaryPatterns = [
-    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:per\s+year|annually|\/\s?year|\/year|base\s+salary|usd))?/i,
-    /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$\s?\d{2,3}\s?k\b(?:\s*(?:per\s+year|annually|\/\s?year|\/year|base\s+salary|usd))?/i,
+    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr|base\s+salary))?/i,
+    /\$\s?\d{2,3}\s?k\s*(?:-|[\u2013\u2014]|to)\s*\$?\s?\d{2,3}\s?k\b(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr|base\s+salary))?/i,
+    /\b(?:salary|base\s+salary|compensation|pay\s+range|salary\s+range|base\s+pay)[^$]{0,180}(\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr))?)/i,
+    /\b(?:salary|base\s+salary|compensation|pay\s+range|salary\s+range|base\s+pay)[^$]{0,180}(\$\s?\d{2,3}\s?k\b(?:\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr))?)/i,
+    /\$\s?\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
+    /\$\s?\d{2,3}\s?k\b\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
   ];
-  if (isInternship) return findCompensation(hourlyPatterns, haystack);
-  return findCompensation(salaryPatterns, haystack, true);
+  if (isInternship) return findCompensation(hourlyPatterns, haystack) || structuredCompensation || compensationFromMoneyFallback(haystack, true);
+  return findCompensation(salaryPatterns, haystack, true) || structuredCompensation || compensationFromMoneyFallback(haystack, false);
 }
 
 async function readJson(filePath, fallback) {
@@ -613,6 +711,224 @@ function avatureJobToLead(source, job) {
   };
 }
 
+function htmlAttributeContent(html, attributeName) {
+  const escapedName = attributeName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const afterName = new RegExp(`<meta\\s+[^>]*(?:name|property)=["']${escapedName}["'][^>]*content=["']([^"']*)["'][^>]*>`, "i");
+  const beforeName = new RegExp(`<meta\\s+[^>]*content=["']([^"']*)["'][^>]*(?:name|property)=["']${escapedName}["'][^>]*>`, "i");
+  return cleanCompensationText(afterName.exec(html)?.[1] ?? beforeName.exec(html)?.[1] ?? "");
+}
+
+function htmlLinkHref(html, relName) {
+  const escapedName = relName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const afterRel = new RegExp(`<link\\s+[^>]*rel=["'][^"']*${escapedName}[^"']*["'][^>]*href=["']([^"']*)["'][^>]*>`, "i");
+  const beforeRel = new RegExp(`<link\\s+[^>]*href=["']([^"']*)["'][^>]*rel=["'][^"']*${escapedName}[^"']*["'][^>]*>`, "i");
+  return cleanCompensationText(afterRel.exec(html)?.[1] ?? beforeRel.exec(html)?.[1] ?? "");
+}
+
+function googleCareersUrl(baseUrl, href) {
+  const value = normalize(href);
+  if (!value) return "";
+  if (/^https?:\/\//i.test(value)) return value;
+  if (value.startsWith("/about/careers/")) return `https://www.google.com${value}`;
+  if (value.startsWith("jobs/results/")) return `https://www.google.com/about/careers/applications/${value}`;
+  return new URL(value, baseUrl).toString();
+}
+
+function googleTitleFromHtml(html) {
+  const metaTitle = htmlAttributeContent(html, "og:title") || htmlAttributeContent(html, "twitter:title");
+  const title = metaTitle || cleanCompensationText(/<title>([\s\S]*?)<\/title>/i.exec(html)?.[1] ?? "");
+  return title.replace(/\s+(?:-|—)\s+Google Careers$/i, "").trim();
+}
+
+function googleDetailContent(html) {
+  const description = htmlAttributeContent(html, "description");
+  const start = html.search(/<h3>\s*Minimum qualifications/i);
+  const body = start >= 0
+    ? html.slice(start, Math.min(html.length, start + 35000))
+    : "";
+  return cleanCompensationText(`${description}\n${stripHtml(body)}`);
+}
+
+function googleCardSummaries(baseUrl, html) {
+  return [...html.matchAll(/<a\s+class=["'][^"']*\bSi6A0c\b[^"']*["']\s+href=["']([^"']+)["']>([\s\S]*?)<\/a>/gi)]
+    .map((match) => {
+      const card = match[2] ?? "";
+      const title = cleanCompensationText(/<h3[^>]*>([\s\S]*?)<\/h3>/i.exec(card)?.[1] ?? "");
+      const location = cleanCompensationText(stripHtml(/<p[^>]*>([\s\S]*?)<\/p>/i.exec(card)?.[1] ?? ""));
+      return { title, location, url: googleCareersUrl(baseUrl, match[1]) };
+    })
+    .filter((job) => job.title && job.url);
+}
+
+function googleJobToLead(source, job) {
+  const title = normalize(job.title);
+  const location = normalize(job.location);
+  const content = normalize(`${job.title ?? ""}\n${job.location ?? ""}\n${job.description ?? ""}`);
+  const category = categorize(title, content);
+  const resumeChoice = chooseResume(title, content);
+  const gradMatch = graduationMatch(title, content);
+  return {
+    detected_date: new Date().toISOString().slice(0, 10),
+    company: source.company,
+    role_title: title,
+    location,
+    resume_choice: resumeChoice,
+    priority: priorityFor(title, source.priority),
+    direct_apply_url: job.url,
+    career_source_url: sourceByCompany.get(source.company)?.career_url ?? job.url,
+    lead_status: "Tailor Resume",
+    updated_at: "",
+    category,
+    compensation: extractCompensation(title, content, job),
+    graduation_match: gradMatch,
+    jd_keywords: gradMatch === "2027 grad eligible" ? ["2027 graduation window"] : [],
+    fit_notes: fitNotes(title, category),
+    tailoring_notes: tailoringNotes(title, category, resumeChoice),
+    apply_notes: "Review after resume upload; do not submit without user confirmation.",
+  };
+}
+
+function htmlJobUrl(source, baseUrl, href) {
+  const value = normalize(href).replace(/&amp;/gi, "&");
+  if (!value) return "";
+  const resolved = /^https?:\/\//i.test(value) ? value : new URL(value, source.relativeJobBase ?? baseUrl).toString();
+  if (source.keepDetailQuery === true) return resolved;
+  const parsed = new URL(resolved);
+  const withoutQuery = `${parsed.origin}${parsed.pathname}`;
+  if (htmlDetailPatterns(source).some((pattern) => pattern.test(withoutQuery) || pattern.test(resolved))) {
+    return withoutQuery;
+  }
+  return resolved;
+}
+
+function htmlDetailPatterns(source) {
+  const patterns = source.detailUrlPatterns ?? [
+    "/jobs/results/\\d+",
+    "/careers/(?:job|jobs|positions?)/",
+    "/jobs/[^/?#]+",
+  ];
+  return patterns.map((pattern) => new RegExp(pattern, "i"));
+}
+
+function isHtmlDetailUrl(source, url) {
+  return htmlDetailPatterns(source).some((pattern) => pattern.test(url));
+}
+
+function htmlCanonicalJobUrl(source, baseUrl, html, fallbackUrl) {
+  const canonical = htmlLinkHref(html, "canonical")
+    || htmlAttributeContent(html, "og:url")
+    || htmlAttributeContent(html, "twitter:url")
+    || fallbackUrl;
+  return htmlJobUrl(source, baseUrl, canonical);
+}
+
+function htmlTitleFromHtml(html, source = {}) {
+  const metaTitle = htmlAttributeContent(html, "og:title") || htmlAttributeContent(html, "twitter:title");
+  const h1Title = cleanCompensationText(/<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(html)?.[1] ?? "");
+  const title = metaTitle || h1Title || cleanCompensationText(/<title>([\s\S]*?)<\/title>/i.exec(html)?.[1] ?? "");
+  const suffixPattern = source.titleSuffixPattern
+    ? new RegExp(source.titleSuffixPattern, "i")
+    : /\s+(?:-|[\u2013\u2014])\s+[^|]+(?:careers|jobs)$/i;
+  return title.replace(suffixPattern, "").trim();
+}
+
+function jsonLdObjects(html) {
+  const objects = [];
+  for (const match of html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      objects.push(JSON.parse(match[1].trim()));
+    } catch {
+      // Many pages include unrelated or malformed schema snippets; skip those safely.
+    }
+  }
+  return objects;
+}
+
+function collectJobPostingNodes(value, nodes = []) {
+  if (!value || typeof value !== "object") return nodes;
+  const type = Array.isArray(value["@type"]) ? value["@type"].join(" ") : normalize(value["@type"]);
+  if (/\bJobPosting\b/i.test(type)) nodes.push(value);
+  if (Array.isArray(value)) {
+    for (const item of value) collectJobPostingNodes(item, nodes);
+  } else {
+    for (const item of Object.values(value)) collectJobPostingNodes(item, nodes);
+  }
+  return nodes;
+}
+
+function htmlStructuredJobPostings(html) {
+  return jsonLdObjects(html).flatMap((object) => collectJobPostingNodes(object));
+}
+
+function structuredLocationText(location) {
+  const locations = Array.isArray(location) ? location : [location];
+  return locations
+    .map((item) => {
+      if (!item || typeof item !== "object") return normalize(item);
+      const address = item.address && typeof item.address === "object" ? item.address : {};
+      return normalize([
+        item.name,
+        address.addressLocality,
+        address.addressRegion,
+        address.addressCountry,
+      ].filter(Boolean).join(", "));
+    })
+    .filter(Boolean)
+    .join("; ");
+}
+
+function htmlDetailContent(html, source = {}, structuredJob = null) {
+  const description = htmlAttributeContent(html, "description") || stripHtml(structuredJob?.description ?? "");
+  const startPattern = source.contentStartPattern
+    ? new RegExp(source.contentStartPattern, "i")
+    : /<h[1-4][^>]*>\s*(?:Minimum qualifications|Required qualifications|Requirements|Responsibilities|About the job|About this role|Job description|What you'll do)/i;
+  const start = html.search(startPattern);
+  const mainMatch = /<main[\s\S]*?<\/main>/i.exec(html);
+  const bodyMatch = /<body[\s\S]*?<\/body>/i.exec(html);
+  const body = start >= 0
+    ? html.slice(start, Math.min(html.length, start + 35000))
+    : (mainMatch?.[0] ?? bodyMatch?.[0] ?? html.slice(0, 50000));
+  return cleanCompensationText(`${description}\n${stripHtml(body)}`);
+}
+
+function htmlCardSummaries(source, baseUrl, html) {
+  return [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)]
+    .map((match) => {
+      const url = htmlJobUrl(source, baseUrl, match[1]);
+      if (!isHtmlDetailUrl(source, url)) return null;
+      const card = match[2] ?? "";
+      const title = cleanCompensationText(
+        /<h[1-4][^>]*>([\s\S]*?)<\/h[1-4]>/i.exec(card)?.[1]
+        ?? /aria-label=["']([^"']+)["']/i.exec(match[0])?.[1]
+        ?? stripHtml(card),
+      );
+      const location = cleanCompensationText(stripHtml(/<p[^>]*>([\s\S]*?)<\/p>/i.exec(card)?.[1] ?? ""));
+      return { title, location, url };
+    })
+    .filter(Boolean)
+    .filter((job) => job.title && job.url);
+}
+
+function htmlJobFromDetail(source, url, html, seed = {}) {
+  const structuredJob = htmlStructuredJobPostings(html)[0] ?? null;
+  const title = normalize(structuredJob?.title) || htmlTitleFromHtml(html, source) || normalize(seed.title);
+  const location = structuredLocationText(structuredJob?.jobLocation) || normalize(seed.location) || normalize(source.location);
+  const description = htmlDetailContent(html, source, structuredJob);
+  const canonicalUrl = htmlCanonicalJobUrl(source, url, html, url);
+  return {
+    ...structuredJob,
+    ...seed,
+    title,
+    location,
+    description,
+    url: canonicalUrl,
+  };
+}
+
+function htmlJobToLead(source, job) {
+  return googleJobToLead(source, job);
+}
+
 function teslaTypeLabel(value) {
   const labels = {
     fulltime: "Full-Time",
@@ -832,6 +1148,64 @@ async function scanAvature(source, timeoutMs = fetchTimeoutMs) {
     .map((job) => avatureJobToLead(source, job));
 }
 
+async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
+  const sourceUrls = source.urls ?? (source.url ? [source.url] : []);
+  const leadByUrl = new Map();
+  const detailCandidates = new Map();
+  const detailLimit = source.detailLimit ?? 8;
+
+  for (const url of sourceUrls) {
+    const html = await fetchText(url, timeoutMs, {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html,*/*",
+      },
+    });
+    if (source.forceDetail || isHtmlDetailUrl(source, url)) {
+      const job = htmlJobFromDetail(source, url, html);
+      const context = `${job.location}\n${job.description}`;
+      if (isRelevant(job.title, context) && isEligibleRole(job.title, context) && !hasOnlyExcludedGraduationWindow(job.title, context)) {
+        leadByUrl.set(job.url, htmlJobToLead(source, job));
+      }
+    }
+    for (const job of htmlCardSummaries(source, url, html)) {
+      const context = `${job.location}\n${job.title}`;
+      if (!isRelevant(job.title, context)) continue;
+      if (!isEligibleRole(job.title, context)) continue;
+      if (hasOnlyExcludedGraduationWindow(job.title, context)) continue;
+      detailCandidates.set(job.url, job);
+    }
+  }
+
+  for (const job of [...detailCandidates.values()].slice(0, detailLimit)) {
+    if (leadByUrl.has(job.url)) continue;
+    const html = await fetchText(job.url, timeoutMs, {
+      headers: {
+        "User-Agent": "Mozilla/5.0",
+        "Accept": "text/html,*/*",
+      },
+    });
+    const enrichedJob = htmlJobFromDetail(source, job.url, html, job);
+    const context = `${enrichedJob.location}\n${enrichedJob.description}`;
+    if (!isRelevant(enrichedJob.title, context)) continue;
+    if (!isEligibleRole(enrichedJob.title, context)) continue;
+    if (hasOnlyExcludedGraduationWindow(enrichedJob.title, context)) continue;
+    leadByUrl.set(enrichedJob.url, htmlJobToLead(source, enrichedJob));
+  }
+
+  return [...leadByUrl.values()];
+}
+
+async function scanGoogleCareers(source, timeoutMs = fetchTimeoutMs) {
+  return scanHtmlJobs({
+    relativeJobBase: "https://www.google.com/about/careers/applications/",
+    detailUrlPatterns: ["/jobs/results/\\d+"],
+    contentStartPattern: "<h3>\\s*Minimum qualifications",
+    titleSuffixPattern: "\\s+(?:-|[\\u2013\\u2014])\\s+Google Careers$",
+    ...source,
+  }, timeoutMs);
+}
+
 function directPageToLead(target, html) {
   const text = html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " ").replace(/<[^>]+>/g, " ");
   if (!target.monitor_queries || !text) return null;
@@ -926,7 +1300,11 @@ async function scanAtsSources(sources) {
                     ? scanAvature(source, sourceTimeoutMs)
                     : source.adapter === "tesla"
                       ? scanTesla(source, sourceTimeoutMs)
-                      : Promise.resolve([]);
+                      : source.adapter === "html_jobs"
+                        ? scanHtmlJobs(source, sourceTimeoutMs)
+                        : source.adapter === "google_careers"
+                        ? scanGoogleCareers(source, sourceTimeoutMs)
+                        : Promise.resolve([]);
       const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter}`, sourceTimeoutMs);
       return {
         leads,
@@ -958,7 +1336,11 @@ async function scanAtsSources(sources) {
                       ? scanAvature(source, retryTimeoutMs)
                       : source.adapter === "tesla"
                         ? scanTesla(source, retryTimeoutMs)
-                        : Promise.resolve([]);
+                        : source.adapter === "html_jobs"
+                          ? scanHtmlJobs(source, retryTimeoutMs)
+                          : source.adapter === "google_careers"
+                          ? scanGoogleCareers(source, retryTimeoutMs)
+                          : Promise.resolve([]);
         const leads = await withTimeout(leadPromise, `${source.company} ${source.adapter} double-check`, retryTimeoutMs);
         return {
           leads,
@@ -1040,7 +1422,9 @@ function toPublicRole(lead, scannedAt) {
   const existingGradWindow = normalize(lead.grad_window);
   const inferredGradWindow = internshipEligiblePatterns.some((pattern) => pattern.test(title))
     ? "2027 internship eligible"
-    : (targetGradPatterns.some((pattern) => pattern.test(title)) || /\b2027\b/.test(title) ? "2027 grad eligible" : "");
+    : (targetGradPatterns.some((pattern) => pattern.test(title)) || /\b2027\b/.test(title)
+        ? "2027 grad eligible"
+        : (earlyCareerPatterns.some((pattern) => pattern.test(title)) ? "Early career" : ""));
   const gradWindow = normalize(lead.graduation_match)
     || inferredGradWindow
     || existingGradWindow
@@ -1194,15 +1578,115 @@ ${sections.join("\n")}
 - [data/roles.csv](data/roles.csv)
 - [data/latest_scan.json](data/latest_scan.json)
 - [data/coverage.json](data/coverage.json)
+- [docs/ADDING_SOURCES.md](docs/ADDING_SOURCES.md)
 
 ## Notes
 
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
+- Non-ATS official pages can use the config-driven \`html_jobs\` adapter with detail URL patterns.
 - Roles not seen for ${staleAfterDays} days are automatically removed from the public board.
 - Generated files are updated by \`.github/workflows/monitor.yml\`.
 `;
+}
+
+function assertEqual(actual, expected, label) {
+  if (actual !== expected) {
+    throw new Error(`${label}: expected ${JSON.stringify(expected)}, got ${JSON.stringify(actual)}`);
+  }
+}
+
+function assertTruthy(value, label) {
+  if (!value) throw new Error(`${label}: expected truthy value`);
+}
+
+async function runSelfTests() {
+  const encodedSalary = `
+    &lt;div class=&quot;content-pay-transparency&quot;&gt;
+      &lt;div class=&quot;title&quot;&gt;US Salary Range&lt;/div&gt;
+      &lt;div class=&quot;pay-range&quot;&gt;
+        &lt;span&gt;$86,000&lt;/span&gt;
+        &lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;
+        &lt;span&gt;$114,000 USD&lt;/span&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;`;
+  assertEqual(
+    extractCompensation("2027 Early Career Mechanical Engineer", encodedSalary),
+    "$86,000 - $114,000 USD",
+    "encoded salary range",
+  );
+  assertEqual(
+    extractCompensation("Graduate Software Engineer", "The salary for this role is $200,000."),
+    "$200,000",
+    "single annual salary",
+  );
+  assertEqual(
+    extractCompensation("Electrical Engineer Intern - Summer 2027", "US Salary Range $30 - $45 USD"),
+    "$30 - $45 USD",
+    "intern hourly range without hour suffix",
+  );
+  assertEqual(
+    isEligibleRole("[2026] Senior Machine Learning Engineer - PhD Early Career", ""),
+    false,
+    "senior early-career false positive",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, PhD, Early Career, AI/Machine Learning, 2026 Start", ""),
+    false,
+    "2026 start false positive",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program", "Ability to start in June 2027."),
+    true,
+    "early career with 2027 start",
+  );
+
+  const htmlFixture = `
+    <html><head>
+      <title>Software Engineer, Early Career - Example Careers</title>
+      <meta property="og:title" content="Software Engineer, Early Career - Example Careers">
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "JobPosting",
+          "title": "Software Engineer, Early Career",
+          "description": "<p>Ability to start in June 2027.</p>",
+          "jobLocation": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Austin",
+              "addressRegion": "TX",
+              "addressCountry": "US"
+            }
+          },
+          "baseSalary": {
+            "@type": "MonetaryAmount",
+            "currency": "USD",
+            "value": {
+              "@type": "QuantitativeValue",
+              "minValue": 90000,
+              "maxValue": 120000,
+              "unitText": "YEAR"
+            }
+          }
+        }
+      </script>
+    </head><body><main><h3>Minimum qualifications:</h3><p>Ability to start in June 2027.</p></main></body></html>`;
+  const htmlSource = { company: "Example", priority: "P0", titleSuffixPattern: "\\s+-\\s+Example Careers$" };
+  const parsedJob = htmlJobFromDetail(htmlSource, "https://example.com/jobs/123", htmlFixture);
+  assertEqual(parsedJob.title, "Software Engineer, Early Career", "html job title");
+  assertEqual(parsedJob.location, "Austin, TX, US", "html structured location");
+  const lead = htmlJobToLead(htmlSource, parsedJob);
+  assertEqual(lead.compensation, "$90,000 - $120,000", "html structured compensation");
+  assertTruthy(isEligibleRole(lead.role_title, parsedJob.description), "html job eligibility");
+}
+
+if (process.argv.includes("--self-test")) {
+  await runSelfTests();
+  console.log("monitor self-test ok");
+  process.exit(0);
 }
 
 await fs.mkdir(dataDir, { recursive: true });
@@ -1280,7 +1764,10 @@ const coverage = {
 };
 const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt));
 const updatedLeads = mergeRoles(existingLeads, boardEligibleCandidates, scannedAt)
-  .filter((role) => isRecentlySeen(role, scannedAt));
+  .filter((role) => isRecentlySeen(role, scannedAt))
+  .filter(isFreshEnough)
+  .filter(isAllowedLocation)
+  .filter((role) => role.priority !== "P2");
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(csvOutputPath, rolesToCsv(updatedLeads), "utf8");
 await fs.writeFile(scanOutputPath, `${JSON.stringify({ scanned_at: scannedAt, fresh_leads: publicFreshLeads, scan_log: scanLog, coverage }, null, 2)}\n`, "utf8");

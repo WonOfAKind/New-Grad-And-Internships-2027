@@ -41,9 +41,9 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Check monitor syntax
+      - name: Validate monitor parser
         if: steps.window.outputs.run == 'true'
-        run: npm run check
+        run: npm run validate
 
       - name: Run monitor
         if: steps.window.outputs.run == 'true'
