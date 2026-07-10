@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-10T22:39:15.494Z",
+  "scanned_at": "2026-07-10T23:37:24.365Z",
   "fresh_leads": [],
   "scan_log": [
     {
@@ -176,7 +176,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 19,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -200,7 +200,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 45,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -303,8 +303,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 150,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -944,7 +944,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1453,15 +1453,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-10T22:39:15.494Z",
-    "elapsed_ms": 53847,
+    "scanned_at": "2026-07-10T23:37:24.365Z",
+    "elapsed_ms": 59466,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 14,
+    "discovery_new_sources_this_scan": 4,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1474,18 +1474,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 68,
+    "board_eligible_candidates": 65,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
