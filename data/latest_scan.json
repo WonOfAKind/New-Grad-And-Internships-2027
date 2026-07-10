@@ -1,6 +1,22 @@
 {
-  "scanned_at": "2026-07-10T14:50:38.442Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-10T17:06:38.945Z",
+  "fresh_leads": [
+    {
+      "company": "Hermeus",
+      "title": "Manufacturing Engineer, New Grad",
+      "location": "Los Angeles, CA",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "",
+      "grad_window": "New grad or university grad",
+      "url": "https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43",
+      "source": "https://www.hermeus.com/careers",
+      "date_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "updated_at": "2026-06-24T15:17:23.935Z",
+      "priority": "P0"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -47,7 +63,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 634,
+      "matches": 637,
       "phase": "fast-pass"
     },
     {
@@ -144,7 +160,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 26,
+      "matches": 27,
       "phase": "fast-pass"
     },
     {
@@ -303,8 +319,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 149,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -392,7 +408,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 68,
+      "matches": 69,
       "phase": "fast-pass"
     },
     {
@@ -1048,7 +1064,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 14,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -1420,6 +1436,14 @@
       "phase": "fast-pass"
     },
     {
+      "company": "Hermeus",
+      "adapter": "lever",
+      "source_kind": "discovered",
+      "status": "ok",
+      "matches": 38,
+      "phase": "fast-pass"
+    },
+    {
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
@@ -1445,39 +1469,39 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-10T14:50:38.442Z",
-    "elapsed_ms": 65899,
+    "scanned_at": "2026-07-10T17:06:38.945Z",
+    "elapsed_ms": 64128,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 180,
-    "discovered_sources_active": 140,
-    "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 15,
+    "structured_sources_runtime": 181,
+    "discovered_sources_active": 141,
+    "discovered_companies_active": 141,
+    "discovery_attempts_this_scan": 16,
+    "discovery_new_sources_this_scan": 5,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
-      "none": 156,
-      "discovered": 140,
-      "error": 28,
+      "none": 157,
+      "discovered": 141,
+      "error": 26,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 180,
-    "total_fetch_attempts": 180,
+    "unique_sources_attempted": 181,
+    "total_fetch_attempts": 181,
     "ok_sources": 169,
-    "error_sources": 10,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 67,
+    "board_eligible_candidates": 65,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
