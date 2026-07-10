@@ -1,29 +1,13 @@
 {
-  "scanned_at": "2026-07-10T17:06:38.945Z",
-  "fresh_leads": [
-    {
-      "company": "Hermeus",
-      "title": "Manufacturing Engineer, New Grad",
-      "location": "Los Angeles, CA",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "compensation": "",
-      "grad_window": "New grad or university grad",
-      "url": "https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43",
-      "source": "https://www.hermeus.com/careers",
-      "date_seen": "2026-07-10",
-      "last_seen": "2026-07-10",
-      "updated_at": "2026-06-24T15:17:23.935Z",
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-10T18:43:58.317Z",
+  "fresh_leads": [],
   "scan_log": [
     {
       "company": "SpaceX",
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 520,
+      "matches": 519,
       "phase": "fast-pass"
     },
     {
@@ -47,7 +31,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 51,
+      "matches": 50,
       "phase": "fast-pass"
     },
     {
@@ -63,7 +47,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 637,
+      "matches": 641,
       "phase": "fast-pass"
     },
     {
@@ -216,7 +200,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 47,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -319,8 +303,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "status": "ok",
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -336,7 +320,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 40,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -1072,7 +1056,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 9,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -1136,7 +1120,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 8,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1469,15 +1453,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-10T17:06:38.945Z",
-    "elapsed_ms": 64128,
+    "scanned_at": "2026-07-10T18:43:58.317Z",
+    "elapsed_ms": 58534,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 16,
-    "discovery_new_sources_this_scan": 5,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1490,18 +1474,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 65,
+    "board_eligible_candidates": 68,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
