@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-09T23:52:12.256Z",
+  "scanned_at": "2026-07-10T14:50:38.442Z",
   "fresh_leads": [],
   "scan_log": [
     {
@@ -7,7 +7,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 515,
+      "matches": 520,
       "phase": "fast-pass"
     },
     {
@@ -15,7 +15,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 113,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -23,7 +23,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 256,
+      "matches": 255,
       "phase": "fast-pass"
     },
     {
@@ -31,7 +31,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 50,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
@@ -128,7 +128,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -136,7 +136,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 28,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -152,7 +152,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 16,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -192,7 +192,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 64,
+      "matches": 63,
       "phase": "fast-pass"
     },
     {
@@ -200,7 +200,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 45,
+      "matches": 47,
       "phase": "fast-pass"
     },
     {
@@ -224,7 +224,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 84,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
@@ -304,7 +304,7 @@
       "adapter": "phenom",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 153,
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -496,7 +496,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 25,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -544,7 +544,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 71,
+      "matches": 72,
       "phase": "fast-pass"
     },
     {
@@ -624,7 +624,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 98,
+      "matches": 93,
       "phase": "fast-pass"
     },
     {
@@ -633,6 +633,14 @@
       "source_kind": "discovered",
       "status": "ok",
       "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Shield AI",
+      "adapter": "lever",
+      "source_kind": "discovered",
+      "status": "ok",
+      "matches": 55,
       "phase": "fast-pass"
     },
     {
@@ -804,6 +812,14 @@
       "phase": "fast-pass"
     },
     {
+      "company": "Zillow",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
       "company": "Yelp",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
@@ -824,7 +840,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 5,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -872,7 +888,7 @@
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -904,7 +920,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 30,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -1032,7 +1048,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 15,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -1415,8 +1431,8 @@
       "company": "MathWorks",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -1429,29 +1445,29 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-09T23:52:12.256Z",
-    "elapsed_ms": 59760,
+    "scanned_at": "2026-07-10T14:50:38.442Z",
+    "elapsed_ms": 65899,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 178,
-    "discovered_sources_active": 138,
-    "discovered_companies_active": 138,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
-    "discovery_due_remaining": 0,
+    "structured_sources_runtime": 180,
+    "discovered_sources_active": 140,
+    "discovered_companies_active": 140,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 15,
     "discovery_status_counts": {
-      "error": 36,
-      "none": 151,
-      "discovered": 138,
-      "blocked": 2
+      "none": 156,
+      "discovered": 140,
+      "error": 28,
+      "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 178,
-    "total_fetch_attempts": 178,
-    "ok_sources": 168,
-    "error_sources": 9,
+    "unique_sources_attempted": 180,
+    "total_fetch_attempts": 180,
+    "ok_sources": 169,
+    "error_sources": 10,
     "blocked_sources": 1,
     "ats_ok_sources": 39,
     "ats_error_sources": 0,
@@ -1459,7 +1475,7 @@
     "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 9
+      "403 Forbidden": 10
     },
     "board_eligible_candidates": 67,
     "stale_after_days": 21,
