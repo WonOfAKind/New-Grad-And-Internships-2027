@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-10T18:43:58.317Z",
+  "scanned_at": "2026-07-10T20:07:19.893Z",
   "fresh_leads": [],
   "scan_log": [
     {
@@ -7,7 +7,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 519,
+      "matches": 522,
       "phase": "fast-pass"
     },
     {
@@ -31,7 +31,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 50,
+      "matches": 49,
       "phase": "fast-pass"
     },
     {
@@ -144,7 +144,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 27,
+      "matches": 28,
       "phase": "fast-pass"
     },
     {
@@ -184,7 +184,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1056,7 +1056,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1453,8 +1453,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-10T18:43:58.317Z",
-    "elapsed_ms": 58534,
+    "scanned_at": "2026-07-10T20:07:19.893Z",
+    "elapsed_ms": 55821,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
