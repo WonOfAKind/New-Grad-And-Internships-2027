@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-13T20:33:51.732Z",
+  "scanned_at": "2026-07-13T21:33:36.425Z",
   "fresh_leads": [],
   "scan_log": [
     {
@@ -7,7 +7,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 528,
+      "matches": 529,
       "phase": "fast-pass"
     },
     {
@@ -47,7 +47,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 632,
+      "matches": 633,
       "phase": "fast-pass"
     },
     {
@@ -96,7 +96,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 200,
+      "matches": 199,
       "phase": "fast-pass"
     },
     {
@@ -544,7 +544,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 71,
+      "matches": 70,
       "phase": "fast-pass"
     },
     {
@@ -1453,15 +1453,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-13T20:33:51.732Z",
-    "elapsed_ms": 57029,
+    "scanned_at": "2026-07-13T21:33:36.425Z",
+    "elapsed_ms": 59515,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,

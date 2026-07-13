@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-13T17:22:48.466Z",
+  "updated_at": "2026-07-13T21:33:36.425Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -166,7 +166,7 @@
     },
     "servicenow": {
       "company": "ServiceNow",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -190,7 +190,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -282,7 +282,7 @@
     },
     "pinterest": {
       "company": "Pinterest",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -306,7 +306,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -611,7 +611,7 @@
     },
     "block": {
       "company": "Block",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -909,7 +909,7 @@
     },
     "hashicorp": {
       "company": "HashiCorp",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -952,7 +952,7 @@
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1428,7 +1428,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1437,7 +1437,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1482,7 +1482,7 @@
     },
     "akuna capital": {
       "company": "Akuna Capital",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1506,7 +1506,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -1554,7 +1554,7 @@
     },
     "radix trading": {
       "company": "Radix Trading",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1563,7 +1563,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2005,7 +2005,7 @@
     },
     "skild ai": {
       "company": "Skild AI",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -2014,7 +2014,7 @@
     },
     "covariant": {
       "company": "Covariant",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -2336,7 +2336,7 @@
     },
     "quizlet": {
       "company": "Quizlet",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2378,7 +2378,7 @@
     },
     "canva": {
       "company": "Canva",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2402,7 +2402,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -2961,7 +2961,7 @@
     },
     "tenable": {
       "company": "Tenable",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -2970,7 +2970,7 @@
     },
     "rapid7": {
       "company": "Rapid7",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3000,7 +3000,7 @@
     },
     "dbt labs": {
       "company": "dbt Labs",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3475,7 +3475,7 @@
     },
     "cartesia": {
       "company": "Cartesia",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3505,7 +3505,7 @@
     },
     "tempus": {
       "company": "Tempus",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -3651,7 +3651,7 @@
     },
     "coinbase": {
       "company": "Coinbase",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3675,7 +3675,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -3751,7 +3751,7 @@
     },
     "uniswap labs": {
       "company": "Uniswap Labs",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3902,7 +3902,7 @@
     },
     "fidelity investments": {
       "company": "Fidelity Investments",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3926,13 +3926,13 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
     "vanguard": {
       "company": "Vanguard",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -4161,7 +4161,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4734,7 +4734,7 @@
     },
     "verizon": {
       "company": "Verizon",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -4758,7 +4758,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -4789,7 +4789,7 @@
     },
     "ge aerospace": {
       "company": "GE Aerospace",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -4816,7 +4816,7 @@
     },
     "general motors": {
       "company": "General Motors",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -4840,7 +4840,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T15:09:51.473Z",
+      "last_scan_at": "2026-07-13T21:33:36.425Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -4877,7 +4877,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4929,7 +4929,7 @@
     },
     "sierra space": {
       "company": "Sierra Space",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5072,7 +5072,7 @@
     },
     "f5": {
       "company": "F5",
-      "checked_at": "2026-07-13T15:08:47.384Z",
+      "checked_at": "2026-07-13T21:32:36.918Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
