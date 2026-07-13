@@ -1,22 +1,6 @@
 {
-  "scanned_at": "2026-07-13T19:03:23.520Z",
-  "fresh_leads": [
-    {
-      "company": "xAI",
-      "title": "Software Engineer - Internal Tools",
-      "location": "Palo Alto, CA",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "New grad or university grad",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5052038007",
-      "source": "https://x.ai/careers",
-      "date_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "updated_at": "2026-07-13T13:26:22-04:00",
-      "priority": "P1"
-    }
-  ],
+  "scanned_at": "2026-07-13T20:33:51.732Z",
+  "fresh_leads": [],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -47,7 +31,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 51,
+      "matches": 50,
       "phase": "fast-pass"
     },
     {
@@ -79,7 +63,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 30,
+      "matches": 31,
       "phase": "fast-pass"
     },
     {
@@ -112,7 +96,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 199,
+      "matches": 200,
       "phase": "fast-pass"
     },
     {
@@ -160,7 +144,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 28,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -319,8 +303,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 151,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -640,7 +624,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 98,
+      "matches": 97,
       "phase": "fast-pass"
     },
     {
@@ -968,7 +952,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1256,7 +1240,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 2,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1400,7 +1384,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1469,8 +1453,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-13T19:03:23.520Z",
-    "elapsed_ms": 59058,
+    "scanned_at": "2026-07-13T20:33:51.732Z",
+    "elapsed_ms": 57029,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1490,18 +1474,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 72,
+    "board_eligible_candidates": 67,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
