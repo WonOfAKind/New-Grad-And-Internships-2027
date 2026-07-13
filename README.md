@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 13, 2026 at 1:22 PM EDT
+Last updated: July 13, 2026 at 3:03 PM EDT
 
 Companies tracked: 367
 
-Current roles: 70
+Current roles: 71
 
 Fresh roles this scan: 1
 
@@ -63,6 +63,7 @@ Automatically discovered companies: 141
 | RTX | Leadership Development Program - Engineering, Systems (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | 2026-07-13 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply>) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | $125,000.00 - $145,000.00 | New grad or university grad | 2026-07-13 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002>) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | - | New grad or university grad | 2026-07-13 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002>) |
+| xAI | Software Engineer - Internal Tools | Palo Alto, CA | - | New grad or university grad | 2026-07-13 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5052038007>) |
 
 ### Data Science
 
