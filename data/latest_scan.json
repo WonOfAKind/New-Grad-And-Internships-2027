@@ -1,50 +1,20 @@
 {
-  "scanned_at": "2026-07-13T15:09:51.473Z",
+  "scanned_at": "2026-07-13T17:22:48.466Z",
   "fresh_leads": [
     {
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Developer",
-      "location": "USA - Richardson, TX",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "$83,300 - $112,700",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "updated_at": "Posted Today",
-      "priority": "P0"
-    },
-    {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**",
-      "location": "USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL",
+      "company": "Anduril",
+      "title": "Early Career Flight Test Engineer, Altius",
+      "location": "Costa Mesa, California, United States",
       "role_type": "New Grad",
       "discipline": "Mechanical Engineering",
-      "compensation": "$73,950 - $100,050",
+      "compensation": "$86,000 - $114,000 USD",
       "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865",
-      "source": "https://jobs.boeing.com/",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007",
+      "source": "https://www.anduril.com/careers/",
       "date_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "updated_at": "Posted 28 Days Ago",
+      "updated_at": "2026-07-13T12:48:09-04:00",
       "priority": "P0"
-    },
-    {
-      "company": "RTX",
-      "title": "Control Actuation Mechanical Engineer I (Onsite)",
-      "location": "huntsville, Alabama, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply",
-      "source": "https://careers.rtx.com/global/en/search-results",
-      "date_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "updated_at": "2026-07-09T00:00:00.000+0000",
-      "priority": "P1"
     }
   ],
   "scan_log": [
@@ -53,7 +23,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 525,
+      "matches": 527,
       "phase": "fast-pass"
     },
     {
@@ -93,7 +63,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 639,
+      "matches": 634,
       "phase": "fast-pass"
     },
     {
@@ -142,7 +112,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 199,
+      "matches": 198,
       "phase": "fast-pass"
     },
     {
@@ -222,7 +192,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 18,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -246,7 +216,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 48,
+      "matches": 49,
       "phase": "fast-pass"
     },
     {
@@ -349,8 +319,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 150,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -382,7 +352,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -438,7 +408,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 71,
+      "matches": 72,
       "phase": "fast-pass"
     },
     {
@@ -590,7 +560,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 70,
+      "matches": 71,
       "phase": "fast-pass"
     },
     {
@@ -926,7 +896,7 @@
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 4,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -998,7 +968,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1182,7 +1152,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 11,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1499,16 +1469,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-13T15:09:51.473Z",
-    "elapsed_ms": 64095,
+    "scanned_at": "2026-07-13T17:22:48.466Z",
+    "elapsed_ms": 64656,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 6,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1520,18 +1490,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 70,
+    "board_eligible_candidates": 67,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
