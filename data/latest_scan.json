@@ -1,6 +1,22 @@
 {
-  "scanned_at": "2026-07-13T22:34:35.575Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-13T23:33:13.540Z",
+  "fresh_leads": [
+    {
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "location": "Chicago, New York, Seattle",
+      "role_type": "New Grad",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
+      "source": "https://point72.com/careers/",
+      "date_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "updated_at": "2026-07-13T19:22:44-04:00",
+      "priority": "P1"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -15,7 +31,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 115,
+      "matches": 113,
       "phase": "fast-pass"
     },
     {
@@ -47,7 +63,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 637,
+      "matches": 638,
       "phase": "fast-pass"
     },
     {
@@ -552,7 +568,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 25,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -1424,7 +1440,7 @@
       "adapter": "lever",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 38,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1453,15 +1469,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-13T22:34:35.575Z",
-    "elapsed_ms": 55461,
+    "scanned_at": "2026-07-13T23:33:13.540Z",
+    "elapsed_ms": 55878,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1485,7 +1501,7 @@
     "error_breakdown": {
       "403 Forbidden": 11
     },
-    "board_eligible_candidates": 67,
+    "board_eligible_candidates": 68,
     "stale_after_days": 21,
     "unattempted_companies": []
   }

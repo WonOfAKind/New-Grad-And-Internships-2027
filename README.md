@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 13, 2026 at 6:34 PM EDT
+Last updated: July 13, 2026 at 7:33 PM EDT
 
 Companies tracked: 367
 
-Current roles: 71
+Current roles: 72
 
-Fresh roles this scan: 0
+Fresh roles this scan: 1
 
 Structured sources active: 181
 
@@ -59,6 +59,7 @@ Automatically discovered companies: 141
 | Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY | $145,000 - $155,000/year | New grad or university grad | 2026-07-13 | [Apply](<https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a>) |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | $145,000 - $155,000/year | New grad or university grad | 2026-07-13 | [Apply](<https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af>) |
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. | $145,000 - $155,000/year | New grad or university grad | 2026-07-13 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
+| Point72 | Cubist Quantitative Researcher | Chicago, New York, Seattle | - | Early career | 2026-07-13 | [Apply](<https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002>) |
 | RTX | Leadership Development Program - Engineering, Software (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | 2026-07-13 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1/apply>) |
 | RTX | Leadership Development Program - Engineering, Systems (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | 2026-07-13 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply>) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | $125,000.00 - $145,000.00 | New grad or university grad | 2026-07-13 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002>) |
