@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 10, 2026 at 7:37 PM EDT
+Last updated: July 13, 2026 at 11:09 AM EDT
 
 Companies tracked: 367
 
-Current roles: 66
+Current roles: 69
 
-Fresh roles this scan: 0
+Fresh roles this scan: 3
 
 Structured sources active: 181
 
@@ -35,6 +35,7 @@ Automatically discovered companies: 141
 | Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | 2026-07-10 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007>) |
 | Boeing | Entry-Level Simulation Software Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $78,200 - $105,800 | Early career | 2026-07-10 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1>) |
 | Boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | $65,000 - $72,680 | Early career | 2026-07-10 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-2>) |
+| Boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | $83,300 - $112,700 | Early career | 2026-07-13 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2>) |
 | Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | United States | $123,000 - $175,000 USD | 2027 grad eligible | 2026-07-10 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program>) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | 2026-07-10 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
 | IMC Trading | Graduate Software Engineer | Chicago, United States | $200,000 | 2027 grad eligible | 2026-07-10 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4818790101>) |
@@ -78,11 +79,13 @@ _No roles found yet._
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | 2026-07-10 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007>) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | 2026-07-10 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007>) |
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | 2026-07-10 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
+| Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | 2026-07-13 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | 2026-07-10 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | 2026-07-10 | [Apply](<https://careers.hpe.com/us/en/job/1206917/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | 2026-07-10 | [Apply](<https://careers.hpe.com/us/en/job/1207422/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | 2026-07-10 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 | Marvell | Design for Test Engineer - Early Career | Westborough, MA | - | Early career | 2026-07-10 | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Design-for-Test-Engineer---Early-Career_2601055>) |
+| RTX | Control Actuation Mechanical Engineer I (Onsite) | huntsville, Alabama, United States of America | - | Early career | 2026-07-13 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply>) |
 | SpaceX | Mechanical Engineer, Fluid Systems (Design &amp; Build) | McGregor, TX | - | Early career | 2026-07-10 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8578082002?gh_jid=8578082002>) |
 
 ### Aerospace Engineering

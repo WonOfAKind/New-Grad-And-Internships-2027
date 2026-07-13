@@ -1,13 +1,59 @@
 {
-  "scanned_at": "2026-07-10T23:37:24.365Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-13T15:09:51.473Z",
+  "fresh_leads": [
+    {
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Developer",
+      "location": "USA - Richardson, TX",
+      "role_type": "New Grad",
+      "discipline": "Software / AI / ML",
+      "compensation": "$83,300 - $112,700",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "updated_at": "Posted Today",
+      "priority": "P0"
+    },
+    {
+      "company": "Boeing",
+      "title": "Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential**",
+      "location": "USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "$73,950 - $100,050",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "updated_at": "Posted 28 Days Ago",
+      "priority": "P0"
+    },
+    {
+      "company": "RTX",
+      "title": "Control Actuation Mechanical Engineer I (Onsite)",
+      "location": "huntsville, Alabama, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply",
+      "source": "https://careers.rtx.com/global/en/search-results",
+      "date_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "updated_at": "2026-07-09T00:00:00.000+0000",
+      "priority": "P1"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 524,
+      "matches": 525,
       "phase": "fast-pass"
     },
     {
@@ -15,7 +61,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 114,
+      "matches": 115,
       "phase": "fast-pass"
     },
     {
@@ -23,7 +69,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 255,
+      "matches": 258,
       "phase": "fast-pass"
     },
     {
@@ -31,7 +77,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 50,
+      "matches": 52,
       "phase": "fast-pass"
     },
     {
@@ -39,7 +85,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 36,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -152,7 +198,7 @@
       "adapter": "ashby",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 17,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -160,7 +206,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 43,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -192,7 +238,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 62,
+      "matches": 60,
       "phase": "fast-pass"
     },
     {
@@ -200,7 +246,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 46,
+      "matches": 48,
       "phase": "fast-pass"
     },
     {
@@ -224,7 +270,7 @@
       "adapter": "greenhouse",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 83,
+      "matches": 81,
       "phase": "fast-pass"
     },
     {
@@ -288,7 +334,7 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -303,8 +349,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "status": "ok",
+      "matches": 150,
       "phase": "fast-pass"
     },
     {
@@ -392,7 +438,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 69,
+      "matches": 71,
       "phase": "fast-pass"
     },
     {
@@ -544,7 +590,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 73,
+      "matches": 70,
       "phase": "fast-pass"
     },
     {
@@ -552,7 +598,7 @@
       "adapter": "greenhouse",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 24,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -624,7 +670,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 93,
+      "matches": 98,
       "phase": "fast-pass"
     },
     {
@@ -888,7 +934,7 @@
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 3,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -960,7 +1006,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1056,7 +1102,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 11,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1280,7 +1326,7 @@
       "adapter": "ashby",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 14,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -1384,7 +1430,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1453,16 +1499,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-10T23:37:24.365Z",
-    "elapsed_ms": 59466,
+    "scanned_at": "2026-07-13T15:09:51.473Z",
+    "elapsed_ms": 64095,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 14,
-    "discovery_new_sources_this_scan": 4,
-    "discovery_due_remaining": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 6,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1474,18 +1520,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 65,
+    "board_eligible_candidates": 70,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
