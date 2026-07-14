@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-14T16:52:24.534Z",
+  "scanned_at": "2026-07-14T18:16:13.037Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -149,7 +149,7 @@
       "source_id": "anysphere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -179,7 +179,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 27,
       "phase": "fast-pass"
     },
     {
@@ -189,7 +189,7 @@
       "source_id": "confluent|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -533,7 +533,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 34,
       "phase": "fast-pass"
     },
     {
@@ -613,7 +613,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -821,7 +821,7 @@
       "source_id": "five rings|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 2,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -1545,7 +1545,7 @@
       "source_id": "astranis|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 21,
       "phase": "fast-pass"
     },
     {
@@ -1713,7 +1713,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1761,7 +1761,7 @@
       "source_id": "hermeus|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -1792,8 +1792,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T16:52:24.534Z",
-    "elapsed_ms": 59230,
+    "scanned_at": "2026-07-14T18:16:13.037Z",
+    "elapsed_ms": 56454,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1824,8 +1824,8 @@
     "error_breakdown": {
       "403 Forbidden": 11
     },
-    "board_eligible_candidates": 69,
-    "closure_checks": 1,
+    "board_eligible_candidates": 68,
+    "closure_checks": 2,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
