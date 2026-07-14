@@ -1,7 +1,34 @@
 {
-  "scanned_at": "2026-07-14T18:16:13.037Z",
-  "fresh_leads": [],
-  "removed_roles": [],
+  "scanned_at": "2026-07-14T19:55:02.611Z",
+  "fresh_leads": [
+    {
+      "company": "RTX",
+      "title": "Mechanical Engineer I (Onsite)",
+      "location": "portsmouth, Rhode Island, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineer-I--Onsite-_01859276/apply",
+      "source": "https://careers.rtx.com/global/en/search-results",
+      "date_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "posted_at": "2026-07-12",
+      "expires_at": "",
+      "updated_at": "2026-07-13T00:00:00.000+0000",
+      "source_id": "rtx|phenom",
+      "source_adapter": "phenom",
+      "priority": "P1"
+    }
+  ],
+  "removed_roles": [
+    {
+      "company": "Anduril",
+      "title": "Early Career Flight Test Engineer, Altius",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007",
+      "reason": "missing from authoritative source"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -10,7 +37,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 533,
+      "matches": 532,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +47,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 111,
+      "matches": 112,
       "phase": "fast-pass"
     },
     {
@@ -40,7 +67,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 53,
+      "matches": 52,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +87,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 642,
+      "matches": 638,
       "phase": "fast-pass"
     },
     {
@@ -149,7 +176,7 @@
       "source_id": "anysphere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -376,8 +403,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 147,
       "phase": "fast-pass"
     },
     {
@@ -533,7 +562,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 34,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -613,7 +642,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 23,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -673,7 +702,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 72,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -773,7 +802,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 97,
+      "matches": 101,
       "phase": "fast-pass"
     },
     {
@@ -1001,7 +1030,7 @@
       "source_id": "ebay|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -1299,7 +1328,7 @@
       "source_id": "snorkel ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -1761,7 +1790,7 @@
       "source_id": "hermeus|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 38,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1792,8 +1821,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T18:16:13.037Z",
-    "elapsed_ms": 56454,
+    "scanned_at": "2026-07-14T19:55:02.611Z",
+    "elapsed_ms": 58085,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1813,20 +1842,20 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 68,
+    "board_eligible_candidates": 72,
     "closure_checks": 2,
-    "closed_roles_removed": 0,
+    "closed_roles_removed": 1,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

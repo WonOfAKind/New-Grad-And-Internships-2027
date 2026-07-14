@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 14, 2026 at 2:16 PM EDT
+Last updated: July 14, 2026 at 3:55 PM EDT
 
 Companies tracked: 367
 
 Current roles: 72
 
-Fresh roles this scan: 0
+Fresh roles this scan: 1
 
 Structured sources active: 181
 
@@ -78,12 +78,12 @@ _No roles found yet._
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Anduril | Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | $86,000 - $114,000 USD | Early career | First seen Jul 13, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007>) |
-| RTX | Control Actuation Mechanical Engineer I (Onsite) | huntsville, Alabama, United States of America | - | Early career | First seen Jul 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply>) |
+| RTX | Mechanical Engineer I (Onsite) | portsmouth, Rhode Island, United States of America | - | Early career | Posted Jul 12, 2026<br>First seen Jul 14, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineer-I--Onsite-_01859276/apply>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Jul 9, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Marvell | Design for Test Engineer - Early Career | Westborough, MA | - | Early career | First seen Jul 9, 2026 | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Design-for-Test-Engineer---Early-Career_2601055>) |
 | SpaceX | Mechanical Engineer, Fluid Systems (Design &amp; Build) | McGregor, TX | - | Early career | First seen Jul 9, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8578082002?gh_jid=8578082002>) |
+| RTX | Control Actuation Mechanical Engineer I (Onsite) | huntsville, Alabama, United States of America | - | Early career | Posted Jul 8, 2026<br>First seen Jul 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply>) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007>) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
