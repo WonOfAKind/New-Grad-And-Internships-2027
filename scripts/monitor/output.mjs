@@ -7,10 +7,12 @@ import {
 import {
   applyUrl,
   categorize,
+  dateOnly,
   isAllowedLocation,
   isFreshEnough,
   keyFor,
   normalize,
+  normalizePostingDate,
   roleTitle,
   roleType,
 } from "./domain.mjs";
@@ -84,7 +86,7 @@ export function capByCompany(leads, limit) {
   return capped;
 }
 
-export function toPublicRole(lead, scannedAt) {
+export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
   const title = roleTitle(lead);
   const context = `${lead.graduation_match ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
   const type = roleType(title, context) || lead.role_type || "New Grad";
@@ -100,6 +102,9 @@ export function toPublicRole(lead, scannedAt) {
     || inferredGradWindow
     || existingGradWindow
     || (type === "Internship" ? "Internship" : "New grad or university grad");
+  const scannedOn = dateOnly(scannedAt);
+  const firstSeen = dateOnly(lead.date_seen) || dateOnly(lead.detected_date) || scannedOn;
+  const priorLastSeen = dateOnly(lead.last_seen) || firstSeen;
   return {
     company: normalize(lead.company),
     title: normalize(title),
@@ -110,16 +115,20 @@ export function toPublicRole(lead, scannedAt) {
     grad_window: gradWindow,
     url,
     source: normalize(lead.career_source_url) || normalize(lead.source) || url,
-    date_seen: lead.detected_date || scannedAt.slice(0, 10),
-    last_seen: scannedAt.slice(0, 10),
+    date_seen: firstSeen,
+    last_seen: seenNow ? scannedOn : priorLastSeen,
+    posted_at: normalizePostingDate(lead.posted_at, firstSeen || scannedAt),
+    expires_at: normalizePostingDate(lead.expires_at, firstSeen || scannedAt),
     updated_at: normalize(lead.updated_at),
+    source_id: normalize(lead.source_id),
+    source_adapter: normalize(lead.source_adapter),
     priority: normalize(lead.priority) || "P1",
   };
 }
 
 export function mergeRoles(existing, candidates, scannedAt) {
   const byKey = new Map();
-  for (const role of existing.map((lead) => toPublicRole(lead, lead.last_seen || scannedAt))) {
+  for (const role of existing.map((lead) => toPublicRole(lead, scannedAt, { seenNow: false }))) {
     byKey.set(keyFor(role.company, role.title, role.location, role.url), role);
   }
   for (const role of candidates.map((lead) => toPublicRole(lead, scannedAt))) {
@@ -130,7 +139,11 @@ export function mergeRoles(existing, candidates, scannedAt) {
       ...role,
       compensation: role.compensation || existingRole?.compensation || "",
       date_seen: existingRole?.date_seen || role.date_seen,
-      last_seen: scannedAt.slice(0, 10),
+      posted_at: role.posted_at || existingRole?.posted_at || "",
+      expires_at: role.expires_at || existingRole?.expires_at || "",
+      source_id: role.source_id || existingRole?.source_id || "",
+      source_adapter: role.source_adapter || existingRole?.source_adapter || "",
+      last_seen: dateOnly(scannedAt),
     });
   }
   return [...byKey.values()].sort(compareRoles);
@@ -154,9 +167,15 @@ export function compareRoles(a, b) {
   };
   return (typeOrder[a.role_type] ?? 9) - (typeOrder[b.role_type] ?? 9)
     || (disciplineOrder[a.discipline] ?? 9) - (disciplineOrder[b.discipline] ?? 9)
+    || roleFreshnessTime(b) - roleFreshnessTime(a)
     || a.company.localeCompare(b.company)
     || a.title.localeCompare(b.title)
     || a.location.localeCompare(b.location);
+}
+
+export function roleFreshnessTime(role) {
+  const parsed = Date.parse(role.posted_at || role.date_seen || "");
+  return Number.isNaN(parsed) ? 0 : parsed;
 }
 
 export function csvEscape(value) {
@@ -166,7 +185,7 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "date_seen", "last_seen", "updated_at", "priority"];
+  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(role[column])).join(",")),
@@ -190,13 +209,31 @@ export function markdownEscape(value) {
 export function renderTable(roles) {
   if (roles.length === 0) return "_No roles found yet._\n";
   const lines = [
-    "| Company | Role | Location | Salary / Hourly | Grad Window | Posted/Seen | Apply |",
+    "| Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |",
     "|---|---|---|---|---|---|---|",
   ];
-  for (const role of roles) {
-    lines.push(`| ${markdownEscape(role.company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${markdownEscape(role.date_seen)} | ${markdownLink("Apply", role.url)} |`);
+  for (const role of [...roles].sort(compareRoles)) {
+    lines.push(`| ${markdownEscape(role.company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${renderRoleDates(role)} | ${markdownLink("Apply", role.url)} |`);
   }
   return `${lines.join("\n")}\n`;
+}
+
+export function formatBoardDate(value) {
+  const date = dateOnly(value);
+  if (!date) return "";
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: "UTC",
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  }).format(new Date(`${date}T00:00:00Z`));
+}
+
+export function renderRoleDates(role) {
+  const firstSeen = formatBoardDate(role.date_seen);
+  const posted = formatBoardDate(role.posted_at);
+  if (!posted) return `First seen ${markdownEscape(firstSeen || "Unknown")}`;
+  return `Posted ${markdownEscape(posted)}<br>First seen ${markdownEscape(firstSeen || "Unknown")}`;
 }
 
 export function formatReadmeTimestamp(value) {
@@ -271,7 +308,8 @@ ${sections.join("\n")}
 - Salary/hourly data is extracted only when the official posting text exposes it.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
 - Curated source configuration remains available for sites that do not expose a standard machine-readable surface.
-- Roles not seen for ${staleAfterDays} days are automatically removed from the public board.
+- Company posting dates and this tracker's first-seen dates are stored separately; tables are newest-first within each section.
+- Closed roles disappear immediately when a complete ATS feed drops them or a partial source confirms closure. Unverifiable roles are removed after ${staleAfterDays} days without a successful sighting.
 - Generated files are updated by \`.github/workflows/monitor.yml\`.
 `;
 }

@@ -9,7 +9,8 @@ import {
   staleAfterDays,
   startedAt,
 } from "./monitor/config.mjs";
-import { isAllowedLocation, isFreshEnough } from "./monitor/domain.mjs";
+import { isAllowedLocation, isExpiredDate, isFreshEnough } from "./monitor/domain.mjs";
+import { reconcileRoleLifecycle } from "./monitor/lifecycle.mjs";
 import { readJson, validateConfiguration } from "./monitor/http.mjs";
 import {
   configureAdapterContext,
@@ -61,7 +62,9 @@ const atsScan = await scanAtsSources(runtimeSources);
 allCandidates.push(...atsScan.flatMap((result) => result.leads));
 scanLog.push(...flattenLogs(atsScan));
 
+const scannedAt = new Date().toISOString();
 const boardEligibleCandidates = allCandidates
+  .filter((lead) => !isExpiredDate(lead.expires_at, scannedAt))
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
   .filter((lead) => lead.priority !== "P2")
@@ -73,9 +76,9 @@ const boardEligibleCandidates = allCandidates
     if (gradDiff !== 0) return gradDiff;
     return Date.parse(b.updated_at || "0") - Date.parse(a.updated_at || "0");
   });
+const lifecycle = await reconcileRoleLifecycle(existingLeads, boardEligibleCandidates, atsScan, scannedAt);
 const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
 
-const scannedAt = new Date().toISOString();
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
 let discoveryStateChanged = false;
 for (const status of finalSourceStatuses.filter((entry) => entry.source_kind === "discovered")) {
@@ -123,6 +126,9 @@ const coverage = {
   minimum_ats_success_percent: minAtsSuccessPercent,
   error_breakdown: errorBreakdown(finalSourceStatuses),
   board_eligible_candidates: boardEligibleCandidates.length,
+  closure_checks: lifecycle.closure_checks,
+  closed_roles_removed: lifecycle.removed.filter((entry) => entry.reason !== "expired").length,
+  expired_roles_removed: lifecycle.removed.filter((entry) => entry.reason === "expired").length,
   stale_after_days: staleAfterDays,
   unattempted_companies: targets
     .filter((target) => !atsSources.some((source) => source.company === target.company)
@@ -130,7 +136,7 @@ const coverage = {
     .map((target) => target.company),
 };
 const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt));
-const updatedLeads = mergeRoles(existingLeads, boardEligibleCandidates, scannedAt)
+const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scannedAt)
   .filter((role) => isRecentlySeen(role, scannedAt))
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
@@ -138,7 +144,18 @@ const updatedLeads = mergeRoles(existingLeads, boardEligibleCandidates, scannedA
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(discoveryPath, `${JSON.stringify(discovery.state, null, 2)}\n`, "utf8");
 await fs.writeFile(csvOutputPath, rolesToCsv(updatedLeads), "utf8");
-await fs.writeFile(scanOutputPath, `${JSON.stringify({ scanned_at: scannedAt, fresh_leads: publicFreshLeads, scan_log: scanLog, coverage }, null, 2)}\n`, "utf8");
+await fs.writeFile(scanOutputPath, `${JSON.stringify({
+  scanned_at: scannedAt,
+  fresh_leads: publicFreshLeads,
+  removed_roles: lifecycle.removed.map((entry) => ({
+    company: entry.role.company,
+    title: entry.role.title,
+    url: entry.role.url,
+    reason: entry.reason,
+  })),
+  scan_log: scanLog,
+  coverage,
+}, null, 2)}\n`, "utf8");
 await fs.writeFile(coverageOutputPath, `${JSON.stringify(coverage, null, 2)}\n`, "utf8");
 await fs.writeFile(readmePath, renderReadme(updatedLeads, coverage, publicFreshLeads.length), "utf8");
 
@@ -161,6 +178,8 @@ console.log(JSON.stringify({
   candidates: allCandidates.length,
   current_roles: updatedLeads.length,
   fresh_leads: publicFreshLeads.length,
+  closed_roles_removed: coverage.closed_roles_removed,
+  expired_roles_removed: coverage.expired_roles_removed,
   fresh: publicFreshLeads.slice(0, 10).map((lead) => ({
     company: lead.company,
     title: lead.title,

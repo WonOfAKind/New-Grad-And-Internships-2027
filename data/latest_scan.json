@@ -1,43 +1,32 @@
 {
-  "scanned_at": "2026-07-13T23:33:13.540Z",
-  "fresh_leads": [
-    {
-      "company": "Point72",
-      "title": "Cubist Quantitative Researcher",
-      "location": "Chicago, New York, Seattle",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
-      "source": "https://point72.com/careers/",
-      "date_seen": "2026-07-13",
-      "last_seen": "2026-07-13",
-      "updated_at": "2026-07-13T19:22:44-04:00",
-      "priority": "P1"
-    }
-  ],
+  "scanned_at": "2026-07-14T02:07:01.596Z",
+  "fresh_leads": [],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "SpaceX",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 532,
+      "status": "error",
+      "error": "request timed out after 7000ms",
       "phase": "fast-pass"
     },
     {
       "company": "Roblox",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "roblox|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 113,
+      "matches": 112,
       "phase": "fast-pass"
     },
     {
       "company": "Databricks",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "databricks|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 258,
       "phase": "fast-pass"
@@ -46,14 +35,18 @@
       "company": "Stripe",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "stripe|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 50,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
       "company": "Scale AI",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "scale ai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 37,
       "phase": "fast-pass"
@@ -62,14 +55,16 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "ok",
-      "matches": 638,
+      "status": "error",
+      "error": "request timed out after 7000ms",
       "phase": "fast-pass"
     },
     {
       "company": "Palantir",
       "adapter": "lever",
       "source_kind": "configured",
+      "source_id": "palantir|lever",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 126,
       "phase": "fast-pass"
@@ -78,6 +73,8 @@
       "company": "Robinhood",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "robinhood|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 31,
       "phase": "fast-pass"
@@ -86,6 +83,8 @@
       "company": "Bloomberg",
       "adapter": "avature",
       "source_kind": "configured",
+      "source_id": "bloomberg|avature",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -103,6 +102,8 @@
       "company": "Google",
       "adapter": "html_jobs",
       "source_kind": "configured",
+      "source_id": "google|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -111,6 +112,8 @@
       "company": "OpenAI",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "openai|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 199,
       "phase": "fast-pass"
@@ -119,6 +122,8 @@
       "company": "Perplexity",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "perplexity|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 32,
       "phase": "fast-pass"
@@ -127,6 +132,8 @@
       "company": "Persona",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "persona|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 12,
       "phase": "fast-pass"
@@ -135,6 +142,8 @@
       "company": "Anysphere",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "anysphere|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 27,
       "phase": "fast-pass"
@@ -143,6 +152,8 @@
       "company": "Physical Intelligence",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "physical intelligence|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 4,
       "phase": "fast-pass"
@@ -151,6 +162,8 @@
       "company": "Elastic",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "elastic|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 18,
       "phase": "fast-pass"
@@ -159,6 +172,8 @@
       "company": "Chime",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "chime|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 26,
       "phase": "fast-pass"
@@ -167,6 +182,8 @@
       "company": "Confluent",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "confluent|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 15,
       "phase": "fast-pass"
@@ -175,14 +192,18 @@
       "company": "DoorDash",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "doordash|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
       "company": "Epic Games",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "epic games|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 7,
       "phase": "fast-pass"
@@ -191,6 +212,8 @@
       "company": "Box",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "box|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 19,
       "phase": "fast-pass"
@@ -199,6 +222,8 @@
       "company": "Labelbox",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "labelbox|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 4,
       "phase": "fast-pass"
@@ -207,6 +232,8 @@
       "company": "IMC Trading",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "imc trading|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 60,
       "phase": "fast-pass"
@@ -215,6 +242,8 @@
       "company": "Toast",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "toast|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 49,
       "phase": "fast-pass"
@@ -223,6 +252,8 @@
       "company": "Tripadvisor",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "tripadvisor|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 25,
       "phase": "fast-pass"
@@ -231,6 +262,8 @@
       "company": "Udemy",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "udemy|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -239,6 +272,8 @@
       "company": "Point72",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "point72|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 81,
       "phase": "fast-pass"
@@ -247,6 +282,8 @@
       "company": "Maven Securities",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "maven securities|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -255,6 +292,8 @@
       "company": "World Labs",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "world labs|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -263,6 +302,8 @@
       "company": "Zscaler",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "zscaler|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 26,
       "phase": "fast-pass"
@@ -271,6 +312,8 @@
       "company": "Instacart",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "instacart|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 37,
       "phase": "fast-pass"
@@ -279,6 +322,8 @@
       "company": "Saronic",
       "adapter": "ashby",
       "source_kind": "configured",
+      "source_id": "saronic|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 66,
       "phase": "fast-pass"
@@ -287,6 +332,8 @@
       "company": "BlackRock",
       "adapter": "workday",
       "source_kind": "configured",
+      "source_id": "blackrock|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -295,6 +342,8 @@
       "company": "Blue Origin",
       "adapter": "workday",
       "source_kind": "configured",
+      "source_id": "blue origin|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -303,6 +352,8 @@
       "company": "Visa",
       "adapter": "workday",
       "source_kind": "configured",
+      "source_id": "visa|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -311,6 +362,8 @@
       "company": "Leidos",
       "adapter": "workday",
       "source_kind": "configured",
+      "source_id": "leidos|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -319,14 +372,18 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 151,
       "phase": "fast-pass"
     },
     {
       "company": "AT&T",
       "adapter": "workday",
       "source_kind": "configured",
+      "source_id": "at&t|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -335,14 +392,18 @@
       "company": "Jane Street",
       "adapter": "greenhouse",
       "source_kind": "configured",
+      "source_id": "jane street|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
       "company": "Apple",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "apple|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -351,6 +412,8 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "nvidia|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -359,6 +422,8 @@
       "company": "Netflix",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "netflix|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -367,6 +432,8 @@
       "company": "Adobe",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "adobe|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -383,6 +450,8 @@
       "company": "Intuit",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "intuit|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -391,6 +460,8 @@
       "company": "Airbnb",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "airbnb|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -407,6 +478,8 @@
       "company": "Reddit",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "reddit|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 73,
       "phase": "fast-pass"
@@ -415,6 +488,8 @@
       "company": "TikTok",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "tiktok|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -423,6 +498,8 @@
       "company": "Zoom",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "zoom|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -431,6 +508,8 @@
       "company": "GitHub",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "github|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -439,6 +518,8 @@
       "company": "GitLab",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "gitlab|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -447,6 +528,8 @@
       "company": "Figma",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "figma|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 35,
       "phase": "fast-pass"
@@ -455,6 +538,8 @@
       "company": "Notion",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "notion|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 19,
       "phase": "fast-pass"
@@ -463,6 +548,8 @@
       "company": "Asana",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "asana|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -471,6 +558,8 @@
       "company": "Plaid",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "plaid|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -479,6 +568,8 @@
       "company": "Capital One",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "capital one|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -487,6 +578,8 @@
       "company": "Datadog",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "datadog|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -495,6 +588,8 @@
       "company": "Snowflake",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "snowflake|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -503,6 +598,8 @@
       "company": "Cockroach Labs",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "cockroach labs|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 3,
       "phase": "fast-pass"
@@ -511,6 +608,8 @@
       "company": "SingleStore",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "singlestore|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 24,
       "phase": "fast-pass"
@@ -519,6 +618,8 @@
       "company": "Cloudflare",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "cloudflare|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -527,6 +628,8 @@
       "company": "Fastly",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "fastly|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -535,6 +638,8 @@
       "company": "Netlify",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "netlify|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -543,6 +648,8 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "crowdstrike|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -551,6 +658,8 @@
       "company": "Wiz",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "wiz|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -559,6 +668,8 @@
       "company": "Anthropic",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "anthropic|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 70,
       "phase": "fast-pass"
@@ -567,6 +678,8 @@
       "company": "xAI",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "xai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 24,
       "phase": "fast-pass"
@@ -575,6 +688,8 @@
       "company": "Cohere",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "cohere|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 26,
       "phase": "fast-pass"
@@ -583,6 +698,8 @@
       "company": "Runway",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "runway|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -591,6 +708,8 @@
       "company": "Character.AI",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "character.ai|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 6,
       "phase": "fast-pass"
@@ -599,6 +718,8 @@
       "company": "Sierra",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "sierra|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 36,
       "phase": "fast-pass"
@@ -607,6 +728,8 @@
       "company": "LangChain",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "langchain|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 8,
       "phase": "fast-pass"
@@ -615,6 +738,8 @@
       "company": "Pinecone",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "pinecone|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 3,
       "phase": "fast-pass"
@@ -623,14 +748,18 @@
       "company": "Lambda",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "lambda|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
       "company": "Fireworks AI",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "fireworks ai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -639,6 +768,8 @@
       "company": "Applied Intuition",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "applied intuition|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 97,
       "phase": "fast-pass"
@@ -647,22 +778,18 @@
       "company": "C3 AI",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "c3 ai|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Shield AI",
-      "adapter": "lever",
-      "source_kind": "discovered",
-      "status": "ok",
-      "matches": 55,
       "phase": "fast-pass"
     },
     {
       "company": "Hudson River Trading",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "hudson river trading|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -679,6 +806,8 @@
       "company": "Five Rings",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "five rings|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -687,6 +816,8 @@
       "company": "Tower Research",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "tower research|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 37,
       "phase": "fast-pass"
@@ -695,6 +826,8 @@
       "company": "SIGMA Computing",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "sigma computing|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -703,6 +836,8 @@
       "company": "Mercury",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "mercury|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -711,6 +846,8 @@
       "company": "Instabase",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "instabase|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -719,6 +856,8 @@
       "company": "AMD",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "amd|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -727,6 +866,8 @@
       "company": "Intel",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "intel|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -735,6 +876,8 @@
       "company": "Qualcomm",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "qualcomm|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -743,6 +886,8 @@
       "company": "Broadcom",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "broadcom|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -751,6 +896,8 @@
       "company": "Arm",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "arm|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -759,6 +906,8 @@
       "company": "Marvell",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "marvell|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -767,6 +916,8 @@
       "company": "Micron",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "micron|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -775,6 +926,8 @@
       "company": "Boston Dynamics",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "boston dynamics|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -783,6 +936,8 @@
       "company": "Walmart Global Tech",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "walmart global tech|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -791,6 +946,8 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -799,6 +956,8 @@
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "home depot technology|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -807,6 +966,8 @@
       "company": "Lowe's Technology",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "lowe's technology|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -815,6 +976,8 @@
       "company": "Chewy",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "chewy|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -823,6 +986,8 @@
       "company": "eBay",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "ebay|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -831,6 +996,8 @@
       "company": "Zillow",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "zillow|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -839,6 +1006,8 @@
       "company": "Yelp",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "yelp|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -847,6 +1016,8 @@
       "company": "Expedia Group",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "expedia group|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -855,6 +1026,8 @@
       "company": "Duolingo",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "duolingo|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 7,
       "phase": "fast-pass"
@@ -863,6 +1036,8 @@
       "company": "Grammarly",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "grammarly|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -879,6 +1054,8 @@
       "company": "Coda",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "coda|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -887,6 +1064,8 @@
       "company": "Workday",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "workday|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -895,14 +1074,18 @@
       "company": "HPE",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "hpe|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
       "company": "DocuSign",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "docusign|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 3,
       "phase": "fast-pass"
@@ -911,6 +1094,8 @@
       "company": "HubSpot",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "hubspot|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -919,6 +1104,8 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "zendesk|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -927,6 +1114,8 @@
       "company": "Zapier",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "zapier|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -935,6 +1124,8 @@
       "company": "Grafana Labs",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "grafana labs|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 35,
       "phase": "fast-pass"
@@ -943,6 +1134,8 @@
       "company": "Sumo Logic",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "sumo logic|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -951,6 +1144,8 @@
       "company": "Docker",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "docker|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 18,
       "phase": "fast-pass"
@@ -959,6 +1154,8 @@
       "company": "Temporal",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "temporal|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 10,
       "phase": "fast-pass"
@@ -967,6 +1164,8 @@
       "company": "1Password",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "1password|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 7,
       "phase": "fast-pass"
@@ -975,6 +1174,8 @@
       "company": "HackerOne",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "hackerone|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 9,
       "phase": "fast-pass"
@@ -983,6 +1184,8 @@
       "company": "Astronomer",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "astronomer|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 8,
       "phase": "fast-pass"
@@ -991,6 +1194,8 @@
       "company": "Prefect",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "prefect|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -999,6 +1204,8 @@
       "company": "MotherDuck",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "motherduck|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 4,
       "phase": "fast-pass"
@@ -1007,6 +1214,8 @@
       "company": "ClickHouse",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "clickhouse|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1015,6 +1224,8 @@
       "company": "Supabase",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "supabase|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1023,6 +1234,8 @@
       "company": "Render",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "render|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 8,
       "phase": "fast-pass"
@@ -1031,6 +1244,8 @@
       "company": "Fly.io",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "fly.io|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1039,6 +1254,8 @@
       "company": "Inflection AI",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "inflection ai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1047,6 +1264,8 @@
       "company": "Pika",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "pika|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 4,
       "phase": "fast-pass"
@@ -1055,6 +1274,8 @@
       "company": "Cognition",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "cognition|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1063,6 +1284,8 @@
       "company": "Snorkel AI",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "snorkel ai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 15,
       "phase": "fast-pass"
@@ -1071,6 +1294,8 @@
       "company": "Anyscale",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "anyscale|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 12,
       "phase": "fast-pass"
@@ -1079,6 +1304,8 @@
       "company": "Roboflow",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "roboflow|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 3,
       "phase": "fast-pass"
@@ -1087,6 +1314,8 @@
       "company": "Vapi",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "vapi|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1095,6 +1324,8 @@
       "company": "Descript",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "descript|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -1103,6 +1334,8 @@
       "company": "Flatiron Health",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "flatiron health|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1111,6 +1344,8 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "verily|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1119,6 +1354,8 @@
       "company": "Recursion",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "recursion|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -1127,6 +1364,8 @@
       "company": "Abridge",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "abridge|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 10,
       "phase": "fast-pass"
@@ -1135,6 +1374,8 @@
       "company": "Natera",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "natera|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 7,
       "phase": "fast-pass"
@@ -1151,6 +1392,8 @@
       "company": "Kraken",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "kraken|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 12,
       "phase": "fast-pass"
@@ -1159,6 +1402,8 @@
       "company": "Ripple",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "ripple|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1167,6 +1412,8 @@
       "company": "Alchemy",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "alchemy|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 6,
       "phase": "fast-pass"
@@ -1175,6 +1422,8 @@
       "company": "Remitly",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "remitly|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1183,6 +1432,8 @@
       "company": "Mastercard",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "mastercard|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1199,6 +1450,8 @@
       "company": "Charles Schwab",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "charles schwab|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1207,6 +1460,8 @@
       "company": "Virtu Financial",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "virtu financial|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 12,
       "phase": "fast-pass"
@@ -1215,6 +1470,8 @@
       "company": "G-Research",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
+      "source_id": "g-research|sitemap_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1223,6 +1480,8 @@
       "company": "Schonfeld",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "schonfeld|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 14,
       "phase": "fast-pass"
@@ -1231,6 +1490,8 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "booz allen hamilton|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1239,6 +1500,8 @@
       "company": "L3Harris",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "l3harris|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1247,6 +1510,8 @@
       "company": "Skydio",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "skydio|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1255,6 +1520,8 @@
       "company": "Primer AI",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "primer ai|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -1263,6 +1530,8 @@
       "company": "Astranis",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "astranis|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 20,
       "phase": "fast-pass"
@@ -1271,6 +1540,8 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1279,6 +1550,8 @@
       "company": "Cedar",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "cedar|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1287,6 +1560,8 @@
       "company": "Doximity",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "doximity|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1295,6 +1570,8 @@
       "company": "Commure",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "commure|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 18,
       "phase": "fast-pass"
@@ -1303,6 +1580,8 @@
       "company": "Semgrep",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "semgrep|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1311,6 +1590,8 @@
       "company": "Sourcegraph",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "sourcegraph|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -1319,6 +1600,8 @@
       "company": "JetBrains",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "jetbrains|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1327,6 +1610,8 @@
       "company": "Codeium",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "codeium|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1335,6 +1620,8 @@
       "company": "Windsurf",
       "adapter": "ashby",
       "source_kind": "discovered",
+      "source_id": "windsurf|ashby",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 5,
       "phase": "fast-pass"
@@ -1343,6 +1630,8 @@
       "company": "Amplitude",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "amplitude|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1351,6 +1640,8 @@
       "company": "LaunchDarkly",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "launchdarkly|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 2,
       "phase": "fast-pass"
@@ -1359,6 +1650,8 @@
       "company": "Nextdoor",
       "adapter": "greenhouse",
       "source_kind": "discovered",
+      "source_id": "nextdoor|greenhouse",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 7,
       "phase": "fast-pass"
@@ -1367,6 +1660,8 @@
       "company": "Garmin",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "garmin|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1375,6 +1670,8 @@
       "company": "Roku",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "roku|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1383,6 +1680,8 @@
       "company": "Comcast",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "comcast|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1399,6 +1698,8 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "boeing|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 4,
       "phase": "fast-pass"
@@ -1415,6 +1716,8 @@
       "company": "Rivian",
       "adapter": "html_jobs",
       "source_kind": "discovered",
+      "source_id": "rivian|html_jobs",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1423,6 +1726,8 @@
       "company": "Wisk Aero",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "wisk aero|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1431,6 +1736,8 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
       "phase": "fast-pass"
@@ -1439,6 +1746,8 @@
       "company": "Hermeus",
       "adapter": "lever",
       "source_kind": "discovered",
+      "source_id": "hermeus|lever",
+      "reconciliation": "authoritative",
       "status": "ok",
       "matches": 37,
       "phase": "fast-pass"
@@ -1447,6 +1756,8 @@
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "red hat|workday",
+      "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
@@ -1455,8 +1766,10 @@
       "company": "MathWorks",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "mathworks|html_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -1469,39 +1782,43 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-13T23:33:13.540Z",
-    "elapsed_ms": 55878,
+    "scanned_at": "2026-07-14T02:07:01.596Z",
+    "elapsed_ms": 69339,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 181,
-    "discovered_sources_active": 141,
-    "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 6,
-    "discovery_new_sources_this_scan": 2,
+    "structured_sources_runtime": 180,
+    "discovered_sources_active": 140,
+    "discovered_companies_active": 140,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
-      "discovered": 141,
-      "error": 26,
+      "discovered": 140,
+      "error": 27,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 181,
-    "total_fetch_attempts": 181,
-    "ok_sources": 169,
+    "unique_sources_attempted": 180,
+    "total_fetch_attempts": 180,
+    "ok_sources": 168,
     "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 37,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 92.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "Request Timeout": 2,
+      "403 Forbidden": 9
     },
-    "board_eligible_candidates": 68,
+    "board_eligible_candidates": 62,
+    "closure_checks": 3,
+    "closed_roles_removed": 0,
+    "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
   }

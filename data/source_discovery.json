@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-13T23:33:13.540Z",
+  "updated_at": "2026-07-14T02:05:53.299Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1377,24 +1377,12 @@
     },
     "shield ai": {
       "company": "Shield AI",
-      "checked_at": "2026-07-10T14:49:32.550Z",
-      "status": "discovered",
-      "method": "ats-fingerprint",
-      "reason": "",
-      "robots_url": "https://shield.ai/robots.txt",
-      "source": {
-        "company": "Shield AI",
-        "adapter": "lever",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://shield.ai/careers/",
-        "site": "shieldai",
-        "verified_open_jobs": 414
-      },
-      "last_scan_at": "2026-07-10T14:50:38.442Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-07-10T14:50:38.442Z"
+      "checked_at": "2026-07-14T02:05:53.299Z",
+      "status": "error",
+      "method": "",
+      "reason": "ATS fingerprint verification failed: request timed out after 7000ms",
+      "robots_url": "",
+      "source": null
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
@@ -5105,9 +5093,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-13T23:33:13.540Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "last_scan_at": "2026-07-14T02:04:37.977Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-07-14T02:04:37.977Z"
     },
     "ansys": {
       "company": "Ansys",

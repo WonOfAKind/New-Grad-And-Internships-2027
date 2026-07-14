@@ -21,6 +21,49 @@ export function normalize(value) {
   return String(value ?? "").trim();
 }
 
+export function dateOnly(value) {
+  const text = normalize(value);
+  if (!text) return "";
+  const direct = /^(\d{4}-\d{2}-\d{2})$/.exec(text)?.[1];
+  if (direct) return direct;
+  const parsed = Date.parse(text);
+  if (Number.isNaN(parsed)) return "";
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(new Date(parsed));
+  const part = (type) => parts.find((item) => item.type === type)?.value ?? "";
+  return `${part("year")}-${part("month")}-${part("day")}`;
+}
+
+export function normalizePostingDate(value, observedAt = new Date().toISOString()) {
+  const text = normalize(value);
+  if (!text) return "";
+  const observedOn = dateOnly(observedAt);
+  const observed = new Date(`${observedOn}T00:00:00Z`);
+  if (!observedOn || Number.isNaN(observed.getTime())) return dateOnly(text);
+  const relative = text.match(/(?:posted\s+)?(\d+)\s+days?\s+ago/i);
+  if (/\bposted\s+today\b/i.test(text)) return observed.toISOString().slice(0, 10);
+  if (/\bposted\s+yesterday\b/i.test(text)) {
+    observed.setUTCDate(observed.getUTCDate() - 1);
+    return observed.toISOString().slice(0, 10);
+  }
+  if (relative && !/\d+\s*\+\s*days?/i.test(text)) {
+    observed.setUTCDate(observed.getUTCDate() - Number(relative[1]));
+    return observed.toISOString().slice(0, 10);
+  }
+  return dateOnly(text);
+}
+
+export function isExpiredDate(value, comparedAt = new Date().toISOString()) {
+  const expiresOn = dateOnly(value);
+  const comparedOn = dateOnly(comparedAt);
+  if (!expiresOn || !comparedOn) return false;
+  return expiresOn < comparedOn;
+}
+
 export function absoluteHttpUrl(baseUrl, value) {
   const candidate = normalize(value);
   if (!candidate) return "";

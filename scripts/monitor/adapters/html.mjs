@@ -11,10 +11,12 @@ import {
   isRelevant,
   mapConcurrent,
   normalize,
+  normalizePostingDate,
   priorityFor,
   tailoringNotes,
 } from "../domain.mjs";
 import { fetchText } from "../http.mjs";
+import { closedPageReason } from "../lifecycle.mjs";
 import {
   looksLikeJobDetailUrl,
   parseRobotsTxt,
@@ -90,6 +92,8 @@ export function googleJobToLead(source, job) {
     direct_apply_url: job.url,
     career_source_url: sourceForCompany(source.company)?.career_url ?? job.url,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.datePosted ?? job.date_posted ?? ""),
+    expires_at: normalizePostingDate(job.validThrough ?? job.valid_through ?? ""),
     updated_at: "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -262,6 +266,7 @@ export async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
         },
       });
       successfulPages += 1;
+      if (closedPageReason(200, html)) continue;
       if (source.forceDetail || isHtmlDetailUrl(source, url)) {
         const job = htmlJobFromDetail(source, url, html);
         const context = `${job.location}\n${job.description}`;
@@ -291,6 +296,7 @@ export async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
           "Accept": "text/html,*/*",
         },
       });
+      if (closedPageReason(200, html)) return;
       const enrichedJob = htmlJobFromDetail(source, job.url, html, job);
       const context = `${enrichedJob.location}\n${enrichedJob.description}`;
       if (!isRelevant(enrichedJob.title, context)) return;
@@ -352,6 +358,7 @@ export async function scanSitemapJobs(source, timeoutMs = fetchTimeoutMs) {
   const leads = await mapConcurrent(urls, htmlDetailConcurrency, async (url) => {
     try {
       const html = await fetchText(url, timeoutMs, { headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html,*/*" } });
+      if (closedPageReason(200, html)) return null;
       const job = htmlJobFromDetail(source, url, html);
       const context = `${job.location}\n${job.description}`;
       if (!isRelevant(job.title) || !isEligibleRole(job.title, context) || hasOnlyExcludedGraduationWindow(job.title, context)) return null;

@@ -8,10 +8,18 @@ import {
   isEligibleRole,
   isRelevant,
   keyFor,
+  normalizePostingDate,
 } from "./domain.mjs";
 import { htmlJobFromDetail, htmlJobToLead, htmlJobUrl } from "./adapters.mjs";
 import { readJson, validateConfiguration } from "./http.mjs";
-import { csvEscape, normalizedErrorCategory } from "./output.mjs";
+import {
+  compareRoles,
+  csvEscape,
+  normalizedErrorCategory,
+  renderRoleDates,
+  toPublicRole,
+} from "./output.mjs";
+import { closedPageReason, reconcileRoleLifecycle } from "./lifecycle.mjs";
 import {
   detectAtsSource,
   detectAtsSources,
@@ -155,6 +163,51 @@ export async function runSelfTests() {
   );
   assertEqual(csvEscape("=HYPERLINK(\"bad\")"), "\"'=HYPERLINK(\"\"bad\"\")\"", "CSV formula neutralization");
   assertEqual(normalizedErrorCategory("404 NOT FOUND"), "404 Not Found", "stable HTTP error category");
+  assertEqual(normalizePostingDate("Posted 3 Days Ago", "2026-07-13T12:00:00Z"), "2026-07-10", "relative posting date");
+  assertEqual(normalizePostingDate("Posted Today", "2026-07-14T02:00:00Z"), "2026-07-13", "relative posting date uses board timezone");
+  assertEqual(normalizePostingDate("Posted 30+ Days Ago", "2026-07-13T12:00:00Z"), "", "ambiguous relative posting date");
+  const preservedRole = toPublicRole({
+    company: "Example",
+    title: "Software Engineer, New Grad",
+    location: "Austin, TX",
+    url: "https://example.com/jobs/12345",
+    date_seen: "2026-07-05",
+    last_seen: "2026-07-10",
+  }, "2026-07-13T12:00:00Z", { seenNow: false });
+  assertEqual(preservedRole.date_seen, "2026-07-05", "first seen is immutable during normalization");
+  assertEqual(preservedRole.last_seen, "2026-07-10", "last seen is preserved when role was not observed");
+  assertEqual(
+    compareRoles(
+      { role_type: "New Grad", discipline: "Software / AI / ML", company: "Older", title: "Engineer", location: "TX", posted_at: "2026-07-01", date_seen: "2026-07-10" },
+      { role_type: "New Grad", discipline: "Software / AI / ML", company: "Newer", title: "Engineer", location: "TX", posted_at: "2026-07-12", date_seen: "2026-07-12" },
+    ) > 0,
+    true,
+    "newest posting sorts first",
+  );
+  assertEqual(renderRoleDates({ posted_at: "2026-07-01", date_seen: "2026-07-05" }), "Posted Jul 1, 2026<br>First seen Jul 5, 2026", "posted and first-seen labels");
+  assertEqual(closedPageReason(200, "This job is no longer available", "2026-07-13"), "explicit closed-page message", "closed page message");
+  assertEqual(closedPageReason(200, '<script>{"validThrough":"2026-07-01"}</script>', "2026-07-13"), "expired on 2026-07-01", "expired structured posting");
+  const lifecycleRole = {
+    company: "Example",
+    title: "Software Engineer, New Grad",
+    location: "Austin, TX",
+    url: "https://boards.greenhouse.io/example/jobs/12345",
+    date_seen: "2026-07-05",
+  };
+  const lifecycle = await reconcileRoleLifecycle(
+    [lifecycleRole],
+    [],
+    [{ source: { company: "Example", adapter: "greenhouse" }, leads: [], log: { status: "ok" } }],
+    "2026-07-13T12:00:00Z",
+  );
+  assertEqual(lifecycle.roles.length, 0, "authoritative source removes missing role");
+  const failedLifecycle = await reconcileRoleLifecycle(
+    [lifecycleRole],
+    [],
+    [{ source: { company: "Example", adapter: "greenhouse" }, leads: [], log: { status: "error" } }],
+    "2026-07-13T12:00:00Z",
+  );
+  assertEqual(failedLifecycle.roles.length, 1, "failed source preserves role");
   assertEqual(htmlJobUrl({}, "https://example.com/jobs", "https://[invalid"), "", "invalid HTML link isolation");
   const robots = parseRobotsTxt("User-agent: *\nDisallow: /private/\nAllow: /private/jobs/\nSitemap: https://example.com/jobs.xml");
   assertEqual(robotsAllows("https://example.com/private/profile", robots), false, "robots disallow");

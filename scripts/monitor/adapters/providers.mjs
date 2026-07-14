@@ -15,6 +15,7 @@ import {
   isRelevant,
   mapConcurrent,
   normalize,
+  normalizePostingDate,
   priorityFor,
   searchTextsFor,
   tailoringNotes,
@@ -39,6 +40,8 @@ export function greenhouseJobToLead(source, job) {
     direct_apply_url: job.absolute_url,
     career_source_url: sourceForCompany(source.company)?.career_url ?? job.absolute_url,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.date_posted ?? job.datePosted ?? ""),
+    expires_at: normalizePostingDate(job.valid_through ?? job.validThrough ?? job.expiration_date ?? ""),
     updated_at: job.updated_at ?? "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -75,6 +78,8 @@ ${listContent}`);
     direct_apply_url: job.hostedUrl ?? job.applyUrl,
     career_source_url: sourceForCompany(source.company)?.career_url ?? job.hostedUrl ?? job.applyUrl,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.createdAt ?? ""),
+    expires_at: normalizePostingDate(job.validThrough ?? job.expiresAt ?? ""),
     updated_at: job.createdAt ? new Date(job.createdAt).toISOString() : "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -112,6 +117,8 @@ export function ashbyJobToLead(source, job) {
     direct_apply_url: job.jobUrl ?? job.applyUrl,
     career_source_url: sourceForCompany(source.company)?.career_url ?? job.jobUrl ?? job.applyUrl,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.publishedAt ?? job.datePosted ?? ""),
+    expires_at: normalizePostingDate(job.validThrough ?? job.expiresAt ?? ""),
     updated_at: job.publishedAt ?? "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -147,6 +154,8 @@ export function workdayJobToLead(source, job) {
     direct_apply_url: url,
     career_source_url: sourceForCompany(source.company)?.career_url ?? url,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(info.postedOn ?? info.startDate ?? job.postedOn ?? ""),
+    expires_at: normalizePostingDate(info.endDate ?? info.validThrough ?? job.endDate ?? ""),
     updated_at: info.postedOn ?? info.startDate ?? job.postedOn ?? "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -175,6 +184,8 @@ export function phenomJobToLead(source, job) {
     direct_apply_url: absoluteHttpUrl(source.baseUrl, job.applyUrl ?? job.url) || sourceForCompany(source.company)?.career_url,
     career_source_url: sourceForCompany(source.company)?.career_url ?? absoluteHttpUrl(source.baseUrl, job.applyUrl ?? job.url),
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.postedDate ?? job.dateCreated ?? ""),
+    expires_at: normalizePostingDate(job.validThrough ?? job.expirationDate ?? job.endDate ?? ""),
     updated_at: job.postedDate ?? job.dateCreated ?? "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -203,6 +214,8 @@ export function avatureJobToLead(source, job) {
     direct_apply_url: absoluteHttpUrl(source.baseUrl, job.url),
     career_source_url: sourceForCompany(source.company)?.career_url ?? absoluteHttpUrl(source.baseUrl, job.url),
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(job.postedDate ?? job.datePosted ?? job.createdAt ?? ""),
+    expires_at: normalizePostingDate(job.validThrough ?? job.expirationDate ?? ""),
     updated_at: "",
     category,
     compensation: extractCompensation(title, content, job),
@@ -290,6 +303,8 @@ export function teslaListingToLead(source, row, lookups) {
     direct_apply_url: url,
     career_source_url: sourceForCompany(source.company)?.career_url ?? source.url ?? teslaStateUrl,
     lead_status: "Tailor Resume",
+    posted_at: normalizePostingDate(row.postedAt ?? row.datePosted ?? ""),
+    expires_at: normalizePostingDate(row.validThrough ?? row.expirationDate ?? ""),
     updated_at: "",
     category,
     compensation: extractCompensation(title, content, row),
@@ -335,7 +350,8 @@ export async function scanTesla(source, timeoutMs = fetchTimeoutMs) {
 export async function scanGreenhouse(source, timeoutMs = fetchTimeoutMs) {
   const url = `https://boards-api.greenhouse.io/v1/boards/${source.board}/jobs?content=true`;
   const data = await fetchJson(url, timeoutMs);
-  return (data.jobs ?? [])
+  if (!Array.isArray(data?.jobs)) throw new Error("Greenhouse job board returned an unexpected payload shape");
+  return data.jobs
     .filter((job) => isRelevant(job.title) && !hasOnlyExcludedGraduationWindow(job.title, job.content))
     .map((job) => greenhouseJobToLead(source, job));
 }
@@ -343,6 +359,7 @@ export async function scanGreenhouse(source, timeoutMs = fetchTimeoutMs) {
 export async function scanLever(source, timeoutMs = fetchTimeoutMs) {
   const url = `https://api.lever.co/v0/postings/${source.site}?mode=json`;
   const jobs = await fetchJson(url, timeoutMs);
+  if (!Array.isArray(jobs)) throw new Error("Lever postings API returned an unexpected payload shape");
   return jobs
     .filter((job) => isRelevant(job.text) && !hasOnlyExcludedGraduationWindow(job.text, job.descriptionPlain))
     .map((job) => leverJobToLead(source, job));
@@ -351,7 +368,9 @@ export async function scanLever(source, timeoutMs = fetchTimeoutMs) {
 export async function scanAshby(source, timeoutMs = fetchTimeoutMs) {
   const url = `https://api.ashbyhq.com/posting-api/job-board/${source.board}`;
   const data = await fetchJson(url, timeoutMs);
-  return (data.jobs ?? data.jobPostings ?? [])
+  const jobs = data?.jobs ?? data?.jobPostings;
+  if (!Array.isArray(jobs)) throw new Error("Ashby job board returned an unexpected payload shape");
+  return jobs
     .filter((job) => isRelevant(job.title) && !hasOnlyExcludedGraduationWindow(job.title, stripHtml(job.descriptionHtml)))
     .map((job) => ashbyJobToLead(source, job));
 }
@@ -477,4 +496,3 @@ export async function scanAvature(source, timeoutMs = fetchTimeoutMs) {
   });
   return enriched.map((job) => avatureJobToLead(source, job));
 }
-

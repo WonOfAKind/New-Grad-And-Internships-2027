@@ -6,6 +6,7 @@ import {
 } from "../config.mjs";
 import { mapConcurrent } from "../domain.mjs";
 import { isRetryableScanError, sourceErrorLog } from "../http.mjs";
+import { annotateSourceLeads, reconciliationModeFor, sourceIdFor } from "../lifecycle.mjs";
 import {
   scanAshby,
   scanAvature,
@@ -34,17 +35,23 @@ export async function scanSource(source, timeoutMs) {
 }
 
 export async function scanAtsSource(source) {
-    const sourceTimeoutMs = source.timeoutMs ?? fetchTimeoutMs;
-    try {
-      const leads = await scanSource(source, sourceTimeoutMs);
+  const sourceTimeoutMs = source.timeoutMs ?? fetchTimeoutMs;
+  const sourceMetadata = {
+    source_id: sourceIdFor(source),
+    reconciliation: reconciliationModeFor(source),
+  };
+  try {
+      const leads = annotateSourceLeads(source, await scanSource(source, sourceTimeoutMs));
       return {
+        source,
         leads,
-        log: { company: source.company, adapter: source.adapter, source_kind: source.source_kind ?? "configured", status: "ok", matches: leads.length, phase: "fast-pass" },
+        log: { company: source.company, adapter: source.adapter, source_kind: source.source_kind ?? "configured", ...sourceMetadata, status: "ok", matches: leads.length, phase: "fast-pass" },
       };
     } catch (error) {
       const initialError = error.message;
       if (!doubleCheckErrors || !isRetryableScanError(initialError)) {
         return {
+          source,
           leads: [],
           log: sourceErrorLog(source, initialError, "fast-pass"),
         };
@@ -52,16 +59,18 @@ export async function scanAtsSource(source) {
 
       try {
         const retryTimeoutMs = source.doubleCheckTimeoutMs ?? doubleCheckTimeoutMs;
-        const leads = await scanSource(source, retryTimeoutMs);
+        const leads = annotateSourceLeads(source, await scanSource(source, retryTimeoutMs));
         return {
+          source,
           leads,
           log: [
             sourceErrorLog(source, initialError, "fast-pass"),
-            { company: source.company, adapter: source.adapter, source_kind: source.source_kind ?? "configured", status: "ok", matches: leads.length, phase: "double-check" },
+            { company: source.company, adapter: source.adapter, source_kind: source.source_kind ?? "configured", ...sourceMetadata, status: "ok", matches: leads.length, phase: "double-check" },
           ],
         };
       } catch (retryError) {
         return {
+          source,
           leads: [],
           log: [
             sourceErrorLog(source, initialError, "fast-pass"),
@@ -69,10 +78,9 @@ export async function scanAtsSource(source) {
           ],
         };
       }
-    }
+  }
 }
 
 export async function scanAtsSources(sources) {
   return mapConcurrent(sources, atsSourceConcurrency, scanAtsSource);
 }
-

@@ -19,6 +19,8 @@ export const htmlDetailConcurrency = envInteger("HTML_DETAIL_CONCURRENCY", 4, { 
 export const doubleCheckErrors = process.env.DOUBLE_CHECK_ERRORS !== "0";
 export const doubleCheckTimeoutMs = envInteger("DOUBLE_CHECK_TIMEOUT_MS", 15000, { min: 1000, max: 180000 });
 export const staleAfterDays = envInteger("STALE_AFTER_DAYS", 21, { min: 1, max: 365 });
+export const closureCheckConcurrency = envInteger("CLOSURE_CHECK_CONCURRENCY", 6, { min: 1, max: 24 });
+export const closureCheckTimeoutMs = envInteger("CLOSURE_CHECK_TIMEOUT_MS", 8000, { min: 1000, max: 60000 });
 export const minAtsSuccessPercent = envInteger("MIN_ATS_SUCCESS_PERCENT", 75, { min: 0, max: 100 });
 export const discoveryRefreshHours = envInteger("DISCOVERY_REFRESH_HOURS", 168, { min: 1, max: 720 });
 export const discoveryErrorRefreshHours = envInteger("DISCOVERY_ERROR_REFRESH_HOURS", 6, { min: 1, max: 168 });
