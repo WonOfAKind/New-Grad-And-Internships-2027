@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-14T15:44:03.816Z",
+  "scanned_at": "2026-07-14T16:52:24.534Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -40,7 +40,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -50,7 +50,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 640,
+      "matches": 642,
       "phase": "fast-pass"
     },
     {
@@ -119,7 +119,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 199,
+      "matches": 198,
       "phase": "fast-pass"
     },
     {
@@ -299,7 +299,7 @@
       "source_id": "world labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -673,7 +673,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 71,
+      "matches": 72,
       "phase": "fast-pass"
     },
     {
@@ -1139,7 +1139,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1239,7 +1239,7 @@
       "source_id": "supabase|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1792,15 +1792,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T15:44:03.816Z",
-    "elapsed_ms": 59658,
+    "scanned_at": "2026-07-14T16:52:24.534Z",
+    "elapsed_ms": 59230,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 7,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
