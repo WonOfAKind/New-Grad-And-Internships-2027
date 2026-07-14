@@ -1,34 +1,7 @@
 {
-  "scanned_at": "2026-07-14T19:55:02.611Z",
-  "fresh_leads": [
-    {
-      "company": "RTX",
-      "title": "Mechanical Engineer I (Onsite)",
-      "location": "portsmouth, Rhode Island, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineer-I--Onsite-_01859276/apply",
-      "source": "https://careers.rtx.com/global/en/search-results",
-      "date_seen": "2026-07-14",
-      "last_seen": "2026-07-14",
-      "posted_at": "2026-07-12",
-      "expires_at": "",
-      "updated_at": "2026-07-13T00:00:00.000+0000",
-      "source_id": "rtx|phenom",
-      "source_adapter": "phenom",
-      "priority": "P1"
-    }
-  ],
-  "removed_roles": [
-    {
-      "company": "Anduril",
-      "title": "Early Career Flight Test Engineer, Altius",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007",
-      "reason": "missing from authoritative source"
-    }
-  ],
+  "scanned_at": "2026-07-14T21:13:56.215Z",
+  "fresh_leads": [],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -37,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 532,
+      "matches": 533,
       "phase": "fast-pass"
     },
     {
@@ -77,7 +50,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -87,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 638,
+      "matches": 637,
       "phase": "fast-pass"
     },
     {
@@ -346,7 +319,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -406,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 147,
+      "matches": 148,
       "phase": "fast-pass"
     },
     {
@@ -1821,15 +1794,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T19:55:02.611Z",
-    "elapsed_ms": 58085,
+    "scanned_at": "2026-07-14T21:13:56.215Z",
+    "elapsed_ms": 64193,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1855,7 +1828,7 @@
     },
     "board_eligible_candidates": 72,
     "closure_checks": 2,
-    "closed_roles_removed": 1,
+    "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
