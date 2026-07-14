@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-14T02:07:01.596Z",
+  "scanned_at": "2026-07-14T14:10:47.861Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -7,8 +7,10 @@
       "company": "SpaceX",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "spacex|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 533,
       "phase": "fast-pass"
     },
     {
@@ -18,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 112,
+      "matches": 111,
       "phase": "fast-pass"
     },
     {
@@ -28,7 +30,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 258,
+      "matches": 257,
       "phase": "fast-pass"
     },
     {
@@ -38,7 +40,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 51,
+      "matches": 52,
       "phase": "fast-pass"
     },
     {
@@ -55,8 +57,10 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "anduril|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 640,
       "phase": "fast-pass"
     },
     {
@@ -165,7 +169,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -255,7 +259,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -275,7 +279,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 81,
+      "matches": 82,
       "phase": "fast-pass"
     },
     {
@@ -305,7 +309,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -372,10 +376,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 151,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -671,7 +673,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 70,
+      "matches": 71,
       "phase": "fast-pass"
     },
     {
@@ -989,7 +991,7 @@
       "source_id": "ebay|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1077,7 +1079,7 @@
       "source_id": "hpe|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1087,7 +1089,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -1463,7 +1465,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -1701,7 +1703,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1766,10 +1768,8 @@
       "company": "MathWorks",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "source_id": "mathworks|html_jobs",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -1782,16 +1782,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T02:07:01.596Z",
-    "elapsed_ms": 69339,
+    "scanned_at": "2026-07-14T14:10:47.861Z",
+    "elapsed_ms": 65803,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 1,
-    "discovery_new_sources_this_scan": 0,
-    "discovery_due_remaining": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 6,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 140,
@@ -1806,17 +1806,16 @@
     "ok_sources": 168,
     "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 37,
-    "ats_error_sources": 2,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 92.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 2,
-      "403 Forbidden": 9
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 62,
-    "closure_checks": 3,
+    "board_eligible_candidates": 69,
+    "closure_checks": 1,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,

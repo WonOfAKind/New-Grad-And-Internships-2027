@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 13, 2026 at 10:07 PM EDT
+Last updated: July 14, 2026 at 10:10 AM EDT
 
 Companies tracked: 367
 
@@ -79,7 +79,6 @@ _No roles found yet._
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Anduril | Early Career Flight Test Engineer, Altius | Costa Mesa, California, United States | $86,000 - $114,000 USD | Early career | First seen Jul 13, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007>) |
-| Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Jul 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | RTX | Control Actuation Mechanical Engineer I (Onsite) | huntsville, Alabama, United States of America | - | Early career | First seen Jul 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Control-Actuation-Mechanical-Engineer-I--Onsite-_01844400/apply>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Jul 9, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
@@ -88,6 +87,7 @@ _No roles found yet._
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007>) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
+| Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | Posted Jun 15, 2026<br>First seen Jul 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | Posted Jun 4, 2026<br>First seen Jul 9, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1207422/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | Posted May 25, 2026<br>First seen Jul 9, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1206917/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 
