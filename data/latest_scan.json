@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-14T21:13:56.215Z",
+  "scanned_at": "2026-07-14T22:13:38.458Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -10,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 533,
+      "matches": 534,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 112,
+      "matches": 111,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 637,
+      "matches": 636,
       "phase": "fast-pass"
     },
     {
@@ -379,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 148,
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -675,7 +675,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 73,
+      "matches": 74,
       "phase": "fast-pass"
     },
     {
@@ -755,7 +755,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 8,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1101,7 +1101,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1794,15 +1794,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-14T21:13:56.215Z",
-    "elapsed_ms": 64193,
+    "scanned_at": "2026-07-14T22:13:38.458Z",
+    "elapsed_ms": 60442,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
