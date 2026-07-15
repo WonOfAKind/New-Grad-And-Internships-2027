@@ -1,15 +1,15 @@
 {
-  "scanned_at": "2026-07-15T22:38:57.089Z",
+  "scanned_at": "2026-07-15T23:39:05.654Z",
   "fresh_leads": [
     {
       "company": "Boeing",
-      "title": "Early Career Environmental Test Engineer - 1st Shift - Millennium Space Systems",
+      "title": "Early Career Environmental Test Engineer - 2nd Shift - Millennium Space Systems",
       "location": "USA - El Segundo, CA",
       "role_type": "New Grad",
       "discipline": "Aerospace Engineering",
       "compensation": "$90,950 - $133,750",
       "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026519182-1",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---2nd-Shift---Millennium-Space-Systems_JR2026519184-1",
       "source": "https://jobs.boeing.com/",
       "date_seen": "2026-07-15",
       "last_seen": "2026-07-15",
@@ -30,7 +30,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 529,
+      "matches": 528,
       "phase": "fast-pass"
     },
     {
@@ -50,7 +50,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 264,
+      "matches": 265,
       "phase": "fast-pass"
     },
     {
@@ -80,7 +80,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 631,
+      "matches": 633,
       "phase": "fast-pass"
     },
     {
@@ -189,7 +189,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 14,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -396,10 +396,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 147,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -695,7 +693,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 75,
+      "matches": 76,
       "phase": "fast-pass"
     },
     {
@@ -765,7 +763,7 @@
       "source_id": "pinecone|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1735,7 +1733,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1814,15 +1812,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T22:38:57.089Z",
-    "elapsed_ms": 60033,
+    "scanned_at": "2026-07-15T23:39:05.654Z",
+    "elapsed_ms": 55177,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 6,
-    "discovery_new_sources_this_scan": 2,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1835,19 +1833,19 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 70,
-    "closure_checks": 4,
+    "board_eligible_candidates": 65,
+    "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
