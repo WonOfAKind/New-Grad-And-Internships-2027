@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-15T17:36:49.641Z",
+  "scanned_at": "2026-07-15T18:44:12.229Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -10,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 530,
+      "matches": 531,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 114,
+      "matches": 115,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +30,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 260,
+      "matches": 258,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 639,
+      "matches": 640,
       "phase": "fast-pass"
     },
     {
@@ -199,7 +199,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 43,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +249,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 48,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -329,7 +329,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 67,
+      "matches": 68,
       "phase": "fast-pass"
     },
     {
@@ -485,7 +485,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 73,
+      "matches": 72,
       "phase": "fast-pass"
     },
     {
@@ -535,7 +535,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 34,
       "phase": "fast-pass"
     },
     {
@@ -775,7 +775,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 104,
+      "matches": 106,
       "phase": "fast-pass"
     },
     {
@@ -833,7 +833,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -1409,7 +1409,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -1715,7 +1715,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1794,8 +1794,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T17:36:49.641Z",
-    "elapsed_ms": 62304,
+    "scanned_at": "2026-07-15T18:44:12.229Z",
+    "elapsed_ms": 58038,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1826,8 +1826,8 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 70,
-    "closure_checks": 3,
+    "board_eligible_candidates": 69,
+    "closure_checks": 4,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
