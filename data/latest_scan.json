@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-15T20:18:48.475Z",
+  "scanned_at": "2026-07-15T21:37:30.370Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -30,7 +30,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 258,
+      "matches": 261,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 640,
+      "matches": 631,
       "phase": "fast-pass"
     },
     {
@@ -219,7 +219,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +249,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 46,
+      "matches": 45,
       "phase": "fast-pass"
     },
     {
@@ -379,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 147,
+      "matches": 146,
       "phase": "fast-pass"
     },
     {
@@ -1101,7 +1101,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -1794,15 +1794,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T20:18:48.475Z",
-    "elapsed_ms": 65796,
+    "scanned_at": "2026-07-15T21:37:30.370Z",
+    "elapsed_ms": 59453,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1826,8 +1826,8 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 69,
-    "closure_checks": 4,
+    "board_eligible_candidates": 70,
+    "closure_checks": 3,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
