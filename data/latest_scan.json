@@ -1,6 +1,26 @@
 {
-  "scanned_at": "2026-07-15T21:37:30.370Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-15T22:38:57.089Z",
+  "fresh_leads": [
+    {
+      "company": "Boeing",
+      "title": "Early Career Environmental Test Engineer - 1st Shift - Millennium Space Systems",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "compensation": "$90,950 - $133,750",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026519182-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "posted_at": "2026-07-15",
+      "expires_at": "2026-08-17",
+      "updated_at": "Posted Today",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "priority": "P0"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -10,7 +30,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 532,
+      "matches": 529,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +50,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 261,
+      "matches": 264,
       "phase": "fast-pass"
     },
     {
@@ -40,7 +60,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
@@ -379,7 +399,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 146,
+      "matches": 147,
       "phase": "fast-pass"
     },
     {
@@ -1715,7 +1735,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1794,15 +1814,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T21:37:30.370Z",
-    "elapsed_ms": 59453,
+    "scanned_at": "2026-07-15T22:38:57.089Z",
+    "elapsed_ms": 60033,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1827,7 +1847,7 @@
       "403 Forbidden": 10
     },
     "board_eligible_candidates": 70,
-    "closure_checks": 3,
+    "closure_checks": 4,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,

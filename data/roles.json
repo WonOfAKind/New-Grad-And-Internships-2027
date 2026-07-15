@@ -51,7 +51,7 @@
     "last_seen": "2026-07-15",
     "posted_at": "",
     "expires_at": "",
-    "updated_at": "2026-07-15T16:13:26-04:00",
+    "updated_at": "2026-07-15T18:05:01-04:00",
     "source_id": "xai|greenhouse",
     "source_adapter": "greenhouse",
     "priority": "P1"
@@ -833,6 +833,25 @@
     "updated_at": "",
     "source_id": "hpe|sitemap_jobs",
     "source_adapter": "sitemap_jobs",
+    "priority": "P0"
+  },
+  {
+    "company": "Boeing",
+    "title": "Early Career Environmental Test Engineer - 1st Shift - Millennium Space Systems",
+    "location": "USA - El Segundo, CA",
+    "role_type": "New Grad",
+    "discipline": "Aerospace Engineering",
+    "compensation": "$90,950 - $133,750",
+    "grad_window": "Early career",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026519182-1",
+    "source": "https://jobs.boeing.com/",
+    "date_seen": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "posted_at": "2026-07-15",
+    "expires_at": "2026-08-17",
+    "updated_at": "Posted Today",
+    "source_id": "boeing|workday",
+    "source_adapter": "workday",
     "priority": "P0"
   },
   {

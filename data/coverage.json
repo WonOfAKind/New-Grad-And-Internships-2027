@@ -1,13 +1,13 @@
 {
-  "scanned_at": "2026-07-15T21:37:30.370Z",
-  "elapsed_ms": 59453,
+  "scanned_at": "2026-07-15T22:38:57.089Z",
+  "elapsed_ms": 60033,
   "companies_in_target_list": 367,
   "ats_sources_configured": 40,
   "structured_sources_runtime": 181,
   "discovered_sources_active": 141,
   "discovered_companies_active": 141,
-  "discovery_attempts_this_scan": 0,
-  "discovery_new_sources_this_scan": 0,
+  "discovery_attempts_this_scan": 6,
+  "discovery_new_sources_this_scan": 2,
   "discovery_due_remaining": 0,
   "discovery_status_counts": {
     "none": 157,
@@ -32,7 +32,7 @@
     "403 Forbidden": 10
   },
   "board_eligible_candidates": 70,
-  "closure_checks": 3,
+  "closure_checks": 4,
   "closed_roles_removed": 0,
   "expired_roles_removed": 0,
   "stale_after_days": 21,
