@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 15, 2026 at 10:07 AM EDT
+Last updated: July 15, 2026 at 11:46 AM EDT
 
 Companies tracked: 367
 
-Current roles: 72
+Current roles: 71
 
 Fresh roles this scan: 0
 
@@ -36,7 +36,6 @@ Automatically discovered companies: 141
 | Point72 | Cubist Quantitative Researcher | Chicago, New York, Seattle | - | Early career | First seen Jul 13, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002>) |
 | xAI | Software Engineer - Internal Tools | Palo Alto, CA | - | New grad or university grad | First seen Jul 13, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5052038007>) |
 | Boeing | Entry-Level Simulation Software Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $78,200 - $105,800 | Early career | First seen Jul 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1>) |
-| Google | Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program | United States | $123,000 - $175,000 USD | 2027 grad eligible | First seen Jul 8, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program>) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
 | IMC Trading | Software Engineer, Early Career | Chicago, United States | $200,000 | Early career | First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4577504101>) |
 | Notion | Software Engineer, Early Career | San Francisco, California | $130,000 - $150,000 | Early career | Posted Jul 6, 2026<br>First seen Jul 9, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |

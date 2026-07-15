@@ -1,7 +1,14 @@
 {
-  "scanned_at": "2026-07-15T14:07:34.806Z",
+  "scanned_at": "2026-07-15T15:46:51.789Z",
   "fresh_leads": [],
-  "removed_roles": [],
+  "removed_roles": [
+    {
+      "company": "Google",
+      "title": "Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program",
+      "reason": "explicit closed-page message"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -10,7 +17,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 532,
+      "matches": 530,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +27,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 112,
+      "matches": 113,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +67,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 636,
+      "matches": 639,
       "phase": "fast-pass"
     },
     {
@@ -109,7 +116,7 @@
       "source_id": "google|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -169,7 +176,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 14,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -329,7 +336,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 66,
+      "matches": 67,
       "phase": "fast-pass"
     },
     {
@@ -376,10 +383,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 147,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -575,7 +580,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -745,7 +750,7 @@
       "source_id": "pinecone|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1151,7 +1156,7 @@
       "source_id": "sumo logic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1171,7 +1176,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1794,16 +1799,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T14:07:34.806Z",
-    "elapsed_ms": 64581,
+    "scanned_at": "2026-07-15T15:46:51.789Z",
+    "elapsed_ms": 65506,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 6,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1815,20 +1820,20 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 70,
+    "board_eligible_candidates": 65,
     "closure_checks": 4,
-    "closed_roles_removed": 0,
+    "closed_roles_removed": 1,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
