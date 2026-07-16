@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-16T20:10:55.188Z",
+  "scanned_at": "2026-07-16T21:15:29.339Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 116,
+      "matches": 115,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 639,
+      "matches": 640,
       "phase": "fast-pass"
     },
     {
@@ -319,7 +319,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -376,10 +376,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 148,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -833,7 +831,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1251,7 +1249,7 @@
       "source_id": "render|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 9,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1794,15 +1792,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T20:10:55.188Z",
-    "elapsed_ms": 57110,
+    "scanned_at": "2026-07-16T21:15:29.339Z",
+    "elapsed_ms": 70152,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1815,18 +1813,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 71,
+    "board_eligible_candidates": 66,
     "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
