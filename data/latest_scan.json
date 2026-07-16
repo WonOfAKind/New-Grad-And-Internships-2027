@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-16T18:46:14.185Z",
+  "scanned_at": "2026-07-16T20:10:55.188Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 115,
+      "matches": 116,
       "phase": "fast-pass"
     },
     {
@@ -129,7 +129,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 32,
+      "matches": 33,
       "phase": "fast-pass"
     },
     {
@@ -379,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 149,
+      "matches": 148,
       "phase": "fast-pass"
     },
     {
@@ -1043,7 +1043,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1251,7 +1251,7 @@
       "source_id": "render|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1794,8 +1794,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T18:46:14.185Z",
-    "elapsed_ms": 60714,
+    "scanned_at": "2026-07-16T20:10:55.188Z",
+    "elapsed_ms": 57110,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
