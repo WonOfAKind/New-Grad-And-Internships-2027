@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-16T14:18:58.911Z",
+  "updated_at": "2026-07-16T16:03:07.659Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -5081,7 +5081,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5105,13 +5105,13 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-15T22:38:57.089Z",
+      "last_scan_at": "2026-07-16T16:03:07.659Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
     "ansys": {
       "company": "Ansys",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5120,7 +5120,7 @@
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5138,7 +5138,7 @@
     },
     "john deere": {
       "company": "John Deere",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5147,7 +5147,7 @@
     },
     "caterpillar": {
       "company": "Caterpillar",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5171,7 +5171,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-15T22:38:57.089Z",
+      "last_scan_at": "2026-07-16T16:03:07.659Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -5186,7 +5186,7 @@
     },
     "irobot": {
       "company": "iRobot",
-      "checked_at": "2026-07-15T22:37:57.963Z",
+      "checked_at": "2026-07-16T16:02:04.909Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",

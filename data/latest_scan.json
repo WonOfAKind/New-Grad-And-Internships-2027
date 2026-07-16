@@ -1,45 +1,6 @@
 {
-  "scanned_at": "2026-07-16T14:18:58.911Z",
-  "fresh_leads": [
-    {
-      "company": "Qualcomm",
-      "title": "System AI Engineer, Display (New Grad Level and up)",
-      "location": "Markham, ON,CA, [object Object]",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "New grad or university grad",
-      "url": "http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada",
-      "source": "https://careers.qualcomm.com/careers",
-      "date_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "posted_at": "2026-07-14",
-      "expires_at": "2027-01-10",
-      "updated_at": "",
-      "source_id": "qualcomm|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "priority": "P0"
-    },
-    {
-      "company": "RTX",
-      "title": "Mechanical Engineer I (On-site)",
-      "location": "marlborough, Massachusetts, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-I--On-site-_01859722/apply",
-      "source": "https://careers.rtx.com/global/en/search-results",
-      "date_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "2026-07-15T00:00:00.000+0000",
-      "source_id": "rtx|phenom",
-      "source_adapter": "phenom",
-      "priority": "P1"
-    }
-  ],
+  "scanned_at": "2026-07-16T16:03:07.659Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -49,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 528,
+      "matches": 530,
       "phase": "fast-pass"
     },
     {
@@ -99,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 629,
+      "matches": 634,
       "phase": "fast-pass"
     },
     {
@@ -218,7 +179,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -248,7 +209,7 @@
       "source_id": "epic games|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -288,7 +249,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 44,
+      "matches": 45,
       "phase": "fast-pass"
     },
     {
@@ -298,7 +259,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 27,
       "phase": "fast-pass"
     },
     {
@@ -418,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 148,
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -1180,7 +1141,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 44,
       "phase": "fast-pass"
     },
     {
@@ -1420,7 +1381,7 @@
       "source_id": "abridge|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1833,16 +1794,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T14:18:58.911Z",
-    "elapsed_ms": 71681,
+    "scanned_at": "2026-07-16T16:03:07.659Z",
+    "elapsed_ms": 63630,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 6,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1866,7 +1827,7 @@
       "403 Forbidden": 10
     },
     "board_eligible_candidates": 71,
-    "closure_checks": 6,
+    "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
