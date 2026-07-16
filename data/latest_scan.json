@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-16T21:15:29.339Z",
+  "scanned_at": "2026-07-16T22:35:56.938Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 115,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -50,7 +50,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -80,7 +80,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 31,
+      "matches": 32,
       "phase": "fast-pass"
     },
     {
@@ -376,8 +376,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -1414,10 +1416,8 @@
       "company": "Ripple",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "source_id": "ripple|html_jobs",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -1665,7 +1665,7 @@
       "source_id": "nextdoor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1792,15 +1792,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T21:15:29.339Z",
-    "elapsed_ms": 70152,
+    "scanned_at": "2026-07-16T22:35:56.938Z",
+    "elapsed_ms": 59710,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
+    "discovery_attempts_this_scan": 6,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1816,15 +1816,15 @@
     "ok_sources": 169,
     "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
       "403 Forbidden": 11
     },
-    "board_eligible_candidates": 66,
+    "board_eligible_candidates": 71,
     "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
