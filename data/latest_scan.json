@@ -1,24 +1,43 @@
 {
-  "scanned_at": "2026-07-15T23:39:05.654Z",
+  "scanned_at": "2026-07-16T14:18:58.911Z",
   "fresh_leads": [
     {
-      "company": "Boeing",
-      "title": "Early Career Environmental Test Engineer - 2nd Shift - Millennium Space Systems",
-      "location": "USA - El Segundo, CA",
+      "company": "Qualcomm",
+      "title": "System AI Engineer, Display (New Grad Level and up)",
+      "location": "Markham, ON,CA, [object Object]",
       "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "compensation": "$90,950 - $133,750",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---2nd-Shift---Millennium-Space-Systems_JR2026519184-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-07-15",
-      "last_seen": "2026-07-15",
-      "posted_at": "2026-07-15",
-      "expires_at": "2026-08-17",
-      "updated_at": "Posted Today",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "New grad or university grad",
+      "url": "http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada",
+      "source": "https://careers.qualcomm.com/careers",
+      "date_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "posted_at": "2026-07-14",
+      "expires_at": "2027-01-10",
+      "updated_at": "",
+      "source_id": "qualcomm|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "priority": "P0"
+    },
+    {
+      "company": "RTX",
+      "title": "Mechanical Engineer I (On-site)",
+      "location": "marlborough, Massachusetts, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-I--On-site-_01859722/apply",
+      "source": "https://careers.rtx.com/global/en/search-results",
+      "date_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "2026-07-15T00:00:00.000+0000",
+      "source_id": "rtx|phenom",
+      "source_adapter": "phenom",
+      "priority": "P1"
     }
   ],
   "removed_roles": [],
@@ -40,7 +59,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 115,
+      "matches": 116,
       "phase": "fast-pass"
     },
     {
@@ -70,7 +89,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 40,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -80,7 +99,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 633,
+      "matches": 629,
       "phase": "fast-pass"
     },
     {
@@ -189,7 +208,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -219,7 +238,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 44,
+      "matches": 43,
       "phase": "fast-pass"
     },
     {
@@ -259,7 +278,7 @@
       "source_id": "imc trading|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 61,
+      "matches": 59,
       "phase": "fast-pass"
     },
     {
@@ -269,7 +288,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 44,
       "phase": "fast-pass"
     },
     {
@@ -396,8 +415,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 148,
       "phase": "fast-pass"
     },
     {
@@ -763,7 +784,7 @@
       "source_id": "pinecone|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -773,7 +794,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -793,7 +814,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 106,
+      "matches": 102,
       "phase": "fast-pass"
     },
     {
@@ -813,7 +834,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 56,
+      "matches": 55,
       "phase": "fast-pass"
     },
     {
@@ -911,7 +932,7 @@
       "source_id": "qualcomm|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1119,7 +1140,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1159,7 +1180,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -1605,7 +1626,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -1812,16 +1833,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-15T23:39:05.654Z",
-    "elapsed_ms": 55177,
+    "scanned_at": "2026-07-16T14:18:58.911Z",
+    "elapsed_ms": 71681,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
-    "discovery_due_remaining": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 6,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1833,19 +1854,19 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 65,
-    "closure_checks": 5,
+    "board_eligible_candidates": 71,
+    "closure_checks": 6,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
