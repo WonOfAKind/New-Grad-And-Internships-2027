@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-16T17:39:19.906Z",
+  "scanned_at": "2026-07-16T18:46:14.185Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -57,8 +57,10 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 10000ms",
+      "source_id": "anduril|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 639,
       "phase": "fast-pass"
     },
     {
@@ -297,7 +299,7 @@
       "source_id": "world labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1169,7 +1171,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 11,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1407,7 +1409,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1792,8 +1794,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T17:39:19.906Z",
-    "elapsed_ms": 67060,
+    "scanned_at": "2026-07-16T18:46:14.185Z",
+    "elapsed_ms": 60714,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1813,19 +1815,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 1,
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 68,
+    "board_eligible_candidates": 71,
     "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
