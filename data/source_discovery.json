@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-17T16:45:36.750Z",
+  "updated_at": "2026-07-17T18:17:04.397Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2052,9 +2052,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-07-17T16:45:36.750Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Unexpected token '<', \"<wml:Appli\"... is not valid JSON"
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2213,7 +2214,7 @@
     },
     "yelp": {
       "company": "Yelp",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2225,20 +2226,20 @@
         "source_kind": "discovered",
         "discovered_from": "https://www.yelp.careers/us/en",
         "sitemaps": [
-          "https://www.yelp.careers/us/en/sitemap.xml",
-          "https://www.yelp.careers/de/de/sitemap.xml"
+          "https://www.yelp.careers/de/de/sitemap.xml",
+          "https://www.yelp.careers/us/en/sitemap.xml"
         ],
         "robotsUrl": "https://www.yelp.careers/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "expedia group": {
       "company": "Expedia Group",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2254,16 +2255,16 @@
         "site": "search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 160
+        "verified_open_jobs": 166
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "hopper": {
       "company": "Hopper",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2272,7 +2273,7 @@
     },
     "duolingo": {
       "company": "Duolingo",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2284,16 +2285,16 @@
         "source_kind": "discovered",
         "discovered_from": "https://careers.duolingo.com/",
         "board": "duolingo",
-        "verified_open_jobs": 64
+        "verified_open_jobs": 63
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "coursera": {
       "company": "Coursera",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2302,7 +2303,7 @@
     },
     "khan academy": {
       "company": "Khan Academy",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2320,7 +2321,7 @@
     },
     "grammarly": {
       "company": "Grammarly",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2346,10 +2347,10 @@
         "robotsUrl": "https://www.grammarly.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "canva": {
       "company": "Canva",
@@ -2383,7 +2384,7 @@
     },
     "miro": {
       "company": "Miro",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2392,7 +2393,7 @@
     },
     "coda": {
       "company": "Coda",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2413,14 +2414,14 @@
         "robotsUrl": "https://coda.io/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "quora": {
       "company": "Quora",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "blocked",
       "method": "",
       "reason": "career URL disallowed by robots.txt",
@@ -2429,7 +2430,7 @@
     },
     "twitch": {
       "company": "Twitch",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2438,7 +2439,7 @@
     },
     "riot games": {
       "company": "Riot Games",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2447,7 +2448,7 @@
     },
     "unity": {
       "company": "Unity",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2456,7 +2457,7 @@
     },
     "niantic": {
       "company": "Niantic",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2465,7 +2466,7 @@
     },
     "electronic arts": {
       "company": "Electronic Arts",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2483,7 +2484,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2499,16 +2500,16 @@
         "site": "Workday",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 376
+        "verified_open_jobs": 385
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "cisco": {
       "company": "Cisco",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2526,7 +2527,7 @@
     },
     "arista networks": {
       "company": "Arista Networks",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2544,7 +2545,7 @@
     },
     "hpe": {
       "company": "HPE",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2568,14 +2569,14 @@
         "robotsUrl": "https://careers.hpe.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "netapp": {
       "company": "NetApp",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2584,7 +2585,7 @@
     },
     "pure storage": {
       "company": "Pure Storage",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2593,7 +2594,7 @@
     },
     "nutanix": {
       "company": "Nutanix",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2602,7 +2603,7 @@
     },
     "rubrik": {
       "company": "Rubrik",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2611,7 +2612,7 @@
     },
     "cohesity": {
       "company": "Cohesity",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2620,7 +2621,7 @@
     },
     "docusign": {
       "company": "DocuSign",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2638,14 +2639,14 @@
         "robotsUrl": "https://careers.docusign.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "hubspot": {
       "company": "HubSpot",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2669,14 +2670,14 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "zendesk": {
       "company": "Zendesk",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2692,16 +2693,16 @@
         "site": "zendesk",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 134
+        "verified_open_jobs": 124
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T18:17:04.397Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T18:17:04.397Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2710,7 +2711,7 @@
     },
     "klaviyo": {
       "company": "Klaviyo",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2719,7 +2720,7 @@
     },
     "braze": {
       "company": "Braze",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T18:15:47.151Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
