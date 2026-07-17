@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-17T14:00:56.340Z",
+  "scanned_at": "2026-07-17T15:37:39.414Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -10,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 528,
+      "matches": 529,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 637,
+      "matches": 639,
       "phase": "fast-pass"
     },
     {
@@ -80,7 +80,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 32,
+      "matches": 33,
       "phase": "fast-pass"
     },
     {
@@ -259,7 +259,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 28,
+      "matches": 29,
       "phase": "fast-pass"
     },
     {
@@ -379,7 +379,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 148,
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -575,7 +575,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -779,16 +779,6 @@
       "phase": "fast-pass"
     },
     {
-      "company": "C3 AI",
-      "adapter": "html_jobs",
-      "source_kind": "discovered",
-      "source_id": "c3 ai|html_jobs",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
-      "phase": "fast-pass"
-    },
-    {
       "company": "Shield AI",
       "adapter": "lever",
       "source_kind": "discovered",
@@ -853,7 +843,7 @@
       "source_id": "mercury|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1794,28 +1784,28 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-17T14:00:56.340Z",
-    "elapsed_ms": 68674,
+    "scanned_at": "2026-07-17T15:37:39.414Z",
+    "elapsed_ms": 75587,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 181,
-    "discovered_sources_active": 141,
-    "discovered_companies_active": 141,
+    "structured_sources_runtime": 180,
+    "discovered_sources_active": 140,
+    "discovered_companies_active": 140,
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 17,
-    "discovery_due_remaining": 257,
+    "discovery_new_sources_this_scan": 11,
+    "discovery_due_remaining": 234,
     "discovery_status_counts": {
       "none": 157,
-      "discovered": 141,
-      "error": 26,
+      "discovered": 140,
+      "error": 27,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 181,
-    "total_fetch_attempts": 181,
-    "ok_sources": 170,
+    "unique_sources_attempted": 180,
+    "total_fetch_attempts": 180,
+    "ok_sources": 169,
     "error_sources": 10,
     "blocked_sources": 1,
     "ats_ok_sources": 39,

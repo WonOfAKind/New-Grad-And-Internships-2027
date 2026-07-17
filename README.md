@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 17, 2026 at 10:00 AM EDT
+Last updated: July 17, 2026 at 11:37 AM EDT
 
 Companies tracked: 367
 
@@ -22,9 +22,9 @@ Current roles: 74
 
 Fresh roles this scan: 0
 
-Structured sources active: 181
+Structured sources active: 180
 
-Automatically discovered companies: 141
+Automatically discovered companies: 140
 
 ## New Grad Roles
 
