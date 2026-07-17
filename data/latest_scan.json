@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-16T23:36:18.981Z",
+  "scanned_at": "2026-07-17T14:00:56.340Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -10,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 530,
+      "matches": 528,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +30,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 265,
+      "matches": 266,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 638,
+      "matches": 637,
       "phase": "fast-pass"
     },
     {
@@ -119,7 +119,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 199,
+      "matches": 201,
       "phase": "fast-pass"
     },
     {
@@ -209,7 +209,7 @@
       "source_id": "epic games|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 8,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -219,7 +219,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 16,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -239,7 +239,7 @@
       "source_id": "imc trading|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 59,
+      "matches": 60,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +249,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 47,
       "phase": "fast-pass"
     },
     {
@@ -299,7 +299,7 @@
       "source_id": "world labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -376,8 +376,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 148,
       "phase": "fast-pass"
     },
     {
@@ -573,7 +575,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -723,7 +725,7 @@
       "source_id": "sierra|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -851,7 +853,7 @@
       "source_id": "mercury|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1099,7 +1101,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1792,16 +1794,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-16T23:36:18.981Z",
-    "elapsed_ms": 80562,
+    "scanned_at": "2026-07-17T14:00:56.340Z",
+    "elapsed_ms": 68674,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
     "discovered_sources_active": 141,
     "discovered_companies_active": 141,
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 14,
-    "discovery_due_remaining": 251,
+    "discovery_new_sources_this_scan": 17,
+    "discovery_due_remaining": 257,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 141,
@@ -1813,18 +1815,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 66,
+    "board_eligible_candidates": 71,
     "closure_checks": 5,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
