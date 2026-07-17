@@ -1,18 +1,18 @@
 {
-  "scanned_at": "2026-07-17T15:37:39.414Z",
-  "elapsed_ms": 75587,
+  "scanned_at": "2026-07-17T16:45:36.750Z",
+  "elapsed_ms": 78126,
   "companies_in_target_list": 367,
   "ats_sources_configured": 40,
   "structured_sources_runtime": 180,
   "discovered_sources_active": 140,
   "discovered_companies_active": 140,
   "discovery_attempts_this_scan": 30,
-  "discovery_new_sources_this_scan": 11,
-  "discovery_due_remaining": 234,
+  "discovery_new_sources_this_scan": 14,
+  "discovery_due_remaining": 204,
   "discovery_status_counts": {
-    "none": 157,
+    "none": 156,
     "discovered": 140,
-    "error": 27,
+    "error": 28,
     "blocked": 3
   },
   "direct_sources_attempted": 0,
@@ -20,8 +20,8 @@
   "double_check_attempts": 0,
   "unique_sources_attempted": 180,
   "total_fetch_attempts": 180,
-  "ok_sources": 169,
-  "error_sources": 10,
+  "ok_sources": 168,
+  "error_sources": 11,
   "blocked_sources": 1,
   "ats_ok_sources": 39,
   "ats_error_sources": 0,
@@ -29,7 +29,8 @@
   "ats_success_percent": 97.5,
   "minimum_ats_success_percent": 75,
   "error_breakdown": {
-    "403 Forbidden": 10
+    "403 Forbidden": 10,
+    "Unexpected token '<', \"<wml:Appli\"... is not valid JSON": 1
   },
   "board_eligible_candidates": 71,
   "closure_checks": 5,

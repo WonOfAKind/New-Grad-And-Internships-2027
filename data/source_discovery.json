@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-17T15:37:39.414Z",
+  "updated_at": "2026-07-17T16:45:36.750Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1661,7 +1661,7 @@
     },
     "linear": {
       "company": "Linear",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1670,7 +1670,7 @@
     },
     "replit": {
       "company": "Replit",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "blocked",
       "method": "",
       "reason": "career URL disallowed by robots.txt",
@@ -1679,7 +1679,7 @@
     },
     "amd": {
       "company": "AMD",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1703,14 +1703,14 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "intel": {
       "company": "Intel",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1726,16 +1726,16 @@
         "site": "External",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 639
+        "verified_open_jobs": 593
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "qualcomm": {
       "company": "Qualcomm",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -1754,14 +1754,14 @@
         "robotsUrl": "https://careers.qualcomm.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "broadcom": {
       "company": "Broadcom",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1777,16 +1777,16 @@
         "site": "External_Career",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 312
+        "verified_open_jobs": 334
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "arm": {
       "company": "Arm",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1810,14 +1810,14 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "marvell": {
       "company": "Marvell",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1833,16 +1833,16 @@
         "site": "MarvellCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 626
+        "verified_open_jobs": 569
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "micron": {
       "company": "Micron",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -1861,14 +1861,14 @@
         "robotsUrl": "https://careers.micron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "samsung semiconductor": {
       "company": "Samsung Semiconductor",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1877,7 +1877,7 @@
     },
     "texas instruments": {
       "company": "Texas Instruments",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1886,7 +1886,7 @@
     },
     "asml": {
       "company": "ASML",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1895,7 +1895,7 @@
     },
     "waymo": {
       "company": "Waymo",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1904,7 +1904,7 @@
     },
     "zoox": {
       "company": "Zoox",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1913,7 +1913,7 @@
     },
     "aurora": {
       "company": "Aurora",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1922,7 +1922,7 @@
     },
     "nuro": {
       "company": "Nuro",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1931,7 +1931,7 @@
     },
     "motional": {
       "company": "Motional",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -1940,16 +1940,16 @@
     },
     "toyota research institute": {
       "company": "Toyota Research Institute",
-      "checked_at": "2026-07-09T23:34:20.985Z",
-      "status": "none",
+      "checked_at": "2026-07-17T16:44:19.387Z",
+      "status": "error",
       "method": "",
-      "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
-      "robots_url": "https://www.tri.global/robots.txt",
+      "reason": "403 Forbidden",
+      "robots_url": "",
       "source": null
     },
     "boston dynamics": {
       "company": "Boston Dynamics",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1965,16 +1965,16 @@
         "site": "Boston_Dynamics",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 73
+        "verified_open_jobs": 71
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "figure ai": {
       "company": "Figure AI",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2001,7 +2001,7 @@
     },
     "agility robotics": {
       "company": "Agility Robotics",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2010,7 +2010,7 @@
     },
     "walmart global tech": {
       "company": "Walmart Global Tech",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2027,14 +2027,14 @@
         "robotsUrl": "https://careers.walmart.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2052,14 +2052,13 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Unexpected token '<', \"<wml:Appli\"... is not valid JSON"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2075,16 +2074,16 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 944
+        "verified_open_jobs": 965
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2106,14 +2105,14 @@
         "robotsUrl": "https://talent.lowes.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "wayfair": {
       "company": "Wayfair",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2122,7 +2121,7 @@
     },
     "chewy": {
       "company": "Chewy",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2140,14 +2139,14 @@
         "robotsUrl": "https://careers.chewy.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "etsy": {
       "company": "Etsy",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
@@ -2156,7 +2155,7 @@
     },
     "ebay": {
       "company": "eBay",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -2168,17 +2167,15 @@
         "source_kind": "discovered",
         "discovered_from": "https://jobs.ebayinc.com/us/en/search-results",
         "sitemaps": [
-          "https://jobs.ebayinc.com/us/en/sitemap_index.xml",
-          "https://jobs.ebayinc.com/us/en/sitemap1.xml",
-          "https://jobs.ebayinc.com/us/en/sitemap2.xml"
+          "https://jobs.ebayinc.com/us/en/sitemap.xml"
         ],
         "robotsUrl": "https://jobs.ebayinc.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-09T23:47:37.583Z",
+      "last_scan_at": "2026-07-17T16:45:36.750Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-07-09T23:47:37.583Z"
+      "last_verified_at": "2026-07-17T16:45:36.750Z"
     },
     "zillow": {
       "company": "Zillow",
@@ -2207,7 +2204,7 @@
     },
     "opendoor": {
       "company": "Opendoor",
-      "checked_at": "2026-07-09T23:34:20.985Z",
+      "checked_at": "2026-07-17T16:44:19.387Z",
       "status": "none",
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
