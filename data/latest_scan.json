@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-17T18:17:04.397Z",
+  "scanned_at": "2026-07-17T19:45:07.325Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 637,
+      "matches": 636,
       "phase": "fast-pass"
     },
     {
@@ -329,7 +329,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 68,
+      "matches": 69,
       "phase": "fast-pass"
     },
     {
@@ -1185,16 +1185,6 @@
       "phase": "fast-pass"
     },
     {
-      "company": "Astronomer",
-      "adapter": "ashby",
-      "source_kind": "discovered",
-      "source_id": "astronomer|ashby",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 8,
-      "phase": "fast-pass"
-    },
-    {
       "company": "Prefect",
       "adapter": "ashby",
       "source_kind": "discovered",
@@ -1784,28 +1774,28 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-17T18:17:04.397Z",
-    "elapsed_ms": 78011,
+    "scanned_at": "2026-07-17T19:45:07.325Z",
+    "elapsed_ms": 79126,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 180,
-    "discovered_sources_active": 140,
-    "discovered_companies_active": 140,
+    "structured_sources_runtime": 179,
+    "discovered_sources_active": 139,
+    "discovered_companies_active": 139,
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 10,
-    "discovery_due_remaining": 176,
+    "discovery_new_sources_this_scan": 12,
+    "discovery_due_remaining": 146,
     "discovery_status_counts": {
-      "none": 156,
-      "discovered": 140,
+      "none": 157,
+      "discovered": 139,
       "error": 28,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 180,
-    "total_fetch_attempts": 180,
-    "ok_sources": 169,
+    "unique_sources_attempted": 179,
+    "total_fetch_attempts": 179,
+    "ok_sources": 168,
     "error_sources": 10,
     "blocked_sources": 1,
     "ats_ok_sources": 39,
