@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 20, 2026 at 2:20 PM EDT
+Last updated: July 20, 2026 at 4:12 PM EDT
 
 Companies tracked: 367
 
-Current roles: 72
+Current roles: 74
 
-Fresh roles this scan: 0
+Fresh roles this scan: 2
 
 Structured sources active: 180
 
@@ -67,7 +67,9 @@ Automatically discovered companies: 140
 
 ### Data Science
 
-_No roles found yet._
+| Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
+|---|---|---|---|---|---|---|
+| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | New grad or university grad | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 
 ### Technical Writing
 
@@ -93,6 +95,7 @@ _No roles found yet._
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Boeing | Associate Avionics Systems Service Engineer (Entry-Level or Associate) | USA - Seal Beach, CA | $79,050 - $106,950 | Early career | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-Avionics-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026515614>) |
 | Boeing | Early Career Environmental Test Engineer - 1st Shift - Millennium Space Systems | USA - El Segundo, CA | $90,950 - $133,750 | Early career | Posted Jul 15, 2026<br>First seen Jul 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026519182-1>) |
 | Boeing | Early Career Environmental Test Engineer - 2nd Shift - Millennium Space Systems | USA - El Segundo, CA | $90,950 - $133,750 | Early career | Posted Jul 15, 2026<br>First seen Jul 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---2nd-Shift---Millennium-Space-Systems_JR2026519184-1>) |
 | Boeing | Early Career Environmental Test Engineer - 1st Shift - Millennium Space Systems | USA - El Segundo, CA | $90,950 - $133,750 | Early career | Posted Jul 8, 2026<br>First seen Jul 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026517933-1>) |

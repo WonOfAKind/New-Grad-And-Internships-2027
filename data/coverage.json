@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-20T18:20:09.369Z",
-  "elapsed_ms": 58081,
+  "scanned_at": "2026-07-20T20:12:06.229Z",
+  "elapsed_ms": 55531,
   "companies_in_target_list": 367,
   "ats_sources_configured": 40,
   "structured_sources_runtime": 180,
@@ -31,7 +31,7 @@
   "error_breakdown": {
     "403 Forbidden": 10
   },
-  "board_eligible_candidates": 70,
+  "board_eligible_candidates": 72,
   "closure_checks": 4,
   "closed_roles_removed": 0,
   "expired_roles_removed": 0,

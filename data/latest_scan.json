@@ -1,6 +1,45 @@
 {
-  "scanned_at": "2026-07-20T18:20:09.369Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-20T20:12:06.229Z",
+  "fresh_leads": [
+    {
+      "company": "CrowdStrike",
+      "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "role_type": "New Grad",
+      "discipline": "Data Science",
+      "compensation": "$90,000 - $125,000 per year",
+      "grad_window": "New grad or university grad",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
+      "source": "https://www.crowdstrike.com/en-us/careers/",
+      "date_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "posted_at": "2026-07-20",
+      "expires_at": "",
+      "updated_at": "Posted Today",
+      "source_id": "crowdstrike|workday",
+      "source_adapter": "workday",
+      "priority": "P0"
+    },
+    {
+      "company": "Boeing",
+      "title": "Associate Avionics Systems Service Engineer (Entry-Level or Associate)",
+      "location": "USA - Seal Beach, CA",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "compensation": "$79,050 - $106,950",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-Avionics-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026515614",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "posted_at": "2026-07-20",
+      "expires_at": "2026-07-22",
+      "updated_at": "Posted Today",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "priority": "P0"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -20,7 +59,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 113,
+      "matches": 112,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +99,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 637,
+      "matches": 630,
       "phase": "fast-pass"
     },
     {
@@ -129,7 +168,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 32,
+      "matches": 31,
       "phase": "fast-pass"
     },
     {
@@ -219,7 +258,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +288,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 40,
       "phase": "fast-pass"
     },
     {
@@ -655,7 +694,7 @@
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -685,7 +724,7 @@
       "source_id": "xai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -823,7 +862,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 38,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1033,7 +1072,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1091,7 +1130,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1131,7 +1170,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 44,
       "phase": "fast-pass"
     },
     {
@@ -1161,7 +1200,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -1577,7 +1616,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -1705,7 +1744,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1784,8 +1823,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T18:20:09.369Z",
-    "elapsed_ms": 58081,
+    "scanned_at": "2026-07-20T20:12:06.229Z",
+    "elapsed_ms": 55531,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1816,7 +1855,7 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 70,
+    "board_eligible_candidates": 72,
     "closure_checks": 4,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
