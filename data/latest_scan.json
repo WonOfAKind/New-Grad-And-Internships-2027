@@ -1,45 +1,6 @@
 {
-  "scanned_at": "2026-07-20T20:12:06.229Z",
-  "fresh_leads": [
-    {
-      "company": "CrowdStrike",
-      "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
-      "location": "USA - Sunnyvale, CA",
-      "role_type": "New Grad",
-      "discipline": "Data Science",
-      "compensation": "$90,000 - $125,000 per year",
-      "grad_window": "New grad or university grad",
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-      "source": "https://www.crowdstrike.com/en-us/careers/",
-      "date_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
-      "posted_at": "2026-07-20",
-      "expires_at": "",
-      "updated_at": "Posted Today",
-      "source_id": "crowdstrike|workday",
-      "source_adapter": "workday",
-      "priority": "P0"
-    },
-    {
-      "company": "Boeing",
-      "title": "Associate Avionics Systems Service Engineer (Entry-Level or Associate)",
-      "location": "USA - Seal Beach, CA",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "compensation": "$79,050 - $106,950",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Associate-Avionics-Systems-Service-Engineer--Entry-Level-or-Associate-_JR2026515614",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-07-20",
-      "last_seen": "2026-07-20",
-      "posted_at": "2026-07-20",
-      "expires_at": "2026-07-22",
-      "updated_at": "Posted Today",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-20T21:32:30.844Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -49,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 540,
+      "matches": 538,
       "phase": "fast-pass"
     },
     {
@@ -79,7 +40,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 51,
+      "matches": 54,
       "phase": "fast-pass"
     },
     {
@@ -99,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 630,
+      "matches": 631,
       "phase": "fast-pass"
     },
     {
@@ -238,7 +199,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 43,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -415,10 +376,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 149,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -1130,7 +1089,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1616,7 +1575,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1823,15 +1782,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T20:12:06.229Z",
-    "elapsed_ms": 55531,
+    "scanned_at": "2026-07-20T21:32:30.844Z",
+    "elapsed_ms": 79270,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 7,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
@@ -1844,18 +1803,18 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 169,
-    "error_sources": 10,
+    "ok_sources": 168,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 72,
+    "board_eligible_candidates": 68,
     "closure_checks": 4,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
