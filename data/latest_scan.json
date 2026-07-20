@@ -1,7 +1,14 @@
 {
-  "scanned_at": "2026-07-18T00:07:37.981Z",
+  "scanned_at": "2026-07-20T14:32:41.186Z",
   "fresh_leads": [],
-  "removed_roles": [],
+  "removed_roles": [
+    {
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-2",
+      "reason": "expired"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -10,7 +17,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 530,
+      "matches": 535,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +27,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 115,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +37,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 267,
+      "matches": 266,
       "phase": "fast-pass"
     },
     {
@@ -129,7 +136,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 33,
+      "matches": 32,
       "phase": "fast-pass"
     },
     {
@@ -139,7 +146,7 @@
       "source_id": "persona|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -149,7 +156,7 @@
       "source_id": "anysphere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +256,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 47,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -259,7 +266,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 28,
+      "matches": 27,
       "phase": "fast-pass"
     },
     {
@@ -376,8 +383,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -483,7 +492,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 74,
+      "matches": 72,
       "phase": "fast-pass"
     },
     {
@@ -603,7 +612,7 @@
       "source_id": "cockroach labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 3,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -773,7 +782,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 102,
+      "matches": 103,
       "phase": "fast-pass"
     },
     {
@@ -821,7 +830,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -1089,7 +1098,7 @@
       "source_id": "docusign|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1379,7 +1388,7 @@
       "source_id": "natera|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1465,7 +1474,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -1782,16 +1791,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-18T00:07:37.981Z",
-    "elapsed_ms": 99534,
+    "scanned_at": "2026-07-20T14:32:41.186Z",
+    "elapsed_ms": 86501,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 28,
+    "discovery_new_sources_this_scan": 7,
+    "discovery_due_remaining": 10,
     "discovery_status_counts": {
       "none": 154,
       "discovered": 140,
@@ -1803,21 +1812,21 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 168,
-    "error_sources": 11,
+    "ok_sources": 169,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 66,
+    "board_eligible_candidates": 70,
     "closure_checks": 5,
     "closed_roles_removed": 0,
-    "expired_roles_removed": 0,
+    "expired_roles_removed": 1,
     "stale_after_days": 21,
     "unattempted_companies": []
   }

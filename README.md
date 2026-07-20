@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 17, 2026 at 8:07 PM EDT
+Last updated: July 20, 2026 at 10:32 AM EDT
 
 Companies tracked: 367
 
-Current roles: 74
+Current roles: 72
 
 Fresh roles this scan: 0
 
@@ -62,7 +62,6 @@ Automatically discovered companies: 140
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. | $145,000 - $155,000/year | New grad or university grad | First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | $125,000.00 - $145,000.00 | New grad or university grad | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002>) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | - | New grad or university grad | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8399140002?gh_jid=8399140002>) |
-| Boeing | Entry-Level Software Engineer | USA - Maryland Heights, MO | $65,000 - $72,680 | Early career | Posted Jul 2, 2026<br>First seen Jul 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-2>) |
 | Notion | Software Engineer, New Grad (AI) | San Francisco, California | $126,000-$146,000 | New grad or university grad | Posted Apr 27, 2026<br>First seen Jul 9, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9>) |
 | Notion | Software Engineer, New Grad | San Francisco, California | $126,000 - $146,000 | New grad or university grad | Posted Apr 23, 2026<br>First seen Jul 9, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555>) |
 
@@ -79,7 +78,6 @@ _No roles found yet._
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | RTX | Mechanical Engineer I (On-site) | marlborough, Massachusetts, United States of America | - | Early career | Posted Jul 14, 2026<br>First seen Jul 16, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-I--On-site-_01859722/apply>) |
-| RTX | Mechanical Engineer I (Onsite) | portsmouth, Rhode Island, United States of America | - | Early career | Posted Jul 12, 2026<br>First seen Jul 14, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineer-I--Onsite-_01859276/apply>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Jul 9, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Marvell | Design for Test Engineer - Early Career | Westborough, MA | - | Early career | First seen Jul 9, 2026 | [Apply](<https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Design-for-Test-Engineer---Early-Career_2601055>) |
