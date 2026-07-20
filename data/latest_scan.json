@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-20T21:32:30.844Z",
+  "scanned_at": "2026-07-20T22:36:12.713Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 631,
+      "matches": 630,
       "phase": "fast-pass"
     },
     {
@@ -119,7 +119,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 200,
+      "matches": 201,
       "phase": "fast-pass"
     },
     {
@@ -613,7 +613,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1782,15 +1782,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T21:32:30.844Z",
-    "elapsed_ms": 79270,
+    "scanned_at": "2026-07-20T22:36:12.713Z",
+    "elapsed_ms": 57494,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 7,
+    "discovery_attempts_this_scan": 10,
+    "discovery_new_sources_this_scan": 3,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
