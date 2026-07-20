@@ -1,7 +1,14 @@
 {
-  "scanned_at": "2026-07-20T22:36:12.713Z",
+  "scanned_at": "2026-07-20T23:37:54.241Z",
   "fresh_leads": [],
-  "removed_roles": [],
+  "removed_roles": [
+    {
+      "company": "Point72",
+      "title": "Cubist Quantitative Researcher",
+      "url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
+      "reason": "missing from authoritative source"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -376,8 +383,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 149,
       "phase": "fast-pass"
     },
     {
@@ -773,7 +782,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 102,
+      "matches": 103,
       "phase": "fast-pass"
     },
     {
@@ -1782,15 +1791,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T22:36:12.713Z",
-    "elapsed_ms": 57494,
+    "scanned_at": "2026-07-20T23:37:54.241Z",
+    "elapsed_ms": 61498,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 10,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
@@ -1803,20 +1812,20 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 168,
-    "error_sources": 11,
+    "ok_sources": 169,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 68,
+    "board_eligible_candidates": 71,
     "closure_checks": 4,
-    "closed_roles_removed": 0,
+    "closed_roles_removed": 1,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

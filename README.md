@@ -14,11 +14,11 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 20, 2026 at 6:36 PM EDT
+Last updated: July 20, 2026 at 7:37 PM EDT
 
 Companies tracked: 367
 
-Current roles: 74
+Current roles: 73
 
 Fresh roles this scan: 0
 
@@ -34,7 +34,6 @@ Automatically discovered companies: 140
 |---|---|---|---|---|---|---|
 | Qualcomm | System AI Engineer, Display (New Grad Level and up) | Markham, ON,CA, [object Object] | - | New grad or university grad | Posted Jul 14, 2026<br>First seen Jul 16, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada>) |
 | Boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | $83,300 - $112,700 | Early career | Posted Jul 13, 2026<br>First seen Jul 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2>) |
-| Point72 | Cubist Quantitative Researcher | Chicago, New York, Seattle | - | Early career | First seen Jul 13, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002>) |
 | xAI | Software Engineer - Internal Tools | Palo Alto, CA | - | New grad or university grad | First seen Jul 13, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5052038007>) |
 | Boeing | Entry-Level Simulation Software Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $78,200 - $105,800 | Early career | First seen Jul 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1>) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
