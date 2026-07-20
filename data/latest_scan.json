@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-20T16:13:30.199Z",
+  "scanned_at": "2026-07-20T17:23:08.467Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -10,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 535,
+      "matches": 540,
       "phase": "fast-pass"
     },
     {
@@ -20,7 +20,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 114,
+      "matches": 113,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +30,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 266,
+      "matches": 265,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 637,
+      "matches": 638,
       "phase": "fast-pass"
     },
     {
@@ -80,7 +80,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 33,
+      "matches": 34,
       "phase": "fast-pass"
     },
     {
@@ -169,7 +169,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 14,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -319,7 +319,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 34,
       "phase": "fast-pass"
     },
     {
@@ -485,7 +485,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 72,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -775,7 +775,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 103,
+      "matches": 102,
       "phase": "fast-pass"
     },
     {
@@ -1577,7 +1577,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -1784,15 +1784,15 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T16:13:30.199Z",
-    "elapsed_ms": 60210,
+    "scanned_at": "2026-07-20T17:23:08.467Z",
+    "elapsed_ms": 60640,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 10,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
