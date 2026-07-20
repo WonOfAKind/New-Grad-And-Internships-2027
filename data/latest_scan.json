@@ -1,14 +1,7 @@
 {
-  "scanned_at": "2026-07-20T14:32:41.186Z",
+  "scanned_at": "2026-07-20T16:13:30.199Z",
   "fresh_leads": [],
-  "removed_roles": [
-    {
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-2",
-      "reason": "expired"
-    }
-  ],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -47,7 +40,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
@@ -126,7 +119,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 201,
+      "matches": 200,
       "phase": "fast-pass"
     },
     {
@@ -176,7 +169,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -246,7 +239,7 @@
       "source_id": "imc trading|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 61,
+      "matches": 62,
       "phase": "fast-pass"
     },
     {
@@ -582,7 +575,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1791,16 +1784,16 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-20T14:32:41.186Z",
-    "elapsed_ms": 86501,
+    "scanned_at": "2026-07-20T16:13:30.199Z",
+    "elapsed_ms": 60210,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
     "discovered_sources_active": 140,
     "discovered_companies_active": 140,
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 7,
-    "discovery_due_remaining": 10,
+    "discovery_attempts_this_scan": 10,
+    "discovery_new_sources_this_scan": 3,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
       "discovered": 140,
@@ -1824,9 +1817,9 @@
       "403 Forbidden": 10
     },
     "board_eligible_candidates": 70,
-    "closure_checks": 5,
+    "closure_checks": 4,
     "closed_roles_removed": 0,
-    "expired_roles_removed": 1,
+    "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
   }
