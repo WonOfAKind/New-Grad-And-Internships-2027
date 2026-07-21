@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 21, 2026 at 5:45 PM EDT
+Last updated: July 21, 2026 at 5:51 PM EDT
 
 Current roles: 48
 
@@ -30,7 +30,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
 | IMC Trading | Graduate Software Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4818790101>) |
 | Salesforce | Software Engineering AMTS (College Grad) | San Francisco, CA; Palo Alto, CA; Indianapolis, IN; Seattle, WA; Bellevue, WA; Dallas, TX | $110,000 - $153,000 annually | Explicit new grad role | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1>) |
-| xAI | Software Engineer - Internal Tools | Palo Alto, CA | - | Explicit new grad role | First seen Jul 13, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5052038007>) |
+| xAI | Software Engineer - Internal Tools | Palo Alto, CA | $180,000 - $440,000 USD | Explicit new grad role | First seen Jul 13, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5052038007>) |
 | Intuit | Software Engineer 1 | Mountain View, California, United States; San Diego, California, United States; New York, New York, United States; Atlanta, Georgia, United States | - | Explicit new grad role | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720>) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | $125,000.00 - $145,000.00 | Explicit new grad role | Posted Jul 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8493079002>) |
 | SpaceX | New Graduate Engineer, Software (Starlink) | Bastrop, TX | - | Explicit new grad role | Posted Jul 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8399140002>) |
