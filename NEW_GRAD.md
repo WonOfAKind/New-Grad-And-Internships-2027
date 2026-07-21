@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 21, 2026 at 12:48 AM EDT
+Last updated: July 21, 2026 at 5:45 PM EDT
 
-Current roles: 50
+Current roles: 48
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -24,7 +24,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8013085>) |
 | IXL Learning | Software Engineer - New Grad | Raleigh, NC | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615717002>) |
 | IXL Learning | Software Engineer - New Grad | San Mateo, CA | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
-| Qualcomm | System AI Engineer, Display (New Grad Level and up) | Markham, ON,CA, [object Object] | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 16, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada>) |
+| Qualcomm | System AI Engineer, Display (New Grad Level and up) | Markham, ON,CA, [object Object] | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Jul 16, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada>) |
 | Hudson River Trading | Algorithm Developer (Quant Researcher) – 2027 Grads | New York, NY | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-grads>) |
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | New York, NY; Chicago, IL; Austin, TX | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads>) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
@@ -49,16 +49,14 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Tower Research Capital | Quantitative Trader - 2027 | New York, Chicago | $150,000 - $250,000 | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
 | RTX | Leadership Development Program - Engineering, Software (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Jul 6, 2026<br>First seen Jul 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1/apply>) |
 | RTX | Leadership Development Program - Engineering, Systems (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Jul 6, 2026<br>First seen Jul 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply>) |
-| Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 30, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
-| Notion | Software Engineer, New Grad (AI) | San Francisco, California | $126,000-$146,000 | Explicit new grad role | Posted Apr 27, 2026<br>First seen Jul 9, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9>) |
-| Notion | Software Engineer, New Grad | San Francisco, California | $126,000 - $146,000 | Explicit new grad role | Posted Apr 23, 2026<br>First seen Jul 9, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555>) |
-| Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA,US, [object Object] | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 8, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
+| Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
+| Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA,US, [object Object] | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 7, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 
 ## Data Science
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
+| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 
 ## Mechanical Engineering
 
@@ -66,8 +64,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 |---|---|---|---|---|---|---|
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
-| Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007>) |
-| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007>) |
+| Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
+| Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
 
 ## Aerospace Engineering
 
@@ -80,6 +78,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 23, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
-| Micron | New College Grad - OI System Engineer | Manassas, VA,US, [object Object] | - | Explicit new grad role | Posted Jun 15, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
+| Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
+| Micron | New College Grad - OI System Engineer | Manassas, VA,US, [object Object] | - | Explicit new grad role | Posted Jun 14, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 
