@@ -101,6 +101,8 @@ export async function runSelfTests() {
     "$86,000 - $114,000 USD",
     "encoded salary range",
   );
+  assertEqual(normalizePostingDate("Jul 18, 2026"), "2026-07-18", "named calendar date is timezone invariant");
+  assertEqual(normalizePostingDate("7/18/2026"), "2026-07-18", "numeric calendar date is timezone invariant");
   assertEqual(
     extractCompensation("Graduate Software Engineer", "The salary for this role is $200,000."),
     "$200,000",

@@ -62,6 +62,22 @@ export function dateOnly(value) {
   if (!text) return "";
   const direct = /^(\d{4}-\d{2}-\d{2})$/.exec(text)?.[1];
   if (direct) return direct;
+  const monthNames = {
+    jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06",
+    jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12",
+  };
+  const named = /^(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+(\d{1,2})(?:st|nd|rd|th)?(?:,\s*|\s+)(\d{4})$/i.exec(text);
+  if (named) {
+    const month = monthNames[named[1].slice(0, 3).toLowerCase()];
+    const day = String(Number(named[2])).padStart(2, "0");
+    return `${named[3]}-${month}-${day}`;
+  }
+  const numeric = /^(\d{1,2})[/-](\d{1,2})[/-](\d{4})$/.exec(text);
+  if (numeric) {
+    const month = String(Number(numeric[1])).padStart(2, "0");
+    const day = String(Number(numeric[2])).padStart(2, "0");
+    return `${numeric[3]}-${month}-${day}`;
+  }
   const parsed = Date.parse(text);
   if (Number.isNaN(parsed)) return "";
   const parts = new Intl.DateTimeFormat("en-US", {
