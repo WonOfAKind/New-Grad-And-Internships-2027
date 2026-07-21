@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 21, 2026 at 5:51 PM EDT
+Last updated: July 21, 2026 at 7:11 PM EDT
 
-Current roles: 61
+Current roles: 63
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,6 +12,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Akuna Capital | Quantitative Development &amp; Strategy Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8021481>) |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8036614>) |
 | Chicago Trading Company | Quant Trading Intern (Summer 2027) | Chicago, IL | - | 2027 grad eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
@@ -21,7 +22,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Google | Software Engineering Intern, BS, Summer 2027 | United States | - | 2027 internship eligible | First seen Jul 20, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/85564713261245126>) |
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Milpitas, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
-| Western Digital | Software Engineering Intern (Summer 2027) | San Jose, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
 | Akuna Capital | Software Engineer Intern, C# .NET Desktop | Chicago, IL | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018886>) |
@@ -30,6 +30,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Akuna Capital | Software Engineer Intern, Python | Chicago, IL | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018853>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quant Research (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
+| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
@@ -40,7 +41,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784609054>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784609304>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784670261>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 grad eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784670685>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784670685>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 grad eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784675441>) |
 | Palantir | Software Engineer, Internship | Denver, CO | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249>) |
 | Palantir | Software Engineer, Internship - Defense Tech | New York, NY | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e>) |
 | Palantir | Software Engineer, Internship - Defense Tech | Washington, D.C. | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7>) |
