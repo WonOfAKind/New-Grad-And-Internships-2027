@@ -3,6 +3,7 @@ import {
   doubleCheckErrors,
   doubleCheckTimeoutMs,
   fetchTimeoutMs,
+  sourceScanDeadlineMs,
 } from "../config.mjs";
 import { mapConcurrent } from "../domain.mjs";
 import { isRetryableScanError, sourceErrorLog } from "../http.mjs";
@@ -34,6 +35,23 @@ export async function scanSource(source, timeoutMs) {
   }
 }
 
+export async function withScanDeadline(promise, timeoutMs, source) {
+  let timer;
+  try {
+    return await Promise.race([
+      promise,
+      new Promise((_, reject) => {
+        timer = setTimeout(
+          () => reject(new Error(`${source.company} ${source.adapter} scan timed out after ${timeoutMs}ms`)),
+          timeoutMs,
+        );
+      }),
+    ]);
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 export async function scanAtsSource(source) {
   const sourceTimeoutMs = source.timeoutMs ?? fetchTimeoutMs;
   const sourceMetadata = {
@@ -41,7 +59,11 @@ export async function scanAtsSource(source) {
     reconciliation: reconciliationModeFor(source),
   };
   try {
-      const leads = annotateSourceLeads(source, await scanSource(source, sourceTimeoutMs));
+      const leads = annotateSourceLeads(source, await withScanDeadline(
+        scanSource(source, sourceTimeoutMs),
+        source.scanDeadlineMs ?? sourceScanDeadlineMs,
+        source,
+      ));
       return {
         source,
         leads,
@@ -59,7 +81,11 @@ export async function scanAtsSource(source) {
 
       try {
         const retryTimeoutMs = source.doubleCheckTimeoutMs ?? doubleCheckTimeoutMs;
-        const leads = annotateSourceLeads(source, await scanSource(source, retryTimeoutMs));
+        const leads = annotateSourceLeads(source, await withScanDeadline(
+          scanSource(source, retryTimeoutMs),
+          source.doubleCheckDeadlineMs ?? Math.max(30000, retryTimeoutMs * 3),
+          source,
+        ));
         return {
           source,
           leads,

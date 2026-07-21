@@ -8,6 +8,7 @@ import {
 import {
   canonicalApplyUrl,
   dateOnly,
+  graduationMatch,
   hasOnlyExcludedGraduationWindow,
   isEligibleRole,
   isDirectEmployerApplyUrl,
@@ -18,9 +19,9 @@ import {
   normalizeCompanyName,
   normalizePostingDate,
   normalizeRoleTitle,
-  roleType,
+  stableJobIdentity,
 } from "./domain.mjs";
-import { fetchDocument, fetchJson, fetchText } from "./http.mjs";
+import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
 import { htmlJobFromDetail, htmlJobToLead } from "./adapters/html.mjs";
 import { officialPageRejection } from "./official_page.mjs";
 
@@ -44,6 +45,19 @@ const blockedDiscoveryHosts = [
 
 const nonJobExtensions = /\.(?:png|jpe?g|gif|svg|webp|ico|pdf)(?:$|\?)/i;
 const jobUrlEvidence = /(?:jobs?|careers?|positions?|openings?|postings?|recruit|workdayjobs|greenhouse|lever|ashby|smartrecruiters|jobvite|icims|successfactors|oraclecloud|myworkday)/i;
+
+export function isCareerLandingPageUrl(value) {
+  try {
+    const parsed = new URL(canonicalApplyUrl(value));
+    if (stableJobIdentity(parsed.toString())) return false;
+    const path = parsed.pathname.replace(/\/+$/, "") || "/";
+    return path === "/"
+      || /\/(?:careers?|jobs?|open[-_]?positions?|openings?|opportunities)$/i.test(path)
+      || /\/(?:careers?|jobs?)\/(?:search|results?)$/i.test(path);
+  } catch {
+    return true;
+  }
+}
 
 export function validateDiscoveryFeeds(feeds) {
   if (!Array.isArray(feeds) || feeds.length === 0) throw new Error("data/discovery_feeds.json must contain at least one feed");
@@ -93,6 +107,7 @@ export function isOfficialJobUrl(value) {
     if (!/^https?:$/.test(parsed.protocol)) return false;
     if (blockedDiscoveryHosts.some((pattern) => pattern.test(parsed.hostname)) || !isDirectEmployerApplyUrl(value)) return false;
     if (nonJobExtensions.test(parsed.pathname)) return false;
+    if (isCareerLandingPageUrl(value)) return false;
     return jobUrlEvidence.test(`${parsed.hostname}${parsed.pathname}`)
       || /(?:\d{6,}|[0-9a-f]{8}-[0-9a-f-]{27,})/i.test(parsed.pathname);
   } catch {
@@ -138,13 +153,8 @@ function inferredDate(cells) {
   return "";
 }
 
-function seasonFor(seed, feed) {
-  const evidence = `${seed.title}\n${seed.season ?? ""}\n${feed.season_hint ?? ""}`;
-  if (/\b(?:intern|internship|co[-\s]?op|apprentice)\b/i.test(seed.title)) {
-    if (/\b(?:spring|summer|fall|winter)\s+2027\b/i.test(evidence)) return evidence;
-    return `${evidence}\n2027 internship cycle`;
-  }
-  return `${evidence}\n2027 new grad recruiting cycle`;
+function seasonFor(seed) {
+  return `${seed.title}\n${seed.season ?? ""}`.trim();
 }
 
 function degreeEligible(seed) {
@@ -159,7 +169,7 @@ function normalizeSeed(seed, feed) {
   const company = normalizeCompanyName(decodeFeedText(seed.company));
   const location = decodeFeedText(seed.location);
   const url = humanApplyUrl(seed.url);
-  const seasonHint = seasonFor({ ...seed, title }, feed);
+  const seasonHint = seasonFor({ ...seed, title });
   return {
     company,
     title,
@@ -167,6 +177,7 @@ function normalizeSeed(seed, feed) {
     url,
     education: decodeFeedText(seed.education),
     season_hint: seasonHint,
+    feed_cycle_hint: normalize(feed.season_hint),
     posted_at: normalizePostingDate(seed.posted_at ?? seed.date_added ?? "") || inferredDate(seed.cells ?? []),
     discovered_via: feed.homepage ?? feed.url,
     discovery_feed: feed.name,
@@ -234,7 +245,6 @@ export function discoverySeedRejection(seed) {
   if (!isRelevant(seed.title)) return "untracked discipline";
   const context = `${seed.location}\n${seed.education}\n${seed.season_hint}`;
   if (hasOnlyExcludedGraduationWindow(seed.title, context)) return "excluded recruiting year";
-  if (!isEligibleRole(seed.title, context)) return "not a 2027 BS internship/new-grad role";
   return "";
 }
 
@@ -251,12 +261,12 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
   lead.company = seed.company;
   lead.role_title = normalizeRoleTitle(parsed.title) || seed.title;
   lead.location = normalize(parsed.location) || seed.location;
-  lead.direct_apply_url = seed.url;
+  lead.direct_apply_url = canonicalApplyUrl(verifiedJob?.url || cachedRole?.url || seed.url);
   lead.career_source_url = seed.url;
   lead.posted_at = seed.posted_at || lead.posted_at;
-  lead.graduation_match = roleType(seed.title, context) === "Internship"
-    ? "2027 internship cycle"
-    : "2027 new grad recruiting cycle";
+  lead.graduation_match = verifiedJob
+    ? graduationMatch(parsed.title || seed.title, parsed.description ?? "")
+    : normalize(cachedRole?.grad_window) || graduationMatch(seed.title, seed.season_hint);
   lead.season_hint = seed.season_hint;
   lead.discovered_via = seed.discovered_via;
   lead.discovery_feed = seed.discovery_feed;
@@ -284,12 +294,17 @@ export function providerDescriptorForSeed(seed, sourceHints = []) {
   }
   const greenhousePath = url.pathname.match(/^\/([^/]+)\/jobs\/(\d+)/i);
   if (/(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io$/i.test(url.hostname) && greenhousePath) {
-    return { adapter: "greenhouse", board: greenhousePath[1], id: greenhousePath[2] };
+    return { adapter: "greenhouse", board: greenhousePath[1], id: greenhousePath[2], host: url.hostname };
   }
   const greenhouseId = url.searchParams.get("gh_jid");
+  const embeddedGreenhouseId = url.searchParams.get("token");
+  const embeddedGreenhouseBoard = url.searchParams.get("for");
   const greenhouseHint = sourceHintFor(seed, sourceHints, "greenhouse");
+  if (/greenhouse\.io$/i.test(url.hostname) && embeddedGreenhouseId && embeddedGreenhouseBoard) {
+    return { adapter: "greenhouse", board: embeddedGreenhouseBoard, id: embeddedGreenhouseId, host: "job-boards.greenhouse.io" };
+  }
   if (greenhouseId && greenhouseHint?.board) {
-    return { adapter: "greenhouse", board: greenhouseHint.board, id: greenhouseId };
+    return { adapter: "greenhouse", board: greenhouseHint.board, id: greenhouseId, host: "job-boards.greenhouse.io" };
   }
   if (/^jobs\.lever\.co$/i.test(url.hostname) && segments.length >= 2) {
     return { adapter: "lever", board: segments[0], id: segments[1] };
@@ -307,6 +322,10 @@ export function providerDescriptorForSeed(seed, sourceHints = []) {
   return null;
 }
 
+export function workdayRequisitionId(url) {
+  return stableJobIdentity(url).replace(/-\d+$/i, "");
+}
+
 function providerJobToHtmlShape(descriptor, job, seed) {
   if (descriptor.adapter === "ashby") {
     return {
@@ -322,7 +341,7 @@ function providerJobToHtmlShape(descriptor, job, seed) {
       ...job,
       location: job.location?.name,
       description: job.content,
-      url: job.absolute_url ?? seed.url,
+      url: `https://${descriptor.host ?? "job-boards.greenhouse.io"}/${descriptor.board}/jobs/${descriptor.id}`,
       datePosted: job.updated_at,
     };
   }
@@ -347,7 +366,7 @@ function providerJobToHtmlShape(descriptor, job, seed) {
   };
 }
 
-async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
+export async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
   const descriptor = providerDescriptorForSeed(seed, sourceHints);
   if (!descriptor) return null;
   try {
@@ -368,8 +387,33 @@ async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
       job = await cache.get(key);
     } else if (descriptor.adapter === "workday") {
       const endpoint = `https://${descriptor.host}/wday/cxs/${descriptor.tenant}/${descriptor.site}${descriptor.externalPath}`;
-      if (!cache.has(endpoint)) cache.set(endpoint, fetchJson(endpoint, timeoutMs));
-      job = await cache.get(endpoint);
+      try {
+        if (!cache.has(endpoint)) cache.set(endpoint, fetchJson(endpoint, timeoutMs));
+        job = await cache.get(endpoint);
+      } catch (detailError) {
+        const requisitionId = workdayRequisitionId(seed.url);
+        if (!requisitionId) throw detailError;
+        const searchEndpoint = `https://${descriptor.host}/wday/cxs/${descriptor.tenant}/${descriptor.site}/jobs`;
+        const searchKey = `${searchEndpoint}|${requisitionId}`;
+        if (!cache.has(searchKey)) {
+          cache.set(searchKey, fetchWithRetries(
+            searchEndpoint,
+            "application/json,text/plain,*/*",
+            (response) => response.json(),
+            timeoutMs,
+            {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ limit: 20, offset: 0, searchText: requisitionId }),
+            },
+          ));
+        }
+        const searchPayload = await cache.get(searchKey);
+        job = (searchPayload.jobPostings ?? []).find((item) => {
+          const itemId = workdayRequisitionId(`https://${descriptor.host}/${descriptor.site}${item.externalPath ?? ""}`);
+          return itemId === requisitionId || (item.bulletFields ?? []).some((field) => normalize(field).toLowerCase() === requisitionId);
+        });
+      }
     }
     if (!job) throw new Error("provider requisition is no longer listed");
     return providerJobToHtmlShape(descriptor, job, seed);
@@ -377,18 +421,24 @@ async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
     if (/\b404\b|not found|no longer listed/i.test(error.message)) {
       throw new Error(`official posting closed: ${error.message}`);
     }
-    return null;
+    throw new Error(`official provider verification unavailable: ${error.message}`);
   }
 }
 
 async function verifySeed(seed, timeoutMs, sourceHints, providerCache) {
   const providerJob = await verifyKnownProvider(seed, sourceHints, timeoutMs, providerCache);
-  if (providerJob) return seedToLead(seed, providerJob);
+  if (providerJob) {
+    const officialTitle = normalizeRoleTitle(providerJob.title) || seed.title;
+    const officialContext = `${providerJob.location ?? ""}\n${providerJob.description ?? ""}\n${providerJob.url ?? ""}`;
+    if (hasOnlyExcludedGraduationWindow(officialTitle, officialContext)) throw new Error("official page has an excluded recruiting year");
+    if (!isEligibleRole(officialTitle, officialContext)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
+    return seedToLead(seed, { ...providerJob, title: officialTitle });
+  }
   const document = await fetchDocument(seed.url, timeoutMs, { redirect: "follow" });
   const rejection = officialPageRejection(seed.url, document.url, document.text, seed.title);
   if (rejection) throw new Error(`official posting closed: ${rejection}`);
   const resolvedUrl = canonicalApplyUrl(document.url);
-  if (!isOfficialJobUrl(resolvedUrl)) throw new Error("official link redirected to a non-job page");
+  if (!isOfficialJobUrl(resolvedUrl) || isCareerLandingPageUrl(resolvedUrl)) throw new Error("official link redirected to a career/search landing page");
   const job = htmlJobFromDetail({ company: seed.company }, resolvedUrl, document.text, {
     title: seed.title,
     location: seed.location,
@@ -396,8 +446,8 @@ async function verifySeed(seed, timeoutMs, sourceHints, providerCache) {
   });
   const officialContext = `${job.location}\n${job.description}\n${resolvedUrl.replace(/[-_/]+/g, " ")}`;
   if (hasOnlyExcludedGraduationWindow(job.title || seed.title, officialContext)) throw new Error("official page has an excluded recruiting year");
-  const context = `${officialContext}\n${seed.education}\n${seed.season_hint}`;
-  if (!isEligibleRole(seed.title, context)) throw new Error("official page does not confirm eligible role");
+  const context = `${officialContext}\n${seed.education}`;
+  if (!isEligibleRole(job.title || seed.title, context)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
   const selectedTitle = isRelevant(job.title) ? normalizeRoleTitle(job.title) : seed.title;
   if (/\.\.\.$/.test(selectedTitle)) throw new Error("official page did not expose a complete title");
   return seedToLead(seed, job);

@@ -2,6 +2,7 @@ import {
   aiPatterns,
   defaultSearchTexts,
   earlyCareerPatterns,
+  explicitNewGradPatterns,
   excludedDegreeProgramPatterns,
   excludedDirectApplyUrls,
   excludedGradWindowPatterns,
@@ -11,6 +12,7 @@ import {
   internshipEligiblePatterns,
   internshipPatterns,
   namedUnitedStatesStatePattern,
+  newGrad2027StartPatterns,
   recentDays,
   seniorPatterns,
   targetGradPatterns,
@@ -45,6 +47,14 @@ export function normalizeCompanyName(value) {
 
 export function normalizeRoleTitle(value) {
   return normalizeDisplayText(value).replace(/[🆕🛂✅🔒✓]+|\p{Regional_Indicator}{2}/gu, "").replace(/\s+/g, " ").trim();
+}
+
+export function withoutSyntheticCycleEvidence(value) {
+  return normalize(value)
+    .replace(/\b2027\s+new\s+grad\s+recruiting\s+cycle\b/gi, " ")
+    .replace(/\b2027\s+internship\s+cycle\b/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 export function dateOnly(value) {
@@ -198,6 +208,8 @@ export function isDirectEmployerApplyUrl(value) {
 }
 
 export function isRelevant(title) {
+  if (/\b(?:recruiter|recruiting|talent\s+acquisition|human\s+resources?)\b/i.test(title)) return false;
+  if (/\b(?:private\s+equity|investment\s+(?:associate|banking|analyst)|wealth\s+management)\b/i.test(title)) return false;
   if (/\bproduct\s+management\b|\bproduct\s+manager\b/i.test(title)) return false;
   if (/\boperations?\s+(?:intern|internship|co[-\s]?op)\b/i.test(title) && !/engineer|technical/i.test(title)) return false;
   return titleRolePatterns.some((pattern) => pattern.test(title));
@@ -214,8 +226,9 @@ export function hasExcludedDegreeProgram(title) {
 export function graduationMatch(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
+  if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return "Summer 2027 start";
   if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
-  if (/new\s+grad|university\s+grad/i.test(haystack)) return "New grad or university grad";
+  if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return "Explicit new grad role";
   if (earlyCareerPatterns.some((pattern) => pattern.test(haystack))) return "Early career";
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
   return "";
@@ -233,17 +246,27 @@ export function roleType(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
   if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internship|co[-\s]?op)\b/i.test(text)) return "Internship";
+  if (/\b2027\b/i.test(title)) return "New Grad";
   if (fullTimeNewGradPatterns.some((pattern) => pattern.test(haystack))) return "New Grad";
   return "";
 }
 
-export function isEligibleRole(title, text = "") {
+export function hasNewGradEligibilityEvidence(title, text = "") {
   const haystack = `${title}\n${text}`;
-  if (hasOnlyExcludedGraduationWindow(title, text)) return false;
+  if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return true;
+  if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return true;
+  if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return true;
+  return /\b2027\b/i.test(title);
+}
+
+export function isEligibleRole(title, text = "") {
+  const trustedText = withoutSyntheticCycleEvidence(text);
+  const haystack = `${title}\n${trustedText}`;
+  if (hasOnlyExcludedGraduationWindow(title, trustedText)) return false;
   if (isProbablySenior(title)) return false;
   if (hasExcludedDegreeProgram(title)) return false;
-  const type = roleType(title, text);
-  if (type === "New Grad") return true;
+  const type = roleType(title, trustedText);
+  if (type === "New Grad") return hasNewGradEligibilityEvidence(title, trustedText);
   if (type === "Internship") return internshipEligiblePatterns.some((pattern) => pattern.test(haystack));
   return false;
 }
@@ -276,8 +299,14 @@ export function priorityFor(title, sourcePriority) {
 
 export function isFreshEnough(lead) {
   const title = roleTitle(lead);
-  const context = `${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}\n${lead.season_hint ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
-  if (excludedDirectApplyUrls.has(normalize(applyUrl(lead)))) return false;
+  const evidence = [lead.graduation_match, lead.grad_window, lead.season_hint]
+    .map(normalize)
+    .filter((value) => !/^(?:2027 (?:new grad recruiting|internship) cycle|early career|internship|new grad or university grad)$/i.test(value));
+  const context = evidence.join("\n");
+  const url = applyUrl(lead);
+  const urlIdentity = stableJobIdentity(url);
+  if ([...excludedDirectApplyUrls].some((excludedUrl) => canonicalApplyUrl(excludedUrl) === url
+    || (urlIdentity && stableJobIdentity(excludedUrl) === urlIdentity))) return false;
   if (!isDirectEmployerApplyUrl(applyUrl(lead))) return false;
   if (/\.\.\.$/.test(title)) return false;
   if (/\.\.\.$/.test(normalize(lead.location))) return false;
@@ -285,8 +314,7 @@ export function isFreshEnough(lead) {
   if (/\b2026\b/i.test(urlYearEvidence) && !/\b2027\b/i.test(urlYearEvidence)) return false;
   if (!isRelevant(title)) return false;
   if (!isEligibleRole(title, context)) return false;
-  if (/2027/.test(`${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}`)) return true;
-  if (/\b(?:new\s+grad(?:uate)?|university\s+grad(?:uate)?|graduate\s+\w+\s+engineer|early\s+careers?|entry[-\s]?level|career\s+catalyst|recent\s+grad(?:uate)?)\b/i.test(title)) return true;
+  if (isEligibleRole(title, context)) return true;
   if (!lead.updated_at) return false;
   const updatedAt = Date.parse(lead.updated_at);
   if (Number.isNaN(updatedAt)) return false;

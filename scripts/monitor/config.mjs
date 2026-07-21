@@ -15,6 +15,7 @@ export const fetchTimeoutMs = envInteger("FETCH_TIMEOUT_MS", 7000, { min: 1000, 
 export const fetchRetries = envInteger("FETCH_RETRIES", 0, { min: 0, max: 5 });
 export const fetchRetryBaseMs = envInteger("FETCH_RETRY_BASE_MS", 350, { min: 0, max: 30000 });
 export const atsSourceConcurrency = envInteger("ATS_SOURCE_CONCURRENCY", 12, { min: 1, max: 64 });
+export const sourceScanDeadlineMs = envInteger("SOURCE_SCAN_DEADLINE_MS", 90000, { min: 10000, max: 300000 });
 export const htmlDetailConcurrency = envInteger("HTML_DETAIL_CONCURRENCY", 4, { min: 1, max: 16 });
 export const doubleCheckErrors = process.env.DOUBLE_CHECK_ERRORS !== "0";
 export const doubleCheckTimeoutMs = envInteger("DOUBLE_CHECK_TIMEOUT_MS", 15000, { min: 1000, max: 180000 });
@@ -28,10 +29,10 @@ export const discoveryConcurrency = envInteger("DISCOVERY_CONCURRENCY", 8, { min
 export const discoveryLimit = envInteger("DISCOVERY_LIMIT", 30, { min: 1, max: 1000 });
 export const sitemapDetailLimit = envInteger("SITEMAP_DETAIL_LIMIT", 30, { min: 1, max: 500 });
 export const discoveryFeedConcurrency = envInteger("DISCOVERY_FEED_CONCURRENCY", 8, { min: 1, max: 24 });
-export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 120, { min: 1, max: 1000 });
+export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 600, { min: 1, max: 1000 });
 export const discoveryFeedTimeoutMs = envInteger("DISCOVERY_FEED_TIMEOUT_MS", 12000, { min: 1000, max: 120000 });
 export const discoveryFeedReverifyHours = envInteger("DISCOVERY_FEED_REVERIFY_HOURS", 24, { min: 1, max: 168 });
-export const discoveryVerificationVersion = 2;
+export const discoveryVerificationVersion = 5;
 export const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
@@ -93,7 +94,7 @@ export const titleRolePatterns = [
 ];
 
 export const internshipPatterns = [
-  /\bintern\b/i,
+  /\binterns?\b/i,
   /\binternship\b/i,
   /\bco[-\s]?op\b/i,
   /\bcoop\b/i,
@@ -109,10 +110,23 @@ export const earlyCareerPatterns = [
   /\brecent\s+grad(?:uate)?\b/i,
 ];
 
+export const explicitNewGradPatterns = [
+  /\bnew\s+grad(?:uate)?s?\b/i,
+  /\buniversity\s+grad(?:uate)?s?\b/i,
+  /\bnew\s+college\s+grad(?:uate)?s?\b/i,
+  /\bcollege\s+grad(?:uate)?s?\b/i,
+  /\bgraduate\s+(?:software|mechanical|aerospace|data|systems?|manufacturing|hardware|firmware|electrical|quantitative|machine\s+learning)\s+(?:engineer|developer|researcher|trader)\b/i,
+  /\b(?:software|mechanical|aerospace|data|systems?|manufacturing|hardware|firmware|electrical|quantitative|machine\s+learning)\s+(?:engineer|developer|researcher|trader)\s+graduate\b/i,
+  /\b2027\s+grads?\b/i,
+];
+
+export const newGrad2027StartPatterns = [
+  /\b(?:start|starts|starting|begin|begins|beginning|commence|commences|commencing|available\s+to\s+start)\b.{0,50}\b(?:summer\s+2027|may|june|july|august)\s+2027\b/i,
+  /\b(?:summer\s+2027|may|june|july|august)\s+2027\b.{0,30}\b(?:start|starts|starting|cohort|program)\b/i,
+];
+
 export const fullTimeNewGradPatterns = [
-  /new\s+grad(?:uate)?/i,
-  /university\s+grad(?:uate)?/i,
-  /graduate\s+(?:software|mechanical|aerospace|data|systems|manufacturing)\s+engineer/i,
+  ...explicitNewGradPatterns,
   /class\s+of\s+2027/i,
   /2027\s+grad(?:uate)?/i,
   /grad(?:uating|uation)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*2027/i,

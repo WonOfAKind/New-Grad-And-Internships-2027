@@ -11,7 +11,13 @@ The monitor is a layered discovery and normalization pipeline.
 7. `output.mjs` preserves first-seen history, merges current roles, sorts each board section newest-first, and renders JSON, CSV, a compact README dashboard, and separate new-grad and internship boards.
 8. `monitor_company_roles.mjs` coordinates those modules and contains no provider parsing.
 
-Secondary-feed rows are published only after an official requisition check. The verifier uses provider APIs for recognized Ashby, Greenhouse, Lever, and Workday URLs, detects soft 404 redirects on other sites, and periodically revalidates cached rows. A feed listing alone is never treated as proof that a role remains open.
+Secondary-feed rows are published only after an official requisition check. The verifier requires provider-API confirmation for recognized Ashby, Greenhouse, Lever, and Workday URLs, detects soft 404 redirects on other sites, and periodically revalidates cached rows. Workday detail failures are checked against the authoritative search API by exact requisition ID. Unknown sites must expose a matching title or requisition ID in their page data. A feed listing, unchanged URL, or SPA shell alone is never treated as proof that a role remains open.
+
+New-grad eligibility requires employer evidence: explicit new-grad, graduate, or college-grad wording; an explicit 2027 graduation cycle in the title or posting; or a Summer 2027 start date. Generic early-career, entry-level, associate, Engineer I, and ordinary professional titles are discovery hints only and cannot qualify a row by themselves. Community-feed names and synthetic cycle labels are never accepted as employer evidence. Internship rows likewise require an explicit 2027 season or graduation window from the role or official posting.
+
+Cached roles that were not rediscovered in the current scan are also checked directly against recognized provider APIs before retention. This prevents older roles with incomplete source attribution from remaining merely because their original source is partial or ambiguous.
+
+Candidates from non-provider search indexes such as Phenom are verified against their destination ATS before publication. Provider-confirmed closures are removed, while temporarily unavailable provider checks are quarantined for that scan instead of being published optimistically.
 
 ## Source Order
 
@@ -28,7 +34,7 @@ Discovery is cached because ATS vendors and career-site topology change much les
 
 The monitor never bypasses access controls. A `robots.txt` disallow is recorded as blocked, and unreachable robots policy prevents discovery until it can be checked safely.
 
-Community lists never become the application source shown to users. Their rows must resolve to direct company or ATS job URLs; known aggregators and URL shorteners are rejected, new links are fetched to confirm they are live, and the official adapter wins when both paths find the same role. Feed provenance and verification status remain in the JSON/CSV data for auditing.
+Community lists never become the application source shown to users. Their rows must resolve to individual company or ATS requisitions; bare career roots, search pages, known aggregators, and URL shorteners are rejected. Recognized embedded Greenhouse links are canonicalized to their direct ATS detail pages, new links are fetched to confirm they are live, and the official adapter wins when both paths find the same role. Feed provenance and verification status remain in the JSON/CSV data for auditing.
 
 ## Role Lifecycle
 

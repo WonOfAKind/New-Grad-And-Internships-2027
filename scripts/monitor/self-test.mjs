@@ -15,7 +15,7 @@ import {
   normalizeDisplayText,
   normalizeRoleTitle,
 } from "./domain.mjs";
-import { htmlJobFromDetail, htmlJobToLead, htmlJobUrl } from "./adapters.mjs";
+import { htmlJobFromDetail, htmlJobToLead, htmlJobUrl, withScanDeadline } from "./adapters.mjs";
 import { readJson, validateConfiguration } from "./http.mjs";
 import {
   compareRoles,
@@ -38,11 +38,13 @@ import {
   applyUrlFromFeedRow,
   discoverySeedRejection,
   humanApplyUrl,
+  isCareerLandingPageUrl,
   isOfficialJobUrl,
   parseJsonFeed,
   parseMarkdownFeed,
   providerDescriptorForSeed,
   validateDiscoveryFeeds,
+  workdayRequisitionId,
 } from "./feed_discovery.mjs";
 import {
   officialPageRejection,
@@ -72,6 +74,16 @@ export function assertThrows(callback, pattern, label) {
     throw new Error(`${label}: threw unexpected error ${JSON.stringify(error.message)}`);
   }
   throw new Error(`${label}: expected callback to throw`);
+}
+
+export async function assertRejects(callback, pattern, label) {
+  try {
+    await callback();
+  } catch (error) {
+    if (pattern.test(error.message)) return;
+    throw new Error(`${label}: rejected with unexpected error ${JSON.stringify(error.message)}`);
+  }
+  throw new Error(`${label}: expected promise to reject`);
 }
 
 export async function runSelfTests() {
@@ -148,9 +160,18 @@ export async function runSelfTests() {
   );
   assertEqual(
     isEligibleRole("Campus AI Research Engineer (Intern)", "2027 internship cycle\nUndergrad"),
-    true,
-    "trusted 2027 discovery season makes generic internship eligible",
+    false,
+    "synthetic discovery cycle does not make a generic internship eligible",
   );
+  assertEqual(isEligibleRole("Software Engineer, Early Career", ""), false, "generic early-career role rejected");
+  assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), false, "generic entry-level role rejected");
+  assertEqual(isEligibleRole("Software Engineer I", ""), false, "generic level-one role rejected");
+  assertEqual(isRelevant("Campus Recruiter, Machine Learning and Quantitative Research"), false, "technical recruiter role rejected");
+  assertEqual(isRelevant("2027 Infrastructure Private Equity Investment Associate"), false, "investment role rejected");
+  assertEqual(isEligibleRole("Software Engineer, New Grad", ""), true, "explicit new-grad title accepted");
+  assertEqual(isEligibleRole("Graduate Software Engineer", ""), true, "explicit graduate title accepted");
+  assertEqual(isEligibleRole("Quantitative Trader - 2027", ""), true, "2027 title accepted");
+  assertEqual(isEligibleRole("Software Engineer - 2027 Interns", ""), true, "plural interns are classified as an internship");
   assertEqual(isRelevant("FPGA Engineer Intern"), true, "hardware internship title coverage");
   assertEqual(isRelevant("Network Engineer Internship"), true, "network internship title coverage");
   assertEqual(isRelevant("Design Engineer Co-op"), false, "generic design role is outside tracked disciplines");
@@ -181,6 +202,11 @@ export async function runSelfTests() {
     isFreshEnough({ company: "Example", title: "Data Analytics Intern", location: "Austin, TX", url: "https://example.com/jobs/data-analytics-intern-fall-2026-123", grad_window: "2027 internship cycle" }),
     false,
     "official URL year overrides inferred source season",
+  );
+  assertEqual(
+    isFreshEnough({ company: "SpaceX", title: "New Graduate Engineer, Software (Starlink)", location: "Redmond, WA", url: "https://boards.greenhouse.io/spacex/jobs/8376990002", grad_window: "Explicit new grad role" }),
+    false,
+    "excluded requisition stays excluded after URL canonicalization",
   );
   assertEqual(
     isEligibleRole("Software Engineer, New Grad", "Master's degree preferred."),
@@ -234,7 +260,7 @@ export async function runSelfTests() {
   }, "2026-07-13T12:00:00Z", { seenNow: false });
   assertEqual(preservedRole.date_seen, "2026-07-05", "first seen is immutable during normalization");
   assertEqual(preservedRole.last_seen, "2026-07-10", "last seen is preserved when role was not observed");
-  assertEqual(toPublicRole({ ...preservedRole, verification_version: 2 }, "2026-07-13T12:00:00Z").verification_version, 2, "verification version is preserved");
+  assertEqual(toPublicRole({ ...preservedRole, verification_version: 4 }, "2026-07-13T12:00:00Z").verification_version, 4, "verification version is preserved");
   assertEqual(
     compareRoles(
       { role_type: "New Grad", discipline: "Software / AI / ML", company: "Older", title: "Engineer", location: "TX", posted_at: "2026-07-01", date_seen: "2026-07-10" },
@@ -272,8 +298,18 @@ export async function runSelfTests() {
       "<title>Jobs</title>",
       "Software Engineer, New Grad",
     ),
-    "",
-    "SPA route preserving requisition identity",
+    "official page shell does not expose the requisition",
+    "unverified SPA shell is rejected",
+  );
+  assertEqual(
+    officialPageRejection(
+      "https://careers.example.com/jobs/8049510",
+      "https://careers.example.com/jobs",
+      '<title>Search jobs</title><a href="/jobs/8049510">Software Engineer, New Grad</a>',
+      "Software Engineer, New Grad",
+    ),
+    "redirected away from the requisition",
+    "search result containing the requisition ID is not a detail page",
   );
   assertEqual(
     providerDescriptorForSeed({ url: "https://jobs.ashbyhq.com/example/31d09081-f5e7-45e4-b561-1c53d0ca9200", company: "Example" }).adapter,
@@ -284,6 +320,16 @@ export async function runSelfTests() {
     providerDescriptorForSeed({ url: "https://example.wd5.myworkdayjobs.com/en-US/External/job/Austin/Engineer_R123", company: "Example" }).site,
     "External",
     "Workday provider descriptor",
+  );
+  assertEqual(
+    providerDescriptorForSeed({ url: "https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8024128", company: "Tower Research Capital" }).id,
+    "8024128",
+    "embedded Greenhouse application resolves to a requisition",
+  );
+  assertEqual(
+    workdayRequisitionId("https://example.wd5.myworkdayjobs.com/External/job/Austin/Engineer_R123456-2/apply"),
+    "r123456",
+    "Workday duplicate-path suffix is excluded from requisition search",
   );
   const boardRoles = [
     {
@@ -382,6 +428,9 @@ export async function runSelfTests() {
     "custom official job URL selected over image",
   );
   assertEqual(isOfficialJobUrl("https://github.com/example/list"), false, "aggregator URL rejected");
+  assertEqual(isCareerLandingPageUrl("https://careers.duolingo.com/"), true, "career root is a landing page");
+  assertEqual(isOfficialJobUrl("https://careers.duolingo.com/"), false, "career root is not an application URL");
+  assertEqual(isCareerLandingPageUrl("https://careers.duolingo.com/?gh_jid=1234567"), false, "embedded requisition query is not treated as a bare landing page");
   assertEqual(
     humanApplyUrl("https://api.smartrecruiters.com/v1/companies/Example/postings/744000123456789"),
     "https://jobs.smartrecruiters.com/Example/744000123456789",
@@ -428,6 +477,11 @@ export async function runSelfTests() {
     ),
     /unsupported/,
     "unknown adapter validation",
+  );
+  await assertRejects(
+    () => withScanDeadline(new Promise(() => {}), 10, { company: "Example", adapter: "html_jobs" }),
+    /scan timed out/,
+    "source-level deadline",
   );
 
   const htmlFixture = `

@@ -5,12 +5,22 @@ import { fileURLToPath } from "node:url";
 import {
   doubleCheckErrors,
   discoveryVerificationVersion,
+  discoveryFeedConcurrency,
+  discoveryFeedTimeoutMs,
   maxNewPerCompany,
   minAtsSuccessPercent,
   staleAfterDays,
   startedAt,
 } from "./monitor/config.mjs";
-import { isAllowedLocation, isExpiredDate, isFreshEnough } from "./monitor/domain.mjs";
+import {
+  applyUrl,
+  isAllowedLocation,
+  isExpiredDate,
+  isFreshEnough,
+  keyFor,
+  mapConcurrent,
+  roleTitle,
+} from "./monitor/domain.mjs";
 import { reconcileRoleLifecycle } from "./monitor/lifecycle.mjs";
 import { readJson, validateConfiguration } from "./monitor/http.mjs";
 import {
@@ -18,7 +28,13 @@ import {
   scanAtsSources,
 } from "./monitor/adapters.mjs";
 import { discoverSources } from "./monitor/discovery.mjs";
-import { scanDiscoveryFeeds, validateDiscoveryFeeds } from "./monitor/feed_discovery.mjs";
+import {
+  providerDescriptorForSeed,
+  isCareerLandingPageUrl,
+  scanDiscoveryFeeds,
+  validateDiscoveryFeeds,
+  verifyKnownProvider,
+} from "./monitor/feed_discovery.mjs";
 import {
   capByCompany,
   dedupeLeads,
@@ -73,10 +89,11 @@ const feedScan = await scanDiscoveryFeeds(discoveryFeeds, existingLeads, runtime
 allCandidates.unshift(...feedScan.leads);
 
 const scannedAt = new Date().toISOString();
-const boardEligibleCandidates = allCandidates
+const preliminaryBoardEligibleCandidates = allCandidates
   .filter((lead) => !isExpiredDate(lead.expires_at, scannedAt))
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
+  .filter((lead) => !isCareerLandingPageUrl(applyUrl(lead)))
   .filter((lead) => lead.priority !== "P2")
   .sort((a, b) => {
     const priorityRank = { P0: 0, P1: 1, P2: 2 };
@@ -86,12 +103,85 @@ const boardEligibleCandidates = allCandidates
     if (gradDiff !== 0) return gradDiff;
     return Date.parse(b.updated_at || "0") - Date.parse(a.updated_at || "0");
   });
+const providerVerificationCache = new Map();
+const providerCandidateChecks = await mapConcurrent(
+  preliminaryBoardEligibleCandidates
+    .filter((lead) => lead.source_adapter !== "discovery_feed")
+    .filter((lead) => providerDescriptorForSeed({ ...lead, url: applyUrl(lead) }, runtimeSources)),
+  discoveryFeedConcurrency,
+  async (lead) => {
+    try {
+      const verifiedJob = await verifyKnownProvider(
+        { ...lead, url: applyUrl(lead), title: roleTitle(lead) },
+        runtimeSources,
+        discoveryFeedTimeoutMs,
+        providerVerificationCache,
+      );
+      return {
+        lead: verifiedJob?.url ? { ...lead, direct_apply_url: verifiedJob.url } : lead,
+        original_url: applyUrl(lead),
+        status: "active",
+        error: "",
+      };
+    } catch (error) {
+      return {
+        lead,
+        status: /^official posting closed:/i.test(error.message) ? "closed" : "unavailable",
+        error: error.message,
+      };
+    }
+  },
+);
+const rejectedProviderCandidateUrls = new Set(providerCandidateChecks
+  .filter((check) => check.status !== "active")
+  .map((check) => check.original_url || applyUrl(check.lead)));
+const closedProviderCandidateUrls = providerCandidateChecks
+  .filter((check) => check.status === "closed")
+  .map((check) => applyUrl(check.lead));
+const boardEligibleCandidates = preliminaryBoardEligibleCandidates
+  .filter((lead) => !rejectedProviderCandidateUrls.has(applyUrl(lead)))
+  .map((lead) => providerCandidateChecks.find((check) => check.original_url === applyUrl(lead))?.lead ?? lead);
+const activeCandidateKeys = new Set(boardEligibleCandidates.map((lead) => keyFor(
+  lead.company,
+  roleTitle(lead),
+  lead.location,
+  applyUrl(lead),
+)));
+const inactiveProviderRoles = existingLeads.filter((role) => !activeCandidateKeys.has(keyFor(
+  role.company,
+  roleTitle(role),
+  role.location,
+  applyUrl(role),
+)) && providerDescriptorForSeed(role, runtimeSources));
+const inactiveProviderChecks = await mapConcurrent(
+  inactiveProviderRoles,
+  discoveryFeedConcurrency,
+  async (role) => {
+    try {
+      await verifyKnownProvider(role, runtimeSources, discoveryFeedTimeoutMs, providerVerificationCache);
+      return { role, status: "active", error: "" };
+    } catch (error) {
+      return {
+        role,
+        status: /^official posting closed:/i.test(error.message) ? "closed" : "unavailable",
+        error: error.message,
+      };
+    }
+  },
+);
+const inactiveProviderClosedUrls = inactiveProviderChecks
+  .filter((check) => check.status === "closed")
+  .map((check) => applyUrl(check.role));
+const providerUnavailableUrls = new Set([
+  ...providerCandidateChecks.filter((check) => check.status === "unavailable").map((check) => applyUrl(check.lead)),
+  ...inactiveProviderChecks.filter((check) => check.status === "unavailable").map((check) => applyUrl(check.role)),
+]);
 const lifecycle = await reconcileRoleLifecycle(
   existingLeads,
   boardEligibleCandidates,
   [...atsScan, ...feedScan.scan_results],
   scannedAt,
-  feedScan.confirmed_closed_urls,
+  [...feedScan.confirmed_closed_urls, ...closedProviderCandidateUrls, ...inactiveProviderClosedUrls],
 );
 const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
 
@@ -143,7 +233,13 @@ const coverage = {
   minimum_ats_success_percent: minAtsSuccessPercent,
   error_breakdown: errorBreakdown(finalSourceStatuses),
   board_eligible_candidates: boardEligibleCandidates.length,
+  provider_candidate_checks: providerCandidateChecks.length,
+  provider_candidate_closed: closedProviderCandidateUrls.length,
+  provider_candidate_unavailable: providerCandidateChecks.filter((check) => check.status === "unavailable").length,
   closure_checks: lifecycle.closure_checks,
+  inactive_provider_checks: inactiveProviderChecks.length,
+  inactive_provider_closed: inactiveProviderClosedUrls.length,
+  inactive_provider_unavailable: inactiveProviderChecks.filter((check) => check.status === "unavailable").length,
   closed_roles_removed: lifecycle.removed.filter((entry) => entry.reason !== "expired").length,
   expired_roles_removed: lifecycle.removed.filter((entry) => entry.reason === "expired").length,
   stale_after_days: staleAfterDays,
@@ -157,6 +253,8 @@ const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scanne
   .filter((role) => isRecentlySeen(role, scannedAt))
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
+  .filter((role) => !isCareerLandingPageUrl(applyUrl(role)))
+  .filter((role) => !providerUnavailableUrls.has(applyUrl(role)))
   .filter((role) => role.source_adapter !== "discovery_feed"
     || Number(role.verification_version) === discoveryVerificationVersion)
   .filter((role) => role.priority !== "P2");

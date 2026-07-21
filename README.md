@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 21, 2026 at 12:09 AM EDT
+Last updated: July 21, 2026 at 12:48 AM EDT
 
 Companies tracked: 367
 
-Current roles: 344
+Current roles: 107
 
-Fresh roles this scan: 0
+Fresh roles this scan: 1
 
 Structured sources active: 179
 
@@ -30,8 +30,8 @@ Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 95 roles
-- [Internship Roles](INTERNSHIPS.md): 249 roles
+- [New Grad Roles](NEW_GRAD.md): 50 roles
+- [Internship Roles](INTERNSHIPS.md): 57 roles
 
 ## Data Files
 
@@ -48,8 +48,9 @@ Secondary discovery feeds healthy: 7/7
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
+- New-grad rows must explicitly identify a new-grad/graduate/college-grad role, name the 2027 graduation cycle, or state a Summer 2027 start. Generic early-career, entry-level, and level-one titles do not qualify by themselves.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
-- Curated 2027 community lists are used only as secondary discovery inputs. A row is published only with a direct employer/ATS URL, and unseen URLs must pass a live official-page check first.
+- Curated 2027 community lists are used only as secondary discovery inputs. Their cycle labels are not eligibility evidence. A row is published only with an individual employer/ATS requisition URL, and unseen URLs must pass a live official-page check first.
 - Curated source configuration remains available for sites that do not expose a standard machine-readable surface.
 - Company posting dates and this tracker's first-seen dates are stored separately; tables are newest-first within each section.
 - Closed roles disappear immediately when a complete ATS feed drops them or a partial source confirms closure. Unverifiable roles are removed after 21 days without a successful sighting.

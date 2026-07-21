@@ -96,10 +96,9 @@ export function officialPageRejection(requestedUrl, resolvedUrl, html, expectedT
 
   const expectedId = stableJobIdentity(requestedUrl);
   const resolvedId = stableJobIdentity(resolvedUrl);
-  const bodyHasId = Boolean(expectedId && String(html ?? "").toLowerCase().includes(expectedId));
   const titleMatches = pageTitleCandidates(html).some((title) => titlesLikelySame(expectedTitle, title));
-  if (titleMatches || bodyHasId) return "";
-  if (expectedId && resolvedId === expectedId) return "";
+  if (titleMatches) return "";
+  if (expectedId && resolvedId === expectedId) return "official page shell does not expose the requisition";
   if (expectedId) return "redirected away from the requisition";
   return "official page does not identify the requisition";
 }
