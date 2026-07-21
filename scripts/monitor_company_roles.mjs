@@ -17,6 +17,7 @@ import {
   scanAtsSources,
 } from "./monitor/adapters.mjs";
 import { discoverSources } from "./monitor/discovery.mjs";
+import { scanDiscoveryFeeds, validateDiscoveryFeeds } from "./monitor/feed_discovery.mjs";
 import {
   capByCompany,
   dedupeLeads,
@@ -25,6 +26,7 @@ import {
   isRecentlySeen,
   mergeRoles,
   renderReadme,
+  renderRolePage,
   rolesToCsv,
   terminalSourceStatuses,
   toPublicRole,
@@ -36,19 +38,24 @@ const dataDir = path.join(rootDir, "data");
 
 const targetPath = path.join(dataDir, "company_sources.json");
 const sourcePath = path.join(dataDir, "ats_sources.json");
+const feedPath = path.join(dataDir, "discovery_feeds.json");
 const discoveryPath = path.join(dataDir, "source_discovery.json");
 const roleDataPath = path.join(dataDir, "roles.json");
 const scanOutputPath = path.join(dataDir, "latest_scan.json");
 const coverageOutputPath = path.join(dataDir, "coverage.json");
 const csvOutputPath = path.join(dataDir, "roles.csv");
 const readmePath = path.join(rootDir, "README.md");
+const newGradPath = path.join(rootDir, "NEW_GRAD.md");
+const internshipsPath = path.join(rootDir, "INTERNSHIPS.md");
 
 await fs.mkdir(dataDir, { recursive: true });
 const targets = await readJson(targetPath, []);
 const atsSources = await readJson(sourcePath, []);
+const discoveryFeeds = await readJson(feedPath, []);
 const discoveryState = await readJson(discoveryPath, { version: 3, companies: {} });
 const existingLeads = await readJson(roleDataPath, []);
 validateConfiguration(targets, atsSources);
+validateDiscoveryFeeds(discoveryFeeds);
 if (!Array.isArray(existingLeads)) throw new Error("data/roles.json must contain a JSON array");
 const discovery = await discoverSources(targets, atsSources, discoveryState);
 const configuredSources = atsSources.map((source) => ({ ...source, source_kind: "configured" }));
@@ -61,6 +68,8 @@ const scanLog = [];
 const atsScan = await scanAtsSources(runtimeSources);
 allCandidates.push(...atsScan.flatMap((result) => result.leads));
 scanLog.push(...flattenLogs(atsScan));
+const feedScan = await scanDiscoveryFeeds(discoveryFeeds, existingLeads);
+allCandidates.unshift(...feedScan.leads);
 
 const scannedAt = new Date().toISOString();
 const boardEligibleCandidates = allCandidates
@@ -76,7 +85,7 @@ const boardEligibleCandidates = allCandidates
     if (gradDiff !== 0) return gradDiff;
     return Date.parse(b.updated_at || "0") - Date.parse(a.updated_at || "0");
   });
-const lifecycle = await reconcileRoleLifecycle(existingLeads, boardEligibleCandidates, atsScan, scannedAt);
+const lifecycle = await reconcileRoleLifecycle(existingLeads, boardEligibleCandidates, [...atsScan, ...feedScan.scan_results], scannedAt);
 const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
 
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
@@ -107,6 +116,7 @@ const coverage = {
   structured_sources_runtime: runtimeSources.length,
   discovered_sources_active: discovery.sources.length,
   discovered_companies_active: discoveredCompanyCount,
+  discovery_feeds: feedScan.coverage,
   discovery_attempts_this_scan: discovery.attempted,
   discovery_new_sources_this_scan: discovery.discovered_now,
   discovery_due_remaining: discovery.due_remaining,
@@ -158,6 +168,8 @@ await fs.writeFile(scanOutputPath, `${JSON.stringify({
 }, null, 2)}\n`, "utf8");
 await fs.writeFile(coverageOutputPath, `${JSON.stringify(coverage, null, 2)}\n`, "utf8");
 await fs.writeFile(readmePath, renderReadme(updatedLeads, coverage, publicFreshLeads.length), "utf8");
+await fs.writeFile(newGradPath, renderRolePage(updatedLeads, coverage, "New Grad"), "utf8");
+await fs.writeFile(internshipsPath, renderRolePage(updatedLeads, coverage, "Internship"), "utf8");
 
 console.log(JSON.stringify({
   scanned_at: scannedAt,

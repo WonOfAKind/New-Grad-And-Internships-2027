@@ -21,6 +21,32 @@ export function normalize(value) {
   return String(value ?? "").trim();
 }
 
+export function normalizeDisplayText(value) {
+  return normalize(value)
+    .replace(/&amp;/gi, "&")
+    .replace(/&quot;/gi, "\"")
+    .replace(/&#x27;|&#39;/gi, "'")
+    .replace(/&nbsp;|&#160;/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+export function normalizeCompanyName(value) {
+  const cleaned = normalizeDisplayText(value).replace(/^[↳→]\s*/, "").replace(/[✓✅🔒]+/g, "").replace(/\s+/g, " ").trim();
+  if (/^IMC$/i.test(cleaned)) return "IMC Trading";
+  if (/^Chevron Corporation$/i.test(cleaned)) return "Chevron";
+  if (/^Old Mission$/i.test(cleaned)) return "Old Mission Capital";
+  if (/^Tower Research$/i.test(cleaned)) return "Tower Research Capital";
+  if (/^Base Power Company$/i.test(cleaned)) return "Base Power";
+  if (/^SEL \(Schweitzer Engineering Laboratories\)$/i.test(cleaned)) return "Schweitzer Engineering Laboratories";
+  if (/^Susquehanna$/i.test(cleaned)) return "Susquehanna International Group";
+  return cleaned;
+}
+
+export function normalizeRoleTitle(value) {
+  return normalizeDisplayText(value).replace(/[🆕🛂✅🔒✓]+|\p{Regional_Indicator}{2}/gu, "").replace(/\s+/g, " ").trim();
+}
+
 export function dateOnly(value) {
   const text = normalize(value);
   if (!text) return "";
@@ -117,6 +143,10 @@ export function canonicalApplyUrl(url) {
       }
       parsed.searchParams.sort();
     }
+    const smartRecruiters = parsed.pathname.match(/^\/v1\/companies\/([^/]+)\/postings\/([^/]+)$/i);
+    if (/^api\.smartrecruiters\.com$/i.test(parsed.hostname) && smartRecruiters) {
+      return `https://jobs.smartrecruiters.com/${smartRecruiters[1]}/${smartRecruiters[2]}`;
+    }
     if (parsed.pathname !== "/") parsed.pathname = parsed.pathname.replace(/\/+$/, "");
     return parsed.toString();
   } catch {
@@ -145,20 +175,31 @@ export function stableJobIdentity(url) {
 export function keyFor(company, title, location, url = "") {
   const normalizedUrl = canonicalApplyUrl(url).toLowerCase();
   const stableId = stableJobIdentity(normalizedUrl);
-  if (stableId) return `job|${normalize(company).toLowerCase()}|${stableId}`;
+  if (stableId) return `job|${normalizeCompanyName(company).toLowerCase()}|${stableId}`;
   if (normalizedUrl) return `url|${normalizedUrl}`;
-  return `${normalize(company).toLowerCase()}|${normalize(title).replace(/\s+/g, " ").toLowerCase()}|${normalize(location).toLowerCase()}`;
+  return `${normalizeCompanyName(company).toLowerCase()}|${normalizeRoleTitle(title).toLowerCase()}|${normalize(location).toLowerCase()}`;
 }
 
 export function roleTitle(lead) {
-  return lead.role_title ?? lead.title ?? "";
+  return normalizeRoleTitle(lead.role_title ?? lead.title ?? "");
 }
 
 export function applyUrl(lead) {
   return canonicalApplyUrl(lead.direct_apply_url ?? lead.url ?? "");
 }
 
+export function isDirectEmployerApplyUrl(value) {
+  try {
+    const hostname = new URL(canonicalApplyUrl(value)).hostname;
+    return !/(^|\.)(?:ripplematch\.com|joinhandshake\.com|handshake\.com|wayup\.com|linkedin\.com|indeed\.com|glassdoor\.com|simplify\.jobs|zapplyjobs\.com|speedyapply\.com)$/i.test(hostname);
+  } catch {
+    return false;
+  }
+}
+
 export function isRelevant(title) {
+  if (/\bproduct\s+management\b|\bproduct\s+manager\b/i.test(title)) return false;
+  if (/\boperations?\s+(?:intern|internship|co[-\s]?op)\b/i.test(title) && !/engineer|technical/i.test(title)) return false;
   return titleRolePatterns.some((pattern) => pattern.test(title));
 }
 
@@ -182,6 +223,7 @@ export function graduationMatch(title, text = "") {
 
 export function hasOnlyExcludedGraduationWindow(title, text = "") {
   const haystack = `${title}\n${text}`;
+  if (/\b2026\b/i.test(title) && !/\b2027\b/i.test(title)) return true;
   const hasExcludedWindow = excludedGradWindowPatterns.some((pattern) => pattern.test(haystack));
   const hasTargetWindow = targetGradPatterns.some((pattern) => pattern.test(haystack));
   return hasExcludedWindow && !hasTargetWindow;
@@ -216,8 +258,9 @@ export function categorize(title, text = "") {
   if (/technical\s+writer|documentation|developer\s+docs|api\s+writer/i.test(haystack)) return "Technical Writing";
   if (/data\s+scientist|data\s+science|applied\s+scientist|analytics|data\s+analyst/i.test(haystack)) return "Data Science";
   if (/aerospace|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+systems|space\s+systems|mission\s+operations/i.test(haystack)) return "Aerospace Engineering";
-  if (/mechanical|manufacturing|hardware|product\s+design|test\s+engineer|robotics/i.test(haystack)) return "Mechanical Engineering";
-  if (/machine\s+learning|\bAI\b|\bML\b|software|developer|\bSWE\b|infrastructure|platform|security|quant|trading|embedded|systems|data\s+engineer/i.test(haystack)) return "Software / AI / ML";
+  if (/mechanical|manufacturing|hardware|fpga|asic|silicon|electrical|product\s+design/i.test(haystack)) return "Mechanical Engineering";
+  if (/machine\s+learning|deep\s+learning|\bAI\b|\bML\b|software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|firmware|network|devops|infrastructure|platform|reliability|\bSRE\b|security|quant|trading|embedded|systems|data\s+engineer|forward\s+deployed\s+engineering|research\s+scientist/i.test(haystack)) return "Software / AI / ML";
+  if (/test\s+engineer|robotics/i.test(haystack)) return "Mechanical Engineering";
   return "Other";
 }
 
@@ -233,8 +276,13 @@ export function priorityFor(title, sourcePriority) {
 
 export function isFreshEnough(lead) {
   const title = roleTitle(lead);
-  const context = `${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
+  const context = `${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}\n${lead.season_hint ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}\n${lead.role_type ?? ""}\n${lead.discipline ?? ""}`;
   if (excludedDirectApplyUrls.has(normalize(applyUrl(lead)))) return false;
+  if (!isDirectEmployerApplyUrl(applyUrl(lead))) return false;
+  if (/\.\.\.$/.test(title)) return false;
+  if (/\.\.\.$/.test(normalize(lead.location))) return false;
+  const urlYearEvidence = applyUrl(lead).replace(/[-_/]+/g, " ");
+  if (/\b2026\b/i.test(urlYearEvidence) && !/\b2027\b/i.test(urlYearEvidence)) return false;
   if (!isRelevant(title)) return false;
   if (!isEligibleRole(title, context)) return false;
   if (/2027/.test(`${lead.graduation_match ?? ""}\n${lead.grad_window ?? ""}`)) return true;
@@ -249,9 +297,12 @@ export function isFreshEnough(lead) {
 export function isAllowedLocation(lead) {
   const location = normalize(lead.location);
   if (!location) return false;
-  if (explicitUnitedStatesLocationPatterns.some((pattern) => pattern.test(location))) return true;
-  if (excludedLocationPatterns.some((pattern) => pattern.test(location))) return false;
-  return namedUnitedStatesStatePattern.test(location);
+  return location.split(/[;\n]+/).some((part) => {
+    const segment = normalize(part);
+    if (!segment || excludedLocationPatterns.some((pattern) => pattern.test(segment))) return false;
+    if (explicitUnitedStatesLocationPatterns.some((pattern) => pattern.test(segment))) return true;
+    return namedUnitedStatesStatePattern.test(segment);
+  });
 }
 
 export function fitNotes(title, category) {

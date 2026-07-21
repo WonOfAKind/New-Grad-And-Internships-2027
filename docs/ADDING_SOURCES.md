@@ -54,9 +54,15 @@ Example:
 
 Only use official company or ATS URLs. Avoid unofficial GitHub lists as primary sources.
 
+## Secondary discovery feeds
+
+`data/discovery_feeds.json` may contain curated 2027 lists in JSON or Markdown-table form. These feeds improve breadth but never replace official sources: the parser extracts a direct employer/ATS job link, rejects aggregator and redirect hosts, applies BS/2027/discipline rules, and verifies unseen official pages before a row can appear. Keep the feed's public repository in `homepage` so provenance is auditable.
+
+Use discovery feeds for finding leads across companies that are not yet in `company_sources.json`. Add a normal official ATS source whenever one is discoverable; official adapter data takes precedence over feed metadata.
+
 Public rows are restricted to unambiguous United States locations. Generic `Remote` locations are intentionally excluded unless the posting identifies them as US remote. Roles whose titles target master's, PhD, or mixed BS/MS programs are also excluded; a normal bachelor's role is not excluded merely because its description says a graduate degree is preferred.
 
-Useful runtime controls include `ATS_SOURCE_CONCURRENCY`, `HTML_DETAIL_CONCURRENCY`, `DISCOVERY_CONCURRENCY`, `DISCOVERY_LIMIT`, `DISCOVERY_REFRESH_HOURS`, `SITEMAP_DETAIL_LIMIT`, `FETCH_TIMEOUT_MS`, `FETCH_RETRIES`, and `MIN_ATS_SUCCESS_PERCENT`. Invalid values fail immediately. The scheduled workflow requires at least a 75% successful curated-source scan so a broad outage cannot look like a healthy update.
+Useful runtime controls include `ATS_SOURCE_CONCURRENCY`, `HTML_DETAIL_CONCURRENCY`, `DISCOVERY_CONCURRENCY`, `DISCOVERY_LIMIT`, `DISCOVERY_REFRESH_HOURS`, `DISCOVERY_FEED_CONCURRENCY`, `DISCOVERY_FEED_VERIFY_LIMIT`, `DISCOVERY_FEED_TIMEOUT_MS`, `DISCOVERY_FEED_REVERIFY_HOURS`, `SITEMAP_DETAIL_LIMIT`, `FETCH_TIMEOUT_MS`, `FETCH_RETRIES`, and `MIN_ATS_SUCCESS_PERCENT`. Invalid values fail immediately. The scheduled workflow requires at least a 75% successful curated-source scan so a broad outage cannot look like a healthy update.
 
 Run this before opening a PR:
 

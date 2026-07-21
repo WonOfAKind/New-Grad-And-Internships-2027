@@ -12,6 +12,8 @@ import {
   isFreshEnough,
   keyFor,
   normalize,
+  normalizeCompanyName,
+  normalizeDisplayText,
   normalizePostingDate,
   roleTitle,
   roleType,
@@ -103,12 +105,13 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
     || existingGradWindow
     || (type === "Internship" ? "Internship" : "New grad or university grad");
   const scannedOn = dateOnly(scannedAt);
-  const firstSeen = dateOnly(lead.date_seen) || dateOnly(lead.detected_date) || scannedOn;
+  const candidateFirstSeen = dateOnly(lead.date_seen) || dateOnly(lead.detected_date) || scannedOn;
+  const firstSeen = scannedOn && candidateFirstSeen > scannedOn ? scannedOn : candidateFirstSeen;
   const priorLastSeen = dateOnly(lead.last_seen) || firstSeen;
   return {
-    company: normalize(lead.company),
+    company: normalizeCompanyName(lead.company),
     title: normalize(title),
-    location: normalize(lead.location),
+    location: normalizeDisplayText(lead.location),
     role_type: type,
     discipline,
     compensation: normalize(lead.compensation),
@@ -122,6 +125,9 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
     updated_at: normalize(lead.updated_at),
     source_id: normalize(lead.source_id),
     source_adapter: normalize(lead.source_adapter),
+    discovered_via: normalize(lead.discovered_via),
+    verification_status: normalize(lead.verification_status),
+    verified_at: normalize(lead.verified_at),
     priority: normalize(lead.priority) || "P1",
   };
 }
@@ -137,12 +143,17 @@ export function mergeRoles(existing, candidates, scannedAt) {
     byKey.set(key, {
       ...existingRole,
       ...role,
+      title: /\.\.\.$/.test(role.title) && existingRole?.title ? existingRole.title : role.title,
+      location: /\.\.\.$/.test(role.location) && existingRole?.location ? existingRole.location : role.location,
       compensation: role.compensation || existingRole?.compensation || "",
       date_seen: existingRole?.date_seen || role.date_seen,
       posted_at: role.posted_at || existingRole?.posted_at || "",
       expires_at: role.expires_at || existingRole?.expires_at || "",
       source_id: role.source_id || existingRole?.source_id || "",
       source_adapter: role.source_adapter || existingRole?.source_adapter || "",
+      discovered_via: role.discovered_via || existingRole?.discovered_via || "",
+      verification_status: role.verification_status || existingRole?.verification_status || "",
+      verified_at: role.verified_at || existingRole?.verified_at || "",
       last_seen: dateOnly(scannedAt),
     });
   }
@@ -185,7 +196,7 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
+  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(role[column])).join(",")),
@@ -250,17 +261,39 @@ export function formatReadmeTimestamp(value) {
   }).format(date);
 }
 
-export function renderReadme(roles, coverage, freshCount) {
-  const disciplines = ["Software / AI / ML", "Data Science", "Technical Writing", "Mechanical Engineering", "Aerospace Engineering", "Other"];
+const boardDisciplines = ["Software / AI / ML", "Data Science", "Technical Writing", "Mechanical Engineering", "Aerospace Engineering", "Other"];
+
+export function renderRolePage(roles, coverage, roleTypeName) {
+  const matchingRoles = roles.filter((role) => role.role_type === roleTypeName);
   const sections = [];
-  for (const roleTypeName of ["New Grad", "Internship"]) {
-    sections.push(`## ${roleTypeName} Roles\n`);
-    for (const discipline of disciplines) {
-      const matching = roles.filter((role) => role.role_type === roleTypeName && role.discipline === discipline);
-      if (matching.length === 0 && discipline === "Other") continue;
-      sections.push(`### ${discipline}\n\n${renderTable(matching)}`);
-    }
+  for (const discipline of boardDisciplines) {
+    const matching = matchingRoles.filter((role) => role.discipline === discipline);
+    if (matching.length === 0) continue;
+    sections.push(`## ${discipline}\n\n${renderTable(matching)}`);
   }
+
+  const title = roleTypeName === "Internship" ? "2027 Internship Roles" : "2027 New Grad Roles";
+  const otherBoard = roleTypeName === "Internship"
+    ? "[New Grad Roles](NEW_GRAD.md)"
+    : "[Internship Roles](INTERNSHIPS.md)";
+
+  return `# ${title}
+
+[Project overview](README.md) | ${otherBoard}
+
+Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
+
+Current roles: ${matchingRoles.length}
+
+Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
+
+${sections.join("\n")}
+`;
+}
+
+export function renderReadme(roles, coverage, freshCount) {
+  const newGradCount = roles.filter((role) => role.role_type === "New Grad").length;
+  const internshipCount = roles.filter((role) => role.role_type === "Internship").length;
   return `# New Grad and Internship Roles 2027
 
 Public, GitHub Actions-powered tracker for 2027 new grad and internship roles.
@@ -289,7 +322,12 @@ Structured sources active: ${coverage.structured_sources_runtime ?? coverage.ats
 
 Automatically discovered companies: ${coverage.discovered_companies_active ?? 0}
 
-${sections.join("\n")}
+Secondary discovery feeds healthy: ${coverage.discovery_feeds?.feeds_ok ?? 0}/${coverage.discovery_feeds?.feeds_configured ?? 0}
+
+## Role Boards
+
+- [New Grad Roles](NEW_GRAD.md): ${newGradCount} roles
+- [Internship Roles](INTERNSHIPS.md): ${internshipCount} roles
 
 ## Data Files
 
@@ -307,6 +345,7 @@ ${sections.join("\n")}
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
+- Curated 2027 community lists are used only as secondary discovery inputs. A row is published only with a direct employer/ATS URL, and unseen URLs must pass a live official-page check first.
 - Curated source configuration remains available for sites that do not expose a standard machine-readable surface.
 - Company posting dates and this tracker's first-seen dates are stored separately; tables are newest-first within each section.
 - Closed roles disappear immediately when a complete ATS feed drops them or a partial source confirms closure. Unverifiable roles are removed after ${staleAfterDays} days without a successful sighting.

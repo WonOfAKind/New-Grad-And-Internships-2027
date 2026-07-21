@@ -115,6 +115,7 @@ export async function reconcileRoleLifecycle(existing, currentCandidates, scanRe
     }
     const inferredSources = sourcesByCompany.get(normalize(role.company).toLowerCase()) ?? [];
     const source = successfulSources.get(normalize(role.source_id))
+      ?? (role.source_adapter === "discovery_feed" ? successfulSources.get(`${normalize(role.company).toLowerCase()}|discovery_feed`) : null)
       ?? (inferredSources.length === 1 ? inferredSources[0] : null);
     if (!source) {
       retained.push(role);

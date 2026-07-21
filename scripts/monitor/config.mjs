@@ -27,6 +27,10 @@ export const discoveryErrorRefreshHours = envInteger("DISCOVERY_ERROR_REFRESH_HO
 export const discoveryConcurrency = envInteger("DISCOVERY_CONCURRENCY", 8, { min: 1, max: 32 });
 export const discoveryLimit = envInteger("DISCOVERY_LIMIT", 30, { min: 1, max: 1000 });
 export const sitemapDetailLimit = envInteger("SITEMAP_DETAIL_LIMIT", 30, { min: 1, max: 500 });
+export const discoveryFeedConcurrency = envInteger("DISCOVERY_FEED_CONCURRENCY", 8, { min: 1, max: 24 });
+export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 120, { min: 1, max: 1000 });
+export const discoveryFeedTimeoutMs = envInteger("DISCOVERY_FEED_TIMEOUT_MS", 12000, { min: 1000, max: 120000 });
+export const discoveryFeedReverifyHours = envInteger("DISCOVERY_FEED_REVERIFY_HOURS", 24, { min: 1, max: 168 });
 export const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
@@ -80,6 +84,11 @@ export const titleRolePatterns = [
   /career\s+catalyst/i,
   /product\s+engineer/i,
   /(?:robotics|autonomy|simulation)\s+software\s+engineer/i,
+  /(?:firmware|embedded|fpga|asic|silicon|network|cloud|devops|reliability|systems?|infrastructure|security|cybersecurity)\s+(?:engineer|developer|intern|internship)/i,
+  /(?:developer|researcher|scientist|writer|trader)\s+(?:intern|internship|co[-\s]?op)/i,
+  /(?:intern|internship|co[-\s]?op).*(?:software|developer|firmware|embedded|machine\s+learning|deep\s+learning|\bAI\b|\bML\b|data\s+(?:science|scientist|engineering|engineer|analytics|analyst)|technical\s+writer|documentation|quant|trading|hardware|fpga|asic|mechanical|aerospace|avionics|product\s+design)/i,
+  /(?:quantitative|algorithmic)\s+(?:research|researcher|trading|trader|development|developer)/i,
+  /(?:machine\s+learning|deep\s+learning|artificial\s+intelligence|computer\s+vision)\s+(?:researcher|research|scientist|engineer|intern)/i,
 ];
 
 export const internshipPatterns = [
@@ -115,6 +124,7 @@ export const fullTimeNewGradPatterns = [
 export const internshipEligiblePatterns = [
   /(?:summer|spring|fall|winter)\s+2027\s+(?:intern|internship|co[-\s]?op)/i,
   /(?:intern|internship|co[-\s]?op).*(?:summer|spring|fall|winter)\s+2027/i,
+  /(?:summer|spring|fall|winter)\s+2027/i,
   /2027\s+(?:intern|internship|co[-\s]?op)/i,
   /class\s+of\s+2028/i,
   /grad(?:uating|uation)?\s+(?:in\s+)?(?:fall|winter)?\s*2027/i,

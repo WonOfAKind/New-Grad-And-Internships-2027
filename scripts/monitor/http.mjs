@@ -180,7 +180,7 @@ export function sourceErrorLog(source, errorMessage, phase) {
   const status = sourceErrorStatus(source, errorMessage);
   const log = { company: source.company, adapter: source.adapter, source_kind: source.source_kind ?? "configured", status, error: errorMessage, phase };
   if (status === "blocked") {
-    log.blocked_reason = "Tesla's official careers endpoint denied automated access from this runner; retry later or use the search-index/manual fallback.";
+    log.blocked_reason = "Tesla's official careers endpoint denied automated access from this runner; secondary discovery feeds can still surface direct Tesla job URLs for official-page verification.";
   }
   return log;
 }

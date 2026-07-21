@@ -60,6 +60,10 @@ jobs:
           DISCOVERY_REFRESH_HOURS: "168"
           DISCOVERY_ERROR_REFRESH_HOURS: "6"
           SITEMAP_DETAIL_LIMIT: "30"
+          DISCOVERY_FEED_CONCURRENCY: "8"
+          DISCOVERY_FEED_VERIFY_LIMIT: "120"
+          DISCOVERY_FEED_TIMEOUT_MS: "15000"
+          DISCOVERY_FEED_REVERIFY_HOURS: "24"
           MIN_ATS_SUCCESS_PERCENT: "75"
           STALE_AFTER_DAYS: "21"
 
@@ -69,7 +73,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json
+          git add README.md NEW_GRAD.md INTERNSHIPS.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
             exit 0
