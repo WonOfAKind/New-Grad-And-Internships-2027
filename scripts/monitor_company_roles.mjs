@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 
 import {
   doubleCheckErrors,
+  discoveryVerificationVersion,
   maxNewPerCompany,
   minAtsSuccessPercent,
   staleAfterDays,
@@ -68,7 +69,7 @@ const scanLog = [];
 const atsScan = await scanAtsSources(runtimeSources);
 allCandidates.push(...atsScan.flatMap((result) => result.leads));
 scanLog.push(...flattenLogs(atsScan));
-const feedScan = await scanDiscoveryFeeds(discoveryFeeds, existingLeads);
+const feedScan = await scanDiscoveryFeeds(discoveryFeeds, existingLeads, runtimeSources);
 allCandidates.unshift(...feedScan.leads);
 
 const scannedAt = new Date().toISOString();
@@ -85,7 +86,13 @@ const boardEligibleCandidates = allCandidates
     if (gradDiff !== 0) return gradDiff;
     return Date.parse(b.updated_at || "0") - Date.parse(a.updated_at || "0");
   });
-const lifecycle = await reconcileRoleLifecycle(existingLeads, boardEligibleCandidates, [...atsScan, ...feedScan.scan_results], scannedAt);
+const lifecycle = await reconcileRoleLifecycle(
+  existingLeads,
+  boardEligibleCandidates,
+  [...atsScan, ...feedScan.scan_results],
+  scannedAt,
+  feedScan.confirmed_closed_urls,
+);
 const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
 
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
@@ -150,6 +157,8 @@ const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scanne
   .filter((role) => isRecentlySeen(role, scannedAt))
   .filter(isFreshEnough)
   .filter(isAllowedLocation)
+  .filter((role) => role.source_adapter !== "discovery_feed"
+    || Number(role.verification_version) === discoveryVerificationVersion)
   .filter((role) => role.priority !== "P2");
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(discoveryPath, `${JSON.stringify(discovery.state, null, 2)}\n`, "utf8");

@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-21T03:44:42.612Z",
+  "scanned_at": "2026-07-21T04:09:28.610Z",
   "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
@@ -782,10 +782,8 @@
       "company": "Shield AI",
       "adapter": "lever",
       "source_kind": "discovered",
-      "source_id": "shield ai|lever",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 65,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -1776,8 +1774,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-21T03:44:42.612Z",
-    "elapsed_ms": 89484,
+    "scanned_at": "2026-07-21T04:09:28.610Z",
+    "elapsed_ms": 99157,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 179,
@@ -1787,13 +1785,13 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1684,
-      "official_candidates": 572,
-      "cached_verifications": 397,
+      "rows_parsed": 1683,
+      "official_candidates": 571,
+      "cached_verifications": 346,
       "reverify_hours": 24,
-      "verification_attempts": 120,
-      "verification_successes": 36,
-      "verification_deferred": 55,
+      "verification_attempts": 225,
+      "verification_successes": 93,
+      "verification_deferred": 0,
       "rejection_counts": {
         "untracked discipline": 625,
         "not a 2027 BS internship/new-grad role": 67,
@@ -1804,10 +1802,15 @@
         "marked closed by discovery source": 1,
         "verification: official posting closed: explicit closed-page message": 4,
         "verification: 403 Forbidden": 6,
-        "verification: official page has an excluded recruiting year": 55,
+        "verification: official posting closed: official page does not identify the requisition": 16,
+        "verification: official posting closed: 404 Not Found": 26,
+        "verification: official page has an excluded recruiting year": 35,
+        "verification: official posting closed: redirected away from the requisition": 2,
+        "verification: official posting closed: redirected to an error page": 11,
+        "verification: official posting closed: provider requisition is no longer listed": 19,
         "verification: 404 Not Found": 9,
         "verification: 410 Gone": 2,
-        "verification: official page did not expose a complete title": 8
+        "verification: official page did not expose a complete title": 2
       },
       "errors": []
     },
@@ -1825,8 +1828,8 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 179,
     "total_fetch_attempts": 179,
-    "ok_sources": 169,
-    "error_sources": 9,
+    "ok_sources": 168,
+    "error_sources": 10,
     "blocked_sources": 1,
     "ats_ok_sources": 39,
     "ats_error_sources": 0,
@@ -1834,10 +1837,11 @@
     "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 9
+      "403 Forbidden": 9,
+      "Request Timeout": 1
     },
-    "board_eligible_candidates": 443,
-    "closure_checks": 25,
+    "board_eligible_candidates": 392,
+    "closure_checks": 28,
     "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,

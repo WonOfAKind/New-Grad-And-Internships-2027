@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-21T03:44:42.612Z",
+  "updated_at": "2026-07-21T04:04:29.344Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1369,9 +1369,9 @@
         "site": "shieldai",
         "verified_open_jobs": 413
       },
-      "last_scan_at": "2026-07-21T03:44:42.612Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-07-21T04:04:29.344Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-07-21T03:44:42.612Z"
     },
     "hudson river trading": {

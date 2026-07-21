@@ -41,8 +41,13 @@ import {
   isOfficialJobUrl,
   parseJsonFeed,
   parseMarkdownFeed,
+  providerDescriptorForSeed,
   validateDiscoveryFeeds,
 } from "./feed_discovery.mjs";
+import {
+  officialPageRejection,
+  titlesLikelySame,
+} from "./official_page.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.resolve(__dirname, "..", "..", "data");
@@ -194,6 +199,7 @@ export async function runSelfTests() {
   assertEqual(isAllowedLocation({ location: "Washington, United Kingdom" }), false, "foreign city named like US state");
   assertEqual(isAllowedLocation({ location: "Toronto, Canada; New York, NY" }), true, "multi-location role with US option");
   assertEqual(isAllowedLocation({ location: "Toronto, Ontario, CA" }), false, "Canadian CA abbreviation is not California");
+  assertEqual(isAllowedLocation({ location: "Newmarket, Ontario, CA" }), false, "Canadian province excludes unfamiliar city");
   assertEqual(isDirectEmployerApplyUrl("https://app.ripplematch.com/v2/public/job/abc123"), false, "matching platform URL rejected");
   assertEqual(isDirectEmployerApplyUrl("https://jobs.ashbyhq.com/example/123456"), true, "official ATS URL accepted");
   assertEqual(normalizeCompanyName("Copart ✓"), "Copart", "source status marker removed from company name");
@@ -228,6 +234,7 @@ export async function runSelfTests() {
   }, "2026-07-13T12:00:00Z", { seenNow: false });
   assertEqual(preservedRole.date_seen, "2026-07-05", "first seen is immutable during normalization");
   assertEqual(preservedRole.last_seen, "2026-07-10", "last seen is preserved when role was not observed");
+  assertEqual(toPublicRole({ ...preservedRole, verification_version: 2 }, "2026-07-13T12:00:00Z").verification_version, 2, "verification version is preserved");
   assertEqual(
     compareRoles(
       { role_type: "New Grad", discipline: "Software / AI / ML", company: "Older", title: "Engineer", location: "TX", posted_at: "2026-07-01", date_seen: "2026-07-10" },
@@ -237,6 +244,47 @@ export async function runSelfTests() {
     "newest posting sorts first",
   );
   assertEqual(renderRoleDates({ posted_at: "2026-07-01", date_seen: "2026-07-05" }), "Posted Jul 1, 2026<br>First seen Jul 5, 2026", "posted and first-seen labels");
+  assertTruthy(titlesLikelySame("Software Engineer, New Grad", "New Grad Software Engineer - Example Careers"), "job-title token matching");
+  assertEqual(
+    officialPageRejection(
+      "https://careers.microsoft.com/us/en/job/200042229/Software-Engineer",
+      "https://careers.microsoft.com/v2/global/en/errorPages/404.html",
+      "<title>Microsoft Careers</title>",
+      "Software Engineer",
+    ),
+    "redirected to an error page",
+    "soft 404 redirect",
+  );
+  assertEqual(
+    officialPageRejection(
+      "https://job-boards.greenhouse.io/example/jobs/8049510",
+      "https://job-boards.greenhouse.io/example?error=true",
+      "<title>Example</title>",
+      "Software Engineer I",
+    ),
+    "redirected to an error page",
+    "Greenhouse error redirect",
+  );
+  assertEqual(
+    officialPageRejection(
+      "https://jobs.ashbyhq.com/example/31d09081-f5e7-45e4-b561-1c53d0ca9200",
+      "https://jobs.ashbyhq.com/example/31d09081-f5e7-45e4-b561-1c53d0ca9200",
+      "<title>Jobs</title>",
+      "Software Engineer, New Grad",
+    ),
+    "",
+    "SPA route preserving requisition identity",
+  );
+  assertEqual(
+    providerDescriptorForSeed({ url: "https://jobs.ashbyhq.com/example/31d09081-f5e7-45e4-b561-1c53d0ca9200", company: "Example" }).adapter,
+    "ashby",
+    "Ashby provider descriptor",
+  );
+  assertEqual(
+    providerDescriptorForSeed({ url: "https://example.wd5.myworkdayjobs.com/en-US/External/job/Austin/Engineer_R123", company: "Example" }).site,
+    "External",
+    "Workday provider descriptor",
+  );
   const boardRoles = [
     {
       company: "Example",
@@ -290,6 +338,14 @@ export async function runSelfTests() {
     "2026-07-13T12:00:00Z",
   );
   assertEqual(lifecycle.roles.length, 0, "authoritative source removes missing role");
+  const feedClosedLifecycle = await reconcileRoleLifecycle(
+    [{ ...lifecycleRole, source_adapter: "discovery_feed" }],
+    [],
+    [],
+    "2026-07-13T12:00:00Z",
+    [lifecycleRole.url],
+  );
+  assertEqual(feedClosedLifecycle.roles.length, 0, "confirmed feed closure removes cached role");
   const failedLifecycle = await reconcileRoleLifecycle(
     [lifecycleRole],
     [],

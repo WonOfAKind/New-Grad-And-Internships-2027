@@ -3,6 +3,7 @@ import {
   discoveryFeedReverifyHours,
   discoveryFeedTimeoutMs,
   discoveryFeedVerifyLimit,
+  discoveryVerificationVersion,
 } from "./config.mjs";
 import {
   canonicalApplyUrl,
@@ -20,8 +21,8 @@ import {
   roleType,
 } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText } from "./http.mjs";
-import { closedPageReason } from "./lifecycle.mjs";
 import { htmlJobFromDetail, htmlJobToLead } from "./adapters/html.mjs";
+import { officialPageRejection } from "./official_page.mjs";
 
 const blockedDiscoveryHosts = [
   /(^|\.)github\.com$/i,
@@ -259,19 +260,133 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
   lead.season_hint = seed.season_hint;
   lead.discovered_via = seed.discovered_via;
   lead.discovery_feed = seed.discovery_feed;
-  lead.verification_status = verifiedJob ? "official page verified" : "official verification cached";
+  lead.verification_status = verifiedJob ? "official requisition verified" : "official verification cached";
   lead.verified_at = verifiedJob
     ? new Date().toISOString()
     : normalize(cachedRole?.verified_at) || new Date().toISOString();
   lead.source_id = `${normalizeCompanyName(seed.company).toLowerCase()}|discovery_feed`;
   lead.source_adapter = "discovery_feed";
+  lead.verification_version = discoveryVerificationVersion;
   return lead;
 }
 
-async function verifySeed(seed, timeoutMs) {
+function sourceHintFor(seed, sourceHints, adapter) {
+  const company = normalizeCompanyName(seed.company).toLowerCase();
+  return sourceHints.find((source) => source.adapter === adapter
+    && normalizeCompanyName(source.company).toLowerCase() === company);
+}
+
+export function providerDescriptorForSeed(seed, sourceHints = []) {
+  const url = new URL(seed.url);
+  const segments = url.pathname.split("/").filter(Boolean);
+  if (/^jobs\.ashbyhq\.com$/i.test(url.hostname) && segments.length >= 2) {
+    return { adapter: "ashby", board: segments[0], id: segments[1] };
+  }
+  const greenhousePath = url.pathname.match(/^\/([^/]+)\/jobs\/(\d+)/i);
+  if (/(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io$/i.test(url.hostname) && greenhousePath) {
+    return { adapter: "greenhouse", board: greenhousePath[1], id: greenhousePath[2] };
+  }
+  const greenhouseId = url.searchParams.get("gh_jid");
+  const greenhouseHint = sourceHintFor(seed, sourceHints, "greenhouse");
+  if (greenhouseId && greenhouseHint?.board) {
+    return { adapter: "greenhouse", board: greenhouseHint.board, id: greenhouseId };
+  }
+  if (/^jobs\.lever\.co$/i.test(url.hostname) && segments.length >= 2) {
+    return { adapter: "lever", board: segments[0], id: segments[1] };
+  }
+  const jobIndex = segments.findIndex((segment) => segment.toLowerCase() === "job");
+  if (/\.myworkdayjobs\.com$/i.test(url.hostname) && jobIndex > 0) {
+    return {
+      adapter: "workday",
+      host: url.hostname,
+      tenant: url.hostname.split(".")[0],
+      site: segments[jobIndex - 1],
+      externalPath: `/${segments.slice(jobIndex).join("/")}`,
+    };
+  }
+  return null;
+}
+
+function providerJobToHtmlShape(descriptor, job, seed) {
+  if (descriptor.adapter === "ashby") {
+    return {
+      title: job.title,
+      location: [job.location, ...(job.secondaryLocations ?? []).map((item) => item.location)].filter(Boolean).join("; "),
+      description: job.descriptionPlain ?? job.descriptionHtml ?? "",
+      url: job.jobUrl ?? seed.url,
+      datePosted: job.publishedAt,
+    };
+  }
+  if (descriptor.adapter === "greenhouse") {
+    return {
+      ...job,
+      location: job.location?.name,
+      description: job.content,
+      url: job.absolute_url ?? seed.url,
+      datePosted: job.updated_at,
+    };
+  }
+  if (descriptor.adapter === "lever") {
+    return {
+      title: job.text,
+      location: job.categories?.location,
+      description: `${job.descriptionPlain ?? ""}\n${job.additionalPlain ?? ""}`,
+      url: job.hostedUrl ?? seed.url,
+      datePosted: job.createdAt,
+    };
+  }
+  const info = job.jobPostingInfo ?? job;
+  return {
+    ...info,
+    title: info.title,
+    location: info.location,
+    description: info.jobDescription,
+    url: info.externalUrl ?? seed.url,
+    datePosted: info.startDate,
+    validThrough: info.endDate,
+  };
+}
+
+async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
+  const descriptor = providerDescriptorForSeed(seed, sourceHints);
+  if (!descriptor) return null;
+  try {
+    let job;
+    if (descriptor.adapter === "ashby") {
+      const key = `ashby|${descriptor.board.toLowerCase()}`;
+      if (!cache.has(key)) cache.set(key, fetchJson(`https://api.ashbyhq.com/posting-api/job-board/${descriptor.board}`, timeoutMs));
+      const payload = await cache.get(key);
+      job = (payload.jobs ?? payload.jobPostings ?? []).find((item) => item.id === descriptor.id
+        || item.jobUrl?.includes(descriptor.id) || item.applyUrl?.includes(descriptor.id));
+    } else if (descriptor.adapter === "greenhouse") {
+      const key = `greenhouse|${descriptor.board.toLowerCase()}|${descriptor.id}`;
+      if (!cache.has(key)) cache.set(key, fetchJson(`https://boards-api.greenhouse.io/v1/boards/${descriptor.board}/jobs/${descriptor.id}`, timeoutMs));
+      job = await cache.get(key);
+    } else if (descriptor.adapter === "lever") {
+      const key = `lever|${descriptor.board.toLowerCase()}|${descriptor.id}`;
+      if (!cache.has(key)) cache.set(key, fetchJson(`https://api.lever.co/v0/postings/${descriptor.board}/${descriptor.id}`, timeoutMs));
+      job = await cache.get(key);
+    } else if (descriptor.adapter === "workday") {
+      const endpoint = `https://${descriptor.host}/wday/cxs/${descriptor.tenant}/${descriptor.site}${descriptor.externalPath}`;
+      if (!cache.has(endpoint)) cache.set(endpoint, fetchJson(endpoint, timeoutMs));
+      job = await cache.get(endpoint);
+    }
+    if (!job) throw new Error("provider requisition is no longer listed");
+    return providerJobToHtmlShape(descriptor, job, seed);
+  } catch (error) {
+    if (/\b404\b|not found|no longer listed/i.test(error.message)) {
+      throw new Error(`official posting closed: ${error.message}`);
+    }
+    return null;
+  }
+}
+
+async function verifySeed(seed, timeoutMs, sourceHints, providerCache) {
+  const providerJob = await verifyKnownProvider(seed, sourceHints, timeoutMs, providerCache);
+  if (providerJob) return seedToLead(seed, providerJob);
   const document = await fetchDocument(seed.url, timeoutMs, { redirect: "follow" });
-  const closure = closedPageReason(200, document.text);
-  if (closure) throw new Error(`official posting closed: ${closure}`);
+  const rejection = officialPageRejection(seed.url, document.url, document.text, seed.title);
+  if (rejection) throw new Error(`official posting closed: ${rejection}`);
   const resolvedUrl = canonicalApplyUrl(document.url);
   if (!isOfficialJobUrl(resolvedUrl)) throw new Error("official link redirected to a non-job page");
   const job = htmlJobFromDetail({ company: seed.company }, resolvedUrl, document.text, {
@@ -288,7 +403,7 @@ async function verifySeed(seed, timeoutMs) {
   return seedToLead(seed, job);
 }
 
-export async function scanDiscoveryFeeds(feeds, existingRoles = []) {
+export async function scanDiscoveryFeeds(feeds, existingRoles = [], sourceHints = []) {
   validateDiscoveryFeeds(feeds);
   const fetched = await mapConcurrent(feeds, Math.min(discoveryFeedConcurrency, feeds.length || 1), async (feed) => {
     try {
@@ -323,8 +438,12 @@ export async function scanDiscoveryFeeds(feeds, existingRoles = []) {
     const key = keyFor(seed.company, seed.title, seed.location, seed.url);
     const existingRole = existingByKey.get(key);
     const lastVerifiedMs = Date.parse(existingRole?.verified_at || existingRole?.last_seen || "");
-    const verificationFresh = Number.isFinite(lastVerifiedMs) && Date.now() - lastVerifiedMs < reverifyAfterMs;
-    const migrationFresh = !existingRole?.verified_at && dateOnly(existingRole?.last_seen) === today;
+    const verificationFresh = Number(existingRole?.verification_version) === discoveryVerificationVersion
+      && Number.isFinite(lastVerifiedMs)
+      && Date.now() - lastVerifiedMs < reverifyAfterMs;
+    const migrationFresh = Number(existingRole?.verification_version) === discoveryVerificationVersion
+      && !existingRole?.verified_at
+      && dateOnly(existingRole?.last_seen) === today;
     if (existingRole && (verificationFresh || migrationFresh)) {
       leads.push(seedToLead(seed, null, existingRole));
     } else {
@@ -335,12 +454,13 @@ export async function scanDiscoveryFeeds(feeds, existingRoles = []) {
     || Date.parse(b.seed.posted_at || "0") - Date.parse(a.seed.posted_at || "0"));
   const attempted = verificationQueue.slice(0, discoveryFeedVerifyLimit);
   const deferred = verificationQueue.slice(discoveryFeedVerifyLimit);
-  for (const item of deferred.filter((entry) => entry.existingRole)) {
+  for (const item of deferred.filter((entry) => Number(entry.existingRole?.verification_version) === discoveryVerificationVersion)) {
     leads.push(seedToLead(item.seed, null, item.existingRole));
   }
+  const providerCache = new Map();
   const verification = await mapConcurrent(attempted, discoveryFeedConcurrency, async ({ seed }) => {
     try {
-      return { seed, lead: await verifySeed(seed, discoveryFeedTimeoutMs), error: "" };
+      return { seed, lead: await verifySeed(seed, discoveryFeedTimeoutMs, sourceHints, providerCache), error: "" };
     } catch (error) {
       return { seed, lead: null, error: error.message };
     }
@@ -353,6 +473,9 @@ export async function scanDiscoveryFeeds(feeds, existingRoles = []) {
 
   return {
     leads,
+    confirmed_closed_urls: verification
+      .filter((item) => /^official posting closed:/i.test(item.error))
+      .map((item) => canonicalApplyUrl(item.seed.url)),
     scan_results: [...new Set([...candidatesByUrl.values()].map((seed) => normalizeCompanyName(seed.company)))].map((company) => ({
       source: { company, adapter: "discovery_feed", reconciliation: "partial" },
       leads: leads.filter((lead) => normalizeCompanyName(lead.company) === company),

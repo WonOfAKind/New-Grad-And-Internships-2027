@@ -11,6 +11,8 @@ The monitor is a layered discovery and normalization pipeline.
 7. `output.mjs` preserves first-seen history, merges current roles, sorts each board section newest-first, and renders JSON, CSV, a compact README dashboard, and separate new-grad and internship boards.
 8. `monitor_company_roles.mjs` coordinates those modules and contains no provider parsing.
 
+Secondary-feed rows are published only after an official requisition check. The verifier uses provider APIs for recognized Ashby, Greenhouse, Lever, and Workday URLs, detects soft 404 redirects on other sites, and periodically revalidates cached rows. A feed listing alone is never treated as proof that a role remains open.
+
 ## Source Order
 
 The monitor prefers sources in this order:

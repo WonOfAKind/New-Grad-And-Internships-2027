@@ -12,15 +12,14 @@ import {
   roleTitle,
 } from "./domain.mjs";
 
-const authoritativeAdapters = new Set(["greenhouse", "lever", "ashby", "tesla"]);
-const closedPagePatterns = [
-  /\b(?:job|position|posting|opportunity)\s+(?:is|has been)\s+(?:no longer available|closed|filled|expired)\b/i,
-  /\bno longer accepting applications\b/i,
-  /\bthe (?:job|position|posting) (?:you(?:'re| are) looking for )?(?:has expired|is unavailable|was removed)\b/i,
-  /\bthis (?:job|position|posting) (?:has been closed|is no longer available)\b/i,
-  /\bjob not found\b/i,
-];
+import {
+  closedPageReason,
+  officialPageRejection,
+} from "./official_page.mjs";
 
+export { closedPageReason } from "./official_page.mjs";
+
+const authoritativeAdapters = new Set(["greenhouse", "lever", "ashby", "tesla"]);
 export function sourceIdFor(source) {
   return `${normalize(source.company).toLowerCase()}|${normalize(source.adapter).toLowerCase()}`;
 }
@@ -40,17 +39,6 @@ export function annotateSourceLeads(source, leads) {
   }));
 }
 
-export function closedPageReason(status, html, comparedAt = new Date().toISOString()) {
-  if (status === 404 || status === 410) return `HTTP ${status}`;
-  if (status < 200 || status >= 300) return "";
-  const text = normalize(html);
-  if (closedPagePatterns.some((pattern) => pattern.test(text))) return "explicit closed-page message";
-  for (const match of text.matchAll(/"validThrough"\s*:\s*"([^"]+)"/gi)) {
-    if (isExpiredDate(match[1], comparedAt)) return `expired on ${match[1]}`;
-  }
-  return "";
-}
-
 export async function probeRoleClosure(role, comparedAt) {
   const url = applyUrl(role);
   if (!url) return { closed: false, checked: false, reason: "missing URL" };
@@ -66,7 +54,10 @@ export async function probeRoleClosure(role, comparedAt) {
       },
     });
     const html = [401, 403, 429].includes(response.status) ? "" : await response.text();
-    const reason = closedPageReason(response.status, html, comparedAt);
+    const reason = closedPageReason(response.status, html, comparedAt)
+      || (role.source_adapter === "discovery_feed" && response.ok
+        ? officialPageRejection(url, response.url, html, roleTitle(role), comparedAt)
+        : "");
     return { closed: Boolean(reason), checked: true, reason };
   } catch (error) {
     return { closed: false, checked: false, reason: error.message };
@@ -90,8 +81,9 @@ function successfulSourceMap(scanResults) {
   return sources;
 }
 
-export async function reconcileRoleLifecycle(existing, currentCandidates, scanResults, scannedAt) {
+export async function reconcileRoleLifecycle(existing, currentCandidates, scanResults, scannedAt, confirmedClosedUrls = []) {
   const activeKeys = new Set(currentCandidates.map((lead) => keyFor(lead.company, roleTitle(lead), lead.location, applyUrl(lead))));
+  const confirmedClosed = new Set(confirmedClosedUrls.map((url) => applyUrl({ url })));
   const successfulSources = successfulSourceMap(scanResults);
   const sourcesByCompany = new Map();
   for (const source of successfulSources.values()) {
@@ -104,6 +96,10 @@ export async function reconcileRoleLifecycle(existing, currentCandidates, scanRe
   const closureCandidates = [];
   const removed = [];
   for (const role of existing) {
+    if (confirmedClosed.has(applyUrl(role))) {
+      removed.push({ role, reason: "official verification confirmed closure" });
+      continue;
+    }
     const key = keyFor(role.company, roleTitle(role), role.location, applyUrl(role));
     if (activeKeys.has(key)) {
       retained.push(role);

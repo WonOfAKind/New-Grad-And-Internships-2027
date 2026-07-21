@@ -128,6 +128,7 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
     discovered_via: normalize(lead.discovered_via),
     verification_status: normalize(lead.verification_status),
     verified_at: normalize(lead.verified_at),
+    verification_version: Number(lead.verification_version) || 0,
     priority: normalize(lead.priority) || "P1",
   };
 }
@@ -154,6 +155,7 @@ export function mergeRoles(existing, candidates, scannedAt) {
       discovered_via: role.discovered_via || existingRole?.discovered_via || "",
       verification_status: role.verification_status || existingRole?.verification_status || "",
       verified_at: role.verified_at || existingRole?.verified_at || "",
+      verification_version: role.verification_version || existingRole?.verification_version || 0,
       last_seen: dateOnly(scannedAt),
     });
   }
@@ -196,7 +198,7 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
+  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(role[column])).join(",")),

@@ -31,6 +31,7 @@ export const discoveryFeedConcurrency = envInteger("DISCOVERY_FEED_CONCURRENCY",
 export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 120, { min: 1, max: 1000 });
 export const discoveryFeedTimeoutMs = envInteger("DISCOVERY_FEED_TIMEOUT_MS", 12000, { min: 1000, max: 120000 });
 export const discoveryFeedReverifyHours = envInteger("DISCOVERY_FEED_REVERIFY_HOURS", 24, { min: 1, max: 168 });
+export const discoveryVerificationVersion = 2;
 export const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
@@ -156,6 +157,7 @@ export const excludedDegreeProgramPatterns = [
 
 export const excludedLocationPatterns = [
   /canada|toronto|vancouver|montreal|ottawa/i,
+  /\b(?:Alberta|British Columbia|Manitoba|New Brunswick|Newfoundland(?: and Labrador)?|Northwest Territories|Nova Scotia|Nunavut|Ontario|Prince Edward Island|Quebec|Québec|Saskatchewan|Yukon)\b/i,
   /mexico|brazil|argentina|chile|colombia/i,
   /india|bengaluru|bangalore/i,
   /singapore/i,
