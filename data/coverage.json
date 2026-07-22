@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-22T21:43:24.265Z",
-  "elapsed_ms": 95227,
+  "scanned_at": "2026-07-22T22:41:56.269Z",
+  "elapsed_ms": 90570,
   "companies_in_target_list": 367,
   "ats_sources_configured": 40,
   "structured_sources_runtime": 180,
@@ -12,11 +12,11 @@
     "feeds_error": 0,
     "rows_parsed": 1756,
     "official_candidates": 684,
-    "cached_verifications": 59,
+    "cached_verifications": 56,
     "reverify_hours": 24,
     "verification_attempts": 600,
-    "verification_successes": 64,
-    "verification_deferred": 25,
+    "verification_successes": 67,
+    "verification_deferred": 28,
     "rejection_counts": {
       "untracked discipline": 604,
       "graduate-degree-only role": 64,
@@ -24,7 +24,7 @@
       "non-official application URL": 5,
       "missing required field": 30,
       "marked closed by discovery source": 1,
-      "verification: official page does not confirm 2027 new-grad/intern eligibility": 292,
+      "verification: official page does not confirm 2027 new-grad/intern eligibility": 289,
       "verification: official page has an excluded recruiting year": 71,
       "verification: official posting closed: official page does not identify the requisition": 15,
       "verification: official posting closed: provider requisition is no longer listed": 46,
@@ -40,8 +40,8 @@
     },
     "errors": []
   },
-  "discovery_attempts_this_scan": 0,
-  "discovery_new_sources_this_scan": 0,
+  "discovery_attempts_this_scan": 8,
+  "discovery_new_sources_this_scan": 2,
   "discovery_due_remaining": 0,
   "discovery_status_counts": {
     "none": 157,

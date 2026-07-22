@@ -1,6 +1,30 @@
 {
-  "scanned_at": "2026-07-22T21:43:24.265Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-22T22:41:56.269Z",
+  "fresh_leads": [
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-22T22:41:33.268Z",
+      "verification_version": 5,
+      "priority": "P0"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -40,7 +64,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 64,
+      "matches": 65,
       "phase": "fast-pass"
     },
     {
@@ -70,7 +94,7 @@
       "source_id": "palantir|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 159,
+      "matches": 160,
       "phase": "fast-pass"
     },
     {
@@ -329,7 +353,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 76,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -675,7 +699,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 93,
+      "matches": 94,
       "phase": "fast-pass"
     },
     {
@@ -1667,7 +1691,7 @@
       "source_id": "nextdoor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1784,8 +1808,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-22T21:43:24.265Z",
-    "elapsed_ms": 95227,
+    "scanned_at": "2026-07-22T22:41:56.269Z",
+    "elapsed_ms": 90570,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1797,11 +1821,11 @@
       "feeds_error": 0,
       "rows_parsed": 1756,
       "official_candidates": 684,
-      "cached_verifications": 59,
+      "cached_verifications": 56,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 64,
-      "verification_deferred": 25,
+      "verification_successes": 67,
+      "verification_deferred": 28,
       "rejection_counts": {
         "untracked discipline": 604,
         "graduate-degree-only role": 64,
@@ -1809,7 +1833,7 @@
         "non-official application URL": 5,
         "missing required field": 30,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 292,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 289,
         "verification: official page has an excluded recruiting year": 71,
         "verification: official posting closed: official page does not identify the requisition": 15,
         "verification: official posting closed: provider requisition is no longer listed": 46,
@@ -1825,8 +1849,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 8,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
