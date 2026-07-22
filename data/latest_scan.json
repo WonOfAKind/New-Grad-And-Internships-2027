@@ -1,30 +1,6 @@
 {
-  "scanned_at": "2026-07-22T20:21:46.215Z",
-  "fresh_leads": [
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-22T20:21:24.533Z",
-      "verification_version": 5,
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-22T21:43:24.265Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -84,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 776,
+      "matches": 780,
       "phase": "fast-pass"
     },
     {
@@ -183,7 +159,7 @@
       "source_id": "physical intelligence|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -243,7 +219,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -333,7 +309,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -343,7 +319,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -353,7 +329,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 77,
+      "matches": 76,
       "phase": "fast-pass"
     },
     {
@@ -699,7 +675,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 92,
+      "matches": 93,
       "phase": "fast-pass"
     },
     {
@@ -709,7 +685,7 @@
       "source_id": "xai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 43,
       "phase": "fast-pass"
     },
     {
@@ -1611,7 +1587,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 23,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1691,7 +1667,7 @@
       "source_id": "nextdoor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1808,8 +1784,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-22T20:21:46.215Z",
-    "elapsed_ms": 121075,
+    "scanned_at": "2026-07-22T21:43:24.265Z",
+    "elapsed_ms": 95227,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1819,29 +1795,29 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1759,
-      "official_candidates": 687,
-      "cached_verifications": 58,
+      "rows_parsed": 1756,
+      "official_candidates": 684,
+      "cached_verifications": 59,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 65,
-      "verification_deferred": 29,
+      "verification_successes": 64,
+      "verification_deferred": 25,
       "rejection_counts": {
-        "untracked discipline": 603,
+        "untracked discipline": 604,
         "graduate-degree-only role": 64,
-        "excluded recruiting year": 140,
+        "excluded recruiting year": 139,
         "non-official application URL": 5,
         "missing required field": 30,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 293,
-        "verification: official page has an excluded recruiting year": 72,
-        "verification: official posting closed: official page does not identify the requisition": 16,
-        "verification: official posting closed: provider requisition is no longer listed": 43,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 292,
+        "verification: official page has an excluded recruiting year": 71,
+        "verification: official posting closed: official page does not identify the requisition": 15,
+        "verification: official posting closed: provider requisition is no longer listed": 46,
         "verification: official posting closed: explicit closed-page message": 4,
         "verification: 403 Forbidden": 14,
         "verification: official posting closed: official page shell does not expose the requisition": 38,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
-        "verification: official posting closed: 404 Not Found": 27,
+        "verification: official posting closed: 404 Not Found": 28,
         "verification: official posting closed: redirected away from the requisition": 3,
         "verification: official posting closed: redirected to an error page": 9,
         "verification: 404 Not Found": 12,
@@ -1849,8 +1825,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 9,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
