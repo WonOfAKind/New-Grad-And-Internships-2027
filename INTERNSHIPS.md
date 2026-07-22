@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 21, 2026 at 7:11 PM EDT
+Last updated: July 21, 2026 at 8:05 PM EDT
 
 Current roles: 63
 
@@ -30,7 +30,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Akuna Capital | Software Engineer Intern, Python | Chicago, IL | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018853>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quant Research (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
-| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Akuna Capital | Platform Engineer Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
@@ -42,7 +41,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784609304>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784670261>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784670685>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 grad eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784675441>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784675441>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Los Angeles, CA / Remote (US) | - | 2027 grad eligible | Posted Jul 9, 2026<br>First seen Jul 21, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1784678695>) |
 | Palantir | Software Engineer, Internship | Denver, CO | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249>) |
 | Palantir | Software Engineer, Internship - Defense Tech | New York, NY | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e>) |
 | Palantir | Software Engineer, Internship - Defense Tech | Washington, D.C. | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7>) |
