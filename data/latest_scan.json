@@ -1,6 +1,53 @@
 {
-  "scanned_at": "2026-07-22T16:08:24.597Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-22T17:40:45.770Z",
+  "fresh_leads": [
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-22T17:40:15.388Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "RTX",
+      "title": "2027 Full-time - Patriot Missile Manufacturing Engineer - 2nd Shift - Onsite (MA)",
+      "location": "andover, Massachusetts, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/XMLNAME-2027-Full-time---Patriot-Missile-Manufacturing-Engineer---2nd-Shift---Onsite--MA-_01860859/apply",
+      "source": "https://careers.rtx.com/global/en/search-results",
+      "date_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
+      "posted_at": "2026-07-20",
+      "expires_at": "",
+      "updated_at": "2026-07-21T00:00:00.000+0000",
+      "source_id": "rtx|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -10,7 +57,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 669,
+      "matches": 668,
       "phase": "fast-pass"
     },
     {
@@ -40,7 +87,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 63,
+      "matches": 64,
       "phase": "fast-pass"
     },
     {
@@ -57,10 +104,8 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "source_id": "anduril|greenhouse",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 776,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -119,7 +164,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 229,
+      "matches": 230,
       "phase": "fast-pass"
     },
     {
@@ -219,7 +264,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -376,8 +421,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 162,
       "phase": "fast-pass"
     },
     {
@@ -1379,7 +1426,7 @@
       "source_id": "natera|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1465,7 +1512,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 21,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1772,8 +1819,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-22T16:08:24.597Z",
-    "elapsed_ms": 115208,
+    "scanned_at": "2026-07-22T17:40:45.770Z",
+    "elapsed_ms": 125805,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 179,
@@ -1783,22 +1830,22 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1758,
-      "official_candidates": 681,
-      "cached_verifications": 59,
+      "rows_parsed": 1759,
+      "official_candidates": 683,
+      "cached_verifications": 58,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 64,
-      "verification_deferred": 22,
+      "verification_successes": 65,
+      "verification_deferred": 25,
       "rejection_counts": {
-        "untracked discipline": 608,
+        "untracked discipline": 606,
         "graduate-degree-only role": 64,
-        "excluded recruiting year": 140,
+        "excluded recruiting year": 141,
         "non-official application URL": 5,
         "missing required field": 30,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 297,
-        "verification: official page has an excluded recruiting year": 70,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 295,
+        "verification: official page has an excluded recruiting year": 71,
         "verification: official posting closed: official page does not identify the requisition": 15,
         "verification: official posting closed: provider requisition is no longer listed": 43,
         "verification: official posting closed: explicit closed-page message": 4,
@@ -1813,8 +1860,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 9,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1836,7 +1883,8 @@
     "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "Request Timeout": 1,
+      "403 Forbidden": 10
     },
     "board_eligible_candidates": 147,
     "provider_candidate_checks": 57,
