@@ -1,28 +1,28 @@
 {
-  "scanned_at": "2026-07-22T18:47:48.877Z",
+  "scanned_at": "2026-07-22T20:21:46.215Z",
   "fresh_leads": [
     {
-      "company": "xAI",
-      "title": "Software Engineer - Evals",
-      "location": "Palo Alto, California, United States",
-      "role_type": "New Grad",
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
       "discipline": "Software / AI / ML",
-      "compensation": "$175,000 - $275,000 USD",
-      "grad_window": "Explicit new grad role",
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
-      "source": "https://x.ai/careers",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
       "date_seen": "2026-07-22",
       "last_seen": "2026-07-22",
-      "posted_at": "",
+      "posted_at": "2026-07-14",
       "expires_at": "",
-      "updated_at": "2026-07-22T13:45:07-04:00",
-      "source_id": "xai|greenhouse",
-      "source_adapter": "greenhouse",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-22T20:21:24.533Z",
+      "verification_version": 5,
+      "priority": "P0"
     }
   ],
   "removed_roles": [],
@@ -84,7 +84,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 774,
+      "matches": 776,
       "phase": "fast-pass"
     },
     {
@@ -94,7 +94,7 @@
       "source_id": "palantir|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 156,
+      "matches": 159,
       "phase": "fast-pass"
     },
     {
@@ -104,7 +104,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 39,
+      "matches": 40,
       "phase": "fast-pass"
     },
     {
@@ -143,7 +143,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 230,
+      "matches": 229,
       "phase": "fast-pass"
     },
     {
@@ -193,7 +193,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 21,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -213,7 +213,7 @@
       "source_id": "confluent|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -273,7 +273,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 44,
       "phase": "fast-pass"
     },
     {
@@ -333,7 +333,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -639,7 +639,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -799,7 +799,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 112,
+      "matches": 108,
       "phase": "fast-pass"
     },
     {
@@ -809,7 +809,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 74,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -1349,6 +1349,16 @@
       "phase": "fast-pass"
     },
     {
+      "company": "Cartesia",
+      "adapter": "ashby",
+      "source_kind": "discovered",
+      "source_id": "cartesia|ashby",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 8,
+      "phase": "fast-pass"
+    },
+    {
       "company": "Descript",
       "adapter": "greenhouse",
       "source_kind": "discovered",
@@ -1798,34 +1808,34 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-22T18:47:48.877Z",
-    "elapsed_ms": 113165,
+    "scanned_at": "2026-07-22T20:21:46.215Z",
+    "elapsed_ms": 121075,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
-    "structured_sources_runtime": 179,
-    "discovered_sources_active": 139,
-    "discovered_companies_active": 139,
+    "structured_sources_runtime": 180,
+    "discovered_sources_active": 140,
+    "discovered_companies_active": 140,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1758,
-      "official_candidates": 683,
-      "cached_verifications": 59,
+      "rows_parsed": 1759,
+      "official_candidates": 687,
+      "cached_verifications": 58,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 64,
-      "verification_deferred": 24,
+      "verification_successes": 65,
+      "verification_deferred": 29,
       "rejection_counts": {
-        "untracked discipline": 605,
+        "untracked discipline": 603,
         "graduate-degree-only role": 64,
-        "excluded recruiting year": 141,
+        "excluded recruiting year": 140,
         "non-official application URL": 5,
         "missing required field": 30,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 296,
-        "verification: official page has an excluded recruiting year": 71,
-        "verification: official posting closed: official page does not identify the requisition": 15,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 293,
+        "verification: official page has an excluded recruiting year": 72,
+        "verification: official posting closed: official page does not identify the requisition": 16,
         "verification: official posting closed: provider requisition is no longer listed": 43,
         "verification: official posting closed: explicit closed-page message": 4,
         "verification: 403 Forbidden": 14,
@@ -1839,21 +1849,21 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 9,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
-      "discovered": 139,
-      "error": 28,
+      "discovered": 140,
+      "error": 27,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
     "double_check_attempts": 0,
-    "unique_sources_attempted": 179,
-    "total_fetch_attempts": 179,
-    "ok_sources": 168,
+    "unique_sources_attempted": 180,
+    "total_fetch_attempts": 180,
+    "ok_sources": 169,
     "error_sources": 10,
     "blocked_sources": 1,
     "ats_ok_sources": 39,
