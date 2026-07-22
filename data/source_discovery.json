@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-22T14:21:11.329Z",
+  "updated_at": "2026-07-22T16:08:24.597Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -909,7 +909,7 @@
     },
     "hashicorp": {
       "company": "HashiCorp",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -952,7 +952,7 @@
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -961,7 +961,7 @@
     },
     "wiz": {
       "company": "Wiz",
-      "checked_at": "2026-07-17T13:59:48.463Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -975,17 +975,15 @@
         "sitemaps": [
           "https://wiz.io/sitemap.xml",
           "https://www.wiz.io/sitemap-1.xml",
-          "https://www.wiz.io/sitemap-cve-1.xml",
-          "https://www.wiz.io/sitemap-cve-2.xml",
-          "https://www.wiz.io/sitemap-cve-3.xml"
+          "https://www.wiz.io/sitemap-cve-1.xml"
         ],
         "robotsUrl": "https://www.wiz.io/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-22T14:21:11.329Z",
-      "last_scan_status": "error",
-      "last_scan_error": "404 Not Found",
-      "last_verified_at": "2026-07-17T14:00:56.340Z"
+      "last_scan_at": "2026-07-22T16:08:24.597Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-07-22T16:08:24.597Z"
     },
     "snyk": {
       "company": "Snyk",
@@ -1406,7 +1404,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1415,7 +1413,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1460,7 +1458,7 @@
     },
     "akuna capital": {
       "company": "Akuna Capital",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1484,7 +1482,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-21T21:51:54.059Z",
+      "last_scan_at": "2026-07-22T16:08:24.597Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -1532,7 +1530,7 @@
     },
     "radix trading": {
       "company": "Radix Trading",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1541,7 +1539,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5044,7 +5042,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-07-21T21:50:12.850Z",
+      "checked_at": "2026-07-22T16:06:43.979Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5068,7 +5066,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-21T21:51:54.059Z",
+      "last_scan_at": "2026-07-22T16:08:24.597Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
