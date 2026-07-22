@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 22, 2026 at 1:40 PM EDT
+Last updated: July 22, 2026 at 2:47 PM EDT
 
-Current roles: 53
+Current roles: 54
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,6 +12,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| xAI | Software Engineer - Evals | Palo Alto, California, United States | $175,000 - $275,000 USD | Explicit new grad role | First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5188230007>) |
 | Akuna Capital | Junior Quantitative Developer &amp; Strategist | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8016687>) |
 | Akuna Capital | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8013230>) |
