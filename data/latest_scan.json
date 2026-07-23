@@ -1,76 +1,6 @@
 {
-  "scanned_at": "2026-07-23T14:29:36.641Z",
-  "fresh_leads": [
-    {
-      "company": "GE Appliances",
-      "title": "Edison Engineering Development Program (EEDP) - Software – July 2027",
-      "location": "USA, Louisville, KY",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
-      "source": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
-      "date_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "posted_at": "2026-07-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "ge appliances|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-23T14:29:04.718Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-23T14:29:17.843Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "GE Appliances",
-      "title": "Edison Engineering Development Program (EEDP) - Software - January 2027",
-      "location": "USA, Louisville, KY",
-      "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
-      "source": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
-      "date_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "posted_at": "2026-07-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "ge appliances|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-23T14:29:04.730Z",
-      "verification_version": 5,
-      "priority": "P1"
-    }
-  ],
+  "scanned_at": "2026-07-23T16:14:36.423Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -110,7 +40,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 65,
+      "matches": 66,
       "phase": "fast-pass"
     },
     {
@@ -130,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 778,
+      "matches": 777,
       "phase": "fast-pass"
     },
     {
@@ -150,7 +80,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 40,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -239,7 +169,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -269,7 +199,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 51,
+      "matches": 52,
       "phase": "fast-pass"
     },
     {
@@ -319,7 +249,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 44,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -329,7 +259,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 28,
+      "matches": 30,
       "phase": "fast-pass"
     },
     {
@@ -399,7 +329,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 78,
+      "matches": 80,
       "phase": "fast-pass"
     },
     {
@@ -446,8 +376,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 165,
       "phase": "fast-pass"
     },
     {
@@ -1545,7 +1477,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1852,8 +1784,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-23T14:29:36.641Z",
-    "elapsed_ms": 139840,
+    "scanned_at": "2026-07-23T16:14:36.423Z",
+    "elapsed_ms": 117147,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1863,39 +1795,39 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1789,
-      "official_candidates": 713,
-      "cached_verifications": 3,
+      "rows_parsed": 1787,
+      "official_candidates": 712,
+      "cached_verifications": 60,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 120,
-      "verification_deferred": 110,
+      "verification_successes": 68,
+      "verification_deferred": 52,
       "rejection_counts": {
-        "untracked discipline": 602,
+        "untracked discipline": 599,
         "graduate-degree-only role": 65,
         "excluded recruiting year": 140,
         "missing required field": 32,
         "non-official application URL": 5,
         "marked closed by discovery source": 1,
-        "verification: official posting closed: official page shell does not expose the requisition": 36,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 253,
-        "verification: official posting closed: provider requisition is no longer listed": 47,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 288,
+        "verification: official posting closed: provider requisition is no longer listed": 48,
         "verification: official posting closed: 404 Not Found": 26,
-        "verification: official page has an excluded recruiting year": 70,
+        "verification: official posting closed: official page shell does not expose the requisition": 39,
+        "verification: official page has an excluded recruiting year": 72,
         "verification: official posting closed: official page does not identify the requisition": 14,
         "verification: official posting closed: explicit closed-page message": 4,
-        "verification: 403 Forbidden": 4,
+        "verification: 403 Forbidden": 14,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
         "verification: official posting closed: redirected away from the requisition": 3,
         "verification: official posting closed: redirected to an error page": 9,
         "verification: 404 Not Found": 10,
-        "verification: 410 Gone": 2
+        "verification: 410 Gone": 3
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 7,
+    "discovery_attempts_this_scan": 7,
+    "discovery_new_sources_this_scan": 2,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 140,
@@ -1907,23 +1839,23 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 168,
-    "error_sources": 11,
+    "ok_sources": 169,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 151,
-    "provider_candidate_checks": 58,
+    "board_eligible_candidates": 154,
+    "provider_candidate_checks": 61,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 14,
-    "inactive_provider_checks": 8,
+    "closure_checks": 12,
+    "inactive_provider_checks": 5,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
     "closed_roles_removed": 0,
