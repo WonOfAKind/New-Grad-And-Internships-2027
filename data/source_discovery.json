@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-23T20:44:31.573Z",
+  "updated_at": "2026-07-23T22:40:13.587Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -952,7 +952,7 @@
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1404,7 +1404,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1413,7 +1413,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1458,7 +1458,7 @@
     },
     "akuna capital": {
       "company": "Akuna Capital",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1482,7 +1482,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-23T16:14:36.423Z",
+      "last_scan_at": "2026-07-23T22:40:13.587Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -1530,7 +1530,7 @@
     },
     "radix trading": {
       "company": "Radix Trading",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1539,7 +1539,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5054,7 +5054,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-07-23T16:12:42.588Z",
+      "checked_at": "2026-07-23T22:38:38.227Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5078,7 +5078,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-23T16:14:36.423Z",
+      "last_scan_at": "2026-07-23T22:40:13.587Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
