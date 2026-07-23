@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 23, 2026 at 6:40 PM EDT
+Last updated: July 23, 2026 at 7:36 PM EDT
 
 Current roles: 57
 
@@ -70,7 +70,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| RTX | 2027 Full-time - Patriot Missile Manufacturing Engineer - 2nd Shift - Onsite (MA) | andover, Massachusetts, United States of America | - | Early career | Posted Jul 20, 2026<br>First seen Jul 22, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/XMLNAME-2027-Full-time---Patriot-Missile-Manufacturing-Engineer---2nd-Shift---Onsite--MA-_01860859/apply>) |
+| RTX | 2027 Full-time - Patriot Missile Manufacturing Engineer - 2nd Shift - Onsite (MA) | andover, Massachusetts, United States of America | - | 2027 grad eligible | Posted Jul 20, 2026<br>First seen Jul 22, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/XMLNAME-2027-Full-time---Patriot-Missile-Manufacturing-Engineer---2nd-Shift---Onsite--MA-_01860859/apply>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |

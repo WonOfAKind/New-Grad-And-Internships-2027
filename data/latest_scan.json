@@ -1,30 +1,6 @@
 {
-  "scanned_at": "2026-07-23T22:40:13.587Z",
-  "fresh_leads": [
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-23",
-      "last_seen": "2026-07-23",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-23T22:39:49.763Z",
-      "verification_version": 5,
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-23T23:36:11.870Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -84,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 772,
+      "matches": 770,
       "phase": "fast-pass"
     },
     {
@@ -153,7 +129,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -253,7 +229,7 @@
       "source_id": "labelbox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 2,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -400,10 +376,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 165,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -709,7 +683,7 @@
       "source_id": "xai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 43,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -1808,8 +1782,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-23T22:40:13.587Z",
-    "elapsed_ms": 99687,
+    "scanned_at": "2026-07-23T23:36:11.870Z",
+    "elapsed_ms": 100096,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1821,11 +1795,11 @@
       "feeds_error": 0,
       "rows_parsed": 1791,
       "official_candidates": 712,
-      "cached_verifications": 61,
+      "cached_verifications": 60,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 70,
-      "verification_deferred": 51,
+      "verification_successes": 71,
+      "verification_deferred": 52,
       "rejection_counts": {
         "untracked discipline": 605,
         "graduate-degree-only role": 65,
@@ -1833,10 +1807,10 @@
         "missing required field": 32,
         "non-official application URL": 5,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 283,
-        "verification: official posting closed: 404 Not Found": 29,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 284,
+        "verification: official posting closed: 404 Not Found": 27,
         "verification: official posting closed: provider requisition is no longer listed": 49,
-        "verification: official posting closed: official page shell does not expose the requisition": 39,
+        "verification: official posting closed: official page shell does not expose the requisition": 38,
         "verification: official page has an excluded recruiting year": 70,
         "verification: official posting closed: official page does not identify the requisition": 15,
         "verification: official posting closed: explicit closed-page message": 4,
@@ -1845,12 +1819,13 @@
         "verification: official posting closed: redirected away from the requisition": 3,
         "verification: official posting closed: redirected to an error page": 9,
         "verification: 404 Not Found": 10,
+        "verification: fetch failed": 1,
         "verification: 410 Gone": 3
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 7,
-    "discovery_new_sources_this_scan": 2,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 157,
@@ -1863,23 +1838,23 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 169,
-    "error_sources": 10,
+    "ok_sources": 168,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 157,
-    "provider_candidate_checks": 62,
+    "board_eligible_candidates": 154,
+    "provider_candidate_checks": 59,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 13,
-    "inactive_provider_checks": 5,
+    "closure_checks": 16,
+    "inactive_provider_checks": 8,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
     "closed_roles_removed": 0,
