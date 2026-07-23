@@ -18,7 +18,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-07-23T19:42:48.650Z",
+    "verified_at": "2026-07-23T20:43:49.434Z",
     "verification_version": 5,
     "priority": "P1"
   },
@@ -41,7 +41,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-07-23T19:42:48.317Z",
+    "verified_at": "2026-07-23T20:43:49.447Z",
     "verification_version": 5,
     "priority": "P0"
   },
@@ -616,7 +616,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-07-23T19:43:02.314Z",
+    "verified_at": "2026-07-23T20:44:04.795Z",
     "verification_version": 5,
     "priority": "P1"
   },
@@ -1082,8 +1082,8 @@
   },
   {
     "company": "Bank of America",
-    "title": "Quantitative Data Analytics Summer Analyst Program - 2027",
-    "location": "Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Chicago, Illinois, United States; New York, New York, United States",
+    "title": "Quantitative Data Analyst Summer Analyst",
+    "location": "Atlanta, GA; Charlotte, NC; Chicago, IL; New York, NY",
     "role_type": "New Grad",
     "discipline": "Data Science",
     "compensation": "",
@@ -1098,7 +1098,7 @@
     "source_id": "bank of america|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-07-23T19:42:58.747Z",
     "verification_version": 5,
     "priority": "P1"
@@ -1536,7 +1536,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-07-23T19:42:48.854Z",
+    "verified_at": "2026-07-23T20:43:49.995Z",
     "verification_version": 5,
     "priority": "P0"
   },
@@ -1674,7 +1674,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-07-23T19:42:50.881Z",
+    "verified_at": "2026-07-23T20:43:52.726Z",
     "verification_version": 5,
     "priority": "P0"
   },
@@ -1860,6 +1860,29 @@
     "verification_status": "official verification cached",
     "verified_at": "2026-07-21T04:23:40.986Z",
     "verification_version": 4,
+    "priority": "P0"
+  },
+  {
+    "company": "Walleye Capital",
+    "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+    "location": "Boston, MA",
+    "role_type": "Internship",
+    "discipline": "Software / AI / ML",
+    "compensation": "$20,000/month",
+    "grad_window": "2027 grad eligible",
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+    "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+    "date_seen": "2026-07-23",
+    "last_seen": "2026-07-23",
+    "posted_at": "2026-07-14",
+    "expires_at": "",
+    "updated_at": "",
+    "source_id": "walleye capital|discovery_feed",
+    "source_adapter": "discovery_feed",
+    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+    "verification_status": "official requisition verified",
+    "verified_at": "2026-07-23T20:44:00.600Z",
+    "verification_version": 5,
     "priority": "P0"
   },
   {
