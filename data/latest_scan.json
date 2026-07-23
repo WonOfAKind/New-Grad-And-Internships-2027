@@ -1,6 +1,76 @@
 {
-  "scanned_at": "2026-07-22T23:40:49.735Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-23T14:29:36.641Z",
+  "fresh_leads": [
+    {
+      "company": "GE Appliances",
+      "title": "Edison Engineering Development Program (EEDP) - Software – July 2027",
+      "location": "USA, Louisville, KY",
+      "role_type": "New Grad",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
+      "source": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
+      "date_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "posted_at": "2026-07-23",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "ge appliances|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-23T14:29:04.718Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-23T14:29:17.843Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "GE Appliances",
+      "title": "Edison Engineering Development Program (EEDP) - Software - January 2027",
+      "location": "USA, Louisville, KY",
+      "role_type": "New Grad",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
+      "source": "https://haier.wd3.myworkdayjobs.com/en-US/ge_appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
+      "date_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
+      "posted_at": "2026-07-23",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "ge appliances|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-23T14:29:04.730Z",
+      "verification_version": 5,
+      "priority": "P1"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -10,7 +80,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 668,
+      "matches": 669,
       "phase": "fast-pass"
     },
     {
@@ -30,7 +100,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 274,
+      "matches": 273,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +130,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 780,
+      "matches": 778,
       "phase": "fast-pass"
     },
     {
@@ -70,7 +140,7 @@
       "source_id": "palantir|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 160,
+      "matches": 161,
       "phase": "fast-pass"
     },
     {
@@ -189,7 +259,7 @@
       "source_id": "confluent|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -229,7 +299,7 @@
       "source_id": "labelbox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -239,7 +309,7 @@
       "source_id": "imc trading|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 74,
+      "matches": 76,
       "phase": "fast-pass"
     },
     {
@@ -279,7 +349,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 90,
+      "matches": 89,
       "phase": "fast-pass"
     },
     {
@@ -319,7 +389,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -693,7 +763,7 @@
       "source_id": "cohere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 30,
+      "matches": 31,
       "phase": "fast-pass"
     },
     {
@@ -743,7 +813,7 @@
       "source_id": "pinecone|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -763,7 +833,7 @@
       "source_id": "fireworks ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1249,7 +1319,7 @@
       "source_id": "mistral ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 55,
+      "matches": 54,
       "phase": "fast-pass"
     },
     {
@@ -1329,7 +1399,7 @@
       "source_id": "cartesia|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 8,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1407,7 +1477,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -1782,8 +1852,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-22T23:40:49.735Z",
-    "elapsed_ms": 90909,
+    "scanned_at": "2026-07-23T14:29:36.641Z",
+    "elapsed_ms": 139840,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1793,39 +1863,39 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 1758,
-      "official_candidates": 685,
-      "cached_verifications": 59,
+      "rows_parsed": 1789,
+      "official_candidates": 713,
+      "cached_verifications": 3,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 64,
-      "verification_deferred": 26,
+      "verification_successes": 120,
+      "verification_deferred": 110,
       "rejection_counts": {
-        "untracked discipline": 605,
-        "graduate-degree-only role": 64,
+        "untracked discipline": 602,
+        "graduate-degree-only role": 65,
         "excluded recruiting year": 140,
+        "missing required field": 32,
         "non-official application URL": 5,
-        "missing required field": 30,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 292,
-        "verification: official page has an excluded recruiting year": 71,
-        "verification: official posting closed: official page does not identify the requisition": 15,
-        "verification: official posting closed: provider requisition is no longer listed": 46,
+        "verification: official posting closed: official page shell does not expose the requisition": 36,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 253,
+        "verification: official posting closed: provider requisition is no longer listed": 47,
+        "verification: official posting closed: 404 Not Found": 26,
+        "verification: official page has an excluded recruiting year": 70,
+        "verification: official posting closed: official page does not identify the requisition": 14,
         "verification: official posting closed: explicit closed-page message": 4,
-        "verification: 403 Forbidden": 14,
-        "verification: official posting closed: official page shell does not expose the requisition": 38,
+        "verification: 403 Forbidden": 4,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
-        "verification: official posting closed: 404 Not Found": 28,
         "verification: official posting closed: redirected away from the requisition": 3,
         "verification: official posting closed: redirected to an error page": 9,
-        "verification: 404 Not Found": 12,
+        "verification: 404 Not Found": 10,
         "verification: 410 Gone": 2
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
-    "discovery_due_remaining": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 7,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 140,
@@ -1848,11 +1918,11 @@
     "error_breakdown": {
       "403 Forbidden": 11
     },
-    "board_eligible_candidates": 148,
+    "board_eligible_candidates": 151,
     "provider_candidate_checks": 58,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 15,
+    "closure_checks": 14,
     "inactive_provider_checks": 8,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
