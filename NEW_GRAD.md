@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 23, 2026 at 1:47 PM EDT
+Last updated: July 23, 2026 at 3:43 PM EDT
 
-Current roles: 56
+Current roles: 57
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -64,6 +64,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
+| Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Chicago, Illinois, United States; New York, New York, United States | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 
 ## Mechanical Engineering
 
@@ -86,6 +87,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
+| Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US, [object Object] | - | Early career | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US, [object Object] | - | Explicit new grad role | Posted Jun 14, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 
