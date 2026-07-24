@@ -1,76 +1,6 @@
 {
-  "scanned_at": "2026-07-24T20:41:09.410Z",
-  "fresh_leads": [
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-24T20:40:50.600Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "PDT Partners",
-      "title": "Summer 2027 Systems Engineering Intern",
-      "location": "New York, NY",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
-      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
-      "date_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "posted_at": "2026-07-24",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "pdt partners|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-24T20:41:03.288Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "location": "New York, NY",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "date_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "posted_at": "2026-07-24",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "pdt partners|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-24T20:40:58.633Z",
-      "verification_version": 5,
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-24T21:45:38.583Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -80,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 671,
+      "matches": 672,
       "phase": "fast-pass"
     },
     {
@@ -189,7 +119,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 232,
+      "matches": 234,
       "phase": "fast-pass"
     },
     {
@@ -553,7 +483,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 82,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
@@ -823,7 +753,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -1459,7 +1389,7 @@
       "source_id": "natera|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 11,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1504,10 +1434,8 @@
       "company": "Remitly",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "source_id": "remitly|html_jobs",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -1852,8 +1780,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-24T20:41:09.410Z",
-    "elapsed_ms": 119239,
+    "scanned_at": "2026-07-24T21:45:38.583Z",
+    "elapsed_ms": 119776,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1863,40 +1791,39 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2235,
+      "rows_parsed": 2233,
       "official_candidates": 853,
-      "cached_verifications": 83,
+      "cached_verifications": 87,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 77,
-      "verification_deferred": 170,
+      "verification_successes": 74,
+      "verification_deferred": 166,
       "rejection_counts": {
-        "untracked discipline": 660,
+        "untracked discipline": 658,
         "missing required field": 248,
         "graduate-degree-only role": 69,
         "excluded recruiting year": 149,
         "non-official application URL": 11,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 249,
-        "verification: official posting closed: provider requisition is no longer listed": 64,
+        "verification: official posting closed: provider requisition is no longer listed": 66,
         "verification: 403 Forbidden": 53,
         "verification: official posting closed: redirected away from the requisition": 7,
         "verification: 404 Not Found": 12,
         "verification: official posting closed: official page shell does not expose the requisition": 49,
-        "verification: official page has an excluded recruiting year": 50,
+        "verification: official page has an excluded recruiting year": 51,
         "verification: official provider verification unavailable: 403 Forbidden": 3,
-        "verification: official posting closed: official page does not identify the requisition": 11,
+        "verification: official posting closed: official page does not identify the requisition": 12,
         "verification: official posting closed: 404 Not Found": 18,
         "verification: 410 Gone": 3,
         "verification: official posting closed: explicit closed-page message": 2,
-        "verification: request timed out after 15000ms": 1,
         "verification: official posting closed: redirected to an error page": 1
       },
       "errors": []
     },
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 10,
-    "discovery_due_remaining": 64,
+    "discovery_new_sources_this_scan": 12,
+    "discovery_due_remaining": 63,
     "discovery_status_counts": {
       "none": 157,
       "discovered": 140,
@@ -1908,8 +1835,8 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 168,
-    "error_sources": 11,
+    "ok_sources": 167,
+    "error_sources": 12,
     "blocked_sources": 1,
     "ats_ok_sources": 38,
     "ats_error_sources": 1,
@@ -1917,7 +1844,7 @@
     "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 12
     },
     "board_eligible_candidates": 175,
     "provider_candidate_checks": 59,

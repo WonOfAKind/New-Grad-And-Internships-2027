@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 24, 2026 at 4:41 PM EDT
+Last updated: July 24, 2026 at 5:45 PM EDT
 
-Current roles: 74
+Current roles: 73
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -39,7 +39,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quant Research (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
-| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | $10,000/month | 2027 internship eligible | Posted Jul 12, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b>) |

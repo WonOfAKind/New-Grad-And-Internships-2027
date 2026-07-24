@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 24, 2026 at 4:41 PM EDT
+Last updated: July 24, 2026 at 5:45 PM EDT
 
 Current roles: 69
 
@@ -76,7 +76,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | SentiLink | Data Scientist, New Grad | United States | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
-| Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Chicago, Illinois, United States; New York, New York, United States | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
+| Bank of America | Quantitative Data Analyst Summer Analyst | Atlanta, GA; Charlotte, NC; Chicago, IL; New York, NY | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 
 ## Mechanical Engineering
 
