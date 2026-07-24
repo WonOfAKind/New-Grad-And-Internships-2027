@@ -1,30 +1,6 @@
 {
-  "scanned_at": "2026-07-24T17:13:59.240Z",
-  "fresh_leads": [
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-24",
-      "last_seen": "2026-07-24",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-24T17:13:41.985Z",
-      "verification_version": 5,
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-07-24T18:47:39.141Z",
+  "fresh_leads": [],
   "removed_roles": [],
   "scan_log": [
     {
@@ -34,7 +10,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 672,
+      "matches": 673,
       "phase": "fast-pass"
     },
     {
@@ -84,7 +60,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 773,
+      "matches": 770,
       "phase": "fast-pass"
     },
     {
@@ -353,7 +329,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 80,
+      "matches": 79,
       "phase": "fast-pass"
     },
     {
@@ -809,7 +785,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 75,
+      "matches": 76,
       "phase": "fast-pass"
     },
     {
@@ -1808,8 +1784,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-24T17:13:59.240Z",
-    "elapsed_ms": 113570,
+    "scanned_at": "2026-07-24T18:47:39.141Z",
+    "elapsed_ms": 125741,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1819,15 +1795,15 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2232,
-      "official_candidates": 850,
+      "rows_parsed": 2235,
+      "official_candidates": 852,
       "cached_verifications": 84,
       "reverify_hours": 24,
       "verification_attempts": 600,
       "verification_successes": 76,
-      "verification_deferred": 166,
+      "verification_deferred": 168,
       "rejection_counts": {
-        "untracked discipline": 659,
+        "untracked discipline": 660,
         "missing required field": 248,
         "graduate-degree-only role": 69,
         "excluded recruiting year": 148,
@@ -1850,7 +1826,7 @@
       "errors": []
     },
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 10,
+    "discovery_new_sources_this_scan": 16,
     "discovery_due_remaining": 64,
     "discovery_status_counts": {
       "none": 157,
