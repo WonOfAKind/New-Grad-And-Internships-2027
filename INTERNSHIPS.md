@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 24, 2026 at 2:47 PM EDT
+Last updated: July 24, 2026 at 4:41 PM EDT
 
-Current roles: 71
+Current roles: 74
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -17,6 +17,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Akuna Capital | Software Engineer Intern, C# .NET Desktop | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018886>) |
 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018847>) |
 | Akuna Capital | Software Engineer Intern, Full Stack Web | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018893>) |
+| PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8077685>) |
+| PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Quadrillion | Software Engineering Intern (Summer 2027) | New York City | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Chicago, IL | - | 2027 grad eligible | Posted Jul 23, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005>) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | $5,000 - $5,800/week | 2027 grad eligible | First seen Jul 23, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624410002>) |
@@ -31,12 +33,13 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Google | Software Engineering Intern | Mountain View, CA; Atlanta, GA; Austin, TX; Boulder, CO; Cambridge, MA; Bellevue, WA; Chicago, IL; Houston, TX; Irvine, CA; Kirkland, WA; Los Angeles, CA; Madison, WI; New York, NY; Palo Alto, CA; Portland, OR; Pittsburgh, PA; Raleigh, NC; Durham, NC; Reston, VA; Redmond, WA; Redwood City, CA; San Diego, CA; Goleta, CA; San Bruno, CA; Seattle, WA; San Francisco, CA; San Jose, CA; Santa Cruz, CA; South San Francisco, CA; Sunnyvale, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027>) |
 | Google | Software Engineering Intern, BS (Summer 2027) | Mountain View, CA (multiple US) | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern>) |
 | Google | Software Engineering Intern, BS, Summer 2027 | United States | - | 2027 internship eligible | First seen Jul 20, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/85564713261245126>) |
-| Solar Turbines | 2027 Internship - Solutions Platforms Engineered | San Diego, California | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
+| Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Milpitas, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quant Research (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
+| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
 | Palantir | Forward Deployed Infrastructure Engineer, Internship - US Government | New York, NY | $10,000/month | 2027 internship eligible | Posted Jul 12, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b>) |

@@ -1,6 +1,76 @@
 {
-  "scanned_at": "2026-07-24T18:47:39.141Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-07-24T20:41:09.410Z",
+  "fresh_leads": [
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-24T20:40:50.600Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Systems Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
+      "date_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "posted_at": "2026-07-24",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-24T20:41:03.288Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "date_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "posted_at": "2026-07-24",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-24T20:40:58.633Z",
+      "verification_version": 5,
+      "priority": "P0"
+    }
+  ],
   "removed_roles": [],
   "scan_log": [
     {
@@ -10,7 +80,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 673,
+      "matches": 671,
       "phase": "fast-pass"
     },
     {
@@ -40,7 +110,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 65,
+      "matches": 66,
       "phase": "fast-pass"
     },
     {
@@ -50,7 +120,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 61,
+      "matches": 62,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +130,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 770,
+      "matches": 779,
       "phase": "fast-pass"
     },
     {
@@ -249,7 +319,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 40,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -309,7 +379,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -376,10 +446,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 168,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -775,7 +843,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 108,
+      "matches": 110,
       "phase": "fast-pass"
     },
     {
@@ -1033,7 +1101,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1784,8 +1852,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-24T18:47:39.141Z",
-    "elapsed_ms": 125741,
+    "scanned_at": "2026-07-24T20:41:09.410Z",
+    "elapsed_ms": 119239,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1796,37 +1864,38 @@
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 2235,
-      "official_candidates": 852,
-      "cached_verifications": 84,
+      "official_candidates": 853,
+      "cached_verifications": 83,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 76,
-      "verification_deferred": 168,
+      "verification_successes": 77,
+      "verification_deferred": 170,
       "rejection_counts": {
         "untracked discipline": 660,
         "missing required field": 248,
         "graduate-degree-only role": 69,
-        "excluded recruiting year": 148,
+        "excluded recruiting year": 149,
         "non-official application URL": 11,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 251,
-        "verification: official posting closed: provider requisition is no longer listed": 63,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 249,
+        "verification: official posting closed: provider requisition is no longer listed": 64,
         "verification: 403 Forbidden": 53,
         "verification: official posting closed: redirected away from the requisition": 7,
         "verification: 404 Not Found": 12,
-        "verification: official posting closed: official page shell does not expose the requisition": 50,
+        "verification: official posting closed: official page shell does not expose the requisition": 49,
         "verification: official page has an excluded recruiting year": 50,
         "verification: official provider verification unavailable: 403 Forbidden": 3,
-        "verification: official posting closed: official page does not identify the requisition": 12,
+        "verification: official posting closed: official page does not identify the requisition": 11,
         "verification: official posting closed: 404 Not Found": 18,
+        "verification: 410 Gone": 3,
         "verification: official posting closed: explicit closed-page message": 2,
-        "verification: official posting closed: redirected to an error page": 1,
-        "verification: 410 Gone": 2
+        "verification: request timed out after 15000ms": 1,
+        "verification: official posting closed: redirected to an error page": 1
       },
       "errors": []
     },
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 16,
+    "discovery_new_sources_this_scan": 10,
     "discovery_due_remaining": 64,
     "discovery_status_counts": {
       "none": 157,
@@ -1839,23 +1908,23 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 180,
     "total_fetch_attempts": 180,
-    "ok_sources": 169,
-    "error_sources": 10,
+    "ok_sources": 168,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 176,
-    "provider_candidate_checks": 62,
+    "board_eligible_candidates": 175,
+    "provider_candidate_checks": 59,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 15,
-    "inactive_provider_checks": 7,
+    "closure_checks": 18,
+    "inactive_provider_checks": 10,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
     "closed_roles_removed": 0,
