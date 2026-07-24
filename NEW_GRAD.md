@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 23, 2026 at 7:36 PM EDT
+Last updated: July 24, 2026 at 10:10 AM EDT
 
-Current roles: 57
+Current roles: 69
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,8 +12,18 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Appian � | Information Security Engineer (2027 Graduate) | McLean, VA, US | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
+| Appian � | Software Engineer (2027 Graduates) | McLean, VA, US | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software - January 2027 | USA, Louisville, KY | - | Early career | Posted Jul 23, 2026<br>First seen Jul 23, 2026 | [Apply](<https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806>) |
 | GE Appliances | Edison Engineering Development Program (EEDP) - Software – July 2027 | USA, Louisville, KY | - | 2027 grad eligible | Posted Jul 23, 2026<br>First seen Jul 23, 2026 | [Apply](<https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807>) |
+| Hipp Health | Software Engineer - New Grad | United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14>) |
+| Julius AI | Software Engineer - Product (New Grad) | San Francisco, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |
+| N1 | New Grad Software Engineer (Backend Rust) | New York City; San Francisco Bay Area; Remote/US; Remote/Europe | $120k - $260k | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd>) |
+| Northwood Space | Software Engineer – General (new grad / early career) | Torrance, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede>) |
+| Perpay | Software Engineer, New Grad | Philadelphia, Pennsylvania, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/perpay/jobs/4034578007>) |
+| PointOne | New Grad Software Engineer | New York City | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9>) |
+| Traba | Software Engineer (New Grad) | New York City, NY | $120,000 | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70>) |
+| Whoop | Software Engineer I (Backend) | Boston, MA | $105,000 - 145,000 | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/whoop/3b94218d-3a5a-4dd1-91c7-5f18655c93a8>) |
 | xAI | Software Engineer - Evals | Palo Alto, California, United States | $175,000 - $275,000 USD | Explicit new grad role | First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5188230007>) |
 | Akuna Capital | Junior Quantitative Developer &amp; Strategist | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8016687>) |
 | Akuna Capital | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
@@ -63,6 +73,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
+| SentiLink | Data Scientist, New Grad | United States | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | Bank of America | Quantitative Data Analyst Summer Analyst | Atlanta, GA; Charlotte, NC; Chicago, IL; New York, NY | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 
@@ -70,7 +82,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| RTX | 2027 Full-time - Patriot Missile Manufacturing Engineer - 2nd Shift - Onsite (MA) | andover, Massachusetts, United States of America | - | 2027 grad eligible | Posted Jul 20, 2026<br>First seen Jul 22, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/XMLNAME-2027-Full-time---Patriot-Missile-Manufacturing-Engineer---2nd-Shift---Onsite--MA-_01860859/apply>) |
+| RTX | 2027 Full-time - Patriot Missile Manufacturing Engineer - 2nd Shift - Onsite (MA) | andover, Massachusetts, United States of America | - | Early career | Posted Jul 20, 2026<br>First seen Jul 22, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/XMLNAME-2027-Full-time---Patriot-Missile-Manufacturing-Engineer---2nd-Shift---Onsite--MA-_01860859/apply>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
