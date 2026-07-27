@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 27, 2026 at 5:48 PM EDT
+Last updated: July 27, 2026 at 7:19 PM EDT
 
-Current roles: 69
+Current roles: 67
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -14,7 +14,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 |---|---|---|---|---|---|---|
 | RTX | Software Engineering Intern (On-site) | US-PA-STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Jul 27, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801>) |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
-| PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 27, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8077685>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Quadrillion | Software Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Akuna Capital | Platform Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
@@ -37,7 +36,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quant Research (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
-| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 27, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
