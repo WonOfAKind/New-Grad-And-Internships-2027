@@ -1,7 +1,67 @@
 {
-  "scanned_at": "2026-07-27T17:08:23.565Z",
-  "fresh_leads": [],
-  "removed_roles": [],
+  "scanned_at": "2026-07-27T18:47:08.077Z",
+  "fresh_leads": [
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "date_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-27T18:46:35.449Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-27T18:46:56.932Z",
+      "verification_version": 5,
+      "priority": "P0"
+    }
+  ],
+  "removed_roles": [
+    {
+      "company": "GE Appliances",
+      "title": "Edison Engineering Development Program (EEDP) - Software - January 2027",
+      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
+      "reason": "official page does not identify the requisition"
+    },
+    {
+      "company": "GE Appliances",
+      "title": "Edison Engineering Development Program (EEDP) - Software – July 2027",
+      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
+      "reason": "official page does not identify the requisition"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -10,7 +70,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 677,
+      "matches": 678,
       "phase": "fast-pass"
     },
     {
@@ -60,7 +120,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 786,
+      "matches": 788,
       "phase": "fast-pass"
     },
     {
@@ -319,7 +379,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 34,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -1231,7 +1291,7 @@
       "source_id": "render|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 11,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1251,7 +1311,7 @@
       "source_id": "mistral ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 53,
+      "matches": 54,
       "phase": "fast-pass"
     },
     {
@@ -1784,8 +1844,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-27T17:08:23.565Z",
-    "elapsed_ms": 115427,
+    "scanned_at": "2026-07-27T18:47:08.077Z",
+    "elapsed_ms": 154408,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1795,29 +1855,30 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2320,
-      "official_candidates": 887,
-      "cached_verifications": 84,
+      "rows_parsed": 2318,
+      "official_candidates": 888,
+      "cached_verifications": 82,
       "reverify_hours": 24,
       "verification_attempts": 600,
       "verification_successes": 74,
-      "verification_deferred": 203,
+      "verification_deferred": 206,
       "rejection_counts": {
-        "untracked discipline": 672,
+        "untracked discipline": 669,
         "missing required field": 266,
         "graduate-degree-only role": 68,
-        "excluded recruiting year": 152,
+        "excluded recruiting year": 153,
         "non-official application URL": 9,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 260,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 258,
         "verification: official page has an excluded recruiting year": 44,
         "verification: 410 Gone": 3,
         "verification: official posting closed: provider requisition is no longer listed": 68,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
-        "verification: official posting closed: official page shell does not expose the requisition": 48,
+        "verification: official posting closed: official page shell does not expose the requisition": 47,
         "verification: 403 Forbidden": 50,
-        "verification: official provider verification unavailable: 403 Forbidden": 3,
+        "verification: 504 Gateway Timeout": 1,
+        "verification: official provider verification unavailable: 403 Forbidden": 5,
         "verification: official posting closed: official page does not identify the requisition": 11,
         "verification: official posting closed: 404 Not Found": 17,
         "verification: official posting closed: explicit closed-page message": 4,
@@ -1826,12 +1887,12 @@
       "errors": []
     },
     "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 15,
-    "discovery_due_remaining": 51,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 21,
     "discovery_status_counts": {
-      "none": 156,
+      "none": 155,
       "discovered": 140,
-      "error": 27,
+      "error": 28,
       "blocked": 4
     },
     "direct_sources_attempted": 0,
@@ -1850,15 +1911,15 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 176,
+    "board_eligible_candidates": 174,
     "provider_candidate_checks": 61,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 14,
-    "inactive_provider_checks": 7,
+    "closure_checks": 16,
+    "inactive_provider_checks": 9,
     "inactive_provider_closed": 0,
-    "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 0,
+    "inactive_provider_unavailable": 2,
+    "closed_roles_removed": 2,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
