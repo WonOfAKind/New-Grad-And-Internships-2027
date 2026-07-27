@@ -1,65 +1,36 @@
 {
-  "scanned_at": "2026-07-27T18:47:08.077Z",
+  "scanned_at": "2026-07-27T20:42:57.618Z",
   "fresh_leads": [
     {
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "location": "New York, NY",
+      "company": "RTX",
+      "title": "Software Engineering Intern (On-site)",
+      "location": "US-PA-STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A",
       "role_type": "Internship",
       "discipline": "Software / AI / ML",
       "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "grad_window": "2027 internship eligible",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
       "date_seen": "2026-07-27",
       "last_seen": "2026-07-27",
-      "posted_at": "2026-07-26",
-      "expires_at": "",
+      "posted_at": "2026-07-27",
+      "expires_at": "2026-07-31",
       "updated_at": "",
-      "source_id": "pdt partners|discovery_feed",
+      "source_id": "rtx|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-27T18:46:35.449Z",
+      "verified_at": "2026-07-27T20:42:54.196Z",
       "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-27",
-      "last_seen": "2026-07-27",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-27T18:46:56.932Z",
-      "verification_version": 5,
-      "priority": "P0"
+      "priority": "P1"
     }
   ],
   "removed_roles": [
     {
-      "company": "GE Appliances",
-      "title": "Edison Engineering Development Program (EEDP) - Software - January 2027",
-      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---January-2027_REQ-25806",
-      "reason": "official page does not identify the requisition"
-    },
-    {
-      "company": "GE Appliances",
-      "title": "Edison Engineering Development Program (EEDP) - Software – July 2027",
-      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Edison-Engineering-Development-Program--EEDP----Software---July-2027_REQ-25807",
-      "reason": "official page does not identify the requisition"
+      "company": "RTX",
+      "title": "Leadership Development Program - Engineering, Systems (Starts June 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply",
+      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -70,7 +41,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 678,
+      "matches": 677,
       "phase": "fast-pass"
     },
     {
@@ -120,7 +91,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 788,
+      "matches": 789,
       "phase": "fast-pass"
     },
     {
@@ -179,7 +150,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 234,
+      "matches": 236,
       "phase": "fast-pass"
     },
     {
@@ -545,7 +516,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 83,
+      "matches": 82,
       "phase": "fast-pass"
     },
     {
@@ -1211,7 +1182,7 @@
       "source_id": "docker|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1469,7 +1440,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -1537,7 +1508,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 23,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1844,8 +1815,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-27T18:47:08.077Z",
-    "elapsed_ms": 154408,
+    "scanned_at": "2026-07-27T20:42:57.618Z",
+    "elapsed_ms": 116954,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1855,29 +1826,28 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2318,
+      "rows_parsed": 2323,
       "official_candidates": 888,
-      "cached_verifications": 82,
+      "cached_verifications": 84,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 74,
-      "verification_deferred": 206,
+      "verification_successes": 73,
+      "verification_deferred": 204,
       "rejection_counts": {
-        "untracked discipline": 669,
+        "untracked discipline": 674,
         "missing required field": 266,
         "graduate-degree-only role": 68,
         "excluded recruiting year": 153,
         "non-official application URL": 9,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 258,
-        "verification: official page has an excluded recruiting year": 44,
+        "verification: official page has an excluded recruiting year": 45,
         "verification: 410 Gone": 3,
         "verification: official posting closed: provider requisition is no longer listed": 68,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
-        "verification: official posting closed: official page shell does not expose the requisition": 47,
+        "verification: official posting closed: official page shell does not expose the requisition": 48,
         "verification: 403 Forbidden": 50,
-        "verification: 504 Gateway Timeout": 1,
         "verification: official provider verification unavailable: 403 Forbidden": 5,
         "verification: official posting closed: official page does not identify the requisition": 11,
         "verification: official posting closed: 404 Not Found": 17,
@@ -1886,9 +1856,9 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 21,
+    "discovery_attempts_this_scan": 21,
+    "discovery_new_sources_this_scan": 5,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 155,
       "discovered": 140,
@@ -1913,13 +1883,13 @@
     },
     "board_eligible_candidates": 174,
     "provider_candidate_checks": 61,
-    "provider_candidate_closed": 0,
+    "provider_candidate_closed": 1,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 16,
-    "inactive_provider_checks": 9,
-    "inactive_provider_closed": 0,
-    "inactive_provider_unavailable": 2,
-    "closed_roles_removed": 2,
+    "closure_checks": 14,
+    "inactive_provider_checks": 8,
+    "inactive_provider_closed": 1,
+    "inactive_provider_unavailable": 0,
+    "closed_roles_removed": 1,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

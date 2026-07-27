@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 27, 2026 at 2:47 PM EDT
+Last updated: July 27, 2026 at 4:42 PM EDT
 
-Current roles: 68
+Current roles: 67
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -65,7 +65,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af>) |
 | Anduril | 2027 Early Career Software Engineer | Atlanta, GA; Boston, MA; Costa Mesa, CA; Irvine, CA; Reston, VA; Seattle, WA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Tower Research Capital | Quantitative Trader - 2027 | New York, Chicago | $150,000 - $250,000 | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
-| RTX | Leadership Development Program - Engineering, Systems (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Jul 6, 2026<br>First seen Jul 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply>) |
 | Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
 | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA,US, [object Object] | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 7, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 
