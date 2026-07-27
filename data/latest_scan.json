@@ -1,38 +1,54 @@
 {
-  "scanned_at": "2026-07-27T20:42:57.618Z",
+  "scanned_at": "2026-07-27T21:48:47.382Z",
   "fresh_leads": [
     {
-      "company": "RTX",
-      "title": "Software Engineering Intern (On-site)",
-      "location": "US-PA-STATE COLLEGE-5A ~ 302 Science Park Rd ~ BLDG 5A",
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
       "role_type": "Internship",
       "discipline": "Software / AI / ML",
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
-      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
       "date_seen": "2026-07-27",
       "last_seen": "2026-07-27",
-      "posted_at": "2026-07-27",
-      "expires_at": "2026-07-31",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "rtx|discovery_feed",
+      "source_id": "pdt partners|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-27T20:42:54.196Z",
+      "verified_at": "2026-07-27T21:48:18.042Z",
       "verification_version": 5,
-      "priority": "P1"
-    }
-  ],
-  "removed_roles": [
+      "priority": "P0"
+    },
     {
-      "company": "RTX",
-      "title": "Leadership Development Program - Engineering, Systems (Starts June 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Systems--Starts-June-2027-_01853288-1/apply",
-      "reason": "official verification confirmed closure"
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-27T21:48:36.961Z",
+      "verification_version": 5,
+      "priority": "P0"
     }
   ],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -91,7 +107,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 789,
+      "matches": 790,
       "phase": "fast-pass"
     },
     {
@@ -101,7 +117,7 @@
       "source_id": "palantir|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 161,
+      "matches": 162,
       "phase": "fast-pass"
     },
     {
@@ -716,7 +732,7 @@
       "source_id": "xai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -806,7 +822,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 115,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -1162,7 +1178,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 43,
       "phase": "fast-pass"
     },
     {
@@ -1815,8 +1831,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-27T20:42:57.618Z",
-    "elapsed_ms": 116954,
+    "scanned_at": "2026-07-27T21:48:47.382Z",
+    "elapsed_ms": 93594,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 180,
@@ -1827,21 +1843,21 @@
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 2323,
-      "official_candidates": 888,
-      "cached_verifications": 84,
+      "official_candidates": 889,
+      "cached_verifications": 82,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 73,
-      "verification_deferred": 204,
+      "verification_successes": 74,
+      "verification_deferred": 207,
       "rejection_counts": {
-        "untracked discipline": 674,
+        "untracked discipline": 677,
         "missing required field": 266,
         "graduate-degree-only role": 68,
         "excluded recruiting year": 153,
         "non-official application URL": 9,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 258,
-        "verification: official page has an excluded recruiting year": 45,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 256,
+        "verification: official page has an excluded recruiting year": 46,
         "verification: 410 Gone": 3,
         "verification: official posting closed: provider requisition is no longer listed": 68,
         "verification: official posting closed: redirected away from the requisition": 5,
@@ -1856,8 +1872,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 21,
-    "discovery_new_sources_this_scan": 5,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 155,
@@ -1881,15 +1897,15 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 174,
+    "board_eligible_candidates": 173,
     "provider_candidate_checks": 61,
     "provider_candidate_closed": 1,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 14,
+    "closure_checks": 15,
     "inactive_provider_checks": 8,
-    "inactive_provider_closed": 1,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 1,
+    "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
