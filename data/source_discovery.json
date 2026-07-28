@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-28T14:34:03.331Z",
+  "updated_at": "2026-07-28T16:23:24.158Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -4790,7 +4790,7 @@
     },
     "ge aerospace": {
       "company": "GE Aerospace",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -4817,7 +4817,7 @@
     },
     "general motors": {
       "company": "General Motors",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -4841,7 +4841,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-27T20:42:57.618Z",
+      "last_scan_at": "2026-07-28T16:23:24.158Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -4878,7 +4878,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4930,7 +4930,7 @@
     },
     "sierra space": {
       "company": "Sierra Space",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5061,7 +5061,7 @@
     },
     "f5": {
       "company": "F5",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5070,7 +5070,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5094,13 +5094,13 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-27T20:42:57.618Z",
+      "last_scan_at": "2026-07-28T16:23:24.158Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
     "ansys": {
       "company": "Ansys",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5109,7 +5109,7 @@
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5127,7 +5127,7 @@
     },
     "john deere": {
       "company": "John Deere",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5136,7 +5136,7 @@
     },
     "caterpillar": {
       "company": "Caterpillar",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5160,7 +5160,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-27T20:42:57.618Z",
+      "last_scan_at": "2026-07-28T16:23:24.158Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -5175,7 +5175,7 @@
     },
     "irobot": {
       "company": "iRobot",
-      "checked_at": "2026-07-27T20:41:05.763Z",
+      "checked_at": "2026-07-28T16:21:37.403Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
