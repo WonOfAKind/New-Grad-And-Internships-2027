@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 28, 2026 at 2:03 PM EDT
+Last updated: July 28, 2026 at 3:51 PM EDT
 
 Current roles: 70
 
@@ -17,7 +17,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Virtu Financial | 2027 Internship - Quantitative Trading | Austin, TX; Chicago; New York | $5,000 - $5,800/week | 2027 grad eligible | First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624408002>) |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
-| PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8077685>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Quadrillion | Software Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Akuna Capital | Platform Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
@@ -30,7 +29,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Akuna Capital | Quantitative Development &amp; Strategy Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8021481>) |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8036614>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 28, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785249237>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 28, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785261813>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 28, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785261813>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 28, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785268267>) |
 | Walleye Capital | Central Equity Quant Research (CEQR) Intern (Summer 2027) | New York, NY | $20,000/month | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006>) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006>) |
 | Walleye Capital | Quantic - Quantitative Researcher Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006>) |
