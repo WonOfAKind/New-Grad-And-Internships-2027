@@ -1,29 +1,6 @@
 {
-  "scanned_at": "2026-07-28T21:21:16.821Z",
+  "scanned_at": "2026-07-28T22:41:44.218Z",
   "fresh_leads": [
-    {
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "location": "New York, NY",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "date_seen": "2026-07-28",
-      "last_seen": "2026-07-28",
-      "posted_at": "2026-07-26",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "pdt partners|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-28T21:20:58.561Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
     {
       "company": "LA-Tech.org",
       "title": "LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA)",
@@ -32,7 +9,7 @@
       "discipline": "Software / AI / ML",
       "compensation": "",
       "grad_window": "2027 grad eligible",
-      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785273670",
+      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785278497",
       "source": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==",
       "date_seen": "2026-07-28",
       "last_seen": "2026-07-28",
@@ -43,7 +20,30 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-28T21:21:10.709Z",
+      "verified_at": "2026-07-28T22:41:37.646Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "Draper",
+      "title": "Electronics & Embedded Systems Intern (Summer 2027)",
+      "location": "Cambridge, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20.00 - $45.00/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
+      "source": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
+      "date_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "posted_at": "2026-07-28",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "draper|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-28T22:41:13.010Z",
       "verification_version": 5,
       "priority": "P0"
     }
@@ -57,7 +57,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 684,
+      "matches": 686,
       "phase": "fast-pass"
     },
     {
@@ -107,7 +107,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 802,
+      "matches": 805,
       "phase": "fast-pass"
     },
     {
@@ -127,7 +127,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 43,
+      "matches": 44,
       "phase": "fast-pass"
     },
     {
@@ -176,7 +176,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 38,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -296,7 +296,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 43,
       "phase": "fast-pass"
     },
     {
@@ -423,8 +423,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 165,
       "phase": "fast-pass"
     },
     {
@@ -830,7 +832,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 78,
+      "matches": 80,
       "phase": "fast-pass"
     },
     {
@@ -1126,7 +1128,7 @@
       "source_id": "hpe|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1602,7 +1604,7 @@
       "source_id": "astranis|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1839,8 +1841,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-28T21:21:16.821Z",
-    "elapsed_ms": 107033,
+    "scanned_at": "2026-07-28T22:41:44.218Z",
+    "elapsed_ms": 105144,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1850,27 +1852,27 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2763,
-      "official_candidates": 1056,
-      "cached_verifications": 89,
+      "rows_parsed": 2770,
+      "official_candidates": 1059,
+      "cached_verifications": 90,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 62,
-      "verification_deferred": 367,
+      "verification_successes": 59,
+      "verification_deferred": 369,
       "rejection_counts": {
-        "untracked discipline": 748,
+        "untracked discipline": 753,
         "missing required field": 342,
         "graduate-degree-only role": 73,
-        "excluded recruiting year": 234,
+        "excluded recruiting year": 233,
         "non-official application URL": 18,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 251,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 252,
         "verification: official posting closed: explicit closed-page message": 13,
         "verification: official page has an excluded recruiting year": 41,
         "verification: 403 Forbidden": 58,
         "verification: official posting closed: 404 Not Found": 12,
         "verification: official posting closed: official page shell does not expose the requisition": 57,
-        "verification: official posting closed: provider requisition is no longer listed": 58,
+        "verification: official posting closed: provider requisition is no longer listed": 60,
         "verification: official posting closed: official page does not identify the requisition": 22,
         "verification: official provider verification unavailable: 403 Forbidden": 8,
         "verification: 404 Not Found": 5,
@@ -1881,8 +1883,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 27,
-    "discovery_new_sources_this_scan": 7,
+    "discovery_attempts_this_scan": 12,
+    "discovery_new_sources_this_scan": 4,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
@@ -1895,22 +1897,22 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 180,
-    "provider_candidate_checks": 60,
+    "board_eligible_candidates": 182,
+    "provider_candidate_checks": 61,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 16,
+    "closure_checks": 17,
     "inactive_provider_checks": 5,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
