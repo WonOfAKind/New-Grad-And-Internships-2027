@@ -1,6 +1,29 @@
 {
-  "scanned_at": "2026-07-28T22:41:44.218Z",
+  "scanned_at": "2026-07-28T23:39:20.538Z",
   "fresh_leads": [
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "date_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-28T23:39:04.332Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
     {
       "company": "LA-Tech.org",
       "title": "LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA)",
@@ -9,7 +32,7 @@
       "discipline": "Software / AI / ML",
       "compensation": "",
       "grad_window": "2027 grad eligible",
-      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785278497",
+      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785281954",
       "source": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==",
       "date_seen": "2026-07-28",
       "last_seen": "2026-07-28",
@@ -20,30 +43,7 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-28T22:41:37.646Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "Draper",
-      "title": "Electronics & Embedded Systems Intern (Summer 2027)",
-      "location": "Cambridge, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20.00 - $45.00/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
-      "source": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
-      "date_seen": "2026-07-28",
-      "last_seen": "2026-07-28",
-      "posted_at": "2026-07-28",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "draper|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-28T22:41:13.010Z",
+      "verified_at": "2026-07-28T23:39:15.054Z",
       "verification_version": 5,
       "priority": "P0"
     }
@@ -57,7 +57,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 686,
+      "matches": 694,
       "phase": "fast-pass"
     },
     {
@@ -67,7 +67,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 116,
+      "matches": 115,
       "phase": "fast-pass"
     },
     {
@@ -166,7 +166,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 236,
+      "matches": 235,
       "phase": "fast-pass"
     },
     {
@@ -266,7 +266,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 16,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -423,10 +423,8 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "source_id": "rtx|phenom",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 165,
+      "status": "error",
+      "error": "403 Forbidden",
       "phase": "fast-pass"
     },
     {
@@ -532,7 +530,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 80,
+      "matches": 79,
       "phase": "fast-pass"
     },
     {
@@ -1841,8 +1839,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-28T22:41:44.218Z",
-    "elapsed_ms": 105144,
+    "scanned_at": "2026-07-28T23:39:20.538Z",
+    "elapsed_ms": 97374,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1852,15 +1850,15 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2770,
-      "official_candidates": 1059,
+      "rows_parsed": 2766,
+      "official_candidates": 1057,
       "cached_verifications": 90,
       "reverify_hours": 24,
       "verification_attempts": 600,
       "verification_successes": 59,
-      "verification_deferred": 369,
+      "verification_deferred": 367,
       "rejection_counts": {
-        "untracked discipline": 753,
+        "untracked discipline": 751,
         "missing required field": 342,
         "graduate-degree-only role": 73,
         "excluded recruiting year": 233,
@@ -1883,8 +1881,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 12,
-    "discovery_new_sources_this_scan": 4,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
@@ -1897,22 +1895,22 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 170,
-    "error_sources": 10,
+    "ok_sources": 169,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 39,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 38,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.5,
+    "ats_success_percent": 95,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 10
+      "403 Forbidden": 11
     },
-    "board_eligible_candidates": 182,
-    "provider_candidate_checks": 61,
+    "board_eligible_candidates": 181,
+    "provider_candidate_checks": 60,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 17,
+    "closure_checks": 18,
     "inactive_provider_checks": 5,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
