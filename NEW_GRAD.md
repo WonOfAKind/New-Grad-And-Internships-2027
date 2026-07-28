@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 27, 2026 at 7:19 PM EDT
+Last updated: July 28, 2026 at 10:34 AM EDT
 
-Current roles: 67
+Current roles: 72
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,13 +12,18 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Appian � | Information Security Engineer (2027 Graduate) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
-| Appian � | Software Engineer (2027 Graduates) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |
+| FlexAI | Software Engineer, New Grad \| FlexAI | San Jose, CA | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674>) |
+| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, California, United States | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
+| RTX | 2027 Conversion - Software Engineer I - St. Petersburg, FL (Onsite) | US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332>) |
+| RTX | 2027 Conversion-Software Engineer I (Onsite) | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17 | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534>) |
+| Symbotic | New Grad- Software Engineer | USA Wilmington, MA - HQ | $96,000.00 - $132,000.00 | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770>) |
+| Appian | Information Security Engineer (2027 Graduate) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
+| Appian | Software Engineer (2027 Graduates) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8>) |
 | RTX | Leadership Development Program - Engineering, Software (Starts June 2027) | Arlington, VA | - | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1>) |
-| Hipp Health | Software Engineer - New Grad | United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14>) |
+| Hipp Health | Software Engineer New Grad | Remote (US) | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14>) |
 | Julius AI | Software Engineer New Grad - Product | San Francisco, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |
 | N1 | New Grad Software Engineer - Backend Rust | San Francisco, CA; New York, NY | $120k - $260k | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd>) |
 | Northwood Space | Software Engineer - New Grad / Early Career | Carson, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede>) |
@@ -73,7 +78,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
-| SentiLink | Data Scientist, New Grad | United States | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
+| SentiLink | Data Scientist - New Grad | Remote (US) | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 20, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | Bank of America | Quantitative Data Analyst Summer Analyst | Atlanta, GA; Charlotte, NC; Chicago, IL; New York, NY | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 
