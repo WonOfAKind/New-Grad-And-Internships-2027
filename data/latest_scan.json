@@ -1,6 +1,29 @@
 {
-  "scanned_at": "2026-07-29T17:36:02.717Z",
+  "scanned_at": "2026-07-29T18:39:55.873Z",
   "fresh_leads": [
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "date_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-29T18:39:35.558Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
     {
       "company": "LA-Tech.org",
       "title": "LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA)",
@@ -9,7 +32,7 @@
       "discipline": "Software / AI / ML",
       "compensation": "",
       "grad_window": "2027 grad eligible",
-      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785346547",
+      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785350386",
       "source": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==",
       "date_seen": "2026-07-29",
       "last_seen": "2026-07-29",
@@ -20,30 +43,7 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-29T17:35:48.019Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-29T17:35:52.773Z",
+      "verified_at": "2026-07-29T18:39:46.516Z",
       "verification_version": 5,
       "priority": "P0"
     }
@@ -67,7 +67,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 116,
+      "matches": 115,
       "phase": "fast-pass"
     },
     {
@@ -87,7 +87,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 68,
+      "matches": 69,
       "phase": "fast-pass"
     },
     {
@@ -107,7 +107,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 807,
+      "matches": 804,
       "phase": "fast-pass"
     },
     {
@@ -622,7 +622,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -802,7 +802,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 21,
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -1298,7 +1298,7 @@
       "source_id": "mistral ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 54,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -1841,8 +1841,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-29T17:36:02.717Z",
-    "elapsed_ms": 109396,
+    "scanned_at": "2026-07-29T18:39:55.873Z",
+    "elapsed_ms": 107624,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1852,33 +1852,33 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2694,
-      "official_candidates": 942,
-      "cached_verifications": 9,
+      "rows_parsed": 2691,
+      "official_candidates": 940,
+      "cached_verifications": 87,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 144,
-      "verification_deferred": 333,
+      "verification_successes": 77,
+      "verification_deferred": 253,
       "rejection_counts": {
         "missing required field": 562,
-        "untracked discipline": 692,
+        "untracked discipline": 688,
         "graduate-degree-only role": 60,
-        "excluded recruiting year": 158,
+        "excluded recruiting year": 159,
         "non-official application URL": 15,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 260,
-        "verification: official posting closed: official page shell does not expose the requisition": 37,
-        "verification: 429 Too Many Requests": 2,
-        "verification: official page has an excluded recruiting year": 42,
-        "verification: official posting closed: provider requisition is no longer listed": 32,
-        "verification: 403 Forbidden": 49,
-        "verification: official posting closed: official page does not identify the requisition": 11,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 293,
+        "verification: official page has an excluded recruiting year": 47,
+        "verification: official posting closed: provider requisition is no longer listed": 43,
+        "verification: 403 Forbidden": 50,
+        "verification: official posting closed: official page does not identify the requisition": 14,
+        "verification: official posting closed: official page shell does not expose the requisition": 45,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
-        "verification: official posting closed: explicit closed-page message": 4,
-        "verification: official posting closed: 404 Not Found": 9,
+        "verification: official posting closed: explicit closed-page message": 5,
+        "verification: official posting closed: 404 Not Found": 13,
         "verification: fetch failed": 1,
         "verification: official posting closed: redirected away from the requisition": 5,
-        "verification: 404 Not Found": 2
+        "verification: 404 Not Found": 4,
+        "verification: official posting closed: redirected to an error page": 1
       },
       "errors": []
     },
@@ -1907,7 +1907,7 @@
     "error_breakdown": {
       "403 Forbidden": 10
     },
-    "board_eligible_candidates": 180,
+    "board_eligible_candidates": 181,
     "provider_candidate_checks": 61,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
