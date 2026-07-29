@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 29, 2026 at 3:58 PM EDT
+Last updated: July 29, 2026 at 5:12 PM EDT
 
-Current roles: 72
+Current roles: 73
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,6 +12,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Flow Traders | Graduate Quantitative Trader | New York | $175,000 | Explicit new grad role | Posted Jul 29, 2026<br>First seen Jul 29, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8094581>) |
 | FlexAI | Software Engineer – New Grad | San Jose, CA | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674>) |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | RTX | Conversion - Software Engineer 1 | St. Petersburg, FL | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332>) |
