@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 29, 2026 at 2:39 PM EDT
+Last updated: July 29, 2026 at 3:58 PM EDT
 
 Current roles: 72
 
@@ -46,7 +46,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Salesforce | Software Engineering AMTS/MTS, College Grad | San Francisco, CA; Palo Alto, CA; Seattle, WA; Bellevue, WA; Dallas, TX | $110,000 - $153,000 annually | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400>) |
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8013085>) |
 | IXL Learning | Software Engineer - New Grad | Raleigh, NC | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615717002>) |
-| IXL Learning | Software Engineer, New Grad | San Mateo, California, US | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
+| IXL Learning | Software Engineer - New Grad | San Mateo, CA | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
 | Qualcomm | System AI Engineer, Display (New Grad Level and up) | Markham, ON,CA, [object Object] | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Jul 16, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada>) |
 | Hudson River Trading | Algorithm Developer (Quant Researcher) – 2027 Grads | New York, NY | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-grads>) |
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | New York, NY; Chicago, IL; Austin, TX | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads>) |
