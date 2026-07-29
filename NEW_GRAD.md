@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 28, 2026 at 7:39 PM EDT
+Last updated: July 29, 2026 at 10:30 AM EDT
 
-Current roles: 73
+Current roles: 72
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -17,7 +17,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | RTX | Conversion - Software Engineer 1 | St. Petersburg, FL | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332>) |
 | RTX | Conversion Software Engineer 1 | Richardson, TX | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534>) |
 | RTX | Java Software Engineer 1 | State College, PA | - | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806>) |
-| Symbotic | New Grad- Software Engineer | Wilmington, MA | $96,000.00 - $132,000.00 | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770>) |
 | Appian | Information Security Engineer (2027 Graduate) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
 | Appian | Software Engineer (2027 Graduates) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8>) |
@@ -71,7 +70,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af>) |
 | Anduril | 2027 Early Career Software Engineer | Atlanta, GA; Boston, MA; Costa Mesa, CA; Irvine, CA; Reston, VA; Seattle, WA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Tower Research Capital | Quantitative Trader - 2027 | New York, Chicago | $150,000 - $250,000 | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
-| Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US, [object Object] | - | Explicit new grad role | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
+| Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US, [object Object] | - | Early career | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
 | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA,US, [object Object] | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 7, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 
 ## Data Science
@@ -103,6 +102,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Micron | New College Grad - OI System Engineer | Manassas, VA,US, [object Object] | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
+| Micron | New College Grad - OI System Engineer | Manassas, VA,US, [object Object] | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 | Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US, [object Object] | - | Early career | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
 
