@@ -1,6 +1,29 @@
 {
-  "scanned_at": "2026-07-30T00:12:26.287Z",
+  "scanned_at": "2026-07-30T14:30:29.439Z",
   "fresh_leads": [
+    {
+      "company": "PDT Partners",
+      "title": "Summer 2027 Software Engineering Intern",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
+      "date_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pdt partners|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-30T14:29:49.852Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
     {
       "company": "LA-Tech.org",
       "title": "LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA)",
@@ -9,10 +32,10 @@
       "discipline": "Software / AI / ML",
       "compensation": "",
       "grad_window": "2027 grad eligible",
-      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785370331",
+      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785421801",
       "source": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==",
-      "date_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
+      "date_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
       "posted_at": "2026-07-21",
       "expires_at": "",
       "updated_at": "",
@@ -20,35 +43,19 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-30T00:12:11.221Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-07-29",
-      "last_seen": "2026-07-29",
-      "posted_at": "2026-07-14",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-30T00:12:15.742Z",
+      "verified_at": "2026-07-30T14:30:01.505Z",
       "verification_version": 5,
       "priority": "P0"
     }
   ],
-  "removed_roles": [],
+  "removed_roles": [
+    {
+      "company": "RTX",
+      "title": "Leadership Development Program - Engineering, Software (Starts June 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
+      "reason": "official verification confirmed closure"
+    }
+  ],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -67,7 +74,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 114,
+      "matches": 113,
       "phase": "fast-pass"
     },
     {
@@ -77,7 +84,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 275,
+      "matches": 276,
       "phase": "fast-pass"
     },
     {
@@ -107,7 +114,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 810,
+      "matches": 815,
       "phase": "fast-pass"
     },
     {
@@ -127,7 +134,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 44,
+      "matches": 47,
       "phase": "fast-pass"
     },
     {
@@ -166,7 +173,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 236,
+      "matches": 235,
       "phase": "fast-pass"
     },
     {
@@ -296,7 +303,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -306,7 +313,7 @@
       "source_id": "tripadvisor|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 34,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -423,8 +430,10 @@
       "company": "RTX",
       "adapter": "phenom",
       "source_kind": "configured",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "rtx|phenom",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 163,
       "phase": "fast-pass"
     },
     {
@@ -620,7 +629,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -750,7 +759,7 @@
       "source_id": "runway|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -830,7 +839,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 77,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -868,7 +877,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 48,
+      "matches": 49,
       "phase": "fast-pass"
     },
     {
@@ -1176,7 +1185,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 37,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -1454,7 +1463,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -1522,7 +1531,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -1542,7 +1551,7 @@
       "source_id": "schonfeld|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -1642,7 +1651,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1839,8 +1848,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-30T00:12:26.287Z",
-    "elapsed_ms": 91885,
+    "scanned_at": "2026-07-30T14:30:29.439Z",
+    "elapsed_ms": 143354,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1850,39 +1859,40 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2696,
-      "official_candidates": 943,
-      "cached_verifications": 89,
+      "rows_parsed": 2734,
+      "official_candidates": 957,
+      "cached_verifications": 88,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 74,
-      "verification_deferred": 254,
+      "verification_successes": 69,
+      "verification_deferred": 269,
       "rejection_counts": {
-        "missing required field": 562,
-        "untracked discipline": 691,
-        "graduate-degree-only role": 60,
-        "excluded recruiting year": 160,
+        "missing required field": 569,
+        "untracked discipline": 699,
+        "graduate-degree-only role": 67,
+        "excluded recruiting year": 162,
         "non-official application URL": 15,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 292,
-        "verification: official posting closed: provider requisition is no longer listed": 45,
-        "verification: official page has an excluded recruiting year": 47,
-        "verification: 403 Forbidden": 50,
-        "verification: official posting closed: official page does not identify the requisition": 14,
-        "verification: official posting closed: official page shell does not expose the requisition": 45,
-        "verification: official provider verification unavailable: 403 Forbidden": 2,
-        "verification: official posting closed: explicit closed-page message": 6,
-        "verification: official posting closed: 404 Not Found": 14,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 284,
+        "verification: official posting closed: official page shell does not expose the requisition": 50,
+        "verification: official provider verification unavailable: 422 Unprocessable Entity": 3,
+        "verification: official posting closed: 404 Not Found": 17,
+        "verification: official page has an excluded recruiting year": 45,
+        "verification: official posting closed: provider requisition is no longer listed": 42,
+        "verification: 410 Gone": 3,
+        "verification: official posting closed: explicit closed-page message": 8,
+        "verification: official posting closed: official page does not identify the requisition": 15,
+        "verification: 404 Not Found": 7,
+        "verification: official posting closed: redirected away from the requisition": 6,
+        "verification: 403 Forbidden": 49,
         "verification: fetch failed": 1,
-        "verification: official posting closed: redirected away from the requisition": 5,
-        "verification: 404 Not Found": 4,
         "verification: official posting closed: redirected to an error page": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
-    "discovery_due_remaining": 0,
+    "discovery_attempts_this_scan": 30,
+    "discovery_new_sources_this_scan": 8,
+    "discovery_due_remaining": 8,
     "discovery_status_counts": {
       "none": 154,
       "discovered": 141,
@@ -1894,26 +1904,26 @@
     "double_check_attempts": 0,
     "unique_sources_attempted": 181,
     "total_fetch_attempts": 181,
-    "ok_sources": 169,
-    "error_sources": 11,
+    "ok_sources": 170,
+    "error_sources": 10,
     "blocked_sources": 1,
-    "ats_ok_sources": 38,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 39,
+    "ats_error_sources": 0,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95,
+    "ats_success_percent": 97.5,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "403 Forbidden": 11
+      "403 Forbidden": 10
     },
-    "board_eligible_candidates": 181,
+    "board_eligible_candidates": 180,
     "provider_candidate_checks": 60,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 29,
-    "inactive_provider_checks": 6,
-    "inactive_provider_closed": 0,
+    "closure_checks": 31,
+    "inactive_provider_checks": 8,
+    "inactive_provider_closed": 1,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 0,
+    "closed_roles_removed": 1,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

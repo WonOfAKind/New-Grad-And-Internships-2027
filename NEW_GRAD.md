@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 29, 2026 at 8:12 PM EDT
+Last updated: July 30, 2026 at 10:30 AM EDT
 
-Current roles: 73
+Current roles: 72
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -23,7 +23,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8>) |
-| RTX | Leadership Development Program - Engineering, Software (Starts June 2027) | Arlington, VA | - | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1>) |
 | Hipp Health | Software Engineer New Grad | Remote (US) | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14>) |
 | Julius AI | Software Engineer New Grad - Product | San Francisco, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |
 | N1 | New Grad Software Engineer - Backend Rust | San Francisco, CA; New York, NY | $120k - $260k | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd>) |
