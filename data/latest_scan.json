@@ -1,29 +1,6 @@
 {
-  "scanned_at": "2026-07-30T14:30:29.439Z",
+  "scanned_at": "2026-07-30T16:14:12.070Z",
   "fresh_leads": [
-    {
-      "company": "PDT Partners",
-      "title": "Summer 2027 Software Engineering Intern",
-      "location": "New York, NY",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "source": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-      "date_seen": "2026-07-30",
-      "last_seen": "2026-07-30",
-      "posted_at": "2026-07-26",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "pdt partners|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-07-30T14:29:49.852Z",
-      "verification_version": 5,
-      "priority": "P0"
-    },
     {
       "company": "LA-Tech.org",
       "title": "LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA)",
@@ -32,7 +9,7 @@
       "discipline": "Software / AI / ML",
       "compensation": "",
       "grad_window": "2027 grad eligible",
-      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785421801",
+      "url": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785428040",
       "source": "https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==",
       "date_seen": "2026-07-30",
       "last_seen": "2026-07-30",
@@ -43,19 +20,35 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-07-30T14:30:01.505Z",
+      "verified_at": "2026-07-30T16:14:00.694Z",
+      "verification_version": 5,
+      "priority": "P0"
+    },
+    {
+      "company": "Walleye Capital",
+      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
+      "location": "Boston, MA",
+      "role_type": "Internship",
+      "discipline": "Software / AI / ML",
+      "compensation": "$20,000/month",
+      "grad_window": "2027 grad eligible",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
+      "date_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "posted_at": "2026-07-14",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "walleye capital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-07-30T16:14:05.999Z",
       "verification_version": 5,
       "priority": "P0"
     }
   ],
-  "removed_roles": [
-    {
-      "company": "RTX",
-      "title": "Leadership Development Program - Engineering, Software (Starts June 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
-      "reason": "official verification confirmed closure"
-    }
-  ],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "SpaceX",
@@ -64,7 +57,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 694,
+      "matches": 693,
       "phase": "fast-pass"
     },
     {
@@ -74,7 +67,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 113,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -84,7 +77,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 276,
+      "matches": 275,
       "phase": "fast-pass"
     },
     {
@@ -173,7 +166,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 235,
+      "matches": 234,
       "phase": "fast-pass"
     },
     {
@@ -233,7 +226,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 28,
       "phase": "fast-pass"
     },
     {
@@ -333,7 +326,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 90,
+      "matches": 91,
       "phase": "fast-pass"
     },
     {
@@ -669,7 +662,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -809,7 +802,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1185,7 +1178,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 38,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -1848,8 +1841,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-07-30T14:30:29.439Z",
-    "elapsed_ms": 143354,
+    "scanned_at": "2026-07-30T16:14:12.070Z",
+    "elapsed_ms": 91321,
     "companies_in_target_list": 367,
     "ats_sources_configured": 40,
     "structured_sources_runtime": 181,
@@ -1859,13 +1852,13 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 2734,
+      "rows_parsed": 2732,
       "official_candidates": 957,
-      "cached_verifications": 88,
+      "cached_verifications": 85,
       "reverify_hours": 24,
       "verification_attempts": 600,
-      "verification_successes": 69,
-      "verification_deferred": 269,
+      "verification_successes": 72,
+      "verification_deferred": 272,
       "rejection_counts": {
         "missing required field": 569,
         "untracked discipline": 699,
@@ -1873,12 +1866,12 @@
         "excluded recruiting year": 162,
         "non-official application URL": 15,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 284,
-        "verification: official posting closed: official page shell does not expose the requisition": 50,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 281,
+        "verification: official posting closed: official page shell does not expose the requisition": 49,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 3,
         "verification: official posting closed: 404 Not Found": 17,
         "verification: official page has an excluded recruiting year": 45,
-        "verification: official posting closed: provider requisition is no longer listed": 42,
+        "verification: official posting closed: provider requisition is no longer listed": 43,
         "verification: 410 Gone": 3,
         "verification: official posting closed: explicit closed-page message": 8,
         "verification: official posting closed: official page does not identify the requisition": 15,
@@ -1890,9 +1883,9 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 30,
-    "discovery_new_sources_this_scan": 8,
-    "discovery_due_remaining": 8,
+    "discovery_attempts_this_scan": 8,
+    "discovery_new_sources_this_scan": 2,
+    "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 154,
       "discovered": 141,
@@ -1919,11 +1912,11 @@
     "provider_candidate_checks": 60,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 31,
-    "inactive_provider_checks": 8,
-    "inactive_provider_closed": 1,
+    "closure_checks": 32,
+    "inactive_provider_checks": 7,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 1,
+    "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
