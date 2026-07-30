@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-30T17:49:55.754Z",
+  "updated_at": "2026-07-30T19:49:29.505Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -3616,7 +3616,7 @@
     },
     "natera": {
       "company": "Natera",
-      "checked_at": "2026-07-24T23:14:06.786Z",
+      "checked_at": "2026-07-30T19:47:58.682Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3628,12 +3628,12 @@
         "source_kind": "discovered",
         "discovered_from": "https://www.natera.com/careers/",
         "board": "natera",
-        "verified_open_jobs": 225
+        "verified_open_jobs": 230
       },
-      "last_scan_at": "2026-07-30T17:49:55.754Z",
-      "last_scan_status": "error",
-      "last_scan_error": "404 Not Found",
-      "last_verified_at": "2026-07-24T23:15:47.659Z"
+      "last_scan_at": "2026-07-30T19:49:29.505Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-07-30T19:49:29.505Z"
     },
     "coinbase": {
       "company": "Coinbase",
