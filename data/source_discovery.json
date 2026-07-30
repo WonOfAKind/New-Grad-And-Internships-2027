@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-07-30T16:14:12.070Z",
+  "updated_at": "2026-07-30T17:49:55.754Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -3630,9 +3630,9 @@
         "board": "natera",
         "verified_open_jobs": 225
       },
-      "last_scan_at": "2026-07-24T23:15:47.659Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-07-30T17:49:55.754Z",
+      "last_scan_status": "error",
+      "last_scan_error": "404 Not Found",
       "last_verified_at": "2026-07-24T23:15:47.659Z"
     },
     "coinbase": {

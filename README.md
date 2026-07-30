@@ -14,7 +14,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: July 30, 2026 at 12:14 PM EDT
+Last updated: July 30, 2026 at 1:49 PM EDT
 
 Companies tracked: 367
 
