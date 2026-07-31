@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: July 31, 2026 at 3:50 PM EDT
+Last updated: July 31, 2026 at 5:19 PM EDT
 
 Current roles: 72
 
@@ -46,7 +46,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Salesforce | Software Engineering AMTS/MTS, College Grad | San Francisco, CA; Palo Alto, CA; Seattle, WA; Bellevue, WA; Dallas, TX | $110,000 - $153,000 annually | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400>) |
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8013085>) |
 | IXL Learning | Software Engineer - New Grad | Raleigh, NC | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615717002>) |
-| IXL Learning | Software Engineer, New Grad | San Mateo, California, US | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
+| IXL Learning | Software Engineer - New Grad | San Mateo, CA | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
 | Qualcomm | System AI Engineer, Display (New Grad Level and up) | Markham, ON,CA, [object Object] | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Jul 16, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446718599884-system-ai-engineer-display-new-grad-level-and-up--markham-ontario-canada>) |
 | Hudson River Trading | Algorithm Developer (Quant Researcher) – 2027 Grads | New York, NY | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2027-grads>) |
 | Hudson River Trading | Software Engineer (C++ or Python) – 2027 Grads | New York, NY; Chicago, IL; Austin, TX | - | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads>) |
@@ -80,7 +80,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 28, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | SentiLink | Data Scientist - New Grad | Remote (US) | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
-| Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Chicago, Illinois, United States; New York, New York, United States | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
+| Bank of America | Quantitative Data Analyst Summer Analyst | Atlanta, GA; Charlotte, NC; Chicago, IL; New York, NY | - | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 
 ## Mechanical Engineering
 
