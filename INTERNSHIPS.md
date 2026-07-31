@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: July 30, 2026 at 8:15 PM EDT
+Last updated: July 31, 2026 at 10:33 AM EDT
 
-Current roles: 91
+Current roles: 93
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,11 +12,11 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Heliux | Software Engineer (Internship, Summer 2027) | HQ (San Francisco, CA) | - | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Jul 31, 2026 | [Apply](<https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef>) |
 | Leidos | Software Developer Intern | Annapolis Junction, MD | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Jul 29, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311>) |
-| Draper | Electronics &amp; Embedded Systems Intern (Summer 2027) | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Jul 28, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735>) |
+| Draper | Electronics &amp; Embedded Systems Intern - Summer 2027 | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Jul 28, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735>) |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Austin, TX; Chicago; New York | $5,000 - $5,800/week | 2027 grad eligible | First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624408002>) |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
-| PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 30, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8077685>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Quadrillion | Software Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Akuna Capital | Platform Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
@@ -49,18 +49,20 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 30, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785440959>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 30, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785446520>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 30, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785451531>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 30, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785456901>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 30, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785456901>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 31, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785508382>) |
 | Walleye Capital | Central Equity Quant Research (CEQR) Intern (Summer 2027) | New York, NY | $20,000/month | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006>) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006>) |
 | Walleye Capital | Quantic - Quantitative Researcher Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006>) |
 | Walleye Capital | Volatility Trading Developer Intern (Summer 2027) | New York, NY | $14,000/month | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679434006>) |
-| Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, MN | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
-| Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
+| Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, United States | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
+| Western Digital | Software Engineering Co-Op - Winter 2027 | Milpitas, CA | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
 | Flow Traders | Quantitative Trading Intern | New York, NY | - | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8047166>) |
 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
+| Walleye Capital | Quantic – Quantitative Developer Intern (Summer 2027) | Boston, MA | $20,000/month | 2027 grad eligible | Posted Jul 14, 2026<br>First seen Jul 31, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
 | Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
