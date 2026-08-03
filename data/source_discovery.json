@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-03T22:01:11.207Z",
+  "updated_at": "2026-08-03T23:25:39.842Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1342,9 +1342,9 @@
         "site": "shieldai",
         "verified_open_jobs": 429
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "hudson river trading": {
@@ -2026,9 +2026,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "home depot technology": {
@@ -2476,9 +2476,9 @@
         "limit": 20,
         "verified_open_jobs": 338
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "cisco": {
@@ -4704,9 +4704,9 @@
         "limit": 20,
         "verified_open_jobs": 748
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "verizon": {
