@@ -23,6 +23,7 @@ import {
   stableJobIdentity,
 } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
+import { amazonJobToHtmlShape, amazonSearchUrl } from "./adapters/amazon.mjs";
 import { htmlJobFromDetail, htmlJobToLead } from "./adapters/html.mjs";
 import { fetchOracleJobDetail, oracleJobToHtmlShape } from "./adapters/oracle.mjs";
 import { officialPageRejection } from "./official_page.mjs";
@@ -298,6 +299,10 @@ export function providerDescriptorForSeed(seed, sourceHints = []) {
   if (/^jobs\.ashbyhq\.com$/i.test(url.hostname) && segments.length >= 2) {
     return { adapter: "ashby", board: segments[0], id: segments[1] };
   }
+  const amazonPath = url.pathname.match(/^\/en\/jobs\/(\d+)/i);
+  if (/^(?:www\.)?amazon\.jobs$/i.test(url.hostname) && amazonPath) {
+    return { adapter: "amazon", baseUrl: url.origin, id: amazonPath[1] };
+  }
   const greenhousePath = url.pathname.match(/^\/([^/]+)\/jobs\/(\d+)/i);
   if (/(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io$/i.test(url.hostname) && greenhousePath) {
     return { adapter: "greenhouse", board: greenhousePath[1], id: greenhousePath[2], host: url.hostname };
@@ -342,6 +347,7 @@ export function workdayRequisitionId(url) {
 }
 
 function providerJobToHtmlShape(descriptor, job, seed) {
+  if (descriptor.adapter === "amazon") return amazonJobToHtmlShape(descriptor, job);
   if (descriptor.adapter === "ashby") {
     return {
       title: job.title,
@@ -387,7 +393,12 @@ export async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
   if (!descriptor) return null;
   try {
     let job;
-    if (descriptor.adapter === "ashby") {
+    if (descriptor.adapter === "amazon") {
+      const key = `amazon|${descriptor.id}`;
+      if (!cache.has(key)) cache.set(key, fetchJson(amazonSearchUrl(descriptor, descriptor.id, 10, 0), timeoutMs));
+      const payload = await cache.get(key);
+      job = (payload.jobs ?? []).find((item) => normalize(item.id_icims) === descriptor.id);
+    } else if (descriptor.adapter === "ashby") {
       const key = `ashby|${descriptor.board.toLowerCase()}`;
       if (!cache.has(key)) cache.set(key, fetchJson(`https://api.ashbyhq.com/posting-api/job-board/${descriptor.board}`, timeoutMs));
       const payload = await cache.get(key);

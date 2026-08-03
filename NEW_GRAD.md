@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 3, 2026 at 7:25 PM EDT
+Last updated: August 3, 2026 at 7:42 PM EDT
 
-Current roles: 125
+Current roles: 134
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,6 +12,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | US, CA, Cupertino | $127,100 - $185,000 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | Early career | First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5167865007>) |
 | ByteDance | Backend and Infra Software Engineer Graduate (Dev Infra US) - 2027 Start | San Jose, CA | $128,000 - $316,800 annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7667894766036322565>) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency &amp; Scheduling) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7668799020705679669>) |
@@ -57,17 +58,25 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | RTX | Conversion - Software Engineer 1 | St. Petersburg, FL | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332>) |
 | RTX | Conversion Software Engineer 1 | Richardson, TX | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534>) |
+| TSC | Software Engineer I | Silver Spring, MD | $83,000 - $108,000 per year | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1>) |
+| Volaris Group | Software Developer I (Analyst) | United States - Worcester, MA | - | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/volarisgroup/Volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1>) |
 | Appian | Information Security Engineer (2027 Graduate) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
 | Appian | Software Engineer (2027 Graduates) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0>) |
 | Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8>) |
+| GM Financial | SDE I- Adobe Exp Platform | Irving, TX, United States | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400>) |
+| GM Financial | Software Development Engineer I (React) | Irving, TX, United States | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901>) |
 | Hipp Health | Software Engineer New Grad | Remote (US) | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14>) |
 | Julius AI | Software Engineer New Grad - Product | San Francisco, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6>) |
+| Maritz | Software Engineer I | Fenton, MO | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306>) |
 | N1 | New Grad Software Engineer - Backend Rust | San Francisco, CA; New York, NY | $120k - $260k | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd>) |
 | Northwood Space | Software Engineer - New Grad / Early Career | Carson, CA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/NorthwoodSpace/b960b661-e1cc-40d0-bde3-290cd1b58ede>) |
 | Perpay | Software Engineer - New Grad | Philadelphia, PA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/perpay/jobs/4034578007>) |
 | PointOne | Software Engineer New Grad | New York, NY | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9>) |
+| Rocket Companies | Android Mobile Software Developer I | Seattle, WA | $118,800.00-$145,200.00 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752>) |
+| Rocket Companies | iOS Mobile Software Developer I | Seattle, WA | $118,800.00-$145,200.00 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1>) |
+| Texas Instruments | New College Graduate - IT - Software Development Engineer Development Program | Dallas, TX, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815>) |
 | Traba | Software Engineer New Grad | New York, NY | $120,000 | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70>) |
 | Uare.ai | Software Engineer - Early Career | Mountain View, CA | $100,000 - $150,000 USD | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/uareai/jobs/4036519009>) |
 | xAI | Software Engineer - Evals | Palo Alto, California, United States | $175,000 - $275,000 USD | Explicit new grad role | First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5188230007>) |
@@ -129,7 +138,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
+| Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Verified early career (BS) | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | TikTok | Design Engineering Graduate (Design System &amp; AI Workflow) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667837906192877829>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |

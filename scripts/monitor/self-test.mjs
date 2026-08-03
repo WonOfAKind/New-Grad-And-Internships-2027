@@ -5,6 +5,7 @@ import {
   canonicalApplyUrl,
   categorize,
   extractCompensation,
+  hasVerifiedEntryLevelEvidence,
   isAllowedLocation,
   isEligibleRole,
   isDirectEmployerApplyUrl,
@@ -17,10 +18,13 @@ import {
   normalizeRoleTitle,
 } from "./domain.mjs";
 import {
+  amazonJobToLead,
+  amazonJobUrl,
   htmlJobFromDetail,
   htmlJobToLead,
   htmlJobUrl,
   isUnitedStatesTikTokJob,
+  isUnitedStatesAmazonJob,
   oracleJobToHtmlShape,
   tiktokJobToLead,
   withScanDeadline,
@@ -133,6 +137,11 @@ export async function runSelfTests() {
     "weekly internship compensation",
   );
   assertEqual(
+    extractCompensation("Software Development Engineer I", "USA, CA, Cupertino - 127,100.00 - 185,000.00 USD annually"),
+    "$127,100 - $185,000",
+    "annual currency range without dollar signs",
+  );
+  assertEqual(
     extractCompensation("Software Engineer Intern - Summer 2027", {
       jobPostingInfo: {
         baseSalary: {
@@ -177,6 +186,31 @@ export async function runSelfTests() {
   assertEqual(isEligibleRole("Software Engineer, Early Career", ""), true, "explicit early-career title accepted");
   assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), true, "explicit entry-level title accepted");
   assertEqual(isEligibleRole("Software Engineer I", ""), false, "generic level-one role rejected");
+  assertEqual(isRelevant("Software Development Engineer I"), true, "software development engineer title coverage");
+  assertEqual(
+    hasVerifiedEntryLevelEvidence(
+      "Software Development Engineer I - AI/ML Network Infrastructure",
+      "We're looking for a talented early-career engineer. Basic qualifications: Bachelor's degree in Computer Science.",
+    ),
+    true,
+    "level-one role with official early-career and bachelor's evidence accepted",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Software Engineer I",
+      "Early career opportunity. Bachelor's degree required. Basic qualifications: 5+ years of non-internship professional software development experience.",
+    ),
+    false,
+    "level-one role with senior experience requirement rejected",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Software Engineer I",
+      "Early career opportunity. Bachelor's degree required. Basic qualifications: 2+ years of professional experience.",
+    ),
+    true,
+    "level-one role with at most two years of required experience accepted",
+  );
   assertEqual(isRelevant("Campus Recruiter, Machine Learning and Quantitative Research"), false, "technical recruiter role rejected");
   assertEqual(isRelevant("2027 Infrastructure Private Equity Investment Associate"), false, "investment role rejected");
   assertEqual(isEligibleRole("Software Engineer, New Grad", ""), true, "explicit new-grad title accepted");
@@ -351,6 +385,11 @@ export async function runSelfTests() {
     providerDescriptorForSeed({ url: "https://jobs.ashbyhq.com/example/31d09081-f5e7-45e4-b561-1c53d0ca9200", company: "Example" }).adapter,
     "ashby",
     "Ashby provider descriptor",
+  );
+  assertEqual(
+    providerDescriptorForSeed({ url: "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i", company: "Amazon" }).id,
+    "10490741",
+    "Amazon provider descriptor",
   );
   assertEqual(
     providerDescriptorForSeed({ url: "https://example.wd5.myworkdayjobs.com/en-US/External/job/Austin/Engineer_R123", company: "Example" }).site,
@@ -600,6 +639,33 @@ export async function runSelfTests() {
   const tiktokLead = tiktokJobToLead({ company: "TikTok", priority: "P0" }, tiktokJob);
   assertEqual(tiktokLead.compensation, "$100,000 - $130,000", "TikTok structured salary");
   assertTruthy(isEligibleRole(tiktokLead.role_title, tiktokJob.description), "TikTok BS/MS graduate eligibility");
+
+  const amazonSource = { company: "Amazon", baseUrl: "https://www.amazon.jobs", priority: "P0" };
+  const amazonJob = {
+    id_icims: "10490741",
+    job_path: "/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+    title: "Software Development Engineer I - AI/ML Network Infrastructure, Annapurna Labs",
+    country_code: "USA",
+    location: "US, CA, Cupertino",
+    posted_date: "August 3, 2026",
+    description: "We're looking for a talented early-career engineer.",
+    basic_qualifications: "Bachelor's degree in Computer Science.",
+    preferred_qualifications: "USA, CA, Cupertino - 127,100.00 - 185,000.00 USD annually",
+  };
+  assertTruthy(isUnitedStatesAmazonJob(amazonJob), "Amazon US job detection");
+  assertEqual(
+    amazonJobUrl(amazonSource, amazonJob),
+    "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+    "Amazon direct job URL",
+  );
+  const amazonLead = amazonJobToLead(amazonSource, amazonJob);
+  assertEqual(amazonLead.compensation, "$127,100 - $185,000", "Amazon API salary extraction");
+  assertEqual(amazonLead.graduation_match, "Verified early career (BS)", "Amazon evidence is retained for board filtering");
+  assertTruthy(isFreshEnough(amazonLead), "Amazon early-career lead survives board freshness filtering");
+  assertTruthy(
+    isEligibleRole(amazonLead.role_title, `${amazonJob.description}\n${amazonJob.basic_qualifications}`),
+    "Amazon early-career eligibility",
+  );
 
   validateConfiguration(
     await readJson(targetPath, []),

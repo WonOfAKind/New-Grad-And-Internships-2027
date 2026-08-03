@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 3, 2026 at 7:25 PM EDT
+Last updated: August 3, 2026 at 7:42 PM EDT
 
 Current roles: 229
 
@@ -108,7 +108,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |
 | Akuna Capital | Quantitative Development &amp; Strategy Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8021481>) |
 | Akuna Capital | Quantitative Research Intern, Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8036614>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
+| LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763>) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006>) |
 | Axon | RenderATL - 2027 US Software Engineering Internship | Seattle, Washington, United States | $45 - $45/hr USD | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003>) |
@@ -117,7 +117,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009>) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009>) |
-| Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, United States | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
+| Western Digital | Software Engineering Intern (Summer 2027) | San Jose, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Intel | AI Software Engineering Intern | Phoenix, AZ | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |
 | Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
 | The Trade Desk | Software Engineering Intern (North America, Summer 2027) | Denver, CO (multiple US) | $46 - $62/hr USD | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007>) |

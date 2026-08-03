@@ -258,6 +258,7 @@ export function graduationMatch(title, text = "") {
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return "Summer 2027 start";
   if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return "Explicit new grad role";
+  if (hasVerifiedEntryLevelEvidence(title, text)) return "Verified early career (BS)";
   if (earlyCareerPatterns.some((pattern) => pattern.test(haystack))) return "Early career";
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
   return "";
@@ -286,7 +287,19 @@ export function hasNewGradEligibilityEvidence(title, text = "") {
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (earlyCareerPatterns.some((pattern) => pattern.test(title))) return true;
+  if (hasVerifiedEntryLevelEvidence(title, text)) return true;
   return /\b2027\b/i.test(title);
+}
+
+export function hasVerifiedEntryLevelEvidence(title, text = "") {
+  const levelOneTitle = /\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader)\s+(?:i|1)\b|\bSDE\s*(?:i|1)\b/i.test(title);
+  if (!levelOneTitle) return false;
+  if (!earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
+  if (!/\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(text)) return false;
+  const requiredText = normalize(text).split(/\bpreferred\s+qualifications?\b/i)[0];
+  const requiredYears = [...requiredText.matchAll(/\b(\d{1,2})(?:\s*\+|\s+or\s+more)?\s+years?\s+(?:of\s+)?(?:[a-z][a-z/-]*\s+){0,8}experience\b/gi)]
+    .map((match) => Number(match[1]));
+  return !requiredYears.some((years) => years >= 3);
 }
 
 export function isEligibleRole(title, text = "") {
@@ -542,10 +555,16 @@ export function extractCompensation(title, ...texts) {
     /\$\s?\d{5,6}(?:\.\d{1,2})?\s*(?:\(?\s*(?:USD|CAD|GBP|EUR)\s*\)?|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
     /\$\s?\d{2,3}\s?k\b\s*(?:USD|per\s+year|annually|\/\s?(?:year|yr)|year|yr)\b/i,
   ];
+  const currencyNumberRange = haystack.match(/\b(\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?)\s*(?:-|[\u2013\u2014]|to)\s*(\d{2,3}(?:,\d{3})+(?:\.\d{1,2})?)\s*(USD|CAD|GBP|EUR)\s*(?:annually|per\s+year|yearly)\b/i);
   if (isInternship) {
     const periodic = findCompensation(periodicPatterns, haystack);
     if (periodic) return periodic;
     return ensureHourlySuffix(findCompensation(hourlyPatterns, haystack) || structuredCompensation || compensationFromMoneyFallback(haystack, true));
+  }
+  if (currencyNumberRange) {
+    const min = formatMoneyValue(currencyNumberRange[1], currencyNumberRange[3]);
+    const max = formatMoneyValue(currencyNumberRange[2], currencyNumberRange[3]);
+    if (min && max) return `${min} - ${max}`;
   }
   return findCompensation(salaryPatterns, haystack, true) || structuredCompensation || compensationFromMoneyFallback(haystack, false);
 }

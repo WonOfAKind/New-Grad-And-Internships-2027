@@ -8,6 +8,7 @@ import {
 } from "./config.mjs";
 import { absoluteHttpUrl, mapConcurrent, normalize } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
+import { amazonSearchUrl } from "./adapters/amazon.mjs";
 import { oracleSearchUrl } from "./adapters/oracle.mjs";
 
 const crawlerProduct = "CodexJobMonitor";
@@ -196,6 +197,14 @@ export function detectAtsSources(target, candidateUrls) {
         limit: 100,
       }));
     }
+    if (host === "amazon.jobs" || host === "www.amazon.jobs") {
+      sources.push(sourceBase(target, "amazon", {
+        baseUrl: url.origin,
+        searchTexts: ["2027", "early career", "software development engineer I", "engineering intern"],
+        limit: 100,
+        maxPages: 3,
+      }));
+    }
   }
   const seen = new Set();
   return sources.filter((source) => {
@@ -258,6 +267,10 @@ async function verifyAtsSource(source) {
       },
     );
     return Number(data?.data?.count) || 0;
+  }
+  if (source.adapter === "amazon") {
+    const data = await fetchJson(amazonSearchUrl(source, "early career", 1, 0), fetchTimeoutMs);
+    return Number(data?.hits) || (data?.jobs ?? []).length;
   }
   return 0;
 }

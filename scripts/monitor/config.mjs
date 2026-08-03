@@ -36,6 +36,7 @@ export const discoveryVerificationVersion = 6;
 export const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
+  "amazon",
   "greenhouse",
   "lever",
   "ashby",
@@ -70,7 +71,7 @@ export const titleRolePatterns = [
   /(?:software|developer|\bSWE\b|machine\s+learning|\bML\b|\bAI\b|data|platform|infrastructure|forward\s+deployed|quant|technical\s+writer|documentation|mechanical|aerospace|avionics|propulsion|manufacturing|systems).*(?:2027|summer\s+2027|spring\s+2027|fall\s+2027)/i,
   /new\s+grad(?:uate)?\s+engineer.*software/i,
   /graduate\s+(?:software|mechanical|aerospace|data|systems|manufacturing)\s+engineer/i,
-  /software\s+(?:engineer|developer)/i,
+  /software\s+(?:development\s+)?(?:engineer|developer)/i,
   /(?:backend|frontend|full[-\s]?stack|application|factory|flight|security|embedded)\s+software/i,
   /\bSDE\b/i,
   /machine\s+learning\s+engineer/i,
@@ -110,7 +111,7 @@ export const internshipPatterns = [
 ];
 
 export const earlyCareerPatterns = [
-  /\bearly\s+careers?\b/i,
+  /\bearly[-\s]+careers?\b/i,
   /\bentry[-\s]?level\b/i,
   /\bcareer\s+catalyst\b/i,
   /\bnew\s+college\s+grad(?:uate)?\b/i,

@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-03T23:25:39.842Z",
+  "updated_at": "2026-08-03T23:42:10.898Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -9,15 +9,6 @@
       "method": "",
       "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
       "robots_url": "https://www.metacareers.com/robots.txt",
-      "source": null
-    },
-    "amazon": {
-      "company": "Amazon",
-      "checked_at": "2026-08-03T21:32:02.787Z",
-      "status": "none",
-      "method": "",
-      "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
-      "robots_url": "https://www.amazon.jobs/robots.txt",
       "source": null
     },
     "microsoft": {
@@ -1342,9 +1333,9 @@
         "site": "shieldai",
         "verified_open_jobs": 429
       },
-      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_at": "2026-08-03T23:42:10.898Z",
       "last_scan_status": "error",
-      "last_scan_error": "request timed out after 10000ms",
+      "last_scan_error": "request timed out after 7000ms",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "hudson river trading": {
@@ -2051,9 +2042,9 @@
         "limit": 20,
         "verified_open_jobs": 1001
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:42:10.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "lowe's technology": {
@@ -2172,9 +2163,9 @@
         "limit": 20,
         "verified_open_jobs": 109
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-03T23:42:10.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "opendoor": {
@@ -2476,10 +2467,10 @@
         "limit": 20,
         "verified_open_jobs": 338
       },
-      "last_scan_at": "2026-08-03T23:25:39.842Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "last_scan_at": "2026-08-03T23:42:10.898Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-03T23:42:10.898Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -4704,10 +4695,10 @@
         "limit": 20,
         "verified_open_jobs": 748
       },
-      "last_scan_at": "2026-08-03T23:25:39.842Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "last_scan_at": "2026-08-03T23:42:10.898Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-03T23:42:10.898Z"
     },
     "verizon": {
       "company": "Verizon",

@@ -1,5 +1,29 @@
 [
   {
+    "company": "Amazon",
+    "adapter": "amazon",
+    "baseUrl": "https://www.amazon.jobs",
+    "searchTexts": [
+      "2027",
+      "early career",
+      "recent graduate",
+      "software development engineer I",
+      "software engineering intern",
+      "data science intern",
+      "applied scientist intern",
+      "technical writer",
+      "mechanical engineer",
+      "aerospace engineer",
+      "hardware development engineer I",
+      "systems development engineer I"
+    ],
+    "limit": 100,
+    "maxPages": 3,
+    "searchConcurrency": 4,
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
     "company": "SpaceX",
     "adapter": "greenhouse",
     "board": "spacex",

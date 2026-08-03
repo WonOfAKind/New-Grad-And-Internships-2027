@@ -14,15 +14,15 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: August 3, 2026 at 7:25 PM EDT
+Last updated: August 3, 2026 at 7:42 PM EDT
 
 Companies tracked: 367
 
-Current roles: 354
+Current roles: 363
 
-Fresh roles this scan: 4
+Fresh roles this scan: 11
 
-Structured sources active: 185
+Structured sources active: 186
 
 Automatically discovered companies: 141
 
@@ -30,7 +30,7 @@ Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 125 roles
+- [New Grad Roles](NEW_GRAD.md): 134 roles
 - [Internship Roles](INTERNSHIPS.md): 229 roles
 
 ## Data Files
@@ -48,7 +48,7 @@ Secondary discovery feeds healthy: 7/7
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
-- New-grad rows must explicitly identify a new-grad/graduate/college-grad role, name the 2027 graduation cycle, or state a Summer 2027 start. Generic early-career, entry-level, and level-one titles do not qualify by themselves.
+- New-grad rows must explicitly identify a new-grad/graduate/college-grad role, name the 2027 graduation cycle, state a Summer 2027 start, or combine a level-one title with explicit early-career and bachelor's eligibility on the official posting. Generic early-career, entry-level, and level-one wording does not qualify by itself.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
 - Curated 2027 community lists are used only as secondary discovery inputs. Their cycle labels are not eligibility evidence. A row is published only with an individual employer/ATS requisition URL, and unseen URLs must pass a live official-page check first.
 - Curated source configuration remains available for sites that do not expose a standard machine-readable surface.
