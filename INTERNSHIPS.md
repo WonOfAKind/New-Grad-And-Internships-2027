@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 3, 2026 at 5:48 PM EDT
+Last updated: August 3, 2026 at 7:18 PM EDT
 
-Current roles: 107
+Current roles: 113
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -15,6 +15,12 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Capital One | Cyber Security Internship Program - Summer 2027 | McLean, VA; Plano, TX | - | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Security-Internship-Program---Summer-2027_R244319>) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Chicago, Illinois, United States | - | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005>) |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | Overland Park, KS | - | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667>) |
+| TikTok | (General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7662653087863081221>) |
+| TikTok | Backend Software Engineer Intern (TikTok-PGC-Creator Strategy) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667933770819897605>) |
+| TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - Summer 2027 | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7665475460339665157>) |
+| TikTok | Software Engineer Intern (Data Arch - E-commerce) - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668582146236631349>) |
+| TikTok | Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668445566565321013>) |
+| TikTok | Software Engineer Intern (TikTok-Social-Friending) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667935399050692917>) |
 | Hyannis Port Research | Software Engineering Intern | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 2, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003>) |
 | Medtronic | Software Engineering Intern - Summer 2027 | Fridley, MN | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 2, 2026<br>First seen Aug 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1>) |
 | Heliux | Software Engineer Internship | San Francisco, CA | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Jul 31, 2026 | [Apply](<https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef>) |
@@ -22,7 +28,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Quadrillion Labs | Software Engineering Intern | Remote (US) | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Austin, TX; Chicago; New York | $5,000 - $5,800/week | 2027 grad eligible | First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624408002>) |
 | Chicago Trading Company | Quant Trading Internship - Summer 2027 | Chicago, IL | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
-| PDT Partners | Summer 2027 Software Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8077685>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 grad eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Quadrillion | Software Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Akuna Capital | Platform Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018856>) |
@@ -67,7 +72,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785777627>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785784315>) |
 | LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785789579>) |
-| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785793661>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785793661>) |
+| LA-Tech.org | LA-Tech.org - Spring 2027 - LA Tech Rising Internship (Software, Cyber, AI) (Los Angeles, CA) | Remote (US) | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==?t=1785799116>) |
 | Walleye Capital | Equity Volatility Quant Researcher Intern (Summer 2027) | Miami, FL | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006>) |
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Western Digital | Summer 2027 - Software Engineering Internship | San Jose, CA, United States | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |

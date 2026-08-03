@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 3, 2026 at 5:48 PM EDT
+Last updated: August 3, 2026 at 7:18 PM EDT
 
-Current roles: 75
+Current roles: 92
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,7 +12,24 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ByteDance | Backend and Infra Software Engineer Graduate (Dev Infra US) - 2027 Start | San Jose, CA | $128,000 - $316,800 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7667894766036322565>) |
+| ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency &amp; Scheduling) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7668799020705679669>) |
+| ByteDance | Software Engineer Graduate (Traffic Infrastructure) - 2027 Start | San Jose, CA | $122,574 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7665849950984194309>) |
 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States | $152,900 - $210,155 USD | Explicit new grad role | First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/8546367002>) |
+| TikTok | (General hire) Backend Software Engineer Graduate (Trust &amp; Safety) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7664533229944178949>) |
+| TikTok | (General Hire) Backend Software Engineer Graduate (Trust &amp; Safety) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7665994926887291189>) |
+| TikTok | (General Hire) Machine Learning Engineer Graduate (TikTok Recommendation) - 2027 Start | San Jose, CA | $122,574 - $316,800 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663389745178757429>) |
+| TikTok | Backend Software Engineer Graduate (Emerging Products &amp; AI Safety) - 2027 Start | San Jose, CA | $128,000 - $316,800 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663036952090347829>) |
+| TikTok | Backend Software Engineer Graduate (Feed Safety) - 2027 Start | Seattle, WA | $124,717 - $243,200 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663028952600807733>) |
+| TikTok | Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668390999147776309>) |
+| TikTok | Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7665991852209932597>) |
+| TikTok | Machine Learning Engineer Graduate (TikTok-Data-Search-Local Service) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668376903708281141>) |
+| TikTok | Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667349591747758341>) |
+| TikTok | Software Engineer Graduate (Ads Measurement Signal Technology) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668717356843977013>) |
+| TikTok | Software Engineer Graduate (Ads Signal &amp; Measurement) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668724383120804149>) |
+| TikTok | Software Engineer Graduate (Business Integrity) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668592494649690421>) |
+| TikTok | Software Engineer Graduate (Quality and Efficiency Technology) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668680253677504821>) |
+| TikTok | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | Early career | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668701834807101749>) |
 | Chicago Trading Company | Quant Trading Associate - 2027 Start | Chicago, IL | $175,000 - $175,000 USD | 2027 grad eligible | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005>) |
 | NewsBreak | Software Engineer, ML Infra (Junior &amp; New Grad) | Mountain View, CA | $125,000 - $175,000 USD | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4615879006>) |
 | Flow Traders | Graduate Quantitative Trader | New York | $175,000 | Explicit new grad role | Posted Jul 29, 2026<br>First seen Jul 29, 2026 | [Apply](<https://job-boards.greenhouse.io/flowtraders/jobs/8094581>) |
