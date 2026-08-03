@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-08-03T19:12:06.949Z",
+  "updated_at": "2026-08-03T20:39:48.674Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -166,7 +166,7 @@
     },
     "servicenow": {
       "company": "ServiceNow",
-      "checked_at": "2026-07-31T23:40:24.014Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -190,7 +190,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-31T23:42:04.561Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -1257,24 +1257,24 @@
     },
     "fireworks ai": {
       "company": "Fireworks AI",
-      "checked_at": "2026-07-31T18:08:38.234Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
       "robots_url": "https://fireworks.ai/robots.txt",
       "source": {
         "company": "Fireworks AI",
-        "adapter": "greenhouse",
+        "adapter": "ashby",
         "priority": "P1",
         "source_kind": "discovered",
         "discovered_from": "https://fireworks.ai/careers",
         "board": "fireworksai",
-        "verified_open_jobs": 48
+        "verified_open_jobs": 46
       },
-      "last_scan_at": "2026-07-31T21:19:47.606Z",
-      "last_scan_status": "error",
-      "last_scan_error": "404 Not Found",
-      "last_verified_at": "2026-07-31T18:10:22.469Z"
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-03T20:39:48.674Z"
     },
     "cerebras": {
       "company": "Cerebras",
@@ -2057,7 +2057,7 @@
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-07-31T19:48:47.320Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2073,12 +2073,12 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1006
+        "verified_open_jobs": 997
       },
-      "last_scan_at": "2026-08-03T19:12:06.949Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-      "last_verified_at": "2026-07-31T19:50:26.248Z"
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-03T20:39:48.674Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2974,7 +2974,7 @@
     },
     "dbt labs": {
       "company": "dbt Labs",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3281,7 +3281,7 @@
     },
     "midjourney": {
       "company": "Midjourney",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3491,7 +3491,7 @@
     },
     "tempus": {
       "company": "Tempus",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -3637,7 +3637,7 @@
     },
     "coinbase": {
       "company": "Coinbase",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3661,7 +3661,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T21:22:10.279Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -3737,7 +3737,7 @@
     },
     "uniswap labs": {
       "company": "Uniswap Labs",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3888,7 +3888,7 @@
     },
     "fidelity investments": {
       "company": "Fidelity Investments",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3912,13 +3912,13 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T21:22:10.279Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
     "vanguard": {
       "company": "Vanguard",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4162,7 +4162,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4735,7 +4735,7 @@
     },
     "verizon": {
       "company": "Verizon",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -4759,7 +4759,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T21:22:10.279Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -4790,7 +4790,7 @@
     },
     "ge aerospace": {
       "company": "GE Aerospace",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -4817,7 +4817,7 @@
     },
     "general motors": {
       "company": "General Motors",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -4841,7 +4841,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T21:22:10.279Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -4878,7 +4878,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-07-30T21:20:32.753Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4930,7 +4930,7 @@
     },
     "sierra space": {
       "company": "Sierra Space",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5061,7 +5061,7 @@
     },
     "f5": {
       "company": "F5",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5070,7 +5070,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5094,13 +5094,13 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T22:45:41.590Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
     "ansys": {
       "company": "Ansys",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5109,7 +5109,7 @@
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5127,7 +5127,7 @@
     },
     "john deere": {
       "company": "John Deere",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5136,7 +5136,7 @@
     },
     "caterpillar": {
       "company": "Caterpillar",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -5160,7 +5160,7 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-07-30T22:45:41.590Z",
+      "last_scan_at": "2026-08-03T20:39:48.674Z",
       "last_scan_status": "error",
       "last_scan_error": "403 Forbidden"
     },
@@ -5175,7 +5175,7 @@
     },
     "irobot": {
       "company": "iRobot",
-      "checked_at": "2026-07-30T22:44:16.433Z",
+      "checked_at": "2026-08-03T20:38:20.713Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
