@@ -3,6 +3,7 @@ import { fileURLToPath } from "node:url";
 
 import {
   canonicalApplyUrl,
+  categorize,
   extractCompensation,
   isAllowedLocation,
   isEligibleRole,
@@ -15,7 +16,15 @@ import {
   normalizeDisplayText,
   normalizeRoleTitle,
 } from "./domain.mjs";
-import { htmlJobFromDetail, htmlJobToLead, htmlJobUrl, withScanDeadline } from "./adapters.mjs";
+import {
+  htmlJobFromDetail,
+  htmlJobToLead,
+  htmlJobUrl,
+  isUnitedStatesTikTokJob,
+  oracleJobToHtmlShape,
+  tiktokJobToLead,
+  withScanDeadline,
+} from "./adapters.mjs";
 import { readJson, validateConfiguration } from "./http.mjs";
 import {
   compareRoles,
@@ -152,8 +161,8 @@ export async function runSelfTests() {
   );
   assertEqual(
     isEligibleRole("Graduate Quantitative Researcher (BS/MS)", ""),
-    false,
-    "BS/MS graduate false positive",
+    true,
+    "Bachelor-eligible BS/MS graduate role accepted",
   );
   assertEqual(
     isEligibleRole("Quantitative Research Intern (PhD) - Summer 2027", ""),
@@ -165,8 +174,8 @@ export async function runSelfTests() {
     false,
     "synthetic discovery cycle does not make a generic internship eligible",
   );
-  assertEqual(isEligibleRole("Software Engineer, Early Career", ""), false, "generic early-career role rejected");
-  assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), false, "generic entry-level role rejected");
+  assertEqual(isEligibleRole("Software Engineer, Early Career", ""), true, "explicit early-career title accepted");
+  assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), true, "explicit entry-level title accepted");
   assertEqual(isEligibleRole("Software Engineer I", ""), false, "generic level-one role rejected");
   assertEqual(isRelevant("Campus Recruiter, Machine Learning and Quantitative Research"), false, "technical recruiter role rejected");
   assertEqual(isRelevant("2027 Infrastructure Private Equity Investment Associate"), false, "investment role rejected");
@@ -176,10 +185,23 @@ export async function runSelfTests() {
   assertEqual(isEligibleRole("Software Engineer - 2027 Interns", ""), true, "plural interns are classified as an internship");
   assertEqual(isRelevant("FPGA Engineer Intern"), true, "hardware internship title coverage");
   assertEqual(isRelevant("Network Engineer Internship"), true, "network internship title coverage");
-  assertEqual(isRelevant("Design Engineer Co-op"), false, "generic design role is outside tracked disciplines");
-  assertEqual(isRelevant("Intern - UI/UX Researcher - Human Factor Engineer"), false, "generic UX research role is outside tracked disciplines");
+  assertEqual(isRelevant("Design Engineer Co-op"), true, "engineering co-op title coverage");
+  assertEqual(isRelevant("Intern - UI/UX Researcher - Human Factor Engineer"), true, "human-factors engineering internship coverage");
   assertEqual(isRelevant("Co-Op, Software Product Management"), false, "product management role is outside tracked disciplines");
   assertEqual(isRelevant("AI Operations Intern"), false, "non-engineering operations role is outside tracked disciplines");
+  assertEqual(
+    isRelevant("Platform Campaign Intern (Operations Center) - 2027 Summer"),
+    false,
+    "nontechnical campaign internship is outside tracked disciplines",
+  );
+  assertEqual(
+    categorize("Machine Learning Engineer Intern (Search-Basic Ranking) - 2027 Summer"),
+    "Software / AI / ML",
+    "ASIC token does not match the word Basic",
+  );
+  assertEqual(isRelevant("Technical Communications Intern - Summer 2027"), true, "technical communications coverage");
+  assertEqual(isRelevant("Structural Engineer I - New Grad"), true, "structural engineering coverage");
+  assertEqual(isRelevant("Flight Sciences Engineer - 2027"), true, "flight sciences coverage");
   assertEqual(
     isEligibleRole("Software Engineer, MS New Graduate", ""),
     false,
@@ -228,10 +250,12 @@ export async function runSelfTests() {
   assertEqual(isAllowedLocation({ location: "Toronto, Canada; New York, NY" }), true, "multi-location role with US option");
   assertEqual(isAllowedLocation({ location: "Toronto, Ontario, CA" }), false, "Canadian CA abbreviation is not California");
   assertEqual(isAllowedLocation({ location: "Newmarket, Ontario, CA" }), false, "Canadian province excludes unfamiliar city");
+  assertEqual(isAllowedLocation({ location: "Cork, CO, IE" }), false, "foreign ISO country code is not a US state");
   assertEqual(isDirectEmployerApplyUrl("https://app.ripplematch.com/v2/public/job/abc123"), false, "matching platform URL rejected");
   assertEqual(isDirectEmployerApplyUrl("https://jobs.ashbyhq.com/example/123456"), true, "official ATS URL accepted");
   assertEqual(normalizeCompanyName("Copart ✓"), "Copart", "source status marker removed from company name");
   assertEqual(normalizeCompanyName("IMC"), "IMC Trading", "company alias normalized");
+  assertEqual(normalizeCompanyName("JPMorganChase"), "JPMorgan Chase", "JPMorgan alias normalized");
   assertEqual(normalizeCompanyName("Tower Research"), "Tower Research Capital", "company legal-name alias normalized");
   assertEqual(normalizeCompanyName("Susquehanna"), "Susquehanna International Group", "company short-name alias normalized");
   assertEqual(normalizeRoleTitle("Intern, Software Engineering 🆕"), "Intern, Software Engineering", "source marker removed from title");
@@ -241,6 +265,16 @@ export async function runSelfTests() {
     canonicalApplyUrl("https://example.com/jobs/123/?utm_source=test&ref=friend#apply"),
     "https://example.com/jobs/123",
     "tracking URL canonicalization",
+  );
+  assertEqual(
+    canonicalApplyUrl("https://pod4.app.loxo.co/job/abc?t=1785793723"),
+    "https://pod4.app.loxo.co/job/abc",
+    "rotating Loxo timestamp canonicalization",
+  );
+  assertEqual(
+    keyFor("Example", "Intern", "Austin, TX", "https://example.wd1.myworkdayjobs.com/jobs/job/Austin/Intern_R26-5631-2"),
+    keyFor("Example", "Intern", "Austin, TX", "https://example.wd1.myworkdayjobs.com/jobs/job/Austin/Intern_R26-5631-1"),
+    "Workday site suffixes share a requisition identity",
   );
   assertEqual(
     keyFor("Example", "Engineer", "Texas", "https://careers.example.com/ca/fr/job/1206917/Engineer"),
@@ -322,6 +356,11 @@ export async function runSelfTests() {
     providerDescriptorForSeed({ url: "https://example.wd5.myworkdayjobs.com/en-US/External/job/Austin/Engineer_R123", company: "Example" }).site,
     "External",
     "Workday provider descriptor",
+  );
+  assertEqual(
+    providerDescriptorForSeed({ url: "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111", company: "JPMorgan Chase" }).siteNumber,
+    "CX_1001",
+    "Oracle Recruiting provider descriptor",
   );
   assertEqual(
     providerDescriptorForSeed({ url: "https://job-boards.greenhouse.io/embed/job_app?for=towerresearchcapital&token=8024128", company: "Tower Research Capital" }).id,
@@ -472,6 +511,14 @@ export async function runSelfTests() {
     "example",
     "Greenhouse source fingerprint",
   );
+  assertEqual(
+    detectAtsSource(
+      { company: "Example", career_url: "https://example.com/careers", priority: "P1" },
+      ["https://example.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/123456"],
+    ).adapter,
+    "oracle",
+    "Oracle Recruiting source fingerprint",
+  );
   assertThrows(
     () => validateConfiguration(
       [{ company: "Example", career_url: "https://example.com/careers", priority: "P1" }],
@@ -502,7 +549,7 @@ export async function runSelfTests() {
               "@type": "PostalAddress",
               "addressLocality": "Austin",
               "addressRegion": "TX",
-              "addressCountry": "US"
+              "addressCountry": { "@type": "Country", "name": "US" }
             }
           },
           "baseSalary": {
@@ -525,6 +572,34 @@ export async function runSelfTests() {
   const lead = htmlJobToLead(htmlSource, parsedJob);
   assertEqual(lead.compensation, "$90,000 - $120,000", "html structured compensation");
   assertTruthy(isEligibleRole(lead.role_title, parsedJob.description), "html job eligibility");
+
+  const oracleSource = { company: "Example", baseUrl: "https://example.fa.oraclecloud.com", siteNumber: "CX_1", priority: "P0" };
+  const oracleShape = oracleJobToHtmlShape(oracleSource, {
+    Id: "123456",
+    Title: "2027 Mechanical Engineering Development Program",
+    PrimaryLocation: "Austin, TX, United States",
+    ExternalDescriptionStr: "<p>Bachelor's students graduating in May 2027.</p>",
+    ExternalPostedStartDate: "2026-08-01T04:00:00Z",
+  });
+  assertEqual(oracleShape.url, "https://example.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/123456", "Oracle direct job URL");
+  assertTruthy(isEligibleRole(oracleShape.title, oracleShape.description), "Oracle description eligibility");
+
+  const tiktokJob = {
+    id: "7660000000000000000",
+    title: "Mechanical Engineer Graduate - 2027 Start (BS/MS)",
+    description: "Join our 2027 graduate class.",
+    requirement: "Bachelor's or Master's degree.",
+    city_info: {
+      code: "CT_243",
+      en_name: "Mountain View",
+      parent: { code: "ST_31", en_name: "California", parent: { code: "CN_6", en_name: "United States of America", parent: null } },
+    },
+    job_post_info: { min_salary: 100000, max_salary: 130000, currency: "USD" },
+  };
+  assertTruthy(isUnitedStatesTikTokJob(tiktokJob), "TikTok US hierarchy detection");
+  const tiktokLead = tiktokJobToLead({ company: "TikTok", priority: "P0" }, tiktokJob);
+  assertEqual(tiktokLead.compensation, "$100,000 - $130,000", "TikTok structured salary");
+  assertTruthy(isEligibleRole(tiktokLead.role_title, tiktokJob.description), "TikTok BS/MS graduate eligibility");
 
   validateConfiguration(
     await readJson(targetPath, []),

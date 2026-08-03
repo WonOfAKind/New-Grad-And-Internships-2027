@@ -1,4 +1,4 @@
-import { fetchTimeoutMs, htmlDetailConcurrency } from "../config.mjs";
+import { fetchTimeoutMs, htmlDetailConcurrency, userAgent } from "../config.mjs";
 import {
   categorize,
   chooseResume,
@@ -186,13 +186,17 @@ export function structuredLocationText(location) {
   return locations
     .map((item) => {
       if (!item || typeof item !== "object") return normalize(item);
-      const address = item.address && typeof item.address === "object" ? item.address : {};
-      return normalize([
-        item.name,
-        address.addressLocality,
-        address.addressRegion,
-        address.addressCountry,
-      ].filter(Boolean).join(", "));
+      const address = item.address && typeof item.address === "object" ? item.address : item;
+      const scalar = (value) => {
+        if (value == null) return "";
+        if (typeof value !== "object") return normalize(value);
+        return scalar(value.name ?? value.value ?? value.label ?? "");
+      };
+      const parts = [item.name, address.addressLocality, address.addressRegion, address.addressCountry]
+        .flatMap((value) => scalar(value).split(/\s*,\s*/))
+        .map(normalize)
+        .filter(Boolean);
+      return [...new Set(parts)].join(", ");
     })
     .filter(Boolean)
     .join("; ");
@@ -261,7 +265,7 @@ export async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
     try {
       const html = await fetchText(url, timeoutMs, {
         headers: {
-          "User-Agent": "Mozilla/5.0",
+          "User-Agent": userAgent,
           "Accept": "text/html,*/*",
         },
       });
@@ -292,7 +296,7 @@ export async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
     try {
       const html = await fetchText(job.url, timeoutMs, {
         headers: {
-          "User-Agent": "Mozilla/5.0",
+          "User-Agent": userAgent,
           "Accept": "text/html,*/*",
         },
       });
@@ -357,7 +361,7 @@ export async function scanSitemapJobs(source, timeoutMs = fetchTimeoutMs) {
     .slice(0, source.detailLimit ?? 80);
   const leads = await mapConcurrent(urls, htmlDetailConcurrency, async (url) => {
     try {
-      const html = await fetchText(url, timeoutMs, { headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html,*/*" } });
+      const html = await fetchText(url, timeoutMs, { headers: { "User-Agent": userAgent, "Accept": "text/html,*/*" } });
       if (closedPageReason(200, html)) return null;
       const job = htmlJobFromDetail(source, url, html);
       const context = `${job.location}\n${job.description}`;

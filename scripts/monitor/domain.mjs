@@ -39,6 +39,7 @@ export function normalizeCompanyName(value) {
   if (/^Chevron Corporation$/i.test(cleaned)) return "Chevron";
   if (/^Old Mission$/i.test(cleaned)) return "Old Mission Capital";
   if (/^Tower Research$/i.test(cleaned)) return "Tower Research Capital";
+  if (/^JPMorgan\s*Chase(?:\s*&\s*Co\.?)?$/i.test(cleaned)) return "JPMorgan Chase";
   if (/^Base Power Company$/i.test(cleaned)) return "Base Power";
   if (/^SEL \(Schweitzer Engineering Laboratories\)$/i.test(cleaned)) return "Schweitzer Engineering Laboratories";
   if (/^Susquehanna$/i.test(cleaned)) return "Susquehanna International Group";
@@ -163,7 +164,8 @@ export function canonicalApplyUrl(url) {
       parsed.search = "";
     } else {
       for (const key of [...parsed.searchParams.keys()]) {
-        if (/^utm_/i.test(key) || /^(?:gh_src|lever-source|ref|referrer|source|sourceToken)$/i.test(key)) {
+        const rotatingLoxoToken = /(?:^|\.)loxo\.co$/i.test(parsed.hostname) && key === "t";
+        if (/^utm_/i.test(key) || /^(?:gh_src|lever-source|ref|referrer|source|sourceToken)$/i.test(key) || rotatingLoxoToken) {
           parsed.searchParams.delete(key);
         }
       }
@@ -192,7 +194,11 @@ export function stableJobIdentity(url) {
       || /\/job\/(\d{4,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /\/([0-9a-f]{8}-[0-9a-f-]{27,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /_([A-Z]{0,8}\d[\w-]*)(?:\/apply)?\/?$/i.exec(parsed.pathname)?.[1];
-    return normalize(queryId || pathId).toLowerCase();
+    let identity = normalize(queryId || pathId).toLowerCase();
+    if (/(?:myworkdayjobs|myworkdaysite)\.com$/i.test(parsed.hostname)) {
+      identity = identity.replace(/-\d+$/, "");
+    }
+    return identity;
   } catch {
     return "";
   }
@@ -223,12 +229,18 @@ export function isDirectEmployerApplyUrl(value) {
   }
 }
 
-export function isRelevant(title) {
+export function isRelevant(title, text = "") {
+  const haystack = `${title}\n${text}`;
   if (/\b(?:recruiter|recruiting|talent\s+acquisition|human\s+resources?)\b/i.test(title)) return false;
   if (/\b(?:private\s+equity|investment\s+(?:associate|banking|analyst)|wealth\s+management)\b/i.test(title)) return false;
   if (/\bproduct\s+management\b|\bproduct\s+manager\b/i.test(title)) return false;
+  if (/\bproduct\s+designer\b/i.test(title) && !/\bengineer(?:ing)?\b/i.test(title)) return false;
   if (/\boperations?\s+(?:intern|internship|co[-\s]?op)\b/i.test(title) && !/engineer|technical/i.test(title)) return false;
-  return titleRolePatterns.some((pattern) => pattern.test(title));
+  if (/\b(?:campaign|marketing|sales|business\s+development|human\s+resources?)\b/i.test(title)
+    && !/\b(?:engineer(?:ing)?|developer|data\s+(?:scientist|engineer)|technical\s+(?:writer|communications?)|quantitative)\b/i.test(title)) return false;
+  if (titleRolePatterns.some((pattern) => pattern.test(title))) return true;
+  const genericEngineeringTitle = /\b(?:associate\s+)?engineer(?:ing)?\s*(?:i|1)?\b|\b(?:engineer(?:ing)?|technical)\s+(?:intern|internship|co[-\s]?op)\b/i.test(title);
+  return genericEngineeringTitle && titleRolePatterns.some((pattern) => pattern.test(haystack));
 }
 
 export function isProbablySenior(title) {
@@ -236,14 +248,15 @@ export function isProbablySenior(title) {
 }
 
 export function hasExcludedDegreeProgram(title) {
-  return excludedDegreeProgramPatterns.some((pattern) => pattern.test(title));
+  const hasBachelorEligibility = /\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(title);
+  return excludedDegreeProgramPatterns.some((pattern) => pattern.test(title)) && !hasBachelorEligibility;
 }
 
 export function graduationMatch(title, text = "") {
   const haystack = `${title}\n${text}`;
+  if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return "Summer 2027 start";
-  if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
   if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return "Explicit new grad role";
   if (earlyCareerPatterns.some((pattern) => pattern.test(haystack))) return "Early career";
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
@@ -272,6 +285,7 @@ export function hasNewGradEligibilityEvidence(title, text = "") {
   if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return true;
+  if (earlyCareerPatterns.some((pattern) => pattern.test(title))) return true;
   return /\b2027\b/i.test(title);
 }
 
@@ -294,12 +308,16 @@ export function chooseResume(title, text = "", fallback = "General CS/SWE") {
 
 export function categorize(title, text = "") {
   const haystack = `${title}\n${text}`;
-  if (/technical\s+writer|documentation|developer\s+docs|api\s+writer/i.test(haystack)) return "Technical Writing";
-  if (/data\s+scientist|data\s+science|applied\s+scientist|analytics|data\s+analyst/i.test(haystack)) return "Data Science";
-  if (/aerospace|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+systems|space\s+systems|mission\s+operations/i.test(haystack)) return "Aerospace Engineering";
-  if (/mechanical|manufacturing|hardware|fpga|asic|silicon|electrical|product\s+design/i.test(haystack)) return "Mechanical Engineering";
-  if (/machine\s+learning|deep\s+learning|\bAI\b|\bML\b|software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|firmware|network|devops|infrastructure|platform|reliability|\bSRE\b|security|quant|trading|embedded|systems|data\s+engineer|forward\s+deployed\s+engineering|research\s+scientist/i.test(haystack)) return "Software / AI / ML";
-  if (/test\s+engineer|robotics/i.test(haystack)) return "Mechanical Engineering";
+  if (/technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:docs|documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer/i.test(title)) return "Technical Writing";
+  if (/data\s+(?:scientist|science|analytics|analyst)|(?:applied|research)\s+scientist|\bdata\s*&\s*AI\b/i.test(title)) return "Data Science";
+  if (/aerospace|avionics|propulsion|guidance|navigation|\bGNC\b|flight\s+(?:systems|sciences?|controls|test)|space\s+systems|mission\s+operations|aerodynamics?|structural|structures|stress\s+engineer|loads\s+engineer|spacecraft/i.test(title)) return "Aerospace Engineering";
+  if (/mechanical|manufacturing|hardware|\b(?:fpga|asic)\b|silicon|electrical|product\s+design|design\s+engineering|electromechanical|mechatronics|materials?\s+engineer|process\s+engineer|quality\s+engineer|thermal\s+engineer/i.test(title)) return "Mechanical Engineering";
+  if (/machine\s+learning|deep\s+learning|\bAI\b|\bML\b|software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|firmware|network|devops|infrastructure|platform|reliability|\bSRE\b|security|quant|trad(?:er|ing)|embedded|data\s+engineer|forward\s+deployed|research\s+engineer|online\s+architecture/i.test(title)) return "Software / AI / ML";
+  if (/aerospace|avionics|propulsion|\bGNC\b|flight\s+(?:systems|sciences?)|spacecraft|aerodynamics?|structural\s+(?:analysis|engineering)|space\s+systems/i.test(haystack)) return "Aerospace Engineering";
+  if (/mechanical\s+engineering|manufacturing\s+engineering|electromechanical|mechatronics|thermal\s+engineering|materials\s+engineering|product\s+design/i.test(haystack)) return "Mechanical Engineering";
+  if (/data\s+(?:scientist|science|analytics)|statistical\s+modeling/i.test(haystack)) return "Data Science";
+  if (/software\s+engineering|machine\s+learning|\bAI\b|\bML\b|backend|frontend|firmware|embedded|distributed\s+systems|cloud\s+infrastructure/i.test(haystack)) return "Software / AI / ML";
+  if (/test\s+engineer|robotics/i.test(title)) return "Mechanical Engineering";
   return "Other";
 }
 

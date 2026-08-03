@@ -111,7 +111,7 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
   return {
     company: normalizeCompanyName(lead.company),
     title: normalize(title),
-    location: normalizeDisplayText(lead.location),
+    location: normalizeDisplayText(lead.location).replace(/(?:,\s*)?\[object Object\]/gi, "").trim(),
     role_type: type,
     discipline,
     compensation: normalize(lead.compensation),

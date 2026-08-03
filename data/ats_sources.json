@@ -66,6 +66,38 @@
     "priority": "P0"
   },
   {
+    "company": "TikTok",
+    "adapter": "tiktok",
+    "baseUrl": "https://api.lifeattiktok.com/api/v1/public/supplier",
+    "searchTexts": [
+      "2027"
+    ],
+    "limit": 100,
+    "maxPages": 10,
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "adapter": "oracle",
+    "baseUrl": "https://jpmc.fa.oraclecloud.com",
+    "siteNumber": "CX_1001",
+    "searchTexts": [
+      "2027",
+      "new grad",
+      "early career",
+      "software engineer program",
+      "data science internship",
+      "engineering internship",
+      "technical writer"
+    ],
+    "limit": 100,
+    "maxPages": 3,
+    "detailLimit": 200,
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
     "company": "Google",
     "adapter": "html_jobs",
     "urls": [
@@ -280,5 +312,25 @@
     "adapter": "greenhouse",
     "board": "janestreet",
     "priority": "P0"
+  },
+  {
+    "company": "General Motors",
+    "adapter": "workday",
+    "host": "generalmotors.wd5.myworkdayjobs.com",
+    "tenant": "generalmotors",
+    "site": "Careers_GM",
+    "searchText": "2027",
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "Caterpillar",
+    "adapter": "workday",
+    "host": "cat.wd5.myworkdayjobs.com",
+    "tenant": "cat",
+    "site": "CaterpillarCareers",
+    "searchText": "2027",
+    "limit": 50,
+    "priority": "P1"
   }
 ]

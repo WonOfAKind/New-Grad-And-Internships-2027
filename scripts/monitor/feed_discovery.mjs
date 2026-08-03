@@ -9,6 +9,7 @@ import {
   canonicalApplyUrl,
   dateOnly,
   graduationMatch,
+  hasExcludedDegreeProgram,
   hasOnlyExcludedGraduationWindow,
   isEligibleRole,
   isDirectEmployerApplyUrl,
@@ -23,6 +24,7 @@ import {
 } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
 import { htmlJobFromDetail, htmlJobToLead } from "./adapters/html.mjs";
+import { fetchOracleJobDetail, oracleJobToHtmlShape } from "./adapters/oracle.mjs";
 import { officialPageRejection } from "./official_page.mjs";
 
 const blockedDiscoveryHosts = [
@@ -264,9 +266,13 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
   lead.direct_apply_url = canonicalApplyUrl(verifiedJob?.url || cachedRole?.url || seed.url);
   lead.career_source_url = seed.url;
   lead.posted_at = seed.posted_at || lead.posted_at;
-  lead.graduation_match = verifiedJob
-    ? graduationMatch(parsed.title || seed.title, parsed.description ?? "")
-    : normalize(cachedRole?.grad_window) || graduationMatch(seed.title, seed.season_hint);
+  const verifiedMatch = verifiedJob ? graduationMatch(parsed.title || seed.title, parsed.description ?? "") : "";
+  const trustedInternshipCycle = /\b2027\s+internship\s+cycle\b/i.test(seed.feed_cycle_hint)
+    && /\b(?:intern|internship|co[-\s]?op)\b/i.test(parsed.title || seed.title);
+  lead.graduation_match = (verifiedMatch === "Internship" ? "" : verifiedMatch)
+    || (trustedInternshipCycle ? "2027 internship eligible" : "")
+    || normalize(cachedRole?.grad_window)
+    || graduationMatch(seed.title, seed.season_hint);
   lead.season_hint = seed.season_hint;
   lead.discovered_via = seed.discovered_via;
   lead.discovery_feed = seed.discovery_feed;
@@ -319,6 +325,15 @@ export function providerDescriptorForSeed(seed, sourceHints = []) {
       externalPath: `/${segments.slice(jobIndex).join("/")}`,
     };
   }
+  if (/\.oraclecloud\.com$/i.test(url.hostname)) {
+    const sitesIndex = segments.findIndex((segment) => segment.toLowerCase() === "sites");
+    const oracleJobIndex = segments.findIndex((segment, index) => index > sitesIndex && segment.toLowerCase() === "job");
+    const siteNumber = sitesIndex >= 0 ? segments[sitesIndex + 1] : "";
+    const id = oracleJobIndex >= 0 ? segments[oracleJobIndex + 1] : "";
+    if (siteNumber && id) {
+      return { adapter: "oracle", baseUrl: url.origin, siteNumber, id };
+    }
+  }
   return null;
 }
 
@@ -354,6 +369,7 @@ function providerJobToHtmlShape(descriptor, job, seed) {
       datePosted: job.createdAt,
     };
   }
+  if (descriptor.adapter === "oracle") return oracleJobToHtmlShape(descriptor, job);
   const info = job.jobPostingInfo ?? job;
   return {
     ...info,
@@ -414,6 +430,10 @@ export async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
           return itemId === requisitionId || (item.bulletFields ?? []).some((field) => normalize(field).toLowerCase() === requisitionId);
         });
       }
+    } else if (descriptor.adapter === "oracle") {
+      const key = `oracle|${descriptor.baseUrl.toLowerCase()}|${descriptor.siteNumber.toLowerCase()}|${descriptor.id}`;
+      if (!cache.has(key)) cache.set(key, fetchOracleJobDetail(descriptor, descriptor.id, timeoutMs));
+      job = await cache.get(key);
     }
     if (!job) throw new Error("provider requisition is no longer listed");
     return providerJobToHtmlShape(descriptor, job, seed);
@@ -431,7 +451,7 @@ async function verifySeed(seed, timeoutMs, sourceHints, providerCache) {
     const officialTitle = normalizeRoleTitle(providerJob.title) || seed.title;
     const officialContext = `${providerJob.location ?? ""}\n${providerJob.description ?? ""}\n${providerJob.url ?? ""}`;
     if (hasOnlyExcludedGraduationWindow(officialTitle, officialContext)) throw new Error("official page has an excluded recruiting year");
-    if (!isEligibleRole(officialTitle, officialContext)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
+    if (!officialEligibility(seed, officialTitle, officialContext)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
     return seedToLead(seed, { ...providerJob, title: officialTitle });
   }
   const document = await fetchDocument(seed.url, timeoutMs, { redirect: "follow" });
@@ -447,10 +467,17 @@ async function verifySeed(seed, timeoutMs, sourceHints, providerCache) {
   const officialContext = `${job.location}\n${job.description}\n${resolvedUrl.replace(/[-_/]+/g, " ")}`;
   if (hasOnlyExcludedGraduationWindow(job.title || seed.title, officialContext)) throw new Error("official page has an excluded recruiting year");
   const context = `${officialContext}\n${seed.education}`;
-  if (!isEligibleRole(job.title || seed.title, context)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
+  if (!officialEligibility(seed, job.title || seed.title, context)) throw new Error("official page does not confirm 2027 new-grad/intern eligibility");
   const selectedTitle = isRelevant(job.title) ? normalizeRoleTitle(job.title) : seed.title;
   if (/\.\.\.$/.test(selectedTitle)) throw new Error("official page did not expose a complete title");
   return seedToLead(seed, job);
+}
+
+function officialEligibility(seed, title, context) {
+  if (isEligibleRole(title, context)) return true;
+  if (hasOnlyExcludedGraduationWindow(title, context) || hasExcludedDegreeProgram(title)) return false;
+  return /\b2027\s+internship\s+cycle\b/i.test(seed.feed_cycle_hint)
+    && /\b(?:intern|internship|co[-\s]?op)\b/i.test(title);
 }
 
 export async function scanDiscoveryFeeds(feeds, existingRoles = [], sourceHints = []) {
@@ -500,11 +527,11 @@ export async function scanDiscoveryFeeds(feeds, existingRoles = [], sourceHints 
       verificationQueue.push({ seed, existingRole });
     }
   }
-  verificationQueue.sort((a, b) => Number(Boolean(b.existingRole)) - Number(Boolean(a.existingRole))
+  verificationQueue.sort((a, b) => Number(Boolean(a.existingRole)) - Number(Boolean(b.existingRole))
     || Date.parse(b.seed.posted_at || "0") - Date.parse(a.seed.posted_at || "0"));
   const attempted = verificationQueue.slice(0, discoveryFeedVerifyLimit);
   const deferred = verificationQueue.slice(discoveryFeedVerifyLimit);
-  for (const item of deferred.filter((entry) => Number(entry.existingRole?.verification_version) === discoveryVerificationVersion)) {
+  for (const item of deferred.filter((entry) => entry.existingRole)) {
     leads.push(seedToLead(item.seed, null, item.existingRole));
   }
   const providerCache = new Map();

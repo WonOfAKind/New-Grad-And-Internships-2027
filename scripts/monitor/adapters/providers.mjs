@@ -2,6 +2,7 @@ import {
   fetchTimeoutMs,
   htmlDetailConcurrency,
   teslaStateUrl,
+  userAgent,
 } from "../config.mjs";
 import {
   absoluteHttpUrl,
@@ -22,6 +23,8 @@ import {
 } from "../domain.mjs";
 import { fetchJson, fetchText, fetchWithRetries } from "../http.mjs";
 import { sourceForCompany } from "./context.mjs";
+export { scanOracle } from "./oracle.mjs";
+export { scanTikTok } from "./tiktok.mjs";
 
 export function greenhouseJobToLead(source, job) {
   const title = normalize(job.title);
@@ -392,7 +395,11 @@ export async function scanWorkday(source, timeoutMs = fetchTimeoutMs) {
       });
       const postings = Array.isArray(data.jobPostings) ? data.jobPostings : [];
       for (const job of postings) {
-        if (job.externalPath) jobsByPath.set(job.externalPath, job);
+        if (!job.externalPath) continue;
+        const existing = jobsByPath.get(job.externalPath);
+        const matchedSearchTexts = new Set(existing?._monitorSearchTexts ?? []);
+        matchedSearchTexts.add(searchText);
+        jobsByPath.set(job.externalPath, { ...existing, ...job, _monitorSearchTexts: [...matchedSearchTexts] });
       }
       const total = Number(data.total);
       if (postings.length < limit || (Number.isFinite(total) && offset + postings.length >= total)) break;
@@ -400,9 +407,12 @@ export async function scanWorkday(source, timeoutMs = fetchTimeoutMs) {
   }
 
   const candidates = [...jobsByPath.values()].filter((job) => {
-    const context = `${job.timeType ?? ""}\n${job.locationsText ?? ""}\n${(job.bulletFields ?? []).join("\n")}`;
-    return isRelevant(job.title)
-      && isEligibleRole(job.title, context)
+    const matchedSearchText = (job._monitorSearchTexts ?? []).join("\n");
+    const context = `${job.timeType ?? ""}\n${job.locationsText ?? ""}\n${(job.bulletFields ?? []).join("\n")}\n${matchedSearchText}`;
+    const needsDetail = /\b(?:intern|internship|co[-\s]?op|entry[-\s]?level|early\s+career|new\s+grad|graduate|associate\s+engineer|engineer\s+(?:i|1))\b/i.test(job.title)
+      || /\b(?:2027|new\s+grad|early\s+career|engineering\s+intern)\b/i.test(matchedSearchText);
+    return isRelevant(job.title, context)
+      && (isEligibleRole(job.title, context) || needsDetail)
       && !hasOnlyExcludedGraduationWindow(job.title, context);
   });
   const detailLimit = source.detailLimit ?? 100;
@@ -415,7 +425,17 @@ export async function scanWorkday(source, timeoutMs = fetchTimeoutMs) {
       return job;
     }
   });
-  return enriched.map((job) => workdayJobToLead(source, job));
+  return enriched
+    .filter((job) => {
+      const info = job.jobPostingInfo && typeof job.jobPostingInfo === "object" ? job.jobPostingInfo : {};
+      const title = normalize(info.title ?? job.title);
+      const description = stripHtml(info.jobDescription ?? job.jobDescription ?? "");
+      const context = `${info.timeType ?? job.timeType ?? ""}\n${info.location ?? job.locationsText ?? ""}\n${description}`;
+      return isRelevant(title, context)
+        && isEligibleRole(title, context)
+        && !hasOnlyExcludedGraduationWindow(title, context);
+    })
+    .map((job) => workdayJobToLead(source, job));
 }
 
 export async function scanPhenom(source, timeoutMs = fetchTimeoutMs) {
@@ -466,7 +486,7 @@ export async function scanAvature(source, timeoutMs = fetchTimeoutMs) {
     const url = `${source.baseUrl}/careers/SearchJobs/?jobRecordsPerPage=${limit}&jobOffset=0&jobSearch=${query}`;
     const html = await fetchText(url, timeoutMs, {
       headers: {
-        "User-Agent": "Mozilla/5.0",
+        "User-Agent": userAgent,
         "Accept": "text/html,*/*",
       },
     });
@@ -488,7 +508,7 @@ export async function scanAvature(source, timeoutMs = fetchTimeoutMs) {
   const detailLimit = source.detailLimit ?? 100;
   const enriched = await mapConcurrent(candidates.slice(0, detailLimit), htmlDetailConcurrency, async (job) => {
     try {
-      const html = await fetchText(job.url, timeoutMs, { headers: { "User-Agent": "Mozilla/5.0", "Accept": "text/html,*/*" } });
+      const html = await fetchText(job.url, timeoutMs, { headers: { "User-Agent": userAgent, "Accept": "text/html,*/*" } });
       return { ...job, description: stripHtml(html) };
     } catch {
       return job;

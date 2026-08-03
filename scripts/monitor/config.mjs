@@ -26,36 +26,41 @@ export const minAtsSuccessPercent = envInteger("MIN_ATS_SUCCESS_PERCENT", 75, { 
 export const discoveryRefreshHours = envInteger("DISCOVERY_REFRESH_HOURS", 168, { min: 1, max: 720 });
 export const discoveryErrorRefreshHours = envInteger("DISCOVERY_ERROR_REFRESH_HOURS", 6, { min: 1, max: 168 });
 export const discoveryConcurrency = envInteger("DISCOVERY_CONCURRENCY", 8, { min: 1, max: 32 });
-export const discoveryLimit = envInteger("DISCOVERY_LIMIT", 30, { min: 1, max: 1000 });
+export const discoveryLimit = envInteger("DISCOVERY_LIMIT", 500, { min: 1, max: 1000 });
 export const sitemapDetailLimit = envInteger("SITEMAP_DETAIL_LIMIT", 30, { min: 1, max: 500 });
 export const discoveryFeedConcurrency = envInteger("DISCOVERY_FEED_CONCURRENCY", 8, { min: 1, max: 24 });
-export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 600, { min: 1, max: 1000 });
+export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 2000, { min: 1, max: 5000 });
 export const discoveryFeedTimeoutMs = envInteger("DISCOVERY_FEED_TIMEOUT_MS", 12000, { min: 1000, max: 120000 });
 export const discoveryFeedReverifyHours = envInteger("DISCOVERY_FEED_REVERIFY_HOURS", 24, { min: 1, max: 168 });
-export const discoveryVerificationVersion = 5;
-export const userAgent = "Mozilla/5.0 (compatible; Codex new-grad role monitor)";
+export const discoveryVerificationVersion = 6;
+export const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
   "greenhouse",
   "lever",
   "ashby",
   "workday",
+  "oracle",
   "phenom",
   "avature",
   "tesla",
+  "tiktok",
   "html_jobs",
   "google_careers",
   "sitemap_jobs",
 ]);
 export const defaultSearchTexts = [
+  "2027",
   "software engineer",
   "new grad",
   "early career",
   "2027 intern",
   "data science",
   "technical writer",
+  "technical communications",
   "mechanical engineer",
   "aerospace engineer",
+  "engineering intern",
   "hardware engineer",
   "quantitative",
 ];
@@ -74,9 +79,9 @@ export const titleRolePatterns = [
   /data\s+(?:scientist|analyst|science|analytics)/i,
   /data\s+engineer/i,
   /applied\s+scientist/i,
-  /technical\s+writer|documentation\s+(?:engineer|specialist|writer)|developer\s+documentation|api\s+writer/i,
-  /mechanical\s+engineer|manufacturing\s+engineer|hardware\s+engineer|test\s+engineer|product\s+design\s+engineer/i,
-  /aerospace\s+engineer|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+systems|space\s+systems|mission\s+operations/i,
+  /technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer|content\s+(?:developer|designer)\b/i,
+  /mechanical\s+(?:design\s+)?engineer|manufacturing\s+engineer|hardware\s+engineer|test\s+engineer|product\s+design\s+engineer|electromechanical|mechatronics|materials?\s+engineer|process\s+engineer|quality\s+engineer|thermal\s+engineer/i,
+  /aerospace\s+engineer|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+(?:systems|sciences?|controls|test)|space\s+systems|mission\s+operations|aerodynamics?|structural\s+engineer|structures\s+engineer|stress\s+engineer|loads\s+engineer|spacecraft\s+engineer/i,
   /(?:software|platform|kubernetes|cloud)\s+infrastructure\s+engineer/i,
   /platform\s+(?:software\s+)?engineer/i,
   /site\s+reliability\s+engineer|\bSRE\b/i,
@@ -88,6 +93,7 @@ export const titleRolePatterns = [
   /(?:robotics|autonomy|simulation)\s+software\s+engineer/i,
   /(?:firmware|embedded|fpga|asic|silicon|network|cloud|devops|reliability|systems?|infrastructure|security|cybersecurity)\s+(?:engineer|developer|intern|internship)/i,
   /(?:developer|researcher|scientist|writer|trader)\s+(?:intern|internship|co[-\s]?op)/i,
+  /(?:engineering|engineer)\s+(?:intern|internship|co[-\s]?op)|(?:intern|internship|co[-\s]?op).*(?:engineering|engineer)/i,
   /(?:intern|internship|co[-\s]?op).*(?:software|developer|firmware|embedded|machine\s+learning|deep\s+learning|\bAI\b|\bML\b|data\s+(?:science|scientist|engineering|engineer|analytics|analyst)|technical\s+writer|documentation|quant|trading|hardware|fpga|asic|mechanical|aerospace|avionics|product\s+design)/i,
   /(?:quantitative|algorithmic)\s+(?:research|researcher|trading|trader|development|developer)/i,
   /(?:machine\s+learning|deep\s+learning|artificial\s+intelligence|computer\s+vision)\s+(?:researcher|research|scientist|engineer|intern)/i,
@@ -100,6 +106,7 @@ export const internshipPatterns = [
   /\bcoop\b/i,
   /\bapprentice(?:ship)?\b/i,
   /\bstudent\s+(?:intern|researcher)\b/i,
+  /\bsummer\s+analyst\b/i,
 ];
 
 export const earlyCareerPatterns = [
@@ -117,6 +124,7 @@ export const explicitNewGradPatterns = [
   /\bcollege\s+grad(?:uate)?s?\b/i,
   /\bgraduate\s+(?:software|mechanical|aerospace|data|systems?|manufacturing|hardware|firmware|electrical|quantitative|machine\s+learning)\s+(?:engineer|developer|researcher|trader)\b/i,
   /\b(?:software|mechanical|aerospace|data|systems?|manufacturing|hardware|firmware|electrical|quantitative|machine\s+learning)\s+(?:engineer|developer|researcher|trader)\s+graduate\b/i,
+  /\b(?:engineer|developer|researcher|scientist|writer|trader|analyst|designer)\s+graduate\b/i,
   /\b2027\s+grads?\b/i,
 ];
 
@@ -137,6 +145,8 @@ export const fullTimeNewGradPatterns = [
 ];
 
 export const internshipEligiblePatterns = [
+  /\b2027\b.{0,140}\b(?:intern|internship|co[-\s]?op|summer\s+analyst)\b/i,
+  /\b(?:intern|internship|co[-\s]?op|summer\s+analyst)\b.{0,140}\b2027\b/i,
   /(?:summer|spring|fall|winter)\s+2027\s+(?:intern|internship|co[-\s]?op)/i,
   /(?:intern|internship|co[-\s]?op).*(?:summer|spring|fall|winter)\s+2027/i,
   /(?:summer|spring|fall|winter)\s+2027/i,
@@ -162,11 +172,10 @@ export const excludedDegreeProgramPatterns = [
   /\bph\.?\s*d\.?\b/i,
   /\bdoctorate\b/i,
   /\bdoctoral\b/i,
-  /\b(?:bs|b\.s\.)\s*\/\s*(?:ms|m\.s\.)\b/i,
-  /\b(?:ms|m\.s\.)\s*\/\s*(?:ph\.?\s*d\.?|phd)\b/i,
-  /\((?=[^)]*\b(?:ms|m\.s\.|master'?s)\b)[^)]*\)/i,
   /\bmaster'?s\b/i,
   /\bm\.?\s?s\.?\b/i,
+  /\bm\.?\s?b\.?\s?a\.?\b/i,
+  /\bmaster\s+of\s+business\s+administration\b/i,
 ];
 
 export const excludedLocationPatterns = [
@@ -179,6 +188,8 @@ export const excludedLocationPatterns = [
   /seoul|south korea/i,
   /london|dublin|ireland|united kingdom|uk\b/i,
   /germany|france|japan|poland|romania|netherlands|amsterdam/i,
+  /(?:^|,)\s*(?:IE|IRL|GB|GBR|DEU|FRA|IND|SGP|AUS|JPN|KOR)\s*$/i,
+  /,\s*(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT),\s*(?:CA|CAN)\s*$/i,
 ];
 
 export const explicitUnitedStatesLocationPatterns = [
@@ -191,6 +202,7 @@ export const namedUnitedStatesStatePattern = /\b(?:Alabama|Alaska|Arizona|Arkans
 
 export const aiPatterns = [/machine\s+learning/i, /\bAI\b/i, /\bML\b/i, /data/i, /model/i, /platform/i];
 export const targetGradPatterns = [
+  /\b2027\s+start\b/i,
   /class\s+of\s+2027/i,
   /2027\s+grad(?:uate)?/i,
   /grad(?:uating|uation)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*2027/i,

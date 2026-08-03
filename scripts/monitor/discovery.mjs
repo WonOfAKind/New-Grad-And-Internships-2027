@@ -8,9 +8,10 @@ import {
 } from "./config.mjs";
 import { absoluteHttpUrl, mapConcurrent, normalize } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
+import { oracleSearchUrl } from "./adapters/oracle.mjs";
 
 const crawlerProduct = "CodexJobMonitor";
-const discoveryStateVersion = 3;
+const discoveryStateVersion = 4;
 const atsHosts = /(?:greenhouse\.io|lever\.co|ashbyhq\.com|myworkdayjobs\.com|avature\.net)$/i;
 const knownJobPageHosts = /(?:smartrecruiters\.com|icims\.com|oraclecloud\.com|successfactors\.com|taleo\.net)$/i;
 const genericJobDetailPatterns = [
@@ -176,10 +177,29 @@ export function detectAtsSources(target, candidateUrls) {
     if (host.endsWith(".avature.net")) {
       sources.push(sourceBase(target, "avature", { baseUrl: url.origin, searchText: "new grad", limit: 50 }));
     }
+    if (host.endsWith(".oraclecloud.com")) {
+      const sitesIndex = segments.findIndex((segment) => segment.toLowerCase() === "sites");
+      const siteNumber = sitesIndex >= 0 ? segments[sitesIndex + 1] : "";
+      if (siteNumber) {
+        sources.push(sourceBase(target, "oracle", {
+          baseUrl: url.origin,
+          siteNumber,
+          searchText: "2027",
+          limit: 100,
+        }));
+      }
+    }
+    if (host === "lifeattiktok.com" || host === "careers.tiktok.com") {
+      sources.push(sourceBase(target, "tiktok", {
+        baseUrl: "https://api.lifeattiktok.com/api/v1/public/supplier",
+        searchTexts: ["2027"],
+        limit: 100,
+      }));
+    }
   }
   const seen = new Set();
   return sources.filter((source) => {
-    const key = JSON.stringify([source.adapter, source.board, source.site, source.host, source.tenant, source.baseUrl]);
+    const key = JSON.stringify([source.adapter, source.board, source.site, source.siteNumber, source.host, source.tenant, source.baseUrl]);
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -215,6 +235,29 @@ async function verifyAtsSource(source) {
   if (source.adapter === "avature") {
     const document = await fetchDocument(`${source.baseUrl}/careers/SearchJobs/?jobRecordsPerPage=1&jobOffset=0&jobSearch=`, fetchTimeoutMs);
     return /<article\b|list-item-location|SearchJobs/i.test(document.text) ? 1 : 0;
+  }
+  if (source.adapter === "oracle") {
+    const data = await fetchJson(oracleSearchUrl(source, "2027", 1, 0), fetchTimeoutMs);
+    return Number(data?.items?.[0]?.TotalJobsCount ?? data?.items?.[0]?.totalJobsCount) || 0;
+  }
+  if (source.adapter === "tiktok") {
+    const data = await fetchWithRetries(
+      `${source.baseUrl}/search/job/posts`,
+      "application/json,text/plain,*/*",
+      (response) => response.json(),
+      fetchTimeoutMs,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Accept-Language": "en-US",
+          "Origin": "https://lifeattiktok.com",
+          "website-path": "tiktok",
+        },
+        body: JSON.stringify({ keyword: "2027", limit: 1, offset: 0, recruitment_id_list: ["201", "202", "301"] }),
+      },
+    );
+    return Number(data?.data?.count) || 0;
   }
   return 0;
 }
@@ -366,7 +409,9 @@ export async function discoverSources(targets, configuredSources, previousState 
   const now = new Date();
   const nowMs = now.getTime();
   const configuredCompanies = new Set(configuredSources.map((source) => source.company.toLowerCase()));
-  const companies = previousState?.version === discoveryStateVersion && previousState?.companies && typeof previousState.companies === "object"
+  // Discovery records remain useful when the schema version changes. New fields
+  // are filled on refresh, while preserving coverage avoids starving the board.
+  const companies = previousState?.companies && typeof previousState.companies === "object"
     ? { ...previousState.companies }
     : {};
   const eligibleTargets = targets.filter((target) => !configuredCompanies.has(target.company.toLowerCase()));

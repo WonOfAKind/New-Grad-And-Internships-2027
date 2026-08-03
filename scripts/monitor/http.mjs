@@ -48,9 +48,11 @@ export function validateConfiguration(targets, sources) {
     lever: ["site"],
     ashby: ["board"],
     workday: ["tenant", "site"],
+    oracle: ["baseUrl", "siteNumber"],
     phenom: ["baseUrl"],
     avature: ["baseUrl"],
     tesla: ["url"],
+    tiktok: ["baseUrl"],
     sitemap_jobs: ["sitemaps"],
   };
   const sourceKeys = new Set();
@@ -70,7 +72,7 @@ export function validateConfiguration(targets, sources) {
     for (const field of requiredByAdapter[source.adapter] ?? []) {
       if (!normalize(source[field])) throw new Error(`${label}.${field} is required for ${source.adapter}`);
     }
-    if (["phenom", "avature"].includes(source.adapter) && !isHttpUrl(source.baseUrl)) {
+    if (["phenom", "avature", "oracle", "tiktok"].includes(source.adapter) && !isHttpUrl(source.baseUrl)) {
       throw new Error(`${label}.baseUrl must be an HTTP(S) URL`);
     }
     if (source.adapter === "tesla" && !isHttpUrl(source.url)) {

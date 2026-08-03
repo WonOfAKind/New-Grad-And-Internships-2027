@@ -5,7 +5,9 @@ import {
 } from "./config.mjs";
 import {
   applyUrl,
+  isAllowedLocation,
   isExpiredDate,
+  isFreshEnough,
   keyFor,
   mapConcurrent,
   normalize,
@@ -96,6 +98,10 @@ export async function reconcileRoleLifecycle(existing, currentCandidates, scanRe
   const closureCandidates = [];
   const removed = [];
   for (const role of existing) {
+    if (!isAllowedLocation(role) || !isFreshEnough(role)) {
+      removed.push({ role, reason: "no longer matches board eligibility policy" });
+      continue;
+    }
     if (confirmedClosed.has(applyUrl(role))) {
       removed.push({ role, reason: "official verification confirmed closure" });
       continue;

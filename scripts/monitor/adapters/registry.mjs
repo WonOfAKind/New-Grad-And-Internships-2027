@@ -13,8 +13,10 @@ import {
   scanAvature,
   scanGreenhouse,
   scanLever,
+  scanOracle,
   scanPhenom,
   scanTesla,
+  scanTikTok,
   scanWorkday,
 } from "./providers.mjs";
 import { scanGoogleCareers, scanHtmlJobs, scanSitemapJobs } from "./html.mjs";
@@ -25,9 +27,11 @@ export async function scanSource(source, timeoutMs) {
     case "lever": return scanLever(source, timeoutMs);
     case "ashby": return scanAshby(source, timeoutMs);
     case "workday": return scanWorkday(source, timeoutMs);
+    case "oracle": return scanOracle(source, timeoutMs);
     case "phenom": return scanPhenom(source, timeoutMs);
     case "avature": return scanAvature(source, timeoutMs);
     case "tesla": return scanTesla(source, timeoutMs);
+    case "tiktok": return scanTikTok(source, timeoutMs);
     case "html_jobs": return scanHtmlJobs(source, timeoutMs);
     case "google_careers": return scanGoogleCareers(source, timeoutMs);
     case "sitemap_jobs": return scanSitemapJobs(source, timeoutMs);
