@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-04T21:38:32.501Z",
+  "updated_at": "2026-08-04T22:44:29.737Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1929,7 +1929,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-08-04T14:38:29.448Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1947,10 +1947,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2341,7 +2341,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2357,12 +2357,11 @@
         "site": "Workday",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 339
+        "verified_open_jobs": 344
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2552,9 +2551,9 @@
         "limit": 20,
         "verified_open_jobs": 124
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "qualtrics": {
@@ -3408,9 +3407,9 @@
         "limit": 20,
         "verified_open_jobs": 68
       },
-      "last_scan_at": "2026-08-04T20:14:41.678Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-04T20:14:41.678Z"
     },
     "recursion": {
@@ -3890,7 +3889,7 @@
     },
     "booz allen hamilton": {
       "company": "Booz Allen Hamilton",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3908,10 +3907,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "northrop grumman": {
       "company": "Northrop Grumman",
@@ -4146,7 +4144,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4162,12 +4160,11 @@
         "site": "Vantor",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 167
+        "verified_open_jobs": 161
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4549,7 +4546,7 @@
     },
     "comcast": {
       "company": "Comcast",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4565,12 +4562,12 @@
         "site": "Comcast_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 741
+        "verified_open_jobs": 751
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "verizon": {
       "company": "Verizon",
@@ -4583,7 +4580,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4599,12 +4596,11 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 710
+        "verified_open_jobs": 737
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "ge aerospace": {
       "company": "GE Aerospace",
@@ -4760,7 +4756,7 @@
     },
     "axiom space": {
       "company": "Axiom Space",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4776,12 +4772,12 @@
         "site": "External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 60
+        "verified_open_jobs": 63
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "vast": {
       "company": "Vast",
@@ -4830,7 +4826,7 @@
     },
     "red hat": {
       "company": "Red Hat",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4846,12 +4842,11 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 147
+        "verified_open_jobs": 150
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "canonical": {
       "company": "Canonical",
@@ -4873,7 +4868,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-08-04T16:29:42.380Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",

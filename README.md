@@ -14,13 +14,13 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: August 4, 2026 at 5:38 PM EDT
+Last updated: August 4, 2026 at 6:44 PM EDT
 
 Companies tracked: 367
 
 Current roles: 439
 
-Fresh roles this scan: 6
+Fresh roles this scan: 1
 
 Structured sources active: 178
 

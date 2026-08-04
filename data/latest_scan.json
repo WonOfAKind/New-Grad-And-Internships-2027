@@ -1,29 +1,6 @@
 {
-  "scanned_at": "2026-08-04T21:38:32.501Z",
+  "scanned_at": "2026-08-04T22:44:29.737Z",
   "fresh_leads": [
-    {
-      "company": "Walleye Capital",
-      "title": "Quantic – Quantitative Developer Intern (Summer 2027)",
-      "location": "Boston, MA",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$20,000/month",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "source": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006",
-      "date_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "posted_at": "2026-08-04",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "walleye capital|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:37:35.578Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
     {
       "company": "TransMarket Group",
       "title": "Algorithmic Trader Intern",
@@ -43,117 +20,12 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:38:11.755Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Intern - Software Engineer",
-      "location": "Office - USA - CA - Headquarters",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
-      "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570",
-      "date_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "posted_at": "2026-01-29",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "palo alto networks|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:38:07.871Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Intern - Software Engineer",
-      "location": "Office - USA - CA - Headquarters",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
-      "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
-      "date_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "posted_at": "2026-01-29",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "palo alto networks|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:38:08.354Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Intern - Software Engineer",
-      "location": "Office - USA - CA - Headquarters",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590",
-      "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590",
-      "date_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "posted_at": "2026-01-29",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "palo alto networks|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:38:08.145Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "company": "Teledyne",
-      "title": "Computer Engineering Intern",
-      "location": "US - Lincoln, NE",
-      "role_type": "Internship",
-      "discipline": "Other",
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119",
-      "source": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119",
-      "date_seen": "2026-08-04",
-      "last_seen": "2026-08-04",
-      "posted_at": "2025-05-05",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "teledyne|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-04T21:38:10.514Z",
+      "verified_at": "2026-08-04T22:44:12.220Z",
       "verification_version": 6,
       "priority": "P1"
     }
   ],
-  "removed_roles": [
-    {
-      "company": "Salesforce",
-      "title": "Software Engineering AMTS (College Grad)",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
-      "reason": "official verification confirmed closure"
-    },
-    {
-      "company": "Brunswick",
-      "title": "Software Engineer Intern",
-      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
-      "reason": "official page does not identify the requisition"
-    }
-  ],
+  "removed_roles": [],
   "scan_log": [
     {
       "company": "Amazon",
@@ -172,7 +44,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 779,
+      "matches": 780,
       "phase": "fast-pass"
     },
     {
@@ -222,7 +94,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 899,
+      "matches": 901,
       "phase": "fast-pass"
     },
     {
@@ -311,7 +183,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -351,7 +223,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -401,7 +273,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -851,7 +723,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 98,
+      "matches": 99,
       "phase": "fast-pass"
     },
     {
@@ -951,7 +823,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 110,
+      "matches": 109,
       "phase": "fast-pass"
     },
     {
@@ -1136,8 +1008,10 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
@@ -1286,11 +1160,17 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "zendesk|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -1329,7 +1209,7 @@
       "source_id": "docker|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 23,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1339,7 +1219,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -1536,11 +1416,17 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -1888,17 +1774,11 @@
       "company": "Comcast",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "comcast|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Comcast",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Boeing",
@@ -1950,17 +1830,11 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Axiom Space",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Red Hat",
@@ -1990,8 +1864,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-04T21:38:32.501Z",
-    "elapsed_ms": 216679,
+    "scanned_at": "2026-08-04T22:44:29.737Z",
+    "elapsed_ms": 182744,
     "companies_in_target_list": 367,
     "ats_sources_configured": 45,
     "structured_sources_runtime": 178,
@@ -2001,35 +1875,35 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 3010,
-      "official_candidates": 1117,
-      "cached_verifications": 62,
+      "rows_parsed": 3013,
+      "official_candidates": 1115,
+      "cached_verifications": 232,
       "reverify_hours": 24,
-      "verification_attempts": 1055,
-      "verification_successes": 326,
+      "verification_attempts": 883,
+      "verification_successes": 170,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 709,
-        "untracked discipline": 574,
+        "untracked discipline": 577,
         "graduate-degree-only role": 81,
         "excluded recruiting year": 179,
         "non-official application URL": 26,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 338,
-        "verification: official page has an excluded recruiting year": 96,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 323,
+        "verification: official page has an excluded recruiting year": 99,
         "verification: official posting closed: 404 Not Found": 28,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 4,
         "verification: official posting closed: provider requisition is no longer listed": 51,
         "verification: 403 Forbidden": 66,
-        "verification: 405 Not Allowed": 29,
+        "verification: 405 Not Allowed": 27,
         "verification: 429 Too Many Requests": 1,
         "verification: official posting closed: official page does not identify the requisition": 22,
-        "verification: official posting closed: official page shell does not expose the requisition": 48,
+        "verification: official posting closed: official page shell does not expose the requisition": 47,
         "verification: official posting closed: explicit closed-page message": 5,
         "verification: official posting closed: Oracle requisition is no longer listed": 8,
         "verification: official posting closed: redirected away from the requisition": 6,
         "verification: 404 Not Found": 13,
-        "verification: official provider verification unavailable: 403 Forbidden": 4,
+        "verification: official provider verification unavailable: 403 Forbidden": 3,
         "verification: fetch failed": 1,
         "verification: 400 Bad Request": 6,
         "verification: 410 Gone": 2,
@@ -2037,8 +1911,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 35,
-    "discovery_new_sources_this_scan": 2,
+    "discovery_attempts_this_scan": 9,
+    "discovery_new_sources_this_scan": 8,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 151,
@@ -2051,8 +1925,8 @@
     "double_check_attempts": 9,
     "unique_sources_attempted": 178,
     "total_fetch_attempts": 187,
-    "ok_sources": 168,
-    "error_sources": 9,
+    "ok_sources": 169,
+    "error_sources": 8,
     "blocked_sources": 1,
     "ats_ok_sources": 44,
     "ats_error_sources": 0,
@@ -2060,17 +1934,17 @@
     "ats_success_percent": 97.8,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 9
+      "429 Too Many Requests": 8
     },
-    "board_eligible_candidates": 517,
+    "board_eligible_candidates": 496,
     "provider_candidate_checks": 88,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 27,
-    "inactive_provider_checks": 34,
-    "inactive_provider_closed": 1,
-    "inactive_provider_unavailable": 1,
-    "closed_roles_removed": 2,
+    "closure_checks": 53,
+    "inactive_provider_checks": 59,
+    "inactive_provider_closed": 0,
+    "inactive_provider_unavailable": 0,
+    "closed_roles_removed": 0,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
