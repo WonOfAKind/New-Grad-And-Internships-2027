@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-08-04T14:37:36.210Z",
-  "elapsed_ms": 202500,
+  "scanned_at": "2026-08-04T14:41:26.577Z",
+  "elapsed_ms": 189105,
   "companies_in_target_list": 367,
   "ats_sources_configured": 45,
   "structured_sources_runtime": 178,
@@ -57,11 +57,11 @@
   },
   "direct_sources_attempted": 0,
   "double_check_enabled": true,
-  "double_check_attempts": 9,
+  "double_check_attempts": 4,
   "unique_sources_attempted": 178,
-  "total_fetch_attempts": 187,
-  "ok_sources": 168,
-  "error_sources": 9,
+  "total_fetch_attempts": 182,
+  "ok_sources": 172,
+  "error_sources": 5,
   "blocked_sources": 1,
   "ats_ok_sources": 44,
   "ats_error_sources": 0,
@@ -69,7 +69,7 @@
   "ats_success_percent": 97.8,
   "minimum_ats_success_percent": 75,
   "error_breakdown": {
-    "429 Too Many Requests": 8,
+    "429 Too Many Requests": 4,
     "403 Forbidden": 1
   },
   "board_eligible_candidates": 500,
