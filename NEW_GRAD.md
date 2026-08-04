@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 4, 2026 at 2:20 PM EDT
+Last updated: August 4, 2026 at 4:14 PM EDT
 
-Current roles: 161
+Current roles: 163
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -12,6 +12,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| NVIDIA | Software Engineer, TensorRT Specialized Platforms - New College Grad 2025 | US, CA, Santa Clara | - | Explicit new grad role | First seen Aug 4, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |
 | TikTok | AI Effects Workflow Software Engineer Graduate (TikTok-Agentic Creation-Effect House) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669905277419948293>) |
 | TikTok | AI Engineer Graduate (Client Arch) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7664978367107713333>) |
@@ -170,9 +171,9 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | TikTok | Design Engineering Graduate (Design System &amp; AI Workflow) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667837906192877829>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
-| Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Early career | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
+| Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
-| Micron | New College Grad - Photolithography Process Engineer | Boise, ID, US | - | Early career | Posted Jul 12, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/41923169-new-college-grad-photolithography-process-engineer-boise-idaho-united-states-of-america>) |
+| Micron | New College Grad - Photolithography Process Engineer | Boise, ID, US | - | Explicit new grad role | Posted Jul 12, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/41923169-new-college-grad-photolithography-process-engineer-boise-idaho-united-states-of-america>) |
 | Hermeus | Manufacturing Engineer, New Grad | Los Angeles, CA | - | New grad or university grad | First seen Jul 10, 2026 | [Apply](<https://jobs.lever.co/hermeus/d4adbb25-8f9c-4dc0-92dc-958355babd43>) |
 | Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
 | Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
@@ -182,6 +183,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Boeing | Spacecraft Systems Engineer (Early Career) - Millennium Space Systems | USA - El Segundo, CA | $66,000 - $117,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Systems-Engineer--Early-Career----Millennium-Space-Systems_JR2026519970-1>) |
 | Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, CA | $100,000.00 - $115,000.00 | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8517361002>) |
 | SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8497447002>) |

@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 4, 2026 at 2:20 PM EDT
+Last updated: August 4, 2026 at 4:14 PM EDT
 
-Current roles: 272
+Current roles: 273
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -192,7 +192,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | $10,500/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86>) |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL New York, NY | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334>) |
-| Tower Research Capital | Quantitative Trader Intern (Summer 2027) | New York, NY / Chicago, IL | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
+| Tower Research Capital | Quantitative Trader Intern - Summer 2027 | New York, Chicago | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
 | Veeda AI | Internship - Veeda AI Scientist | California | - | 2027 internship eligible | Posted Jun 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4>) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | $8,000 - $12,000 | 2027 internship eligible | Posted Jun 27, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027>) |
 | Rippling | Software Engineer Intern, Backend / Full Stack / ML (Winter 2027) | San Francisco, CA / New York, NY / Seattle, WA | - | 2027 internship eligible | Posted Jun 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484>) |
@@ -251,7 +251,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Huntsman | Electrical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027>) |
 | Huntsman | Mechanical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026>) |
 | Agilent Technologies | Electrical Engineering Intern | Wilmington, DE | $22.00 - $24.00/hour | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526>) |
-| Johnson Controls | Mechanical Engineering Fall CO Intern | New Freedom-Pennsylvania-United States of America | $21-$24/hr | 2027 internship eligible | Posted Jun 23, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1>) |
+| Johnson Controls | Mechanical Engineering Fall CO Intern | Pennsylvania | $21-$24/hr | 2027 internship eligible | Posted Jun 23, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1>) |
 | Neuralink | Electrical Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jun 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7702527003>) |
 | Lila Sciences | Co-op, Mechanical Engineer | Cambridge, MA USA | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/lilasciences/jobs/4284223009>) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
@@ -277,6 +277,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Bosch Group | Industrial Engineering Intern | Fort Lauderdale, FL | - | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000129558149-industrial-engineering-intern>) |
+| HNTB | Returning Intern Engineer - Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only) | Philadelphia, PA (Pennsylvania) | $24.23 - $36.34/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-Intern-Engineer---Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-31026-1>) |
 | KION Group | Controls Engineering Intern/Co-Op | Grand Rapids, MI, United States | $20.00 - $29.00 per hour | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1>) |
 | Micron Technology | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326>) |
 | Nissan | Production Engineer Co-op | Smyrna, Tennessee - United States of America | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Production-Engineer-Co-op_R00212452>) |
@@ -303,5 +304,5 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Mariana Minerals | Chemical Engineering Intern | Moab, UT | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a>) |
 | Marmon Holdings | Engineering Intern Co-op | Chicago, IL | - | 2027 internship eligible | Posted Oct 6, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern-Co-op_JR0000026780-4>) |
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Jul 23, 2025<br>First seen Aug 3, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR104026>) |
-| FLIR Systems | Computer Engineering Intern | US - Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
+| FLIR Systems | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 
