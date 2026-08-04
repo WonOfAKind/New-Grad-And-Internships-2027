@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-03T23:42:10.898Z",
+  "updated_at": "2026-08-04T14:37:36.210Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -157,33 +157,12 @@
     },
     "servicenow": {
       "company": "ServiceNow",
-      "checked_at": "2026-08-03T21:32:02.787Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://careers.servicenow.com/robots.txt",
-      "source": {
-        "company": "ServiceNow",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://careers.servicenow.com/jobs/",
-        "urls": [
-          "https://careers.servicenow.com/jobs/"
-        ],
-        "relativeJobBase": "https://careers.servicenow.com/jobs/",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:34:23.691Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "intuit": {
       "company": "Intuit",
@@ -242,40 +221,12 @@
     },
     "airbnb": {
       "company": "Airbnb",
-      "checked_at": "2026-08-03T21:32:02.787Z",
-      "status": "discovered",
-      "method": "job-sitemap",
-      "reason": "",
-      "robots_url": "https://careers.airbnb.com/robots.txt",
-      "source": {
-        "company": "Airbnb",
-        "adapter": "sitemap_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://careers.airbnb.com/",
-        "sitemaps": [
-          "https://careers.airbnb.com/sitemap.xml",
-          "https://careers.airbnb.com/sitemap-1.xml",
-          "https://careers.airbnb.com/image-sitemap-1.xml",
-          "https://careers.airbnb.com/news-sitemap.xml",
-          "https://careers.airbnb.com/sitemap_index.xml",
-          "https://careers.airbnb.com/page-sitemap.xml",
-          "https://careers.airbnb.com/positions-sitemap.xml",
-          "https://careers.airbnb.com/job_office-sitemap.xml",
-          "https://careers.airbnb.com/job_location-sitemap.xml",
-          "https://news.airbnb.com/sitemap_index.xml",
-          "https://news.airbnb.com/post-sitemap.xml",
-          "https://news.airbnb.com/post-sitemap2.xml",
-          "https://news.airbnb.com/post-sitemap3.xml",
-          "https://news.airbnb.com/post-sitemap4.xml"
-        ],
-        "robotsUrl": "https://careers.airbnb.com/robots.txt",
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T22:01:11.207Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:34:23.691Z"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "429 Too Many Requests",
+      "robots_url": "",
+      "source": null
     },
     "lyft": {
       "company": "Lyft",
@@ -288,33 +239,12 @@
     },
     "pinterest": {
       "company": "Pinterest",
-      "checked_at": "2026-08-03T21:32:02.787Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://www.pinterestcareers.com/robots.txt",
-      "source": {
-        "company": "Pinterest",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://www.pinterestcareers.com/jobs/",
-        "urls": [
-          "https://www.pinterestcareers.com/jobs/"
-        ],
-        "relativeJobBase": "https://www.pinterestcareers.com/jobs/",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:34:23.691Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "snap": {
       "company": "Snap",
@@ -586,7 +516,7 @@
     },
     "block": {
       "company": "Block",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -875,7 +805,7 @@
     },
     "hashicorp": {
       "company": "HashiCorp",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -918,7 +848,7 @@
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1319,7 +1249,7 @@
     },
     "shield ai": {
       "company": "Shield AI",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1331,12 +1261,12 @@
         "source_kind": "discovered",
         "discovered_from": "https://shield.ai/careers/",
         "site": "shieldai",
-        "verified_open_jobs": 429
+        "verified_open_jobs": 438
       },
-      "last_scan_at": "2026-08-03T23:42:10.898Z",
-      "last_scan_status": "error",
-      "last_scan_error": "request timed out after 7000ms",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T14:37:36.210Z"
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
@@ -1370,7 +1300,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1379,7 +1309,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1497,7 +1427,7 @@
     },
     "radix trading": {
       "company": "Radix Trading",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1506,7 +1436,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1948,7 +1878,7 @@
     },
     "skild ai": {
       "company": "Skild AI",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1957,7 +1887,7 @@
     },
     "covariant": {
       "company": "Covariant",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -1999,7 +1929,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2017,14 +1947,13 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-03T23:25:39.842Z",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2040,12 +1969,11 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1001
+        "verified_open_jobs": 984
       },
-      "last_scan_at": "2026-08-03T23:42:10.898Z",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2145,28 +2073,12 @@
     },
     "zillow": {
       "company": "Zillow",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "ats-fingerprint",
-      "reason": "",
-      "robots_url": "https://www.zillow.com/robots.txt",
-      "source": {
-        "company": "Zillow",
-        "adapter": "workday",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://www.zillow.com/careers/",
-        "host": "zillow.wd5.myworkdayjobs.com",
-        "tenant": "zillow",
-        "site": "Zillow_Group_External",
-        "searchText": "new grad",
-        "limit": 20,
-        "verified_open_jobs": 109
-      },
-      "last_scan_at": "2026-08-03T23:42:10.898Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "opendoor": {
       "company": "Opendoor",
@@ -2277,7 +2189,7 @@
     },
     "quizlet": {
       "company": "Quizlet",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2319,33 +2231,12 @@
     },
     "canva": {
       "company": "Canva",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://www.lifeatcanva.com/robots.txt",
-      "source": {
-        "company": "Canva",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://www.lifeatcanva.com/en/jobs/",
-        "urls": [
-          "https://www.lifeatcanva.com/en/jobs/"
-        ],
-        "relativeJobBase": "https://www.lifeatcanva.com/en/jobs/",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "miro": {
       "company": "Miro",
@@ -2467,9 +2358,9 @@
         "limit": 20,
         "verified_open_jobs": 338
       },
-      "last_scan_at": "2026-08-03T23:42:10.898Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T23:42:10.898Z"
     },
     "cisco": {
@@ -2902,7 +2793,7 @@
     },
     "tenable": {
       "company": "Tenable",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -2911,7 +2802,7 @@
     },
     "rapid7": {
       "company": "Rapid7",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -2941,7 +2832,7 @@
     },
     "dbt labs": {
       "company": "dbt Labs",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3248,7 +3139,7 @@
     },
     "midjourney": {
       "company": "Midjourney",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3458,7 +3349,7 @@
     },
     "tempus": {
       "company": "Tempus",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -3604,33 +3495,12 @@
     },
     "coinbase": {
       "company": "Coinbase",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://www.coinbase.com/robots.txt",
-      "source": {
-        "company": "Coinbase",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://www.coinbase.com/careers/positions",
-        "urls": [
-          "https://www.coinbase.com/careers/positions"
-        ],
-        "relativeJobBase": "https://www.coinbase.com/careers/positions",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "kraken": {
       "company": "Kraken",
@@ -3704,7 +3574,7 @@
     },
     "uniswap labs": {
       "company": "Uniswap Labs",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3855,37 +3725,16 @@
     },
     "fidelity investments": {
       "company": "Fidelity Investments",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://jobs.fidelity.com/robots.txt",
-      "source": {
-        "company": "Fidelity Investments",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://jobs.fidelity.com/students",
-        "urls": [
-          "https://jobs.fidelity.com/en/students/"
-        ],
-        "relativeJobBase": "https://jobs.fidelity.com/en/students/",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "vanguard": {
       "company": "Vanguard",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -4058,9 +3907,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "northrop grumman": {
@@ -4129,7 +3978,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4695,40 +4544,19 @@
         "limit": 20,
         "verified_open_jobs": 748
       },
-      "last_scan_at": "2026-08-03T23:42:10.898Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T23:42:10.898Z"
     },
     "verizon": {
       "company": "Verizon",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://mycareer.verizon.com/robots.txt",
-      "source": {
-        "company": "Verizon",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://mycareer.verizon.com/jobs/",
-        "urls": [
-          "https://mycareer.verizon.com/jobs/"
-        ],
-        "relativeJobBase": "https://mycareer.verizon.com/jobs/",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden"
+      "checked_at": "2026-08-04T14:34:39.702Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "boeing": {
       "company": "Boeing",
@@ -4750,14 +4578,14 @@
         "limit": 20,
         "verified_open_jobs": 704
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "ge aerospace": {
       "company": "GE Aerospace",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -4830,7 +4658,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4882,7 +4710,7 @@
     },
     "sierra space": {
       "company": "Sierra Space",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4927,9 +4755,9 @@
         "limit": 20,
         "verified_open_jobs": 61
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "vast": {
@@ -4997,9 +4825,9 @@
         "limit": 20,
         "verified_open_jobs": 137
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "canonical": {
@@ -5013,7 +4841,7 @@
     },
     "f5": {
       "company": "F5",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5046,23 +4874,23 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-04T14:37:36.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "403 Forbidden",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "ansys": {
       "company": "Ansys",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
-      "reason": "404 Not Found",
+      "reason": "request timed out after 10000ms",
       "robots_url": "",
       "source": null
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5080,7 +4908,7 @@
     },
     "john deere": {
       "company": "John Deere",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5113,7 +4941,7 @@
     },
     "irobot": {
       "company": "iRobot",
-      "checked_at": "2026-08-03T21:37:53.082Z",
+      "checked_at": "2026-08-04T14:34:39.702Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
