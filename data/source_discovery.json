@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-04T22:37:36.880Z",
+  "updated_at": "2026-08-05T00:41:14.568Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,7 +62,7 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
       "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:34:23.691Z"
@@ -832,7 +832,7 @@
         "limit": 20,
         "verified_open_jobs": 413
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
       "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
@@ -1144,24 +1144,12 @@
     },
     "fireworks ai": {
       "company": "Fireworks AI",
-      "checked_at": "2026-08-03T21:37:53.082Z",
-      "status": "discovered",
-      "method": "ats-fingerprint",
-      "reason": "",
+      "checked_at": "2026-08-05T00:38:06.016Z",
+      "status": "none",
+      "method": "",
+      "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
       "robots_url": "https://fireworks.ai/robots.txt",
-      "source": {
-        "company": "Fireworks AI",
-        "adapter": "ashby",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://fireworks.ai/careers",
-        "board": "fireworksai",
-        "verified_open_jobs": 47
-      },
-      "last_scan_at": "2026-08-03T21:42:03.794Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-08-03T21:42:03.794Z"
+      "source": null
     },
     "cerebras": {
       "company": "Cerebras",
@@ -1240,12 +1228,24 @@
     },
     "shield ai": {
       "company": "Shield AI",
-      "checked_at": "2026-08-04T22:34:45.415Z",
-      "status": "error",
-      "method": "",
-      "reason": "ATS fingerprint verification failed: request timed out after 10000ms",
-      "robots_url": "",
-      "source": null
+      "checked_at": "2026-08-04T14:38:29.448Z",
+      "status": "discovered",
+      "method": "ats-fingerprint",
+      "reason": "",
+      "robots_url": "https://shield.ai/robots.txt",
+      "source": {
+        "company": "Shield AI",
+        "adapter": "lever",
+        "priority": "P1",
+        "source_kind": "discovered",
+        "discovered_from": "https://shield.ai/careers/",
+        "site": "shieldai",
+        "verified_open_jobs": 438
+      },
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
+      "last_verified_at": "2026-08-04T14:41:26.577Z"
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
@@ -1602,7 +1602,7 @@
         "limit": 20,
         "verified_open_jobs": 673
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
       "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
@@ -1653,9 +1653,9 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
+      "last_scan_at": "2026-08-03T21:42:03.794Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "arm": {
@@ -1709,7 +1709,7 @@
         "limit": 20,
         "verified_open_jobs": 525
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
       "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
@@ -1841,9 +1841,9 @@
         "limit": 20,
         "verified_open_jobs": 69
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
+      "last_scan_at": "2026-08-03T21:42:03.794Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
       "last_verified_at": "2026-08-03T21:42:03.794Z"
     },
     "figure ai": {
@@ -1908,7 +1908,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-08-04T22:27:50.521Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1926,9 +1926,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-04T22:30:42.018Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "429 Too Many Requests",
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2319,7 +2320,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2337,9 +2338,10 @@
         "limit": 20,
         "verified_open_jobs": 344
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-04T23:44:40.959Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -2511,7 +2513,7 @@
     },
     "zendesk": {
       "company": "Zendesk",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T23:42:09.528Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2529,9 +2531,10 @@
         "limit": 20,
         "verified_open_jobs": 124
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "429 Too Many Requests",
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3384,10 +3387,10 @@
         "limit": 20,
         "verified_open_jobs": 68
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -3866,7 +3869,7 @@
     },
     "booz allen hamilton": {
       "company": "Booz Allen Hamilton",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3884,9 +3887,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "429 Too Many Requests",
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "northrop grumman": {
       "company": "Northrop Grumman",
@@ -4121,7 +4125,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4139,10 +4143,10 @@
         "limit": 20,
         "verified_open_jobs": 161
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "last_scan_at": "2026-08-05T00:41:14.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4524,7 +4528,7 @@
     },
     "comcast": {
       "company": "Comcast",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4540,12 +4544,12 @@
         "site": "Comcast_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 750
+        "verified_open_jobs": 751
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "verizon": {
       "company": "Verizon",
@@ -4558,7 +4562,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4574,12 +4578,12 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 736
+        "verified_open_jobs": 737
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-04T23:44:40.959Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "ge aerospace": {
       "company": "GE Aerospace",
@@ -4735,7 +4739,7 @@
     },
     "axiom space": {
       "company": "Axiom Space",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4753,9 +4757,10 @@
         "limit": 20,
         "verified_open_jobs": 63
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-04T22:44:29.737Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "vast": {
       "company": "Vast",
@@ -4804,7 +4809,7 @@
     },
     "red hat": {
       "company": "Red Hat",
-      "checked_at": "2026-08-04T22:34:45.415Z",
+      "checked_at": "2026-08-04T22:41:53.478Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4822,10 +4827,10 @@
         "limit": 20,
         "verified_open_jobs": 150
       },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
+      "last_scan_at": "2026-08-04T23:44:40.959Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "canonical": {
       "company": "Canonical",
@@ -4847,34 +4852,12 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-08-04T22:34:45.415Z",
-      "status": "discovered",
-      "method": "official-job-links",
-      "reason": "",
-      "robots_url": "https://www.mathworks.com/robots.txt",
-      "source": {
-        "company": "MathWorks",
-        "adapter": "html_jobs",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://www.mathworks.com/company/jobs/opportunities.html",
-        "urls": [
-          "https://www.mathworks.com/company/jobs/opportunities.html"
-        ],
-        "relativeJobBase": "https://www.mathworks.com/company/jobs/opportunities.html",
-        "detailUrlPatterns": [
-          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
-          "/careers?/jobs?/[^/?#]+",
-          "/details/\\d{4,}[^/?#]*",
-          "[?&](?:job_?id|job|req_?id|posting_?id)="
-        ],
-        "keepDetailQuery": true,
-        "detailLimit": 30
-      },
-      "last_scan_at": "2026-08-04T22:37:36.880Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-08-04T22:37:36.880Z"
+      "checked_at": "2026-08-04T22:41:53.478Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "ansys": {
       "company": "Ansys",

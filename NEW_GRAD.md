@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 4, 2026 at 6:37 PM EDT
+Last updated: August 4, 2026 at 8:41 PM EDT
 
-Current roles: 161
+Current roles: 162
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -78,7 +78,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Boeing | Entry-Level Systems Engineer (Digital Comm &amp; Networks Sys Engrg) | USA - El Segundo, CA | $79,050 - $106,950 | Early career | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769-1>) |
 | Chicago Trading Company | Quant Trading Associate - 2027 Start | Chicago, IL | $200,000 - $200,000 USD | 2027 grad eligible | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005>) |
 | NewsBreak | Software Engineer, ML Infra (Junior &amp; New Grad) | Mountain View, CA | $125,000 - $175,000 USD | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4615879006>) |
-| Palantir | Forward Deployed Software Engineer - New Grad - Intel - US Government | Washington, DC | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 28, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382>) |
+| Palantir | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 28, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382>) |
 | AG Technologies | Entry Level Software Engineer | Chesterfield, MO | - | Early career | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/100730616-entry-level-software-engineer>) |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | RTX | Conversion - Software Engineer 1 | St. Petersburg, FL | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332>) |
@@ -113,9 +113,9 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Voloridge Investment Management | Quantitative Research Fellowship 2027 | Jupiter, FL | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009>) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
 | Ellipsis Labs | Software Engineer, New Grad | New York, NY | $150,000 - $200,000 | 2027 grad eligible | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d>) |
-| Palantir | Forward Deployed Software Engineer, New Grad | Washington, DC | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb>) |
-| Palantir | Software Engineer, New Grad - Defense | Washington, DC | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79>) |
-| Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, DC | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
+| Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb>) |
+| Palantir | Software Engineer, New Grad - Defense | Washington, D.C. | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79>) |
+| Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8013085>) |
 | IXL Learning | Software Engineer - New Grad | Raleigh, NC | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615717002>) |
 | IXL Learning | Software Engineer - New Grad | San Mateo, CA | - | Explicit new grad role | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8615710002>) |
@@ -155,6 +155,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | TikTok | Data Scientist Graduate (TikTok LIVE) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669660107303684405>) |
 | TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667035008003328309>) |
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
+| TikTok | Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668512600592812293>) |
 | TikTok | Data Scientist Graduate (TikTok-Search) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669658702904871173>) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | SentiLink | Data Scientist - New Grad | Remote (US) | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
