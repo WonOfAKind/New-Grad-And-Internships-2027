@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 4, 2026 at 8:41 PM EDT
+Last updated: August 5, 2026 at 9:51 AM EDT
 
-Current roles: 162
+Current roles: 163
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -157,10 +157,10 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
 | TikTok | Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668512600592812293>) |
 | TikTok | Data Scientist Graduate (TikTok-Search) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669658702904871173>) |
+| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 28, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Reston, VA | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | SentiLink | Data Scientist - New Grad | Remote (US) | $120,000/year | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408>) |
 | Software Quality Experts | Entry level Business Analyst/ Data Analyst | Dulles, VA | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861-entry-level-business-analyst-data-analyst>) |
-| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 
 ## Mechanical Engineering
 
@@ -168,6 +168,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 |---|---|---|---|---|---|---|
 | Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
+| RTX | Raytheon 2027 Digital Hardware Engineer II (Onsite) | huntsville, Alabama, United States of America | - | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Raytheon-2027-Digital-Hardware-Engineer-II--Onsite-_01862473/apply>) |
 | TikTok | Design Engineering Graduate (Design System &amp; AI Workflow) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667837906192877829>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
