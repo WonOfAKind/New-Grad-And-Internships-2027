@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 5, 2026 at 2:12 PM EDT
+Last updated: August 5, 2026 at 3:54 PM EDT
 
-Current roles: 304
+Current roles: 306
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -151,7 +151,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Ambarella | Software Development Engineer Intern | Santa Clara, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108>) |
 | Ambarella | Software Engineer Intern | Santa Clara, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107>) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005>) |
-| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Marmon Holdings | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | $27.00/hour | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Virtu Financial | 2027 Internship - Software Engineer | Austin, TX; New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Jul 23, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624410002>) |
@@ -228,6 +228,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
+| JPMorgan Chase | 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223>) |
 | TikTok | Data Scientist Intern (VOD Data) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
 | Centerfield | Data Science Intern | Los Angeles, CA | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33>) |
 | TikTok | Data Science Intern (TikTok Integrity and Safety) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
@@ -248,7 +250,8 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Cisco | Hardware Engineer II (Co-op) - United States | San Jose, California, US | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2000128>) |
-| Envista Holdings | Intern - Process Engineering | United States of America, New Jersey, Mahwah | $25.00/hour | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--New-Jersey--Mahwah/Intern---Process-Engineering_R5027023>) |
+| Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767>) |
+| Envista Holdings | Intern - Process Engineering | NJ | $25.00/hour | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--New-Jersey--Mahwah/Intern---Process-Engineering_R5027023>) |
 | Jabil | Manufacturing Engineer - Intern | West Chester, PA | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898>) |
 | Reframe Systems | Mechanical Engineer (Spring 2027 Co-op) | Andover, MA | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jobs.ashbyhq.com/reframesystems/f5275832-8373-4971-b5f6-6aaececcb061>) |
 | Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763>) |
@@ -297,7 +300,6 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Thornton Tomasetti | Structural Engineer Intern | New York, NY, USA | $30 - $35 hourly | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Structural-Engineer-Intern_R7152>) |
 | Thornton Tomasetti | Structural Engineer Co-op | Philadelphia, PA, USA | - | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 3, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/Philadelphia-PA-USA/Structural-Engineer-Co-op_R7112>) |
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
-| The Exploration Company | Crew Systems Engineering Intern - Mechanical/Structures | Houston, Texas | - | 2027 internship eligible | Posted Jul 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/the-exploration-company/90170478-eb9d-46cd-bdf2-7967875919a6>) |
 
 ## Other
 
