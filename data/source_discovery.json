@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-05T19:54:40.990Z",
+  "updated_at": "2026-08-05T21:25:59.169Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1935,9 +1935,10 @@
         "limit": 20,
         "verified_open_jobs": 986
       },
-      "last_scan_at": "2026-08-05T19:54:40.990Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-05T21:25:59.169Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-05T21:25:59.169Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2322,9 +2323,10 @@
         "limit": 20,
         "verified_open_jobs": 344
       },
-      "last_scan_at": "2026-08-05T16:22:06.277Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-05T21:25:59.169Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-05T21:25:59.169Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -4511,7 +4513,7 @@
     },
     "comcast": {
       "company": "Comcast",
-      "checked_at": "2026-08-04T22:41:53.478Z",
+      "checked_at": "2026-08-05T21:23:06.394Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4527,12 +4529,12 @@
         "site": "Comcast_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 751
+        "verified_open_jobs": 759
       },
-      "last_scan_at": "2026-08-05T19:54:40.990Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-04T22:44:29.737Z"
+      "last_scan_at": "2026-08-05T21:25:59.169Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-05T21:25:59.169Z"
     },
     "verizon": {
       "company": "Verizon",
