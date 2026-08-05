@@ -63,6 +63,8 @@ export function dateOnly(value) {
   if (!text) return "";
   const direct = /^(\d{4}-\d{2}-\d{2})$/.exec(text)?.[1];
   if (direct) return direct;
+  const isoCalendarDate = /^(\d{4}-\d{2}-\d{2})T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?$/.exec(text)?.[1];
+  if (isoCalendarDate) return isoCalendarDate;
   const monthNames = {
     jan: "01", feb: "02", mar: "03", apr: "04", may: "05", jun: "06",
     jul: "07", aug: "08", sep: "09", oct: "10", nov: "11", dec: "12",
@@ -266,7 +268,8 @@ export function graduationMatch(title, text = "") {
 
 export function hasOnlyExcludedGraduationWindow(title, text = "") {
   const haystack = `${title}\n${text}`;
-  if (/\b2026\b/i.test(title) && !/\b2027\b/i.test(title)) return true;
+  const titleYears = [...String(title).matchAll(/\b(20\d{2})\b/g)].map((match) => Number(match[1]));
+  if (titleYears.some((year) => year < 2027) && !titleYears.includes(2027)) return true;
   const hasExcludedWindow = excludedGradWindowPatterns.some((pattern) => pattern.test(haystack));
   const hasTargetWindow = targetGradPatterns.some((pattern) => pattern.test(haystack));
   return hasExcludedWindow && !hasTargetWindow;
@@ -358,7 +361,8 @@ export function isFreshEnough(lead) {
   if (/\.\.\.$/.test(title)) return false;
   if (/\.\.\.$/.test(normalize(lead.location))) return false;
   const urlYearEvidence = applyUrl(lead).replace(/[-_/]+/g, " ");
-  if (/\b2026\b/i.test(urlYearEvidence) && !/\b2027\b/i.test(urlYearEvidence)) return false;
+  const urlYears = [...urlYearEvidence.matchAll(/\b(20\d{2})\b/g)].map((match) => Number(match[1]));
+  if (urlYears.some((year) => year < 2027) && !urlYears.includes(2027)) return false;
   if (!isRelevant(title)) return false;
   if (!isEligibleRole(title, context)) return false;
   if (isEligibleRole(title, context)) return true;

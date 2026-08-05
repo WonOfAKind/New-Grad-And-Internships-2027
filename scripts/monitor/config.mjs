@@ -37,6 +37,7 @@ export const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([
   "amazon",
+  "eightfold",
   "greenhouse",
   "lever",
   "ashby",
@@ -214,16 +215,16 @@ export const targetGradPatterns = [
 ];
 
 export const excludedGradWindowPatterns = [
-  /class\s+of\s+2026/i,
-  /2026\s+grad(?:uate)?/i,
-  /grad(?:uating|uation)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*2026/i,
-  /(?:spring|summer|fall|winter)\s+2026\s+grad(?:uate)?/i,
-  /(?:may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|dec(?:ember)?)\s+2026/i,
-  /2026\s+(?:new\s+grad|university\s+grad|early\s+career)/i,
-  /(?:spring|summer|fall|winter)\s+2026/i,
-  /2026\s+start/i,
-  /start(?:ing)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*2026/i,
-  /(?:january|february|march|april|may|june|july|august|september|october|november|december)\s+2026\s+start/i,
+  /class\s+of\s+202[0-6]/i,
+  /202[0-6]\s+grad(?:uate)?/i,
+  /grad(?:uating|uation)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*202[0-6]/i,
+  /(?:spring|summer|fall|winter)\s+202[0-6]\s+grad(?:uate)?/i,
+  /(?:may|jun(?:e)?|jul(?:y)?|aug(?:ust)?|dec(?:ember)?)\s+202[0-6]/i,
+  /202[0-6]\s+(?:new\s+grad|university\s+grad|early\s+career)/i,
+  /(?:spring|summer|fall|winter)\s+202[0-6]/i,
+  /202[0-6]\s+start/i,
+  /start(?:ing)?\s+(?:in\s+)?(?:spring|summer|fall|winter)?\s*202[0-6]/i,
+  /(?:january|february|march|april|may|june|july|august|september|october|november|december)\s+202[0-6]\s+start/i,
 ];
 
 export const excludedDirectApplyUrls = new Set([

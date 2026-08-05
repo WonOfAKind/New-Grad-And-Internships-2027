@@ -33,11 +33,11 @@
     "company": "Microsoft",
     "bucket": "Big Tech",
     "priority": "P0",
-    "career_url": "https://jobs.careers.microsoft.com/global/en/search",
+    "career_url": "https://apply.careers.microsoft.com/careers",
     "role_families": "SWE, AI Platform, Data",
     "default_resume": "General CS/SWE or AI/ML",
     "monitor_queries": "software engineer; recent graduate; university; Aspire",
-    "source_type": "Recent graduate page plus jobs search"
+    "source_type": "Official Eightfold careers API"
   },
   {
     "company": "Apple",

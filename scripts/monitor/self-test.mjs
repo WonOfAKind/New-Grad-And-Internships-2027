@@ -20,6 +20,9 @@ import {
 import {
   amazonJobToLead,
   amazonJobUrl,
+  eightfoldInternshipCycleEvidence,
+  eightfoldJobUrl,
+  eightfoldSearchUrl,
   htmlJobFromDetail,
   htmlJobToLead,
   htmlJobUrl,
@@ -116,6 +119,7 @@ export async function runSelfTests() {
   );
   assertEqual(normalizePostingDate("Jul 18, 2026"), "2026-07-18", "named calendar date is timezone invariant");
   assertEqual(normalizePostingDate("7/18/2026"), "2026-07-18", "numeric calendar date is timezone invariant");
+  assertEqual(normalizePostingDate("2026-08-04T01:05:33"), "2026-08-04", "timezone-less ISO posting date keeps its calendar day");
   assertEqual(
     extractCompensation("Graduate Software Engineer", "The salary for this role is $200,000."),
     "$200,000",
@@ -252,6 +256,16 @@ export async function runSelfTests() {
     "explicit title year overrides inferred source season",
   );
   assertEqual(
+    isEligibleRole("Software Engineer, TensorRT - New College Grad 2025", ""),
+    false,
+    "pre-2027 new-grad title is rejected",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer Intern", "Class of 2025 internship program"),
+    false,
+    "pre-2027 internship description is rejected",
+  );
+  assertEqual(
     isFreshEnough({ company: "Example", title: "Software Engineering Intern, Summ...", location: "Austin, TX", url: "https://example.com/jobs/123", grad_window: "2027 internship cycle" }),
     false,
     "truncated public title rejected",
@@ -260,6 +274,11 @@ export async function runSelfTests() {
     isFreshEnough({ company: "Example", title: "Data Analytics Intern", location: "Austin, TX", url: "https://example.com/jobs/data-analytics-intern-fall-2026-123", grad_window: "2027 internship cycle" }),
     false,
     "official URL year overrides inferred source season",
+  );
+  assertEqual(
+    isFreshEnough({ company: "NVIDIA", title: "Software Engineer, New College Grad", location: "Santa Clara, CA", url: "https://example.com/jobs/new-college-grad-2025", grad_window: "Explicit new grad role" }),
+    false,
+    "pre-2027 recruiting year in official URL is rejected",
   );
   assertEqual(
     isFreshEnough({ company: "SpaceX", title: "New Graduate Engineer, Software (Starlink)", location: "Redmond, WA", url: "https://boards.greenhouse.io/spacex/jobs/8376990002", grad_window: "Explicit new grad role" }),
@@ -390,6 +409,14 @@ export async function runSelfTests() {
     providerDescriptorForSeed({ url: "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i", company: "Amazon" }).id,
     "10490741",
     "Amazon provider descriptor",
+  );
+  assertEqual(
+    providerDescriptorForSeed(
+      { url: "https://apply.careers.microsoft.com/careers/job/1970393556922923", company: "Microsoft" },
+      [{ company: "Microsoft", adapter: "eightfold", baseUrl: "https://apply.careers.microsoft.com", domain: "microsoft.com", targetYear: 2027 }],
+    ).id,
+    "1970393556922923",
+    "Eightfold provider descriptor",
   );
   assertEqual(
     providerDescriptorForSeed({ url: "https://example.wd5.myworkdayjobs.com/en-US/External/job/Austin/Engineer_R123", company: "Example" }).site,
@@ -665,6 +692,41 @@ export async function runSelfTests() {
   assertTruthy(
     isEligibleRole(amazonLead.role_title, `${amazonJob.description}\n${amazonJob.basic_qualifications}`),
     "Amazon early-career eligibility",
+  );
+
+  const eightfoldSource = {
+    company: "Microsoft",
+    baseUrl: "https://apply.careers.microsoft.com",
+    domain: "microsoft.com",
+    targetYear: 2027,
+  };
+  const eightfoldJob = {
+    id: "1970393556922923",
+    positionUrl: "/careers/job/1970393556922923",
+    title: "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
+    description: "Currently pursuing Bachelor's Degree in Computer Science with one term remaining after the internship.",
+    datePosted: "2026-08-04T01:05:33",
+    validThrough: "2027-01-31T01:05:33",
+  };
+  assertEqual(
+    eightfoldSearchUrl(eightfoldSource, "intern", 10),
+    "https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&query=intern&location=United+States&start=10&sort_by=recent",
+    "Eightfold search URL",
+  );
+  assertEqual(
+    eightfoldJobUrl(eightfoldSource, eightfoldJob),
+    "https://apply.careers.microsoft.com/careers/job/1970393556922923",
+    "Eightfold direct job URL",
+  );
+  assertEqual(
+    eightfoldInternshipCycleEvidence(eightfoldSource, eightfoldJob),
+    "2027 internship eligible",
+    "Microsoft university internship campaign evidence",
+  );
+  assertEqual(
+    eightfoldInternshipCycleEvidence(eightfoldSource, { ...eightfoldJob, validThrough: "2026-12-01" }),
+    "",
+    "Eightfold internship without target-year campaign window is not inferred",
   );
 
   validateConfiguration(

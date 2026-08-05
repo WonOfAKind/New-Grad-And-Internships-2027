@@ -45,6 +45,7 @@ export function validateConfiguration(targets, sources) {
 
   const requiredByAdapter = {
     amazon: ["baseUrl"],
+    eightfold: ["baseUrl", "domain"],
     greenhouse: ["board"],
     lever: ["site"],
     ashby: ["board"],
@@ -73,7 +74,7 @@ export function validateConfiguration(targets, sources) {
     for (const field of requiredByAdapter[source.adapter] ?? []) {
       if (!normalize(source[field])) throw new Error(`${label}.${field} is required for ${source.adapter}`);
     }
-    if (["phenom", "avature", "oracle", "tiktok", "amazon"].includes(source.adapter) && !isHttpUrl(source.baseUrl)) {
+    if (["phenom", "avature", "oracle", "tiktok", "amazon", "eightfold"].includes(source.adapter) && !isHttpUrl(source.baseUrl)) {
       throw new Error(`${label}.baseUrl must be an HTTP(S) URL`);
     }
     if (source.adapter === "tesla" && !isHttpUrl(source.url)) {
@@ -98,7 +99,7 @@ export function validateConfiguration(targets, sources) {
     if (source.searchTexts != null && (!Array.isArray(source.searchTexts) || source.searchTexts.length === 0 || source.searchTexts.some((value) => !normalize(value)))) {
       throw new Error(`${label}.searchTexts must be a non-empty array of strings`);
     }
-    for (const field of ["timeoutMs", "doubleCheckTimeoutMs", "limit", "detailLimit", "maxPages", "searchConcurrency"]) {
+    for (const field of ["timeoutMs", "doubleCheckTimeoutMs", "limit", "detailLimit", "maxPages", "searchConcurrency", "targetYear"]) {
       if (source[field] != null && (!Number.isSafeInteger(source[field]) || source[field] <= 0)) {
         throw new Error(`${label}.${field} must be a positive integer`);
       }
@@ -152,8 +153,8 @@ export async function fetchWithRetries(url, accept, readBody, timeoutMs = fetchT
   throw lastError;
 }
 
-export async function fetchJson(url, timeoutMs = fetchTimeoutMs) {
-  return fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs);
+export async function fetchJson(url, timeoutMs = fetchTimeoutMs, init = {}) {
+  return fetchWithRetries(url, "application/json,text/plain,*/*", (response) => response.json(), timeoutMs, init);
 }
 
 export async function fetchText(url, timeoutMs = fetchTimeoutMs, init = {}) {

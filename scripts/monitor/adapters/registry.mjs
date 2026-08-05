@@ -9,6 +9,7 @@ import { mapConcurrent } from "../domain.mjs";
 import { isRetryableScanError, sourceErrorLog } from "../http.mjs";
 import { annotateSourceLeads, reconciliationModeFor, sourceIdFor } from "../lifecycle.mjs";
 import { scanAmazon } from "./amazon.mjs";
+import { scanEightfold } from "./eightfold.mjs";
 import {
   scanAshby,
   scanAvature,
@@ -25,6 +26,7 @@ import { scanGoogleCareers, scanHtmlJobs, scanSitemapJobs } from "./html.mjs";
 export async function scanSource(source, timeoutMs) {
   switch (source.adapter) {
     case "amazon": return scanAmazon(source, timeoutMs);
+    case "eightfold": return scanEightfold(source, timeoutMs);
     case "greenhouse": return scanGreenhouse(source, timeoutMs);
     case "lever": return scanLever(source, timeoutMs);
     case "ashby": return scanAshby(source, timeoutMs);

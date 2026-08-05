@@ -9,6 +9,7 @@ import {
 import { absoluteHttpUrl, mapConcurrent, normalize } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
 import { amazonSearchUrl } from "./adapters/amazon.mjs";
+import { eightfoldSearchUrl } from "./adapters/eightfold.mjs";
 import { oracleSearchUrl } from "./adapters/oracle.mjs";
 
 const crawlerProduct = "CodexJobMonitor";
@@ -205,6 +206,16 @@ export function detectAtsSources(target, candidateUrls) {
         maxPages: 3,
       }));
     }
+    if (host.endsWith(".eightfold.ai") || host === "apply.careers.microsoft.com") {
+      sources.push(sourceBase(target, "eightfold", {
+        baseUrl: url.origin,
+        domain: host === "apply.careers.microsoft.com" ? "microsoft.com" : host.split(".")[0],
+        searchTexts: ["2027 internship", "new grad", "early career"],
+        maxPages: 10,
+        detailLimit: 100,
+        targetYear: 2027,
+      }));
+    }
   }
   const seen = new Set();
   return sources.filter((source) => {
@@ -271,6 +282,10 @@ async function verifyAtsSource(source) {
   if (source.adapter === "amazon") {
     const data = await fetchJson(amazonSearchUrl(source, "early career", 1, 0), fetchTimeoutMs);
     return Number(data?.hits) || (data?.jobs ?? []).length;
+  }
+  if (source.adapter === "eightfold") {
+    const data = await fetchJson(eightfoldSearchUrl(source, "intern", 0), fetchTimeoutMs);
+    return Number(data?.data?.count) || (data?.data?.positions ?? []).length;
   }
   return 0;
 }

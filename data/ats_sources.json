@@ -24,6 +24,27 @@
     "priority": "P0"
   },
   {
+    "company": "Microsoft",
+    "adapter": "eightfold",
+    "baseUrl": "https://apply.careers.microsoft.com",
+    "domain": "microsoft.com",
+    "location": "United States",
+    "searchTexts": [
+      "intern opportunities for university students",
+      "2027 internship",
+      "research intern",
+      "new grad",
+      "recent graduate",
+      "early career"
+    ],
+    "maxPages": 10,
+    "detailLimit": 100,
+    "searchConcurrency": 1,
+    "targetYear": 2027,
+    "timeoutMs": 30000,
+    "priority": "P0"
+  },
+  {
     "company": "SpaceX",
     "adapter": "greenhouse",
     "board": "spacex",

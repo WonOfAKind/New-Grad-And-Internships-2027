@@ -24,6 +24,7 @@ import {
 } from "./domain.mjs";
 import { fetchDocument, fetchJson, fetchText, fetchWithRetries } from "./http.mjs";
 import { amazonJobToHtmlShape, amazonSearchUrl } from "./adapters/amazon.mjs";
+import { fetchEightfoldJob } from "./adapters/eightfold.mjs";
 import { htmlJobFromDetail, htmlJobToLead } from "./adapters/html.mjs";
 import { fetchOracleJobDetail, oracleJobToHtmlShape } from "./adapters/oracle.mjs";
 import { officialPageRejection } from "./official_page.mjs";
@@ -303,6 +304,18 @@ export function providerDescriptorForSeed(seed, sourceHints = []) {
   if (/^(?:www\.)?amazon\.jobs$/i.test(url.hostname) && amazonPath) {
     return { adapter: "amazon", baseUrl: url.origin, id: amazonPath[1] };
   }
+  const eightfoldPath = url.pathname.match(/^\/careers\/job\/(\d+)/i);
+  const eightfoldHint = sourceHintFor(seed, sourceHints, "eightfold");
+  if (eightfoldPath && (eightfoldHint || /\.eightfold\.ai$|^apply\.careers\.microsoft\.com$/i.test(url.hostname))) {
+    return {
+      adapter: "eightfold",
+      baseUrl: eightfoldHint?.baseUrl ?? url.origin,
+      domain: eightfoldHint?.domain ?? url.hostname.split(".")[0],
+      targetYear: eightfoldHint?.targetYear ?? 2027,
+      id: eightfoldPath[1],
+      positionUrl: url.pathname,
+    };
+  }
   const greenhousePath = url.pathname.match(/^\/([^/]+)\/jobs\/(\d+)/i);
   if (/(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io$/i.test(url.hostname) && greenhousePath) {
     return { adapter: "greenhouse", board: greenhousePath[1], id: greenhousePath[2], host: url.hostname };
@@ -348,6 +361,7 @@ export function workdayRequisitionId(url) {
 
 function providerJobToHtmlShape(descriptor, job, seed) {
   if (descriptor.adapter === "amazon") return amazonJobToHtmlShape(descriptor, job);
+  if (descriptor.adapter === "eightfold") return job;
   if (descriptor.adapter === "ashby") {
     return {
       title: job.title,
@@ -398,6 +412,10 @@ export async function verifyKnownProvider(seed, sourceHints, timeoutMs, cache) {
       if (!cache.has(key)) cache.set(key, fetchJson(amazonSearchUrl(descriptor, descriptor.id, 10, 0), timeoutMs));
       const payload = await cache.get(key);
       job = (payload.jobs ?? []).find((item) => normalize(item.id_icims) === descriptor.id);
+    } else if (descriptor.adapter === "eightfold") {
+      const key = `eightfold|${descriptor.baseUrl.toLowerCase()}|${descriptor.id}`;
+      if (!cache.has(key)) cache.set(key, fetchEightfoldJob(descriptor, descriptor, timeoutMs));
+      job = await cache.get(key);
     } else if (descriptor.adapter === "ashby") {
       const key = `ashby|${descriptor.board.toLowerCase()}`;
       if (!cache.has(key)) cache.set(key, fetchJson(`https://api.ashbyhq.com/posting-api/job-board/${descriptor.board}`, timeoutMs));
