@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-05T16:22:06.277Z",
+  "updated_at": "2026-08-05T18:12:31.179Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -4740,9 +4740,9 @@
         "limit": 20,
         "verified_open_jobs": 63
       },
-      "last_scan_at": "2026-08-04T22:44:29.737Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-05T18:12:31.179Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-04T22:44:29.737Z"
     },
     "vast": {
@@ -4810,9 +4810,9 @@
         "limit": 20,
         "verified_open_jobs": 150
       },
-      "last_scan_at": "2026-08-04T23:44:40.959Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-05T18:12:31.179Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-04T23:44:40.959Z"
     },
     "canonical": {
