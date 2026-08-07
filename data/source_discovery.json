@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T15:36:03.842Z",
+  "updated_at": "2026-08-07T16:34:29.887Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2321,9 +2321,9 @@
         "limit": 20,
         "verified_open_jobs": 336
       },
-      "last_scan_at": "2026-08-07T15:36:03.842Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T16:34:29.887Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T15:36:03.842Z"
     },
     "cisco": {
