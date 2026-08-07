@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T20:22:32.996Z",
+  "updated_at": "2026-08-07T21:23:54.444Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1910,9 +1910,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-07T19:40:16.755Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T21:23:54.444Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T19:40:16.755Z"
     },
     "home depot technology": {
@@ -2304,7 +2304,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-07T21:20:36.373Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2320,12 +2320,12 @@
         "site": "Workday",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 336
+        "verified_open_jobs": 343
       },
-      "last_scan_at": "2026-08-07T20:22:32.996Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T18:30:42.894Z"
+      "last_scan_at": "2026-08-07T21:23:54.444Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T21:23:54.444Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -3966,9 +3966,9 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-04T21:38:32.501Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T21:23:54.444Z",
+      "last_scan_status": "error",
+      "last_scan_error": "403 Forbidden",
       "last_verified_at": "2026-08-04T21:38:32.501Z"
     },
     "axon": {
@@ -4723,7 +4723,7 @@
     },
     "axiom space": {
       "company": "Axiom Space",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-07T21:20:36.373Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4739,12 +4739,12 @@
         "site": "External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 69
+        "verified_open_jobs": 70
       },
-      "last_scan_at": "2026-08-07T20:22:32.996Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T14:40:19.349Z"
+      "last_scan_at": "2026-08-07T21:23:54.444Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T21:23:54.444Z"
     },
     "vast": {
       "company": "Vast",
@@ -4811,9 +4811,9 @@
         "limit": 20,
         "verified_open_jobs": 158
       },
-      "last_scan_at": "2026-08-07T14:40:19.349Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T21:23:54.444Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T14:40:19.349Z"
     },
     "canonical": {
