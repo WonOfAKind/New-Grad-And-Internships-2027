@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 7, 2026 at 5:23 PM EDT
+Last updated: August 7, 2026 at 6:19 PM EDT
 
-Current roles: 186
+Current roles: 187
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -45,6 +45,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | TikTok | Software Engineer Graduate(Ads Infrastructure) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668879883938203957>) |
 | TikTok | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668701834807101749>) |
 | Lightfield | Early Career Infrastructure Software Engineer | Boston, MA | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420>) |
+| Shopify | Applied Machine Learning Engineering Internships Winter 2027 | Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d>) |
 | TikTok | Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670391173613160757>) |
 | TikTok | Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670387719826786565>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285495593273605>) |
@@ -87,7 +88,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | IMC Trading | Software Engineer, Early Career | Chicago, United States | $200,000 | Early career | First seen Aug 3, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4577504101>) |
 | JPMorgan Chase | 2027 Software Engineer Program - Full-Time - United States - July Start | Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Tampa, FL, United States; Wilmington, DE, United States | $80,750.00-$95,000.00 | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774111>) |
 | TikTok | (General hire) Backend Software Engineer Graduate (Trust &amp; Safety) - 2027 Start | Seattle, Washington, United States of America | $121,600 - $243,200 annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7664533229944178949>) |
-| TikTok | Backend Software Engineer Graduate (Business Governace) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663042453461600517>) |
+| TikTok | Backend Software Engineer Graduate (Business Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663042453461600517>) |
 | TikTok | Backend Software Engineer Graduate (Machine Moderation Platform) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663036950303050037>) |
 | TikTok | Backend Software Engineer Graduate (Risk &amp; Response) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663032057264244997>) |
 | TikTok | Machine Learning Engineer Graduate (Ads Creative) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668669015051405573>) |
@@ -130,7 +131,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | Texas Instruments | New College Graduate - IT Software Development Engineer | Dallas, TX | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815>) |
 | Traba | Software Engineer New Grad | New York, NY | $120,000 | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70>) |
 | Uare.ai | Software Engineer - Early Career | Mountain View, CA | $100,000 - $150,000 USD | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/uareai/jobs/4036519009>) |
-| xAI | Software Engineer - Evals | Palo Alto, California, United States | $175,000 - $275,000 USD | Explicit new grad role | First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5188230007>) |
+| xAI | Software Engineer - Evals | Palo Alto, California | $175,000 - $275,000 USD | Explicit new grad role | First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/xai/jobs/5188230007>) |
 | Akuna Capital | Junior Quantitative Developer &amp; Strategist | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8016687>) |
 | Akuna Capital | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8013230>) |

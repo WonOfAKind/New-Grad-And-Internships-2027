@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T21:23:54.444Z",
+  "updated_at": "2026-08-07T22:19:39.640Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2322,9 +2322,9 @@
         "limit": 20,
         "verified_open_jobs": 343
       },
-      "last_scan_at": "2026-08-07T21:23:54.444Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T22:19:39.640Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T21:23:54.444Z"
     },
     "cisco": {
@@ -3942,7 +3942,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-08-04T21:35:28.115Z",
+      "checked_at": "2026-08-07T22:16:29.218Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3966,10 +3966,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-07T21:23:54.444Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-04T21:38:32.501Z"
+      "last_scan_at": "2026-08-07T22:19:39.640Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T22:19:39.640Z"
     },
     "axon": {
       "company": "Axon",
@@ -4793,7 +4793,7 @@
     },
     "red hat": {
       "company": "Red Hat",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-07T22:16:29.218Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4809,12 +4809,12 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 158
+        "verified_open_jobs": 154
       },
-      "last_scan_at": "2026-08-07T21:23:54.444Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T14:40:19.349Z"
+      "last_scan_at": "2026-08-07T22:19:39.640Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T22:19:39.640Z"
     },
     "canonical": {
       "company": "Canonical",
