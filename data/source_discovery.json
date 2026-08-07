@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T22:19:39.640Z",
+  "updated_at": "2026-08-07T23:18:59.988Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -3871,9 +3871,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T13:37:34.976Z"
     },
     "northrop grumman": {
@@ -4127,9 +4127,9 @@
         "limit": 20,
         "verified_open_jobs": 161
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T13:37:34.976Z"
     },
     "oscar health": {
@@ -4530,9 +4530,9 @@
         "limit": 20,
         "verified_open_jobs": 774
       },
-      "last_scan_at": "2026-08-07T15:36:03.842Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T15:36:03.842Z"
     },
     "verizon": {
@@ -4564,9 +4564,9 @@
         "limit": 20,
         "verified_open_jobs": 732
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T13:37:34.976Z"
     },
     "ge aerospace": {
@@ -4741,9 +4741,9 @@
         "limit": 20,
         "verified_open_jobs": 70
       },
-      "last_scan_at": "2026-08-07T21:23:54.444Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T21:23:54.444Z"
     },
     "vast": {
@@ -4811,9 +4811,9 @@
         "limit": 20,
         "verified_open_jobs": 154
       },
-      "last_scan_at": "2026-08-07T22:19:39.640Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T22:19:39.640Z"
     },
     "canonical": {
