@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T13:37:34.976Z",
+  "updated_at": "2026-08-07T14:40:19.349Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -205,9 +205,9 @@
         "limit": 100,
         "verified_open_jobs": 15
       },
-      "last_scan_at": "2026-08-03T21:34:23.691Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T14:40:19.349Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-03T21:34:23.691Z"
     },
     "airbnb": {
@@ -4528,9 +4528,9 @@
         "limit": 20,
         "verified_open_jobs": 774
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T14:40:19.349Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T13:37:34.976Z"
     },
     "verizon": {
@@ -4739,9 +4739,10 @@
         "limit": 20,
         "verified_open_jobs": 69
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-07T14:40:19.349Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T14:40:19.349Z"
     },
     "vast": {
       "company": "Vast",
@@ -4808,9 +4809,10 @@
         "limit": 20,
         "verified_open_jobs": 158
       },
-      "last_scan_at": "2026-08-07T13:37:34.976Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-07T14:40:19.349Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-07T14:40:19.349Z"
     },
     "canonical": {
       "company": "Canonical",
