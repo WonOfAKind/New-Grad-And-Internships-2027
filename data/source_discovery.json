@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T19:40:16.755Z",
+  "updated_at": "2026-08-07T20:22:32.996Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2322,9 +2322,9 @@
         "limit": 20,
         "verified_open_jobs": 336
       },
-      "last_scan_at": "2026-08-07T18:30:42.894Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T20:22:32.996Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T18:30:42.894Z"
     },
     "cisco": {
@@ -4741,9 +4741,9 @@
         "limit": 20,
         "verified_open_jobs": 69
       },
-      "last_scan_at": "2026-08-07T14:40:19.349Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-07T20:22:32.996Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-07T14:40:19.349Z"
     },
     "vast": {
