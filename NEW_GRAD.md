@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 7, 2026 at 7:18 PM EDT
+Last updated: August 7, 2026 at 8:07 PM EDT
 
-Current roles: 186
+Current roles: 187
 
 Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
 
@@ -45,6 +45,7 @@ Roles are grouped by discipline and sorted newest-first. Always verify availabil
 | TikTok | Software Engineer Graduate(Ads Infrastructure) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668879883938203957>) |
 | TikTok | Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668701834807101749>) |
 | Lightfield | Early Career Infrastructure Software Engineer | Boston, MA | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420>) |
+| Shopify | Applied Machine Learning Engineering Internships Winter 2027 | Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d>) |
 | TikTok | Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670391173613160757>) |
 | TikTok | Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670387719826786565>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285495593273605>) |

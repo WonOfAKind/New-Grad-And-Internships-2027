@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-07T23:18:59.988Z",
+  "updated_at": "2026-08-08T00:07:03.699Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -3853,7 +3853,7 @@
     },
     "booz allen hamilton": {
       "company": "Booz Allen Hamilton",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-08T00:04:09.052Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3871,10 +3871,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-07T23:18:59.988Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T13:37:34.976Z"
+      "last_scan_at": "2026-08-08T00:07:03.699Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-08T00:07:03.699Z"
     },
     "northrop grumman": {
       "company": "Northrop Grumman",
@@ -4109,7 +4109,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-08T00:04:09.052Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4125,12 +4125,12 @@
         "site": "Vantor",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 161
+        "verified_open_jobs": 163
       },
-      "last_scan_at": "2026-08-07T23:18:59.988Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T13:37:34.976Z"
+      "last_scan_at": "2026-08-08T00:07:03.699Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-08T00:07:03.699Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4512,7 +4512,7 @@
     },
     "comcast": {
       "company": "Comcast",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-08T00:04:09.052Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4528,12 +4528,11 @@
         "site": "Comcast_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 774
+        "verified_open_jobs": 768
       },
-      "last_scan_at": "2026-08-07T23:18:59.988Z",
+      "last_scan_at": "2026-08-08T00:07:03.699Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T15:36:03.842Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "verizon": {
       "company": "Verizon",
@@ -4546,7 +4545,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-08-07T13:34:31.960Z",
+      "checked_at": "2026-08-08T00:04:09.052Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4562,12 +4561,12 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 732
+        "verified_open_jobs": 782
       },
-      "last_scan_at": "2026-08-07T23:18:59.988Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-07T13:37:34.976Z"
+      "last_scan_at": "2026-08-08T00:07:03.699Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-08T00:07:03.699Z"
     },
     "ge aerospace": {
       "company": "GE Aerospace",
