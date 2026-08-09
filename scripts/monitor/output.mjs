@@ -26,7 +26,7 @@ import {
 import { isHttpUrl } from "./http.mjs";
 import { companyDetails, featuredLegend } from "./companies.mjs";
 
-const notificationSiteUrl = "https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/";
+const notificationSiteUrl = "https://new-grad-and-internships-2027.pages.dev/notifications/";
 
 export function flattenLogs(results) {
   return results.flatMap((result) => Array.isArray(result.log) ? result.log : [result.log]);
