@@ -55,6 +55,8 @@ function renderPresets() {
 
 function renderCompanies() {
   const query = elements.companySearch.value.trim().toLowerCase();
+  const selectedDiscipline = state.catalog.recommendation_presets
+    .find((preset) => preset.id === state.selectedPreset)?.discipline ?? "";
   const companies = state.companies
     .filter((company) => `${company.name} ${company.bucket} ${(company.role_families ?? []).join(" ")}`.toLowerCase().includes(query))
     .sort((a, b) => Number(state.selected.has(b.id)) - Number(state.selected.has(a.id)));
@@ -76,7 +78,9 @@ function renderCompanies() {
       });
       const name = document.createElement("span");
       name.className = "company-name";
-      name.textContent = `${company.featured ? "🔥 " : ""}${company.name}`;
+      const isFeaturedHere = selectedDiscipline
+        && (company.featured_disciplines ?? []).includes(selectedDiscipline);
+      name.textContent = `${isFeaturedHere ? "🔥 " : ""}${company.name}`;
       const bucket = document.createElement("span");
       bucket.className = "company-bucket";
       bucket.textContent = company.bucket;

@@ -30,7 +30,7 @@ const existingRoles = await readJson("data/roles.json", []);
 const coverage = await readJson("data/coverage.json", { scanned_at: new Date().toISOString() });
 const latestScan = await readJson("data/latest_scan.json", { fresh_leads: [] });
 const existingOutbox = await readJson("data/notification_outbox.json", null);
-configureCompanyMetadata(metadata);
+configureCompanyMetadata(metadata, targets);
 
 const scannedAt = coverage.scanned_at || new Date().toISOString();
 const companiesWithActiveSources = new Set((latestScan.scan_log ?? [])

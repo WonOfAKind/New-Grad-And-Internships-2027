@@ -3,6 +3,8 @@ import { normalizeCompanyName } from "./domain.mjs";
 let metadata = { companies: [], recommendation_presets: [], featured_legend: "" };
 let byName = new Map();
 let byId = new Map();
+let presetById = new Map();
+let coverageByName = new Map();
 
 export function companySlug(value) {
   return String(value ?? "")
@@ -14,7 +16,18 @@ export function companySlug(value) {
     .replace(/^-+|-+$/g, "");
 }
 
-export function configureCompanyMetadata(value = {}) {
+function coverageDisciplinesFor(target) {
+  const text = `${target?.bucket ?? ""}\n${target?.role_families ?? ""}`;
+  const disciplines = [];
+  const add = (discipline, pattern) => { if (pattern.test(text)) disciplines.push(discipline); };
+  add("aerospace", /aerospace|aeronautical|avionics|propulsion|flight|space\s+systems|\bGNC\b/i);
+  add("mechanical", /mechanical|mechatronics|thermal|structures|stress|materials|vehicle|automotive|powertrain|robotics|product\s+development|hydraulics/i);
+  add("manufacturing-industrial", /manufactur|industrial|production|process|quality|operations/i);
+  add("hardware-electrical", /hardware|electrical|electronics|avionics|embedded|firmware|semiconductor|controls/i);
+  return [...new Set(disciplines)];
+}
+
+export function configureCompanyMetadata(value = {}, targets = []) {
   if (!value || typeof value !== "object" || !Array.isArray(value.companies)) {
     throw new Error("company_metadata.json must define a companies array");
   }
@@ -65,6 +78,11 @@ export function configureCompanyMetadata(value = {}) {
   metadata = value;
   byName = new Map();
   byId = new Map(value.companies.map((company) => [company.id, company]));
+  presetById = new Map(presets.map((preset) => [preset.id, preset]));
+  coverageByName = new Map((Array.isArray(targets) ? targets : []).map((target) => [
+    normalizeCompanyName(target.company).toLowerCase(),
+    coverageDisciplinesFor(target),
+  ]));
   for (const company of value.companies) {
     for (const name of [company.name, ...(company.aliases ?? [])]) {
       byName.set(normalizeCompanyName(name).toLowerCase(), company);
@@ -75,9 +93,29 @@ export function configureCompanyMetadata(value = {}) {
 export function companyDetails(value) {
   const normalizedName = normalizeCompanyName(value);
   const configured = byName.get(normalizedName.toLowerCase());
+  const groups = configured?.groups ?? [];
+  const featuredDisciplines = [...new Set(groups
+    .map((group) => presetById.get(group)?.discipline)
+    .filter(Boolean))];
+  const coverageDisciplines = coverageByName.get(normalizedName.toLowerCase()) ?? [];
   return configured
-    ? { ...configured, aliases: configured.aliases ?? [], groups: configured.groups ?? [], featured: Boolean(configured.featured) }
-    : { id: companySlug(normalizedName), name: normalizedName, aliases: [], groups: [], featured: false };
+    ? {
+        ...configured,
+        aliases: configured.aliases ?? [],
+        groups,
+        coverage_disciplines: coverageDisciplines,
+        featured_disciplines: featuredDisciplines,
+        featured: featuredDisciplines.length > 0,
+      }
+    : {
+        id: companySlug(normalizedName),
+        name: normalizedName,
+        aliases: [],
+        groups: [],
+        coverage_disciplines: coverageDisciplines,
+        featured_disciplines: [],
+        featured: false,
+      };
 }
 
 export function companyById(id) {
@@ -85,7 +123,7 @@ export function companyById(id) {
 }
 
 export function featuredLegend() {
-  return metadata.featured_legend || "Featured major technology or engineering employer. This is a curated designation, not a ranking.";
+  return metadata.featured_legend || "Standout employers are curated separately for each discipline; this is not a universal company ranking.";
 }
 
 export function publicCompanyCatalog(targets) {
@@ -99,6 +137,8 @@ export function publicCompanyCatalog(targets) {
       name: details.name,
       parent_id: details.parent_id ?? null,
       featured: details.featured,
+      featured_disciplines: details.featured_disciplines,
+      coverage_disciplines: details.coverage_disciplines,
       groups: details.groups,
       bucket: target.bucket ?? "",
       role_families: String(target.role_families ?? "").split(",").map((value) => value.trim()).filter(Boolean),

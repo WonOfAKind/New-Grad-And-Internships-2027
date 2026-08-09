@@ -2,18 +2,38 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 9, 2026 at 1:22 PM EDT
+Last updated: August 9, 2026 at 4:31 PM EDT
 
-Current roles in this view: 4
+Current roles in this view: 24
 
-🔥 Featured major technology or engineering employer. This is a curated designation, not a ranking.
+🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
 Roles are sorted newest-first. Always verify availability and details on the official posting before applying.
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |
+| Burns &amp; McDonnell | Assistant Civilmechanical Engineer Transmission Chicago | Chicago, IL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/chicago-il/assistant-civilmechanical-engineer-transmission-chicago/D814FD9647CB4189BF48A93C33C75FCC/job>) |
+| Burns &amp; McDonnell | Assistant Structural Engineer Onsite Energy Power Raleigh | Raleigh, NC | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/raleigh-nc/assistant-structural-engineer-onsite-energy-power-raleigh/517FFED3A7AF4C778FD04F885BEE653C/job>) |
+| Burns &amp; McDonnell | Assistant Structural Engineer Power Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-structural-engineer-power-kansas-city/4169B8BF79C7446C9D67E59D4D409B7B/job>) |
+| Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Austin | Austin, TX | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/austin-tx/assistant-structural-engineer-transmission-distribution-austin/0721070F78B84471A116FF377221178E/job>) |
+| Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-structural-engineer-transmission-distribution-kansas-city/AC250A7622A0421FBCC328BAC5469DBB/job>) |
+| Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Orlando | Orlando, FL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/orlando-fl/assistant-structural-engineer-transmission-distribution-orlando/FA0A44C509A2446EBD361CCFC99763BC/job>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| Leidos | Junior Manual Test Engineer | Annapolis Junction, MD | $69,550.00 - $125,725.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.dupont.com/cz/cz/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.dupont.com/us/en/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| Comcast | Engineer 1, Installation-Managed Enterprise Services | IL - Naperville, 1415 W Diehl Rd Ste 5; CO - Denver, 8000 E Iliff Ave | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298>) |
+| Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
-| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA, US | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
-| Bridger | Early Career Product Engineer | New York City | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
+| Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Houston, TX, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
+| Black &amp; Veatch | Associate Substation Structural Engineer | Bloomington, MN, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
+| Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
+| Spirit AeroSystems | Spirit Defense - Advanced Product Development &amp; Research Engineering Technical Analyst (Associate or Mid-level) | Wichita, Kansas, United States | $67,150 - $103,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16923>) |
+| Bechtel | Structural Engineer | United States | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS295633EXTERNALENUS/Structural-Engineer>) |
+| Black &amp; Veatch | Water Distribution System Associate Hydraulic Engineer | Cary, NC, US | - | Verified early career (BS) | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Dallas-Water-Distribution-System-Associate-Hydraulic-Engineer-TX-75201/1384721633>) |
+| Bechtel | Assistant Resident Engineer - Cost Verification | San Jose, California, United States | - | Early career | Posted Jul 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296116EXTERNALENUS/Assistant-Resident-Engineer-Cost-Verification>) |
 | Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US | - | Early career | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
 

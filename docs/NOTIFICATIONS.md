@@ -5,7 +5,7 @@ The alert system is opt-in and selects no companies by default. A subscriber can
 ## Components
 
 - `docs/notifications/` is the static signup and preference-management interface.
-- `data/company_metadata.json` owns canonical aliases, parent companies, featured designations, and recommendation presets.
+- `data/company_metadata.json` owns canonical aliases, parent companies, discipline-specific standout designations, and recommendation presets.
 - `data/company_catalog.json` and `docs/notifications/catalog.json` are generated public catalogs. They never contain subscriber data.
 - `supabase/migrations/` stores subscribers, preferences, ingested roles, delivery idempotency records, and provider events.
 - `subscription-api` handles double opt-in, preference changes, and unsubscribe links.
@@ -15,6 +15,8 @@ The alert system is opt-in and selects no companies by default. A subscriber can
 Email addresses and subscription rows live only in Supabase. They must never be written to this repository, workflow artifacts, or logs.
 
 ## Deploy
+
+The public signup URL is `https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/`. The `Deploy notification signup` workflow publishes `docs/` after relevant pushes and after successful monitor runs, so the public company catalog stays current. In repository Settings → Pages, set the publishing source to **GitHub Actions** before the first deployment.
 
 1. Create a Supabase project and apply `supabase/migrations/202608090001_role_alerts.sql`.
 2. Deploy the three functions in `supabase/functions/`.
@@ -27,14 +29,18 @@ Email addresses and subscription rows live only in Supabase. They must never be 
    - `RESEND_WEBHOOK_SECRET`
    - `MAIL_FROM`, such as `2027 Role Alerts <alerts@example.com>`
    - `MAILING_ADDRESS`, used in email footers
-   - `PUBLIC_SITE_URL`, the HTTPS URL of `docs/notifications/`
+   - `PUBLIC_SITE_URL`: `https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/`
    - `SUBSCRIPTION_API_URL`, the deployed `subscription-api` URL used for one-click unsubscribe
    - `ALLOWED_ORIGINS`, a comma-separated allowlist containing the public site's origin
    - `MAGIC_LINK_SECRET`, at least 32 random characters
    - `INGEST_SECRET`, a separate random secret for GitHub Actions
    - `TURNSTILE_SECRET_KEY` if bot protection is enabled
 
-5. Set `apiUrl` in `docs/notifications/config.js` to the deployed `subscription-api` URL. If Turnstile is enabled, also set `turnstileSiteKey`; the form loads and submits the widget automatically.
+5. Add GitHub Actions repository variables. The Pages workflow writes these public values into the deployed `config.js`; they are not secrets:
+
+   - `NOTIFICATION_PUBLIC_API_URL`: the deployed `subscription-api` URL
+   - `TURNSTILE_SITE_KEY`: the public Turnstile site key, if bot protection is enabled
+
 6. Add GitHub Actions repository secrets:
 
    - `NOTIFICATION_API_URL`: deployed `ingest-roles` URL

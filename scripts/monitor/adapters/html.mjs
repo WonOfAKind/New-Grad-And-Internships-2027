@@ -7,7 +7,9 @@ import {
   fitNotes,
   graduationMatch,
   hasOnlyExcludedGraduationWindow,
+  isAllowedLocation,
   isEligibleRole,
+  isProbablySenior,
   isRelevant,
   mapConcurrent,
   normalize,
@@ -87,6 +89,7 @@ export function googleJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: job.url,
@@ -181,6 +184,27 @@ export function htmlStructuredJobPostings(html) {
   return jsonLdObjects(html).flatMap((object) => collectJobPostingNodes(object));
 }
 
+export function htmlMicrodataJobPosting(html) {
+  if (!/itemtype=["']https?:\/\/schema\.org\/JobPosting["']/i.test(html)) return null;
+  const contentFor = (property) => {
+    const escaped = property.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    const afterProperty = new RegExp(`<meta\\s+[^>]*itemprop=["']${escaped}["'][^>]*content=["']([^"']*)["'][^>]*>`, "i");
+    const beforeProperty = new RegExp(`<meta\\s+[^>]*content=["']([^"']*)["'][^>]*itemprop=["']${escaped}["'][^>]*>`, "i");
+    return cleanCompensationText(afterProperty.exec(html)?.[1] ?? beforeProperty.exec(html)?.[1] ?? "");
+  };
+  const title = cleanCompensationText(/<h1\b[^>]*itemprop=["']title["'][^>]*>([\s\S]*?)<\/h1>/i.exec(html)?.[1] ?? "");
+  const location = [contentFor("addressLocality"), contentFor("addressRegion"), contentFor("addressCountry")]
+    .filter(Boolean)
+    .join(", ");
+  return {
+    "@type": "JobPosting",
+    title,
+    jobLocation: location,
+    datePosted: contentFor("datePosted"),
+    validThrough: contentFor("validThrough"),
+  };
+}
+
 export function structuredLocationText(location) {
   const locations = Array.isArray(location) ? location : [location];
   return locations
@@ -203,10 +227,13 @@ export function structuredLocationText(location) {
 }
 
 export function htmlDetailContent(html, source = {}, structuredJob = null) {
-  const description = htmlAttributeContent(html, "description") || stripHtml(structuredJob?.description ?? "");
+  // A real JobPosting description is authoritative. Page-level meta
+  // descriptions are frequently generic employer marketing copy and used to
+  // hide the degree/experience evidence needed for early-career validation.
+  const description = stripHtml(structuredJob?.description ?? "") || htmlAttributeContent(html, "description");
   const startPattern = source.contentStartPattern
     ? new RegExp(source.contentStartPattern, "i")
-    : /<h[1-4][^>]*>\s*(?:Minimum qualifications|Required qualifications|Requirements|Responsibilities|About the job|About this role|Job description|What you'll do)/i;
+    : /itemprop=["']description["']|<h[1-4][^>]*>\s*(?:Minimum qualifications|Required qualifications|Requirements|Responsibilities|About the job|About this role|Job description|What you'll do)/i;
   const start = html.search(startPattern);
   const mainMatch = /<main[\s\S]*?<\/main>/i.exec(html);
   const bodyMatch = /<body[\s\S]*?<\/body>/i.exec(html);
@@ -235,7 +262,7 @@ export function htmlCardSummaries(source, baseUrl, html) {
 }
 
 export function htmlJobFromDetail(source, url, html, seed = {}) {
-  const structuredJob = htmlStructuredJobPostings(html)[0] ?? null;
+  const structuredJob = htmlStructuredJobPostings(html)[0] ?? htmlMicrodataJobPosting(html);
   const title = normalize(structuredJob?.title) || htmlTitleFromHtml(html, source) || normalize(seed.title);
   const location = structuredLocationText(structuredJob?.jobLocation) || normalize(seed.location) || normalize(source.location);
   const description = htmlDetailContent(html, source, structuredJob);
@@ -315,43 +342,86 @@ export async function scanHtmlJobs(source, timeoutMs = fetchTimeoutMs) {
   return [...leadByUrl.values()];
 }
 
+export function titleFromJobUrl(value) {
+  try {
+    const segments = new URL(value).pathname.split("/").filter(Boolean).map(decodeURIComponent);
+    const jobIndex = segments.findIndex((segment) => /^jobs?$/i.test(segment));
+    const candidateSegments = jobIndex >= 0 && jobIndex < segments.length - 1
+      ? segments.slice(jobIndex + 1)
+      : (jobIndex > 0 ? segments.slice(0, jobIndex) : segments);
+    const candidates = candidateSegments
+      .filter((segment) => !/^\d+$/.test(segment))
+      .filter((segment) => !/^[A-F\d]{20,}$/i.test(segment))
+      .map((segment) => segment.replace(/[-_]+/g, " "));
+    return candidates.sort((a, b) => {
+      const score = (title) => sitemapTitlePriority(title) + Math.min(title.length, 120) / 120;
+      return score(b) - score(a);
+    })[0] ?? "";
+  } catch {
+    return "";
+  }
+}
+
+export function sitemapLocationFromJobUrl(value) {
+  try {
+    const segments = new URL(value).pathname.split("/").filter(Boolean).map(decodeURIComponent);
+    const jobIndex = segments.findIndex((segment) => /^jobs?$/i.test(segment));
+    if (jobIndex !== segments.length - 1 || segments.length < 4) return "";
+    const locationSlug = segments.at(-4);
+    const parts = locationSlug.split("-").filter(Boolean);
+    if (parts.length < 2) return "";
+    const region = parts.pop().toUpperCase();
+    const city = parts.map((part) => `${part[0]?.toUpperCase() ?? ""}${part.slice(1).toLowerCase()}`).join(" ");
+    return `${city}, ${region}`;
+  } catch {
+    return "";
+  }
+}
+
+export function sitemapTitlePriority(title) {
+  const juniorMarker = /\b(?:2027|intern(?:ship)?|co[-\s]?op|entry[-\s]?level|early[-\s]?career|new\s+grad|recent\s+grad|junior|associate(?:\s+staff|\s+level)?|engineer\s+(?:level\s*)?(?:i|1))\b/i.test(title);
+  const physicalEngineering = /\b(?:mechanical|aerospace|aeronautical|structural|thermal|propulsion|flight|avionics|systems?|test|quality|manufacturing|materials?|weld|product\s+(?:development|review)|liaison|airworthiness|radar)\b/i.test(title);
+  return (juniorMarker ? 12 : 0)
+    + (isEligibleRole(title) ? 6 : 0)
+    + (isRelevant(title) ? 3 : 0)
+    + (physicalEngineering ? 2 : 0)
+    - (isProbablySenior(title) ? 20 : 0);
+}
+
 async function collectSitemapJobUrls(source, timeoutMs) {
   const queue = (source.sitemaps ?? []).map((url) => ({ url, depth: 0 }));
   const visited = new Set();
   const pages = [];
+  const requestHeaders = source.userAgent ? { "User-Agent": source.userAgent } : undefined;
+  const configuredJobPatterns = (source.sitemapJobUrlPatterns ?? []).map((pattern) => new RegExp(pattern, "i"));
+  const isJobUrl = (url) => looksLikeJobDetailUrl(url) || configuredJobPatterns.some((pattern) => pattern.test(url));
   while (queue.length > 0 && visited.size < 12) {
     const item = queue.shift();
     if (!item?.url || visited.has(item.url)) continue;
     visited.add(item.url);
-    const entries = parseSitemapXml(await fetchText(item.url, timeoutMs));
+    const entries = parseSitemapXml(await fetchText(item.url, timeoutMs, requestHeaders ? { headers: requestHeaders } : {}));
     for (const entry of entries) {
       if (entry.type === "sitemap" && item.depth < 1) queue.push({ url: entry.loc, depth: item.depth + 1 });
-      if (entry.type === "url" && looksLikeJobDetailUrl(entry.loc)) pages.push(entry);
+      if (entry.type === "url" && isJobUrl(entry.loc)) pages.push(entry);
     }
   }
-  const titleFromUrl = (value) => {
-    try {
-      return decodeURIComponent(new URL(value).pathname.split("/").filter(Boolean).pop() ?? "").replace(/[-_]+/g, " ");
-    } catch {
-      return "";
-    }
-  };
   return pages
     .sort((a, b) => {
-      const aTitle = titleFromUrl(a.loc);
-      const bTitle = titleFromUrl(b.loc);
-      const aScore = (isEligibleRole(aTitle) ? 2 : 0) + (isRelevant(aTitle) ? 1 : 0);
-      const bScore = (isEligibleRole(bTitle) ? 2 : 0) + (isRelevant(bTitle) ? 1 : 0);
+      const aTitle = titleFromJobUrl(a.loc);
+      const bTitle = titleFromJobUrl(b.loc);
+      const aScore = sitemapTitlePriority(aTitle);
+      const bScore = sitemapTitlePriority(bTitle);
       return bScore - aScore || Date.parse(b.lastmod || 0) - Date.parse(a.lastmod || 0);
     })
     .map((entry) => entry.loc);
 }
 
 export async function scanSitemapJobs(source, timeoutMs = fetchTimeoutMs) {
+  const requestHeaders = { "User-Agent": source.userAgent ?? userAgent, "Accept": "text/html,*/*" };
   let robots = { rules: [] };
   if (source.robotsUrl) {
     try {
-      robots = parseRobotsTxt(await fetchText(source.robotsUrl, timeoutMs));
+      robots = parseRobotsTxt(await fetchText(source.robotsUrl, timeoutMs, { headers: requestHeaders }));
     } catch (error) {
       if (/\b5\d\d\b|fetch failed|timed out|timeout/i.test(error.message)) throw error;
     }
@@ -359,19 +429,76 @@ export async function scanSitemapJobs(source, timeoutMs = fetchTimeoutMs) {
   const urls = (await collectSitemapJobUrls(source, timeoutMs))
     .filter((url) => robotsAllows(url, robots))
     .slice(0, source.detailLimit ?? 80);
-  const leads = await mapConcurrent(urls, htmlDetailConcurrency, async (url) => {
+  const leads = await mapConcurrent(urls, source.detailConcurrency ?? htmlDetailConcurrency, async (url) => {
+    const fallbackJob = {
+      title: source.titleCaseSitemapFallback
+        ? titleFromJobUrl(url).replace(/\b[a-z]/g, (letter) => letter.toUpperCase())
+        : titleFromJobUrl(url),
+      location: sitemapLocationFromJobUrl(url) || normalize(source.location),
+      description: "",
+      url,
+    };
+    const eligibleFallback = () => source.allowSitemapTitleFallback
+      && isRelevant(fallbackJob.title, fallbackJob.location)
+      && isEligibleRole(fallbackJob.title, fallbackJob.location)
+      && !hasOnlyExcludedGraduationWindow(fallbackJob.title, fallbackJob.location)
+      && (!source.requireUnitedStates || isAllowedLocation(fallbackJob));
     try {
-      const html = await fetchText(url, timeoutMs, { headers: { "User-Agent": userAgent, "Accept": "text/html,*/*" } });
+      const detailUrl = source.detailUrlSuffix ? `${url}${source.detailUrlSuffix}` : url;
+      const html = await fetchText(detailUrl, timeoutMs, { headers: requestHeaders });
       if (closedPageReason(200, html)) return null;
       const job = htmlJobFromDetail(source, url, html);
       const context = `${job.location}\n${job.description}`;
-      if (!isRelevant(job.title) || !isEligibleRole(job.title, context) || hasOnlyExcludedGraduationWindow(job.title, context)) return null;
+      if (!isRelevant(job.title, context) || !isEligibleRole(job.title, context) || hasOnlyExcludedGraduationWindow(job.title, context)) {
+        return eligibleFallback() ? htmlJobToLead(source, fallbackJob) : null;
+      }
       return htmlJobToLead(source, job);
     } catch {
-      return null;
+      return eligibleFallback() ? htmlJobToLead(source, fallbackJob) : null;
     }
   });
   return leads.filter(Boolean);
+}
+
+function rssElement(body, tagName) {
+  const escaped = tagName.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const value = new RegExp(`<${escaped}\\b[^>]*>([\\s\\S]*?)<\\/${escaped}>`, "i").exec(body)?.[1] ?? "";
+  return value.replace(/^\s*<!\[CDATA\[/i, "").replace(/\]\]>\s*$/i, "").trim();
+}
+
+export function parseRssJobs(xml) {
+  const jobs = [];
+  for (const match of String(xml ?? "").matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/gi)) {
+    const body = match[1];
+    const title = cleanCompensationText(rssElement(body, "title"));
+    const description = cleanCompensationText(rssElement(body, "description"));
+    const location = cleanCompensationText(rssElement(body, "g:location"));
+    const url = cleanCompensationText(rssElement(body, "link"));
+    if (!title || !url) continue;
+    jobs.push({
+      title,
+      description,
+      location,
+      url,
+      validThrough: cleanCompensationText(rssElement(body, "g:expiration_date")),
+    });
+  }
+  return jobs;
+}
+
+export async function scanRssJobs(source, timeoutMs = fetchTimeoutMs) {
+  const jobs = parseRssJobs(await fetchText(source.url, timeoutMs, {
+    headers: { "User-Agent": userAgent, "Accept": "application/rss+xml,application/xml,text/xml,*/*" },
+  }));
+  return jobs
+    .filter((job) => !source.requireUnitedStates || isAllowedLocation(job))
+    .filter((job) => {
+      const context = `${job.location}\n${job.description}`;
+      return isRelevant(job.title, context)
+        && isEligibleRole(job.title, context)
+        && !hasOnlyExcludedGraduationWindow(job.title, context);
+    })
+    .map((job) => htmlJobToLead(source, job));
 }
 
 export async function scanGoogleCareers(source, timeoutMs = fetchTimeoutMs) {

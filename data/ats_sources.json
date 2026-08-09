@@ -338,7 +338,19 @@
     "adapter": "phenom",
     "baseUrl": "https://careers.rtx.com",
     "referer": "https://careers.rtx.com/global/en/search-results",
-    "searchText": "software engineer",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "software engineer",
+      "mechanical engineer",
+      "aerospace engineer",
+      "systems engineer",
+      "propulsion engineer",
+      "avionics",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
     "limit": 50,
     "priority": "P1"
   },
@@ -465,6 +477,364 @@
       "engineering intern"
     ],
     "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "GE Aerospace",
+    "adapter": "phenom",
+    "baseUrl": "https://careers.geaerospace.com",
+    "referer": "https://careers.geaerospace.com/global/en/search-results",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "new grad",
+      "mechanical engineer",
+      "aerospace engineer",
+      "systems engineer",
+      "propulsion engineer",
+      "manufacturing engineer",
+      "engineering intern",
+      "Edison Engineering Development Program"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "BAE Systems",
+    "adapter": "phenom",
+    "baseUrl": "https://jobs.baesystems.com",
+    "referer": "https://jobs.baesystems.com/global/en/search-results",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "mechanical engineer",
+      "aerospace engineer",
+      "systems engineer",
+      "avionics",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "Lockheed Martin",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://www.lockheedmartinjobs.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://www.lockheedmartinjobs.com/robots.txt",
+    "detailLimit": 80,
+    "priority": "P1"
+  },
+  {
+    "company": "Woodward",
+    "adapter": "workday",
+    "host": "woodward.wd5.myworkdayjobs.com",
+    "tenant": "woodward",
+    "site": "woodward",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "rotation program",
+      "mechanical engineer",
+      "aerospace engineer",
+      "controls engineer",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
+    "limit": 20,
+    "maxPages": 3,
+    "detailLimit": 100,
+    "priority": "P1"
+  },
+  {
+    "company": "Moog",
+    "adapter": "workday",
+    "host": "moog.wd5.myworkdayjobs.com",
+    "tenant": "moog",
+    "site": "MOOG_External_Career_Site",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "graduate",
+      "mechanical engineer",
+      "aerospace engineer",
+      "flight controls",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
+    "limit": 20,
+    "maxPages": 3,
+    "detailLimit": 100,
+    "priority": "P1"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "adapter": "workday",
+    "host": "aero.wd5.myworkdayjobs.com",
+    "tenant": "aero",
+    "site": "External",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "new grad",
+      "aerospace engineer",
+      "space systems",
+      "GNC",
+      "mechanical engineer",
+      "systems engineer",
+      "engineering intern"
+    ],
+    "limit": 20,
+    "maxPages": 3,
+    "detailLimit": 100,
+    "priority": "P1"
+  },
+  {
+    "company": "United Launch Alliance",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://jobs.ulalaunch.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://jobs.ulalaunch.com/robots.txt",
+    "detailLimit": 80,
+    "detailConcurrency": 8,
+    "timeoutMs": 30000,
+    "priority": "P1"
+  },
+  {
+    "company": "Gulfstream Aerospace",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers.gulfstream.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://careers.gulfstream.com/robots.txt",
+    "detailLimit": 80,
+    "detailConcurrency": 8,
+    "timeoutMs": 30000,
+    "priority": "P1"
+  },
+  {
+    "company": "Spirit AeroSystems",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers.spiritaero.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://careers.spiritaero.com/robots.txt",
+    "detailLimit": 190,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers.jhuapl.edu/sitemap.xml"
+    ],
+    "robotsUrl": "https://careers.jhuapl.edu/robots.txt",
+    "detailLimit": 160,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "adapter": "rss_jobs",
+    "url": "https://careers.ll.mit.edu/sitemap.xml",
+    "requireUnitedStates": true,
+    "timeoutMs": 90000,
+    "priority": "P1"
+  },
+  {
+    "company": "Amentum",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://www.amentumcareers.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://www.amentumcareers.com/robots.txt",
+    "detailLimit": 140,
+    "detailConcurrency": 2,
+    "retryOnZero": true,
+    "retryDelayMs": 8000,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Peraton",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://www.careers.peraton.com/sitemap.xml"
+    ],
+    "robotsUrl": "https://www.careers.peraton.com/robots.txt",
+    "detailLimit": 140,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "KBR",
+    "adapter": "phenom",
+    "baseUrl": "https://careers.kbr.com",
+    "referer": "https://careers.kbr.com/global/en/search-results",
+    "searchTexts": [
+      "2027",
+      "entry level",
+      "early career",
+      "junior",
+      "mechanical engineer",
+      "aerospace engineer",
+      "flight hardware",
+      "space systems",
+      "systems engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "timeoutMs": 30000,
+    "priority": "P1"
+  },
+  {
+    "company": "ExxonMobil",
+    "adapter": "rss_jobs",
+    "url": "https://jobs.exxonmobil.com/sitemap.xml",
+    "requireUnitedStates": true,
+    "timeoutMs": 90000,
+    "priority": "P1"
+  },
+  {
+    "company": "Eaton",
+    "adapter": "eightfold",
+    "baseUrl": "https://eaton.eightfold.ai",
+    "domain": "eaton.com",
+    "location": "United States",
+    "searchTexts": [
+      "2027",
+      "early career",
+      "development program",
+      "mechanical engineer",
+      "product development engineer",
+      "manufacturing engineer",
+      "engineering intern",
+      "engineering co-op"
+    ],
+    "maxPages": 10,
+    "detailLimit": 120,
+    "searchConcurrency": 2,
+    "targetYear": 2027,
+    "timeoutMs": 30000,
+    "priority": "P1"
+  },
+  {
+    "company": "Archer Aviation",
+    "adapter": "greenhouse",
+    "board": "archer56",
+    "priority": "P1"
+  },
+  {
+    "company": "Pivotal",
+    "adapter": "lever",
+    "site": "pivotal",
+    "priority": "P1"
+  },
+  {
+    "company": "Stoke Space",
+    "adapter": "greenhouse",
+    "board": "stokespacetechnologies",
+    "priority": "P1"
+  },
+  {
+    "company": "Sierra Space",
+    "adapter": "workday",
+    "tenant": "sierraspace",
+    "host": "sierraspace.wd1.myworkdayjobs.com",
+    "site": "Sierra_Space_External_Career_Site",
+    "searchTexts": [
+      "2027",
+      "intern",
+      "early career",
+      "entry level",
+      "associate",
+      "engineer I",
+      "mechanical engineer",
+      "aerospace engineer",
+      "propulsion engineer",
+      "systems engineer",
+      "manufacturing engineer"
+    ],
+    "limit": 20,
+    "maxPages": 12,
+    "detailLimit": 160,
+    "detailConcurrency": 2,
+    "timeoutMs": 30000,
+    "priority": "P1"
+  },
+  {
+    "company": "Boston Scientific",
+    "adapter": "rss_jobs",
+    "url": "https://jobs.bostonscientific.com/sitemap.xml",
+    "requireUnitedStates": true,
+    "timeoutMs": 90000,
+    "priority": "P1"
+  },
+  {
+    "company": "Sandia National Laboratories",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://sandia.jobs/sitemap.xml"
+    ],
+    "sitemapJobUrlPatterns": [
+      "/job/?$"
+    ],
+    "allowSitemapTitleFallback": true,
+    "titleCaseSitemapFallback": true,
+    "requireUnitedStates": true,
+    "detailLimit": 140,
+    "detailConcurrency": 5,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Burns & McDonnell",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://burnsmcd.jobs/sitemap.xml"
+    ],
+    "sitemapJobUrlPatterns": [
+      "/job/?$"
+    ],
+    "allowSitemapTitleFallback": true,
+    "titleCaseSitemapFallback": true,
+    "requireUnitedStates": true,
+    "detailLimit": 180,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Joby Aviation",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers-jobyaviation.icims.com/sitemap.xml"
+    ],
+    "userAgent": "Mozilla/5.0",
+    "detailUrlSuffix": "?in_iframe=1",
+    "requireUnitedStates": true,
+    "detailLimit": 120,
+    "detailConcurrency": 3,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
     "priority": "P1"
   }
 ]

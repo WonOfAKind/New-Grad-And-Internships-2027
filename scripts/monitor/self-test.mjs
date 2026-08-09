@@ -28,11 +28,15 @@ import {
   eightfoldSearchUrl,
   htmlJobFromDetail,
   htmlJobToLead,
+  htmlMicrodataJobPosting,
   htmlJobUrl,
   isUnitedStatesTikTokJob,
   isUnitedStatesAmazonJob,
   oracleJobToHtmlShape,
+  parseRssJobs,
+  sitemapLocationFromJobUrl,
   tiktokJobToLead,
+  titleFromJobUrl,
   withScanDeadline,
 } from "./adapters.mjs";
 import { readJson, validateConfiguration } from "./http.mjs";
@@ -195,7 +199,32 @@ export async function runSelfTests() {
     "synthetic discovery cycle does not make a generic internship eligible",
   );
   assertEqual(isEligibleRole("Software Engineer, Early Career", ""), true, "explicit early-career title accepted");
+  assertEqual(
+    isEligibleRole("Mechanical Design Engineer", "Full time\nEarly Career\nEngineering / Technology"),
+    true,
+    "structured early-career level from an official feed is accepted",
+  );
+  assertEqual(
+    isEligibleRole("Mechanical Design Engineer", "Learn about our early career opportunities and benefits."),
+    false,
+    "generic early-career marketing copy is not treated as role-level evidence",
+  );
   assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), true, "explicit entry-level title accepted");
+  assertEqual(isEligibleRole("Junior Mechanical Engineer", ""), true, "junior physical-engineering title accepted");
+  assertEqual(
+    isEligibleRole(
+      "Structural Analysis Engineer (Associate, Mid-level, or Senior)",
+      "Bachelor's degree in engineering required. 2+ years of experience in structural analysis.",
+    ),
+    true,
+    "multi-level aerospace requisition remains eligible when it explicitly offers an associate tier",
+  );
+  assertEqual(
+    isProbablySenior("Structural Analysis Engineer (Associate, Mid-level, or Senior)"),
+    false,
+    "entry-inclusive multi-level title is not treated as senior-only",
+  );
+  assertEqual(isProbablySenior("Secure Systems Engineer (mid-career)"), true, "explicit mid-career title rejected");
   assertEqual(isEligibleRole("Software Engineer I", ""), false, "generic level-one role rejected");
   assertEqual(isRelevant("Software Development Engineer I"), true, "software development engineer title coverage");
   assertEqual(
@@ -228,6 +257,8 @@ export async function runSelfTests() {
   assertEqual(isEligibleRole("Graduate Software Engineer", ""), true, "explicit graduate title accepted");
   assertEqual(isEligibleRole("Quantitative Trader - 2027", ""), true, "2027 title accepted");
   assertEqual(isEligibleRole("Software Engineer - 2027 Interns", ""), true, "plural interns are classified as an internship");
+  assertEqual(isEligibleRole("Flight Test Intern (Dec 2026-Feb 2027)", ""), true, "internships spanning into 2027 are retained");
+  assertEqual(isEligibleRole("Assistant Mechanical Engineer", ""), true, "consulting assistant-engineer grade is treated as entry level");
   assertEqual(isRelevant("FPGA Engineer Intern"), true, "hardware internship title coverage");
   assertEqual(isRelevant("Network Engineer Internship"), true, "network internship title coverage");
   assertEqual(isRelevant("Design Engineer Co-op"), true, "engineering co-op title coverage");
@@ -243,10 +274,95 @@ export async function runSelfTests() {
   assertEqual(categorizeDisciplines("Avionics Hardware Engineer, New Grad").join(","), "aerospace,hardware-electrical", "multi-discipline avionics classification");
   assertEqual(categorizeDisciplines("Manufacturing Engineer, New Grad").join(","), "manufacturing-industrial", "manufacturing has its own discipline");
   assertEqual(
-    categorizeDisciplines("Structures Design Engineer, Entry Level").join(","),
+    categorizeDisciplines("Structures Design Engineer, Entry Level", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
     "aerospace,mechanical",
-    "structures design roles receive aerospace and mechanical support",
+    "structures design roles at aerospace employers receive aerospace and mechanical support",
   );
+  assertEqual(
+    categorizeDisciplines("Associate Transmission Line Structural Engineer").join(","),
+    "other-engineering",
+    "civil structural roles are not assumed to be aerospace or mechanical",
+  );
+  assertEqual(
+    categorizeDisciplines("Assistant Structural Engineer Transmission Distribution", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "other-engineering",
+    "civil infrastructure stays off aerospace and mechanical boards at diversified firms",
+  );
+  assertEqual(
+    categorizeDisciplines("Water Distribution System Associate Hydraulic Engineer").join(","),
+    "other-engineering",
+    "civil water hydraulics are not assumed to be mechanical",
+  );
+  assertEqual(
+    categorizeDisciplines("Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027", "Mechanical engineering majors may apply").join(","),
+    "other-engineering",
+    "rail-track civil roles do not inherit mechanical from degree text",
+  );
+  assertEqual(
+    categorizeDisciplines("Assistant Structural Engineer Power", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "other-engineering",
+    "power-sector structures do not inherit aerospace employer coverage",
+  );
+  assertEqual(
+    categorizeDisciplines("Assistant Structural Engineer Aviation Federal", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "aerospace,mechanical",
+    "explicit aviation structures retain aerospace and mechanical support",
+  );
+  assertEqual(
+    categorizeDisciplines("Cybersecurity Test Engineer, Junior").join(","),
+    "software",
+    "software test roles are not assumed to be mechanical",
+  );
+  assertEqual(
+    categorizeDisciplines("Power System Design Engineer - Entry Level", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "hardware-electrical",
+    "power-system roles do not inherit aerospace or mechanical employer coverage",
+  );
+  assertEqual(
+    categorizeDisciplines("Wide Bandgap Semiconductor Device and Process Integration Engineer", "", { companyDisciplines: ["aerospace"] }).join(","),
+    "hardware-electrical",
+    "semiconductor roles do not inherit aerospace employer coverage",
+  );
+  assertEqual(
+    categorizeDisciplines("Photonics Test Engineer", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "hardware-electrical",
+    "photonics test roles do not inherit physical employer coverage",
+  );
+  assertEqual(
+    categorizeDisciplines("RF Systems Engineer Level 1", "", { companyDisciplines: ["aerospace"] }).join(","),
+    "hardware-electrical",
+    "RF systems roles are classified as hardware rather than generic aerospace",
+  );
+  assertEqual(
+    categorizeDisciplines("Software QA Automation Engineer I").join(","),
+    "software",
+    "digital QA automation is not manufacturing engineering",
+  );
+  assertEqual(
+    categorizeDisciplines("ML Validation Engineer - Early Career").join(","),
+    "ai-ml",
+    "ML validation roles are not assumed to be mechanical",
+  );
+  assertEqual(
+    categorizeDisciplines("Junior Software Test Engineer (Flight Safety Systems)", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),
+    "aerospace,software",
+    "flight-safety software is aerospace and software, not mechanical test",
+  );
+  assertEqual(
+    categorizeDisciplines("Weld Engineer 1").join(","),
+    "mechanical,manufacturing-industrial",
+    "weld engineering is supported by mechanical and manufacturing boards",
+  );
+  assertEqual(
+    categorizeDisciplines("2027 Engineering Corporate Internship Program Welding").join(","),
+    "mechanical,manufacturing-industrial",
+    "welding programs receive mechanical and manufacturing support",
+  );
+  assertTruthy(
+    categorizeDisciplines("2027 Engineering Rotational Product Development Program").includes("mechanical"),
+    "physical product-development programs receive mechanical support",
+  );
+  assertTruthy(categorizeDisciplines("Airborne Radar Systems Intern - Summer 2027").includes("aerospace"), "airborne radar receives aerospace support");
   assertEqual(categorize("Electrical Engineer Intern - Summer 2027"), "Hardware & Electrical Engineering", "electrical roles are not mechanical");
   assertEqual(
     categorizeDisciplines("Design Engineering Graduate (Design System & AI Workflow) - 2027 Start").includes("mechanical"),
@@ -257,6 +373,24 @@ export async function runSelfTests() {
     categorizeDisciplines("Forward Deployed Infrastructure Engineer, New Grad").some((discipline) => ["mechanical", "aerospace"].includes(discipline)),
     false,
     "infrastructure does not trigger the structures engineering vocabulary",
+  );
+  assertTruthy(categorizeDisciplines("Aerothermal Engineer, Entry Level").includes("aerospace"), "aerothermal aerospace classification");
+  assertTruthy(categorizeDisciplines("Vehicle Dynamics Engineer I").includes("mechanical"), "vehicle dynamics mechanical classification");
+  assertTruthy(categorizeDisciplines("CFD Engineer, Entry Level").includes("mechanical"), "CFD mechanical classification");
+  assertEqual(
+    titleFromJobUrl("https://www.lockheedmartinjobs.com/job/orlando/associate-mechanical-engineer/694/123456789"),
+    "associate mechanical engineer",
+    "sitemap ranking extracts the job title instead of the numeric requisition id",
+  );
+  assertEqual(
+    titleFromJobUrl("https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer/30EB9FE074C34C5B91D385CC16AAAA7B/job/"),
+    "cleared early career rd mechanical engineer",
+    "terminal job URL extracts the preceding title slug",
+  );
+  assertEqual(
+    sitemapLocationFromJobUrl("https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer/30EB9FE074C34C5B91D385CC16AAAA7B/job/"),
+    "Albuquerque, NM",
+    "terminal job URL extracts its location slug",
   );
   assertEqual(isRelevant("AI Operations Intern"), false, "non-engineering operations role is outside tracked disciplines");
   assertEqual(
@@ -285,6 +419,18 @@ export async function runSelfTests() {
     }, "2026-08-09T12:00:00Z").role_type,
     "Internship",
     "official plural internship title overrides stale new-grad classification",
+  );
+  assertEqual(
+    toPublicRole({
+      company: "GE Appliances",
+      title: "Software Engineering Co-op_Summer 2027",
+      location: "Louisville, KY",
+      grad_window: "New grad or university grad",
+      role_type: "New Grad",
+      url: "https://example.com/jobs/ge-appliances-co-op",
+    }, "2026-08-09T12:00:00Z").role_type,
+    "Internship",
+    "underscore-separated co-op title overrides stale new-grad classification",
   );
   assertThrows(
     () => assertBoardIntegrity([{
@@ -363,6 +509,9 @@ export async function runSelfTests() {
   assertEqual(isAllowedLocation({ location: "Toronto, Ontario, CA" }), false, "Canadian CA abbreviation is not California");
   assertEqual(isAllowedLocation({ location: "Newmarket, Ontario, CA" }), false, "Canadian province excludes unfamiliar city");
   assertEqual(isAllowedLocation({ location: "Cork, CO, IE" }), false, "foreign ISO country code is not a US state");
+  assertEqual(isAllowedLocation({ location: "Pune, MH, IN" }), false, "Indian ISO country suffix is not Indiana");
+  assertEqual(isAllowedLocation({ location: "Indianapolis, IN" }), true, "Indianapolis is not mistaken for India");
+  assertEqual(isAllowedLocation({ location: "Haifa, Haifa District, IL" }), false, "Israeli IL country code is not Illinois");
   assertEqual(isDirectEmployerApplyUrl("https://app.ripplematch.com/v2/public/job/abc123"), false, "matching platform URL rejected");
   assertEqual(isDirectEmployerApplyUrl("https://jobs.ashbyhq.com/example/123456"), true, "official ATS URL accepted");
   assertEqual(normalizeCompanyName("Copart ✓"), "Copart", "source status marker removed from company name");
@@ -370,12 +519,18 @@ export async function runSelfTests() {
   assertEqual(normalizeCompanyName("JPMorganChase"), "JPMorgan Chase", "JPMorgan alias normalized");
   assertEqual(normalizeCompanyName("Tower Research"), "Tower Research Capital", "company legal-name alias normalized");
   assertEqual(normalizeCompanyName("Susquehanna"), "Susquehanna International Group", "company short-name alias normalized");
+  assertEqual(normalizeCompanyName("Pivotal Software"), "Pivotal", "Pivotal eVTOL feed label normalized");
   assertEqual(normalizeRoleTitle("Intern, Software Engineering 🆕"), "Intern, Software Engineering", "source marker removed from title");
   assertEqual(normalizeRoleTitle("Avionics Software Intern 🇺🇸"), "Avionics Software Intern", "country marker removed from title");
   assertEqual(
     stableJobIdentity("https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002"),
     "6883068002",
     "employer career slugs expose their trailing requisition identity",
+  );
+  assertEqual(
+    stableJobIdentity("https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer/30EB9FE074C34C5B91D385CC16AAAA7B/job/"),
+    "30eb9fe074c34c5b91d385cc16aaaa7b",
+    "DirectEmployers requisition IDs are stable job identities",
   );
   assertEqual(normalizeDisplayText("R&amp;D &quot;Systems&quot;"), 'R&D "Systems"', "display entities decoded");
   assertEqual(
@@ -713,6 +868,33 @@ export async function runSelfTests() {
   assertEqual(lead.compensation, "$90,000 - $120,000", "html structured compensation");
   assertTruthy(isEligibleRole(lead.role_title, parsedJob.description), "html job eligibility");
 
+  const microdataFixture = `
+    <div itemscope itemtype="http://schema.org/JobPosting">
+      <meta itemprop="addressLocality" content="Decatur">
+      <meta itemprop="addressRegion" content="AL">
+      <meta itemprop="addressCountry" content="US">
+      <meta itemprop="datePosted" content="Sat Aug 01 07:00:00 UTC 2026">
+      <h1 itemprop="title">Weld Engineer 1</h1>
+      <span itemprop="description"><p>Bachelor's degree required. No experience required.</p></span>
+    </div>`;
+  const microdata = htmlMicrodataJobPosting(microdataFixture);
+  assertEqual(microdata.title, "Weld Engineer 1", "microdata job title");
+  assertEqual(microdata.jobLocation, "Decatur, AL, US", "microdata job location");
+  const microdataJob = htmlJobFromDetail({ company: "Example" }, "https://example.com/job/weld-engineer-1/123", microdataFixture);
+  assertTruthy(isEligibleRole(microdataJob.title, microdataJob.description), "microdata experience evidence is preserved");
+
+  const rssJobs = parseRssJobs(`
+    <rss xmlns:g="http://base.google.com/ns/1.0"><channel><item>
+      <title>Associate Staff - Aerospace Engineer</title>
+      <description><![CDATA[&lt;p&gt;Recent Graduate Hiring Range: $90,000 - $110,000.&lt;/p&gt;]]></description>
+      <link>https://example.com/job/aerospace-engineer/123</link>
+      <g:expiration_date>2026-09-30</g:expiration_date>
+      <g:location>Lexington, MA, US</g:location>
+    </item></channel></rss>`);
+  assertEqual(rssJobs.length, 1, "RSS job parsed");
+  assertEqual(rssJobs[0].location, "Lexington, MA, US", "RSS location parsed");
+  assertTruthy(isEligibleRole(rssJobs[0].title, rssJobs[0].description), "RSS recent-graduate evidence retained");
+
   const oracleSource = { company: "Example", baseUrl: "https://example.fa.oraclecloud.com", siteNumber: "CX_1", priority: "P0" };
   const oracleShape = oracleJobToHtmlShape(oracleSource, {
     Id: "123456",
@@ -806,13 +988,44 @@ export async function runSelfTests() {
   const targets = await readJson(targetPath, []);
   validateConfiguration(targets, await readJson(sourcePath, []));
   const companyMetadata = await readJson(companyMetadataPath, {});
-  configureCompanyMetadata(companyMetadata);
+  configureCompanyMetadata(companyMetadata, targets);
   const companyCatalog = publicCompanyCatalog(targets);
   assertEqual(companyCatalog.companies.length, targets.length, "public company catalog covers every tracked company");
   assertTruthy(companyCatalog.recommendation_presets.every((preset) => preset.company_ids.length > 0), "every recommendation preset has companies");
   assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "product-management"), "product management recommendation preset exists");
   assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "mechanical"), "mechanical recommendation preset exists");
   assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "aerospace"), "aerospace recommendation preset exists");
+  const palantirSoftwareRole = toPublicRole({
+    company: "Palantir",
+    title: "Software Engineer, New Grad",
+    location: "New York, NY",
+    url: "https://www.palantir.com/careers/123",
+  }, "2026-08-09T12:00:00Z");
+  const northropSoftwareRole = toPublicRole({
+    company: "Northrop Grumman",
+    title: "Software Engineer, New Grad",
+    location: "Falls Church, VA",
+    url: "https://ngc.wd1.myworkdayjobs.com/job/123",
+  }, "2026-08-09T12:00:00Z");
+  const northropAerospaceRole = toPublicRole({
+    company: "Northrop Grumman",
+    title: "Aeronautical Engineer, New Grad",
+    location: "Falls Church, VA",
+    url: "https://ngc.wd1.myworkdayjobs.com/job/456",
+  }, "2026-08-09T12:00:00Z");
+  assertTruthy(
+    renderDisciplinePage([palantirSoftwareRole], boardCoverage, "New Grad", { slug: "software", name: "Software Engineering" }).includes("🔥 Palantir"),
+    "Palantir is featured on software boards",
+  );
+  assertEqual(
+    renderDisciplinePage([northropSoftwareRole], boardCoverage, "New Grad", { slug: "software", name: "Software Engineering" }).includes("🔥 Northrop Grumman"),
+    false,
+    "Northrop is not globally featured on software boards",
+  );
+  assertTruthy(
+    renderDisciplinePage([northropAerospaceRole], boardCoverage, "New Grad", { slug: "aerospace", name: "Aerospace Engineering" }).includes("🔥 Northrop Grumman"),
+    "Northrop remains featured on aerospace boards",
+  );
 }
 
 await runSelfTests();

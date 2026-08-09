@@ -38,6 +38,7 @@ export function greenhouseJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: job.absolute_url,
@@ -76,6 +77,7 @@ ${listContent}`);
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: job.hostedUrl ?? job.applyUrl,
@@ -115,6 +117,7 @@ export function ashbyJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: job.jobUrl ?? job.applyUrl,
@@ -152,6 +155,7 @@ export function workdayJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: url,
@@ -182,6 +186,7 @@ export function phenomJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: absoluteHttpUrl(source.baseUrl, job.applyUrl ?? job.url) || sourceForCompany(source.company)?.career_url,
@@ -212,6 +217,7 @@ export function avatureJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: absoluteHttpUrl(source.baseUrl, job.url),
@@ -417,7 +423,7 @@ export async function scanWorkday(source, timeoutMs = fetchTimeoutMs) {
   });
   const detailLimit = source.detailLimit ?? 100;
   const detailBase = `https://${host}/wday/cxs/${source.tenant}/${source.site}`;
-  const enriched = await mapConcurrent(candidates.slice(0, detailLimit), htmlDetailConcurrency, async (job) => {
+  const enriched = await mapConcurrent(candidates.slice(0, detailLimit), source.detailConcurrency ?? Math.min(2, htmlDetailConcurrency), async (job) => {
     try {
       const detail = await fetchJson(`${detailBase}${job.externalPath}`, timeoutMs);
       return { ...job, ...detail };

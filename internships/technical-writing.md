@@ -2,11 +2,11 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 9, 2026 at 1:22 PM EDT
+Last updated: August 9, 2026 at 4:31 PM EDT
 
 Current roles in this view: 0
 
-🔥 Featured major technology or engineering employer. This is a curated designation, not a ranking.
+🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
 Roles are sorted newest-first. Always verify availability and details on the official posting before applying.
 

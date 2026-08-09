@@ -26,6 +26,8 @@ import {
 import { isHttpUrl } from "./http.mjs";
 import { companyDetails, featuredLegend } from "./companies.mjs";
 
+const notificationSiteUrl = "https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/";
+
 export function flattenLogs(results) {
   return results.flatMap((result) => Array.isArray(result.log) ? result.log : [result.log]);
 }
@@ -98,12 +100,14 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
   const title = roleTitle(lead);
   const context = `${lead.graduation_match ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
   const type = roleType(title, context) || lead.role_type || "New Grad";
-  const disciplineContext = `${lead.description ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
-  const disciplines = categorizeDisciplines(title, disciplineContext);
-  const discipline = disciplineName(disciplines[0]);
-  const url = applyUrl(lead);
   const company = normalizeCompanyName(lead.company);
   const companyInfo = companyDetails(company);
+  const disciplineContext = `${lead.description ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
+  const disciplines = categorizeDisciplines(title, disciplineContext, {
+    companyDisciplines: companyInfo.coverage_disciplines,
+  });
+  const discipline = disciplineName(disciplines[0]);
+  const url = applyUrl(lead);
   const existingGradWindow = normalize(lead.grad_window);
   const inferredGradWindow = internshipEligiblePatterns.some((pattern) => pattern.test(title))
     ? "2027 internship eligible"
@@ -133,6 +137,7 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
     company_id: companyInfo.id,
     company,
     featured_company: companyInfo.featured,
+    featured_disciplines: companyInfo.featured_disciplines,
     title: normalize(title),
     location: normalizeDisplayText(lead.location).replace(/(?:,\s*)?\[object Object\]/gi, "").trim(),
     role_type: type,
@@ -234,7 +239,7 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["role_id", "company_id", "company", "featured_company", "title", "location", "role_type", "discipline", "disciplines", "specialties", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
+  const columns = ["role_id", "company_id", "company", "featured_company", "featured_disciplines", "title", "location", "role_type", "discipline", "disciplines", "specialties", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(Array.isArray(role[column]) ? role[column].join(";") : role[column])).join(",")),
@@ -255,14 +260,16 @@ export function markdownEscape(value) {
     .replace(/\n/g, " ");
 }
 
-export function renderTable(roles) {
+export function renderTable(roles, disciplineSlug = "") {
   if (roles.length === 0) return "_No roles found yet._\n";
   const lines = [
     "| Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |",
     "|---|---|---|---|---|---|---|",
   ];
   for (const role of [...roles].sort(compareRoles)) {
-    const company = `${role.featured_company ? "🔥 " : ""}${role.company}`;
+    const isFeaturedHere = Array.isArray(role.featured_disciplines)
+      && role.featured_disciplines.includes(disciplineSlug);
+    const company = `${isFeaturedHere ? "🔥 " : ""}${role.company}`;
     lines.push(`| ${markdownEscape(company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${renderRoleDates(role)} | ${markdownLink("Apply", role.url)} |`);
   }
   return `${lines.join("\n")}\n`;
@@ -353,7 +360,7 @@ Current roles in this view: ${matching.length}
 
 Roles are sorted newest-first. Always verify availability and details on the official posting before applying.
 
-${renderTable(matching)}
+${renderTable(matching, discipline.slug)}
 `;
 }
 
@@ -372,7 +379,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-[Get company-specific email notifications](docs/notifications/)
+[Get company-specific email notifications](${notificationSiteUrl})
 
 Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
 

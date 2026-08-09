@@ -50,6 +50,7 @@ export const supportedAdapters = new Set([
   "html_jobs",
   "google_careers",
   "sitemap_jobs",
+  "rss_jobs",
 ]);
 export const defaultSearchTexts = [
   "2027",
@@ -62,6 +63,14 @@ export const defaultSearchTexts = [
   "technical communications",
   "mechanical engineer",
   "manufacturing engineer",
+  "product development engineer",
+  "structural engineer",
+  "test and evaluation engineer",
+  "quality engineer",
+  "materials engineer",
+  "weld engineer",
+  "flight engineer",
+  "engineering development program",
   "aerospace engineer",
   "propulsion engineer",
   "avionics",
@@ -87,8 +96,8 @@ export const titleRolePatterns = [
   /data\s+engineer/i,
   /applied\s+scientist/i,
   /technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer|content\s+(?:developer|designer)\b/i,
-  /mechanical\s+(?:design\s+)?engineer|manufacturing\s+engineer|hardware\s+engineer|test\s+engineer|validation\s+engineer|reliability\s+engineer|product\s+(?:design|development)\s+engineer|equipment\s+engineer|tooling\s+engineer|facilities\s+engineer|applications?\s+engineer|electromechanical|mechatronics|materials?\s+engineer|process\s+engineer|quality\s+engineer|thermal\s+engineer/i,
-  /aerospace\s+engineer|aeronautical\s+engineer|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+(?:systems|sciences?|controls|test|dynamics|mechanics)|space\s+systems|mission\s+(?:operations|systems|design)|aerodynamics?|aeroelasticity|aerostructures?|airframe|aircraft\s+(?:systems?|design|structures?|integration)|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|stress\s+(?:analysis|engineer)|loads\s+(?:and\s+dynamics|engineer)|spacecraft\s+engineer|airworthiness|payload\s+engineer/i,
+  /mechanical\s+(?:design\s+)?engineer|manufacturing\s+engineer|hardware\s+engineer|test\s+(?:and\s+evaluation\s+)?engineer|validation\s+engineer|reliability\s+engineer|product\s+(?:design|development|review)\s+engineer|liaison\s+engineer|equipment\s+engineer|tooling\s+engineer|facilities\s+engineer|applications?\s+engineer|electromechanical|mechatronics|materials?\s+engineer|weld(?:ing)?\s+engineer|metallurg(?:y|ical)|process\s+engineer|quality\s+engineer|thermal\s+engineer|mechanisms?\s+engineer|machine\s+design|vehicle\s+dynamics|powertrain|chassis|hydraulics?|pneumatics?|HVAC|refrigeration|rotating\s+(?:equipment|machinery)|turbomachinery|combustion|acoustics?|vibration|finite\s+element|\bFEA\b|\bCFD\b|computer[-\s]+aided\s+engineering|\bCAE\b/i,
+  /aerospace\s+engineer|aeronautical\s+engineer|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+(?:systems|sciences?|controls|test|dynamics|mechanics|software)|space\s+systems|mission\s+(?:operations|systems|design|integration)|aerodynamics?|aeroelasticity|aerostructures?|airframe|aircraft\s+(?:systems?|design|structures?|integration|certification)|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|stress\s+(?:analysis|engineer)|loads\s+(?:and\s+dynamics|engineer)|spacecraft|airworthiness|payload\s+engineer|satellite|launch\s+vehicle|air\s+vehicle|astrodynamics|orbital\s+mechanics|aerothermal|mass\s+properties|survivability|rotorcraft|flightworthiness/i,
   /(?:(?:associate|technical)\s+)?product\s+manager|product\s+(?:management|mgmt)|\bAPM\b/i,
   /(?:software|platform|kubernetes|cloud)\s+infrastructure\s+engineer/i,
   /platform\s+(?:software\s+)?engineer/i,
@@ -102,6 +111,7 @@ export const titleRolePatterns = [
   /(?:firmware|embedded|fpga|asic|silicon|network|cloud|devops|reliability|systems?|infrastructure|security|cybersecurity)\s+(?:engineer|developer|intern|internships?)/i,
   /(?:developer|researcher|scientist|writer|trader)\s+(?:intern|internships?|co[-\s]?ops?)/i,
   /(?:engineering|engineer)\s+(?:intern|internships?|co[-\s]?ops?)|(?:intern|internships?|co[-\s]?ops?).*(?:engineering|engineer)/i,
+  /engineering\s+(?:rotational|development|graduate|early\s+career)\s+(?:program|track)|engineering\s+corporate\s+(?:internship|intern)\s+program/i,
   /(?:intern|internships?|co[-\s]?ops?).*(?:software|developer|firmware|embedded|machine\s+learning|deep\s+learning|\bAI\b|\bML\b|data\s+(?:science|scientist|engineering|engineer|analytics|analyst)|technical\s+writer|documentation|quant|trading|hardware|fpga|asic|mechanical|aerospace|aeronautical|avionics|product\s+(?:design|management|mgmt)|manufacturing|thermal|propulsion)/i,
   /(?:quantitative|algorithmic)\s+(?:research|researcher|trading|trader|development|developer)/i,
   /(?:machine\s+learning|deep\s+learning|artificial\s+intelligence|computer\s+vision)\s+(?:researcher|research|scientist|engineer|intern)/i,
@@ -110,7 +120,7 @@ export const titleRolePatterns = [
 export const internshipPatterns = [
   /\binterns?\b/i,
   /\binternships?\b/i,
-  /\bco[-\s]?ops?\b/i,
+  /\bco[-_\s]?ops?(?=\b|_)/i,
   /\bcoops?\b/i,
   /\bapprentice(?:ship)?\b/i,
   /\bstudent\s+(?:intern|researcher)\b/i,
@@ -123,6 +133,13 @@ export const earlyCareerPatterns = [
   /\bcareer\s+catalyst\b/i,
   /\bnew\s+college\s+grad(?:uate)?\b/i,
   /\brecent\s+grad(?:uate)?\b/i,
+  /\bjunior\b/i,
+  /\bjr\.?\b/i,
+  /\bassociate\s+staff\b/i,
+  /^assistant\s+(?!(?:chief|manager)\b)(?:[a-z&/-]+\s+){0,6}engineer\b/i,
+  /\bcampus\s+(?:hire|recruiting)\b/i,
+  /\buniversity\s+(?:hire|recruiting)\b/i,
+  /\bengineering\s+(?:development|rotation(?:al)?)\s+program\b/i,
 ];
 
 export const explicitNewGradPatterns = [
@@ -174,6 +191,9 @@ export const seniorPatterns = [
   /\bmanager\b/i,
   /\bdirector\b/i,
   /\barchitect\b/i,
+  /\bmid[-\s]+career\b/i,
+  /\bmid[-\s]+level\b/i,
+  /\bexperienced\b/i,
 ];
 
 export const excludedDegreeProgramPatterns = [
@@ -190,13 +210,15 @@ export const excludedLocationPatterns = [
   /canada|toronto|vancouver|montreal|ottawa/i,
   /\b(?:Alberta|British Columbia|Manitoba|New Brunswick|Newfoundland(?: and Labrador)?|Northwest Territories|Nova Scotia|Nunavut|Ontario|Prince Edward Island|Quebec|Québec|Saskatchewan|Yukon)\b/i,
   /mexico|brazil|argentina|chile|colombia/i,
-  /india|bengaluru|bangalore/i,
+  /\bindia\b|bengaluru|bangalore/i,
   /singapore/i,
   /sydney|australia/i,
   /seoul|south korea/i,
+  /\bisrael\b|\bhaifa\b/i,
   /london|dublin|ireland|united kingdom|uk\b/i,
   /germany|france|japan|poland|romania|netherlands|amsterdam/i,
   /(?:^|,)\s*(?:IE|IRL|GB|GBR|DEU|FRA|IND|SGP|AUS|JPN|KOR)\s*$/i,
+  /,\s*[A-Z]{2,3},\s*IN\s*$/,
   /,\s*(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT),\s*(?:CA|CAN)\s*$/i,
 ];
 

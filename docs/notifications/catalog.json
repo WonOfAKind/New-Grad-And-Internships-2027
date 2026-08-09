@@ -1,13 +1,18 @@
 {
-  "version": 1,
-  "generated_at": "2026-08-09T17:22:45.040Z",
-  "featured_legend": "Featured major technology or engineering employer. This is a curated designation, not a ranking.",
+  "version": 2,
+  "generated_at": "2026-08-09T20:31:20.639Z",
+  "featured_legend": "Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.",
   "companies": [
     {
       "id": "adobe",
       "name": "Adobe",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
         "product-management-featured"
@@ -20,12 +25,72 @@
       ]
     },
     {
+      "id": "air-products",
+      "name": "Air Products",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Industrial Gases/Energy",
+      "role_families": [
+        "Mechanical",
+        "Rotating Equipment",
+        "Cryogenics",
+        "Process",
+        "Plant",
+        "Reliability",
+        "Manufacturing"
+      ]
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Marketplace",
+      "role_families": [
+        "SWE",
+        "ML",
+        "Data"
+      ]
+    },
+    {
       "id": "amazon",
       "name": "Amazon",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
+        "data-featured",
         "product-management-featured"
       ],
       "bucket": "Big Tech",
@@ -37,14 +102,53 @@
       ]
     },
     {
+      "id": "amd",
+      "name": "AMD",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
+      "groups": [
+        "hardware-featured"
+      ],
+      "bucket": "Hardware/AI Systems",
+      "role_families": [
+        "SWE",
+        "ML Systems",
+        "Compiler",
+        "GPU"
+      ]
+    },
+    {
       "id": "anduril",
       "name": "Anduril",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "software",
+        "ai-ml",
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
         "software-featured",
-        "mechanical-major"
+        "ai-ml-featured",
+        "mechanical-major",
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Defense/AI",
       "role_families": [
@@ -63,8 +167,15 @@
       "name": "Anthropic",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
         "product-management-featured"
       ],
       "bucket": "AI Lab",
@@ -79,6 +190,15 @@
       "name": "Apple",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "hardware-electrical",
+        "product-management"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [
         "software-featured",
         "hardware-featured",
@@ -99,9 +219,20 @@
       "name": "Applied Materials",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "mechanical-major",
-        "hardware-featured"
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Semiconductor Equipment",
       "role_families": [
@@ -116,9 +247,20 @@
       "name": "ASML",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "mechanical-major",
-        "hardware-featured"
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Semiconductor",
       "role_families": [
@@ -133,13 +275,57 @@
       ]
     },
     {
+      "id": "bae-systems",
+      "name": "BAE Systems",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Systems",
+        "Avionics",
+        "Manufacturing",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
       "id": "blue-origin",
       "name": "Blue Origin",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -157,9 +343,19 @@
       "name": "Boeing",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -170,12 +366,42 @@
       ]
     },
     {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
+      "groups": [
+        "hardware-featured"
+      ],
+      "bucket": "Hardware/Infra",
+      "role_families": [
+        "SWE",
+        "Systems",
+        "Networking"
+      ]
+    },
+    {
       "id": "caterpillar",
       "name": "Caterpillar",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Industrial/Manufacturing",
       "role_families": [
@@ -186,13 +412,77 @@
       ]
     },
     {
+      "id": "chevron",
+      "name": "Chevron",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Energy/Process Engineering",
+      "role_families": [
+        "Mechanical",
+        "Facilities",
+        "Reliability",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Controls"
+      ]
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Cloud/Infra",
+      "role_families": [
+        "SWE",
+        "Systems",
+        "Security"
+      ]
+    },
+    {
       "id": "collins-aerospace",
       "name": "Collins Aerospace",
       "parent_id": "rtx",
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -204,13 +494,72 @@
       ]
     },
     {
+      "id": "databricks",
+      "name": "Databricks",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "ai-ml-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Data/AI",
+      "role_families": [
+        "SWE",
+        "ML Platform",
+        "Data Infra"
+      ]
+    },
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Marketplace",
+      "role_families": [
+        "SWE",
+        "ML",
+        "Data"
+      ]
+    },
+    {
       "id": "eaton",
       "name": "Eaton",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "mechanical-major",
-        "hardware-featured"
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Industrial/Manufacturing",
       "role_families": [
@@ -221,12 +570,50 @@
       ]
     },
     {
+      "id": "exxonmobil",
+      "name": "ExxonMobil",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Energy/Process Engineering",
+      "role_families": [
+        "Mechanical",
+        "Rotating Equipment",
+        "Reliability",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Controls"
+      ]
+    },
+    {
       "id": "ford",
       "name": "Ford",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Automotive/EV",
       "role_families": [
@@ -241,9 +628,20 @@
       "name": "GE Aerospace",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -254,12 +652,53 @@
       ]
     },
     {
+      "id": "general-dynamics",
+      "name": "General Dynamics",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Marine Systems",
+        "Vehicle Systems",
+        "Manufacturing",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
       "id": "general-motors",
       "name": "General Motors",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Automotive/EV",
       "role_families": [
@@ -274,8 +713,17 @@
       "name": "Google",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
+        "data-featured",
         "product-management-featured"
       ],
       "bucket": "Big Tech",
@@ -290,9 +738,21 @@
       "name": "Gulfstream Aerospace",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -307,9 +767,22 @@
       "name": "Honeywell",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace/Industrial",
       "role_families": [
@@ -320,12 +793,45 @@
       ]
     },
     {
+      "id": "intel",
+      "name": "Intel",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
+      "groups": [
+        "hardware-featured",
+        "manufacturing-major"
+      ],
+      "bucket": "Hardware/AI Systems",
+      "role_families": [
+        "SWE",
+        "Systems",
+        "AI",
+        "Compiler"
+      ]
+    },
+    {
       "id": "john-deere",
       "name": "John Deere",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Industrial/Robotics",
       "role_families": [
@@ -336,13 +842,55 @@
       ]
     },
     {
+      "id": "johns-hopkins-apl",
+      "name": "Johns Hopkins Applied Physics Laboratory",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "hardware-featured"
+      ],
+      "bucket": "Aerospace/Defense R&D",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Thermal",
+        "Robotics",
+        "Systems",
+        "Test and Evaluation",
+        "Radar",
+        "Electrical"
+      ]
+    },
+    {
       "id": "johnson-johnson",
       "name": "Johnson & Johnson",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "product-management",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
         "mechanical-major",
-        "product-management-featured"
+        "product-management-featured",
+        "manufacturing-major"
       ],
       "bucket": "Medical Devices",
       "role_families": [
@@ -354,13 +902,105 @@
       ]
     },
     {
+      "id": "l3harris",
+      "name": "L3Harris",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "aerospace-major",
+        "hardware-featured"
+      ],
+      "bucket": "Defense Tech",
+      "role_families": [
+        "SWE",
+        "AI",
+        "Systems"
+      ]
+    },
+    {
+      "id": "lawrence-livermore-national-laboratory",
+      "name": "Lawrence Livermore National Laboratory",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "National Laboratory",
+      "role_families": [
+        "Mechanical",
+        "Aerospace",
+        "Computational Engineering",
+        "Materials",
+        "Manufacturing",
+        "Test",
+        "Systems"
+      ]
+    },
+    {
+      "id": "linde",
+      "name": "Linde",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Industrial Gases/Energy",
+      "role_families": [
+        "Mechanical",
+        "Rotating Equipment",
+        "Cryogenics",
+        "Process",
+        "Plant",
+        "Reliability",
+        "Manufacturing"
+      ]
+    },
+    {
       "id": "lockheed-martin",
       "name": "Lockheed Martin",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Defense Tech",
       "role_families": [
@@ -377,8 +1017,17 @@
       "name": "Medtronic",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Medical Devices",
       "role_families": [
@@ -393,8 +1042,19 @@
       "name": "Meta",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [
+        "manufacturing-industrial"
+      ],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
+        "data-featured",
         "product-management-featured"
       ],
       "bucket": "Big Tech",
@@ -409,8 +1069,17 @@
       "name": "Microsoft",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
+        "data-featured",
         "product-management-featured"
       ],
       "bucket": "Big Tech",
@@ -421,10 +1090,107 @@
       ]
     },
     {
+      "id": "mit-lincoln-laboratory",
+      "name": "MIT Lincoln Laboratory",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "hardware-featured"
+      ],
+      "bucket": "Aerospace/Defense R&D",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Radar",
+        "Airborne Systems",
+        "Systems",
+        "Electrical",
+        "Microfabrication"
+      ]
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major"
+      ],
+      "bucket": "Civil Space",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Flight Systems",
+        "Propulsion",
+        "Thermal",
+        "Structures",
+        "Robotics",
+        "Systems"
+      ]
+    },
+    {
+      "id": "nasa-jpl",
+      "name": "NASA Jet Propulsion Laboratory",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "hardware-featured"
+      ],
+      "bucket": "Civil Space R&D",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Spacecraft",
+        "Robotics",
+        "Thermal",
+        "Structures",
+        "Systems",
+        "Electrical"
+      ]
+    },
+    {
       "id": "netflix",
       "name": "Netflix",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
         "product-management-featured"
@@ -441,9 +1207,21 @@
       "name": "Northrop Grumman",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Defense Tech",
       "role_families": [
@@ -460,8 +1238,18 @@
       "name": "NVIDIA",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
         "hardware-featured"
       ],
       "bucket": "AI Infra",
@@ -480,8 +1268,15 @@
       "name": "OpenAI",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
         "product-management-featured"
       ],
       "bucket": "AI Lab",
@@ -492,13 +1287,50 @@
       ]
     },
     {
+      "id": "palantir",
+      "name": "Palantir",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "ai-ml-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "FDE/Data",
+      "role_families": [
+        "SWE",
+        "FDSE",
+        "FDE",
+        "Infra"
+      ]
+    },
+    {
       "id": "pratt-whitney",
       "name": "Pratt & Whitney",
       "parent_id": "rtx",
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -509,13 +1341,65 @@
       ]
     },
     {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "hardware-electrical"
+      ],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
+      "groups": [
+        "hardware-featured"
+      ],
+      "bucket": "Hardware/AI Systems",
+      "role_families": [
+        "SWE",
+        "ML",
+        "Embedded",
+        "Systems"
+      ]
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Gaming/Infra",
+      "role_families": [
+        "SWE",
+        "ML",
+        "Infra"
+      ]
+    },
+    {
       "id": "rocket-lab",
       "name": "Rocket Lab",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Space Tech",
       "role_families": [
@@ -529,9 +1413,21 @@
       "name": "RTX",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Defense Tech",
       "role_families": [
@@ -550,6 +1446,11 @@
       "name": "Salesforce",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
         "product-management-featured"
@@ -562,12 +1463,86 @@
       ]
     },
     {
+      "id": "sandia-national-laboratories",
+      "name": "Sandia National Laboratories",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [
+        "aerospace-major",
+        "mechanical-major",
+        "hardware-featured",
+        "manufacturing-major"
+      ],
+      "bucket": "National Laboratory",
+      "role_families": [
+        "Mechanical",
+        "Aerospace",
+        "Thermal",
+        "Materials",
+        "Test",
+        "Systems",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [
+        "mechanical-major",
+        "manufacturing-major"
+      ],
+      "bucket": "Energy/Process Engineering",
+      "role_families": [
+        "Mechanical",
+        "Rotating Equipment",
+        "Reliability",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Energy"
+      ]
+    },
+    {
       "id": "siemens",
       "name": "Siemens",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Industrial/Engineering Software",
       "role_families": [
@@ -578,13 +1553,48 @@
       ]
     },
     {
+      "id": "snowflake",
+      "name": "Snowflake",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Data/Cloud",
+      "role_families": [
+        "SWE",
+        "Data Platform",
+        "ML Platform"
+      ]
+    },
+    {
       "id": "spacex",
       "name": "SpaceX",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -602,6 +1612,11 @@
       "name": "Stripe",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
         "product-management-featured"
@@ -618,10 +1633,20 @@
       "name": "Tesla",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "software",
+        "ai-ml",
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [],
       "groups": [
         "software-featured",
+        "ai-ml-featured",
         "mechanical-major",
-        "hardware-featured"
+        "hardware-featured",
+        "manufacturing-major"
       ],
       "bucket": "Autonomy/EV",
       "role_families": [
@@ -632,12 +1657,45 @@
       ]
     },
     {
+      "id": "texas-instruments",
+      "name": "Texas Instruments",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
+      "groups": [
+        "hardware-featured",
+        "manufacturing-major"
+      ],
+      "bucket": "Hardware/Embedded",
+      "role_families": [
+        "SWE",
+        "Embedded",
+        "Systems"
+      ]
+    },
+    {
       "id": "toyota-motor-north-america",
       "name": "Toyota Motor North America",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Automotive/Manufacturing",
       "role_families": [
@@ -649,13 +1707,48 @@
       ]
     },
     {
+      "id": "uber",
+      "name": "Uber",
+      "parent_id": null,
+      "featured": true,
+      "featured_disciplines": [
+        "software",
+        "data",
+        "product-management"
+      ],
+      "coverage_disciplines": [],
+      "groups": [
+        "software-featured",
+        "data-featured",
+        "product-management-featured"
+      ],
+      "bucket": "Marketplace",
+      "role_families": [
+        "SWE",
+        "ML",
+        "Data"
+      ]
+    },
+    {
       "id": "united-launch-alliance",
       "name": "United Launch Alliance",
       "parent_id": null,
       "featured": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [
         "aerospace-major",
-        "mechanical-major"
+        "mechanical-major",
+        "manufacturing-major"
       ],
       "bucket": "Aerospace",
       "role_families": [
@@ -671,6 +1764,8 @@
       "name": "1Password",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Product",
       "role_families": [
@@ -684,6 +1779,11 @@
       "name": "3M",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Materials/Manufacturing",
       "role_families": [
@@ -694,10 +1794,37 @@
       ]
     },
     {
+      "id": "abb",
+      "name": "ABB",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Robotics/Industrial",
+      "role_families": [
+        "Mechanical",
+        "Robotics",
+        "Automation",
+        "Controls",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
       "id": "abbott",
       "name": "Abbott",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Medical Devices",
       "role_families": [
@@ -712,6 +1839,8 @@
       "name": "Abnormal Security",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/AI",
       "role_families": [
@@ -725,6 +1854,8 @@
       "name": "Abridge",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare AI",
       "role_families": [
@@ -738,6 +1869,8 @@
       "name": "Adyen",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -751,6 +1884,10 @@
       "name": "AECOM",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Engineering Services",
       "role_families": [
@@ -765,6 +1902,12 @@
       "name": "AeroVironment",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Aerospace/Defense",
       "role_families": [
@@ -779,6 +1922,8 @@
       "name": "Affirm",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -788,10 +1933,36 @@
       ]
     },
     {
+      "id": "agco",
+      "name": "AGCO",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Agricultural Equipment/Manufacturing",
+      "role_families": [
+        "Mechanical",
+        "Vehicle Systems",
+        "Mechatronics",
+        "Manufacturing",
+        "Quality",
+        "Automation"
+      ]
+    },
+    {
       "id": "agility-robotics",
       "name": "Agility Robotics",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Robotics",
       "role_families": [
@@ -801,23 +1972,17 @@
       ]
     },
     {
-      "id": "airbnb",
-      "name": "Airbnb",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Marketplace",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Data"
-      ]
-    },
-    {
       "id": "airbus",
       "name": "Airbus",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Aerospace",
       "role_families": [
@@ -832,6 +1997,8 @@
       "name": "Airbyte",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -844,6 +2011,8 @@
       "name": "Airtable",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -857,6 +2026,8 @@
       "name": "Akuna Capital",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -870,6 +2041,8 @@
       "name": "Alchemy",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Dev Tools",
       "role_families": [
@@ -879,17 +2052,26 @@
       ]
     },
     {
-      "id": "amd",
-      "name": "AMD",
+      "id": "amentum",
+      "name": "Amentum",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
-      "bucket": "Hardware/AI Systems",
+      "bucket": "Aerospace/Engineering Services",
       "role_families": [
-        "SWE",
-        "ML Systems",
-        "Compiler",
-        "GPU"
+        "Aerospace",
+        "Mechanical",
+        "Machine Design",
+        "Flight Systems",
+        "Propulsion",
+        "Structures",
+        "Systems",
+        "Test"
       ]
     },
     {
@@ -897,6 +2079,8 @@
       "name": "Amplitude",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Analytics",
       "role_families": [
@@ -910,6 +2094,11 @@
       "name": "Ansys",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Engineering Software",
       "role_families": [
@@ -924,6 +2113,8 @@
       "name": "Anyscale",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -937,6 +2128,8 @@
       "name": "Anysphere",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -950,6 +2143,8 @@
       "name": "Applied Intuition",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -963,6 +2158,8 @@
       "name": "AQR",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Finance Tech",
       "role_families": [
@@ -976,6 +2173,8 @@
       "name": "Aquatic Capital",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -989,6 +2188,11 @@
       "name": "Archer Aviation",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace/eVTOL",
       "role_families": [
@@ -1003,6 +2207,8 @@
       "name": "Arista Networks",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Networking",
       "role_families": [
@@ -1016,6 +2222,10 @@
       "name": "Arm",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Hardware/Systems",
       "role_families": [
@@ -1029,6 +2239,8 @@
       "name": "Asana",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -1042,6 +2254,8 @@
       "name": "Astranis",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -1055,6 +2269,8 @@
       "name": "Astronomer",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -1067,6 +2283,8 @@
       "name": "AT&T",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Telecom Tech",
       "role_families": [
@@ -1081,6 +2299,8 @@
       "name": "Atlassian",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools/SaaS",
       "role_families": [
@@ -1093,6 +2313,8 @@
       "name": "Aurora",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -1106,6 +2328,8 @@
       "name": "Autodesk",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Engineering Software",
       "role_families": [
@@ -1120,6 +2344,12 @@
       "name": "Axiom Space",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -1134,6 +2364,8 @@
       "name": "Axon",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Public Safety AI",
       "role_families": [
@@ -1147,6 +2379,8 @@
       "name": "Balyasny Asset Management",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Finance Tech",
       "role_families": [
@@ -1160,6 +2394,8 @@
       "name": "Bank of America",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -1173,6 +2409,8 @@
       "name": "Baseten",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -1186,6 +2424,11 @@
       "name": "Bechtel",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Engineering Services",
       "role_families": [
@@ -1200,6 +2443,12 @@
       "name": "Bell",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Aerospace",
       "role_families": [
@@ -1214,6 +2463,8 @@
       "name": "Benchling",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Bio/Cloud",
       "role_families": [
@@ -1227,6 +2478,11 @@
       "name": "Beta Technologies",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace/eVTOL",
       "role_families": [
@@ -1241,6 +2497,11 @@
       "name": "Black & Veatch",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Engineering Services",
       "role_families": [
@@ -1255,6 +2516,8 @@
       "name": "BlackRock",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -1269,6 +2532,8 @@
       "name": "Block",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -1282,6 +2547,8 @@
       "name": "Bloomberg",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data/Finance",
       "role_families": [
@@ -1292,10 +2559,37 @@
       ]
     },
     {
+      "id": "bluehalo",
+      "name": "BlueHalo",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Space Systems",
+        "Directed Energy",
+        "Mechanical",
+        "Optical",
+        "Systems",
+        "Test"
+      ]
+    },
+    {
       "id": "boom-supersonic",
       "name": "Boom Supersonic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace",
       "role_families": [
@@ -1310,6 +2604,8 @@
       "name": "Booz Allen Hamilton",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consulting/FDE",
       "role_families": [
@@ -1320,10 +2616,37 @@
       ]
     },
     {
+      "id": "bosch",
+      "name": "Bosch",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Automotive/Industrial",
+      "role_families": [
+        "Mechanical",
+        "Automotive",
+        "Mechatronics",
+        "Controls",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
       "id": "boston-dynamics",
       "name": "Boston Dynamics",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Robotics",
       "role_families": [
@@ -1338,6 +2661,11 @@
       "name": "Boston Scientific",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Medical Devices",
       "role_families": [
@@ -1352,6 +2680,8 @@
       "name": "Box",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise SaaS",
       "role_families": [
@@ -1361,10 +2691,34 @@
       ]
     },
     {
+      "id": "bp",
+      "name": "BP",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Energy/Process Engineering",
+      "role_families": [
+        "Mechanical",
+        "Subsea",
+        "Reliability",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Energy"
+      ]
+    },
+    {
       "id": "braze",
       "name": "Braze",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS/Data",
       "role_families": [
@@ -1378,6 +2732,8 @@
       "name": "Brex",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -1387,23 +2743,15 @@
       ]
     },
     {
-      "id": "broadcom",
-      "name": "Broadcom",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Hardware/Infra",
-      "role_families": [
-        "SWE",
-        "Systems",
-        "Networking"
-      ]
-    },
-    {
       "id": "burns-and-mcdonnell",
       "name": "Burns & McDonnell",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Engineering Services",
       "role_families": [
@@ -1418,6 +2766,8 @@
       "name": "C3 AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise AI",
       "role_families": [
@@ -1431,6 +2781,8 @@
       "name": "Canonical",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise/Open Source",
       "role_families": [
@@ -1444,6 +2796,8 @@
       "name": "Canva",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Design/Productivity",
       "role_families": [
@@ -1457,6 +2811,8 @@
       "name": "Capital One",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech/Bank",
       "role_families": [
@@ -1470,6 +2826,12 @@
       "name": "Carrier",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Industrial/HVAC",
       "role_families": [
@@ -1484,6 +2846,8 @@
       "name": "Cartesia",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Voice",
       "role_families": [
@@ -1497,6 +2861,8 @@
       "name": "Cedar",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare Tech",
       "role_families": [
@@ -1510,6 +2876,10 @@
       "name": "Cerebras",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "AI Hardware/Systems",
       "role_families": [
@@ -1523,6 +2893,8 @@
       "name": "Chainguard",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Dev Tools",
       "role_families": [
@@ -1536,6 +2908,8 @@
       "name": "Chainlink Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Infra",
       "role_families": [
@@ -1549,6 +2923,8 @@
       "name": "Character.AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Product",
       "role_families": [
@@ -1562,6 +2938,8 @@
       "name": "Charles Schwab",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -1575,6 +2953,8 @@
       "name": "Checkr",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS/Trust",
       "role_families": [
@@ -1588,6 +2968,8 @@
       "name": "Chewy",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Ecommerce",
       "role_families": [
@@ -1601,6 +2983,8 @@
       "name": "Chime",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -1614,6 +2998,8 @@
       "name": "Circle",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Fintech",
       "role_families": [
@@ -1627,6 +3013,8 @@
       "name": "CircleCI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -1640,6 +3028,8 @@
       "name": "Cisco",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Networking/Security",
       "role_families": [
@@ -1654,6 +3044,8 @@
       "name": "Citadel",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -1668,6 +3060,8 @@
       "name": "Citadel Securities",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -1681,6 +3075,8 @@
       "name": "ClickHouse",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database/Data",
       "role_families": [
@@ -1690,16 +3086,24 @@
       ]
     },
     {
-      "id": "cloudflare",
-      "name": "Cloudflare",
+      "id": "cnh-industrial",
+      "name": "CNH Industrial",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
-      "bucket": "Cloud/Infra",
+      "bucket": "Agricultural/Construction Equipment",
       "role_families": [
-        "SWE",
-        "Systems",
-        "Security"
+        "Mechanical",
+        "Vehicle Systems",
+        "Powertrain",
+        "Hydraulics",
+        "Manufacturing",
+        "Quality"
       ]
     },
     {
@@ -1707,6 +3111,8 @@
       "name": "Cockroach Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database",
       "role_families": [
@@ -1719,6 +3125,8 @@
       "name": "Coda",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -1732,6 +3140,8 @@
       "name": "Codeium",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -1746,6 +3156,8 @@
       "name": "Cognition",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -1759,6 +3171,8 @@
       "name": "Cohere",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Lab",
       "role_families": [
@@ -1772,6 +3186,8 @@
       "name": "Cohesity",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Data",
       "role_families": [
@@ -1785,6 +3201,8 @@
       "name": "Coinbase",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Fintech",
       "role_families": [
@@ -1799,6 +3217,8 @@
       "name": "Comcast",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Media/Telecom Tech",
       "role_families": [
@@ -1813,6 +3233,8 @@
       "name": "Commure",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare AI",
       "role_families": [
@@ -1826,6 +3248,8 @@
       "name": "Confluent",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Streaming",
       "role_families": [
@@ -1838,6 +3262,8 @@
       "name": "CoreWeave",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -1851,6 +3277,11 @@
       "name": "Corning",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Materials/Manufacturing",
       "role_families": [
@@ -1865,6 +3296,8 @@
       "name": "Coursera",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "EdTech",
       "role_families": [
@@ -1878,6 +3311,10 @@
       "name": "Covariant",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics/AI",
       "role_families": [
@@ -1891,6 +3328,8 @@
       "name": "CrowdStrike",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -1904,6 +3343,11 @@
       "name": "Cummins",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Industrial/Manufacturing",
       "role_families": [
@@ -1914,10 +3358,35 @@
       ]
     },
     {
+      "id": "curtiss-wright",
+      "name": "Curtiss-Wright",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Industrial",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Controls",
+        "Nuclear",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
       "id": "d-e-shaw",
       "name": "D.E. Shaw",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -1931,6 +3400,8 @@
       "name": "Dagster Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -1939,23 +3410,12 @@
       ]
     },
     {
-      "id": "databricks",
-      "name": "Databricks",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Data/AI",
-      "role_families": [
-        "SWE",
-        "ML Platform",
-        "Data Infra"
-      ]
-    },
-    {
       "id": "datadog",
       "name": "Datadog",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Observability",
       "role_families": [
@@ -1969,6 +3429,8 @@
       "name": "dbt Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data/Dev Tools",
       "role_families": [
@@ -1981,6 +3443,10 @@
       "name": "Dell Technologies",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Enterprise Hardware",
       "role_families": [
@@ -1995,6 +3461,8 @@
       "name": "Descript",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Media",
       "role_families": [
@@ -2008,6 +3476,8 @@
       "name": "Discord",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer",
       "role_families": [
@@ -2021,6 +3491,8 @@
       "name": "Docker",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -2034,6 +3506,8 @@
       "name": "DocuSign",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise SaaS",
       "role_families": [
@@ -2043,16 +3517,24 @@
       ]
     },
     {
-      "id": "doordash",
-      "name": "DoorDash",
+      "id": "dow",
+      "name": "Dow",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
-      "bucket": "Marketplace",
+      "bucket": "Chemicals/Materials",
       "role_families": [
-        "SWE",
-        "ML",
-        "Data"
+        "Mechanical",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Reliability",
+        "Automation"
       ]
     },
     {
@@ -2060,6 +3542,8 @@
       "name": "Doximity",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare Tech",
       "role_families": [
@@ -2069,10 +3553,35 @@
       ]
     },
     {
+      "id": "draper",
+      "name": "Draper",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Research",
+      "role_families": [
+        "Aerospace",
+        "GNC",
+        "Mechanical",
+        "Robotics",
+        "Systems",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
       "id": "dremio",
       "name": "Dremio",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -2085,6 +3594,8 @@
       "name": "Dropbox",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -2098,6 +3609,8 @@
       "name": "DRW",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2111,6 +3624,8 @@
       "name": "Duolingo",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "EdTech/AI",
       "role_families": [
@@ -2120,10 +3635,33 @@
       ]
     },
     {
+      "id": "dupont",
+      "name": "DuPont",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Chemicals/Materials",
+      "role_families": [
+        "Mechanical",
+        "Process",
+        "Manufacturing",
+        "Materials",
+        "Reliability",
+        "Product Development"
+      ]
+    },
+    {
       "id": "ebay",
       "name": "eBay",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace",
       "role_families": [
@@ -2137,6 +3675,8 @@
       "name": "Elastic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Search/Data",
       "role_families": [
@@ -2150,6 +3690,8 @@
       "name": "Electronic Arts",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Gaming",
       "role_families": [
@@ -2163,6 +3705,8 @@
       "name": "ElevenLabs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Audio",
       "role_families": [
@@ -2176,6 +3720,12 @@
       "name": "Emerson",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Industrial/Automation",
       "role_families": [
@@ -2190,6 +3740,8 @@
       "name": "Epic Games",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Gaming/3D",
       "role_families": [
@@ -2204,6 +3756,8 @@
       "name": "Epirus",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense Tech",
       "role_families": [
@@ -2217,6 +3771,8 @@
       "name": "Etsy",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace",
       "role_families": [
@@ -2230,6 +3786,8 @@
       "name": "Expedia Group",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Travel Tech",
       "role_families": [
@@ -2243,6 +3801,8 @@
       "name": "F5",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Security",
       "role_families": [
@@ -2257,6 +3817,8 @@
       "name": "Factory AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -2270,6 +3832,8 @@
       "name": "Faire",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace",
       "role_families": [
@@ -2283,6 +3847,8 @@
       "name": "Fastly",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Infra",
       "role_families": [
@@ -2296,6 +3862,8 @@
       "name": "Fidelity Investments",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -2309,6 +3877,8 @@
       "name": "Figma",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Design/Dev Tools",
       "role_families": [
@@ -2322,6 +3892,10 @@
       "name": "Figure AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics/AI",
       "role_families": [
@@ -2335,6 +3909,11 @@
       "name": "Firefly Aerospace",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -2349,6 +3928,8 @@
       "name": "Fireworks AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -2362,6 +3943,8 @@
       "name": "Five Rings",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2375,6 +3958,8 @@
       "name": "Fivetran",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -2388,6 +3973,8 @@
       "name": "Flatiron Health",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare/Data",
       "role_families": [
@@ -2401,6 +3988,8 @@
       "name": "Flow Traders",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2414,6 +4003,8 @@
       "name": "Fly.io",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Infra",
       "role_families": [
@@ -2427,6 +4018,8 @@
       "name": "G-Research",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2440,6 +4033,10 @@
       "name": "Garmin",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Consumer/Embedded",
       "role_families": [
@@ -2453,6 +4050,12 @@
       "name": "GE Vernova",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Energy/Industrial",
       "role_families": [
@@ -2467,6 +4070,8 @@
       "name": "Gemini",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Fintech",
       "role_families": [
@@ -2476,10 +4081,35 @@
       ]
     },
     {
+      "id": "general-atomics",
+      "name": "General Atomics",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Aeronautical",
+        "Flight Systems",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
       "id": "general-dynamics-mission-systems",
       "name": "General Dynamics Mission Systems",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense Tech",
       "role_families": [
@@ -2493,6 +4123,8 @@
       "name": "GitHub",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -2506,6 +4138,8 @@
       "name": "GitLab",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -2519,6 +4153,8 @@
       "name": "Glean",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise AI",
       "role_families": [
@@ -2532,6 +4168,8 @@
       "name": "Goldman Sachs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -2541,10 +4179,33 @@
       ]
     },
     {
+      "id": "goodyear",
+      "name": "Goodyear",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Automotive/Materials",
+      "role_families": [
+        "Mechanical",
+        "Materials",
+        "Product Development",
+        "Manufacturing",
+        "Process",
+        "Quality"
+      ]
+    },
+    {
       "id": "grafana-labs",
       "name": "Grafana Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Observability",
       "role_families": [
@@ -2558,6 +4219,8 @@
       "name": "Grammarly",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI/Productivity",
       "role_families": [
@@ -2572,6 +4235,10 @@
       "name": "Groq",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "AI Hardware/Systems",
       "role_families": [
@@ -2585,6 +4252,8 @@
       "name": "HackerOne",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -2598,6 +4267,10 @@
       "name": "Hadrian",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Defense/Manufacturing",
       "role_families": [
@@ -2611,6 +4284,8 @@
       "name": "Harvey",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Legal AI",
       "role_families": [
@@ -2624,6 +4299,8 @@
       "name": "HashiCorp",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Infra",
       "role_families": [
@@ -2637,6 +4314,11 @@
       "name": "Hermeus",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace",
       "role_families": [
@@ -2651,6 +4333,8 @@
       "name": "Home Depot Technology",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Retail Tech",
       "role_families": [
@@ -2664,6 +4348,12 @@
       "name": "Honda",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Automotive/Manufacturing",
       "role_families": [
@@ -2678,6 +4368,8 @@
       "name": "Honeycomb",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Observability",
       "role_families": [
@@ -2691,6 +4383,8 @@
       "name": "Hopper",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Travel/Fintech",
       "role_families": [
@@ -2700,10 +4394,34 @@
       ]
     },
     {
+      "id": "howmet-aerospace",
+      "name": "Howmet Aerospace",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Manufacturing",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Materials",
+        "Process",
+        "Manufacturing",
+        "Quality"
+      ]
+    },
+    {
       "id": "hpe",
       "name": "HPE",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise Cloud",
       "role_families": [
@@ -2718,6 +4436,8 @@
       "name": "HubSpot",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS",
       "role_families": [
@@ -2731,6 +4451,8 @@
       "name": "Hudson River Trading",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2745,6 +4467,8 @@
       "name": "Hugging Face",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Platform",
       "role_families": [
@@ -2758,6 +4482,12 @@
       "name": "Hyundai",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Automotive/Manufacturing",
       "role_families": [
@@ -2772,6 +4502,8 @@
       "name": "IBM",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise AI",
       "role_families": [
@@ -2785,6 +4517,8 @@
       "name": "IMC Trading",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2798,6 +4532,8 @@
       "name": "Inflection AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Lab",
       "role_families": [
@@ -2811,6 +4547,8 @@
       "name": "Insitro",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Bio/AI",
       "role_families": [
@@ -2825,6 +4563,8 @@
       "name": "Instabase",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise AI",
       "role_families": [
@@ -2838,6 +4578,8 @@
       "name": "Instacart",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace",
       "role_families": [
@@ -2847,24 +4589,12 @@
       ]
     },
     {
-      "id": "intel",
-      "name": "Intel",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Hardware/AI Systems",
-      "role_families": [
-        "SWE",
-        "Systems",
-        "AI",
-        "Compiler"
-      ]
-    },
-    {
       "id": "intuit",
       "name": "Intuit",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech/SaaS",
       "role_families": [
@@ -2874,10 +4604,35 @@
       ]
     },
     {
+      "id": "intuitive-surgical",
+      "name": "Intuitive Surgical",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Robotics/Medical Devices",
+      "role_families": [
+        "Mechanical",
+        "Robotics",
+        "Mechatronics",
+        "Product Development",
+        "Manufacturing",
+        "Quality"
+      ]
+    },
+    {
       "id": "irobot",
       "name": "iRobot",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics",
       "role_families": [
@@ -2892,6 +4647,11 @@
       "name": "Jacobs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Engineering Services",
       "role_families": [
@@ -2906,6 +4666,8 @@
       "name": "Jane Street",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2919,6 +4681,8 @@
       "name": "JetBrains",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -2932,6 +4696,11 @@
       "name": "Joby Aviation",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace/eVTOL",
       "role_families": [
@@ -2946,6 +4715,12 @@
       "name": "Johnson Controls",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Industrial/HVAC",
       "role_families": [
@@ -2960,6 +4735,8 @@
       "name": "JPMorgan Chase",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -2973,6 +4750,8 @@
       "name": "Jump Trading",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -2986,6 +4765,8 @@
       "name": "Juniper Networks",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Networking",
       "role_families": [
@@ -2995,10 +4776,35 @@
       ]
     },
     {
+      "id": "kbr",
+      "name": "KBR",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Engineering Services",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Flight Hardware",
+        "Space Systems",
+        "Systems",
+        "Test",
+        "Electrical"
+      ]
+    },
+    {
       "id": "khan-academy",
       "name": "Khan Academy",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "EdTech/AI",
       "role_families": [
@@ -3012,6 +4818,12 @@
       "name": "KLA",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Semiconductor Equipment",
       "role_families": [
@@ -3026,6 +4838,8 @@
       "name": "Klaviyo",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS/Data",
       "role_families": [
@@ -3039,6 +4853,8 @@
       "name": "Kraken",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Fintech",
       "role_families": [
@@ -3052,6 +4868,13 @@
       "name": "Kratos Defense",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Aerospace/Defense",
       "role_families": [
@@ -3062,23 +4885,12 @@
       ]
     },
     {
-      "id": "l3harris",
-      "name": "L3Harris",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Defense Tech",
-      "role_families": [
-        "SWE",
-        "AI",
-        "Systems"
-      ]
-    },
-    {
       "id": "labelbox",
       "name": "Labelbox",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI/Data",
       "role_families": [
@@ -3092,6 +4904,12 @@
       "name": "Lam Research",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Semiconductor Equipment",
       "role_families": [
@@ -3106,6 +4924,8 @@
       "name": "Lambda",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -3119,6 +4939,8 @@
       "name": "LangChain",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -3131,6 +4953,8 @@
       "name": "LaunchDarkly",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -3144,6 +4968,8 @@
       "name": "Leidos",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense Tech",
       "role_families": [
@@ -3158,6 +4984,8 @@
       "name": "Lightning AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Platform",
       "role_families": [
@@ -3171,6 +4999,8 @@
       "name": "Linear",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity/Dev Tools",
       "role_families": [
@@ -3183,6 +5013,8 @@
       "name": "Lowe's Technology",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Retail Tech",
       "role_families": [
@@ -3196,6 +5028,11 @@
       "name": "Lucid Motors",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Automotive/EV",
       "role_families": [
@@ -3210,6 +5047,8 @@
       "name": "Luma AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Product",
       "role_families": [
@@ -3223,6 +5062,8 @@
       "name": "Lyft",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace",
       "role_families": [
@@ -3236,6 +5077,8 @@
       "name": "Magic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -3249,6 +5092,10 @@
       "name": "Marvell",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Hardware/Networking",
       "role_families": [
@@ -3262,6 +5109,8 @@
       "name": "Mastercard",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Payments",
       "role_families": [
@@ -3276,6 +5125,10 @@
       "name": "MathWorks",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Engineering Software",
       "role_families": [
@@ -3290,6 +5143,8 @@
       "name": "Maven Securities",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -3303,6 +5158,8 @@
       "name": "Maxar",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Space/Data",
       "role_families": [
@@ -3317,6 +5174,8 @@
       "name": "Mercury",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -3326,10 +5185,35 @@
       ]
     },
     {
+      "id": "michelin",
+      "name": "Michelin",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Automotive/Materials",
+      "role_families": [
+        "Mechanical",
+        "Materials",
+        "Product Development",
+        "Manufacturing",
+        "Process",
+        "Quality"
+      ]
+    },
+    {
       "id": "micron",
       "name": "Micron",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Hardware/Data",
       "role_families": [
@@ -3344,6 +5228,8 @@
       "name": "Midjourney",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Product",
       "role_families": [
@@ -3357,6 +5243,8 @@
       "name": "Millennium",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Finance Tech",
       "role_families": [
@@ -3370,6 +5258,8 @@
       "name": "Miro",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -3383,6 +5273,8 @@
       "name": "Mistral AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Lab",
       "role_families": [
@@ -3397,6 +5289,8 @@
       "name": "Modal",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -3410,6 +5304,8 @@
       "name": "monday.com",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -3422,6 +5318,8 @@
       "name": "MongoDB",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database",
       "role_families": [
@@ -3431,10 +5329,35 @@
       ]
     },
     {
+      "id": "moog",
+      "name": "Moog",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Industrial",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Flight Controls",
+        "Hydraulics",
+        "Manufacturing",
+        "Electrical"
+      ]
+    },
+    {
       "id": "morgan-stanley",
       "name": "Morgan Stanley",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -3448,6 +5371,8 @@
       "name": "MotherDuck",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -3461,6 +5386,10 @@
       "name": "Motional",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -3474,6 +5403,8 @@
       "name": "Natera",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Bio/Data",
       "role_families": [
@@ -3487,6 +5418,8 @@
       "name": "Neo4j",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database/Graph",
       "role_families": [
@@ -3500,6 +5433,8 @@
       "name": "Neon",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database",
       "role_families": [
@@ -3513,6 +5448,8 @@
       "name": "NetApp",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Storage/Cloud",
       "role_families": [
@@ -3526,6 +5463,8 @@
       "name": "Netlify",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools/Cloud",
       "role_families": [
@@ -3538,6 +5477,8 @@
       "name": "Netskope",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -3551,6 +5492,8 @@
       "name": "New Relic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Observability",
       "role_families": [
@@ -3564,6 +5507,8 @@
       "name": "Nextdoor",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer",
       "role_families": [
@@ -3577,6 +5522,8 @@
       "name": "Niantic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Gaming/AR",
       "role_families": [
@@ -3591,6 +5538,12 @@
       "name": "Nissan",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Automotive/Manufacturing",
       "role_families": [
@@ -3605,6 +5558,8 @@
       "name": "Notion",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity/AI",
       "role_families": [
@@ -3617,6 +5572,10 @@
       "name": "Nuro",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -3630,6 +5589,8 @@
       "name": "Nutanix",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Infra",
       "role_families": [
@@ -3643,6 +5604,8 @@
       "name": "Okta",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Identity/Security",
       "role_families": [
@@ -3656,6 +5619,8 @@
       "name": "Opendoor",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "PropTech",
       "role_families": [
@@ -3669,6 +5634,8 @@
       "name": "Optiver",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -3682,6 +5649,8 @@
       "name": "Oracle",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Data",
       "role_families": [
@@ -3695,6 +5664,8 @@
       "name": "Oscar Health",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare Tech",
       "role_families": [
@@ -3704,17 +5675,45 @@
       ]
     },
     {
-      "id": "palantir",
-      "name": "Palantir",
+      "id": "oshkosh-corporation",
+      "name": "Oshkosh Corporation",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
-      "bucket": "FDE/Data",
+      "bucket": "Vehicles/Manufacturing",
       "role_families": [
-        "SWE",
-        "FDSE",
-        "FDE",
-        "Infra"
+        "Mechanical",
+        "Vehicle Systems",
+        "Powertrain",
+        "Hydraulics",
+        "Manufacturing",
+        "Quality"
+      ]
+    },
+    {
+      "id": "paccar",
+      "name": "PACCAR",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Automotive/Manufacturing",
+      "role_families": [
+        "Mechanical",
+        "Automotive",
+        "Powertrain",
+        "Vehicle Systems",
+        "Manufacturing",
+        "Quality"
       ]
     },
     {
@@ -3722,6 +5721,8 @@
       "name": "Palo Alto Networks",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -3735,6 +5736,11 @@
       "name": "Parker Hannifin",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Industrial/Manufacturing",
       "role_families": [
@@ -3749,6 +5755,8 @@
       "name": "PathAI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare AI",
       "role_families": [
@@ -3762,6 +5770,8 @@
       "name": "PayPal",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -3772,10 +5782,35 @@
       ]
     },
     {
+      "id": "peraton",
+      "name": "Peraton",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Space Communications",
+        "Systems",
+        "Test",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Product",
       "role_families": [
@@ -3789,6 +5824,8 @@
       "name": "Persona",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Identity/Security",
       "role_families": [
@@ -3802,6 +5839,10 @@
       "name": "Physical Intelligence",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics/AI",
       "role_families": [
@@ -3815,6 +5856,8 @@
       "name": "Pika",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Product",
       "role_families": [
@@ -3828,6 +5871,8 @@
       "name": "Pinecone",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Vector DB",
       "role_families": [
@@ -3841,6 +5886,8 @@
       "name": "Pinterest",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer",
       "role_families": [
@@ -3850,10 +5897,35 @@
       ]
     },
     {
+      "id": "pivotal",
+      "name": "Pivotal",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/eVTOL",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Flight Controls",
+        "GNC",
+        "Manufacturing",
+        "Hardware"
+      ]
+    },
+    {
       "id": "plaid",
       "name": "Plaid",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -3867,6 +5939,8 @@
       "name": "Planet",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Space/Data",
       "role_families": [
@@ -3881,6 +5955,8 @@
       "name": "Point72",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Finance Tech",
       "role_families": [
@@ -3894,6 +5970,8 @@
       "name": "Poolside",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -3907,6 +5985,8 @@
       "name": "Postman",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -3920,6 +6000,8 @@
       "name": "Prefect",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -3932,6 +6014,8 @@
       "name": "Primer AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense/AI",
       "role_families": [
@@ -3946,6 +6030,8 @@
       "name": "Pulumi",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Dev Tools",
       "role_families": [
@@ -3959,6 +6045,8 @@
       "name": "Pure Storage",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Storage/Cloud",
       "role_families": [
@@ -3968,24 +6056,12 @@
       ]
     },
     {
-      "id": "qualcomm",
-      "name": "Qualcomm",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Hardware/AI Systems",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Embedded",
-        "Systems"
-      ]
-    },
-    {
       "id": "qualtrics",
       "name": "Qualtrics",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS/Data",
       "role_families": [
@@ -3999,6 +6075,8 @@
       "name": "Quizlet",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "EdTech/AI",
       "role_families": [
@@ -4012,6 +6090,8 @@
       "name": "Quora",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/AI",
       "role_families": [
@@ -4025,6 +6105,8 @@
       "name": "Radix Trading",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -4038,6 +6120,8 @@
       "name": "Railway",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Dev Tools",
       "role_families": [
@@ -4051,6 +6135,8 @@
       "name": "Ramp",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -4064,6 +6150,8 @@
       "name": "Rapid7",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -4077,6 +6165,8 @@
       "name": "Recursion",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Bio/AI",
       "role_families": [
@@ -4091,6 +6181,8 @@
       "name": "Red Hat",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise/Open Source",
       "role_families": [
@@ -4104,6 +6196,8 @@
       "name": "Reddit",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer",
       "role_families": [
@@ -4117,6 +6211,8 @@
       "name": "Redis",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database",
       "role_families": [
@@ -4125,10 +6221,35 @@
       ]
     },
     {
+      "id": "regal-rexnord",
+      "name": "Regal Rexnord",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Industrial/Manufacturing",
+      "role_families": [
+        "Mechanical",
+        "Motion Control",
+        "Power Transmission",
+        "Manufacturing",
+        "Industrial",
+        "Quality"
+      ]
+    },
+    {
       "id": "relativity-space",
       "name": "Relativity Space",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -4142,6 +6263,8 @@
       "name": "Remitly",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -4155,6 +6278,8 @@
       "name": "Render",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Dev Tools",
       "role_families": [
@@ -4168,6 +6293,8 @@
       "name": "Replicate",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -4181,6 +6308,8 @@
       "name": "Replit",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -4194,6 +6323,8 @@
       "name": "Retool",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools/SaaS",
       "role_families": [
@@ -4207,6 +6338,8 @@
       "name": "Riot Games",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Gaming",
       "role_families": [
@@ -4220,6 +6353,8 @@
       "name": "Ripple",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/Fintech",
       "role_families": [
@@ -4233,6 +6368,8 @@
       "name": "Rippling",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS",
       "role_families": [
@@ -4246,6 +6383,11 @@
       "name": "Rivian",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Automotive/EV",
       "role_families": [
@@ -4260,6 +6402,8 @@
       "name": "Robinhood",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -4269,23 +6413,12 @@
       ]
     },
     {
-      "id": "roblox",
-      "name": "Roblox",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Gaming/Infra",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Infra"
-      ]
-    },
-    {
       "id": "roboflow",
       "name": "Roboflow",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Platform",
       "role_families": [
@@ -4299,6 +6432,12 @@
       "name": "Rockwell Automation",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Industrial/Automation",
       "role_families": [
@@ -4313,6 +6452,8 @@
       "name": "Roku",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/Streaming",
       "role_families": [
@@ -4327,6 +6468,12 @@
       "name": "Rolls-Royce",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Aerospace/Industrial",
       "role_families": [
@@ -4341,6 +6488,8 @@
       "name": "Rubrik",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Data",
       "role_families": [
@@ -4354,6 +6503,8 @@
       "name": "Runway",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Creative",
       "role_families": [
@@ -4363,10 +6514,34 @@
       ]
     },
     {
+      "id": "saic",
+      "name": "SAIC",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Systems",
+        "Test",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
       "id": "sambanova",
       "name": "SambaNova",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Systems",
       "role_families": [
@@ -4379,6 +6554,8 @@
       "name": "Samsara",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "IoT/AI",
       "role_families": [
@@ -4392,6 +6569,10 @@
       "name": "Samsung Semiconductor",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Hardware/AI Systems",
       "role_families": [
@@ -4405,6 +6586,8 @@
       "name": "SAP",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise Software",
       "role_families": [
@@ -4419,6 +6602,10 @@
       "name": "Saronic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Defense/Autonomy",
       "role_families": [
@@ -4432,6 +6619,8 @@
       "name": "Scale AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI/Data",
       "role_families": [
@@ -4442,10 +6631,34 @@
       ]
     },
     {
+      "id": "schneider-electric",
+      "name": "Schneider Electric",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Energy/Industrial",
+      "role_families": [
+        "Mechanical",
+        "Electrical",
+        "Energy",
+        "Controls",
+        "Manufacturing",
+        "Industrial"
+      ]
+    },
+    {
       "id": "schonfeld",
       "name": "Schonfeld",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Finance Tech",
       "role_families": [
@@ -4459,6 +6672,8 @@
       "name": "Semgrep",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Dev Tools",
       "role_families": [
@@ -4472,6 +6687,8 @@
       "name": "SentinelOne",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/AI",
       "role_families": [
@@ -4485,6 +6702,8 @@
       "name": "Sentry",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools",
       "role_families": [
@@ -4498,6 +6717,8 @@
       "name": "ServiceNow",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS/AI",
       "role_families": [
@@ -4510,6 +6731,8 @@
       "name": "Shield AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense/AI",
       "role_families": [
@@ -4523,6 +6746,8 @@
       "name": "Shopify",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Commerce",
       "role_families": [
@@ -4536,6 +6761,8 @@
       "name": "Sierra",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise AI",
       "role_families": [
@@ -4544,10 +6771,38 @@
       ]
     },
     {
+      "id": "sierra-nevada-corporation",
+      "name": "Sierra Nevada Corporation",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Defense",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Space Systems",
+        "Avionics",
+        "Manufacturing",
+        "Software"
+      ]
+    },
+    {
       "id": "sierra-space",
       "name": "Sierra Space",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -4562,6 +6817,8 @@
       "name": "SIG",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -4575,6 +6832,8 @@
       "name": "SIGMA Computing",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data/Analytics",
       "role_families": [
@@ -4588,6 +6847,8 @@
       "name": "SingleStore",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database/AI",
       "role_families": [
@@ -4601,6 +6862,10 @@
       "name": "Skild AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics/AI",
       "role_families": [
@@ -4614,6 +6879,10 @@
       "name": "Skydio",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Defense/Robotics",
       "role_families": [
@@ -4627,6 +6896,8 @@
       "name": "Snap",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/AR",
       "role_families": [
@@ -4640,6 +6911,8 @@
       "name": "Snorkel AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI/Data",
       "role_families": [
@@ -4649,23 +6922,12 @@
       ]
     },
     {
-      "id": "snowflake",
-      "name": "Snowflake",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Data/Cloud",
-      "role_families": [
-        "SWE",
-        "Data Platform",
-        "ML Platform"
-      ]
-    },
-    {
       "id": "snyk",
       "name": "Snyk",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/Dev Tools",
       "role_families": [
@@ -4679,6 +6941,8 @@
       "name": "SoFi",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -4692,6 +6956,8 @@
       "name": "Sourcegraph",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools/AI",
       "role_families": [
@@ -4701,10 +6967,34 @@
       ]
     },
     {
+      "id": "spirit-aerosystems",
+      "name": "Spirit AeroSystems",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Manufacturing",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Structures",
+        "Stress",
+        "Manufacturing",
+        "Quality"
+      ]
+    },
+    {
       "id": "splunk",
       "name": "Splunk",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data/Security",
       "role_families": [
@@ -4718,6 +7008,8 @@
       "name": "Spotify",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/Audio",
       "role_families": [
@@ -4731,6 +7023,8 @@
       "name": "Starburst",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Data Infra",
       "role_families": [
@@ -4743,6 +7037,12 @@
       "name": "Stellantis",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Automotive/Manufacturing",
       "role_families": [
@@ -4757,6 +7057,11 @@
       "name": "Stoke Space",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -4771,6 +7076,8 @@
       "name": "Strava",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/Fitness",
       "role_families": [
@@ -4784,6 +7091,11 @@
       "name": "Stryker",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Medical Devices",
       "role_families": [
@@ -4798,6 +7110,8 @@
       "name": "Sumo Logic",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Observability/Security",
       "role_families": [
@@ -4811,6 +7125,8 @@
       "name": "Supabase",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database/Dev Tools",
       "role_families": [
@@ -4824,6 +7140,8 @@
       "name": "Tailscale",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Networking/Security",
       "role_families": [
@@ -4837,6 +7155,8 @@
       "name": "Target Tech",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Retail Tech",
       "role_families": [
@@ -4850,6 +7170,8 @@
       "name": "Temporal",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud/Dev Tools",
       "role_families": [
@@ -4862,6 +7184,8 @@
       "name": "Tempus",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare AI",
       "role_families": [
@@ -4876,6 +7200,8 @@
       "name": "Tenable",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -4885,23 +7211,17 @@
       ]
     },
     {
-      "id": "texas-instruments",
-      "name": "Texas Instruments",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Hardware/Embedded",
-      "role_families": [
-        "SWE",
-        "Embedded",
-        "Systems"
-      ]
-    },
-    {
       "id": "textron-aviation",
       "name": "Textron Aviation",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Aerospace",
       "role_families": [
@@ -4912,10 +7232,56 @@
       ]
     },
     {
+      "id": "the-aerospace-corporation",
+      "name": "The Aerospace Corporation",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Space",
+      "role_families": [
+        "Aerospace",
+        "Space Systems",
+        "GNC",
+        "Mechanical",
+        "Systems",
+        "Electrical",
+        "Software"
+      ]
+    },
+    {
+      "id": "thermo-fisher-scientific",
+      "name": "Thermo Fisher Scientific",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "groups": [],
+      "bucket": "Scientific Instruments/Manufacturing",
+      "role_families": [
+        "Mechanical",
+        "Product Development",
+        "Instruments",
+        "Manufacturing",
+        "Quality",
+        "Automation"
+      ]
+    },
+    {
       "id": "tiktok",
       "name": "TikTok",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/AI",
       "role_families": [
@@ -4929,6 +7295,8 @@
       "name": "Timescale",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Database",
       "role_families": [
@@ -4942,6 +7310,8 @@
       "name": "Toast",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech/SaaS",
       "role_families": [
@@ -4955,6 +7325,8 @@
       "name": "Together AI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Infra",
       "role_families": [
@@ -4968,6 +7340,8 @@
       "name": "Tower Research Capital",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -4981,6 +7355,10 @@
       "name": "Toyota Research Institute",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Autonomy/Robotics",
       "role_families": [
@@ -4994,6 +7372,12 @@
       "name": "Trane Technologies",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Industrial/HVAC",
       "role_families": [
@@ -5008,6 +7392,8 @@
       "name": "Tripadvisor",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Travel Tech",
       "role_families": [
@@ -5021,6 +7407,8 @@
       "name": "Twilio",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Cloud Communications",
       "role_families": [
@@ -5034,6 +7422,8 @@
       "name": "Twitch",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/Video",
       "role_families": [
@@ -5048,6 +7438,8 @@
       "name": "Two Sigma",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -5057,23 +7449,12 @@
       ]
     },
     {
-      "id": "uber",
-      "name": "Uber",
-      "parent_id": null,
-      "featured": false,
-      "groups": [],
-      "bucket": "Marketplace",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Data"
-      ]
-    },
-    {
       "id": "udemy",
       "name": "Udemy",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "EdTech",
       "role_families": [
@@ -5087,6 +7468,8 @@
       "name": "Uniswap Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Crypto/DeFi",
       "role_families": [
@@ -5100,6 +7483,8 @@
       "name": "Unity",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Gaming/Dev Tools",
       "role_families": [
@@ -5114,6 +7499,8 @@
       "name": "Vanguard",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Finance Tech",
       "role_families": [
@@ -5127,6 +7514,8 @@
       "name": "Vannevar Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Defense/FDE",
       "role_families": [
@@ -5141,6 +7530,8 @@
       "name": "Vanta",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/SaaS",
       "role_families": [
@@ -5154,6 +7545,8 @@
       "name": "Vapi",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Voice",
       "role_families": [
@@ -5167,6 +7560,12 @@
       "name": "Varda Space",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -5182,6 +7581,11 @@
       "name": "Vast",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Space Tech",
       "role_families": [
@@ -5196,6 +7600,8 @@
       "name": "Vercel",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Dev Tools/Cloud",
       "role_families": [
@@ -5209,6 +7615,8 @@
       "name": "Verily",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Healthcare AI",
       "role_families": [
@@ -5222,6 +7630,8 @@
       "name": "Verizon",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Telecom Tech",
       "role_families": [
@@ -5236,6 +7646,8 @@
       "name": "Verkada",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security/AI",
       "role_families": [
@@ -5249,6 +7661,8 @@
       "name": "Virtu Financial",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Quant/Trading",
       "role_families": [
@@ -5262,6 +7676,8 @@
       "name": "Visa",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Payments",
       "role_families": [
@@ -5276,6 +7692,8 @@
       "name": "Walmart Global Tech",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Retail Tech",
       "role_families": [
@@ -5290,6 +7708,8 @@
       "name": "Wayfair",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Ecommerce",
       "role_families": [
@@ -5303,6 +7723,10 @@
       "name": "Waymo",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -5317,6 +7741,8 @@
       "name": "Weights & Biases",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Platform",
       "role_families": [
@@ -5330,6 +7756,11 @@
       "name": "Whirlpool",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
       "groups": [],
       "bucket": "Consumer/Manufacturing",
       "role_families": [
@@ -5344,6 +7775,8 @@
       "name": "Windsurf",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Dev Tools",
       "role_families": [
@@ -5358,6 +7791,8 @@
       "name": "Wise",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Fintech",
       "role_families": [
@@ -5371,6 +7806,11 @@
       "name": "Wisk Aero",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Aerospace/eVTOL",
       "role_families": [
@@ -5385,6 +7825,8 @@
       "name": "Wiz",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -5394,10 +7836,35 @@
       ]
     },
     {
+      "id": "woodward",
+      "name": "Woodward",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Aerospace/Industrial",
+      "role_families": [
+        "Aerospace",
+        "Mechanical",
+        "Controls",
+        "Propulsion",
+        "Manufacturing",
+        "Industrial"
+      ]
+    },
+    {
       "id": "workday",
       "name": "Workday",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Enterprise SaaS",
       "role_families": [
@@ -5411,6 +7878,8 @@
       "name": "World Labs",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Lab",
       "role_families": [
@@ -5424,6 +7893,8 @@
       "name": "xAI",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "AI Lab",
       "role_families": [
@@ -5437,6 +7908,8 @@
       "name": "Yelp",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Consumer/Local",
       "role_families": [
@@ -5450,6 +7923,8 @@
       "name": "Zapier",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Automation/SaaS",
       "role_families": [
@@ -5463,6 +7938,8 @@
       "name": "Zendesk",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "SaaS",
       "role_families": [
@@ -5476,6 +7953,8 @@
       "name": "Zillow",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Marketplace/PropTech",
       "role_families": [
@@ -5489,6 +7968,10 @@
       "name": "Zipline",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Robotics/Autonomy",
       "role_families": [
@@ -5503,6 +7986,8 @@
       "name": "Zoom",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Productivity",
       "role_families": [
@@ -5516,6 +8001,10 @@
       "name": "Zoox",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
       "groups": [],
       "bucket": "Autonomy",
       "role_families": [
@@ -5530,6 +8019,8 @@
       "name": "Zscaler",
       "parent_id": null,
       "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [],
       "groups": [],
       "bucket": "Security",
       "role_families": [
@@ -5542,9 +8033,9 @@
   "recommendation_presets": [
     {
       "id": "software-featured",
-      "name": "Featured technology companies",
+      "name": "Standout software employers",
       "discipline": "software",
-      "description": "Major software, cloud, AI, and product companies.",
+      "description": "Software-first, major platform, cloud, AI, and high-reputation technology employers.",
       "company_ids": [
         "google",
         "meta",
@@ -5555,18 +8046,63 @@
         "netflix",
         "adobe",
         "salesforce",
+        "uber",
+        "airbnb",
+        "doordash",
+        "roblox",
         "stripe",
+        "snowflake",
+        "databricks",
+        "cloudflare",
         "openai",
         "anthropic",
+        "palantir",
         "anduril",
         "tesla"
       ]
     },
     {
+      "id": "ai-ml-featured",
+      "name": "Standout AI / ML employers",
+      "discipline": "ai-ml",
+      "description": "Leading AI labs, model platforms, accelerated-computing companies, and large applied-AI organizations.",
+      "company_ids": [
+        "google",
+        "meta",
+        "amazon",
+        "microsoft",
+        "nvidia",
+        "databricks",
+        "openai",
+        "anthropic",
+        "palantir",
+        "anduril",
+        "tesla"
+      ]
+    },
+    {
+      "id": "data-featured",
+      "name": "Standout data employers",
+      "discipline": "data",
+      "description": "Major data platforms and product companies with established data-science organizations.",
+      "company_ids": [
+        "google",
+        "meta",
+        "amazon",
+        "microsoft",
+        "uber",
+        "airbnb",
+        "doordash",
+        "snowflake",
+        "databricks",
+        "palantir"
+      ]
+    },
+    {
       "id": "product-management-featured",
-      "name": "Featured product companies",
+      "name": "Standout product employers",
       "discipline": "product-management",
-      "description": "Major employers with established product organizations.",
+      "description": "Major product companies with established product-management organizations.",
       "company_ids": [
         "google",
         "meta",
@@ -5576,9 +8112,17 @@
         "netflix",
         "adobe",
         "salesforce",
+        "uber",
+        "airbnb",
+        "doordash",
+        "roblox",
         "stripe",
+        "snowflake",
+        "databricks",
+        "cloudflare",
         "openai",
         "anthropic",
+        "palantir",
         "johnson-johnson"
       ]
     },
@@ -5586,7 +8130,7 @@
       "id": "aerospace-major",
       "name": "Major aerospace employers",
       "discipline": "aerospace",
-      "description": "Large aerospace, defense, launch, and space employers.",
+      "description": "Large aerospace and defense primes plus established launch, aviation, and space companies.",
       "company_ids": [
         "anduril",
         "spacex",
@@ -5594,6 +8138,7 @@
         "northrop-grumman",
         "lockheed-martin",
         "rtx",
+        "l3harris",
         "rocket-lab",
         "boeing",
         "ge-aerospace",
@@ -5601,7 +8146,15 @@
         "united-launch-alliance",
         "gulfstream-aerospace",
         "collins-aerospace",
-        "pratt-whitney"
+        "pratt-whitney",
+        "general-dynamics",
+        "bae-systems",
+        "johns-hopkins-apl",
+        "mit-lincoln-laboratory",
+        "nasa",
+        "nasa-jpl",
+        "sandia-national-laboratories",
+        "lawrence-livermore-national-laboratory"
       ]
     },
     {
@@ -5635,21 +8188,93 @@
         "eaton",
         "applied-materials",
         "johnson-johnson",
-        "medtronic"
+        "medtronic",
+        "general-dynamics",
+        "bae-systems",
+        "johns-hopkins-apl",
+        "mit-lincoln-laboratory",
+        "nasa",
+        "nasa-jpl",
+        "sandia-national-laboratories",
+        "lawrence-livermore-national-laboratory",
+        "exxonmobil",
+        "chevron",
+        "shell",
+        "air-products",
+        "linde"
       ]
     },
     {
       "id": "hardware-featured",
-      "name": "Featured hardware employers",
+      "name": "Standout hardware employers",
       "discipline": "hardware-electrical",
-      "description": "Major semiconductor, devices, electrical, and hardware companies.",
+      "description": "Major semiconductor, electronics, aerospace-hardware, electrical, and device companies.",
       "company_ids": [
         "apple",
         "nvidia",
+        "anduril",
+        "amd",
+        "intel",
+        "qualcomm",
+        "broadcom",
+        "texas-instruments",
         "asml",
         "tesla",
+        "l3harris",
+        "honeywell",
+        "siemens",
+        "collins-aerospace",
         "eaton",
-        "applied-materials"
+        "applied-materials",
+        "johns-hopkins-apl",
+        "mit-lincoln-laboratory",
+        "nasa-jpl",
+        "sandia-national-laboratories"
+      ]
+    },
+    {
+      "id": "manufacturing-major",
+      "name": "Major manufacturing employers",
+      "discipline": "manufacturing-industrial",
+      "description": "Large advanced-manufacturing, aerospace, automotive, semiconductor, and industrial employers.",
+      "company_ids": [
+        "anduril",
+        "spacex",
+        "blue-origin",
+        "intel",
+        "texas-instruments",
+        "asml",
+        "tesla",
+        "northrop-grumman",
+        "lockheed-martin",
+        "rtx",
+        "rocket-lab",
+        "boeing",
+        "ge-aerospace",
+        "honeywell",
+        "ford",
+        "general-motors",
+        "siemens",
+        "john-deere",
+        "caterpillar",
+        "united-launch-alliance",
+        "gulfstream-aerospace",
+        "collins-aerospace",
+        "pratt-whitney",
+        "toyota-motor-north-america",
+        "eaton",
+        "applied-materials",
+        "johnson-johnson",
+        "medtronic",
+        "general-dynamics",
+        "bae-systems",
+        "sandia-national-laboratories",
+        "lawrence-livermore-national-laboratory",
+        "exxonmobil",
+        "chevron",
+        "shell",
+        "air-products",
+        "linde"
       ]
     }
   ]

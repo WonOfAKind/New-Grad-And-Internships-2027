@@ -92,7 +92,7 @@ const existingLeads = await readJson(roleDataPath, []);
 validateConfiguration(targets, atsSources);
 validateDiscoveryFeeds(discoveryFeeds);
 if (!Array.isArray(existingLeads)) throw new Error("data/roles.json must contain a JSON array");
-configureCompanyMetadata(companyMetadata);
+configureCompanyMetadata(companyMetadata, targets);
 const discovery = await discoverSources(targets, atsSources, discoveryState);
 const configuredSources = atsSources.map((source) => ({ ...source, source_kind: "configured" }));
 const runtimeSources = [...configuredSources, ...discovery.sources];
@@ -275,7 +275,6 @@ const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt))
 const notificationFreshLeads = allFreshLeads.map((lead) => toPublicRole(lead, scannedAt));
 const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scannedAt)
   .filter((role) => isRecentlySeen(role, scannedAt))
-  .filter(isFreshEnough)
   .filter(isAllowedLocation)
   .filter((role) => !isCareerLandingPageUrl(applyUrl(role)))
   .filter((role) => !providerUnavailableUrls.has(applyUrl(role)))

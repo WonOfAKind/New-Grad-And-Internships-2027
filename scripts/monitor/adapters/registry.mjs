@@ -21,7 +21,7 @@ import {
   scanTikTok,
   scanWorkday,
 } from "./providers.mjs";
-import { scanGoogleCareers, scanHtmlJobs, scanSitemapJobs } from "./html.mjs";
+import { scanGoogleCareers, scanHtmlJobs, scanRssJobs, scanSitemapJobs } from "./html.mjs";
 
 export async function scanSource(source, timeoutMs) {
   switch (source.adapter) {
@@ -39,6 +39,7 @@ export async function scanSource(source, timeoutMs) {
     case "html_jobs": return scanHtmlJobs(source, timeoutMs);
     case "google_careers": return scanGoogleCareers(source, timeoutMs);
     case "sitemap_jobs": return scanSitemapJobs(source, timeoutMs);
+    case "rss_jobs": return scanRssJobs(source, timeoutMs);
     default: throw new Error(`Unsupported adapter: ${source.adapter}`);
   }
 }
@@ -72,6 +73,9 @@ export async function scanAtsSource(source) {
         source.scanDeadlineMs ?? sourceScanDeadlineMs,
         source,
       ));
+      if (source.retryOnZero && leads.length === 0) {
+        throw new Error(`${source.company} ${source.adapter} returned zero matches; retry requested`);
+      }
       return {
         source,
         leads,
@@ -79,7 +83,7 @@ export async function scanAtsSource(source) {
       };
     } catch (error) {
       const initialError = error.message;
-      if (!doubleCheckErrors || !isRetryableScanError(initialError)) {
+      if (!doubleCheckErrors || (!isRetryableScanError(initialError) && !source.retryOnZero)) {
         return {
           source,
           leads: [],
@@ -89,11 +93,17 @@ export async function scanAtsSource(source) {
 
       try {
         const retryTimeoutMs = source.doubleCheckTimeoutMs ?? doubleCheckTimeoutMs;
+        if (source.retryDelayMs) {
+          await new Promise((resolve) => setTimeout(resolve, source.retryDelayMs));
+        }
         const leads = annotateSourceLeads(source, await withScanDeadline(
           scanSource(source, retryTimeoutMs),
           source.doubleCheckDeadlineMs ?? Math.max(30000, retryTimeoutMs * 3),
           source,
         ));
+        if (source.retryOnZero && leads.length === 0) {
+          throw new Error(`${source.company} ${source.adapter} returned zero matches after retry`);
+        }
         return {
           source,
           leads,

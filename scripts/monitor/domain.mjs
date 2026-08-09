@@ -43,6 +43,7 @@ export function normalizeCompanyName(value) {
   if (/^Base Power Company$/i.test(cleaned)) return "Base Power";
   if (/^SEL \(Schweitzer Engineering Laboratories\)$/i.test(cleaned)) return "Schweitzer Engineering Laboratories";
   if (/^Susquehanna$/i.test(cleaned)) return "Susquehanna International Group";
+  if (/^Pivotal(?:\s+Software)?$/i.test(cleaned)) return "Pivotal";
   return cleaned;
 }
 
@@ -54,7 +55,8 @@ export function withoutSyntheticCycleEvidence(value) {
   return normalize(value)
     .replace(/\b2027\s+new\s+grad\s+recruiting\s+cycle\b/gi, " ")
     .replace(/\b2027\s+internship\s+cycle\b/gi, " ")
-    .replace(/\s+/g, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{3,}/g, "\n\n")
     .trim();
 }
 
@@ -195,6 +197,7 @@ export function stableJobIdentity(url) {
     const pathId = /\/(?:jobs?|details)\/(\d{4,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /\/job\/(\d{4,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /\/([0-9a-f]{8}-[0-9a-f-]{27,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
+      || /\/([0-9a-f]{20,})\/job\/?$/i.exec(parsed.pathname)?.[1]
       || /_([A-Z]{0,8}\d[\w-]*)(?:\/apply)?\/?$/i.exec(parsed.pathname)?.[1]
       || /(?:^|-)(\d{6,})\/?$/i.exec(parsed.pathname)?.[1];
     let identity = normalize(queryId || pathId).toLowerCase();
@@ -253,7 +256,15 @@ export function isProbablySenior(title) {
     /\b(?:(?:associate|technical)\s+)?product\s+manager\b/gi,
     "product role",
   );
-  return seniorPatterns.some((pattern) => pattern.test(withoutProductManager));
+  // Aerospace and manufacturing employers commonly publish one requisition
+  // for several levels. Keep it when an Associate/Entry tier is explicitly
+  // offered, while still rejecting a plain Senior or Senior Associate title.
+  const withoutAssociateStaff = withoutProductManager.replace(/\bassociate\s+staff\b/gi, "associate tier");
+  const withoutEntryInclusiveLevelLists = withoutAssociateStaff.replace(
+    /\((?=[^)]*\b(?:associate|entry[-\s]?level|level\s*(?:i|1))\b)(?=[^)]*\b(?:mid[-\s]?level|senior)\b)[^)]*\)/gi,
+    "(associate level)",
+  );
+  return seniorPatterns.some((pattern) => pattern.test(withoutEntryInclusiveLevelLists));
 }
 
 export function hasExcludedDegreeProgram(title) {
@@ -278,7 +289,8 @@ export function hasOnlyExcludedGraduationWindow(title, text = "") {
   const titleYears = [...String(title).matchAll(/\b(20\d{2})\b/g)].map((match) => Number(match[1]));
   if (titleYears.some((year) => year < 2027) && !titleYears.includes(2027)) return true;
   const hasExcludedWindow = excludedGradWindowPatterns.some((pattern) => pattern.test(haystack));
-  const hasTargetWindow = targetGradPatterns.some((pattern) => pattern.test(haystack));
+  const hasTargetWindow = targetGradPatterns.some((pattern) => pattern.test(haystack))
+    || internshipEligiblePatterns.some((pattern) => pattern.test(haystack));
   return hasExcludedWindow && !hasTargetWindow;
 }
 
@@ -289,6 +301,7 @@ export function roleType(title, text = "") {
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
   if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internships?|co[-\s]?ops?)\b/i.test(text)) return "Internship";
   if (/\b2027\b/i.test(title)) return "New Grad";
+  if (hasVerifiedEntryLevelEvidence(title, text)) return "New Grad";
   if (fullTimeNewGradPatterns.some((pattern) => pattern.test(haystack))) return "New Grad";
   return "";
 }
@@ -299,14 +312,18 @@ export function hasNewGradEligibilityEvidence(title, text = "") {
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return true;
   if (earlyCareerPatterns.some((pattern) => pattern.test(title))) return true;
+  if (/(?:^|\n)\s*(?:early[-\s]+career|entry[-\s]?level)\s*(?:\n|$)/i.test(text)) return true;
+  if (/\b(?:experience|career)\s+(?:level|stage)\b.{0,40}\b(?:early[-\s]+career|entry[-\s]?level)\b/i.test(text)) return true;
+  if (/\brecent\s+graduate\s+hiring\s+range\b/i.test(text)) return true;
   if (hasVerifiedEntryLevelEvidence(title, text)) return true;
   return /\b2027\b/i.test(title);
 }
 
 export function hasVerifiedEntryLevelEvidence(title, text = "") {
-  const levelOneTitle = /\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader|manager)\s+(?:i|1)\b|\bSDE\s*(?:i|1)\b/i.test(title);
+  const levelOneTitle = /\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader|manager)\s+(?:(?:level\s*)?(?:i|1)|associate)\b|\b(?:engineer|developer|scientist|analyst|designer)\s*[-(]\s*associate(?:\s+level)?\b|\bSDE\s*(?:i|1)\b|\bassociate\s+(?:[a-z&/-]+\s+){0,5}(?:engineer|developer|scientist|analyst|designer)\b/i.test(title);
   if (!levelOneTitle) return false;
-  if (!earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
+  const titleIsExplicitlyJunior = /\bassociate\b|\bjunior\b|\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader|manager)\s+(?:(?:level\s*)?(?:i|1))\b|\bSDE\s*(?:i|1)\b/i.test(title);
+  if (!titleIsExplicitlyJunior && !earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
   if (!/\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(text)) return false;
   const requiredText = normalize(text).split(/\bpreferred\s+qualifications?\b/i)[0];
   const requiredYears = [...requiredText.matchAll(/\b(\d{1,2})(?:\s*\+|\s+or\s+more)?\s+years?\s+(?:of\s+)?(?:[a-z][a-z/-]*\s+){0,8}experience\b/gi)]
@@ -348,9 +365,10 @@ export function disciplineName(slug) {
   return boardDisciplines.find((discipline) => discipline.slug === slug)?.name ?? "Other Engineering";
 }
 
-export function categorizeDisciplines(title, text = "") {
+export function categorizeDisciplines(title, text = "", { companyDisciplines = [] } = {}) {
   const haystack = `${title}\n${text}`;
   const matches = [];
+  const digitalTitle = /software|developer|data|cyber|network|cloud|infrastructure|firmware|electrical|electronics|hardware|embedded|machine\s+learning|artificial\s+intelligence|algorithms?|signal\s+processing|semiconductor|photonics?|optical|optoelectronic|power\s+systems?|\bAI\b|\bML\b|\bDSP\b|\bFPGA\b|\bASIC\b|radio[-\s]?frequency|\bRF\b/i.test(title);
   const add = (slug, pattern, value = title) => {
     if (pattern.test(value) && !matches.includes(slug)) matches.push(slug);
   };
@@ -358,14 +376,46 @@ export function categorizeDisciplines(title, text = "") {
   add("technical-writing", /technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:docs|documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer/i);
   add("data", /data\s+(?:scientist|science|analytics|analyst)|(?:applied|research)\s+scientist|\bdata\s*&\s*AI\b|statistical\s+modeling/i);
   add("ai-ml", /machine\s+learning|deep\s+learning|artificial\s+intelligence|\bAI\b|\bML\b|computer\s+vision|applied\s+scientist|research\s+scientist/i);
-  add("aerospace", /aerospace|aeronautical|avionics|propulsion|guidance|navigation|\bGNC\b|flight\s+(?:systems|sciences?|controls|test|dynamics|mechanics)|space\s+systems|mission\s+(?:operations|systems|design)|aerodynamics?|aeroelasticity|aerostructures?|airframe|aircraft\s+(?:systems?|design|structures?|integration)|spacecraft|airworthiness|payload\s+engineer|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|loads\s+(?:and\s+dynamics|engineer)|stress\s+(?:analysis|engineer)/i);
-  add("mechanical", /mechanical|electromechanical|mechatronics|thermal|fluid\s+(?:systems|dynamics)|heat\s+transfer|product\s+(?:design|development)\s+engineer|design\s+engineer\b|equipment\s+engineer|tooling\s+engineer|test\s+engineer|validation\s+engineer|materials?\s+engineer|aerostructures?|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|stress\s+(?:analysis|engineer)|loads\s+(?:and\s+dynamics|engineer)/i);
-  add("hardware-electrical", /hardware|electrical|electronics|firmware|embedded|\b(?:fpga|asic)\b|silicon|semiconductor|circuit|\bPCB\b|avionics|computer\s+engineering/i);
-  add("manufacturing-industrial", /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|quality\s+engineer|supplier\s+quality|sustaining\s+engineer|facilities\s+engineer|operations\s+engineer|automation\s+engineer|controls\s+engineer|tooling\s+engineer|materials?\s+(?:and|&)\s+process|\bNPI\b|continuous\s+improvement/i);
+  add("aerospace", /aerospace|aeronautical|avionics|propulsion|guidance|navigation|\bGNC\b|flight\s+(?:systems|safety|sciences?|controls|test|dynamics|mechanics|software|engineering)|space\s+systems|mission\s+(?:operations|systems|design|integration)|aerodynamics?|aeroelasticity|aerostructures?|airframe|airborne\s+(?:systems?|radar|platform)|radar\s+(?:systems?|engineering)|aircraft\s+(?:systems?|design|structures?|integration|certification)|spacecraft|airworthiness|safety\s+and\s+airworthiness|product\s+support\s+engineer|payload\s+engineer|satellite|launch\s+vehicle|air\s+vehicle|astrodynamics|orbital\s+mechanics|aerothermal|mass\s+properties|survivability|rotorcraft|flightworthiness/i);
+  add("mechanical", /mechanical|electromechanical|mechatronics|thermal|fluid\s+(?:systems|dynamics)|heat\s+transfer|product\s+(?:design|development|review)\s+engineer|engineering[^\n]{0,100}(?:product\s+development|materials|weld(?:ing)?)|liaison\s+engineer|equipment\s+engineer|tooling\s+engineer|materials?\s+engineer|\bweld(?:ing)?\b|metallurg(?:y|ical)|mechanisms?\s+engineer|machine\s+design|vehicle\s+dynamics|powertrain|chassis|hydraulics?|pneumatics?|HVAC|refrigeration|rotating\s+(?:equipment|machinery)|turbomachinery|combustion|acoustics?|vibration|finite\s+element|\bFEA\b|\bCFD\b|computer[-\s]+aided\s+engineer(?:ing)?|\bCAE\b|aerostructures?/i);
+  add("hardware-electrical", /hardware|electrical|electronics|firmware|embedded|\b(?:fpga|asic|dsp|rf)\b|radio[-\s]?frequency|signal\s+processing|silicon|semiconductor|photonics?|optical|optoelectronic|power\s+systems?|circuit|\bPCB\b|avionics|computer\s+engineering/i);
+  add("manufacturing-industrial", /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|quality\s+engineer|supplier\s+quality|sustaining\s+engineer|facilities\s+engineer|operations\s+engineer|automation\s+engineer|controls\s+engineer|tooling\s+engineer|\bweld(?:ing)?\b|metallurg(?:y|ical)|engineering[^\n]{0,100}materials|materials?\s+(?:and|&)\s+process|\bNPI\b|continuous\s+improvement/i);
   add("software", /software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|network|devops|infrastructure|platform|reliability|\bSRE\b|security|cyber|quant|trad(?:er|ing)|data\s+engineer|forward\s+deployed|cloud\s+engineer|database\s+engineer/i);
+  const explicitManufacturingTitle = /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|supplier\s+quality|tooling\s+engineer|\bweld(?:ing)?\b|metallurg|materials?\s+(?:and|&)\s+process|\bNPI\b/i.test(title);
+  if (digitalTitle && !explicitManufacturingTitle && matches.includes("manufacturing-industrial")) {
+    matches.splice(matches.indexOf("manufacturing-industrial"), 1);
+  }
+  const structuralTitle = /\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|loads\s+(?:and\s+dynamics|engineer)|stress\s+(?:analysis|engineer)|material\s+review/i.test(title);
+  const civilInfrastructureTitle = /\bcivil|transmission|distribution|substation|buildings?|bridge|roadway|highway|water|wastewater|\brail\b|track\s+design|\bpower\b|solar/i.test(title);
+  const explicitMechanicalTitle = /\bmechanical\b|electromechanical|mechatronics|thermal|heat\s+transfer|product\s+(?:design|development|review)|liaison|equipment|tooling|materials?|weld|metallurg|mechanisms?|machine\s+design|vehicle\s+dynamics|powertrain|chassis|HVAC|turbomachinery|combustion|finite\s+element|\bFEA\b|\bCFD\b|computer[-\s]+aided\s+engineer|\bCAE\b/i.test(title);
+  if (civilInfrastructureTitle && !explicitMechanicalTitle && matches.includes("mechanical")) {
+    matches.splice(matches.indexOf("mechanical"), 1);
+  }
+  const explicitAviationTitle = /aerospace|aeronautical|aviation|aircraft|airframe|aerostructure|flight|spacecraft|launch\s+vehicle/i.test(title);
+  if (!digitalTitle
+    && structuralTitle
+    && companyDisciplines.includes("aerospace")
+    && (!civilInfrastructureTitle || explicitAviationTitle)) {
+    if (!matches.includes("aerospace")) matches.push("aerospace");
+    if (companyDisciplines.includes("mechanical") && !matches.includes("mechanical")) matches.push("mechanical");
+  }
+  if (!digitalTitle
+    && companyDisciplines.includes("aerospace")
+    && /\b(?:systems?|integration|test|verification|validation|reliability|safety|design|development|mission|project)\s+engineer\b|\bsystems?\s+engineering\s+(?:intern|co[-\s]?op)\b|\bengineer(?:ing)?\s+(?:associate|i|1)\b/i.test(title)
+    && !matches.includes("aerospace")) {
+    matches.push("aerospace");
+  }
+  if (!digitalTitle
+    && companyDisciplines.includes("mechanical")
+    && /\b(?:design|test|validation|reliability|materials?|equipment|tooling|applications?|product\s+development|research\s+and\s+development|R&D)\s+engineer\b/i.test(title)
+    && !matches.includes("mechanical")) {
+    matches.push("mechanical");
+  }
   if (matches.length === 0) {
-    add("aerospace", /aerospace|aeronautical|avionics|propulsion|\bGNC\b|flight\s+(?:systems|sciences?)|spacecraft|aerodynamics?|space\s+systems/i, haystack);
-    add("mechanical", /mechanical\s+engineering|electromechanical|mechatronics|thermal\s+engineering|materials\s+engineering|product\s+design/i, haystack);
+    if (!civilInfrastructureTitle) {
+      add("aerospace", /aerospace|aeronautical|avionics|propulsion|\bGNC\b|flight\s+(?:systems|sciences?)|spacecraft|aerodynamics?|space\s+systems/i, haystack);
+      add("mechanical", /mechanical\s+engineering|electromechanical|mechatronics|thermal\s+engineering|materials\s+engineering|product\s+design/i, haystack);
+    }
     add("hardware-electrical", /electrical\s+engineering|hardware\s+engineering|embedded\s+systems|semiconductor/i, haystack);
     add("manufacturing-industrial", /manufacturing\s+engineering|industrial\s+engineering|production\s+engineering|process\s+engineering/i, haystack);
     add("data", /data\s+(?:scientist|science|analytics)|statistical\s+modeling/i, haystack);
@@ -394,7 +444,6 @@ export function specialtiesFor(title) {
 }
 
 export function priorityFor(title, sourcePriority) {
-  if (/top\s+secret|clearance/i.test(title)) return "P2";
   if (isProbablySenior(title)) return "P2";
   if (targetGradPatterns.some((pattern) => pattern.test(title))) return "P0";
   if (internshipEligiblePatterns.some((pattern) => pattern.test(title))) return "P0";
@@ -405,7 +454,7 @@ export function priorityFor(title, sourcePriority) {
 
 export function isFreshEnough(lead) {
   const title = roleTitle(lead);
-  const evidence = [lead.graduation_match, lead.grad_window, lead.season_hint]
+  const evidence = [lead.description, lead.graduation_match, lead.grad_window, lead.season_hint]
     .map(normalize)
     .filter((value) => !/^(?:2027 (?:new grad recruiting|internship) cycle|early career|internship|new grad or university grad)$/i.test(value));
   const context = evidence.join("\n");
@@ -419,7 +468,7 @@ export function isFreshEnough(lead) {
   const urlYearEvidence = applyUrl(lead).replace(/[-_/]+/g, " ");
   const urlYears = [...urlYearEvidence.matchAll(/\b(20\d{2})\b/g)].map((match) => Number(match[1]));
   if (urlYears.some((year) => year < 2027) && !urlYears.includes(2027)) return false;
-  if (!isRelevant(title)) return false;
+  if (!isRelevant(title, context)) return false;
   if (!isEligibleRole(title, context)) return false;
   if (isEligibleRole(title, context)) return true;
   if (!lead.updated_at) return false;

@@ -2,22 +2,28 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 9, 2026 at 1:22 PM EDT
+Last updated: August 9, 2026 at 4:31 PM EDT
 
-Current roles in this view: 8
+Current roles in this view: 14
 
-🔥 Featured major technology or engineering employer. This is a curated designation, not a ranking.
+🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
 Roles are sorted newest-first. Always verify availability and details on the official posting before applying.
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 MIT Lincoln Laboratory | Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105 (Lexington, MA, US) | Lexington, MA, US | $25.00/hour | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Airborne-Radar-Systems-and-Techniques-Intern-%28Summer-2027%29-Group-105-MA-02420/1410581200>) |
+| Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 | Varda Space | Avionics Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) |
+| Varda Space | Flight Software Internship - Spring 2027 | El Segundo, California, United States | $37.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824815003>) |
 | Varda Space | Guidance, Navigation &amp; Controls (GNC) Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) |
 | Varda Space | Propulsion Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
-| Pivotal Software | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
-| Thornton Tomasetti | Structural Engineer Intern | New York, NY, USA | $30 - $35 hourly | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Structural-Engineer-Intern_R7152>) |
-| Thornton Tomasetti | Structural Engineer Co-op | Philadelphia, PA, USA | - | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 3, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/Philadelphia-PA-USA/Structural-Engineer-Co-op_R7112>) |
+| 🔥 BAE Systems | New Hampshire Systems Engineering Intern III, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302217&partnerid=25771&siteid=5403>) |
+| 🔥 BAE Systems | Systems Engineering Intern II, Summer 2027 (NH-Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302215&partnerid=25771&siteid=5403>) |
+| 🔥 BAE Systems | Systems Engineering Intern IV, Summer 2027 (NH - Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302214&partnerid=25771&siteid=5403>) |
+| Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
+| Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
+| Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Aug 9, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
 
