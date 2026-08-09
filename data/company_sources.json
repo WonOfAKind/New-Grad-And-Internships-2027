@@ -44,9 +44,9 @@
     "bucket": "Big Tech",
     "priority": "P0",
     "career_url": "https://jobs.apple.com/en-us/search",
-    "role_families": "SWE, ML, Systems",
+    "role_families": "Software, ML, Hardware, Electrical, Mechanical, Product Management",
     "default_resume": "General CS/SWE or AI/ML",
-    "monitor_queries": "software engineer; machine learning; new grad; early career",
+    "monitor_queries": "software engineer; machine learning; hardware engineer; mechanical engineer; product manager; new grad; early career",
     "source_type": "Direct careers search"
   },
   {
@@ -54,9 +54,9 @@
     "bucket": "AI Infra",
     "priority": "P0",
     "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
-    "role_families": "AI/ML, Systems, GPU, Infra",
+    "role_families": "AI/ML, Systems, GPU, Hardware, Electrical, Mechanical, Infra",
     "default_resume": "AI/ML",
-    "monitor_queries": "new college grad; software engineer; machine learning; deep learning",
+    "monitor_queries": "new college grad; software engineer; machine learning; deep learning; hardware engineer; mechanical engineer",
     "source_type": "Workday"
   },
   {
@@ -934,9 +934,9 @@
     "bucket": "Defense/AI",
     "priority": "P1",
     "career_url": "https://www.anduril.com/careers/",
-    "role_families": "SWE, Robotics, AI, Infra",
-    "default_resume": "General CS/SWE or AI/ML",
-    "monitor_queries": "software engineer; new grad; autonomy; perception",
+    "role_families": "Aerospace, Mechanical, Manufacturing, Hardware, Software, Robotics, AI, Infra",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new grad; aerospace engineer; mechanical engineer; manufacturing engineer; hardware engineer; software engineer; autonomy; perception",
     "source_type": "Direct careers search"
   },
   {
@@ -994,9 +994,9 @@
     "bucket": "Aerospace",
     "priority": "P1",
     "career_url": "https://www.spacex.com/careers/jobs/",
-    "role_families": "SWE, Systems, Flight Software",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; new grad; flight software",
+    "role_families": "Aerospace, Mechanical, Propulsion, Avionics, Manufacturing, Software, Systems",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new grad; aerospace engineer; mechanical engineer; propulsion; avionics; manufacturing engineer; software engineer; flight software",
     "source_type": "Direct careers search"
   },
   {
@@ -1004,9 +1004,9 @@
     "bucket": "Aerospace",
     "priority": "P2",
     "career_url": "https://www.blueorigin.com/careers/search",
-    "role_families": "SWE, Systems, Data",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; entry level; data",
+    "role_families": "Aerospace, Mechanical, Propulsion, Avionics, Manufacturing, Software, Systems",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; aerospace engineer; mechanical engineer; propulsion; avionics; manufacturing engineer; software engineer; systems engineer",
     "source_type": "Direct careers search"
   },
   {
@@ -1354,9 +1354,9 @@
     "bucket": "Semiconductor",
     "priority": "P1",
     "career_url": "https://www.asml.com/en/careers/find-your-job",
-    "role_families": "SWE, Systems, Data",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; computer science; new grad",
+    "role_families": "Mechanical, Mechatronics, Manufacturing, Hardware, Electrical, Software, Systems, Data",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new grad; mechanical engineer; mechatronics; manufacturing engineer; hardware engineer; electrical engineer; software engineer",
     "source_type": "Direct careers search"
   },
   {
@@ -2954,9 +2954,9 @@
     "bucket": "Defense Tech",
     "priority": "P1",
     "career_url": "https://www.northropgrumman.com/jobs/",
-    "role_families": "SWE, AI, Systems, Space",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; new grad; systems",
+    "role_families": "Aerospace, Mechanical, Systems, Avionics, Manufacturing, Software",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new grad; early career; aerospace engineer; mechanical engineer; avionics; manufacturing engineer; software engineer; systems engineer",
     "source_type": "Direct careers search"
   },
   {
@@ -2964,9 +2964,9 @@
     "bucket": "Defense Tech",
     "priority": "P1",
     "career_url": "https://www.lockheedmartinjobs.com/",
-    "role_families": "SWE, AI, Systems, Space",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; college; AI",
+    "role_families": "Aerospace, Mechanical, Systems, Avionics, Manufacturing, Software",
+    "default_resume": "General Engineering",
+    "monitor_queries": "college; early career; aerospace engineer; mechanical engineer; avionics; manufacturing engineer; software engineer; systems engineer",
     "source_type": "Direct careers search"
   },
   {
@@ -2974,9 +2974,9 @@
     "bucket": "Defense Tech",
     "priority": "P1",
     "career_url": "https://careers.rtx.com/global/en/search-results",
-    "role_families": "SWE, AI, Systems",
-    "default_resume": "General CS/SWE",
-    "monitor_queries": "software engineer; new grad; systems",
+    "role_families": "Aerospace, Mechanical, Avionics, Propulsion, Manufacturing, Industrial, Quality, Software",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new grad; intern; aerospace engineer; mechanical engineer; avionics; propulsion; manufacturing engineer; industrial engineer; quality engineer; software engineer",
     "source_type": "Direct careers search"
   },
   {
@@ -3667,6 +3667,406 @@
     "role_families": "Software, Robotics, Mechanical, Data Science",
     "default_resume": "General CS/SWE or AI/ML",
     "monitor_queries": "software engineer; robotics; mechanical engineer; data scientist; new grad; entry level",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "United Launch Alliance",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://jobs.ulalaunch.com/",
+    "role_families": "Aerospace, Mechanical, Propulsion, Avionics, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; aerospace engineer; mechanical engineer; propulsion; avionics; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Gulfstream Aerospace",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://careers.gulfstream.com/",
+    "role_families": "Aerospace, Mechanical, Avionics, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; aerospace engineer; mechanical engineer; avionics; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Collins Aerospace",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://careers.rtx.com/global/en/collins-aerospace-careers",
+    "role_families": "Aerospace, Avionics, Mechanical, Electrical, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; aerospace engineer; avionics; mechanical engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Parent careers search"
+  },
+  {
+    "company": "Pratt & Whitney",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://careers.rtx.com/global/en/pratt-whitney-careers",
+    "role_families": "Aerospace, Propulsion, Mechanical, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; propulsion; mechanical engineer; aerospace engineer; manufacturing engineer",
+    "source_type": "Parent careers search"
+  },
+  {
+    "company": "Textron Aviation",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://careers.textron.com/",
+    "role_families": "Aerospace, Mechanical, Avionics, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "entry level; intern; aerospace engineer; mechanical engineer; avionics; manufacturing",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Bell",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://jobs.bellflight.com/",
+    "role_families": "Aerospace, Mechanical, Flight Systems, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "entry level; intern; aerospace engineer; mechanical engineer; flight systems; manufacturing",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rolls-Royce",
+    "bucket": "Aerospace/Industrial",
+    "priority": "P1",
+    "career_url": "https://careers.rolls-royce.com/",
+    "role_families": "Aerospace, Propulsion, Mechanical, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; propulsion; mechanical engineer; aerospace engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Airbus",
+    "bucket": "Aerospace",
+    "priority": "P1",
+    "career_url": "https://www.airbus.com/en/careers/search-and-apply",
+    "role_families": "Aerospace, Mechanical, Avionics, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; aerospace engineer; mechanical engineer; avionics; manufacturing",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Varda Space",
+    "bucket": "Space Tech",
+    "priority": "P1",
+    "career_url": "https://www.varda.com/careers",
+    "role_families": "Aerospace, Mechanical, GNC, Propulsion, Avionics",
+    "default_resume": "General Engineering",
+    "monitor_queries": "intern; aerospace engineer; mechanical engineer; GNC; propulsion; avionics",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "AeroVironment",
+    "bucket": "Aerospace/Defense",
+    "priority": "P1",
+    "career_url": "https://careers.avinc.com/",
+    "role_families": "Aerospace, Mechanical, Avionics, Autonomy",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; aerospace engineer; mechanical engineer; avionics; flight controls",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Kratos Defense",
+    "bucket": "Aerospace/Defense",
+    "priority": "P1",
+    "career_url": "https://www.kratosdefense.com/careers",
+    "role_families": "Aerospace, Mechanical, Avionics, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "entry level; intern; aerospace engineer; mechanical engineer; avionics; manufacturing",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Toyota Motor North America",
+    "bucket": "Automotive/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://careers.toyota.com/us/en/",
+    "role_families": "Mechanical, Manufacturing, Electrical, Industrial, Product",
+    "default_resume": "General Engineering",
+    "monitor_queries": "student; early career; mechanical engineer; manufacturing engineer; production engineer; electrical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Honda",
+    "bucket": "Automotive/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://careers.honda.com/",
+    "role_families": "Mechanical, Manufacturing, Electrical, Industrial",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new graduate; intern; mechanical engineer; manufacturing engineer; test engineer; electrical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Nissan",
+    "bucket": "Automotive/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://www.nissanmotor.jobs/americas/",
+    "role_families": "Mechanical, Manufacturing, Electrical, Industrial",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; co-op; mechanical engineer; production engineer; manufacturing engineer; electrical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Stellantis",
+    "bucket": "Automotive/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://careers.stellantis.com/",
+    "role_families": "Mechanical, Manufacturing, Electrical, Industrial",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; mechanical engineer; manufacturing engineer; vehicle engineer; electrical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Hyundai",
+    "bucket": "Automotive/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://careers-americas.hyundai.com/",
+    "role_families": "Mechanical, Manufacturing, Electrical, Industrial",
+    "default_resume": "General Engineering",
+    "monitor_queries": "entry level; intern; mechanical engineer; manufacturing engineer; vehicle engineer; electrical engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Eaton",
+    "bucket": "Industrial/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://jobs.eaton.com/",
+    "role_families": "Mechanical, Electrical, Manufacturing, Product Development",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early talent; intern; mechanical engineer; electrical engineer; manufacturing engineer; product engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Emerson",
+    "bucket": "Industrial/Automation",
+    "priority": "P1",
+    "career_url": "https://www.emerson.com/en-us/careers",
+    "role_families": "Mechanical, Electrical, Controls, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; controls engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Rockwell Automation",
+    "bucket": "Industrial/Automation",
+    "priority": "P1",
+    "career_url": "https://www.rockwellautomation.com/en-us/company/careers.html",
+    "role_families": "Controls, Electrical, Mechanical, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; controls engineer; electrical engineer; mechanical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Parker Hannifin",
+    "bucket": "Industrial/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://parkercareers.ttcportals.com/",
+    "role_families": "Mechanical, Manufacturing, Product, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "development program; intern; mechanical engineer; manufacturing engineer; product engineer; quality engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Carrier",
+    "bucket": "Industrial/HVAC",
+    "priority": "P1",
+    "career_url": "https://jobs.carrier.com/",
+    "role_families": "Mechanical, Thermal, Controls, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; thermal engineer; controls engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Trane Technologies",
+    "bucket": "Industrial/HVAC",
+    "priority": "P1",
+    "career_url": "https://careers.tranetechnologies.com/",
+    "role_families": "Mechanical, Thermal, Controls, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate training program; intern; mechanical engineer; thermal engineer; controls engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Johnson Controls",
+    "bucket": "Industrial/HVAC",
+    "priority": "P1",
+    "career_url": "https://jobs.johnsoncontrols.com/",
+    "role_families": "Mechanical, Thermal, Controls, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; HVAC; controls engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Applied Materials",
+    "bucket": "Semiconductor Equipment",
+    "priority": "P1",
+    "career_url": "https://www.appliedmaterials.com/us/en/careers.html",
+    "role_families": "Mechanical, Electrical, Process, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new college graduate; intern; mechanical engineer; process engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Lam Research",
+    "bucket": "Semiconductor Equipment",
+    "priority": "P1",
+    "career_url": "https://www.lamresearch.com/careers/",
+    "role_families": "Mechanical, Electrical, Process, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new college graduate; intern; mechanical engineer; process engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "KLA",
+    "bucket": "Semiconductor Equipment",
+    "priority": "P1",
+    "career_url": "https://www.kla.com/careers",
+    "role_families": "Mechanical, Electrical, Process, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new college graduate; intern; mechanical engineer; process engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "bucket": "Medical Devices",
+    "priority": "P1",
+    "career_url": "https://www.careers.jnj.com/",
+    "role_families": "Mechanical, Biomedical, Manufacturing, Quality, Product Management",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; biomedical engineer; manufacturing engineer; quality engineer; product management intern",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Medtronic",
+    "bucket": "Medical Devices",
+    "priority": "P1",
+    "career_url": "https://www.medtronic.com/en-us/our-company/careers.html",
+    "role_families": "Mechanical, Biomedical, Manufacturing, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; biomedical engineer; manufacturing engineer; quality engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Stryker",
+    "bucket": "Medical Devices",
+    "priority": "P1",
+    "career_url": "https://careers.stryker.com/",
+    "role_families": "Mechanical, Biomedical, Manufacturing, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; biomedical engineer; manufacturing engineer; quality engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Abbott",
+    "bucket": "Medical Devices",
+    "priority": "P1",
+    "career_url": "https://www.jobs.abbott/us/en",
+    "role_families": "Mechanical, Biomedical, Manufacturing, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "development program; intern; mechanical engineer; biomedical engineer; manufacturing engineer; quality engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Boston Scientific",
+    "bucket": "Medical Devices",
+    "priority": "P1",
+    "career_url": "https://jobs.bostonscientific.com/",
+    "role_families": "Mechanical, Biomedical, Manufacturing, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; biomedical engineer; manufacturing engineer; quality engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Jacobs",
+    "bucket": "Engineering Services",
+    "priority": "P1",
+    "career_url": "https://careers.jacobs.com/",
+    "role_families": "Mechanical, Aerospace, Civil, Systems",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; mechanical engineer; aerospace engineer; systems engineer; design engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "AECOM",
+    "bucket": "Engineering Services",
+    "priority": "P1",
+    "career_url": "https://aecom.jobs/",
+    "role_families": "Mechanical, Civil, Transportation, Environmental",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; mechanical engineer; civil engineer; transportation engineer; design engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Bechtel",
+    "bucket": "Engineering Services",
+    "priority": "P1",
+    "career_url": "https://jobs.bechtel.com/",
+    "role_families": "Mechanical, Nuclear, Civil, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "new graduate; intern; mechanical engineer; nuclear engineer; civil engineer; design engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Burns & McDonnell",
+    "bucket": "Engineering Services",
+    "priority": "P1",
+    "career_url": "https://burnsmcd.jobs/",
+    "role_families": "Mechanical, Aerospace, Civil, Energy",
+    "default_resume": "General Engineering",
+    "monitor_queries": "entry level; intern; mechanical engineer; aerospace engineer; civil engineer; design engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Black & Veatch",
+    "bucket": "Engineering Services",
+    "priority": "P1",
+    "career_url": "https://careers.bv.com/",
+    "role_families": "Mechanical, Civil, Energy, Process",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; mechanical engineer; civil engineer; process engineer; design engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "GE Vernova",
+    "bucket": "Energy/Industrial",
+    "priority": "P1",
+    "career_url": "https://careers.gevernova.com/",
+    "role_families": "Mechanical, Nuclear, Electrical, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "early career; intern; mechanical engineer; nuclear engineer; electrical engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Corning",
+    "bucket": "Materials/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://corningjobs.corning.com/",
+    "role_families": "Mechanical, Materials, Process, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "development program; intern; mechanical engineer; materials engineer; process engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "3M",
+    "bucket": "Materials/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://www.3m.com/3M/en_US/careers-us/",
+    "role_families": "Mechanical, Materials, Process, Manufacturing",
+    "default_resume": "General Engineering",
+    "monitor_queries": "graduate; intern; mechanical engineer; materials engineer; process engineer; manufacturing engineer",
+    "source_type": "Direct careers search"
+  },
+  {
+    "company": "Whirlpool",
+    "bucket": "Consumer/Manufacturing",
+    "priority": "P1",
+    "career_url": "https://jobs.whirlpool.com/",
+    "role_families": "Mechanical, Product Development, Manufacturing, Quality",
+    "default_resume": "General Engineering",
+    "monitor_queries": "development program; intern; mechanical engineer; product development engineer; manufacturing engineer; quality engineer",
     "source_type": "Direct careers search"
   }
 ]

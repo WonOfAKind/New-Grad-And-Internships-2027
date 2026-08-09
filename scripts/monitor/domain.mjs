@@ -195,7 +195,8 @@ export function stableJobIdentity(url) {
     const pathId = /\/(?:jobs?|details)\/(\d{4,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /\/job\/(\d{4,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
       || /\/([0-9a-f]{8}-[0-9a-f-]{27,})(?:\/|$)/i.exec(parsed.pathname)?.[1]
-      || /_([A-Z]{0,8}\d[\w-]*)(?:\/apply)?\/?$/i.exec(parsed.pathname)?.[1];
+      || /_([A-Z]{0,8}\d[\w-]*)(?:\/apply)?\/?$/i.exec(parsed.pathname)?.[1]
+      || /(?:^|-)(\d{6,})\/?$/i.exec(parsed.pathname)?.[1];
     let identity = normalize(queryId || pathId).toLowerCase();
     if (/(?:myworkdayjobs|myworkdaysite)\.com$/i.test(parsed.hostname)) {
       identity = identity.replace(/-\d+$/, "");
@@ -235,9 +236,8 @@ export function isRelevant(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (/\b(?:recruiter|recruiting|talent\s+acquisition|human\s+resources?)\b/i.test(title)) return false;
   if (/\b(?:private\s+equity|investment\s+(?:associate|banking|analyst)|wealth\s+management)\b/i.test(title)) return false;
-  if (/\bproduct\s+management\b|\bproduct\s+manager\b/i.test(title)) return false;
   if (/\bproduct\s+designer\b/i.test(title) && !/\bengineer(?:ing)?\b/i.test(title)) return false;
-  if (/\boperations?\s+(?:intern|internship|co[-\s]?op)\b/i.test(title) && !/engineer|technical/i.test(title)) return false;
+  if (/\boperations?\s+(?:intern|internships?|co[-\s]?ops?)\b/i.test(title) && !/engineer|technical/i.test(title)) return false;
   if (/\b(?:campaign|marketing|sales|business\s+development|human\s+resources?)\b/i.test(title)
     && !/\b(?:engineer(?:ing)?|developer|data\s+(?:scientist|engineer)|technical\s+(?:writer|communications?)|quantitative)\b/i.test(title)) return false;
   if (titleRolePatterns.some((pattern) => pattern.test(title))) return true;
@@ -246,7 +246,14 @@ export function isRelevant(title, text = "") {
 }
 
 export function isProbablySenior(title) {
-  return seniorPatterns.some((pattern) => pattern.test(title));
+  // "Manager" normally signals a senior/people-management role, but Product
+  // Manager is the name of an individual-contributor discipline. Preserve
+  // other senior markers such as Senior, Lead, Staff, and Principal.
+  const withoutProductManager = String(title).replace(
+    /\b(?:(?:associate|technical)\s+)?product\s+manager\b/gi,
+    "product role",
+  );
+  return seniorPatterns.some((pattern) => pattern.test(withoutProductManager));
 }
 
 export function hasExcludedDegreeProgram(title) {
@@ -277,8 +284,10 @@ export function hasOnlyExcludedGraduationWindow(title, text = "") {
 
 export function roleType(title, text = "") {
   const haystack = `${title}\n${text}`;
+  // Explicit internship wording in the official title is authoritative and
+  // must win over new-graduate language in a description or stale cache.
   if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
-  if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internship|co[-\s]?op)\b/i.test(text)) return "Internship";
+  if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internships?|co[-\s]?ops?)\b/i.test(text)) return "Internship";
   if (/\b2027\b/i.test(title)) return "New Grad";
   if (fullTimeNewGradPatterns.some((pattern) => pattern.test(haystack))) return "New Grad";
   return "";
@@ -295,7 +304,7 @@ export function hasNewGradEligibilityEvidence(title, text = "") {
 }
 
 export function hasVerifiedEntryLevelEvidence(title, text = "") {
-  const levelOneTitle = /\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader)\s+(?:i|1)\b|\bSDE\s*(?:i|1)\b/i.test(title);
+  const levelOneTitle = /\b(?:engineer|developer|scientist|analyst|writer|researcher|designer|trader|manager)\s+(?:i|1)\b|\bSDE\s*(?:i|1)\b/i.test(title);
   if (!levelOneTitle) return false;
   if (!earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
   if (!/\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(text)) return false;
@@ -322,19 +331,66 @@ export function chooseResume(title, text = "", fallback = "General CS/SWE") {
   return aiPatterns.some((pattern) => pattern.test(haystack)) ? "AI/ML" : fallback;
 }
 
-export function categorize(title, text = "") {
+export const boardDisciplines = [
+  { slug: "software", name: "Software Engineering" },
+  { slug: "ai-ml", name: "AI / Machine Learning" },
+  { slug: "data", name: "Data Science & Analytics" },
+  { slug: "product-management", name: "Product Management" },
+  { slug: "hardware-electrical", name: "Hardware & Electrical Engineering" },
+  { slug: "mechanical", name: "Mechanical Engineering" },
+  { slug: "aerospace", name: "Aerospace Engineering" },
+  { slug: "manufacturing-industrial", name: "Manufacturing & Industrial Engineering" },
+  { slug: "technical-writing", name: "Technical Writing" },
+  { slug: "other-engineering", name: "Other Engineering" },
+];
+
+export function disciplineName(slug) {
+  return boardDisciplines.find((discipline) => discipline.slug === slug)?.name ?? "Other Engineering";
+}
+
+export function categorizeDisciplines(title, text = "") {
   const haystack = `${title}\n${text}`;
-  if (/technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:docs|documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer/i.test(title)) return "Technical Writing";
-  if (/data\s+(?:scientist|science|analytics|analyst)|(?:applied|research)\s+scientist|\bdata\s*&\s*AI\b/i.test(title)) return "Data Science";
-  if (/aerospace|avionics|propulsion|guidance|navigation|\bGNC\b|flight\s+(?:systems|sciences?|controls|test)|space\s+systems|mission\s+operations|aerodynamics?|structural|structures|stress\s+engineer|loads\s+engineer|spacecraft/i.test(title)) return "Aerospace Engineering";
-  if (/mechanical|manufacturing|hardware|\b(?:fpga|asic)\b|silicon|electrical|product\s+design|design\s+engineering|electromechanical|mechatronics|materials?\s+engineer|process\s+engineer|quality\s+engineer|thermal\s+engineer/i.test(title)) return "Mechanical Engineering";
-  if (/machine\s+learning|deep\s+learning|\bAI\b|\bML\b|software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|firmware|network|devops|infrastructure|platform|reliability|\bSRE\b|security|quant|trad(?:er|ing)|embedded|data\s+engineer|forward\s+deployed|research\s+engineer|online\s+architecture/i.test(title)) return "Software / AI / ML";
-  if (/aerospace|avionics|propulsion|\bGNC\b|flight\s+(?:systems|sciences?)|spacecraft|aerodynamics?|structural\s+(?:analysis|engineering)|space\s+systems/i.test(haystack)) return "Aerospace Engineering";
-  if (/mechanical\s+engineering|manufacturing\s+engineering|electromechanical|mechatronics|thermal\s+engineering|materials\s+engineering|product\s+design/i.test(haystack)) return "Mechanical Engineering";
-  if (/data\s+(?:scientist|science|analytics)|statistical\s+modeling/i.test(haystack)) return "Data Science";
-  if (/software\s+engineering|machine\s+learning|\bAI\b|\bML\b|backend|frontend|firmware|embedded|distributed\s+systems|cloud\s+infrastructure/i.test(haystack)) return "Software / AI / ML";
-  if (/test\s+engineer|robotics/i.test(title)) return "Mechanical Engineering";
-  return "Other";
+  const matches = [];
+  const add = (slug, pattern, value = title) => {
+    if (pattern.test(value) && !matches.includes(slug)) matches.push(slug);
+  };
+  add("product-management", /(?:(?:associate|technical)\s+)?product\s+manager|product\s+(?:management|mgmt)|\bAPM\b/i);
+  add("technical-writing", /technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:docs|documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer/i);
+  add("data", /data\s+(?:scientist|science|analytics|analyst)|(?:applied|research)\s+scientist|\bdata\s*&\s*AI\b|statistical\s+modeling/i);
+  add("ai-ml", /machine\s+learning|deep\s+learning|artificial\s+intelligence|\bAI\b|\bML\b|computer\s+vision|applied\s+scientist|research\s+scientist/i);
+  add("aerospace", /aerospace|aeronautical|avionics|propulsion|guidance|navigation|\bGNC\b|flight\s+(?:systems|sciences?|controls|test|dynamics|mechanics)|space\s+systems|mission\s+(?:operations|systems|design)|aerodynamics?|aeroelasticity|aerostructures?|airframe|aircraft\s+(?:systems?|design|structures?|integration)|spacecraft|airworthiness|payload\s+engineer|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|loads\s+(?:and\s+dynamics|engineer)|stress\s+(?:analysis|engineer)/i);
+  add("mechanical", /mechanical|electromechanical|mechatronics|thermal|fluid\s+(?:systems|dynamics)|heat\s+transfer|product\s+(?:design|development)\s+engineer|design\s+engineer\b|equipment\s+engineer|tooling\s+engineer|test\s+engineer|validation\s+engineer|materials?\s+engineer|aerostructures?|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|stress\s+(?:analysis|engineer)|loads\s+(?:and\s+dynamics|engineer)/i);
+  add("hardware-electrical", /hardware|electrical|electronics|firmware|embedded|\b(?:fpga|asic)\b|silicon|semiconductor|circuit|\bPCB\b|avionics|computer\s+engineering/i);
+  add("manufacturing-industrial", /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|quality\s+engineer|supplier\s+quality|sustaining\s+engineer|facilities\s+engineer|operations\s+engineer|automation\s+engineer|controls\s+engineer|tooling\s+engineer|materials?\s+(?:and|&)\s+process|\bNPI\b|continuous\s+improvement/i);
+  add("software", /software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|network|devops|infrastructure|platform|reliability|\bSRE\b|security|cyber|quant|trad(?:er|ing)|data\s+engineer|forward\s+deployed|cloud\s+engineer|database\s+engineer/i);
+  if (matches.length === 0) {
+    add("aerospace", /aerospace|aeronautical|avionics|propulsion|\bGNC\b|flight\s+(?:systems|sciences?)|spacecraft|aerodynamics?|space\s+systems/i, haystack);
+    add("mechanical", /mechanical\s+engineering|electromechanical|mechatronics|thermal\s+engineering|materials\s+engineering|product\s+design/i, haystack);
+    add("hardware-electrical", /electrical\s+engineering|hardware\s+engineering|embedded\s+systems|semiconductor/i, haystack);
+    add("manufacturing-industrial", /manufacturing\s+engineering|industrial\s+engineering|production\s+engineering|process\s+engineering/i, haystack);
+    add("data", /data\s+(?:scientist|science|analytics)|statistical\s+modeling/i, haystack);
+    add("ai-ml", /machine\s+learning|deep\s+learning|artificial\s+intelligence|\bAI\b|\bML\b/i, haystack);
+    add("software", /software\s+engineering|backend|frontend|distributed\s+systems|cloud\s+infrastructure/i, haystack);
+  }
+  return matches.length > 0 ? matches : ["other-engineering"];
+}
+
+export function categorize(title, text = "") {
+  return disciplineName(categorizeDisciplines(title, text)[0]);
+}
+
+export function specialtiesFor(title) {
+  const specialties = [];
+  const add = (name, pattern) => { if (pattern.test(title)) specialties.push(name); };
+  add("propulsion", /propulsion|combustion|turbomachinery/i);
+  add("flight-controls-gnc", /guidance|navigation|\bGNC\b|flight\s+controls/i);
+  add("structures-stress", /structural|structures|stress|loads|fatigue/i);
+  add("thermal-fluids", /thermal|fluids?|heat\s+transfer|aerodynamics?/i);
+  add("manufacturing", /manufactur|production|industrialization/i);
+  add("test-validation", /test|validation|verification|quality|reliability/i);
+  add("hardware-electronics", /hardware|electrical|electronics|\bPCB\b|fpga|asic|silicon|avionics/i);
+  add("product", /product\s+(?:manager|management|mgmt|design|development)/i);
+  return [...new Set(specialties)];
 }
 
 export function priorityFor(title, sourcePriority) {
@@ -385,11 +441,15 @@ export function isAllowedLocation(lead) {
 }
 
 export function fitNotes(title, category) {
-  if (category === "Software / AI / ML") return "Software, AI/ML, infrastructure, systems, or quant-adjacent role.";
-  if (category === "Data Science") return "Data science, analytics, applied science, or data engineering role.";
+  if (category === "Software Engineering") return "Software, infrastructure, systems, security, or quant-adjacent role.";
+  if (category === "AI / Machine Learning") return "Machine learning, applied AI, computer vision, or research engineering role.";
+  if (category === "Data Science & Analytics") return "Data science, analytics, applied science, or statistical modeling role.";
+  if (category === "Product Management") return "Product management or associate product management role.";
   if (category === "Technical Writing") return "Technical writing, API documentation, or developer docs role.";
-  if (category === "Mechanical Engineering") return "Mechanical, hardware, manufacturing, robotics, or test engineering role.";
+  if (category === "Hardware & Electrical Engineering") return "Hardware, electrical, embedded, firmware, or semiconductor engineering role.";
+  if (category === "Mechanical Engineering") return "Mechanical design, thermal, structures, materials, or test engineering role.";
   if (category === "Aerospace Engineering") return "Aerospace, avionics, propulsion, flight systems, or space systems role.";
+  if (category === "Manufacturing & Industrial Engineering") return "Manufacturing, industrial, process, production, or quality engineering role.";
   return "Role matches one of the tracked early-career categories.";
 }
 

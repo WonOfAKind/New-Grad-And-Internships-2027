@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Choose companies and receive email alerts when new 2027 new-grad or internship roles are discovered.">
+  <title>Company Job Alerts · 2027 Roles</title>
+  <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+  <main class="shell">
+    <a class="back-link" href="../../README.md">← Back to the role boards</a>
+
+    <section class="hero">
+      <p class="eyebrow">2027 ROLE TRACKER</p>
+      <h1>Hear about the companies you care about.</h1>
+      <p class="lede">Choose a curated field list or build your own. Nothing is selected by default, and alerts begin only after you verify your email.</p>
+    </section>
+
+    <section id="setup-panel" class="panel" aria-labelledby="setup-title">
+      <div class="step-heading">
+        <span class="step-number">1</span>
+        <div>
+          <h2 id="setup-title">Where should alerts go?</h2>
+          <p>We use your email only for job alerts and preference-management links.</p>
+        </div>
+      </div>
+      <label class="field-label" for="email">Email address</label>
+      <input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required>
+    </section>
+
+    <section class="panel" aria-labelledby="start-title">
+      <div class="step-heading">
+        <span class="step-number">2</span>
+        <div>
+          <h2 id="start-title">Choose how to start</h2>
+          <p>Recommended lists are editable suggestions. Starting from scratch keeps every company unchecked.</p>
+        </div>
+      </div>
+      <div class="choice-grid">
+        <button id="recommended-mode" class="choice-card" type="button" aria-pressed="false">
+          <span class="choice-icon">✦</span>
+          <strong>Use a recommended list</strong>
+          <span>Pick a field, then add or remove any company.</span>
+        </button>
+        <button id="scratch-mode" class="choice-card is-selected" type="button" aria-pressed="true">
+          <span class="choice-icon">＋</span>
+          <strong>Start from scratch</strong>
+          <span>Build a completely custom company list.</span>
+        </button>
+      </div>
+      <div id="preset-list" class="preset-list" hidden></div>
+    </section>
+
+    <section class="panel" aria-labelledby="company-title">
+      <div class="step-heading company-heading">
+        <span class="step-number">3</span>
+        <div>
+          <h2 id="company-title">Fine-tune your companies</h2>
+          <p><span id="selected-count">0</span> selected</p>
+        </div>
+      </div>
+      <div class="toolbar">
+        <label class="search-box" for="company-search">
+          <span aria-hidden="true">⌕</span>
+          <input id="company-search" type="search" placeholder="Search companies" autocomplete="off">
+        </label>
+        <button id="clear-selection" class="text-button" type="button">Clear all</button>
+      </div>
+      <div id="company-list" class="company-list" aria-live="polite">
+        <p class="loading">Loading company catalog…</p>
+      </div>
+    </section>
+
+    <section class="submit-row">
+      <label class="consent-row">
+        <input id="consent" type="checkbox">
+        <span>I want email alerts for newly discovered roles at the companies I selected. I can unsubscribe at any time.</span>
+      </label>
+      <div id="turnstile-container" class="turnstile-container"></div>
+      <button id="submit-subscription" class="primary-button" type="button">Send verification email</button>
+      <p id="form-message" class="form-message" role="status" aria-live="polite"></p>
+    </section>
+
+    <section id="account-panel" class="panel account-panel" hidden>
+      <p class="eyebrow">PREFERENCES</p>
+      <h2 id="account-title">Your alert preferences</h2>
+      <p id="account-message"></p>
+      <div id="account-actions" class="account-actions"></div>
+    </section>
+
+    <footer>
+      <p>No résumé uploads, applications, or private notes are stored here. Email addresses are never committed to the public repository.</p>
+    </footer>
+  </main>
+  <script src="config.js?v=1"></script>
+  <script type="module" src="app.js?v=4"></script>
+</body>
+</html>

@@ -1,3 +1,5 @@
+import { createHash } from "node:crypto";
+
 import {
   earlyCareerPatterns,
   internshipEligiblePatterns,
@@ -6,8 +8,10 @@ import {
 } from "./config.mjs";
 import {
   applyUrl,
-  categorize,
+  boardDisciplines,
+  categorizeDisciplines,
   dateOnly,
+  disciplineName,
   isAllowedLocation,
   isFreshEnough,
   keyFor,
@@ -17,8 +21,10 @@ import {
   normalizePostingDate,
   roleTitle,
   roleType,
+  specialtiesFor,
 } from "./domain.mjs";
 import { isHttpUrl } from "./http.mjs";
+import { companyDetails, featuredLegend } from "./companies.mjs";
 
 export function flattenLogs(results) {
   return results.flatMap((result) => Array.isArray(result.log) ? result.log : [result.log]);
@@ -92,28 +98,47 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
   const title = roleTitle(lead);
   const context = `${lead.graduation_match ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
   const type = roleType(title, context) || lead.role_type || "New Grad";
-  const discipline = categorize(title);
+  const disciplineContext = `${lead.description ?? ""}\n${lead.category ?? ""}\n${lead.fit_notes ?? ""}`;
+  const disciplines = categorizeDisciplines(title, disciplineContext);
+  const discipline = disciplineName(disciplines[0]);
   const url = applyUrl(lead);
+  const company = normalizeCompanyName(lead.company);
+  const companyInfo = companyDetails(company);
   const existingGradWindow = normalize(lead.grad_window);
   const inferredGradWindow = internshipEligiblePatterns.some((pattern) => pattern.test(title))
     ? "2027 internship eligible"
     : (targetGradPatterns.some((pattern) => pattern.test(title)) || /\b2027\b/.test(title)
         ? "2027 grad eligible"
         : (earlyCareerPatterns.some((pattern) => pattern.test(title)) ? "Early career" : ""));
-  const gradWindow = normalize(lead.graduation_match)
-    || inferredGradWindow
-    || existingGradWindow
-    || (type === "Internship" ? "Internship" : "New grad or university grad");
+  const currentEvidence = normalize(lead.graduation_match);
+  const gradWindow = type === "Internship"
+    ? (inferredGradWindow === "2027 internship eligible" ? inferredGradWindow : "")
+      || (/internship/i.test(currentEvidence) ? currentEvidence : "")
+      || (/internship/i.test(existingGradWindow) ? existingGradWindow : "")
+      || "Internship"
+    : (!/internship/i.test(currentEvidence) ? currentEvidence : "")
+      || (inferredGradWindow !== "2027 internship eligible" ? inferredGradWindow : "")
+      || (!/internship/i.test(existingGradWindow) ? existingGradWindow : "")
+      || "New grad or university grad";
   const scannedOn = dateOnly(scannedAt);
   const candidateFirstSeen = dateOnly(lead.date_seen) || dateOnly(lead.detected_date) || scannedOn;
   const firstSeen = scannedOn && candidateFirstSeen > scannedOn ? scannedOn : candidateFirstSeen;
   const priorLastSeen = dateOnly(lead.last_seen) || firstSeen;
+  const roleId = createHash("sha256")
+    .update(keyFor(company, title, lead.location, url))
+    .digest("hex")
+    .slice(0, 24);
   return {
-    company: normalizeCompanyName(lead.company),
+    role_id: roleId,
+    company_id: companyInfo.id,
+    company,
+    featured_company: companyInfo.featured,
     title: normalize(title),
     location: normalizeDisplayText(lead.location).replace(/(?:,\s*)?\[object Object\]/gi, "").trim(),
     role_type: type,
     discipline,
+    disciplines,
+    specialties: specialtiesFor(title),
     compensation: normalize(lead.compensation),
     grad_window: gradWindow,
     url,
@@ -162,6 +187,24 @@ export function mergeRoles(existing, candidates, scannedAt) {
   return [...byKey.values()].sort(compareRoles);
 }
 
+export function assertBoardIntegrity(roles) {
+  const validTypes = new Set(["New Grad", "Internship"]);
+  const validDisciplines = new Set(boardDisciplines.map((discipline) => discipline.slug));
+  for (const role of roles) {
+    if (!validTypes.has(role.role_type)) {
+      throw new Error(`Invalid board role type for ${role.company} - ${role.title}: ${role.role_type}`);
+    }
+    if (role.role_type === "New Grad" && roleType(role.title, "") === "Internship") {
+      throw new Error(`Internship leaked into New Grad board: ${role.company} - ${role.title}`);
+    }
+    if (!Array.isArray(role.disciplines) || role.disciplines.length === 0
+      || role.disciplines.some((discipline) => !validDisciplines.has(discipline))) {
+      throw new Error(`Invalid discipline assignment for ${role.company} - ${role.title}`);
+    }
+  }
+  return true;
+}
+
 export function isRecentlySeen(role, scannedAt) {
   const lastSeenMs = Date.parse(role.last_seen || role.date_seen || "");
   if (Number.isNaN(lastSeenMs)) return true;
@@ -170,14 +213,7 @@ export function isRecentlySeen(role, scannedAt) {
 
 export function compareRoles(a, b) {
   const typeOrder = { "New Grad": 0, "Internship": 1 };
-  const disciplineOrder = {
-    "Software / AI / ML": 0,
-    "Data Science": 1,
-    "Technical Writing": 2,
-    "Mechanical Engineering": 3,
-    "Aerospace Engineering": 4,
-    "Other": 9,
-  };
+  const disciplineOrder = Object.fromEntries(boardDisciplines.map((discipline, index) => [discipline.name, index]));
   return (typeOrder[a.role_type] ?? 9) - (typeOrder[b.role_type] ?? 9)
     || (disciplineOrder[a.discipline] ?? 9) - (disciplineOrder[b.discipline] ?? 9)
     || roleFreshnessTime(b) - roleFreshnessTime(a)
@@ -198,10 +234,10 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["company", "title", "location", "role_type", "discipline", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
+  const columns = ["role_id", "company_id", "company", "featured_company", "title", "location", "role_type", "discipline", "disciplines", "specialties", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
-    ...roles.map((role) => columns.map((column) => csvEscape(role[column])).join(",")),
+    ...roles.map((role) => columns.map((column) => csvEscape(Array.isArray(role[column]) ? role[column].join(";") : role[column])).join(",")),
   ].join("\n") + "\n";
 }
 
@@ -226,7 +262,8 @@ export function renderTable(roles) {
     "|---|---|---|---|---|---|---|",
   ];
   for (const role of [...roles].sort(compareRoles)) {
-    lines.push(`| ${markdownEscape(role.company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${renderRoleDates(role)} | ${markdownLink("Apply", role.url)} |`);
+    const company = `${role.featured_company ? "🔥 " : ""}${role.company}`;
+    lines.push(`| ${markdownEscape(company)} | ${markdownEscape(role.title)} | ${markdownEscape(role.location)} | ${markdownEscape(role.compensation || "-")} | ${markdownEscape(role.grad_window)} | ${renderRoleDates(role)} | ${markdownLink("Apply", role.url)} |`);
   }
   return `${lines.join("\n")}\n`;
 }
@@ -263,21 +300,24 @@ export function formatReadmeTimestamp(value) {
   }).format(date);
 }
 
-const boardDisciplines = ["Software / AI / ML", "Data Science", "Technical Writing", "Mechanical Engineering", "Aerospace Engineering", "Other"];
+export function rolesForDiscipline(roles, roleTypeName, disciplineSlug) {
+  return roles.filter((role) => role.role_type === roleTypeName
+    && (Array.isArray(role.disciplines)
+      ? role.disciplines.includes(disciplineSlug)
+      : role.discipline === disciplineName(disciplineSlug)));
+}
 
 export function renderRolePage(roles, coverage, roleTypeName) {
   const matchingRoles = roles.filter((role) => role.role_type === roleTypeName);
-  const sections = [];
-  for (const discipline of boardDisciplines) {
-    const matching = matchingRoles.filter((role) => role.discipline === discipline);
-    if (matching.length === 0) continue;
-    sections.push(`## ${discipline}\n\n${renderTable(matching)}`);
-  }
-
   const title = roleTypeName === "Internship" ? "2027 Internship Roles" : "2027 New Grad Roles";
+  const directory = roleTypeName === "Internship" ? "internships" : "new-grad";
   const otherBoard = roleTypeName === "Internship"
     ? "[New Grad Roles](NEW_GRAD.md)"
     : "[Internship Roles](INTERNSHIPS.md)";
+  const categoryRows = boardDisciplines
+    .map((discipline) => ({ ...discipline, count: rolesForDiscipline(roles, roleTypeName, discipline.slug).length }))
+    .map((discipline) => `| [${discipline.name}](${directory}/${discipline.slug}.md) | ${discipline.count} |`)
+    .join("\n");
 
   return `# ${title}
 
@@ -287,9 +327,33 @@ Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
 
 Current roles: ${matchingRoles.length}
 
-Roles are grouped by discipline and sorted newest-first. Always verify availability and details on the official posting before applying.
+Choose a category below. Cross-disciplinary roles can appear in more than one category, while the total above counts each role once.
 
-${sections.join("\n")}
+| Category | Roles |
+|---|---:|
+${categoryRows}
+
+🔥 ${featuredLegend()}
+`;
+}
+
+export function renderDisciplinePage(roles, coverage, roleTypeName, discipline) {
+  const matching = rolesForDiscipline(roles, roleTypeName, discipline.slug);
+  const boardTitle = roleTypeName === "Internship" ? "Internships" : "New Grad";
+  const indexPath = roleTypeName === "Internship" ? "../INTERNSHIPS.md" : "../NEW_GRAD.md";
+  return `# 2027 ${boardTitle}: ${discipline.name}
+
+[Project overview](../README.md) | [All ${boardTitle} Categories](${indexPath})
+
+Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
+
+Current roles in this view: ${matching.length}
+
+🔥 ${featuredLegend()}
+
+Roles are sorted newest-first. Always verify availability and details on the official posting before applying.
+
+${renderTable(matching)}
 `;
 }
 
@@ -302,19 +366,19 @@ Public, GitHub Actions-powered tracker for 2027 new grad and internship roles.
 
 Tracked disciplines:
 
-- Software / AI / ML
-- Data Science
-- Technical Writing
-- Mechanical Engineering
-- Aerospace Engineering
+${boardDisciplines.map((discipline) => `- ${discipline.name}`).join("\n")}
 
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
 [Contributors](CONTRIBUTORS.md)
 
+[Get company-specific email notifications](docs/notifications/)
+
 Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
 
-Companies tracked: ${coverage.companies_in_target_list}
+Companies in registry: ${coverage.companies_in_target_list}
+
+Companies successfully scanned: ${coverage.companies_with_active_sources ?? 0}
 
 Current roles: ${roles.length}
 
@@ -338,6 +402,7 @@ Secondary discovery feeds healthy: ${coverage.discovery_feeds?.feeds_ok ?? 0}/${
 - [data/latest_scan.json](data/latest_scan.json)
 - [data/coverage.json](data/coverage.json)
 - [data/source_discovery.json](data/source_discovery.json)
+- [docs/DISCIPLINE_COVERAGE.md](docs/DISCIPLINE_COVERAGE.md)
 - [docs/ADDING_SOURCES.md](docs/ADDING_SOURCES.md)
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 

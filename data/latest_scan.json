@@ -1,87 +1,1343 @@
 {
-  "scanned_at": "2026-08-08T00:07:03.699Z",
+  "scanned_at": "2026-08-09T17:22:45.040Z",
   "fresh_leads": [
     {
-      "company": "Shopify",
-      "title": "Applied Machine Learning Engineering Internships Winter 2027",
-      "location": "Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON",
+      "role_id": "69d69b01175c4c36f5bb9bea",
+      "company_id": "ixl-learning",
+      "company": "IXL Learning",
+      "featured_company": false,
+      "title": "Software Engineer, New Grad",
+      "location": "Morrisville, North Carolina, US",
       "role_type": "New Grad",
-      "discipline": "Software / AI / ML",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
       "compensation": "",
       "grad_window": "Explicit new grad role",
-      "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d",
-      "source": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d?ashby_jid=b6d312a8-cdd2-4f21-a2f5-313182d6989d",
-      "date_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "posted_at": "2026-08-06",
+      "url": "https://www.ixl.com/company/careers?gh_jid=8663379002",
+      "source": "https://ixl.com/company/jobs?gh_jid=8663379002",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-08",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "shopify|discovery_feed",
+      "source_id": "ixl learning|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-08T00:06:24.720Z",
+      "verified_at": "2026-08-09T17:21:06.729Z",
       "verification_version": 6,
       "priority": "P0"
     },
     {
-      "company": "Axon",
-      "title": "US Software Engineering Internship",
-      "location": "Seattle, Washington, United States",
-      "role_type": "Internship",
-      "discipline": "Software / AI / ML",
-      "compensation": "$45 - $45/hr USD",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "source": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "date_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
-      "posted_at": "2026-07-20",
+      "role_id": "ce27a4a99605bd656a9c43df",
+      "company_id": "ixl-learning",
+      "company": "IXL Learning",
+      "featured_company": false,
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, California, US",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://www.ixl.com/company/careers?gh_jid=8662881002",
+      "source": "https://ixl.com/company/jobs?gh_jid=8662881002",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-08",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "axon|discovery_feed",
+      "source_id": "ixl learning|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-08T00:06:44.933Z",
+      "verified_at": "2026-08-09T17:21:06.709Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "e7e1dda4941902d5a6ef55d2",
+      "company_id": "samsara",
+      "company": "Samsara",
+      "featured_company": false,
+      "title": "Software Engineer I - New Grad, SF - San Francisco - SF9",
+      "location": "San Francisco, CA",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$136,850 - $161,000 USD",
+      "grad_window": "2027 grad eligible",
+      "url": "https://www.samsara.com/company/careers/roles/8097343",
+      "source": "https://samsara.com/company/careers/roles/8097343",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-08",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "samsara|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:08.084Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c551687604166d4ece3f47b0",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Software Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$65,800 - $98,800",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "Posted 3 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "b6fb0d9fdb57bf30c3fada6c",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$65,800 - $98,800",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-05",
+      "expires_at": "",
+      "updated_at": "Posted 4 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "6c5932b4c236a8f506bb0dba",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$65,800 - $98,800",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-30",
+      "expires_at": "",
+      "updated_at": "Posted 10 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "11fdf400847e43a8d88cef5e",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$ 65,800.00 - $ 98,800.00",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-16",
+      "expires_at": "",
+      "updated_at": "Posted 24 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "766f9b4b700c80d59e69d086",
+      "company_id": "general-motors",
+      "company": "General Motors",
+      "featured_company": true,
+      "title": "ML Validation Engineer - Early Career",
+      "location": "Sunnyvale, California, United States of America",
+      "role_type": "New Grad",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml",
+        "mechanical"
+      ],
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+      "source": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-26",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "general motors|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:34.641Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2ca06a01b74b738117e3ca87",
+      "company_id": "micron-technology",
+      "company": "Micron Technology",
+      "featured_company": false,
+      "title": "New College Grad - Product Manager, HBM",
+      "location": "Boise, ID - Main Site",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
+      "source": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "micron technology|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:16.401Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "441c768b433d6fcfab21b5c7",
+      "company_id": "ixl-learning",
+      "company": "IXL Learning",
+      "featured_company": false,
+      "title": "Associate Product Manager, New Grad",
+      "location": "San Mateo, California, US",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://www.ixl.com/company/careers?gh_jid=8663710002",
+      "source": "https://www.ixl.com/company/jobs?gh_jid=8663710002",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "ixl learning|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:19.661Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "446fb47e7499f89cf8839c34",
+      "company_id": "amazon",
+      "company": "Amazon",
+      "featured_company": true,
+      "title": "2027 Amazon Leadership Accelerator (ALA) - Product Manager Full Time",
+      "location": "US, WA, Seattle",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$151,200 - $204,600",
+      "grad_window": "2027 grad eligible",
+      "url": "https://www.amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time",
+      "source": "https://www.amazon.jobs/en/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "5 days",
+      "source_id": "amazon|amazon",
+      "source_adapter": "amazon",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "4a3de3d0815e7114115cdf73",
+      "company_id": "salesforce",
+      "company": "Salesforce",
+      "featured_company": true,
+      "title": "Associate Product Manager (starting summer 2027)",
+      "location": "California - San Francisco",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$132,000 - $146,000 annually",
+      "grad_window": "2027 grad eligible",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+      "source": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-03",
+      "expires_at": "2026-08-17",
+      "updated_at": "",
+      "source_id": "salesforce|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:23.509Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "02a504dc41522af305482779",
+      "company_id": "uncountable",
+      "company": "Uncountable",
+      "featured_company": false,
+      "title": "Product Manager (New Grad)",
+      "location": "San Francisco, New York",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc",
+      "source": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-27",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "uncountable|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:32.006Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2d39b0c4e3d42bbcc239461b",
+      "company_id": "appian",
+      "company": "Appian",
+      "featured_company": false,
+      "title": "Product Manager (2027 Graduates)",
+      "location": "McLean, VA, US",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$110,000 - $113,000 USD",
+      "grad_window": "2027 grad eligible",
+      "url": "https://careers.appian.com/jobs/8069612-product-manager--2027-graduates-",
+      "source": "https://careers.appian.com/jobs/8069612-product-manager--2027-graduates-",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-24",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "appian|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:37.015Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "efa616b282c71bdc3b6aa632",
+      "company_id": "micron",
+      "company": "Micron",
+      "featured_company": false,
+      "title": "New College Grad - Product Manager, HBM",
+      "location": "Boise, ID, US",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "http://careers.micron.com/careers/job/41945073-new-college-grad-product-manager-hbm-boise-idaho-united-states-of-america",
+      "source": "https://careers.micron.com/careers",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-20",
+      "expires_at": "2027-01-16",
+      "updated_at": "",
+      "source_id": "micron|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c05d9080196449221e733eb4",
+      "company_id": "databricks",
+      "company": "Databricks",
+      "featured_company": false,
+      "title": "Associate Product Manager, New Grad (2027 Start) - Databricks",
+      "location": "San Francisco, CA; Mountain View, CA; Bellevue, WA",
+      "role_type": "New Grad",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$133,000 - $150,000 USD",
+      "grad_window": "2027 grad eligible",
+      "url": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
+      "source": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-16",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "databricks|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:44.774Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "67de42d4fcbfa35ca497398a",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Electromechanical Engineer/Electromechanical Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "$65,800 - $98,800/year",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electromechanical-Engineer-Electromechanical-Engineer_R10244429",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-14",
+      "updated_at": "Posted 2 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "8ba0748eba3d0a735fc5af4a",
+      "company_id": "micron",
+      "company": "Micron",
+      "featured_company": false,
+      "title": "New College Grad - Dry Etch Equipment Engineer",
+      "location": "Boise, ID, US",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "http://careers.micron.com/careers/job/41246643-new-college-grad-dry-etch-equipment-engineer-boise-idaho-united-states-of-america",
+      "source": "https://careers.micron.com/careers",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-06-09",
+      "expires_at": "2026-12-06",
+      "updated_at": "",
+      "source_id": "micron|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "e9c43193ba35b9c98f53e531",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "title": "2027 Associate Aeronautical Engineer / Aeronautical Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace"
+      ],
+      "specialties": [],
+      "compensation": "$63,900 - $95,900",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Aeronautical-Engineer---Aeronautical-Engineer_R10244139",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-05",
+      "expires_at": "2026-08-12",
+      "updated_at": "Posted 4 Days Ago",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "0600fe59bc580c72827d004f",
+      "company_id": "appian",
+      "company": "Appian",
+      "featured_company": false,
+      "title": "Associate Application Engineer (2027 Graduates)",
+      "location": "McLean, VA, US",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "$90,000 - $95,000 USD",
+      "grad_window": "2027 grad eligible",
+      "url": "https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates-",
+      "source": "https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates-",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-24",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "appian|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:37.209Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0c5a373f97199dddf1b3f7b1",
+      "company_id": "bytedance",
+      "company": "ByteDance",
+      "featured_company": false,
+      "title": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
+      "location": "San Jose, California",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://joinbytedance.com/search/7671147251943213317",
+      "source": "https://joinbytedance.com/search/7671147251943213317",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "bytedance|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:55.239Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3b087324c4fec2afc876439d",
+      "company_id": "bytedance",
+      "company": "ByteDance",
+      "featured_company": false,
+      "title": "Software Engineer Intern (AI Infra Compute) - 2027 Summer",
+      "location": "Seattle, Washington",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$42.75- $42.75/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://joinbytedance.com/search/7667378931599214853",
+      "source": "https://joinbytedance.com/search/7667378931599214853",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "bytedance|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:55.599Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "ee123dac03c378efc5554914",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "title": "AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer",
+      "location": "San Jose, California, United States of America",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management",
+        "ai-ml",
+        "software"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7670010726514493749",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "dac4e9463ccd3cd5725d072f",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "title": "AI Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer",
+      "location": "San Jose, California, United States of America",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management",
+        "ai-ml"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7667578131150506293",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f72048f8d0cf4dcb6fa91c43",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "title": "Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer",
+      "location": "San Jose, California, United States of America",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management",
+        "software"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7670009830602721589",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "91a9b6bf9b32105484b6a479",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "title": "Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer",
+      "location": "San Jose, California, United States of America",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7667874197682899205",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "1bde30a298daddbcf4d0598d",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "title": "Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer",
+      "location": "San Jose, California, United States of America",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management",
+        "software"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7670420287191517493",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "101033e9e45bfa4aaca47537",
+      "company_id": "american-express",
+      "company": "American Express",
+      "featured_company": false,
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - New York, NY",
+      "location": "New York, NY, United States",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management",
+        "software"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152",
+      "source": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-10-01",
+      "updated_at": "",
+      "source_id": "american express|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:09.039Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "e8df7b18dc4aedf3c98fb4c4",
+      "company_id": "american-express",
+      "company": "American Express",
+      "featured_company": false,
+      "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
+      "location": "New York, NY",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
+      "source": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "american express|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:09.219Z",
       "verification_version": 6,
       "priority": "P1"
     },
     {
-      "company": "PlusAI",
-      "title": "Full Stack Engineer Intern",
-      "location": "Santa Clara, CA",
+      "role_id": "f61c9c7147dbf879d7ea8b92",
+      "company_id": "pentair",
+      "company": "Pentair",
+      "featured_company": false,
+      "title": "Product Management Leadership Development Internship Program - Summer 2027",
+      "location": "Golden Valley, MN",
       "role_type": "Internship",
-      "discipline": "Software / AI / ML",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$28.00/hour",
+      "grad_window": "2027 internship eligible",
+      "url": "https://pentair.wd5.myworkdayjobs.com/Pentair_Careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+      "source": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pentair|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:09.160Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "d93f2366e747d545dcfb3f36",
+      "company_id": "uline",
+      "company": "Uline",
+      "featured_company": false,
+      "title": "Product Management Internship - Summer 2027",
+      "location": "Pleasant Prairie, WI",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
       "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40",
-      "source": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40",
-      "date_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
+      "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
+      "source": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "uline|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:08.999Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "6d4ba28fc08591f5bd6c46be",
+      "company_id": "amazon",
+      "company": "Amazon",
+      "featured_company": true,
+      "title": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
+      "location": "US, WA, Seattle",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+      "source": "https://www.amazon.jobs/en/search",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-04",
+      "expires_at": "",
+      "updated_at": "5 days",
+      "source_id": "amazon|amazon",
+      "source_adapter": "amazon",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0bf5e5f6d9efeab8b881628e",
+      "company_id": "american-express",
+      "company": "American Express",
+      "featured_company": false,
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY",
+      "location": "New York, NY, United States",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+      "source": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-04",
+      "expires_at": "2026-10-01",
+      "updated_at": "",
+      "source_id": "american express|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:21.866Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "555143fbe8662f97798a646d",
+      "company_id": "databricks",
+      "company": "Databricks",
+      "featured_company": false,
+      "title": "Product Management Intern (Summer 2027) - Databricks",
+      "location": "San Francisco, CA; Mountain View, CA; Bellevue, WA",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$54 - $56/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002",
+      "source": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-16",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "databricks|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:44.875Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "739130b51c1ebf57b41f0313",
+      "company_id": "rtx",
+      "company": "RTX",
+      "featured_company": true,
+      "title": "Raytheon Electrical Engineering Intern (Summer 2027)(Onsite)",
+      "location": "plano, Texas, United States of America",
+      "role_type": "Internship",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Raytheon-Electrical-Engineering-Intern--Summer-2027--Onsite-_01864023/apply",
+      "source": "https://careers.rtx.com/global/en/search-results",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "2026-08-07T00:00:00.000+0000",
+      "source_id": "rtx|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "cc4bd6b889af55375e129afc",
+      "company_id": "bosch-group",
+      "company": "Bosch Group",
+      "featured_company": false,
+      "title": "Internship Vehicle Thermal Systems Engineering",
+      "location": "Farmington Hills, MI",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [
+        "thermal-fluids"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142173185-internship-vehicle-thermal-systems-engineering",
+      "source": "https://jobs.smartrecruiters.com/BoschGroup/744000142173185",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
       "posted_at": "",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "plusai|discovery_feed",
+      "source_id": "bosch group|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-08T00:06:51.948Z",
+      "verified_at": "2026-08-09T17:21:53.607Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "871068c15f1eb1021b3ff987",
+      "company_id": "varda-space",
+      "company": "Varda Space",
+      "featured_company": false,
+      "title": "Avionics Engineering Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "role_type": "Internship",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace",
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$33.00/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
+      "source": "https://www.varda.com/careers",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "2026-08-07T12:46:14-04:00",
+      "source_id": "varda space|greenhouse",
+      "source_adapter": "greenhouse",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "dd375972ddced9884bdad056",
+      "company_id": "ge-vernova",
+      "company": "GE Vernova",
+      "featured_company": false,
+      "title": "GE Vernova Nuclear - Manufacturing / Supply Chain Intern (Summer 2027)",
+      "location": "Wilmington NC USA",
+      "role_type": "Internship",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$21.00/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-3",
+      "source": "https://careers.gevernova.com/",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-07-31",
+      "expires_at": "",
+      "updated_at": "Posted 9 Days Ago",
+      "source_id": "ge vernova|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "4d13de734770a41cac587be0",
+      "company_id": "varda-space",
+      "company": "Varda Space",
+      "featured_company": false,
+      "title": "Applications Engineering Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "role_type": "Internship",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "$33.00 - $120/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+      "source": "https://www.varda.com/careers",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "2026-08-07T12:45:59-04:00",
+      "source_id": "varda space|greenhouse",
+      "source_adapter": "greenhouse",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "d8a219250c1a24a76d01d416",
+      "company_id": "cno-financial-group",
+      "company": "CNO Financial Group",
+      "featured_company": false,
+      "title": "Endpoint Engineering Intern - REMOTE",
+      "location": "Carmel, IN",
+      "role_type": "Internship",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Endpoint-Engineering-Intern---REMOTE_JR170379",
+      "source": "https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Endpoint-Engineering-Intern---REMOTE_JR170379",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-08",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "cno financial group|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:06.685Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "e30281ce06dbd2f144425fee",
+      "company_id": "leidos",
+      "company": "Leidos",
+      "featured_company": false,
+      "title": "Engineering Intern",
+      "location": "Huntsville, AL",
+      "role_type": "Internship",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
+      "source": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036",
+      "date_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "posted_at": "2026-08-07",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "leidos|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-09T17:21:55.290Z",
       "verification_version": 6,
       "priority": "P1"
     }
   ],
   "removed_roles": [
     {
-      "company": "TikTok",
-      "title": "Site Reliability Engineer Graduate (Global SRE) - 2027 Start",
-      "url": "https://lifeattiktok.com/search/7668701361741007109",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "SentiLink",
+      "title": "Data Scientist - New Grad",
+      "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408",
       "reason": "official verification confirmed closure"
     },
     {
       "company": "TikTok",
-      "title": "AI Engineer Intern (TikTok-Client Arch)- 2027 Summer",
-      "url": "https://lifeattiktok.com/search/7667935738190465285",
+      "title": "Frontend Engineer Intern - Open Platform",
+      "url": "https://lifeattiktok.com/search/7667935739300792629",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Netsmart",
+      "title": "Software Engineer Intern",
+      "url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Midmark",
+      "title": "Firmware Engineering Co-op (Spring 2027)",
+      "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Cisco",
+      "title": "Hardware Engineer II (Co-op) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2000128",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "2027 Intern Vehicle Engineering",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Vehicle-Engineering_R10244105",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Netsmart",
+      "title": "Cloud Engineer Future - Summer 2027 Internship",
+      "url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
       "reason": "official verification confirmed closure"
     }
   ],
@@ -93,7 +1349,7 @@
       "source_id": "amazon|amazon",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -113,7 +1369,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 793,
+      "matches": 819,
       "phase": "fast-pass"
     },
     {
@@ -123,7 +1379,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 119,
+      "matches": 127,
       "phase": "fast-pass"
     },
     {
@@ -133,7 +1389,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 276,
+      "matches": 307,
       "phase": "fast-pass"
     },
     {
@@ -143,7 +1399,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 76,
+      "matches": 104,
       "phase": "fast-pass"
     },
     {
@@ -153,7 +1409,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 67,
+      "matches": 84,
       "phase": "fast-pass"
     },
     {
@@ -163,7 +1419,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 911,
+      "matches": 955,
       "phase": "fast-pass"
     },
     {
@@ -183,7 +1439,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 57,
+      "matches": 64,
       "phase": "fast-pass"
     },
     {
@@ -212,7 +1468,7 @@
       "source_id": "tiktok|tiktok",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 147,
+      "matches": 152,
       "phase": "fast-pass"
     },
     {
@@ -242,7 +1498,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 241,
+      "matches": 253,
       "phase": "fast-pass"
     },
     {
@@ -252,7 +1508,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 38,
+      "matches": 39,
       "phase": "fast-pass"
     },
     {
@@ -282,7 +1538,7 @@
       "source_id": "physical intelligence|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -292,7 +1548,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 51,
+      "matches": 67,
       "phase": "fast-pass"
     },
     {
@@ -302,7 +1558,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 28,
       "phase": "fast-pass"
     },
     {
@@ -312,7 +1568,7 @@
       "source_id": "confluent|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -322,7 +1578,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 56,
       "phase": "fast-pass"
     },
     {
@@ -332,7 +1588,7 @@
       "source_id": "epic games|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -342,7 +1598,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -362,7 +1618,7 @@
       "source_id": "imc trading|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 77,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -372,7 +1628,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
@@ -402,7 +1658,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 88,
+      "matches": 89,
       "phase": "fast-pass"
     },
     {
@@ -432,7 +1688,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 49,
+      "matches": 59,
       "phase": "fast-pass"
     },
     {
@@ -442,7 +1698,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 29,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -452,7 +1708,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 80,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
@@ -489,11 +1745,17 @@
       "company": "Leidos",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "leidos|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Leidos",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -502,7 +1764,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 207,
+      "matches": 327,
       "phase": "fast-pass"
     },
     {
@@ -522,18 +1784,24 @@
       "source_id": "jane street|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 81,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "general motors|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "General Motors",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Caterpillar",
@@ -542,7 +1810,67 @@
       "source_id": "caterpillar|workday",
       "reconciliation": "partial",
       "status": "ok",
+      "matches": 6,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Northrop Grumman",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "source_id": "northrop grumman|workday",
+      "reconciliation": "partial",
+      "status": "ok",
       "matches": 7,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Varda Space",
+      "adapter": "greenhouse",
+      "source_kind": "configured",
+      "source_id": "varda space|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 68,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Johnson Controls",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "source_id": "johnson controls|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Medtronic",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "source_id": "medtronic|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Nissan",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "source_id": "nissan|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "GE Vernova",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "source_id": "ge vernova|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -559,11 +1887,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -612,7 +1946,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 71,
+      "matches": 77,
       "phase": "fast-pass"
     },
     {
@@ -652,7 +1986,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 31,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -662,7 +1996,7 @@
       "source_id": "notion|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 21,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -722,7 +2056,7 @@
       "source_id": "cockroach labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -732,7 +2066,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 16,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -762,18 +2096,24 @@
       "source_id": "netlify|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -792,7 +2132,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 100,
+      "matches": 114,
       "phase": "fast-pass"
     },
     {
@@ -802,7 +2142,7 @@
       "source_id": "xai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 46,
+      "matches": 47,
       "phase": "fast-pass"
     },
     {
@@ -812,7 +2152,7 @@
       "source_id": "cohere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 32,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -822,7 +2162,7 @@
       "source_id": "runway|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -842,7 +2182,7 @@
       "source_id": "sierra|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 43,
+      "matches": 61,
       "phase": "fast-pass"
     },
     {
@@ -852,7 +2192,7 @@
       "source_id": "langchain|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -872,7 +2212,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 32,
       "phase": "fast-pass"
     },
     {
@@ -882,17 +2222,15 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 105,
+      "matches": 122,
       "phase": "fast-pass"
     },
     {
       "company": "Shield AI",
       "adapter": "lever",
       "source_kind": "discovered",
-      "source_id": "shield ai|lever",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 87,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -952,7 +2290,7 @@
       "source_id": "mercury|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -974,6 +2312,22 @@
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
+    },
+    {
+      "company": "Intel",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Intel",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Qualcomm",
@@ -1012,7 +2366,7 @@
       "source_id": "marvell|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1022,7 +2376,7 @@
       "source_id": "micron|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1057,25 +2411,21 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "home depot technology|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Home Depot Technology",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Lowe's Technology",
@@ -1108,6 +2458,16 @@
       "phase": "fast-pass"
     },
     {
+      "company": "Zillow",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "zillow|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
       "company": "Yelp",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
@@ -1134,7 +2494,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1161,17 +2521,11 @@
       "company": "Workday",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "workday|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Workday",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -1230,7 +2584,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 65,
       "phase": "fast-pass"
     },
     {
@@ -1240,7 +2594,7 @@
       "source_id": "sumo logic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1250,7 +2604,7 @@
       "source_id": "docker|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 23,
       "phase": "fast-pass"
     },
     {
@@ -1260,7 +2614,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 21,
       "phase": "fast-pass"
     },
     {
@@ -1270,7 +2624,7 @@
       "source_id": "1password|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1310,7 +2664,7 @@
       "source_id": "supabase|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1320,7 +2674,7 @@
       "source_id": "render|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -1340,7 +2694,7 @@
       "source_id": "mistral ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 52,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -1360,7 +2714,7 @@
       "source_id": "luma ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -1370,7 +2724,7 @@
       "source_id": "pika|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1390,7 +2744,7 @@
       "source_id": "snorkel ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -1400,7 +2754,7 @@
       "source_id": "anyscale|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1430,7 +2784,7 @@
       "source_id": "cartesia|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1440,7 +2794,7 @@
       "source_id": "descript|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1480,7 +2834,7 @@
       "source_id": "abridge|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -1490,7 +2844,7 @@
       "source_id": "natera|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -1500,7 +2854,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 21,
       "phase": "fast-pass"
     },
     {
@@ -1520,7 +2874,7 @@
       "source_id": "alchemy|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1587,11 +2941,17 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Lockheed Martin",
@@ -1650,18 +3010,24 @@
       "source_id": "astranis|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 29,
+      "matches": 30,
       "phase": "fast-pass"
     },
     {
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "maxar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -1680,7 +3046,7 @@
       "source_id": "doximity|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1690,7 +3056,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -1700,7 +3066,7 @@
       "source_id": "semgrep|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1710,7 +3076,7 @@
       "source_id": "sourcegraph|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1797,12 +3163,22 @@
       "company": "Comcast",
       "adapter": "workday",
       "source_kind": "discovered",
+      "source_id": "comcast|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "status": "error",
       "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
-      "company": "Comcast",
+      "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
@@ -1810,23 +3186,11 @@
       "phase": "double-check"
     },
     {
-      "company": "Boeing",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 12,
-      "phase": "fast-pass"
-    },
-    {
       "company": "Ford",
       "adapter": "oracle",
       "source_kind": "discovered",
-      "source_id": "ford|oracle",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "Ford oracle scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -1853,33 +3217,31 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Axiom Space",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Red Hat",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "red hat|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "MathWorks",
+      "adapter": "html_jobs",
+      "source_kind": "discovered",
+      "source_id": "mathworks|html_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
     },
     {
       "company": "Cummins",
@@ -1890,90 +3252,254 @@
       "status": "ok",
       "matches": 0,
       "phase": "fast-pass"
+    },
+    {
+      "company": "United Launch Alliance",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "united launch alliance|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Gulfstream Aerospace",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "gulfstream aerospace|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Toyota Motor North America",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "toyota motor north america|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Honda",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "honda|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Hyundai",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "hyundai|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Carrier",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Carrier",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "carrier|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
+      "phase": "double-check"
+    },
+    {
+      "company": "Trane Technologies",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "trane technologies|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Stryker",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Abbott",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "source_id": "abbott|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Bechtel",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "bechtel|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Black & Veatch",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "black & veatch|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "3M",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "3M",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Whirlpool",
+      "adapter": "sitemap_jobs",
+      "source_kind": "discovered",
+      "source_id": "whirlpool|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-08T00:07:03.699Z",
-    "elapsed_ms": 189011,
-    "companies_in_target_list": 367,
-    "ats_sources_configured": 46,
-    "structured_sources_runtime": 177,
-    "discovered_sources_active": 131,
-    "discovered_companies_active": 131,
+    "scanned_at": "2026-08-09T17:22:45.040Z",
+    "elapsed_ms": 320805,
+    "companies_in_target_list": 407,
+    "ats_sources_configured": 52,
+    "structured_sources_runtime": 201,
+    "discovered_sources_active": 149,
+    "discovered_companies_active": 149,
+    "companies_with_active_sources": 189,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 3936,
-      "official_candidates": 1579,
-      "cached_verifications": 394,
+      "rows_parsed": 4063,
+      "official_candidates": 1440,
+      "cached_verifications": 0,
       "reverify_hours": 24,
-      "verification_attempts": 1185,
-      "verification_successes": 199,
+      "verification_attempts": 1440,
+      "verification_successes": 566,
       "verification_deferred": 0,
       "rejection_counts": {
-        "missing required field": 780,
-        "untracked discipline": 763,
-        "graduate-degree-only role": 88,
-        "excluded recruiting year": 163,
-        "non-official application URL": 45,
+        "missing required field": 1256,
+        "untracked discipline": 635,
+        "graduate-degree-only role": 86,
+        "excluded recruiting year": 166,
+        "non-official application URL": 44,
         "marked closed by discovery source": 1,
-        "verification: 405 Not Allowed": 47,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 409,
-        "verification: official page has an excluded recruiting year": 120,
+        "verification: official page has an excluded recruiting year": 115,
+        "verification: 410 Gone": 3,
+        "verification: 404 Not Found": 16,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 424,
+        "verification: official posting closed: official page shell does not expose the requisition": 50,
+        "verification: official posting closed: explicit closed-page message": 7,
+        "verification: official posting closed: 404 Not Found": 29,
+        "verification: 405 Not Allowed": 36,
+        "verification: official posting closed: provider requisition is no longer listed": 63,
+        "verification: official posting closed: official page does not identify the requisition": 34,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
-        "verification: official posting closed: provider requisition is no longer listed": 76,
-        "verification: 404 Not Found": 47,
-        "verification: official posting closed: explicit closed-page message": 19,
-        "verification: 403 Forbidden": 84,
-        "verification: official posting closed: official page shell does not expose the requisition": 59,
-        "verification: official posting closed: 404 Not Found": 34,
-        "verification: 410 Gone": 20,
-        "verification: official posting closed: official page does not identify the requisition": 40,
+        "verification: 403 Forbidden": 70,
         "verification: 400 Bad Request": 6,
-        "verification: official posting closed: redirected away from the requisition": 6,
-        "verification: official posting closed: redirected to an error page": 3,
         "verification: fetch failed": 2,
-        "verification: 429 Too Many Requests": 1,
-        "verification: official posting closed: Oracle requisition is no longer listed": 7,
+        "verification: official posting closed: Oracle requisition is no longer listed": 8,
+        "verification: official posting closed: redirected away from the requisition": 5,
         "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 4,
-    "discovery_new_sources_this_scan": 4,
+    "discovery_attempts_this_scan": 76,
+    "discovery_new_sources_this_scan": 24,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
-      "none": 151,
-      "discovered": 131,
-      "error": 35,
+      "none": 164,
+      "discovered": 149,
+      "error": 38,
       "blocked": 4
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 6,
-    "unique_sources_attempted": 177,
-    "total_fetch_attempts": 183,
-    "ok_sources": 170,
-    "error_sources": 6,
+    "double_check_attempts": 11,
+    "unique_sources_attempted": 201,
+    "total_fetch_attempts": 212,
+    "ok_sources": 189,
+    "error_sources": 11,
     "blocked_sources": 1,
-    "ats_ok_sources": 45,
-    "ats_error_sources": 0,
+    "ats_ok_sources": 49,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.8,
+    "ats_success_percent": 94.2,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 6
+      "429 Too Many Requests": 9,
+      "Request Timeout": 2
     },
-    "board_eligible_candidates": 685,
-    "provider_candidate_checks": 104,
+    "board_eligible_candidates": 723,
+    "provider_candidate_checks": 121,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 91,
-    "inactive_provider_checks": 81,
-    "inactive_provider_closed": 0,
+    "closure_checks": 66,
+    "inactive_provider_checks": 67,
+    "inactive_provider_closed": 7,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 2,
+    "closed_roles_removed": 8,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

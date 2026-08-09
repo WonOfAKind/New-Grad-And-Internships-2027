@@ -1,0 +1,10 @@
+project_id = "new-grad-role-alerts"
+
+[functions.subscription-api]
+verify_jwt = false
+
+[functions.ingest-roles]
+verify_jwt = false
+
+[functions.resend-webhook]
+verify_jwt = false

@@ -13,7 +13,9 @@ Prefer structured ATS adapters when a company uses a known provider:
 
 The monitor validates every source at startup. A source must reference a company in `data/company_sources.json`, use a supported adapter, and include that adapter's required fields. Invalid URLs, regular expressions, limits, timeouts, priorities, and duplicate sources fail validation instead of silently producing zero roles.
 
-Search-based adapters (`workday`, `phenom`, and `avature`) automatically query the tracked disciplines plus new-grad, early-career, internship, hardware, and quantitative terms. Set `searchTexts` to a non-empty string array when a source needs a custom query set. Workday sources also support `maxPages` and detail-page enrichment.
+Search-based adapters (`workday`, `phenom`, and `avature`) automatically query the tracked disciplines plus new-grad, early-career, internship, hardware, mechanical, aerospace, manufacturing, product-management, and quantitative terms. Set `searchTexts` to a non-empty string array when a source needs a custom query set. Workday sources also support `maxPages` and detail-page enrichment.
+
+When adding employers, set `role_families` broadly enough to reflect what the company actually hires. Canonical names, aliases, parent companies, featured designations, and recommendation-list membership belong in `data/company_metadata.json`, not in rendering code. See `docs/DISCIPLINE_COVERAGE.md` for the maintained title vocabulary and employer cohorts.
 
 Most companies should not require a hand-written source. The discovery layer inspects the official career URL, follows redirects, recognizes Greenhouse, Lever, Ashby, Workday, and Avature fingerprints, reads `JobPosting` JSON-LD, and checks declared job sitemaps while honoring `robots.txt`. Results are cached in `data/source_discovery.json` and promoted to runtime sources automatically.
 

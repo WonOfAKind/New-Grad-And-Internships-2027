@@ -13,6 +13,7 @@ import {
   startedAt,
 } from "./monitor/config.mjs";
 import {
+  boardDisciplines,
   applyUrl,
   isAllowedLocation,
   isExpiredDate,
@@ -36,6 +37,7 @@ import {
   verifyKnownProvider,
 } from "./monitor/feed_discovery.mjs";
 import {
+  assertBoardIntegrity,
   capByCompany,
   dedupeLeads,
   errorBreakdown,
@@ -43,17 +45,23 @@ import {
   isRecentlySeen,
   mergeRoles,
   renderReadme,
+  renderDisciplinePage,
   renderRolePage,
   rolesToCsv,
   terminalSourceStatuses,
   toPublicRole,
 } from "./monitor/output.mjs";
+import {
+  configureCompanyMetadata,
+  publicCompanyCatalog,
+} from "./monitor/companies.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const rootDir = path.resolve(__dirname, "..");
 const dataDir = path.join(rootDir, "data");
 
 const targetPath = path.join(dataDir, "company_sources.json");
+const companyMetadataPath = path.join(dataDir, "company_metadata.json");
 const sourcePath = path.join(dataDir, "ats_sources.json");
 const feedPath = path.join(dataDir, "discovery_feeds.json");
 const discoveryPath = path.join(dataDir, "source_discovery.json");
@@ -61,12 +69,22 @@ const roleDataPath = path.join(dataDir, "roles.json");
 const scanOutputPath = path.join(dataDir, "latest_scan.json");
 const coverageOutputPath = path.join(dataDir, "coverage.json");
 const csvOutputPath = path.join(dataDir, "roles.csv");
+const companyCatalogPath = path.join(dataDir, "company_catalog.json");
+const notificationOutboxPath = path.join(dataDir, "notification_outbox.json");
 const readmePath = path.join(rootDir, "README.md");
 const newGradPath = path.join(rootDir, "NEW_GRAD.md");
 const internshipsPath = path.join(rootDir, "INTERNSHIPS.md");
+const newGradDir = path.join(rootDir, "new-grad");
+const internshipsDir = path.join(rootDir, "internships");
+const notificationsDocsDir = path.join(rootDir, "docs", "notifications");
+const notificationCatalogPath = path.join(notificationsDocsDir, "catalog.json");
 
 await fs.mkdir(dataDir, { recursive: true });
+await fs.mkdir(newGradDir, { recursive: true });
+await fs.mkdir(internshipsDir, { recursive: true });
+await fs.mkdir(notificationsDocsDir, { recursive: true });
 const targets = await readJson(targetPath, []);
+const companyMetadata = await readJson(companyMetadataPath, { companies: [], recommendation_presets: [] });
 const atsSources = await readJson(sourcePath, []);
 const discoveryFeeds = await readJson(feedPath, []);
 const discoveryState = await readJson(discoveryPath, { version: 3, companies: {} });
@@ -74,6 +92,7 @@ const existingLeads = await readJson(roleDataPath, []);
 validateConfiguration(targets, atsSources);
 validateDiscoveryFeeds(discoveryFeeds);
 if (!Array.isArray(existingLeads)) throw new Error("data/roles.json must contain a JSON array");
+configureCompanyMetadata(companyMetadata);
 const discovery = await discoverSources(targets, atsSources, discoveryState);
 const configuredSources = atsSources.map((source) => ({ ...source, source_kind: "configured" }));
 const runtimeSources = [...configuredSources, ...discovery.sources];
@@ -183,7 +202,8 @@ const lifecycle = await reconcileRoleLifecycle(
   scannedAt,
   [...feedScan.confirmed_closed_urls, ...closedProviderCandidateUrls, ...inactiveProviderClosedUrls],
 );
-const freshLeads = capByCompany(dedupeLeads(existingLeads, boardEligibleCandidates), maxNewPerCompany);
+const allFreshLeads = dedupeLeads(existingLeads, boardEligibleCandidates);
+const freshLeads = capByCompany(allFreshLeads, maxNewPerCompany);
 
 const finalSourceStatuses = terminalSourceStatuses(scanLog);
 let discoveryStateChanged = false;
@@ -213,6 +233,9 @@ const coverage = {
   structured_sources_runtime: runtimeSources.length,
   discovered_sources_active: discovery.sources.length,
   discovered_companies_active: discoveredCompanyCount,
+  companies_with_active_sources: new Set(finalSourceStatuses
+    .filter((entry) => entry.status === "ok")
+    .map((entry) => entry.company)).size,
   discovery_feeds: feedScan.coverage,
   discovery_attempts_this_scan: discovery.attempted,
   discovery_new_sources_this_scan: discovery.discovered_now,
@@ -249,6 +272,7 @@ const coverage = {
     .map((target) => target.company),
 };
 const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt));
+const notificationFreshLeads = allFreshLeads.map((lead) => toPublicRole(lead, scannedAt));
 const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scannedAt)
   .filter((role) => isRecentlySeen(role, scannedAt))
   .filter(isFreshEnough)
@@ -258,9 +282,22 @@ const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scanne
   .filter((role) => role.source_adapter !== "discovery_feed"
     || Number(role.verification_version) === discoveryVerificationVersion)
   .filter((role) => role.priority !== "P2");
+assertBoardIntegrity(updatedLeads);
+const currentRoleIds = new Set(updatedLeads.map((role) => role.role_id));
+const notificationRoles = notificationFreshLeads.filter((role) => currentRoleIds.has(role.role_id));
+const companyCatalog = publicCompanyCatalog(targets);
+companyCatalog.generated_at = scannedAt;
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(discoveryPath, `${JSON.stringify(discovery.state, null, 2)}\n`, "utf8");
 await fs.writeFile(csvOutputPath, rolesToCsv(updatedLeads), "utf8");
+await fs.writeFile(companyCatalogPath, `${JSON.stringify(companyCatalog, null, 2)}\n`, "utf8");
+await fs.writeFile(notificationCatalogPath, `${JSON.stringify(companyCatalog, null, 2)}\n`, "utf8");
+await fs.writeFile(notificationOutboxPath, `${JSON.stringify({
+  scan_id: scannedAt,
+  generated_at: scannedAt,
+  companies: companyCatalog.companies,
+  roles: notificationRoles,
+}, null, 2)}\n`, "utf8");
 await fs.writeFile(scanOutputPath, `${JSON.stringify({
   scanned_at: scannedAt,
   fresh_leads: publicFreshLeads,
@@ -277,6 +314,18 @@ await fs.writeFile(coverageOutputPath, `${JSON.stringify(coverage, null, 2)}\n`,
 await fs.writeFile(readmePath, renderReadme(updatedLeads, coverage, publicFreshLeads.length), "utf8");
 await fs.writeFile(newGradPath, renderRolePage(updatedLeads, coverage, "New Grad"), "utf8");
 await fs.writeFile(internshipsPath, renderRolePage(updatedLeads, coverage, "Internship"), "utf8");
+for (const discipline of boardDisciplines) {
+  await fs.writeFile(
+    path.join(newGradDir, `${discipline.slug}.md`),
+    renderDisciplinePage(updatedLeads, coverage, "New Grad", discipline),
+    "utf8",
+  );
+  await fs.writeFile(
+    path.join(internshipsDir, `${discipline.slug}.md`),
+    renderDisciplinePage(updatedLeads, coverage, "Internship", discipline),
+    "utf8",
+  );
+}
 
 console.log(JSON.stringify({
   scanned_at: scannedAt,

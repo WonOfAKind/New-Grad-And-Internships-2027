@@ -74,7 +74,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md NEW_GRAD.md INTERNSHIPS.md data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json
+          git add README.md NEW_GRAD.md INTERNSHIPS.md new-grad internships data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json data/company_catalog.json data/notification_outbox.json docs/notifications/catalog.json
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
             exit 0
@@ -95,3 +95,10 @@ jobs:
           done
           echo "Unable to push generated updates after 3 attempts."
           exit 1
+
+      - name: Dispatch verified role notifications
+        if: steps.window.outputs.run == 'true'
+        run: npm run notify
+        env:
+          NOTIFICATION_API_URL: ${{ secrets.NOTIFICATION_API_URL }}
+          NOTIFICATION_INGEST_SECRET: ${{ secrets.NOTIFICATION_INGEST_SECRET }}

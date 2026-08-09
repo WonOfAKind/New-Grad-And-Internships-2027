@@ -377,5 +377,94 @@
     "searchText": "2027",
     "limit": 50,
     "priority": "P1"
+  },
+  {
+    "company": "Northrop Grumman",
+    "adapter": "workday",
+    "host": "ngc.wd1.myworkdayjobs.com",
+    "tenant": "ngc",
+    "site": "Northrop_Grumman_External_Site",
+    "searchTexts": [
+      "2027",
+      "early career",
+      "aerospace engineer",
+      "mechanical engineer",
+      "manufacturing engineer",
+      "systems engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "Varda Space",
+    "adapter": "greenhouse",
+    "board": "vardaspace",
+    "priority": "P1"
+  },
+  {
+    "company": "Johnson Controls",
+    "adapter": "workday",
+    "host": "jci.wd5.myworkdayjobs.com",
+    "tenant": "jci",
+    "site": "JCI",
+    "searchTexts": [
+      "2027",
+      "mechanical engineer",
+      "controls engineer",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "Medtronic",
+    "adapter": "workday",
+    "host": "medtronic.wd1.myworkdayjobs.com",
+    "tenant": "medtronic",
+    "site": "MedtronicCareers",
+    "searchTexts": [
+      "2027",
+      "mechanical engineer",
+      "biomedical engineer",
+      "manufacturing engineer",
+      "quality engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "Nissan",
+    "adapter": "workday",
+    "host": "alliance.wd3.myworkdayjobs.com",
+    "tenant": "alliance",
+    "site": "nissanjobs",
+    "searchTexts": [
+      "2027",
+      "mechanical engineer",
+      "production engineer",
+      "manufacturing engineer",
+      "engineering co-op"
+    ],
+    "limit": 50,
+    "priority": "P1"
+  },
+  {
+    "company": "GE Vernova",
+    "adapter": "workday",
+    "host": "gevernova.wd5.myworkdayjobs.com",
+    "tenant": "gevernova",
+    "site": "Vernova_ExternalSite",
+    "searchTexts": [
+      "2027",
+      "mechanical engineer",
+      "nuclear engineer",
+      "manufacturing engineer",
+      "engineering intern"
+    ],
+    "limit": 50,
+    "priority": "P1"
   }
 ]

@@ -4,18 +4,21 @@ import { fileURLToPath } from "node:url";
 import {
   canonicalApplyUrl,
   categorize,
+  categorizeDisciplines,
   extractCompensation,
   hasVerifiedEntryLevelEvidence,
   isAllowedLocation,
   isEligibleRole,
   isDirectEmployerApplyUrl,
   isFreshEnough,
+  isProbablySenior,
   isRelevant,
   keyFor,
   normalizePostingDate,
   normalizeCompanyName,
   normalizeDisplayText,
   normalizeRoleTitle,
+  stableJobIdentity,
 } from "./domain.mjs";
 import {
   amazonJobToLead,
@@ -33,11 +36,14 @@ import {
   withScanDeadline,
 } from "./adapters.mjs";
 import { readJson, validateConfiguration } from "./http.mjs";
+import { configureCompanyMetadata, publicCompanyCatalog } from "./companies.mjs";
 import {
+  assertBoardIntegrity,
   compareRoles,
   csvEscape,
   normalizedErrorCategory,
   renderReadme,
+  renderDisciplinePage,
   renderRoleDates,
   renderRolePage,
   toPublicRole,
@@ -70,6 +76,7 @@ import {
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataDir = path.resolve(__dirname, "..", "..", "data");
 const targetPath = path.join(dataDir, "company_sources.json");
+const companyMetadataPath = path.join(dataDir, "company_metadata.json");
 const sourcePath = path.join(dataDir, "ats_sources.json");
 
 export function assertEqual(actual, expected, label) {
@@ -225,7 +232,32 @@ export async function runSelfTests() {
   assertEqual(isRelevant("Network Engineer Internship"), true, "network internship title coverage");
   assertEqual(isRelevant("Design Engineer Co-op"), true, "engineering co-op title coverage");
   assertEqual(isRelevant("Intern - UI/UX Researcher - Human Factor Engineer"), true, "human-factors engineering internship coverage");
-  assertEqual(isRelevant("Co-Op, Software Product Management"), false, "product management role is outside tracked disciplines");
+  assertEqual(isRelevant("Co-Op, Software Product Management"), true, "product management co-op coverage");
+  assertEqual(categorize("Associate Product Manager, New Grad 2027"), "Product Management", "product manager category");
+  assertEqual(isEligibleRole("Associate Product Manager, New Grad 2027", ""), true, "new-grad product manager remains eligible");
+  assertEqual(isProbablySenior("Product Manager Intern - Summer 2027"), false, "product manager is not assumed to be a people manager");
+  assertEqual(isProbablySenior("Senior Technical Product Manager"), true, "senior product manager is still excluded");
+  assertEqual(isProbablySenior("Engineering Manager"), true, "engineering manager remains senior");
+  assertEqual(categorize("Product Mgmt Intern - Summer 2027"), "Product Management", "abbreviated product management category");
+  assertEqual(isRelevant("Technical Product Manager Intern - Summer 2027"), true, "technical product manager title coverage");
+  assertEqual(categorizeDisciplines("Avionics Hardware Engineer, New Grad").join(","), "aerospace,hardware-electrical", "multi-discipline avionics classification");
+  assertEqual(categorizeDisciplines("Manufacturing Engineer, New Grad").join(","), "manufacturing-industrial", "manufacturing has its own discipline");
+  assertEqual(
+    categorizeDisciplines("Structures Design Engineer, Entry Level").join(","),
+    "aerospace,mechanical",
+    "structures design roles receive aerospace and mechanical support",
+  );
+  assertEqual(categorize("Electrical Engineer Intern - Summer 2027"), "Hardware & Electrical Engineering", "electrical roles are not mechanical");
+  assertEqual(
+    categorizeDisciplines("Design Engineering Graduate (Design System & AI Workflow) - 2027 Start").includes("mechanical"),
+    false,
+    "digital design engineering is not treated as mechanical design engineering",
+  );
+  assertEqual(
+    categorizeDisciplines("Forward Deployed Infrastructure Engineer, New Grad").some((discipline) => ["mechanical", "aerospace"].includes(discipline)),
+    false,
+    "infrastructure does not trigger the structures engineering vocabulary",
+  );
   assertEqual(isRelevant("AI Operations Intern"), false, "non-engineering operations role is outside tracked disciplines");
   assertEqual(
     isRelevant("Platform Campaign Intern (Operations Center) - 2027 Summer"),
@@ -234,8 +266,35 @@ export async function runSelfTests() {
   );
   assertEqual(
     categorize("Machine Learning Engineer Intern (Search-Basic Ranking) - 2027 Summer"),
-    "Software / AI / ML",
+    "AI / Machine Learning",
     "ASIC token does not match the word Basic",
+  );
+  assertEqual(
+    isEligibleRole("Applied Machine Learning Engineering Internships Winter 2027", "Explicit new grad role"),
+    true,
+    "plural internship title remains eligible",
+  );
+  assertEqual(
+    toPublicRole({
+      company: "Shopify",
+      title: "Applied Machine Learning Engineering Internships Winter 2027",
+      location: "New York, NY",
+      grad_window: "Explicit new grad role",
+      role_type: "New Grad",
+      url: "https://example.com/jobs/shopify-internships",
+    }, "2026-08-09T12:00:00Z").role_type,
+    "Internship",
+    "official plural internship title overrides stale new-grad classification",
+  );
+  assertThrows(
+    () => assertBoardIntegrity([{
+      company: "Shopify",
+      title: "Applied Machine Learning Engineering Internships Winter 2027",
+      role_type: "New Grad",
+      disciplines: ["ai-ml"],
+    }]),
+    /Internship leaked into New Grad board/,
+    "generation rejects internship-title leakage into the new-grad board",
   );
   assertEqual(isRelevant("Technical Communications Intern - Summer 2027"), true, "technical communications coverage");
   assertEqual(isRelevant("Structural Engineer I - New Grad"), true, "structural engineering coverage");
@@ -313,6 +372,11 @@ export async function runSelfTests() {
   assertEqual(normalizeCompanyName("Susquehanna"), "Susquehanna International Group", "company short-name alias normalized");
   assertEqual(normalizeRoleTitle("Intern, Software Engineering 🆕"), "Intern, Software Engineering", "source marker removed from title");
   assertEqual(normalizeRoleTitle("Avionics Software Intern 🇺🇸"), "Avionics Software Intern", "country marker removed from title");
+  assertEqual(
+    stableJobIdentity("https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002"),
+    "6883068002",
+    "employer career slugs expose their trailing requisition identity",
+  );
   assertEqual(normalizeDisplayText("R&amp;D &quot;Systems&quot;"), 'R&D "Systems"', "display entities decoded");
   assertEqual(
     canonicalApplyUrl("https://example.com/jobs/123/?utm_source=test&ref=friend#apply"),
@@ -446,7 +510,8 @@ export async function runSelfTests() {
       compensation: "$100,000",
       grad_window: "2027 new grad recruiting cycle",
       role_type: "New Grad",
-      discipline: "Software / AI / ML",
+      discipline: "Software Engineering",
+      disciplines: ["software"],
       posted_at: "2026-07-12",
       date_seen: "2026-07-13",
       url: "https://example.com/jobs/new-grad",
@@ -458,7 +523,8 @@ export async function runSelfTests() {
       compensation: "$50/hour",
       grad_window: "Summer 2027",
       role_type: "Internship",
-      discipline: "Software / AI / ML",
+      discipline: "Software Engineering",
+      disciplines: ["software"],
       posted_at: "2026-07-11",
       date_seen: "2026-07-13",
       url: "https://example.com/jobs/intern",
@@ -470,11 +536,19 @@ export async function runSelfTests() {
   assertTruthy(readme.includes("[Internship Roles](INTERNSHIPS.md): 1 roles"), "README links to internship board");
   assertEqual(readme.includes("| Company | Role |"), false, "README does not embed role tables");
   const newGradBoard = renderRolePage(boardRoles, boardCoverage, "New Grad");
-  assertTruthy(newGradBoard.includes("Software Engineer, New Grad"), "new-grad board contains new-grad role");
+  assertTruthy(newGradBoard.includes("new-grad/software.md"), "new-grad board links to software category");
   assertEqual(newGradBoard.includes("Software Engineer Intern"), false, "new-grad board excludes internship role");
   const internshipBoard = renderRolePage(boardRoles, boardCoverage, "Internship");
-  assertTruthy(internshipBoard.includes("Software Engineer Intern"), "internship board contains internship role");
+  assertTruthy(internshipBoard.includes("internships/software.md"), "internship board links to software category");
   assertEqual(internshipBoard.includes("Software Engineer, New Grad"), false, "internship board excludes new-grad role");
+  const softwareNewGradBoard = renderDisciplinePage(
+    boardRoles,
+    boardCoverage,
+    "New Grad",
+    { slug: "software", name: "Software Engineering" },
+  );
+  assertTruthy(softwareNewGradBoard.includes("Software Engineer, New Grad"), "category board contains matching role");
+  assertEqual(softwareNewGradBoard.includes("Software Engineer Intern"), false, "category board excludes other role type");
   assertEqual(closedPageReason(200, "This job is no longer available", "2026-07-13"), "explicit closed-page message", "closed page message");
   assertEqual(closedPageReason(200, '<script>{"validThrough":"2026-07-01"}</script>', "2026-07-13"), "expired on 2026-07-01", "expired structured posting");
   const lifecycleRole = {
@@ -729,10 +803,16 @@ export async function runSelfTests() {
     "Eightfold internship without target-year campaign window is not inferred",
   );
 
-  validateConfiguration(
-    await readJson(targetPath, []),
-    await readJson(sourcePath, []),
-  );
+  const targets = await readJson(targetPath, []);
+  validateConfiguration(targets, await readJson(sourcePath, []));
+  const companyMetadata = await readJson(companyMetadataPath, {});
+  configureCompanyMetadata(companyMetadata);
+  const companyCatalog = publicCompanyCatalog(targets);
+  assertEqual(companyCatalog.companies.length, targets.length, "public company catalog covers every tracked company");
+  assertTruthy(companyCatalog.recommendation_presets.every((preset) => preset.company_ids.length > 0), "every recommendation preset has companies");
+  assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "product-management"), "product management recommendation preset exists");
+  assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "mechanical"), "mechanical recommendation preset exists");
+  assertTruthy(companyCatalog.recommendation_presets.some((preset) => preset.discipline === "aerospace"), "aerospace recommendation preset exists");
 }
 
 await runSelfTests();

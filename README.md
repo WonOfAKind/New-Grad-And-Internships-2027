@@ -4,34 +4,43 @@ Public, GitHub Actions-powered tracker for 2027 new grad and internship roles.
 
 Tracked disciplines:
 
-- Software / AI / ML
-- Data Science
-- Technical Writing
+- Software Engineering
+- AI / Machine Learning
+- Data Science & Analytics
+- Product Management
+- Hardware & Electrical Engineering
 - Mechanical Engineering
 - Aerospace Engineering
+- Manufacturing & Industrial Engineering
+- Technical Writing
+- Other Engineering
 
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: August 7, 2026 at 8:07 PM EDT
+[Get company-specific email notifications](docs/notifications/)
 
-Companies tracked: 367
+Last updated: August 9, 2026 at 1:22 PM EDT
 
-Current roles: 567
+Companies in registry: 407
 
-Fresh roles this scan: 3
+Companies successfully scanned: 189
 
-Structured sources active: 177
+Current roles: 601
 
-Automatically discovered companies: 131
+Fresh roles this scan: 41
+
+Structured sources active: 201
+
+Automatically discovered companies: 149
 
 Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 187 roles
-- [Internship Roles](INTERNSHIPS.md): 380 roles
+- [New Grad Roles](NEW_GRAD.md): 205 roles
+- [Internship Roles](INTERNSHIPS.md): 396 roles
 
 ## Data Files
 
@@ -40,6 +49,7 @@ Secondary discovery feeds healthy: 7/7
 - [data/latest_scan.json](data/latest_scan.json)
 - [data/coverage.json](data/coverage.json)
 - [data/source_discovery.json](data/source_discovery.json)
+- [docs/DISCIPLINE_COVERAGE.md](docs/DISCIPLINE_COVERAGE.md)
 - [docs/ADDING_SOURCES.md](docs/ADDING_SOURCES.md)
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 

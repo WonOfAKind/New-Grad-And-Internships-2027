@@ -6,10 +6,15 @@ The monitor is a layered discovery and normalization pipeline.
 2. `discovery.mjs` identifies structured sources from official career URLs and caches the result.
 3. `adapters/providers.mjs` fetches provider APIs, while `adapters/html.mjs` handles official HTML, JSON-LD, and sitemaps. `adapters/registry.mjs` dispatches sources without embedding provider logic.
 4. `feed_discovery.mjs` reads broad 2027 JSON/Markdown lists as secondary discovery seeds, rejects aggregator links and ineligible rows, and verifies unseen direct employer/ATS pages before publication.
-5. `domain.mjs` applies role, degree, graduation-window, location, category, compensation, and deduplication rules.
+5. `domain.mjs` applies role, degree, graduation-window, location, multi-discipline category, compensation, and deduplication rules. Product Management, Mechanical, Aerospace, Hardware/Electrical, and Manufacturing/Industrial are first-class categories alongside software, AI/ML, data, technical writing, and other engineering.
 6. `lifecycle.mjs` attributes roles to sources, rejects confirmed closed or expired postings, and preserves roles when a source fails or cannot prove closure.
-7. `output.mjs` preserves first-seen history, merges current roles, sorts each board section newest-first, and renders JSON, CSV, a compact README dashboard, and separate new-grad and internship boards.
+7. `output.mjs` preserves first-seen history, merges current roles, assigns deterministic role and company IDs, enforces board invariants, and renders JSON, CSV, a compact README dashboard, role-type indexes, and one Markdown board per role type and discipline.
 8. `monitor_company_roles.mjs` coordinates those modules and contains no provider parsing.
+9. `companies.mjs` validates canonical company metadata, aliases, parent relationships, the featured-company designation, and editable recommendation presets.
+
+After generation, `new-grad/` and `internships/` contain the discipline boards linked by `NEW_GRAD.md` and `INTERNSHIPS.md`. A role may appear in multiple discipline views, but remains one role in the totals and notification system.
+
+The optional notification path is deliberately separate from public board generation. The monitor writes a role outbox with no subscriber data; a secret-authenticated Supabase function matches it against double-opt-in preferences, records idempotent deliveries, and sends through Resend. Subscriber addresses never enter Git, generated artifacts, or browser-accessible Supabase tables.
 
 Secondary-feed rows are published only after an official requisition check. The verifier requires provider-API confirmation for recognized Ashby, Greenhouse, Lever, and Workday URLs, detects soft 404 redirects on other sites, and periodically revalidates cached rows. Workday detail failures are checked against the authoritative search API by exact requisition ID. Unknown sites must expose a matching title or requisition ID in their page data. A feed listing, unchanged URL, or SPA shell alone is never treated as proof that a role remains open.
 
