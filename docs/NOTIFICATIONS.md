@@ -16,15 +16,15 @@ Email addresses and subscription rows live only in Supabase. They must never be 
 
 ## Deploy
 
-The public signup URL is `https://new-grad-and-internships-2027.pages.dev/notifications/`. Cloudflare Pages is connected to the private GitHub repository, publishes `docs/`, and rebuilds automatically after pushes to `main`. The Cloudflare GitHub App is restricted to this repository.
+The public signup URL is `https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/`. GitHub Pages publishes the `docs/` directory from `main` and rebuilds automatically after pushes.
 
-In Cloudflare Pages, use these build settings:
+In repository **Settings → Pages**, use these publishing settings:
 
-- Production branch: `main`
-- Build command: `node scripts/configure_notification_site.mjs`
-- Build output directory: `docs`
+- Source: **Deploy from a branch**
+- Branch: `main`
+- Folder: `/docs`
 
-The signup interface can be deployed before the backend, but subscriptions will remain unavailable until `NOTIFICATION_PUBLIC_API_URL` points to the deployed `subscription-api` function.
+The signup interface can be deployed before the backend, but subscriptions remain unavailable until `apiUrl` in `docs/notifications/config.js` points to the deployed `subscription-api` function.
 
 1. Create a Supabase project and apply `supabase/migrations/202608090001_role_alerts.sql`.
 2. Deploy the three functions in `supabase/functions/`.
@@ -37,17 +37,17 @@ The signup interface can be deployed before the backend, but subscriptions will 
    - `RESEND_WEBHOOK_SECRET`
    - `MAIL_FROM`, such as `2027 Role Alerts <alerts@example.com>`
    - `MAILING_ADDRESS`, used in email footers
-   - `PUBLIC_SITE_URL`: `https://new-grad-and-internships-2027.pages.dev/notifications/`
+   - `PUBLIC_SITE_URL`: `https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/`
    - `SUBSCRIPTION_API_URL`, the deployed `subscription-api` URL used for one-click unsubscribe
    - `ALLOWED_ORIGINS`, a comma-separated allowlist containing the public site's origin
    - `MAGIC_LINK_SECRET`, at least 32 random characters
    - `INGEST_SECRET`, a separate random secret for GitHub Actions
    - `TURNSTILE_SECRET_KEY` if bot protection is enabled
 
-5. Add Cloudflare Pages build variables. The build command writes these public values into the deployed `config.js`; they are not secrets:
+5. Write these public values to `docs/notifications/config.js`; they are not secrets:
 
-   - `NOTIFICATION_PUBLIC_API_URL`: the deployed `subscription-api` URL
-   - `TURNSTILE_SITE_KEY`: the public Turnstile site key, if bot protection is enabled
+   - `apiUrl`: the deployed `subscription-api` URL
+   - `turnstileSiteKey`: the public Turnstile site key, if bot protection is enabled
 
 6. Add GitHub Actions repository secrets:
 

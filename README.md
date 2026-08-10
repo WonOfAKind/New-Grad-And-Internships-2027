@@ -19,7 +19,7 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-[Get company-specific email notifications](https://new-grad-and-internships-2027.pages.dev/notifications/)
+[Get company-specific email notifications](https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/)
 
 Last updated: August 9, 2026 at 4:31 PM EDT
 

@@ -247,6 +247,11 @@ async function init() {
     renderCompanies();
   });
   elements.submitSubscription.addEventListener("click", submitSubscription);
+  if (!config.apiUrl) {
+    elements.submitSubscription.disabled = true;
+    setMessage("Email alerts are temporarily unavailable while the secure backend is being connected.");
+    return;
+  }
   await setupTurnstile();
   await handleTokenAction();
 }

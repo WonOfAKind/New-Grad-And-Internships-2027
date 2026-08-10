@@ -93,6 +93,7 @@ input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgb(36 93 58 / 
 .account-actions { display: flex; flex-wrap: wrap; gap: 10px; }
 .account-actions a, .account-actions button { background: var(--accent); border: 0; border-radius: 999px; color: white; cursor: pointer; font-weight: 800; padding: 11px 17px; text-decoration: none; }
 footer { color: var(--muted); font-size: .82rem; line-height: 1.5; padding: 18px 4px; }
+footer a, .consent-row a { color: var(--accent); }
 
 @media (max-width: 640px) {
   .shell { width: min(100% - 20px, 960px); padding-top: 20px; }
