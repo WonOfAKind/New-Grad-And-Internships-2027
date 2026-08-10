@@ -42,41 +42,6 @@ export function htmlLinkHref(html, relName) {
   return cleanCompensationText(afterRel.exec(html)?.[1] ?? beforeRel.exec(html)?.[1] ?? "");
 }
 
-export function googleCareersUrl(baseUrl, href) {
-  const value = normalize(href);
-  if (!value) return "";
-  if (/^https?:\/\//i.test(value)) return value;
-  if (value.startsWith("/about/careers/")) return `https://www.google.com${value}`;
-  if (value.startsWith("jobs/results/")) return `https://www.google.com/about/careers/applications/${value}`;
-  return new URL(value, baseUrl).toString();
-}
-
-export function googleTitleFromHtml(html) {
-  const metaTitle = htmlAttributeContent(html, "og:title") || htmlAttributeContent(html, "twitter:title");
-  const title = metaTitle || cleanCompensationText(/<title>([\s\S]*?)<\/title>/i.exec(html)?.[1] ?? "");
-  return title.replace(/\s+(?:-|Ã¢â‚¬â€)\s+Google Careers$/i, "").trim();
-}
-
-export function googleDetailContent(html) {
-  const description = htmlAttributeContent(html, "description");
-  const start = html.search(/<h3>\s*Minimum qualifications/i);
-  const body = start >= 0
-    ? html.slice(start, Math.min(html.length, start + 35000))
-    : "";
-  return cleanCompensationText(`${description}\n${stripHtml(body)}`);
-}
-
-export function googleCardSummaries(baseUrl, html) {
-  return [...html.matchAll(/<a\s+class=["'][^"']*\bSi6A0c\b[^"']*["']\s+href=["']([^"']+)["']>([\s\S]*?)<\/a>/gi)]
-    .map((match) => {
-      const card = match[2] ?? "";
-      const title = cleanCompensationText(/<h3[^>]*>([\s\S]*?)<\/h3>/i.exec(card)?.[1] ?? "");
-      const location = cleanCompensationText(stripHtml(/<p[^>]*>([\s\S]*?)<\/p>/i.exec(card)?.[1] ?? ""));
-      return { title, location, url: googleCareersUrl(baseUrl, match[1]) };
-    })
-    .filter((job) => job.title && job.url);
-}
-
 export function googleJobToLead(source, job) {
   const title = normalize(job.title);
   const location = normalize(job.location);

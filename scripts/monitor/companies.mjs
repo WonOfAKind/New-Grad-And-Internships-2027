@@ -2,7 +2,6 @@ import { normalizeCompanyName } from "./domain.mjs";
 
 let metadata = { companies: [], recommendation_presets: [], featured_legend: "" };
 let byName = new Map();
-let byId = new Map();
 let presetById = new Map();
 let coverageByName = new Map();
 
@@ -77,7 +76,6 @@ export function configureCompanyMetadata(value = {}, targets = []) {
   }
   metadata = value;
   byName = new Map();
-  byId = new Map(value.companies.map((company) => [company.id, company]));
   presetById = new Map(presets.map((preset) => [preset.id, preset]));
   coverageByName = new Map((Array.isArray(targets) ? targets : []).map((target) => [
     normalizeCompanyName(target.company).toLowerCase(),
@@ -116,10 +114,6 @@ export function companyDetails(value) {
         featured_disciplines: [],
         featured: false,
       };
-}
-
-export function companyById(id) {
-  return byId.get(id) ?? null;
 }
 
 export function featuredLegend() {

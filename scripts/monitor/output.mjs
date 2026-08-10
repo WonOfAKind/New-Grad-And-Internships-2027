@@ -12,8 +12,6 @@ import {
   categorizeDisciplines,
   dateOnly,
   disciplineName,
-  isAllowedLocation,
-  isFreshEnough,
   keyFor,
   normalize,
   normalizeCompanyName,

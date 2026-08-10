@@ -131,7 +131,6 @@ async function submitSubscription() {
     const result = await api("request_subscription", {
       email,
       company_ids: [...state.selected],
-      preset_id: state.selectedPreset || null,
       turnstile_token: state.turnstileToken || null,
     });
     setMessage(result.message || "Check your inbox for a verification link.");

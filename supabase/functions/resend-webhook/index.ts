@@ -1,5 +1,14 @@
-import { Webhook } from "npm:svix@1";
+import { Webhook } from "svix";
 import { adminClient, json } from "../_shared/common.ts";
+
+type ResendWebhookPayload = {
+  type?: unknown;
+  data?: {
+    email_id?: unknown;
+    id?: unknown;
+  } | null;
+  [key: string]: unknown;
+};
 
 Deno.serve(async (req) => {
   if (req.method !== "POST") return json(req, { error: "Method not allowed" }, 405);
@@ -11,7 +20,7 @@ Deno.serve(async (req) => {
       "svix-id": req.headers.get("svix-id") ?? "",
       "svix-timestamp": req.headers.get("svix-timestamp") ?? "",
       "svix-signature": req.headers.get("svix-signature") ?? "",
-    }) as Record<string, any>;
+    }) as ResendWebhookPayload;
     const eventId = req.headers.get("svix-id") ?? crypto.randomUUID();
     const eventType = String(payload.type ?? "unknown");
     const providerId = String(payload.data?.email_id ?? payload.data?.id ?? "");

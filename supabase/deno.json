@@ -1,5 +1,9 @@
 {
   "nodeModulesDir": "auto",
+  "imports": {
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2",
+    "svix": "npm:svix@1"
+  },
   "compilerOptions": {
     "strict": true
   }

@@ -131,7 +131,7 @@ function splitMarkdownRow(line) {
   return line.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((cell) => cell.trim());
 }
 
-function headerIndex(headers, patterns, fallback = -1) {
+function headerIndex(headers, patterns) {
   return headers.findIndex((header) => patterns.some((pattern) => pattern.test(header)));
 }
 
@@ -221,9 +221,9 @@ export function parseMarkdownFeed(feed, markdown) {
     }
     const url = applyUrlFromFeedRow(line);
     if (!url || cells.length < 3) continue;
-    const companyIndex = headerIndex(headers, [/company/i], 0);
-    const titleIndex = headerIndex(headers, [/role/i, /title/i, /position/i], 1);
-    const locationIndex = headerIndex(headers, [/location/i, /office/i], 2);
+    const companyIndex = headerIndex(headers, [/company/i]);
+    const titleIndex = headerIndex(headers, [/role/i, /title/i, /position/i]);
+    const locationIndex = headerIndex(headers, [/location/i, /office/i]);
     const educationIndex = headerIndex(headers, [/education/i, /degree/i, /student/i]);
     let company = decodeFeedText(cells[companyIndex] ?? cells[0]);
     if (/^(?:↳|same|")/i.test(company) || !company) company = previousCompany;
@@ -261,7 +261,6 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
     url: seed.url,
   };
   const lead = htmlJobToLead(source, parsed);
-  const context = `${parsed.description ?? ""}\n${seed.education}\n${seed.season_hint}`;
   lead.company = seed.company;
   lead.role_title = normalizeRoleTitle(parsed.title) || seed.title;
   lead.location = normalize(parsed.location) || seed.location;
