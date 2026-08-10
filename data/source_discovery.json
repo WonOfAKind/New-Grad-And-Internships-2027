@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-10T16:33:47.849Z",
+  "updated_at": "2026-08-10T17:38:11.174Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2536,9 +2536,9 @@
         "limit": 20,
         "verified_open_jobs": 129
       },
-      "last_scan_at": "2026-08-10T15:20:45.429Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T17:38:11.174Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T15:20:45.429Z"
     },
     "qualtrics": {
@@ -4530,10 +4530,10 @@
         "limit": 20,
         "verified_open_jobs": 702
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T13:45:23.104Z"
+      "last_scan_at": "2026-08-10T17:38:11.174Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T17:38:11.174Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5362,9 +5362,9 @@
         "limit": 20,
         "verified_open_jobs": 359
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T17:38:11.174Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T16:33:47.849Z"
     },
     "draper": {
@@ -5556,9 +5556,9 @@
         "limit": 20,
         "verified_open_jobs": 236
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T17:38:11.174Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T16:33:47.849Z"
     },
     "michelin": {
@@ -5651,9 +5651,9 @@
         "limit": 20,
         "verified_open_jobs": 289
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T17:38:11.174Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T16:33:47.849Z"
     },
     "chevron": {
