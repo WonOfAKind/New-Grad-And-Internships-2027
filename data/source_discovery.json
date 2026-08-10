@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-10T18:34:49.792Z",
+  "updated_at": "2026-08-10T19:43:13.033Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,10 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-10T15:42:16.507Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:20:45.429Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -2343,9 +2343,9 @@
         "limit": 20,
         "verified_open_jobs": 320
       },
-      "last_scan_at": "2026-08-10T18:34:49.792Z",
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
+      "last_scan_error": "Workday workday scan timed out after 90000ms",
       "last_verified_at": "2026-08-10T14:47:19.111Z"
     },
     "cisco": {
@@ -2536,10 +2536,10 @@
         "limit": 20,
         "verified_open_jobs": 129
       },
-      "last_scan_at": "2026-08-10T17:38:11.174Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:20:45.429Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3392,10 +3392,10 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:20:45.429Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -4093,10 +4093,10 @@
         "limit": 20,
         "verified_open_jobs": 164
       },
-      "last_scan_at": "2026-08-10T16:33:47.849Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4530,10 +4530,10 @@
         "limit": 20,
         "verified_open_jobs": 702
       },
-      "last_scan_at": "2026-08-10T18:34:49.792Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-10T17:38:11.174Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5556,10 +5556,10 @@
         "limit": 20,
         "verified_open_jobs": 236
       },
-      "last_scan_at": "2026-08-10T17:38:11.174Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T16:33:47.849Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5651,10 +5651,10 @@
         "limit": 20,
         "verified_open_jobs": 289
       },
-      "last_scan_at": "2026-08-10T17:38:11.174Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T16:33:47.849Z"
+      "last_scan_at": "2026-08-10T19:43:13.033Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "chevron": {
       "company": "Chevron",
