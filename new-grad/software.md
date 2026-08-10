@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 11:42 AM EDT
+Last updated: August 10, 2026 at 12:33 PM EDT
 
-Current roles in this view: 255
+Current roles in this view: 256
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BlueHalo | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
 | Belvedere Trading | Quantitative Trader - Entry Level 2027 | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee>) |
 | Belvedere Trading | Software Engineer - Entry Level 2027 | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f>) |
 | Booz Allen Hamilton | Cybersecurity Test Engineer, Junior | Rome, NY | $55,200.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Test-Engineer--Junior_R0241650>) |
@@ -83,6 +84,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Software Developer - Junior (Team 01) | Washington, District of Columbia, US | $100,000 - $115,000 | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/software-developer-junior-team-01-washington-district-of-columbia-united-states-41731793-07c5-4f10-b6bf-15fd5e0f1ea2>) |
 | Amentum | Software Developer - Junior (Team 01) | Washington, District of Columbia, US | $100,000 - $115,000 | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/software-developer-junior-team-01-washington-district-of-columbia-united-states-ea113eae-04a2-48d5-885f-04984eca131f>) |
 | BAE Systems | Entry Level Software Engineer | San Diego, California, United States | - | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301511&partnerid=25771&siteid=5403>) |
+| BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Boeing | Software Engineer (Associate, Experienced or Senior) | USA - Daytona Beach, FL | $77,000.00 - $137,000.00 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/F-15-Software-Engineer--Associate--Experienced-or-Senior-_JR2026518220-1>) |
 | Cox Enterprises | Entry Level Software Engineer | Atlanta, GA | - | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | $65,800 - $98,800 | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561>) |
@@ -157,7 +159,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | New York, NY | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8>) |
 | 🔥 Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0>) |
 | 🔥 Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | First seen Jul 24, 2026 | [Apply](<https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8>) |
-| Peraton | Junior Cyber Software Engineer | CA | $86,000 - $138,000 | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-cyber-software-engineer-san-diego-california-165429-jobs--information-technology-->) |
 | Peraton | Junior Full Stack Software Developer / Top Secret | DC | $66,000 - $106,000 | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-full-stack-software-developer-top-secret-washington-d-c-165344-jobs--information-technology-->) |
 | Peraton | Junior Full Stack Software Engineer (DevSecOps) | VA | $80,000 - $128,000 | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-full-stack-software-engineer-dev-sec-ops-herndon-virginia-164735-jobs--information-technology-->) |
 | Prosidian Consulting | ITSM IT Security Engineer I | Washington, District of Columbia, United States | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974-itsm-it-security-engineer-i>) |
@@ -232,7 +233,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Aquatic | Quantitative Researcher, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002>) |
 | Aquatic | Software Engineer, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002>) |
-| Tower Research Capital | Quantitative Trader - 2027 | New York, NY; Chicago, IL | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
+| Tower Research Capital | Quantitative Trader - 2027 | New York, Chicago | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
 | Notion | Software Engineer, Early Career | San Francisco, California | $130,000 - $150,000 | Early career | Posted Jul 6, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |
 | Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US | - | Early career | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | - | Early career | Posted Jun 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2125556/apply>) |

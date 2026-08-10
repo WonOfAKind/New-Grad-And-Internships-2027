@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 11:42 AM EDT
+Last updated: August 10, 2026 at 12:33 PM EDT
 
 Current roles in this view: 234
 
@@ -208,7 +208,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | $10,500/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86>) |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL New York, NY | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334>) |
-| Tower Research Capital | Quantitative Trader Intern (Summer 2027) | New York, NY / Chicago, IL | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
+| Tower Research Capital | Quantitative Trader Intern - Summer 2027 | New York, Chicago | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | $8,000 - $12,000 | 2027 internship eligible | Posted Jun 27, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027>) |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Jun 18, 2026<br>First seen Aug 7, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441>) |
 | Campbell Soup Company | Data Engineer - Operational Support (Co-op) | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842>) |
@@ -231,7 +231,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | 🔥 Microsoft | Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students, Redmond | Redmond, WA, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556922929>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
-| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |

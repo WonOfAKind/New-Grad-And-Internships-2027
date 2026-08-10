@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 11:42 AM EDT
+Last updated: August 10, 2026 at 12:33 PM EDT
 
 Current roles in this view: 81
 
@@ -58,7 +58,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | 🔥 Microsoft | Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students, Redmond | Redmond, WA, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556922929>) |
 | TikTok | AI Product Design Intern (TikTok-Design) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667856128008702261>) |
-| TikTok | Design Engineering Intern - Design System &amp; AI Workflow - TikTok-Design - 2027 Summer | San Jose, CA | $30- $30/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667857406611343621>) |
+| TikTok | Design Engineering Intern (Design System &amp; AI Workflow - TikTok-Design) - 2027 Summer | San Jose, California, United States of America | $30- $30/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667857406611343621>) |
 | TikTok | ML Infra Engineer Intern (Ads Infra) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668881813744191749>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote (US) | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3>) |
@@ -69,7 +69,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bosch | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140462550-autonomous-driving-internship-in-machine-learning>) |
 | Nelnet | Intern Program - Agentic AI | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904>) |
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
-| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
