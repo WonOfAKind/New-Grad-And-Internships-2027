@@ -1,64 +1,34 @@
 {
-  "scanned_at": "2026-08-10T15:20:45.429Z",
+  "scanned_at": "2026-08-10T15:42:16.507Z",
   "fresh_leads": [
     {
-      "role_id": "a5fc31789a7f18893bb5bbe2",
-      "company_id": "vertiv",
-      "company": "Vertiv",
+      "role_id": "724c22566b98f2d806a27bf7",
+      "company_id": "amentum",
+      "company": "Amentum",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Electrical Engineering Intern (Summer 2027)",
-      "location": "Westerville, OH, United States",
-      "role_type": "Internship",
+      "title": "Electrical Engineer for Test Systems (early career)",
+      "location": "Huntsville, Alabama, US",
+      "role_type": "New Grad",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
         "hardware-electrical"
       ],
       "specialties": [
+        "test-validation",
         "hardware-electronics"
       ],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278711",
-      "source": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278711",
-      "date_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "posted_at": "2026-08-10",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "vertiv|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-10T15:20:18.299Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c676c31102d3478aff848311",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Junior Scene Generation Engineer",
-      "location": "Huntsville, AL",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
       "compensation": "",
       "grad_window": "Early career",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
-      "source": "https://bluehalo.com/careers/",
+      "url": "https://www.amentumcareers.com/jobs/electrical-engineer-for-test-systems-early-career-huntsville-alabama-united-states-664cb626-3882-4631-a267-8828ce966725",
+      "source": "https://www.amentumcareers.com/",
       "date_seen": "2026-08-10",
       "last_seen": "2026-08-10",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "Posted 5 Days Ago",
-      "source_id": "bluehalo|workday",
-      "source_adapter": "workday",
+      "posted_at": "2026-07-28",
+      "expires_at": "2026-11-08",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -66,13 +36,13 @@
       "priority": "P0"
     },
     {
-      "role_id": "ea038b55ed8bd33dea929a8f",
-      "company_id": "moog",
-      "company": "Moog",
+      "role_id": "174f54b6be490c2fb349f886",
+      "company_id": "amentum",
+      "company": "Amentum",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Electronics Design Engineer I",
-      "location": "Johnson City, TN",
+      "title": "Junior Electrical Engineer",
+      "location": "McLean, Virginia, US",
       "role_type": "New Grad",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
@@ -81,117 +51,455 @@
       "specialties": [
         "hardware-electronics"
       ],
-      "compensation": "$75,000.00 - $100,000.00 Annually",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
-      "source": "https://www.moog.com/careers.html",
+      "compensation": "$90,000 - $110,000",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/junior-electrical-engineer-mclean-virginia-united-states",
+      "source": "https://www.amentumcareers.com/",
       "date_seen": "2026-08-10",
       "last_seen": "2026-08-10",
-      "posted_at": "2026-07-16",
-      "expires_at": "",
-      "updated_at": "Posted 25 Days Ago",
-      "source_id": "moog|workday",
-      "source_adapter": "workday",
+      "posted_at": "2026-08-03",
+      "expires_at": "2026-11-08",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
-      "priority": "P1"
+      "priority": "P0"
     },
     {
-      "role_id": "b075a028fa9908258b785e3b",
-      "company_id": "intel",
-      "company": "Intel",
-      "featured_company": true,
-      "featured_disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "title": "Module Engineering - Day Shift 5 or 7",
-      "location": "US, Arizona, Phoenix",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$85,200.00-162,500.00 USD",
-      "grad_window": "Explicit new grad role",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0285727",
-      "source": "https://jobs.intel.com/en/search-jobs",
-      "date_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "posted_at": "2026-07-21",
-      "expires_at": "",
-      "updated_at": "Posted 20 Days Ago",
-      "source_id": "intel|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "a4bb8e55859582bdc60288d6",
-      "company_id": "intel",
-      "company": "Intel",
-      "featured_company": true,
-      "featured_disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "title": "Module Development Engineer",
-      "location": "US, Oregon, Hillsboro",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$133,800.00-188,890.00 USD",
-      "grad_window": "Explicit new grad role",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0285576",
-      "source": "https://jobs.intel.com/en/search-jobs",
-      "date_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "posted_at": "2026-07-22",
-      "expires_at": "",
-      "updated_at": "Posted 19 Days Ago",
-      "source_id": "intel|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "da60ab0dd4a88bd7eb7cc834",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
+      "role_id": "2827c42c28d943e65594375a",
+      "company_id": "maxar",
+      "company": "Maxar",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Software QA Automation Engineer I",
-      "location": "Moorpark, CA",
+      "title": "GIS Engineer (Jr)",
+      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
       "role_type": "New Grad",
-      "discipline": "Software Engineering",
+      "discipline": "AI / Machine Learning",
       "disciplines": [
-        "software"
+        "ai-ml"
       ],
       "specialties": [],
-      "compensation": "$82,000 - $125,000",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "source": "https://bluehalo.com/careers/",
+      "compensation": "$67,000.00 - $111,000.00 annually",
+      "grad_window": "Early career",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "source": "https://www.maxar.com/careers",
       "date_seen": "2026-08-10",
       "last_seen": "2026-08-10",
       "posted_at": "",
       "expires_at": "",
       "updated_at": "Posted 30+ Days Ago",
-      "source_id": "bluehalo|workday",
+      "source_id": "maxar|workday",
       "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "788804beab2be91ee75a7d08",
+      "company_id": "kbr",
+      "company": "KBR",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate DevOps Engineer",
+      "location": "Colorado Springs, Colorado",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Associate-DevOps-Engineer_R2125617/apply",
+      "source": "https://careers.kbr.com/",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-07-13",
+      "expires_at": "",
+      "updated_at": "2026-07-14T00:00:00.000+0000",
+      "source_id": "kbr|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "2ed5f701df23b64c2cc8adc9",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "03ebec725aa6b63fb3c3e84d",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "bb6eb605db9866de15fec1eb",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "8fb84fd143e51f19ed595a5b",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000244",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "41d718516d07aad3d3210688",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000245-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "538fda4e46fc3dd3d92e97b7",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "f82f3405365b562364115df4",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000241",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "deca41ace03e8b0208c806ad",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-03",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "5c62f90db1cefa4578c192cd",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000251-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "Posted 4 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "d1409adb5d4933197747c702",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Equipment/Automation Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000250-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "Posted 4 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "2f48f96fd66ba9025a62db34",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Instrumentation/Automation Service Engineer I - OS",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "Posted 4 Days Ago",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "da2bc434f97fb4f851a03d53",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Electrical Engineer 1",
+      "location": "Millersburg, Pennsylvania, Stati Uniti d'America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing",
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "source": "https://jobs.thermofisher.com/global/en",
+      "date_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "posted_at": "2026-07-31",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -201,39 +509,15 @@
   ],
   "removed_roles": [
     {
-      "company": "MIT Lincoln Laboratory",
-      "title": "98: Associate Staff Quantum Science and Engineering (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-98-Associate-Staff-Quantum-Science-and-Engineering-MA-02420/1393869100",
+      "company": "BlueHalo",
+      "title": "Software QA Automation Engineer I",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Communications & Networks Systems Development Engineer-Associate Staff (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Communications-&-Networks-Systems-Development-Engineer-Associate-Staff-MA-02420/1391390000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Programmer 2 - Software Developer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Programmer-2-Software-Developer-MA-02420/1360197800",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Software Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1325443200",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Software Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1372428600",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Software Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1389760000",
+      "company": "BlueHalo",
+      "title": "Junior Scene Generation Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -255,117 +539,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "AI/ML Engineering (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineering-MA-02420/1387019000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "AI/ML Engineer for Multidisciplinary Engineering Design-Associate Staff (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-for-Multidisciplinary-Engineering-Design-Associate-Staff-MA-02420/1386765200",
-      "reason": "missing from authoritative source"
-    },
-    {
       "company": "Peraton",
       "title": "Artificial Intelligence/Machine Learning (AI/ML) Engineer 1",
       "url": "https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-laurel-maryland-166876-jobs--cms-scientific-research-analysis--",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Data Analyst (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Data-Analyst-MA-02420/1366995800",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Data Scientist (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Data-Scientist-MA-02420/1325441000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Straylight Analysis (Optical Engineering Group) (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Straylight-Analysis-%28Optical-Engineering-Group%29-MA-02420/1409269700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Computer Engineer Development of RF and Digital Systems (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Computer-Engineer-Development-of-RF-and-Digital-Systems-MA-02420/1399308800",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Computer Engineer Development of RF and Digital Systems (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Computer-Engineer-Development-of-RF-and-Digital-Systems-MA-02420/1398141700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Electrical Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-MA-02420/1370020900",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Materials Microelectronics Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Materials-Microelectronics-Engineer-MA-02420/1399944700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Photonics Nanofabrication Process Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Photonics-Nanofabrication-Process-Engineer-MA-02420/1406676600",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Photonics Test Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Photonics-Test-Engineer-MA-02420/1406676700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "RF Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-RF-Engineer-MA-02420/1386364700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Wide Bandgap Semiconductor Device and Process Integration Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Wide-Bandgap-Semiconductor-Device-and-Process-Integration-Engineer-MA-02420/1384845200",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Embedded Systems Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Embedded-Systems-Engineer-MA-02420/1365837800",
-      "reason": "missing from authoritative source"
-    },
-    {
-      "company": "RTX",
-      "title": "Systems Engineer, Hardware Test Engineer Onsite",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Systems-Engineer--Hardware-Test-Engineer-Onsite_01865235/apply",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Studies",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Thermo Fisher Scientific",
-      "title": "Manufacturing Electrical Engineer 1",
-      "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -381,6 +563,18 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Intel",
+      "title": "Module Development Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0285576",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Moog",
+      "title": "Electronics Design Engineer I",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Boston Scientific",
       "title": "R&D Engineer I (Maple Grove, MN, US, 55311)",
       "url": "https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1416902200",
@@ -390,12 +584,6 @@
       "company": "GE Aerospace",
       "title": "Mechanical Design Engineer – Next Generation Products",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5038077-1/apply",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "RTX",
-      "title": "Mechanical Engineer I",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Mechanical-Engineer-I_01865471/apply",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -411,40 +599,10 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Engineering (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Engineering-MA-02420/1389268400",
+      "company": "Intel",
+      "title": "Module Engineering - Day Shift 5 or 7",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0285727",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Engineering-Associate Staff (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Engineering-Associate-Staff-MA-02420/1381640200",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Systems Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Engineer-MA-02420/1378246700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Aerospace Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Aerospace-Engineer-MA-02420/1393850400",
-      "reason": "missing from authoritative source"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Space Systems Engineer (EMI/EMC/Radiation Analysis (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Space-Systems-Engineer-%28EMIEMCRadiation-Analysis-MA-02420/1365837500",
-      "reason": "missing from authoritative source"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Space Systems Researcher / Engineer - Analysis and Test Group (Associate Staff) (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Space-Systems-Researcher-Engineer-Analysis-and-Test-Group-%28Associate-Staff%29-MA-02420/1396400900",
-      "reason": "missing from authoritative source"
     },
     {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -489,42 +647,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Spirit AeroSystems",
-      "title": "Spirit Defense - Associate Tool Engineer",
-      "url": "https://careers.spiritaero.com/jobs/16605",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Nanofabrication Process Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Nanofabrication-Process-Engineer-MA-02420/1405039300",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Nanofabrication Process Engineer (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Nanofabrication-Process-Engineer-MA-02420/1322279100",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "MIT Lincoln Laboratory",
-      "title": "Associate Staff - Fabrication & Process Quality Engineer (Fabrication Engineering Group) (Lexington, MA, US)",
-      "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Fabrication-&-Process-Quality-Engineer-%28Fabrication-Engineering-Group%29-MA-02420/1411553900",
-      "reason": "missing from authoritative source"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000251-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000250-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "GE Aerospace",
       "title": "Process Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Wilmington-NC-USA/Process-Engineer_R5037528-1/apply",
@@ -534,54 +656,6 @@
       "company": "Spirit AeroSystems",
       "title": "Industrial Engineer (Associate or Mid-Level)",
       "url": "https://careers.spiritaero.com/jobs/17014",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000244",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000245-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000241",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -609,12 +683,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Curtiss-Wright",
-      "title": "Associate Engineer - Quality and Calibration",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "DuPont",
       "title": "Administrative Specialist- Early Career & Engineering Programs",
       "url": "https://careers.dupont.com/tw/zh/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs",
@@ -639,12 +707,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Abbott",
-      "title": "Instrumentation/Automation Service Engineer I - OS",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Comcast",
       "title": "Engineer 1, Installation-Managed Enterprise Services",
       "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298",
@@ -654,12 +716,6 @@
       "company": "Spirit AeroSystems",
       "title": "Spirit Defense - Advanced Product Development & Research Engineering Technical Analyst (Associate or Mid-level)",
       "url": "https://careers.spiritaero.com/jobs/16923",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Bechtel",
-      "title": "Assistant Resident Engineer - Cost Verification",
-      "url": "https://jobs.bechtel.com/us/en/job/BCFBCKUS296116EXTERNALENUS/Assistant-Resident-Engineer-Cost-Verification",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -720,8 +776,10 @@
       "company": "Databricks",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "databricks|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 307,
       "phase": "fast-pass"
     },
     {
@@ -758,8 +816,10 @@
       "company": "Palantir",
       "adapter": "lever",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 30000ms",
+      "source_id": "palantir|lever",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 173,
       "phase": "fast-pass"
     },
     {
@@ -825,16 +885,20 @@
       "company": "OpenAI",
       "adapter": "ashby",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "openai|ashby",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 253,
       "phase": "fast-pass"
     },
     {
       "company": "Perplexity",
       "adapter": "ashby",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "perplexity|ashby",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 39,
       "phase": "fast-pass"
     },
     {
@@ -954,7 +1018,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 50,
+      "matches": 49,
       "phase": "fast-pass"
     },
     {
@@ -1212,7 +1276,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 58,
+      "matches": 57,
       "phase": "fast-pass"
     },
     {
@@ -1222,7 +1286,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 193,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -1252,7 +1316,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1325,17 +1389,11 @@
       "company": "Amentum",
       "adapter": "sitemap_jobs",
       "source_kind": "configured",
-      "status": "error",
-      "error": "Amentum sitemap_jobs returned zero matches; retry requested",
+      "source_id": "amentum|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 8,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Amentum",
-      "adapter": "sitemap_jobs",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "Amentum sitemap_jobs returned zero matches after retry",
-      "phase": "double-check"
     },
     {
       "company": "Peraton",
@@ -1354,7 +1412,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 85,
+      "matches": 90,
       "phase": "fast-pass"
     },
     {
@@ -1471,11 +1529,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1681,11 +1745,19 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1791,8 +1863,10 @@
       "company": "Shield AI",
       "adapter": "lever",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "shield ai|lever",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 125,
       "phase": "fast-pass"
     },
     {
@@ -1879,11 +1953,17 @@
       "company": "Intel",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "intel|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 4,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Intel",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "520 <none>",
+      "phase": "double-check"
     },
     {
       "company": "Qualcomm",
@@ -2070,7 +2150,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -2496,7 +2576,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 15000ms",
+      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -2543,17 +2623,11 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Maxar",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2700,23 +2774,15 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Boeing workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Boeing",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Ford",
       "adapter": "oracle",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "Ford oracle scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -2743,16 +2809,20 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Axiom Space workday scan timed out after 90000ms",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "red hat|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2760,15 +2830,17 @@
       "adapter": "oracle",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "Cummins oracle scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
       "company": "Toyota Motor North America",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "toyota motor north america|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2795,16 +2867,20 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "carrier|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -2814,15 +2890,17 @@
       "source_id": "trane technologies|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2830,23 +2908,35 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Stryker",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Abbott",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "abbott|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
       "company": "Bechtel",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Bechtel sitemap_jobs scan timed out after 90000ms",
+      "source_id": "bechtel|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -2856,7 +2946,7 @@
       "source_id": "black & veatch|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 17,
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -2874,7 +2964,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -2891,8 +2981,10 @@
       "company": "Thermo Fisher Scientific",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 7000ms",
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2910,7 +3002,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 7000ms",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -2927,11 +3019,17 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 6,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "BlueHalo",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2975,35 +3073,35 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-10T15:20:45.429Z",
-    "elapsed_ms": 408977,
+    "scanned_at": "2026-08-10T15:42:16.507Z",
+    "elapsed_ms": 365459,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 229,
     "discovered_sources_active": 153,
     "discovered_companies_active": 153,
-    "companies_with_active_sources": 200,
+    "companies_with_active_sources": 213,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4077,
+      "rows_parsed": 4072,
       "official_candidates": 1433,
-      "cached_verifications": 503,
+      "cached_verifications": 500,
       "reverify_hours": 24,
-      "verification_attempts": 930,
-      "verification_successes": 201,
+      "verification_attempts": 933,
+      "verification_successes": 203,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1287,
-        "untracked discipline": 632,
+        "untracked discipline": 628,
         "graduate-degree-only role": 87,
-        "excluded recruiting year": 160,
+        "excluded recruiting year": 161,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
         "verification: 405 Not Allowed": 31,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 321,
-        "verification: official page has an excluded recruiting year": 88,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 320,
+        "verification: official page has an excluded recruiting year": 92,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: provider requisition is no longer listed": 66,
@@ -3017,13 +3115,12 @@
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
         "verification: 410 Gone": 2,
-        "verification: official provider verification unavailable: 403 Forbidden": 1,
-        "verification: official provider verification unavailable: request timed out after 12000ms": 2
+        "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 9,
-    "discovery_new_sources_this_scan": 9,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 167,
@@ -3033,31 +3130,31 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 8,
+    "double_check_attempts": 10,
     "unique_sources_attempted": 229,
-    "total_fetch_attempts": 237,
-    "ok_sources": 200,
-    "error_sources": 28,
+    "total_fetch_attempts": 239,
+    "ok_sources": 213,
+    "error_sources": 15,
     "blocked_sources": 1,
-    "ats_ok_sources": 66,
-    "ats_error_sources": 9,
+    "ats_ok_sources": 71,
+    "ats_error_sources": 4,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 86.8,
+    "ats_success_percent": 93.4,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 21,
-      "429 Too Many Requests": 6,
-      "Amentum sitemap_jobs returned zero matches after retry": 1
+      "429 Too Many Requests": 7,
+      "520 HTTP Error": 1,
+      "Request Timeout": 7
     },
-    "board_eligible_candidates": 907,
-    "provider_candidate_checks": 119,
+    "board_eligible_candidates": 963,
+    "provider_candidate_checks": 165,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 154,
-    "inactive_provider_checks": 137,
-    "inactive_provider_closed": 1,
+    "closure_checks": 130,
+    "inactive_provider_checks": 113,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 79,
+    "closed_roles_removed": 37,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

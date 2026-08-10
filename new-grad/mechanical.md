@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 11:20 AM EDT
+Last updated: August 10, 2026 at 11:42 AM EDT
 
-Current roles in this view: 45
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -34,7 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Whirlpool | Associate Product Development Engineer - KitchenAid | St Joseph, MI, US | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<http://jobs.whirlpool.com/careers/job/34403304336-associate-product-development-engineer-kitchenaid-st-joseph-michigan-usa>) |
 | 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
-| Intel | Module Engineering - Day Shift 5 or 7 | US, Arizona, Phoenix | $85,200.00-162,500.00 USD | Explicit new grad role | Posted Jul 21, 2026<br>First seen Aug 10, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0285727>) |
 | Black &amp; Veatch | Associate Mechanical Engineer - Industrial Buildings and Utility Systems | Atlanta, GA, US | - | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Engineer-Industrial-Buildings-and-Utility-Systems-KS-66062/1378645133>) |
 | Bechtel | Mechanical Engineer | United States; Phoenix, Arizona, United States | - | Explicit new grad role | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296085EXTERNALENUS/Mechanical-Engineer>) |
 | 🔥 Boeing | 2nd or 3rd Shift - Entry-Level Product Review Engineer (Liaison Engineering) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/XMLNAME-2nd-or-3rd-Shift---Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026512420>) |
@@ -53,7 +52,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | Huntsville, Alabama, US | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/structural-engineer-for-liquid-propulsion-systems-early-career-es2-huntsville-alabama-united-states-fbebac79-5ace-400b-bb9b-7d0c96e35709>) |
 | Spirit AeroSystems | Associate Material Review Engineer | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17180>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
-| 🔥 Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 13, 2026<br>First seen Aug 10, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
+| 🔥 Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 | Amentum | Early Career Structural Engineer | Oak Ridge, Tennessee, US | $61,000 - $86,000 | Early career | Posted Jul 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-engineer-oak-ridge-tennessee-united-states-818050e2-ba28-41fa-80a4-18c41d1721de>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
 | Spirit AeroSystems | Structural Analysis Engineer (Associate, Mid-level, or Senior) | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted May 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16677>) |

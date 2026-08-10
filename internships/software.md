@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 11:20 AM EDT
+Last updated: August 10, 2026 at 11:42 AM EDT
 
 Current roles in this view: 234
 
@@ -54,7 +54,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Susquehanna International Group | Quantitative Strategy Developer Intern (Summer 2027, June start) | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://careers.sig.com/jobs/10838>) |
 | TikTok | Backend Software Engineer Intern (Creation Platform) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670289874020993285>) |
 | TikTok | Backend Software Engineer Intern (TikTok-PGC-Creator Strategy) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667933770819897605>) |
-| TikTok | Data Engineering Project Intern - Ads Targeting - 2027 Start | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
+| TikTok | Data Engineering Project Intern (Ads Targeting) - 2027 Start | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
 | TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670738362521520437>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670700387322300677>) |
@@ -190,9 +190,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Point72 | Quantitative Researcher Intern | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
 | Manhattan Associates | A.I. Developer Co-Op (Boston, MA) | US - Home Office | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://manh.wd5.myworkdayjobs.com/Campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931>) |
-| 🔥 Palantir | Software Engineer Intern, Defense Tech (Summer 2027, grad 2028) | Washington, DC (multiple US) | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7>) |
 | 🔥 Palantir | Software Engineer, Internship | Denver, CO | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249>) |
 | 🔥 Palantir | Software Engineer, Internship - Defense Tech | New York, NY | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e>) |
+| 🔥 Palantir | Software Engineer, Internship - Defense Tech | Washington, D.C. | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7>) |
 | 🔥 Palantir | Software Engineer, Internship - Infrastructure | New York, NY | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3>) |
 | 🔥 Palantir | Software Engineer, Internship - Production Infrastructure | Seattle, WA | $10,500/month | 2027 internship eligible | Posted Jul 9, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1>) |
 | 🔥 Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | $10,000/month | 2027 internship eligible | Posted Jul 8, 2026<br>First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f>) |
