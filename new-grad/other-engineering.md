@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 10:47 AM EDT
+Last updated: August 10, 2026 at 11:20 AM EDT
 
-Current roles in this view: 24
+Current roles in this view: 22
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Black &amp; Veatch | Water Distribution System Associate Hydraulic Engineer | Cary, NC, US | - | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Dallas-Water-Distribution-System-Associate-Hydraulic-Engineer-TX-75201/1384721633>) |
+| Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |
 | Burns &amp; McDonnell | Assistant Civilmechanical Engineer Transmission Chicago | Chicago, IL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/chicago-il/assistant-civilmechanical-engineer-transmission-chicago/D814FD9647CB4189BF48A93C33C75FCC/job>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Onsite Energy Power Raleigh | Raleigh, NC | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/raleigh-nc/assistant-structural-engineer-onsite-energy-power-raleigh/517FFED3A7AF4C778FD04F885BEE653C/job>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Power Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-structural-engineer-power-kansas-city/4169B8BF79C7446C9D67E59D4D409B7B/job>) |
@@ -25,7 +25,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Leidos | Junior Manual Test Engineer | Annapolis Junction, MD | $69,550.00 - $125,725.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.dupont.com/cz/cz/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.dupont.com/us/en/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
-| Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257>) |
 | Comcast | Engineer 1, Installation-Managed Enterprise Services | IL - Naperville, 1415 W Diehl Rd Ste 5; CO - Denver, 8000 E Iliff Ave | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298>) |
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
@@ -34,6 +33,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Spirit AeroSystems | Spirit Defense - Advanced Product Development &amp; Research Engineering Technical Analyst (Associate or Mid-level) | Wichita, Kansas, United States | $67,150 - $103,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16923>) |
 | Bechtel | Structural Engineer | United States | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS295633EXTERNALENUS/Structural-Engineer>) |
-| Bechtel | Assistant Resident Engineer - Cost Verification | San Jose, California, United States | - | Early career | Posted Jul 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296116EXTERNALENUS/Assistant-Resident-Engineer-Cost-Verification>) |
 | Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US | - | Early career | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |
 

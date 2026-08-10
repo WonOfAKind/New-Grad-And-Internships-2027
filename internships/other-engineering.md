@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 10:47 AM EDT
+Last updated: August 10, 2026 at 11:20 AM EDT
 
-Current roles in this view: 28
+Current roles in this view: 29
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
+| Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
 | CNO Financial Group | Endpoint Engineering Intern (Remote) | Carmel, IN | - | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Endpoint-Engineering-Intern---REMOTE_JR170379>) |
 | Leidos | Engineering Intern | Huntsville, AL | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036>) |
 | Becton Dickinson | Controls Tech Intern | USA NE - Columbus (West) | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-552429>) |

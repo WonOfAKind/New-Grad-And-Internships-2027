@@ -189,6 +189,41 @@ export async function runSelfTests() {
     "Bachelor-eligible BS/MS graduate role accepted",
   );
   assertEqual(
+    isEligibleRole("Software Engineer, New Grad", "Minimum Qualifications: Master's degree in Computer Science."),
+    false,
+    "graduate-degree-only minimum qualification rejected",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, New Grad", "Requirements: M.S. in Computer Science, or B.S. with 3 years of experience."),
+    false,
+    "experienced bachelor's substitute is not a new-grad bachelor's path",
+  );
+  assertEqual(
+    isEligibleRole("Communications Engineer-Associate Staff", "Minimum Qualifications: M.S. in Electrical Engineering. In lieu of an M.S., a B.S. with 2+ years of directly relevant experience is acceptable."),
+    false,
+    "punctuated bachelor's acronym with required experience is rejected",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, New Grad", "Requirements: M.S. in Computer Science, or B.S. in Computer Science."),
+    true,
+    "bachelor's-or-master's requirement without added experience accepted",
+  );
+  assertEqual(
+    isEligibleRole("Software Engineer, New Grad", "Requirements: Bachelor's degree in Computer Science. Master's degree preferred."),
+    true,
+    "preferred master's degree does not override required bachelor's eligibility",
+  );
+  assertEqual(
+    isEligibleRole("Associate Staff - Aerospace Engineer", "Requirements: M.S. in Aerospace Engineering. Candidates with a B.S. degree and three years' experience will also be considered. Recent Graduate Hiring Range: $100,000-$120,000."),
+    false,
+    "associate-staff role requiring a graduate degree or experienced bachelor's candidate rejected",
+  );
+  assertEqual(
+    isEligibleRole("Data Analyst", "Requirements: Bachelor's degree in a technical field. Recent Graduate Hiring Range: $100,000-$120,000."),
+    false,
+    "recent-graduate salary band alone is not new-grad eligibility evidence",
+  );
+  assertEqual(
     isEligibleRole("Quantitative Research Intern (PhD) - Summer 2027", ""),
     false,
     "PhD internship false positive",
@@ -720,6 +755,13 @@ export async function runSelfTests() {
     "2026-07-13T12:00:00Z",
   );
   assertEqual(lifecycle.roles.length, 0, "authoritative source removes missing role");
+  const rssLifecycle = await reconcileRoleLifecycle(
+    [{ ...lifecycleRole, source_adapter: "rss_jobs", source_id: "example|rss_jobs" }],
+    [],
+    [{ source: { company: "Example", adapter: "rss_jobs" }, leads: [], log: { status: "ok" } }],
+    "2026-07-13T12:00:00Z",
+  );
+  assertEqual(rssLifecycle.roles.length, 0, "complete RSS source removes a cached role rejected by current policy");
   const feedClosedLifecycle = await reconcileRoleLifecycle(
     [{ ...lifecycleRole, source_adapter: "discovery_feed" }],
     [],
@@ -885,7 +927,7 @@ export async function runSelfTests() {
 
   const rssJobs = parseRssJobs(`
     <rss xmlns:g="http://base.google.com/ns/1.0"><channel><item>
-      <title>Associate Staff - Aerospace Engineer</title>
+      <title>Aerospace Engineer</title>
       <description><![CDATA[&lt;p&gt;Recent Graduate Hiring Range: $90,000 - $110,000.&lt;/p&gt;]]></description>
       <link>https://example.com/job/aerospace-engineer/123</link>
       <g:expiration_date>2026-09-30</g:expiration_date>
@@ -893,7 +935,11 @@ export async function runSelfTests() {
     </item></channel></rss>`);
   assertEqual(rssJobs.length, 1, "RSS job parsed");
   assertEqual(rssJobs[0].location, "Lexington, MA, US", "RSS location parsed");
-  assertTruthy(isEligibleRole(rssJobs[0].title, rssJobs[0].description), "RSS recent-graduate evidence retained");
+  assertEqual(
+    isEligibleRole(rssJobs[0].title, rssJobs[0].description),
+    false,
+    "RSS recent-graduate salary band is not eligibility evidence",
+  );
 
   const oracleSource = { company: "Example", baseUrl: "https://example.fa.oraclecloud.com", siteNumber: "CX_1", priority: "P0" };
   const oracleShape = oracleJobToHtmlShape(oracleSource, {

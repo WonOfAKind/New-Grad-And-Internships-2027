@@ -21,7 +21,11 @@ import {
 
 export { closedPageReason } from "./official_page.mjs";
 
-const authoritativeAdapters = new Set(["greenhouse", "lever", "ashby", "tesla"]);
+// These adapters enumerate a company's complete official job collection. If a
+// successful scan omits a cached role, the posting is either gone or no longer
+// passes the board policy and must not be retained merely because its page is
+// still live.
+const authoritativeAdapters = new Set(["greenhouse", "lever", "ashby", "tesla", "rss_jobs"]);
 export function sourceIdFor(source) {
   return `${normalize(source.company).toLowerCase()}|${normalize(source.adapter).toLowerCase()}`;
 }

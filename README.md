@@ -21,15 +21,15 @@ This board is generated from official company career pages and ATS pages where p
 
 [Get company-specific email notifications](https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/)
 
-Last updated: August 10, 2026 at 10:47 AM EDT
+Last updated: August 10, 2026 at 11:20 AM EDT
 
 Companies in registry: 450
 
-Companies successfully scanned: 215
+Companies successfully scanned: 200
 
-Current roles: 931
+Current roles: 890
 
-Fresh roles this scan: 5
+Fresh roles this scan: 6
 
 Structured sources active: 229
 
@@ -39,8 +39,8 @@ Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 481 roles
-- [Internship Roles](INTERNSHIPS.md): 450 roles
+- [New Grad Roles](NEW_GRAD.md): 439 roles
+- [Internship Roles](INTERNSHIPS.md): 451 roles
 
 ## Data Files
 

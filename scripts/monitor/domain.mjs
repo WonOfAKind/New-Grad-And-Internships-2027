@@ -55,6 +55,10 @@ export function withoutSyntheticCycleEvidence(value) {
   return normalize(value)
     .replace(/\b2027\s+new\s+grad\s+recruiting\s+cycle\b/gi, " ")
     .replace(/\b2027\s+internship\s+cycle\b/gi, " ")
+    // Some employers publish separate salary bands labelled "Recent Graduate
+    // Hiring Range" and "Experienced Hiring Range" on every requisition. The
+    // salary label is not evidence that the role accepts recent graduates.
+    .replace(/\brecent\s+graduate\s+hiring\s+range\b/gi, "hiring range")
     .replace(/[ \t]+/g, " ")
     .replace(/\n{3,}/g, "\n\n")
     .trim();
@@ -272,6 +276,85 @@ export function hasExcludedDegreeProgram(title) {
   return excludedDegreeProgramPatterns.some((pattern) => pattern.test(title)) && !hasBachelorEligibility;
 }
 
+const bachelorDegreeToken = String.raw`(?:bachelor(?:'s|\s+of\s+(?:science|arts|engineering))?(?:\s+degree)?|baccalaureate(?:\s+degree)?|B\.?\s?(?:S|A|E)\.?(?:\s+degree)?)`;
+const graduateDegreeToken = String.raw`(?:master(?:'s|\s+of\s+(?:science|arts|engineering|business\s+administration))?(?:\s+degree)?|M\.?\s?(?:S|A|E|B\.?\s?A)\.?(?:\s+degree)?|Ph\.?\s?D\.?(?:\s+degree)?|doctorate|doctoral\s+degree)`;
+const experienceNumberToken = String.raw`(?:\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)`;
+
+function qualificationRequirementText(value) {
+  const text = normalize(value).replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
+  if (!text) return "";
+  const headingPattern = /\b(?:Minimum\s+(?:Qualifications?|Requirements?)|Required\s+(?:Qualifications?|Requirements?)|Basic\s+(?:Qualifications?|Requirements?)|Job\s+Requirements?|Requirements?|Education)\b/g;
+  const stops = /\b(?:Preferred\s+(?:Qualifications?|Requirements?|Skills?)|Desired\s+(?:Qualifications?|Requirements?|Skills?)|Recent\s+Graduate\s+Hiring\s+Range|Experienced\s+Hiring\s+Range|Disclaimer)\b/;
+  const starts = [...text.matchAll(headingPattern)].map((match) => match.index).filter((index) => index !== undefined);
+  if (starts.length === 0) return text;
+  return starts.map((start) => {
+    const window = text.slice(start, start + 2400);
+    const stop = window.search(stops);
+    return stop < 0 ? window : window.slice(0, stop);
+  }).join(" ");
+}
+
+function requiredExperienceYears(value) {
+  const yearsByNumber = new Map([
+    ["one", 1], ["two", 2], ["three", 3], ["four", 4], ["five", 5],
+    ["six", 6], ["seven", 7], ["eight", 8], ["nine", 9], ["ten", 10],
+  ]);
+  const toYears = (value) => Number(value) || yearsByNumber.get(String(value).toLowerCase()) || 0;
+  const beforeExperience = new RegExp(
+    `\\b(${experienceNumberToken})(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?(?:['\\u2019])?\\s+(?:of\\s+)?(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
+    "gi",
+  );
+  const afterExperience = new RegExp(
+    `\\bexperience\\b(?:\\s+(?:with|in|using|developing|working|related|of|as|and|or|\\([^)]{0,80})){0,8}[^.;:]{0,100}?\\(?(${experienceNumberToken})(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?))?\\s+years?`,
+    "gi",
+  );
+  return [
+    ...[...value.matchAll(beforeExperience)].map((match) => toYears(match[1])),
+    ...[...value.matchAll(afterExperience)].map((match) => toYears(match[1])),
+  ];
+}
+
+/**
+ * Rejects qualification text whose zero-experience education path requires a
+ * graduate degree. A plain bachelor's-or-master's choice remains eligible,
+ * while "master's, or bachelor's plus experience" does not qualify a new
+ * bachelor's graduate.
+ */
+export function hasIneligibleBachelorNewGradRequirements(text = "") {
+  const requirements = qualificationRequirementText(text);
+  if (!requirements) return false;
+
+  const requiredYears = requiredExperienceYears(requirements);
+  if (requiredYears.some((years) => years >= 3)) return true;
+
+  const preferencePattern = new RegExp(
+    `(?:${graduateDegreeToken})[^.;]{0,100}\\b(?:preferred|desired|a\\s+plus|advantage|not\\s+required)\\b|\\b(?:preferred|desired|preference|a\\s+plus)\\b[^.;]{0,100}(?:${graduateDegreeToken})`,
+    "gi",
+  );
+  const requiredDegreeText = requirements.replace(preferencePattern, " ");
+  const graduatePattern = new RegExp(`\\b${graduateDegreeToken}\\b\\.?`, "i");
+  if (!graduatePattern.test(requiredDegreeText)) return false;
+
+  const bachelorPattern = new RegExp(`\\b${bachelorDegreeToken}\\b\\.?`, "i");
+  if (!bachelorPattern.test(requiredDegreeText)) return true;
+
+  const bachelorExperienceAfter = new RegExp(
+    `\\b${bachelorDegreeToken}\\b\\.?[^.;]{0,180}?\\b${experienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?`,
+    "i",
+  );
+  const bachelorExperienceBefore = new RegExp(
+    `\\b${experienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?[^.;]{0,140}?\\b${bachelorDegreeToken}\\b\\.?`,
+    "i",
+  );
+  const bachelorExtensiveExperience = new RegExp(
+    `\\b${bachelorDegreeToken}\\b\\.?[^.;]{0,180}?\\b(?:extensive|significant|substantial)\\b[^.;]{0,50}\\bexperience\\b`,
+    "i",
+  );
+  return bachelorExperienceAfter.test(requiredDegreeText)
+    || bachelorExperienceBefore.test(requiredDegreeText)
+    || bachelorExtensiveExperience.test(requiredDegreeText);
+}
+
 export function graduationMatch(title, text = "") {
   const haystack = `${title}\n${text}`;
   if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
@@ -338,7 +421,10 @@ export function isEligibleRole(title, text = "") {
   if (isProbablySenior(title)) return false;
   if (hasExcludedDegreeProgram(title)) return false;
   const type = roleType(title, trustedText);
-  if (type === "New Grad") return hasNewGradEligibilityEvidence(title, trustedText);
+  if (type === "New Grad") {
+    if (hasIneligibleBachelorNewGradRequirements(trustedText)) return false;
+    return hasNewGradEligibilityEvidence(title, trustedText);
+  }
   if (type === "Internship") return internshipEligiblePatterns.some((pattern) => pattern.test(haystack));
   return false;
 }

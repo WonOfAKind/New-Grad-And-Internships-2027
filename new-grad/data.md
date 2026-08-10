@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 10:47 AM EDT
+Last updated: August 10, 2026 at 11:20 AM EDT
 
-Current roles in this view: 15
+Current roles in this view: 13
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| MIT Lincoln Laboratory | Data Analyst (Lexington, MA, US) | Lexington, MA, US | $100,200 - $120,000 | Early career | First seen Aug 10, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Data-Analyst-MA-02420/1366995800>) |
-| MIT Lincoln Laboratory | Data Scientist (Lexington, MA, US) | Lexington, MA, US | $116,400 - $140,000 | Early career | First seen Aug 10, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Data-Scientist-MA-02420/1325441000>) |
 | Boston Scientific | Data Scientist I - Quality Engineering (Electrophysiology) (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Data-Scientist-I-Quality-Engineering-%28Electrophysiology%29-MN-55112/1416882000>) |
 | Capgemini | Junior AI Data Scientist/Engineer | New York, NY, NY, US | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433>) |
-| Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Aug 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | WebFX | Junior Business Data Analyst | Harrisburg, PA | $50,000 - $53,000 | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA>) |
+| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Aug 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | TikTok | Data Scientist Graduate (TikTok LIVE) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669660107303684405>) |
 | TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667035008003328309>) |
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
@@ -26,5 +24,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | Leidos | Junior Data Analyst w/ Top Secret | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Data-Analyst_R-00187929>) |
 | Software Quality Experts | Entry level Business Analyst/ Data Analyst | Sterling, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861-entry-level-business-analyst-data-analyst>) |
-| Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
+| Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 13, 2026<br>First seen Aug 10, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 
