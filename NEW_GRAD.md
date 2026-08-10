@@ -2,15 +2,15 @@
 
 [Project overview](README.md) | [Internship Roles](INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 3:43 PM EDT
+Last updated: August 10, 2026 at 4:25 PM EDT
 
-Current roles: 460
+Current roles: 457
 
 Choose a category below. Cross-disciplinary roles can appear in more than one category, while the total above counts each role once.
 
 | Category | Roles |
 |---|---:|
-| [Software Engineering](new-grad/software.md) | 255 |
+| [Software Engineering](new-grad/software.md) | 254 |
 | [AI / Machine Learning](new-grad/ai-ml.md) | 60 |
 | [Data Science & Analytics](new-grad/data.md) | 13 |
 | [Product Management](new-grad/product-management.md) | 8 |
@@ -19,6 +19,6 @@ Choose a category below. Cross-disciplinary roles can appear in more than one ca
 | [Aerospace Engineering](new-grad/aerospace.md) | 49 |
 | [Manufacturing & Industrial Engineering](new-grad/manufacturing-industrial.md) | 39 |
 | [Technical Writing](new-grad/technical-writing.md) | 1 |
-| [Other Engineering](new-grad/other-engineering.md) | 28 |
+| [Other Engineering](new-grad/other-engineering.md) | 26 |
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 3:43 PM EDT
+Last updated: August 10, 2026 at 4:25 PM EDT
 
 Current roles in this view: 28
 
@@ -17,7 +17,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Caterpillar | SkillBridge-Field Service Engineer 1-Electric Power (Multiple States Available) | Georgia; Montana; Virginia; Michigan; Utah; Tennessee; South Carolina; Indiana; Idaho; Oregon; Florida; Ohio; New York; Colorado; Nevada; California; Arizona; Wyoming; West Virginia; Alabama; North Carolina; Washington | $89,210.00 - $133,810.00 | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Georgia/SkillBridge-Field-Service-Engineer-1-Electric-Power--Multiple-States-Available-_R0000378742>) |
 | Johnson Controls | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United States of America | $65,000 - $80,000 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369>) |
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Studies | Orlando, FL, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633>) |
-| Leidos | Junior Electrical Engineer | Reston, VA | $69,550.00 - $125,725.00 | Early career | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Electrical-Engineer_R-00184583>) |
 | Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | 🔥 Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | Early career | First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5167865007>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
@@ -27,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Nexxen | Software Engineer 1 - DSP Runtime | New York, NY | $110,000-$140,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32>) |
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Protection | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833>) |
 | United Launch Alliance | Electrical Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700>) |
+| 🔥 Intel | Module Development Engineer | US, Oregon, Hillsboro | $133,800.00-188,890.00 USD | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 10, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0285576>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 | Amentum | Power System Design Engineer - Entry Level | Tullahoma, Tennessee, US | $61,660 - $101,600 | Early career | Posted Jul 16, 2026<br>First seen Aug 10, 2026 | [Apply](<https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states>) |
 | Moog | Electronics Design Engineer I | Johnson City, TN | $75,000.00 - $100,000.00 Annually | Verified early career (BS) | Posted Jul 16, 2026<br>First seen Aug 10, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972>) |
