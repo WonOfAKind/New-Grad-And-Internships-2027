@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 6:24 PM EDT
+Last updated: August 10, 2026 at 7:21 PM EDT
 
-Current roles in this view: 226
+Current roles in this view: 232
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BAE Systems | Software Intern (High School) - Summer 2027 Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302041&partnerid=25771&siteid=5403>) |
+| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | $55 - $55/hr USD | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6131089004>) |
 | ING | Summer 2027 Internship - Tech (Infrastructure) | New York | $35/hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621>) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
@@ -29,6 +31,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008>) |
 | 🔥 Anduril | Software Engineer Intern | Seattle, WA | $40 - $55/hr USD | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148079007>) |
 | Appian | Software Engineering Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041237-software-engineering-intern>) |
+| BAE Systems | Software Engineering Intern II, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302042&partnerid=25771&siteid=5403>) |
 | ByteDance | Network Software Development Engineer Intern (Network Switch) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://joinbytedance.com/search/7670778018960542005>) |
 | ByteDance | Network Software Development Engineer Intern(Network Observation) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://joinbytedance.com/search/7670772641439041797>) |
 | ByteDance | Software Engineer Intern, Distributed NoSQL Database Systems | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7668374190764050741>) |
@@ -67,6 +70,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Maven Securities | Trader Intern | Chicago, IL | - | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937>) |
 | Melius | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Jul 31, 2026 | [Apply](<https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280>) |
 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | $18.50 - $33.50/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395>) |
+| BAE Systems | Software Engineering Intern IV, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302043&partnerid=25771&siteid=5403>) |
 | ByteDance | Production System Engineer Project Intern (Server DevOps) - 2027 Start | San Jose, California | $25- $25/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7662449816279419141>) |
 | 🔥 Roblox | [Summer 2027] Software Engineer Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072713>) |
 | Axon | RenderATL - 2027 US Software Engineering Internship | Seattle, WA | $45 - $45/hr USD | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003>) |
@@ -139,6 +143,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Quadrillion Labs | Software Engineering Intern | Remote (US) | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Texas Instruments | Network Engineer - Encore Program Internship | Dallas, TX, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016832>) |
 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8657500002>) |
+| BAE Systems | Software Engineering Intern I, Summer 2027 | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301262&partnerid=25771&siteid=5403>) |
+| BAE Systems | Software Engineering Intern III, Summer 2027 | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301154&partnerid=25771&siteid=5403>) |
 | Bosch | ADAS Software Engineering Intern | Plymouth, Michigan, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern>) |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Austin, TX; Chicago; New York | $5,000 - $5,800/week | 2027 internship eligible | First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8624408002>) |
 | Appian | Information Security Engineer Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8088496>) |
@@ -167,7 +173,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009>) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009>) |
-| Point72 | Summer 2027 Quantitative Research Internship | New York | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
+| Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
@@ -198,7 +204,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | $10,500/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86>) |
 | Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL New York, NY | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334>) |
-| Tower Research Capital | Quantitative Trader Intern - Summer 2027 | New York, Chicago | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
+| Tower Research Capital | Quantitative Trader Intern (Summer 2027) | New York, NY / Chicago, IL | - | 2027 internship eligible | Posted Jul 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
 | CTGT | Software Engineering Intern / Research Intern, Interpretability (Summer 2027) | San Francisco, CA | $8,000 - $12,000 | 2027 internship eligible | Posted Jun 27, 2026<br>First seen Jul 20, 2026 | [Apply](<https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027>) |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Jun 18, 2026<br>First seen Aug 7, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441>) |
 | Campbell Soup Company | Data Engineer - Operational Support (Co-op) | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Operational-Support--Co-op-_Req-65842>) |

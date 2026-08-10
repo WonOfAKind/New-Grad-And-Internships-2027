@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-10T22:24:25.694Z",
+  "updated_at": "2026-08-10T23:21:03.195Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1462,7 +1462,7 @@
     },
     "amd": {
       "company": "AMD",
-      "checked_at": "2026-08-09T19:42:51.727Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -1486,35 +1486,19 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-09T19:49:18.146Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "intel": {
       "company": "Intel",
-      "checked_at": "2026-08-10T15:05:44.932Z",
-      "status": "discovered",
-      "method": "ats-fingerprint",
-      "reason": "",
-      "robots_url": "https://jobs.intel.com/robots.txt",
-      "source": {
-        "company": "Intel",
-        "adapter": "workday",
-        "priority": "P1",
-        "source_kind": "discovered",
-        "discovered_from": "https://jobs.intel.com/en/search-jobs",
-        "host": "intel.wd1.myworkdayjobs.com",
-        "tenant": "intel",
-        "site": "External",
-        "searchText": "new grad",
-        "limit": 20,
-        "verified_open_jobs": 657
-      },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T16:33:47.849Z"
+      "checked_at": "2026-08-10T23:15:54.949Z",
+      "status": "error",
+      "method": "",
+      "reason": "403 Forbidden",
+      "robots_url": "",
+      "source": null
     },
     "qualcomm": {
       "company": "Qualcomm",
@@ -2335,9 +2319,10 @@
         "limit": 20,
         "verified_open_jobs": 125
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3672,10 +3657,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-10T20:25:34.983Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4698,7 +4683,7 @@
     },
     "honda": {
       "company": "Honda",
-      "checked_at": "2026-08-09T17:17:42.275Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -4715,10 +4700,10 @@
         "robotsUrl": "https://careers.honda.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-09T17:22:45.040Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "stellantis": {
       "company": "Stellantis",
@@ -4823,7 +4808,7 @@
     },
     "trane technologies": {
       "company": "Trane Technologies",
-      "checked_at": "2026-08-10T15:14:45.997Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -4835,10 +4820,6 @@
         "source_kind": "discovered",
         "discovered_from": "https://careers.tranetechnologies.com/",
         "sitemaps": [
-          "https://careers.tranetechnologies.com/global/fr/sitemap_index.xml",
-          "https://careers.tranetechnologies.com/global/fr/sitemap1.xml",
-          "https://careers.tranetechnologies.com/global/fr/sitemap2.xml",
-          "https://careers.tranetechnologies.com/global/fr/sitemap3.xml",
           "https://careers.tranetechnologies.com/global/zh/sitemap_index.xml",
           "https://careers.tranetechnologies.com/global/zh/sitemap1.xml",
           "https://careers.tranetechnologies.com/global/zh/sitemap2.xml",
@@ -4847,18 +4828,22 @@
           "https://careers.tranetechnologies.com/global/en/sitemap1.xml",
           "https://careers.tranetechnologies.com/global/en/sitemap2.xml",
           "https://careers.tranetechnologies.com/global/en/sitemap3.xml",
-          "https://careers.tranetechnologies.com/global/es/sitemap_index.xml",
-          "https://careers.tranetechnologies.com/global/es/sitemap1.xml",
-          "https://careers.tranetechnologies.com/global/es/sitemap2.xml",
-          "https://careers.tranetechnologies.com/global/es/sitemap3.xml"
+          "https://careers.tranetechnologies.com/global/de/sitemap_index.xml",
+          "https://careers.tranetechnologies.com/global/de/sitemap1.xml",
+          "https://careers.tranetechnologies.com/global/de/sitemap2.xml",
+          "https://careers.tranetechnologies.com/global/de/sitemap3.xml",
+          "https://careers.tranetechnologies.com/global/fr/sitemap_index.xml",
+          "https://careers.tranetechnologies.com/global/fr/sitemap1.xml",
+          "https://careers.tranetechnologies.com/global/fr/sitemap2.xml",
+          "https://careers.tranetechnologies.com/global/fr/sitemap3.xml"
         ],
         "robotsUrl": "https://careers.tranetechnologies.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-10T15:20:45.429Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "applied materials": {
       "company": "Applied Materials",
@@ -5164,7 +5149,7 @@
     },
     "abb": {
       "company": "ABB",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5187,23 +5172,23 @@
           "https://careers.abb/finland/fi/sitemap2.xml",
           "https://careers.abb/finland/fi/sitemap3.xml",
           "https://careers.abb/finland/fi/sitemap4.xml",
-          "https://careers.abb/global/es/sitemap_index.xml",
-          "https://careers.abb/global/es/sitemap1.xml",
-          "https://careers.abb/global/es/sitemap2.xml",
-          "https://careers.abb/global/es/sitemap3.xml",
-          "https://careers.abb/global/es/sitemap4.xml"
+          "https://careers.abb/dach/de/sitemap_index.xml",
+          "https://careers.abb/dach/de/sitemap1.xml",
+          "https://careers.abb/dach/de/sitemap2.xml",
+          "https://careers.abb/dach/de/sitemap3.xml",
+          "https://careers.abb/dach/de/sitemap4.xml"
         ],
         "robotsUrl": "https://careers.abb/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-10T15:20:45.429Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "thermo fisher scientific": {
       "company": "Thermo Fisher Scientific",
-      "checked_at": "2026-08-10T15:36:50.420Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5225,24 +5210,24 @@
           "https://jobs.thermofisher.com/global/en/sitemap2.xml",
           "https://jobs.thermofisher.com/global/en/sitemap3.xml",
           "https://jobs.thermofisher.com/global/en/sitemap4.xml",
-          "https://jobs.thermofisher.com/lt/lt/sitemap_index.xml",
-          "https://jobs.thermofisher.com/lt/lt/sitemap1.xml",
-          "https://jobs.thermofisher.com/lt/lt/sitemap2.xml",
-          "https://jobs.thermofisher.com/lt/lt/sitemap3.xml",
-          "https://jobs.thermofisher.com/lt/lt/sitemap4.xml",
           "https://jobs.thermofisher.com/cz/cz/sitemap_index.xml",
           "https://jobs.thermofisher.com/cz/cz/sitemap1.xml",
           "https://jobs.thermofisher.com/cz/cz/sitemap2.xml",
           "https://jobs.thermofisher.com/cz/cz/sitemap3.xml",
-          "https://jobs.thermofisher.com/cz/cz/sitemap4.xml"
+          "https://jobs.thermofisher.com/cz/cz/sitemap4.xml",
+          "https://jobs.thermofisher.com/lt/lt/sitemap_index.xml",
+          "https://jobs.thermofisher.com/lt/lt/sitemap1.xml",
+          "https://jobs.thermofisher.com/lt/lt/sitemap2.xml",
+          "https://jobs.thermofisher.com/lt/lt/sitemap3.xml",
+          "https://jobs.thermofisher.com/lt/lt/sitemap4.xml"
         ],
         "robotsUrl": "https://jobs.thermofisher.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "intuitive surgical": {
       "company": "Intuitive Surgical",
@@ -5264,7 +5249,7 @@
     },
     "oshkosh corporation": {
       "company": "Oshkosh Corporation",
-      "checked_at": "2026-08-09T17:54:10.071Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5281,10 +5266,10 @@
         "robotsUrl": "https://careers.oshkoshcorp.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-09T19:49:18.146Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "agco": {
       "company": "AGCO",
@@ -5484,7 +5469,7 @@
     },
     "dupont": {
       "company": "DuPont",
-      "checked_at": "2026-08-09T18:49:11.086Z",
+      "checked_at": "2026-08-10T23:15:54.949Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5504,10 +5489,10 @@
         "robotsUrl": "https://careers.dupont.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-09T18:54:29.477Z"
+      "last_scan_at": "2026-08-10T23:21:03.195Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "air products": {
       "company": "Air Products",

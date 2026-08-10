@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 6:24 PM EDT
+Last updated: August 10, 2026 at 7:21 PM EDT
 
-Current roles in this view: 30
+Current roles in this view: 36
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Toyota Motor North America | Engineer I - Production Engineering (Assembly) | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I---Production-Engineering--Assembly-_10332450>) |
 | Boston Scientific | Quality Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Quality-Engineer-I-MN-55112/1417067300>) |
@@ -23,6 +24,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Associate Manufacturing Engineer | Salt Lake City, UT | $70,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Associate-Manufacturing-Engineer_R-26-18241>) |
 | 🔥 Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, &amp; Adhesives (Early Career) | Space Coast, FL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |
+| Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17014>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000244>) |
@@ -31,7 +33,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000241>) |
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
+| Spirit AeroSystems | Spirit Defense - Associate Industrial Engineer | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16703>) |
 | Spirit AeroSystems | Spirit Defense - Associate Quality Engineer | Wichita, Kansas, United States | $71,100- $109,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16979>) |
+| Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jul 22, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17151>) |
 | 🔥 Lockheed Martin | Associate Quality Engineer - Chelmsford, MA | Chelmsford, Massachusetts | $54,900 - $96,830 | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/chelmsford/associate-quality-engineer-chelmsford-ma/694/95644273456>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Jul 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Jul 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
@@ -40,6 +44,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Abbott | Quality Engineer I | United States - Minnesota - St. Paul | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Quality-Engineer-I_31154797-1>) |
 | Spirit AeroSystems | Manufacturing Engineer (Associate, Mid-Level, or Senior) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jul 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16611>) |
 | 🔥 Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
+| Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Tulsa, Oklahoma, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jun 17, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16950>) |
+| Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Apr 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16583>) |
 | Spirit AeroSystems | Manufacturing Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Apr 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16581>) |
 | Spirit AeroSystems | Associate Manufacturing Engineer | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Apr 2, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16486>) |
 
