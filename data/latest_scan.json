@@ -1,97 +1,69 @@
 {
-  "scanned_at": "2026-08-10T20:25:34.983Z",
+  "scanned_at": "2026-08-10T21:29:07.438Z",
   "fresh_leads": [
     {
-      "role_id": "a1cb708ee25f940a55aee782",
-      "company_id": "rockwell-automation",
-      "company": "Rockwell Automation",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027)",
-      "location": "Mayfield Heights, Ohio, United States",
-      "role_type": "Internship",
-      "discipline": "Hardware & Electrical Engineering",
+      "role_id": "3d91a6a79dc9ba29f11424d7",
+      "company_id": "johns-hopkins-apl",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "title": "2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance",
+      "location": "Laurel, Maryland, United States",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "hardware-electrical",
-        "software"
+        "aerospace",
+        "mechanical"
       ],
       "specialties": [],
-      "compensation": "$22 - $32/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473",
-      "source": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473",
+      "compensation": "$85,000 Annually",
+      "grad_window": "2027 grad eligible",
+      "url": "https://careers.jhuapl.edu/jobs/59631",
+      "source": "https://careers.jhuapl.edu/",
       "date_seen": "2026-08-10",
       "last_seen": "2026-08-10",
       "posted_at": "2026-08-10",
-      "expires_at": "2026-08-12",
+      "expires_at": "2027-08-10",
       "updated_at": "",
-      "source_id": "rockwell automation|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-10T20:25:13.570Z",
-      "verification_version": 6,
+      "source_id": "johns hopkins applied physics laboratory|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P0"
     },
     {
-      "role_id": "e9eb9cec98964ef230c7c800",
-      "company_id": "flir-systems",
-      "company": "FLIR Systems",
+      "role_id": "fb54be4a5d765c91301b9e2e",
+      "company_id": "hyundai",
+      "company": "Hyundai",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Mechanical Engineering Intern",
-      "location": "US - Miamisburg, OH",
-      "role_type": "Internship",
+      "title": "Thermal Systems Engineer I",
+      "location": "California City, CA, US",
+      "role_type": "New Grad",
       "discipline": "Mechanical Engineering",
       "disciplines": [
         "mechanical"
       ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
-      "source": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+      "specialties": [
+        "thermal-fluids"
+      ],
+      "compensation": "$90,000.00/Year",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers-americas.hyundai.com/hatci/job/California-City-Thermal-Systems-Engineer-I-CA-93505/1417921400",
+      "source": "https://careers-americas.hyundai.com/",
       "date_seen": "2026-08-10",
       "last_seen": "2026-08-10",
-      "posted_at": "2026-08-10",
+      "posted_at": "2026-08-09",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "flir systems|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-10T20:25:14.512Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "a4bb8e55859582bdc60288d6",
-      "company_id": "intel",
-      "company": "Intel",
-      "featured_company": true,
-      "featured_disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "title": "Module Development Engineer",
-      "location": "US, Oregon, Hillsboro",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$133,800.00-188,890.00 USD",
-      "grad_window": "Explicit new grad role",
-      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0285576",
-      "source": "https://jobs.intel.com/en/search-jobs",
-      "date_seen": "2026-08-10",
-      "last_seen": "2026-08-10",
-      "posted_at": "2026-07-22",
-      "expires_at": "",
-      "updated_at": "Posted 19 Days Ago",
-      "source_id": "intel|workday",
-      "source_adapter": "workday",
+      "source_id": "hyundai|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -155,12 +127,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Leidos",
-      "title": "Junior Electrical Engineer",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Electrical-Engineer_R-00184583",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Boeing",
       "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
@@ -194,6 +160,12 @@
       "company": "United Launch Alliance",
       "title": "Electrical Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Intel",
+      "title": "Module Development Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer_JR0285576",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -455,18 +427,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Leidos",
-      "title": "Associate Engineer Drafter",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Associate-Engineer-Drafter_R-00184630",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Leidos",
-      "title": "Junior Engineer Drafter",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Engineer-Drafter_R-00184626",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Spirit AeroSystems",
       "title": "Spirit Defense - Advanced Product Development & Research Engineering Technical Analyst (Associate or Mid-level)",
       "url": "https://careers.spiritaero.com/jobs/16923",
@@ -477,6 +437,12 @@
       "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
       "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Valkyrie Trading",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "reason": "no longer matches board eligibility policy"
     }
   ],
   "scan_log": [
@@ -507,7 +473,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 891,
+      "matches": 887,
       "phase": "fast-pass"
     },
     {
@@ -836,7 +802,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 43,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -866,7 +832,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -902,7 +868,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 292,
+      "matches": 293,
       "phase": "fast-pass"
     },
     {
@@ -929,11 +895,17 @@
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "general motors|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "General Motors",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Caterpillar",
@@ -942,7 +914,7 @@
       "source_id": "caterpillar|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 10,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1039,11 +1011,17 @@
       "company": "Woodward",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "woodward|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Woodward",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Moog",
@@ -1052,7 +1030,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1102,7 +1080,7 @@
       "source_id": "johns hopkins applied physics laboratory|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1122,7 +1100,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1142,7 +1120,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 83,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -1172,7 +1150,7 @@
       "source_id": "archer aviation|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 88,
+      "matches": 89,
       "phase": "fast-pass"
     },
     {
@@ -1192,7 +1170,7 @@
       "source_id": "stoke space|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 23,
+      "matches": 22,
       "phase": "fast-pass"
     },
     {
@@ -1267,10 +1245,8 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1477,11 +1453,19 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1680,7 +1664,7 @@
       "source_id": "intel|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1868,8 +1852,16 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "Workday workday scan timed out after 90000ms",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Workday",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -1905,11 +1897,17 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "zendesk|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2058,7 +2056,7 @@
       "source_id": "luma ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 14,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -2155,11 +2153,17 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2285,17 +2289,33 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "L3Harris",
       "adapter": "html_jobs",
       "source_kind": "discovered",
       "source_id": "l3harris|html_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "General Dynamics Mission Systems",
+      "adapter": "html_jobs",
+      "source_kind": "discovered",
+      "source_id": "general dynamics mission systems|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
@@ -2485,11 +2505,17 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 17,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2523,11 +2549,17 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "axiom space|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Axiom Space",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Red Hat",
@@ -2574,7 +2606,7 @@
       "source_id": "hyundai|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -2671,11 +2703,17 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "curtiss-wright|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Curtiss-Wright",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "ABB",
@@ -2711,11 +2749,17 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "goodyear|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Goodyear",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2731,11 +2775,17 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 6,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "BlueHalo",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2779,40 +2829,40 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-10T20:25:34.983Z",
-    "elapsed_ms": 351430,
+    "scanned_at": "2026-08-10T21:29:07.438Z",
+    "elapsed_ms": 315169,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
-    "structured_sources_runtime": 229,
-    "discovered_sources_active": 153,
-    "discovered_companies_active": 153,
-    "companies_with_active_sources": 224,
+    "structured_sources_runtime": 230,
+    "discovered_sources_active": 154,
+    "discovered_companies_active": 154,
+    "companies_with_active_sources": 214,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4077,
-      "official_candidates": 1436,
-      "cached_verifications": 410,
+      "rows_parsed": 4073,
+      "official_candidates": 1431,
+      "cached_verifications": 411,
       "reverify_hours": 24,
-      "verification_attempts": 1026,
-      "verification_successes": 249,
+      "verification_attempts": 1020,
+      "verification_successes": 244,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1287,
-        "untracked discipline": 633,
+        "untracked discipline": 632,
         "graduate-degree-only role": 87,
         "excluded recruiting year": 161,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
         "verification: 405 Not Allowed": 31,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 347,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 346,
         "verification: official page has an excluded recruiting year": 88,
         "verification: official posting closed: provider requisition is no longer listed": 82,
-        "verification: official posting closed: official page does not identify the requisition": 29,
+        "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: 404 Not Found": 29,
-        "verification: 403 Forbidden": 71,
+        "verification: 403 Forbidden": 70,
         "verification: official posting closed: official page shell does not expose the requisition": 50,
         "verification: 404 Not Found": 13,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
@@ -2825,41 +2875,41 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 52,
-    "discovery_new_sources_this_scan": 4,
+    "discovery_attempts_this_scan": 3,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "none": 167,
-      "discovered": 153,
-      "error": 51,
+      "discovered": 154,
+      "error": 50,
       "blocked": 3
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 2,
-    "unique_sources_attempted": 229,
-    "total_fetch_attempts": 231,
-    "ok_sources": 224,
-    "error_sources": 4,
+    "double_check_attempts": 14,
+    "unique_sources_attempted": 230,
+    "total_fetch_attempts": 244,
+    "ok_sources": 214,
+    "error_sources": 15,
     "blocked_sources": 1,
-    "ats_ok_sources": 74,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.4,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 1,
-      "Request Timeout": 3
+      "429 Too Many Requests": 13,
+      "Request Timeout": 2
     },
-    "board_eligible_candidates": 958,
-    "provider_candidate_checks": 206,
-    "provider_candidate_closed": 1,
+    "board_eligible_candidates": 915,
+    "provider_candidate_checks": 173,
+    "provider_candidate_closed": 2,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 146,
-    "inactive_provider_checks": 109,
-    "inactive_provider_closed": 0,
+    "closure_checks": 159,
+    "inactive_provider_checks": 139,
+    "inactive_provider_closed": 1,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 63,
+    "closed_roles_removed": 62,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

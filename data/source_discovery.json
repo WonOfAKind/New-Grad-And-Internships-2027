@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-10T20:25:34.983Z",
+  "updated_at": "2026-08-10T21:29:07.438Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "netflix": {
@@ -2343,9 +2343,9 @@
         "limit": 20,
         "verified_open_jobs": 323
       },
-      "last_scan_at": "2026-08-10T20:25:34.983Z",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2535,9 +2535,9 @@
         "limit": 20,
         "verified_open_jobs": 129
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "qualtrics": {
@@ -3391,9 +3391,9 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "recursion": {
@@ -3891,9 +3891,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-10T20:25:34.983Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T20:25:34.983Z"
     },
     "l3harris": {
@@ -3929,12 +3929,34 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-08-10T14:41:43.057Z",
-      "status": "error",
-      "method": "",
-      "reason": "403 Forbidden",
-      "robots_url": "",
-      "source": null
+      "checked_at": "2026-08-10T21:24:21.367Z",
+      "status": "discovered",
+      "method": "official-job-links",
+      "reason": "",
+      "robots_url": "https://gdmissionsystems.com/robots.txt",
+      "source": {
+        "company": "General Dynamics Mission Systems",
+        "adapter": "html_jobs",
+        "priority": "P1",
+        "source_kind": "discovered",
+        "discovered_from": "https://gdmissionsystems.com/careers",
+        "urls": [
+          "https://gdmissionsystems.com/careers"
+        ],
+        "relativeJobBase": "https://gdmissionsystems.com/careers",
+        "detailUrlPatterns": [
+          "/(?:jobs?|positions?|openings?|vacancies?)/[^/?#]+",
+          "/careers?/jobs?/[^/?#]+",
+          "/details/\\d{4,}[^/?#]*",
+          "[?&](?:job_?id|job|req_?id|posting_?id)="
+        ],
+        "keepDetailQuery": true,
+        "detailLimit": 30
+      },
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-10T21:29:07.438Z"
     },
     "axon": {
       "company": "Axon",
@@ -4529,9 +4551,9 @@
         "limit": 20,
         "verified_open_jobs": 702
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "honeywell": {
@@ -4660,9 +4682,9 @@
         "limit": 20,
         "verified_open_jobs": 70
       },
-      "last_scan_at": "2026-08-10T15:42:16.507Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T15:42:16.507Z"
     },
     "vast": {
@@ -4755,7 +4777,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-08-10T14:41:43.057Z",
+      "checked_at": "2026-08-10T21:24:21.367Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5361,9 +5383,9 @@
         "limit": 20,
         "verified_open_jobs": 359
       },
-      "last_scan_at": "2026-08-10T18:34:49.792Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T18:34:49.792Z"
     },
     "draper": {
@@ -5555,9 +5577,9 @@
         "limit": 20,
         "verified_open_jobs": 236
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "michelin": {
@@ -5650,9 +5672,9 @@
         "limit": 20,
         "verified_open_jobs": 289
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-10T21:29:07.438Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "chevron": {
@@ -5706,7 +5728,7 @@
     },
     "dow": {
       "company": "Dow",
-      "checked_at": "2026-08-10T14:41:43.057Z",
+      "checked_at": "2026-08-10T21:24:21.367Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
