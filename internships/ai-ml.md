@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 5:29 PM EDT
+Last updated: August 10, 2026 at 6:24 PM EDT
 
-Current roles in this view: 81
+Current roles in this view: 80
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -67,9 +67,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667346576033777925>) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Visual Search) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667350291952765237>) |
 | Bosch | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140462550-autonomous-driving-internship-in-machine-learning>) |
-| Intel | AI Software Engineering Intern | US, Oregon, Hillsboro | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Nelnet | Intern Program - Agentic AI | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904>) |
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
@@ -89,7 +89,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | Trata | Research Scientist Intern ⏳ | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | Two Sigma | AI Research Scientist - Intern [2027 Summer] | New York, NY | $5,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096>) |
-| ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |
 | TikTok | AI Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667578131150506293>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |

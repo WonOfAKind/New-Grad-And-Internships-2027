@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 5:29 PM EDT
+Last updated: August 10, 2026 at 6:24 PM EDT
 
-Current roles in this view: 27
+Current roles in this view: 26
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -35,7 +35,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Caterpillar | 2027 Summer Corporate Intern- Manufacturing | Decatur, Illinois; Sanford, North Carolina; Menominee, Michigan; Schertz, Texas; Brooklyn Park, Minnesota; Franklin, Indiana; Mapleton, Illinois; Mossville, Illinois; West Fargo, North Dakota; Mossville, Illinois; Seguin, Texas | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) |
 | GE Vernova | GE Vernova Nuclear - Manufacturing / Supply Chain Intern (Summer 2027) | Wilmington NC USA | $21.00/hr | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Aug 9, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-3>) |
 | Marmon Holdings | Digital Production Engineering Intern OR Student Co-Op | Milwaukee, WI | $27.00/hour | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451>) |
-| Crane Co. | Sustaining Engineering Intern | Cincinnati, Ohio | - | 2027 internship eligible | Posted Jul 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Sustaining-Engineering-Intern_JR102022>) |
 | Crane Co. | Sustaining Engineering Intern | Cincinnati, Ohio | - | 2027 internship eligible | Posted Jul 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Sustaining-Engineering-Intern_JR102023>) |
 | Nidec | manufacturing engineering intern | North America/USA/Minnesota/Mankato, MN | $21.00 - $22.50/hr | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMinnesotaMankato-MN/manufacturing-engineering-intern_R0016035>) |
 | Base Power | Manufacturing Engineering Intern | Austin, TX | - | 2027 internship eligible | Posted May 18, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b>) |

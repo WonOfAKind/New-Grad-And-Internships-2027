@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 5:29 PM EDT
+Last updated: August 10, 2026 at 6:24 PM EDT
 
-Current roles in this view: 14
+Current roles in this view: 11
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,9 +19,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Varda Space | Guidance, Navigation &amp; Controls (GNC) Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) |
 | Varda Space | Propulsion Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
-| 🔥 BAE Systems | New Hampshire Systems Engineering Intern III, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302217&partnerid=25771&siteid=5403>) |
-| 🔥 BAE Systems | Systems Engineering Intern II, Summer 2027 (NH-Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302215&partnerid=25771&siteid=5403>) |
-| 🔥 BAE Systems | Systems Engineering Intern IV, Summer 2027 (NH - Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302214&partnerid=25771&siteid=5403>) |
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
 | 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
