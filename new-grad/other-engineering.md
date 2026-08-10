@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 1:38 PM EDT
+Last updated: August 10, 2026 at 2:34 PM EDT
 
-Current roles in this view: 22
+Current roles in this view: 27
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1>) |
+| Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Black &amp; Veatch | Water Distribution System Associate Hydraulic Engineer | Cary, NC, US | - | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Dallas-Water-Distribution-System-Associate-Hydraulic-Engineer-TX-75201/1384721633>) |
 | Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |
 | Burns &amp; McDonnell | Assistant Civilmechanical Engineer Transmission Chicago | Chicago, IL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/chicago-il/assistant-civilmechanical-engineer-transmission-chicago/D814FD9647CB4189BF48A93C33C75FCC/job>) |
@@ -31,6 +34,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Houston, TX, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
+| Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Spirit AeroSystems | Spirit Defense - Advanced Product Development &amp; Research Engineering Technical Analyst (Associate or Mid-level) | Wichita, Kansas, United States | $67,150 - $103,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16923>) |
 | Bechtel | Structural Engineer | United States | - | Explicit new grad role | Posted Jul 14, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS295633EXTERNALENUS/Structural-Engineer>) |
 | Micron | New College Grad - Design Validation Product Engineer, DEG Technology | Boise, ID,US | - | Early career | Posted Jun 22, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/41121665-new-college-grad-design-validation-product-engineer-deg-technology-boise-idaho-united-states-of-america>) |

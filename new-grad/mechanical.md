@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 1:38 PM EDT
+Last updated: August 10, 2026 at 2:34 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -44,7 +44,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron | New College Grad - Dry Etch Equipment Engineer | Boise, ID, US | - | Early career | Posted Jun 9, 2026<br>First seen Aug 9, 2026 | [Apply](<http://careers.micron.com/careers/job/41246643-new-college-grad-dry-etch-equipment-engineer-boise-idaho-united-states-of-america>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Aviation Federal Roanoke | Roanoke, VA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/roanoke-va/assistant-structural-engineer-aviation-federal-roanoke/52C8BBA22A5546819DCE9E48D8662146/job>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
-| 🔥 Boeing | Entry Level Spacecraft Integration and Test Engineer - Millennium Space Systems | USA - El Segundo, CA | $90,950- $133,750 | Early career | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026511990-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | 🔥 Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | Spirit AeroSystems | Spirit Defense - Material Review Engineer (Associate, Mid-Level , or Senior) | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16763>) |
