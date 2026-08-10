@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 9:45 AM EDT
+Last updated: August 10, 2026 at 10:47 AM EDT
 
-Current roles in this view: 232
+Current roles in this view: 234
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ING | Summer 2027 Internship - Tech (Infrastructure) | New York | $35/hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621>) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
 | TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Fall | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839752644233525>) |
 | TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Summer | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839727059339525>) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7667935739300792629>) |
+| Vertiv | Software Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278777>) |
 | Belvedere Trading | Quantitative Trading Intern - Summer 2027 | Chicago, IL | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab>) |
 | Belvedere Trading | Quantitative Trading Intern - Winter Quarter 2027 | Chicago, IL | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0>) |
 | ByteDance | Software Development Engineer Intern (Network Automation) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://joinbytedance.com/search/7671147251943213317>) |
@@ -175,7 +177,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Solar Turbines | 2027 Solutions Platforms Engineering Intern | San Diego, CA | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009>) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009>) |
-| Point72 | Summer 2027 Quantitative Research Internship | New York | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
+| Point72 | Quantitative Research Intern (Summer 2027) | New York, NY | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
@@ -229,7 +231,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | 🔥 Microsoft | Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students, Redmond | Redmond, WA, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556922929>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
-| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 9:45 AM EDT
+Last updated: August 10, 2026 at 10:47 AM EDT
 
-Current roles in this view: 50
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,8 +14,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | Boston Scientific | R&amp;D Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1416902200>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Development Program Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | First seen Aug 10, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program | Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois | $81,370.00 - $146,290.00 | Early career | First seen Aug 10, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |
 | Burns &amp; McDonnell | Assistant Mechanical Engineer Aviation Federal Brea | Brea, CA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/brea-ca/assistant-mechanical-engineer-aviation-federal-brea/632C99D13DFA499BA728433FF632D8D1/job>) |
 | Burns &amp; McDonnell | Assistant Mechanical Engineer Consumer Life Solutions Kansas City Or Raleigh | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-mechanical-engineer-consumer-life-solutions-kansas-city-or-raleigh/84A93E5F63F048F09AEBCBD6AA6EA762/job>) |
@@ -36,9 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Whirlpool | Associate Product Development Engineer - KitchenAid | St Joseph, MI, US | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<http://jobs.whirlpool.com/careers/job/34403304336-associate-product-development-engineer-kitchenaid-st-joseph-michigan-usa>) |
 | 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
-| 🔥 Caterpillar | Dynamics Simulation-Associate Engineer | Mossville, Illinois | $89,210.00 - $133,810.00 | Verified early career (BS) | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Dynamics-Simulation--Senior-Associate-Engineer_R0000383681>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
-| Intel | Module Engineering - Day Shift 5 or 7 | US, Arizona, Phoenix | $85,200.00-162,500.00 USD | Explicit new grad role | Posted Jul 21, 2026<br>First seen Aug 10, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Module-Engineering---Day-Shift-5-or-7_JR0285727>) |
 | Black &amp; Veatch | Associate Mechanical Engineer - Industrial Buildings and Utility Systems | Atlanta, GA, US | - | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Engineer-Industrial-Buildings-and-Utility-Systems-KS-66062/1378645133>) |
 | Bechtel | Mechanical Engineer | United States; Phoenix, Arizona, United States | - | Explicit new grad role | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296085EXTERNALENUS/Mechanical-Engineer>) |
 | 🔥 Boeing | 2nd or 3rd Shift - Entry-Level Product Review Engineer (Liaison Engineering) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/XMLNAME-2nd-or-3rd-Shift---Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026512420>) |

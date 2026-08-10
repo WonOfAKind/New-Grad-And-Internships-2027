@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 9:45 AM EDT
+Last updated: August 10, 2026 at 10:47 AM EDT
 
-Current roles in this view: 29
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,14 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Polaris | Engineering Intern - Summer 2027 | Wyoming, MN, USA | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
+| Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | CNO Financial Group | Endpoint Engineering Intern (Remote) | Carmel, IN | - | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Endpoint-Engineering-Intern---REMOTE_JR170379>) |
 | Leidos | Engineering Intern | Huntsville, AL | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036>) |
 | Becton Dickinson | Controls Tech Intern | USA NE - Columbus (West) | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-552429>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |
 | Nidec | Engineering Co-Op | North America/USA/Missouri/St. Louis - CCP, MO | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---CCP-MO/Engineering-Co-Op_R0016769>) |
-| Thornton Tomasetti | Structural Engineer Intern | New York, NY, USA | $30 - $35 hourly | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Structural-Engineer-Intern_R7152>) |
 | HNTB | Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only) | Boston, MA | $26.34 - $39.50/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1>) |
 | HNTB | Returning Intern Engineer - Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only) | Philadelphia, PA (Pennsylvania) | $24.23 - $36.34/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-Intern-Engineer---Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-31026-1>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | NY, New York, R184234 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 9:45 AM EDT
+Last updated: August 10, 2026 at 10:47 AM EDT
 
 Current roles in this view: 81
 
@@ -69,7 +69,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bosch | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140462550-autonomous-driving-internship-in-machine-learning>) |
 | Nelnet | Intern Program - Agentic AI | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904>) |
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
-| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
