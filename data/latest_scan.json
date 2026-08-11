@@ -1,160 +1,231 @@
 {
-  "scanned_at": "2026-08-11T20:29:29.647Z",
+  "scanned_at": "2026-08-11T21:31:44.804Z",
   "fresh_leads": [
     {
-      "role_id": "3b22f87eea1252846aa0f179",
-      "company_id": "bytedance",
-      "company": "ByteDance",
+      "role_id": "4cabf47e8efc19548fbcb31f",
+      "company_id": "sentry",
+      "company": "Sentry",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "location": "Seattle, Washington",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "location": "San Francisco, California",
       "role_type": "Internship",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$42.75- $42.75/hr",
+      "compensation": "$53.13 per hour",
       "grad_window": "2027 internship eligible",
-      "url": "https://joinbytedance.com/search/7672386983965100341",
-      "source": "https://joinbytedance.com/search/7672386983965100341",
+      "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1",
+      "source": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "",
+      "posted_at": "2026-08-01",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "bytedance|discovery_feed",
+      "source_id": "sentry|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T20:29:07.609Z",
+      "verified_at": "2026-08-11T21:30:59.435Z",
       "verification_version": 6,
       "priority": "P0"
     },
     {
-      "role_id": "69367bcc22c067ff74592a97",
-      "company_id": "bytedance",
-      "company": "ByteDance",
+      "role_id": "a61d03fdf76a225daf73e82a",
+      "company_id": "motorola-solutions",
+      "company": "Motorola Solutions",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "location": "San Jose, California",
+      "title": "Supply Chain Data Analyst Internship 2027",
+      "location": "Chicago, IL",
       "role_type": "Internship",
-      "discipline": "Software Engineering",
+      "discipline": "Data Science & Analytics",
       "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$45- $45/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://joinbytedance.com/search/7671162985123907845",
-      "source": "https://joinbytedance.com/search/7671162985123907845",
-      "date_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "posted_at": "",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "bytedance|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T20:29:07.690Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "9f257d09bdf19e8928d40bb4",
-      "company_id": "bytedance",
-      "company": "ByteDance",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "location": "San Jose, California",
-      "role_type": "Internship",
-      "discipline": "AI / Machine Learning",
-      "disciplines": [
-        "ai-ml"
-      ],
-      "specialties": [],
-      "compensation": "$45- $45/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://joinbytedance.com/search/7671291260529821957",
-      "source": "https://joinbytedance.com/search/7671291260529821957",
-      "date_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "posted_at": "",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "bytedance|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T20:29:08.824Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "0ecc853a5969247e815a57ce",
-      "company_id": "parsons",
-      "company": "Parsons",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Civil Engineering Intern",
-      "location": "US - CA, Pasadena",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
-      "compensation": "$22.93 - $40.14/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307",
-      "source": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307",
-      "date_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "posted_at": "2026-08-11",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "parsons|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T20:29:08.135Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "a8fa6c81e195fa82700f8a26",
-      "company_id": "bp",
-      "company": "BP",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Summer Intern – Reservoir Engineer – Houston, TX",
-      "location": "United States of America - Texas - Houston",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
+        "data"
       ],
       "specialties": [],
       "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655",
-      "source": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489",
+      "source": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
       "posted_at": "2026-08-11",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "bp|discovery_feed",
+      "source_id": "motorola solutions|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T20:29:10.353Z",
+      "verified_at": "2026-08-11T21:31:22.318Z",
       "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-09",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2aa6fdf7db4a750cb24f7801",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Converting Software Engineer Dulles VA",
+      "location": "United States-Virginia-Dulles; United States-Virginia-McLean",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Converting-Software-Engineer-Dulles-VA_R10244689",
+      "source": "https://www.northropgrumman.com/jobs/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-08-12",
+      "updated_at": "Posted Today",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ea038b55ed8bd33dea929a8f",
+      "company_id": "moog",
+      "company": "Moog",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electronics Design Engineer I",
+      "location": "Johnson City, TN",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$75,000.00 - $100,000.00 Annually",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "source": "https://www.moog.com/careers.html",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-16",
+      "expires_at": "",
+      "updated_at": "Posted 26 Days Ago",
+      "source_id": "moog|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "d9ffccbb9d17a3d3b7601a73",
+      "company_id": "black-and-veatch",
+      "company": "Black & Veatch",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Electrical Engineer - Power System Studies",
+      "location": "Ann Arbor, MI, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
+      "source": "https://careers.bv.com/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-05",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "black & veatch|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "0f7e2026090bea6f0c2519a2",
+      "company_id": "black-and-veatch",
+      "company": "Black & Veatch",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Electrical Engineer - Power System Protection",
+      "location": "Cary, NC, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
+      "source": "https://careers.bv.com/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-24",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "black & veatch|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     }
   ],
@@ -202,12 +273,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Black & Veatch",
-      "title": "Associate Electrical Engineer - Power System Studies",
-      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Boeing",
       "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
@@ -232,33 +297,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Black & Veatch",
-      "title": "Associate Electrical Engineer - Power System Protection",
-      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "United Launch Alliance",
       "title": "Electrical Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Boston Scientific",
       "title": "R&D Engineer I (Maple Grove, MN, US, 55311)",
       "url": "https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1416902200",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Development Program Welding",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -530,7 +577,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 885,
+      "matches": 886,
       "phase": "fast-pass"
     },
     {
@@ -540,7 +587,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 124,
+      "matches": 123,
       "phase": "fast-pass"
     },
     {
@@ -560,7 +607,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 104,
+      "matches": 103,
       "phase": "fast-pass"
     },
     {
@@ -570,7 +617,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 85,
+      "matches": 86,
       "phase": "fast-pass"
     },
     {
@@ -580,7 +627,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 972,
+      "matches": 971,
       "phase": "fast-pass"
     },
     {
@@ -719,7 +766,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -987,7 +1034,7 @@
       "source_id": "northrop grumman|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1057,7 +1104,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 194,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -1077,7 +1124,7 @@
       "source_id": "woodward|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1087,7 +1134,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1137,7 +1184,7 @@
       "source_id": "johns hopkins applied physics laboratory|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1157,7 +1204,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1177,7 +1224,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 94,
+      "matches": 80,
       "phase": "fast-pass"
     },
     {
@@ -1287,7 +1334,7 @@
       "source_id": "apple|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -1353,7 +1400,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 78,
+      "matches": 79,
       "phase": "fast-pass"
     },
     {
@@ -1500,19 +1547,11 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "CrowdStrike",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Wiz",
@@ -1768,33 +1807,21 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Target Tech",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Home Depot Technology",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "home depot technology|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
     },
     {
       "company": "Lowe's Technology",
@@ -1830,19 +1857,11 @@
       "company": "Zillow",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Zillow",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "zillow|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Yelp",
@@ -1909,7 +1928,7 @@
       "source_id": "hpe|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1959,7 +1978,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 54,
+      "matches": 56,
       "phase": "fast-pass"
     },
     {
@@ -2229,7 +2248,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -2319,7 +2338,7 @@
       "source_id": "booz allen hamilton|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2529,7 +2548,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 15,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -2564,24 +2583,10 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Axiom Space",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Red Hat",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2592,7 +2597,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Cummins",
@@ -2636,17 +2641,11 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2672,24 +2671,10 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2700,7 +2685,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Abbott",
@@ -2726,8 +2711,10 @@
       "company": "Black & Veatch",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "request timed out after 10000ms",
+      "source_id": "black & veatch|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -2852,45 +2839,45 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-11T20:29:29.647Z",
-    "elapsed_ms": 339388,
+    "scanned_at": "2026-08-11T21:31:44.804Z",
+    "elapsed_ms": 324378,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
     "discovered_sources_active": 151,
     "discovered_companies_active": 151,
-    "companies_with_active_sources": 213,
+    "companies_with_active_sources": 219,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4101,
-      "official_candidates": 1445,
-      "cached_verifications": 410,
+      "rows_parsed": 4106,
+      "official_candidates": 1450,
+      "cached_verifications": 417,
       "reverify_hours": 24,
-      "verification_attempts": 1035,
+      "verification_attempts": 1033,
       "verification_successes": 254,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1315,
-        "untracked discipline": 618,
+        "untracked discipline": 619,
         "graduate-degree-only role": 87,
-        "excluded recruiting year": 160,
+        "excluded recruiting year": 162,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 354,
-        "verification: official posting closed: provider requisition is no longer listed": 79,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 356,
+        "verification: official posting closed: provider requisition is no longer listed": 80,
         "verification: official posting closed: explicit closed-page message": 11,
         "verification: official posting closed: 404 Not Found": 27,
-        "verification: official page has an excluded recruiting year": 83,
+        "verification: official page has an excluded recruiting year": 80,
         "verification: 405 Not Allowed": 32,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: 403 Forbidden": 68,
         "verification: official posting closed: official page shell does not expose the requisition": 52,
-        "verification: fetch failed": 4,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
         "verification: 400 Bad Request": 6,
+        "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
         "verification: 410 Gone": 2,
@@ -2898,8 +2885,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 3,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 5,
+    "discovery_new_sources_this_scan": 5,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 62,
@@ -2909,11 +2896,11 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 13,
+    "double_check_attempts": 4,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 240,
-    "ok_sources": 213,
-    "error_sources": 13,
+    "total_fetch_attempts": 231,
+    "ok_sources": 219,
+    "error_sources": 7,
     "blocked_sources": 1,
     "ats_ok_sources": 72,
     "ats_error_sources": 3,
@@ -2921,18 +2908,18 @@
     "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 9,
-      "Request Timeout": 4
+      "429 Too Many Requests": 4,
+      "Request Timeout": 3
     },
-    "board_eligible_candidates": 929,
-    "provider_candidate_checks": 185,
-    "provider_candidate_closed": 1,
+    "board_eligible_candidates": 939,
+    "provider_candidate_checks": 192,
+    "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 159,
+    "closure_checks": 160,
     "inactive_provider_checks": 122,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 57,
+    "closed_roles_removed": 53,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
