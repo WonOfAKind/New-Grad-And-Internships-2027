@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 10:45 AM EDT
+Last updated: August 11, 2026 at 11:42 AM EDT
 
 Current roles in this view: 13
 
@@ -13,14 +13,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Capgemini | Junior AI Data Scientist/Engineer | New York, NY, NY, US | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433>) |
+| Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Aug 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | WebFX | Junior Business Data Analyst | Harrisburg, PA | $50,000 - $53,000 | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA>) |
-| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Aug 6, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | TikTok | Data Scientist Graduate (TikTok LIVE) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669660107303684405>) |
 | TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667035008003328309>) |
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
 | TikTok | Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668512600592812293>) |
 | TikTok | Data Scientist Graduate (TikTok-Search) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669658702904871173>) |
-| Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
+| Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | Leidos | Junior Data Analyst w/ Top Secret | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Data-Analyst_R-00187929>) |
 | Software Quality Experts | Entry level Business Analyst/ Data Analyst | Sterling, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861-entry-level-business-analyst-data-analyst>) |
 | Boeing | Matlab/Simulink Engineer (Associate or Mid-Level) | USA - Kirtland AFB, NM; USA - Albuquerque, NM | $79,900 - $108,100 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 11, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1>) |

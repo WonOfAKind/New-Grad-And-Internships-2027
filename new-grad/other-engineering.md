@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 10:45 AM EDT
+Last updated: August 11, 2026 at 11:42 AM EDT
 
-Current roles in this view: 23
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 11, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Thermo Fisher Scientific | Field Service Engineer I (SDB/SEM) RTP | Remote, North Carolina, United States of America | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
@@ -23,9 +24,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Austin | Austin, TX | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/austin-tx/assistant-structural-engineer-transmission-distribution-austin/0721070F78B84471A116FF377221178E/job>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-structural-engineer-transmission-distribution-kansas-city/AC250A7622A0421FBCC328BAC5469DBB/job>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Orlando | Orlando, FL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/orlando-fl/assistant-structural-engineer-transmission-distribution-orlando/FA0A44C509A2446EBD361CCFC99763BC/job>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | Leidos | Junior Manual Test Engineer | Annapolis Junction, MD | $69,550.00 - $125,725.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/es/es/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257>) |
 | Comcast | Engineer 1, Installation-Managed Enterprise Services | IL - Naperville, 1415 W Diehl Rd Ste 5; CO - Denver, 8000 E Iliff Ave | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 11, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298>) |
+| Leidos | Associate Engineer Drafter | Reston, VA | $73,450.00 - $132,775.00 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 11, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Associate-Engineer-Drafter_R-00184630>) |
+| Leidos | Junior Engineer Drafter | Reston, VA | $59,150.00 - $106,925.00 | Early career | Posted Aug 5, 2026<br>First seen Aug 11, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Engineer-Drafter_R-00184626>) |
 | Thermo Fisher Scientific | Field Service Engineer I (SDB/SEM) RTP | Remote, North Carolina, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP>) |
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
