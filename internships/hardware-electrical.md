@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 8:08 PM EDT
+Last updated: August 11, 2026 at 9:43 AM EDT
 
-Current roles in this view: 47
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -22,7 +22,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003>) |
 | Western Digital | Summer 2027 Intern - Hardware Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000140949875-summer-2027-intern-hardware-engineering>) |
 | Rainmaker | Electrical Engineering Intern - Fall | El Segundo, CA | - | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b>) |
-| RTX | Raytheon Electrical Engineering Intern (Summer 2027)(Onsite) | plano, Texas, United States of America | - | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Raytheon-Electrical-Engineering-Intern--Summer-2027--Onsite-_01864023/apply>) |
 | Draper | Embedded Quality &amp; Fielded Systems Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718>) |
 | BAE Systems | Electrical Engineering Coop (Summer/Fall 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301763&partnerid=25771&siteid=5403>) |
 | Microsoft | Research Intern - Firmware Security | Redmond, WA, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556955518>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 10, 2026 at 8:08 PM EDT
+Last updated: August 11, 2026 at 9:43 AM EDT
 
-Current roles in this view: 26
+Current roles in this view: 25
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,7 +21,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HNTB | Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only) | Boston, MA | $26.34 - $39.50/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1>) |
 | HNTB | Returning Intern Engineer - Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only) | Philadelphia, PA (Pennsylvania) | $24.23 - $36.34/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-Intern-Engineer---Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-31026-1>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | NY, New York, R184234 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234>) |
-| Bosch Group | Project Management / Test Engineering Intern | Plymouth, Michigan, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141334799-project-management-test-engineering-intern>) |
 | Nidec | Engineering Co-op-2 | North America/USA/Missouri/St. Louis - WPE, MO | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 4, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Engineering-Co-op-2_R0017023>) |
 | PlusAI | Research Engineer Intern - Mapping &amp; Localization | Santa Clara, CA | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061>) |
 | Stantec | Transportation Engineering Co-op/Intern (Spring 2027) | New York, NY, United States; Portland, OR, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071>) |
