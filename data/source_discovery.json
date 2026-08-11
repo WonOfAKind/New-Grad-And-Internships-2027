@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-11T16:36:23.774Z",
+  "updated_at": "2026-08-11T17:41:59.533Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -3873,7 +3873,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-08-10T21:24:21.367Z",
+      "checked_at": "2026-08-11T17:36:10.685Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3897,10 +3897,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "error",
-      "last_scan_error": "403 Forbidden",
-      "last_verified_at": "2026-08-10T21:29:07.438Z"
+      "last_scan_at": "2026-08-11T17:41:59.533Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T17:41:59.533Z"
     },
     "axon": {
       "company": "Axon",
@@ -4979,10 +4979,10 @@
         "limit": 20,
         "verified_open_jobs": 419
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T14:45:37.201Z"
+      "last_scan_at": "2026-08-11T17:41:59.533Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T17:41:59.533Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5095,10 +5095,10 @@
         "limit": 20,
         "verified_open_jobs": 1024
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T15:42:38.200Z"
+      "last_scan_at": "2026-08-11T17:41:59.533Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T17:41:59.533Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",

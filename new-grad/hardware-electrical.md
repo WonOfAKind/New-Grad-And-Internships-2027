@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 12:36 PM EDT
+Last updated: August 11, 2026 at 1:41 PM EDT
 
-Current roles in this view: 23
+Current roles in this view: 24
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -25,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Protection | Cary, NC, US | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833>) |
 | United Launch Alliance | Electrical Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
+| Amentum | Power System Design Engineer - Entry Level | Tullahoma, Tennessee, US | $61,660 - $101,600 | Early career | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states>) |
 | Moog | Electronics Design Engineer I | Johnson City, TN | $75,000.00 - $100,000.00 Annually | Verified early career (BS) | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972>) |
 | Lockheed Martin | RF Systems Engineer Level 1 - Clearance Required | Hanover, Maryland | $73,400 - $129,260 | Verified early career (BS) | Posted Jun 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/hanover/rf-systems-engineer-level-1-clearance-required/694/92888973888>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |
