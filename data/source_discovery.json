@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-11T17:41:59.533Z",
+  "updated_at": "2026-08-11T18:36:22.280Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T18:36:22.280Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T16:36:23.774Z"
     },
     "netflix": {
@@ -820,9 +820,9 @@
         "limit": 20,
         "verified_open_jobs": 405
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T18:36:22.280Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T16:36:23.774Z"
     },
     "palo alto networks": {

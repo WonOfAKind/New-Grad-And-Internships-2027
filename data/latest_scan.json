@@ -1,92 +1,66 @@
 {
-  "scanned_at": "2026-08-11T17:41:59.533Z",
+  "scanned_at": "2026-08-11T18:36:22.280Z",
   "fresh_leads": [
     {
-      "role_id": "2ad579c4283833f5db261a39",
-      "company_id": "leidos",
-      "company": "Leidos",
+      "role_id": "2d5d30a7d6bc89ef9f351d3d",
+      "company_id": "mks-instruments",
+      "company": "MKS Instruments",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Junior Engineer Drafter",
-      "location": "Reston, VA",
-      "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "title": "2027 Summer Mechanical Automation Engineering Intern",
+      "location": "Milpitas, CA",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "other-engineering"
+        "mechanical",
+        "manufacturing-industrial"
       ],
       "specialties": [],
-      "compensation": "$59,150.00 - $106,925.00",
-      "grad_window": "Early career",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Engineer-Drafter_R-00184626",
-      "source": "https://careers.leidos.com/search/jobs",
+      "compensation": "$27.00 - $31.00 per hour",
+      "grad_window": "2027 internship eligible",
+      "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
+      "source": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "Posted 6 Days Ago",
-      "source_id": "leidos|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-09",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-08-18",
       "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
+      "source_id": "mks instruments|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T18:36:02.380Z",
+      "verification_version": 6,
       "priority": "P0"
     },
     {
-      "role_id": "feeb35f3c7ac471ff107f570",
-      "company_id": "leidos",
-      "company": "Leidos",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Engineer Drafter",
-      "location": "Reston, VA",
+      "role_id": "9025c86b5cce4320502ae1d8",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Development Materials",
+      "location": "Mossville, Illinois",
       "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "other-engineering"
+        "mechanical",
+        "manufacturing-industrial"
       ],
       "specialties": [],
-      "compensation": "$73,450.00 - $132,775.00",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Associate-Engineer-Drafter_R-00184630",
-      "source": "https://careers.leidos.com/search/jobs",
+      "compensation": "$81,370.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
+      "source": "https://careers.caterpillar.com/en/jobs/",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "Posted 6 Days Ago",
-      "source_id": "leidos|workday",
+      "posted_at": "",
+      "expires_at": "2026-08-15",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "caterpillar|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -95,30 +69,198 @@
       "priority": "P1"
     },
     {
-      "role_id": "c770bb78bbc4507f5a7dc672",
-      "company_id": "nissan",
-      "company": "Nissan",
+      "role_id": "ab128ea59bec0c8e75a25302",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Product Development Program",
+      "location": "Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$81,370.00 - $146,290.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "2026-08-15",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "21fac593559a321fb47b3386",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Development Program Welding",
+      "location": "Mossville, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$89,210.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "1ef908624a264506e8e2e0a7",
+      "company_id": "jll",
+      "company": "JLL",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Systems Engineer 1",
-      "location": "Canton, Mississippi - United States of America",
-      "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "title": "HVAC Technician Intern",
+      "location": "Seattle, WA",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "other-engineering"
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097",
+      "source": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-10-11",
+      "updated_at": "",
+      "source_id": "jll|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T18:36:05.969Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "3e2728edf6bd6484b3599ae7",
+      "company_id": "booz-allen-hamilton",
+      "company": "Booz Allen Hamilton",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "AI RAN Telecommunications Engineer Intern",
+      "location": "McLean, VA",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+      "source": "https://careers.boozallen.com/jobs/search",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-11-08",
+      "updated_at": "Posted Today",
+      "source_id": "booz allen hamilton|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "c483bdca5d408c88f5ecb0b9",
+      "company_id": "comcast",
+      "company": "Comcast",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Engineer 1, Software Development & Engineering",
+      "location": "PA - Philadelphia, 1800 Arch St",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
       ],
       "specialties": [],
       "compensation": "",
       "grad_window": "Verified early career (BS)",
-      "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-1_R00200457-1",
-      "source": "https://www.nissanmotor.jobs/americas/",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528",
+      "source": "https://jobs.comcast.com/search-jobs",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
       "posted_at": "2026-08-11",
-      "expires_at": "",
+      "expires_at": "2026-08-13",
       "updated_at": "Posted Today",
-      "source_id": "nissan|workday",
+      "source_id": "comcast|workday",
       "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "da2bc434f97fb4f851a03d53",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Electrical Engineer 1",
+      "location": "Millersburg, Pennsylvania, Stati Uniti d'America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing",
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "source": "https://jobs.thermofisher.com/global/en",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-31",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -150,6 +292,12 @@
       "title": "Data Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Data-Engineer_R5036560-2/apply",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Textron",
+      "title": "Software Engineer 1 - Sea Systems",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Lockheed Martin",
@@ -197,6 +345,12 @@
       "company": "United Launch Alliance",
       "title": "Electrical Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -428,6 +582,18 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Leidos",
+      "title": "Associate Engineer Drafter",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Associate-Engineer-Drafter_R-00184630",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Leidos",
+      "title": "Junior Engineer Drafter",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Engineer-Drafter_R-00184626",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Thermo Fisher Scientific",
       "title": "Field Service Engineer I (SDB/SEM) RTP",
       "url": "https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP",
@@ -452,10 +618,10 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Becton Dickinson",
-      "title": "Controls Tech Intern",
-      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NE---Columbus-West/Controls-Tech-Intern_R-552429",
-      "reason": "official verification confirmed closure"
+      "company": "General Dynamics Information Technology",
+      "title": "PTOC AI/Machine Learning Internship -DC Metro Area",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
+      "reason": "no longer matches board eligibility policy"
     }
   ],
   "scan_log": [
@@ -516,7 +682,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 104,
+      "matches": 102,
       "phase": "fast-pass"
     },
     {
@@ -536,7 +702,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 973,
+      "matches": 972,
       "phase": "fast-pass"
     },
     {
@@ -615,7 +781,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 245,
+      "matches": 249,
       "phase": "fast-pass"
     },
     {
@@ -665,7 +831,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 68,
+      "matches": 74,
       "phase": "fast-pass"
     },
     {
@@ -845,7 +1011,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -862,11 +1028,17 @@
       "company": "Leidos",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "leidos|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 6,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Leidos",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "Leidos workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -918,17 +1090,11 @@
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "caterpillar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 8,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Caterpillar",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -997,7 +1163,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 57,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -1007,7 +1173,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 190,
+      "matches": 191,
       "phase": "fast-pass"
     },
     {
@@ -1027,7 +1193,7 @@
       "source_id": "woodward|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1044,17 +1210,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1113,7 +1273,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 9,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1123,7 +1283,7 @@
       "source_id": "peraton|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 10,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1133,7 +1293,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 101,
+      "matches": 81,
       "phase": "fast-pass"
     },
     {
@@ -1163,7 +1323,7 @@
       "source_id": "archer aviation|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 89,
+      "matches": 86,
       "phase": "fast-pass"
     },
     {
@@ -1250,11 +1410,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1450,11 +1616,17 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -2231,7 +2403,7 @@
       "source_id": "booz allen hamilton|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2564,11 +2736,19 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "kla|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 4,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Stryker",
@@ -2647,7 +2827,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2664,19 +2844,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "goodyear|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2740,55 +2912,54 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-11T17:41:59.533Z",
-    "elapsed_ms": 393988,
+    "scanned_at": "2026-08-11T18:36:22.280Z",
+    "elapsed_ms": 325378,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 226,
     "discovered_sources_active": 150,
     "discovered_companies_active": 150,
-    "companies_with_active_sources": 219,
+    "companies_with_active_sources": 218,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4104,
-      "official_candidates": 1437,
-      "cached_verifications": 120,
+      "rows_parsed": 4101,
+      "official_candidates": 1446,
+      "cached_verifications": 390,
       "reverify_hours": 24,
-      "verification_attempts": 1317,
-      "verification_successes": 519,
+      "verification_attempts": 1056,
+      "verification_successes": 275,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1315,
-        "untracked discipline": 630,
+        "untracked discipline": 620,
         "graduate-degree-only role": 87,
-        "excluded recruiting year": 162,
+        "excluded recruiting year": 161,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 365,
-        "verification: official posting closed: provider requisition is no longer listed": 79,
-        "verification: official posting closed: explicit closed-page message": 10,
-        "verification: official posting closed: 404 Not Found": 28,
-        "verification: official page has an excluded recruiting year": 90,
-        "verification: 405 Not Allowed": 33,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 354,
+        "verification: official posting closed: provider requisition is no longer listed": 80,
+        "verification: official posting closed: explicit closed-page message": 11,
+        "verification: official posting closed: 404 Not Found": 27,
+        "verification: official page has an excluded recruiting year": 84,
+        "verification: 405 Not Allowed": 32,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: 403 Forbidden": 68,
-        "verification: official posting closed: official page shell does not expose the requisition": 51,
+        "verification: official posting closed: official page shell does not expose the requisition": 52,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
         "verification: 400 Bad Request": 6,
         "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
         "verification: 410 Gone": 2,
-        "verification: official provider verification unavailable: 403 Forbidden": 1,
-        "verification: 429 Too Many Requests": 1
+        "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 1,
-    "discovery_new_sources_this_scan": 1,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 64,
@@ -2798,30 +2969,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 4,
+    "double_check_attempts": 5,
     "unique_sources_attempted": 226,
-    "total_fetch_attempts": 230,
-    "ok_sources": 219,
-    "error_sources": 6,
+    "total_fetch_attempts": 231,
+    "ok_sources": 218,
+    "error_sources": 7,
     "blocked_sources": 1,
-    "ats_ok_sources": 72,
-    "ats_error_sources": 3,
+    "ats_ok_sources": 73,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 94.7,
+    "ats_success_percent": 96.1,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 4,
+      "Request Timeout": 5,
       "429 Too Many Requests": 2
     },
-    "board_eligible_candidates": 954,
-    "provider_candidate_checks": 195,
+    "board_eligible_candidates": 950,
+    "provider_candidate_checks": 197,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 138,
-    "inactive_provider_checks": 101,
-    "inactive_provider_closed": 1,
+    "closure_checks": 155,
+    "inactive_provider_checks": 113,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 55,
+    "closed_roles_removed": 59,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
