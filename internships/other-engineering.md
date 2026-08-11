@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 6:28 PM EDT
+Last updated: August 11, 2026 at 7:26 PM EDT
 
-Current roles in this view: 30
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -17,6 +17,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Parsons | Civil Engineering Intern | CA, Pasadena, R184307 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307>) |
 | Parsons | Roadway Engineering Intern - Summer 2027 | IN, Indianapolis, R184488 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488>) |
 | RE/SPEC Inc. | Student Engineering Intern - Cavern Geomechanics | Rapid City, South Dakota, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/RESPECInc/744000107082695-student-engineering-intern-cavern-geomechanics>) |
+| SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51>) |
 | Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |

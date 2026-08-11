@@ -1,95 +1,385 @@
 {
-  "scanned_at": "2026-08-11T22:28:38.090Z",
+  "scanned_at": "2026-08-11T23:26:35.476Z",
   "fresh_leads": [
     {
-      "role_id": "a4fa2802f47803089b00b6f6",
-      "company_id": "copart",
-      "company": "Copart",
+      "role_id": "602a7154ed3508fe21a49208",
+      "company_id": "solar-turbines",
+      "company": "Solar Turbines",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Analytics Engineer Intern",
-      "location": "Dallas, TX - Headquarters",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
+      "title": "2027 Entry Level Gas Turbine Product Engineer (GTPE)",
+      "location": "San Diego, California",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
+        "aerospace",
+        "manufacturing-industrial",
         "data"
       ],
       "specialties": [],
+      "compensation": "$77,264.00 - $115,896.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
+      "source": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-12-31",
+      "updated_at": "",
+      "source_id": "solar turbines|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:25:45.309Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "724c22566b98f2d806a27bf7",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer for Test Systems (early career)",
+      "location": "Huntsville, Alabama, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "test-validation",
+        "hardware-electronics"
+      ],
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
-      "source": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/electrical-engineer-for-test-systems-early-career-huntsville-alabama-united-states-664cb626-3882-4631-a267-8828ce966725",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-28",
+      "expires_at": "2026-11-09",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-09",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2827c42c28d943e65594375a",
+      "company_id": "maxar",
+      "company": "Maxar",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "GIS Engineer (Jr)",
+      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
+      "role_type": "New Grad",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$67,000.00 - $111,000.00 annually",
+      "grad_window": "Early career",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "source": "https://www.maxar.com/careers",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "maxar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "73d7c5950ee51351cba25207",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Associate Electrical Engineer / Electrical Engineer",
+      "location": "United States-Florida-Melbourne",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$63,900.00 - $95,900.00",
+      "grad_window": "2027 grad eligible",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer_R10243534",
+      "source": "https://www.northropgrumman.com/jobs/",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
       "posted_at": "2026-08-11",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "copart|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T22:26:38.230Z",
-      "verification_version": 6,
+      "expires_at": "2026-08-25",
+      "updated_at": "Posted Today",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     },
     {
-      "role_id": "72273780b7858157b38d426e",
-      "company_id": "micron-technology",
-      "company": "Micron Technology",
+      "role_id": "ccb7bf716488a47349337906",
+      "company_id": "solopulse",
+      "company": "SoloPulse",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Intern - Process Development Engineer, 3D DRAM Metals",
-      "location": "Boise, ID - Main Site",
+      "title": "Systems Engineering Intern",
+      "location": "Peachtree Corners, GA",
       "role_type": "Internship",
-      "discipline": "Manufacturing & Industrial Engineering",
+      "discipline": "Other Engineering",
       "disciplines": [
-        "manufacturing-industrial"
+        "other-engineering"
       ],
       "specialties": [],
       "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311",
-      "source": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311",
+      "url": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51",
+      "source": "https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-08-11",
+      "posted_at": "",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "micron technology|discovery_feed",
+      "source_id": "solopulse|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T22:28:01.760Z",
+      "verified_at": "2026-08-11T23:26:19.198Z",
       "verification_version": 6,
       "priority": "P1"
     },
     {
-      "role_id": "27f0bb87ebfcda495a6dfc6d",
-      "company_id": "boston-scientific",
-      "company": "Boston Scientific",
+      "role_id": "be6222e71b24314da09747e1",
+      "company_id": "layup-parts",
+      "company": "Layup Parts",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Quality Engineer I (St. Paul, MN, US)",
-      "location": "St. Paul, MN, US",
-      "role_type": "New Grad",
+      "title": "Software Engineering Intern",
+      "location": "Huntington Beach, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53",
+      "source": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "layup parts|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:26:19.222Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ec5b3c38cd3dbadd065bb875",
+      "company_id": "plusai",
+      "company": "PlusAI",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Robotics Systems Intern - Sensor Platform",
+      "location": "Santa Clara, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b",
+      "source": "https://jobs.lever.co/plus-2/c6560f15-5446-442a-878d-b7c72606149b",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "plusai|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:26:22.330Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "0a46d81b16905aa00130ce8f",
+      "company_id": "layup-parts",
+      "company": "Layup Parts",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Engineer Intern",
+      "location": "Huntington Beach, CA",
+      "role_type": "Internship",
       "discipline": "Manufacturing & Industrial Engineering",
       "disciplines": [
         "manufacturing-industrial"
       ],
       "specialties": [
-        "test-validation"
+        "manufacturing"
       ],
       "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.bostonscientific.com/job/St_-Paul-Quality-Engineer-I-MN-55101/1418448200",
-      "source": "https://jobs.bostonscientific.com/",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583",
+      "source": "https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
       "posted_at": "",
-      "expires_at": "2026-09-10",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "boston scientific|rss_jobs",
-      "source_adapter": "rss_jobs",
+      "source_id": "layup parts|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:26:22.378Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "68701cef26452cb9f9b0ef14",
+      "company_id": "machina-labs",
+      "company": "Machina Labs",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Robotic Process Engineer, Intern",
+      "location": "Chatsworth, CA",
+      "role_type": "Internship",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed",
+      "source": "https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "machina labs|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:26:22.404Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "20f76bedc2dbe7a03ccd7cf9",
+      "company_id": "machina-labs",
+      "company": "Machina Labs",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Robotic Process Engineer, Intern",
+      "location": "Chatsworth, CA",
+      "role_type": "Internship",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1",
+      "source": "https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "machina labs|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T23:26:22.429Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "c483bdca5d408c88f5ecb0b9",
+      "company_id": "comcast",
+      "company": "Comcast",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Engineer 1, Software Development & Engineering",
+      "location": "PA - Philadelphia, 1800 Arch St",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528",
+      "source": "https://jobs.comcast.com/search-jobs",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-08-13",
+      "updated_at": "Posted Today",
+      "source_id": "comcast|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -99,34 +389,22 @@
   ],
   "removed_roles": [
     {
-      "company": "BlueHalo",
-      "title": "Software QA Automation Engineer I",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Comcast",
-      "title": "Engineer 1, Software Development & Engineering",
-      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "BlueHalo",
-      "title": "Junior Scene Generation Engineer",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "GE Aerospace",
       "title": "Data Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Data-Engineer_R5036560-2/apply",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer I, Commerce Engineering",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8459320002",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Twitch",
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Lockheed Martin",
@@ -135,21 +413,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-      "reason": "no longer matches board eligibility policy"
+      "company": "Milwaukee Tool",
+      "title": "Machine Learning Engineer 1",
+      "url": "https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Machine-Learning-Engineer-I_R69717-1",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Studies",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -165,12 +437,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Protection",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
@@ -180,18 +446,6 @@
       "company": "United Launch Alliance",
       "title": "Electrical Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Moog",
-      "title": "Electronics Design Engineer I",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -210,12 +464,6 @@
       "company": "Spirit AeroSystems",
       "title": "Spirit Defense - Material Review Engineer (Associate, Mid-Level , or Senior)",
       "url": "https://careers.spiritaero.com/jobs/16716",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "Matlab/Simulink Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -333,12 +581,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Curtiss-Wright",
-      "title": "Associate Engineer - Quality and Calibration",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Thermo Fisher Scientific",
       "title": "Field Service Engineer I (SDB/SEM) RTP",
       "url": "https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP",
@@ -411,16 +653,16 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Ambarella",
+      "title": "Software Development Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100108",
+      "reason": "official verification confirmed closure"
+    },
+    {
       "company": "General Dynamics Information Technology",
       "title": "AI/Machine Learning Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Lockheed Martin",
-      "title": "Systems Engineer Associate - Early Career",
-      "url": "https://www.lockheedmartinjobs.com/job/huntsville/systems-engineer-associate-early-career/694/97882775392",
-      "reason": "HTTP 404"
     }
   ],
   "scan_log": [
@@ -501,7 +743,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 969,
+      "matches": 974,
       "phase": "fast-pass"
     },
     {
@@ -590,7 +832,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 39,
+      "matches": 38,
       "phase": "fast-pass"
     },
     {
@@ -780,7 +1022,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 40,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -790,7 +1032,7 @@
       "source_id": "saronic|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 83,
+      "matches": 84,
       "phase": "fast-pass"
     },
     {
@@ -810,7 +1052,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -908,7 +1150,7 @@
       "source_id": "northrop grumman|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 9,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -968,7 +1210,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 52,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -1084,7 +1326,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1104,7 +1346,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 96,
+      "matches": 90,
       "phase": "fast-pass"
     },
     {
@@ -1221,11 +1463,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1450,7 +1698,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 111,
+      "matches": 112,
       "phase": "fast-pass"
     },
     {
@@ -1520,7 +1768,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 32,
+      "matches": 31,
       "phase": "fast-pass"
     },
     {
@@ -2303,8 +2551,10 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "double-check"
     },
     {
@@ -2444,7 +2694,7 @@
       "source_id": "comcast|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -2495,17 +2745,11 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Axiom Space",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Red Hat",
@@ -2599,11 +2843,17 @@
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "stryker|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Stryker",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Abbott",
@@ -2678,7 +2928,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -2775,8 +3025,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-11T22:28:38.090Z",
-    "elapsed_ms": 398039,
+    "scanned_at": "2026-08-11T23:26:35.476Z",
+    "elapsed_ms": 320638,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
@@ -2787,43 +3037,42 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4111,
-      "official_candidates": 1455,
-      "cached_verifications": 418,
+      "rows_parsed": 4131,
+      "official_candidates": 1442,
+      "cached_verifications": 416,
       "reverify_hours": 24,
-      "verification_attempts": 1037,
-      "verification_successes": 253,
+      "verification_attempts": 1026,
+      "verification_successes": 257,
       "verification_deferred": 0,
       "rejection_counts": {
-        "missing required field": 1315,
-        "untracked discipline": 623,
+        "missing required field": 1337,
+        "untracked discipline": 638,
         "graduate-degree-only role": 87,
-        "excluded recruiting year": 163,
+        "excluded recruiting year": 159,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 356,
-        "verification: official posting closed: provider requisition is no longer listed": 80,
-        "verification: official posting closed: explicit closed-page message": 11,
-        "verification: official posting closed: 404 Not Found": 27,
-        "verification: official page has an excluded recruiting year": 85,
-        "verification: 405 Not Allowed": 32,
-        "verification: official posting closed: official page does not identify the requisition": 30,
-        "verification: official provider verification unavailable: 422 Unprocessable Entity": 4,
-        "verification: 403 Forbidden": 68,
-        "verification: official posting closed: official page shell does not expose the requisition": 52,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 353,
+        "verification: official posting closed: provider requisition is no longer listed": 76,
+        "verification: 405 Not Allowed": 33,
+        "verification: official posting closed: official page shell does not expose the requisition": 51,
+        "verification: official posting closed: explicit closed-page message": 9,
+        "verification: official page has an excluded recruiting year": 82,
+        "verification: official posting closed: official page does not identify the requisition": 29,
+        "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
+        "verification: official posting closed: 404 Not Found": 24,
+        "verification: 403 Forbidden": 70,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
         "verification: 400 Bad Request": 6,
         "verification: fetch failed": 2,
-        "verification: official provider verification unavailable: request timed out after 15000ms": 1,
         "verification: official posting closed: redirected away from the requisition": 5,
-        "verification: 404 Not Found": 12,
         "verification: 410 Gone": 2,
+        "verification: 404 Not Found": 11,
         "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 7,
+    "discovery_new_sources_this_scan": 7,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 62,
@@ -2833,9 +3082,9 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 14,
+    "double_check_attempts": 15,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 241,
+    "total_fetch_attempts": 242,
     "ok_sources": 210,
     "error_sources": 16,
     "blocked_sources": 1,
@@ -2848,15 +3097,15 @@
       "429 Too Many Requests": 12,
       "Request Timeout": 4
     },
-    "board_eligible_candidates": 909,
-    "provider_candidate_checks": 159,
+    "board_eligible_candidates": 910,
+    "provider_candidate_checks": 162,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 174,
-    "inactive_provider_checks": 148,
-    "inactive_provider_closed": 0,
+    "closure_checks": 178,
+    "inactive_provider_checks": 149,
+    "inactive_provider_closed": 4,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 54,
+    "closed_roles_removed": 46,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

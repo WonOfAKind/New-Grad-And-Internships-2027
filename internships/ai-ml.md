@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 6:28 PM EDT
+Last updated: August 11, 2026 at 7:26 PM EDT
 
 Current roles in this view: 84
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869>) |
 | ByteDance | Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://joinbytedance.com/search/7671291260529821957>) |
+| Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83>) |
 | ByteDance | Software Engineer Intern (AI Infra Compute) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://joinbytedance.com/search/7667378931599214853>) |
@@ -69,9 +69,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Recommendation) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667346576033777925>) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Visual Search) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667350291952765237>) |
 | Bosch | Autonomous Driving – Internship in Machine Learning | Sunnyvale, CA, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140462550-autonomous-driving-internship-in-machine-learning>) |
-| Intel | AI Software Engineering Intern | US, Oregon, Hillsboro | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Nelnet | Intern Program - Agentic AI | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904>) |
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
+| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
@@ -88,7 +88,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838>) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada; Europe; United States; United Kingdom | - | 2027 internship eligible | Posted May 13, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
-| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | Trata | Research Scientist Intern ⏳ | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | Two Sigma | AI Research Scientist - Intern [2027 Summer] | New York, NY | $5,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096>) |
 | JPMorgan Chase | 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship | Palo Alto, CA; Newark, DE; Plano, TX; Chicago, IL; Jersey City, NJ; Columbus, OH; New York, NY; Wilmington, DE | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223>) |

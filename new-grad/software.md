@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 6:28 PM EDT
+Last updated: August 11, 2026 at 7:26 PM EDT
 
-Current roles in this view: 247
+Current roles in this view: 246
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,6 +16,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BlueHalo | Software Engineer I-2 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-2_8367>) |
 | BlueHalo | Software Engineer I-3 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-3_8368>) |
 | Boston Scientific | Software Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Aug 11, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Software-Engineer-I-MN-55311/1418018600>) |
+| Comcast | Engineer 1, Software Development &amp; Engineering | PA - Philadelphia, 1800 Arch St | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528>) |
 | Northrop Grumman | 2027 Converting Software Engineer Dulles VA | United States-Virginia-Dulles; United States-Virginia-McLean | - | 2027 grad eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Converting-Software-Engineer-Dulles-VA_R10244689>) |
 | Comcast | Junior C++ Software Engineer - New York Hybrid - FreeWheel | NY - New York, 1407 Broadway Floor 12 | $106,304.37 - $159,456.55 | Early career | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Junior-C---Software-Engineer---New-York-Hybrid---FreeWheel_R442391>) |
 | DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | $135,000 - $150,000 USD | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719126005>) |
@@ -204,7 +205,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
 | SimpliSafe | Software Engineer I (Device Control) | Boston, MA | $75,100 - $100,100 | Verified early career (BS) | Posted Jul 17, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/simplisafe/jobs/8049515>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | $ 65,800.00 - $ 98,800.00 | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764>) |
-| Twitch | Software Engineer I, Commerce Engineering | Seattle, WA | $110,500 - $160,000 USD | Verified early career (BS) | Posted Jul 16, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8459320002>) |
 | Akuna Capital | Entry Level Software Engineer - C++ | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8013085>) |
 | Twitch | Software Engineer I - Discovery | San Francisco, CA | $127,100 - $185,000 USD | Verified early career (BS) | Posted Jul 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8623578002>) |
 | IMC Trading | Graduate Quantitative Trader | Chicago, United States | $250,000 | 2027 grad eligible | Posted Jul 13, 2026<br>First seen Jul 8, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4751729101>) |
@@ -212,7 +212,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | Associate DevOps Engineer | Colorado Springs, Colorado | - | Verified early career (BS) | Posted Jul 13, 2026<br>First seen Aug 10, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Associate-DevOps-Engineer_R2125617/apply>) |
 | Intuit | Software Engineer 1 | Mountain View, California, United States; San Diego, California, United States; New York, United States; Atlanta, Georgia, United States | - | Explicit new grad role | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720>) |
 | SpaceX | New Graduate Engineer, Software | Hawthorne, CA | $125,000.00 - $145,000.00 | Explicit new grad role | Posted Jul 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8493079002>) |
-| Twitch | Software Engineer I | San Francisco, CA; Seattle, WA | $110,500 - $160,000 USD | Verified early career (BS) | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/twitch/jobs/8457711002>) |
 | 🔥 Palantir | Forward Deployed Software Engineer, New Grad - Commercial | New York, NY | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 9, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728>) |
 | 🔥 Palantir | Software Engineer, New Grad | New York, NY | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 9, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92>) |
 | 🔥 Palantir | Software Engineer, New Grad - Infrastructure | New York, NY | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 9, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4>) |

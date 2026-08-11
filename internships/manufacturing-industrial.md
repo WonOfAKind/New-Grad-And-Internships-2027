@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 6:28 PM EDT
+Last updated: August 11, 2026 at 7:26 PM EDT
 
-Current roles in this view: 29
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,6 +19,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Medtronic | Engineering Intern – Summer 2027 | Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) |
 | 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Jabil | Manufacturing Engineer - Intern | West Chester, PA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898>) |
+| Layup Parts | Manufacturing Engineer Intern | Huntington Beach, CA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583>) |
+| Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed>) |
+| Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1>) |
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Metals | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311>) |
 | 🔥 Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $30 - $40/hr USD | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007>) |
 | Jabil | Industrial Engineer Intern | San Jose, CA | $16.00 - $32.00/hr | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247>) |

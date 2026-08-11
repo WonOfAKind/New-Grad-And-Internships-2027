@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 6:28 PM EDT
+Last updated: August 11, 2026 at 7:26 PM EDT
 
 Current roles in this view: 59
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 11, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
 | Sandia National Laboratories | Early Career Rd Agentic Ai Systems Engineer Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-rd-agentic-ai-systems-engineer-onsite/BE8795592D2549D98E433B698E1CCB6A/job>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |
@@ -61,7 +62,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Pipe17 | Junior Software Engineer - AI-Native | Seattle, WA | - | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | Black &amp; Veatch | Associate Substation Structural Engineer | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
 | Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
-| Milwaukee Tool | Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Machine-Learning-Engineer-I_R69717-1>) |
 | Peraton | Information Systems Security Engineer Level 1 – AI/ML Project TS/SCI w Poly | MD | $135,000 - $216,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security-->) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
 | Notion | Software Engineer, Early Career (AI) | San Francisco, California | $130,000-$150,000 | Early career | Posted Jul 6, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28>) |
