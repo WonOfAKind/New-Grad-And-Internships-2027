@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-10T23:21:03.195Z",
+  "updated_at": "2026-08-11T00:08:41.587Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -765,9 +765,9 @@
         "limit": 20,
         "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-10T18:34:49.792Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T18:34:49.792Z"
     },
     "palo alto networks": {
@@ -1844,9 +1844,9 @@
         "limit": 20,
         "verified_open_jobs": 995
       },
-      "last_scan_at": "2026-08-09T18:54:29.477Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-09T18:54:29.477Z"
     },
     "lowe's technology": {
@@ -1914,9 +1914,9 @@
         "limit": 20,
         "verified_open_jobs": 111
       },
-      "last_scan_at": "2026-08-09T19:04:09.922Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-09T19:04:09.922Z"
     },
     "opendoor": {
@@ -2165,9 +2165,9 @@
         "limit": 20,
         "verified_open_jobs": 323
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2319,9 +2319,9 @@
         "limit": 20,
         "verified_open_jobs": 125
       },
-      "last_scan_at": "2026-08-10T23:21:03.195Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "qualtrics": {
@@ -3175,9 +3175,9 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T22:24:25.694Z"
     },
     "recursion": {
@@ -3880,9 +3880,9 @@
         "limit": 20,
         "verified_open_jobs": 164
       },
-      "last_scan_at": "2026-08-10T19:43:13.033Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T19:43:13.033Z"
     },
     "oscar health": {
@@ -4305,9 +4305,9 @@
         "limit": 20,
         "verified_open_jobs": 742
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T00:08:41.587Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-10T22:24:25.694Z"
     },
     "honeywell": {

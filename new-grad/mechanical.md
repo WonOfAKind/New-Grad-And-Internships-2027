@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 10, 2026 at 7:21 PM EDT
+Last updated: August 10, 2026 at 8:08 PM EDT
 
-Current roles in this view: 44
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -24,7 +24,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Sandia National Laboratories | Cleared Early Career Rd Mechanical Engineer Applied Technologies Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer-applied-technologies-onsite/30EB9FE074C34C5B91D385CC16AAAA7B/job>) |
 | 🔥 Sandia National Laboratories | Early Career Membersenior Product Design Engineer Design Engineering On Site | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-membersenior-product-design-engineer-design-engineering-on-site/96A50C3DDE5E4289A6111B182340E6C2/job>) |
 | Trane Technologies | Application Engineer I | Fort Smith, Arkansas, Vereinigte Staaten | $67,133.33 - $93,485.00 | Verified early career (BS) | Posted Aug 8, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.tranetechnologies.com/global/de/job/JR-11722/Application-Engineer-I>) |
-| 🔥 General Motors | Early Career Virtual/Computer Aided Engineer | Warren, Michigan, United States of America | - | Early career | Posted Aug 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312>) |
 | 🔥 Northrop Grumman | 2027 Associate Electromechanical Engineer/Electromechanical Engineer | United States-Florida-Melbourne | $65,800 - $98,800/year | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electromechanical-Engineer-Electromechanical-Engineer_R10244429>) |
 | Black &amp; Veatch | Associate Buildings Mechanical Engineer - Federal | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Buildings-Mechanical-Engineer-Federal-KS-66062/1383242433>) |
 | 🔥 GE Aerospace | Mechanical Design Engineer – Next Generation Products | Evendale, Ohio, United States of America | - | Early career | Posted Aug 6, 2026<br>First seen Aug 10, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5038077-1/apply>) |
