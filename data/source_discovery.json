@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-11T19:48:39.770Z",
+  "updated_at": "2026-08-11T20:29:29.647Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,14 +62,14 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-11T19:48:39.770Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T19:48:39.770Z"
     },
     "netflix": {
       "company": "Netflix",
-      "checked_at": "2026-08-04T20:11:55.315Z",
+      "checked_at": "2026-08-11T20:24:25.477Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -88,10 +88,10 @@
         "robotsUrl": "https://explore.jobs.netflix.net/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-04T20:14:41.678Z",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_verified_at": "2026-08-11T20:29:29.647Z"
     },
     "adobe": {
       "company": "Adobe",
@@ -1557,7 +1557,7 @@
     },
     "qualcomm": {
       "company": "Qualcomm",
-      "checked_at": "2026-08-04T20:11:55.315Z",
+      "checked_at": "2026-08-11T20:24:25.477Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -1576,10 +1576,10 @@
         "robotsUrl": "https://careers.qualcomm.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-04T20:14:41.678Z",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_verified_at": "2026-08-11T20:29:29.647Z"
     },
     "broadcom": {
       "company": "Broadcom",
@@ -1664,7 +1664,7 @@
     },
     "micron": {
       "company": "Micron",
-      "checked_at": "2026-08-04T20:11:55.315Z",
+      "checked_at": "2026-08-11T20:24:25.477Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -1683,10 +1683,10 @@
         "robotsUrl": "https://careers.micron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-04T20:14:41.678Z",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-04T20:14:41.678Z"
+      "last_verified_at": "2026-08-11T20:29:29.647Z"
     },
     "samsung semiconductor": {
       "company": "Samsung Semiconductor",
@@ -1874,9 +1874,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-11T16:36:23.774Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T16:36:23.774Z"
     },
     "home depot technology": {
@@ -1899,9 +1899,9 @@
         "limit": 20,
         "verified_open_jobs": 1005
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T13:43:14.164Z"
     },
     "lowe's technology": {
@@ -4642,9 +4642,9 @@
         "limit": 20,
         "verified_open_jobs": 70
       },
-      "last_scan_at": "2026-08-11T14:45:37.201Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T14:45:37.201Z"
     },
     "vast": {
@@ -4995,9 +4995,9 @@
         "limit": 20,
         "verified_open_jobs": 419
       },
-      "last_scan_at": "2026-08-11T17:41:59.533Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T17:41:59.533Z"
     },
     "parker hannifin": {
@@ -5111,9 +5111,9 @@
         "limit": 20,
         "verified_open_jobs": 1024
       },
-      "last_scan_at": "2026-08-11T19:48:39.770Z",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
       "last_scan_status": "error",
-      "last_scan_error": "KLA workday scan timed out after 60000ms",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T17:41:59.533Z"
     },
     "johnson & johnson": {
@@ -5145,10 +5145,10 @@
         "limit": 20,
         "verified_open_jobs": 1151
       },
-      "last_scan_at": "2026-08-11T19:48:39.770Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T14:45:37.201Z"
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T20:29:29.647Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5238,9 +5238,9 @@
         "robotsUrl": "https://careers.bv.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-09T17:22:45.040Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T20:29:29.647Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-09T17:22:45.040Z"
     },
     "corning": {

@@ -1,169 +1,160 @@
 {
-  "scanned_at": "2026-08-11T19:48:39.770Z",
+  "scanned_at": "2026-08-11T20:29:29.647Z",
   "fresh_leads": [
     {
-      "role_id": "c402c77952712a90989f0e96",
-      "company_id": "ing",
-      "company": "ING",
+      "role_id": "3b22f87eea1252846aa0f179",
+      "company_id": "bytedance",
+      "company": "ByteDance",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Summer 2027 Internship - Tech (Infrastructure)",
-      "location": "New York",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "location": "Seattle, Washington",
       "role_type": "Internship",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$35/hour",
+      "compensation": "$42.75- $42.75/hr",
       "grad_window": "2027 internship eligible",
-      "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
-      "source": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
+      "url": "https://joinbytedance.com/search/7672386983965100341",
+      "source": "https://joinbytedance.com/search/7672386983965100341",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-08-10",
-      "expires_at": "2026-08-12",
+      "posted_at": "",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "ing|discovery_feed",
+      "source_id": "bytedance|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-11T19:47:37.815Z",
+      "verified_at": "2026-08-11T20:29:07.609Z",
       "verification_version": 6,
       "priority": "P0"
     },
     {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
+      "role_id": "69367bcc22c067ff74592a97",
+      "company_id": "bytedance",
+      "company": "ByteDance",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "location": "San Jose, California",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "software"
       ],
       "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://joinbytedance.com/search/7671162985123907845",
+      "source": "https://joinbytedance.com/search/7671162985123907845",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-09",
+      "posted_at": "",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
+      "source_id": "bytedance|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T20:29:07.690Z",
+      "verification_version": 6,
       "priority": "P0"
     },
     {
-      "role_id": "3436159bf0a73ee75858e702",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Associate Quality Engineer",
-      "location": "United States-California-Palmdale",
-      "role_type": "New Grad",
-      "discipline": "Manufacturing & Industrial Engineering",
-      "disciplines": [
-        "manufacturing-industrial"
-      ],
-      "specialties": [
-        "test-validation"
-      ],
-      "compensation": "$69,400 - $104,000/year",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Quality-Engineer_R10244912",
-      "source": "https://www.northropgrumman.com/jobs/",
-      "date_seen": "2026-08-11",
-      "last_seen": "2026-08-11",
-      "posted_at": "2026-08-11",
-      "expires_at": "2026-08-17",
-      "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ad4342c1d8a083b1c48abcbd",
-      "company_id": "thermo-fisher-scientific",
-      "company": "Thermo Fisher Scientific",
+      "role_id": "9f257d09bdf19e8928d40bb4",
+      "company_id": "bytedance",
+      "company": "ByteDance",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Manufacturing Electrical Engineer 1",
-      "location": "Millersburg, Pennsylvania, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "location": "San Jose, California",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
       "disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
+        "ai-ml"
       ],
-      "specialties": [
-        "manufacturing",
-        "hardware-electronics"
-      ],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
-      "source": "https://jobs.thermofisher.com/global/en",
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://joinbytedance.com/search/7671291260529821957",
+      "source": "https://joinbytedance.com/search/7671291260529821957",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-08-01",
+      "posted_at": "",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "thermo fisher scientific|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
+      "source_id": "bytedance|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T20:29:08.824Z",
+      "verification_version": 6,
+      "priority": "P0"
     },
     {
-      "role_id": "991d1545d09b22141041bb0b",
-      "company_id": "thermo-fisher-scientific",
-      "company": "Thermo Fisher Scientific",
+      "role_id": "0ecc853a5969247e815a57ce",
+      "company_id": "parsons",
+      "company": "Parsons",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Field Service Engineer I (SDB/SEM) RTP",
-      "location": "Remote, North Carolina, Stati Uniti d'America",
-      "role_type": "New Grad",
+      "title": "Civil Engineering Intern",
+      "location": "US - CA, Pasadena",
+      "role_type": "Internship",
       "discipline": "Other Engineering",
       "disciplines": [
         "other-engineering"
       ],
       "specialties": [],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP",
-      "source": "https://jobs.thermofisher.com/global/en",
+      "compensation": "$22.93 - $40.14/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307",
+      "source": "https://parsons.wd5.myworkdayjobs.com/search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307",
       "date_seen": "2026-08-11",
       "last_seen": "2026-08-11",
-      "posted_at": "2026-07-29",
+      "posted_at": "2026-08-11",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "thermo fisher scientific|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
+      "source_id": "parsons|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T20:29:08.135Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "a8fa6c81e195fa82700f8a26",
+      "company_id": "bp",
+      "company": "BP",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Summer Intern – Reservoir Engineer – Houston, TX",
+      "location": "United States of America - Texas - Houston",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655",
+      "source": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655",
+      "date_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "posted_at": "2026-08-11",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "bp|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-11T20:29:10.353Z",
+      "verification_version": 6,
       "priority": "P1"
     }
   ],
@@ -225,6 +216,12 @@
     {
       "company": "Thermo Fisher Scientific",
       "title": "Manufacturing Electrical Engineer 1",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Manufacturing Electrical Engineer 1",
       "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
       "reason": "no longer matches board eligibility policy"
     },
@@ -232,12 +229,6 @@
       "company": "Boeing",
       "title": "DSP Algorithms Engineer (Entry-Level)",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Amentum",
-      "title": "Electrical Engineer for Test Systems (early career)",
-      "url": "https://www.amentumcareers.com/jobs/electrical-engineer-for-test-systems-early-career-huntsville-alabama-united-states-664cb626-3882-4631-a267-8828ce966725",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -253,9 +244,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Moog",
-      "title": "Electronics Design Engineer I",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -266,20 +257,8 @@
     },
     {
       "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Development Materials",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
       "title": "2027 Engineering Rotational Development Program Welding",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Product Development Program",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -445,12 +424,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Thermo Fisher Scientific",
-      "title": "Field Service Engineer I (SDB/SEM) RTP",
-      "url": "https://jobs.thermofisher.com/global/en/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Abbott",
       "title": "Instrumentation/Automation Service Engineer I - OS",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1",
@@ -496,6 +469,12 @@
       "company": "Comcast",
       "title": "Engineer 1, Installation-Managed Enterprise Services",
       "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Field Service Engineer I (SDB/SEM) RTP",
+      "url": "https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -551,7 +530,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 884,
+      "matches": 885,
       "phase": "fast-pass"
     },
     {
@@ -910,7 +889,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -989,11 +968,17 @@
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "caterpillar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 6,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Caterpillar",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -1072,7 +1057,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 192,
+      "matches": 194,
       "phase": "fast-pass"
     },
     {
@@ -1089,17 +1074,11 @@
       "company": "Woodward",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "woodward|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Woodward",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Moog",
@@ -1115,17 +1094,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1184,7 +1157,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1204,7 +1177,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 91,
+      "matches": 94,
       "phase": "fast-pass"
     },
     {
@@ -1329,10 +1302,8 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1529,11 +1500,19 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1632,7 +1611,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 122,
+      "matches": 121,
       "phase": "fast-pass"
     },
     {
@@ -1789,21 +1768,33 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "target tech|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Target Tech",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Home Depot Technology",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "home depot technology|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Lowe's Technology",
@@ -1839,11 +1830,19 @@
       "company": "Zillow",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Zillow",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "zillow|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Yelp",
@@ -1990,7 +1989,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -2320,7 +2319,7 @@
       "source_id": "booz allen hamilton|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -2530,7 +2529,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 16,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -2573,10 +2572,8 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "axiom space|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2639,11 +2636,17 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "rockwell automation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2678,7 +2681,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "KLA workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2693,8 +2696,10 @@
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
@@ -2721,10 +2726,8 @@
       "company": "Black & Veatch",
       "adapter": "sitemap_jobs",
       "source_kind": "discovered",
-      "source_id": "black & veatch|sitemap_jobs",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 20,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -2741,19 +2744,11 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "curtiss-wright|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "ABB",
@@ -2812,7 +2807,7 @@
       "source_id": "bluehalo|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -2857,45 +2852,45 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-11T19:48:39.770Z",
-    "elapsed_ms": 379384,
+    "scanned_at": "2026-08-11T20:29:29.647Z",
+    "elapsed_ms": 339388,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
     "discovered_sources_active": 151,
     "discovered_companies_active": 151,
-    "companies_with_active_sources": 217,
+    "companies_with_active_sources": 213,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4103,
-      "official_candidates": 1448,
-      "cached_verifications": 370,
+      "rows_parsed": 4101,
+      "official_candidates": 1445,
+      "cached_verifications": 410,
       "reverify_hours": 24,
-      "verification_attempts": 1078,
-      "verification_successes": 297,
+      "verification_attempts": 1035,
+      "verification_successes": 254,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1315,
-        "untracked discipline": 622,
+        "untracked discipline": 618,
         "graduate-degree-only role": 87,
         "excluded recruiting year": 160,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 354,
-        "verification: official posting closed: provider requisition is no longer listed": 78,
+        "verification: official posting closed: provider requisition is no longer listed": 79,
         "verification: official posting closed: explicit closed-page message": 11,
         "verification: official posting closed: 404 Not Found": 27,
-        "verification: official page has an excluded recruiting year": 86,
+        "verification: official page has an excluded recruiting year": 83,
         "verification: 405 Not Allowed": 32,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: 403 Forbidden": 68,
         "verification: official posting closed: official page shell does not expose the requisition": 52,
+        "verification: fetch failed": 4,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
         "verification: 400 Bad Request": 6,
-        "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
         "verification: 410 Gone": 2,
@@ -2903,8 +2898,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 69,
-    "discovery_new_sources_this_scan": 6,
+    "discovery_attempts_this_scan": 3,
+    "discovery_new_sources_this_scan": 3,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 62,
@@ -2914,30 +2909,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 10,
+    "double_check_attempts": 13,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 237,
-    "ok_sources": 217,
-    "error_sources": 9,
+    "total_fetch_attempts": 240,
+    "ok_sources": 213,
+    "error_sources": 13,
     "blocked_sources": 1,
-    "ats_ok_sources": 71,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 93.4,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 5,
+      "429 Too Many Requests": 9,
       "Request Timeout": 4
     },
-    "board_eligible_candidates": 948,
-    "provider_candidate_checks": 191,
-    "provider_candidate_closed": 0,
+    "board_eligible_candidates": 929,
+    "provider_candidate_checks": 185,
+    "provider_candidate_closed": 1,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 161,
-    "inactive_provider_checks": 120,
+    "closure_checks": 159,
+    "inactive_provider_checks": 122,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 59,
+    "closed_roles_removed": 57,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

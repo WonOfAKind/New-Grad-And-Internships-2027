@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 3:48 PM EDT
+Last updated: August 11, 2026 at 4:29 PM EDT
 
-Current roles in this view: 61
+Current roles in this view: 60
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -59,8 +59,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Travelers | Software Engineer I (AI Driven) | Atlanta, GA | $99,100.00 - $163,400.00 | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831>) |
 | General Motors | ML Validation Engineer - Early Career | Sunnyvale, California, United States of America | - | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |
-| Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
-| Black &amp; Veatch | Associate Substation Structural Engineer | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
+| Pipe17 | Junior Software Engineer - AI-Native | Seattle, WA | - | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
 | Milwaukee Tool | Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Machine-Learning-Engineer-I_R69717-1>) |
 | Peraton | Information Systems Security Engineer Level 1 – AI/ML Project TS/SCI w Poly | MD | $135,000 - $216,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security-->) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 3:48 PM EDT
+Last updated: August 11, 2026 at 4:29 PM EDT
 
-Current roles in this view: 82
+Current roles in this view: 83
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869>) |
+| ByteDance | Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://joinbytedance.com/search/7671291260529821957>) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83>) |
 | ByteDance | Software Engineer Intern (AI Infra Compute) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://joinbytedance.com/search/7667378931599214853>) |
@@ -22,7 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Xsolla | AI-First Engineering Intern | Los Angeles, CA | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6>) |
 | Xsolla | AI-First Engineering Intern | Raleigh, NC | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874>) |
 | General Dynamics Information Technology | AI/Machine Learning Intern | Falls Church, VA | - | Internship | Posted Aug 8, 2026<br>First seen Aug 11, 2026 | [Apply](<https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912>) |
-| Persona AI | Machine Learning Intern, Manipulation | Houston, TX | - | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630>) |
+| Persona AI | Machine Learning Intern - Manipulation | Houston, TX | - | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630>) |
 | The Nuclear Company | AI/ML Engineer Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008>) |
 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7670690923748870405>) |
 | ByteDance | Software Engineer Intern, AI Platform | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://joinbytedance.com/search/7668212952030841093>) |
@@ -54,7 +55,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | PlusAI | Deep Learning Research Intern — Multimodal BEV Perception | Santa Clara, CA | - | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62>) |
 | Shopify | Applied Machine Learning Engineer Intern | Bellevue, WA; New York, NY; Montreal, QC; Ottawa, ON; Toronto, ON | - | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.shopify.com/careers/applied-machine-learning-engineering-internships-winter-2027_b6d312a8-cdd2-4f21-a2f5-313182d6989d>) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
-| General Dynamics Information Technology | GDIT 2027 Summer AI / ML Internship | USA VA Falls Church - 3150 Fairview Park Dr (VAS095) | $22.95 - $31.05/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401>) |
+| General Dynamics Information Technology | GDIT 2027 Summer AI / ML Internship | USA VA Falls Church - 3150 Fairview Par… | $22.95 - $31.05/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401>) |
 | Bot Auto | Intern, Deep Learning Engineer | Houston, TX | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/botauto/jobs/5289440008>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | TikTok | AI Product Design Intern (TikTok-Design) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667856128008702261>) |
@@ -71,7 +72,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
 | Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
-| Workato | Intern, AI Engineering | San Francisco, California | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
+| Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Nelnet | Intern - AI Engineer | Lincoln, NE | $21 - $25/hr | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---AI-Engineer_R22763>) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |
