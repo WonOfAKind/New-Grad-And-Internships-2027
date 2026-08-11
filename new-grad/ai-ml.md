@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 9:43 AM EDT
+Last updated: August 11, 2026 at 10:45 AM EDT
 
-Current roles in this view: 60
+Current roles in this view: 61
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 11, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
 | Sandia National Laboratories | Early Career Rd Agentic Ai Systems Engineer Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-rd-agentic-ai-systems-engineer-onsite/BE8795592D2549D98E433B698E1CCB6A/job>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |

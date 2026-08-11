@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 9:43 AM EDT
+Last updated: August 11, 2026 at 10:45 AM EDT
 
-Current roles in this view: 81
+Current roles in this view: 80
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -56,11 +56,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | General Dynamics Information Technology | GDIT 2027 Summer AI / ML Internship | USA VA Falls Church - 3150 Fairview Par… | $22.95 - $31.05/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401>) |
 | Bot Auto | Intern, Deep Learning Engineer | Houston, TX | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/botauto/jobs/5289440008>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
-| 🔥 Microsoft | Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students - Redmond | Washington, DC | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556922929>) |
 | TikTok | AI Product Design Intern (TikTok-Design) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667856128008702261>) |
 | TikTok | Design Engineering Intern (Design System &amp; AI Workflow - TikTok-Design) - 2027 Summer | San Jose, California, United States of America | $30- $30/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667857406611343621>) |
 | TikTok | ML Infra Engineer Intern (Ads Infra) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668881813744191749>) |
-| TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
+| TikTok | Software Engineer Intern (AI Agent &amp; Global Revenue Platform) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote (US) | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3>) |
 | Bosch | AI and SW Development Engineering Intern | Plymouth, MI, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141302469-ai-and-sw-development-engineering-intern->) |
 | TikTok | Machine Learning Engineer Intern (TikTok-Data-Search-Basic Ranking) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667338938890930437>) |

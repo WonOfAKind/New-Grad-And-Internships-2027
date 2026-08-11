@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-11T13:43:14.164Z",
+  "updated_at": "2026-08-11T14:45:37.201Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2287,9 +2287,9 @@
         "limit": 20,
         "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 60000ms"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -3835,9 +3835,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-10T23:21:03.195Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "l3harris": {
@@ -4058,9 +4058,10 @@
         "limit": 20,
         "verified_open_jobs": 163
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T14:45:37.201Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4607,7 +4608,7 @@
     },
     "axiom space": {
       "company": "Axiom Space",
-      "checked_at": "2026-08-10T22:17:57.489Z",
+      "checked_at": "2026-08-11T14:41:21.698Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4625,10 +4626,10 @@
         "limit": 20,
         "verified_open_jobs": 70
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T22:24:25.694Z"
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T14:45:37.201Z"
     },
     "vast": {
       "company": "Vast",
@@ -4677,7 +4678,7 @@
     },
     "red hat": {
       "company": "Red Hat",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-11T14:41:21.698Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4693,12 +4694,11 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 153
+        "verified_open_jobs": 157
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "canonical": {
       "company": "Canonical",
@@ -4960,7 +4960,7 @@
     },
     "rockwell automation": {
       "company": "Rockwell Automation",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-11T14:41:21.698Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4976,12 +4976,12 @@
         "site": "External_Rockwell_Automation",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 417
+        "verified_open_jobs": 419
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T14:45:37.201Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5076,7 +5076,7 @@
     },
     "kla": {
       "company": "KLA",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-11T14:41:21.698Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5092,12 +5092,11 @@
         "site": "Search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1025
+        "verified_open_jobs": 1024
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_scan_error": "KLA workday scan timed out after 90000ms"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5110,7 +5109,7 @@
     },
     "stryker": {
       "company": "Stryker",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-11T14:41:21.698Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5126,12 +5125,12 @@
         "site": "StrykerCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1130
+        "verified_open_jobs": 1151
       },
-      "last_scan_at": "2026-08-11T13:43:14.164Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-10T16:33:47.849Z"
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-11T14:45:37.201Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5326,9 +5325,9 @@
         "limit": 20,
         "verified_open_jobs": 360
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Curtiss-Wright workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-10T22:24:25.694Z"
     },
     "draper": {
@@ -5615,9 +5614,9 @@
         "limit": 20,
         "verified_open_jobs": 284
       },
-      "last_scan_at": "2026-08-10T22:24:25.694Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-10T22:24:25.694Z"
     },
     "chevron": {
@@ -5664,9 +5663,9 @@
         "limit": 20,
         "verified_open_jobs": 127
       },
-      "last_scan_at": "2026-08-10T13:45:23.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-10T13:45:23.104Z"
     },
     "dow": {
@@ -5700,9 +5699,9 @@
         "robotsUrl": "https://careers.dupont.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-10T23:21:03.195Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-10T23:21:03.195Z"
     },
     "air products": {
@@ -5743,9 +5742,9 @@
         "limit": 20,
         "verified_open_jobs": 373
       },
-      "last_scan_at": "2026-08-09T18:54:29.477Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-11T14:45:37.201Z",
+      "last_scan_status": "error",
+      "last_scan_error": "request timed out after 10000ms",
       "last_verified_at": "2026-08-09T18:54:29.477Z"
     }
   }
