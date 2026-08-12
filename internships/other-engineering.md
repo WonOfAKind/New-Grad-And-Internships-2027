@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 8:45 PM EDT
+Last updated: August 12, 2026 at 9:47 AM EDT
 
 Current roles in this view: 31
 
@@ -12,13 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Curtiss-Wright | Project Engineering Intern | US-NY-East Farmingdale (TR) | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Project-Engineering-Intern_JR13137-1>) |
 | BP | Summer Intern – Reservoir Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | IN, Indianapolis, R184490 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Bridge-Engineering-Intern---Summer-2027_R184490>) |
 | Parsons | Civil Engineering Intern | CA, Pasadena, R184307 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307>) |
 | Parsons | Roadway Engineering Intern - Summer 2027 | IN, Indianapolis, R184488 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488>) |
 | RE/SPEC Inc. | Student Engineering Intern - Cavern Geomechanics | Rapid City, South Dakota, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/RESPECInc/744000107082695-student-engineering-intern-cavern-geomechanics>) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51>) |
-| Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |

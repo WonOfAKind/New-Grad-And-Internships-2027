@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 8:45 PM EDT
+Last updated: August 12, 2026 at 9:47 AM EDT
 
-Current roles in this view: 42
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -31,7 +31,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | CAE | Mechanical Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_122210>) |
 | Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767>) |
 | Reframe Systems | Mechanical Engineer (Spring 2027 Co-op) | Andover, MA | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jobs.ashbyhq.com/reframesystems/f5275832-8373-4971-b5f6-6aaececcb061>) |
-| Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763>) |
 | 🔥 BAE Systems | Mechanical Engineering Coop (Spring/Summer 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301764&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Mechanical Engineering Coop (Summer/Fall 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301766&partnerid=25771&siteid=5403>) |
 | Bosch Group | 2027 Spring Mechanical/Electrical Engineering Co-Op | Charleston, South Carolina, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141338219-2027-spring-mechanical-electrical-engineering-co-op>) |
@@ -47,7 +46,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Skydio | Product Design Engineer Intern | San Mateo, California, United States | $41/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months->) |
 | Huntsman | Mechanical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026>) |
-| Johnson Controls | Mechanical Engineering Fall CO Intern | Pennsylvania | $21-$24/hr | 2027 internship eligible | Posted Jun 23, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1>) |
+| Johnson Controls | Mechanical Engineering Fall CO Intern | New Freedom-Pennsylvania-United States of America | $21-$24/hr | 2027 internship eligible | Posted Jun 23, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1>) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
 | Thornton Tomasetti | Mechanical Engineer Co-op | New York, NY, USA | $25 - $35 hourly | 2027 internship eligible | Posted May 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868>) |
 | Marmon Holdings | Mechanical Engineer Intern | United States of America | - | 2027 internship eligible | Posted Jul 29, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 8:45 PM EDT
+Last updated: August 12, 2026 at 9:47 AM EDT
 
-Current roles in this view: 32
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -25,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Metals | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Metals_JR107311>) |
 | 🔥 Anduril | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States | $30 - $40/hr USD | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5153218007>) |
 | Jabil | Industrial Engineer Intern | San Jose, CA | $16.00 - $32.00/hr | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247>) |
+| Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848>) |
 | KION Group | Controls Engineering Intern/Co-Op | Grand Rapids, MI, United States | $20.00 - $29.00 per hour | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1>) |
 | Moog | Intern, Industrial Engineering | Buffalo, NY | $25.00 - $31.00 Hourly | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319>) |
 | Varda Space | Manufacturing Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824767003>) |
