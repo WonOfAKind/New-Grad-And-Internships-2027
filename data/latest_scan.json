@@ -1,8 +1,169 @@
 {
-  "scanned_at": "2026-08-12T16:37:58.609Z",
+  "scanned_at": "2026-08-12T17:43:15.540Z",
   "fresh_leads": [
     {
-      "role_id": "8b9fb2f160a1296a7cec7421",
+      "role_id": "9aeec10ab2f6d3c8240585e1",
+      "company_id": "vertiv",
+      "company": "Vertiv",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineering Intern (Summer 2027)",
+      "location": "United States; Delaware, OH, United States",
+      "role_type": "Internship",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278502",
+      "source": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278502",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "vertiv|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T17:42:35.860Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "4df17f960da29260fc926bb3",
+      "company_id": "vertiv",
+      "company": "Vertiv",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "location": "United States; Delaware, OH, United States",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503",
+      "source": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "vertiv|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T17:42:35.881Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "974afa1b49e9166bae7cf3f5",
+      "company_id": "vertiv",
+      "company": "Vertiv",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Cost Engineering Intern (Summer 2027)",
+      "location": "Delaware, OH, United States",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896",
+      "source": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "vertiv|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T17:42:35.894Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "5b5666f3cc6cbe86ebcf76ba",
+      "company_id": "jpmorgan-chase",
+      "company": "JPMorgan Chase",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+      "location": "Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data",
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$45.67-$45.67/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "source": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-12",
+      "expires_at": "2026-11-06",
+      "updated_at": "2026-08-12T17:18:40+00:00",
+      "source_id": "jpmorgan chase|oracle",
+      "source_adapter": "oracle",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0ef2432da63214cfbba6d17f",
+      "company_id": "general-motors",
+      "company": "General Motors",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Early Career Virtual/Computer Aided Engineer",
+      "location": "Warren, Michigan, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
+      "source": "https://search-careers.gm.com/en/jobs/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted 5 Days Ago",
+      "source_id": "general motors|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "39a748ab68529071ee03f0f8",
       "company_id": "rtx",
       "company": "RTX",
       "featured_company": true,
@@ -11,522 +172,88 @@
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
+      "title": "Co-Op: Aftermarket Engineer",
+      "location": "US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1",
       "role_type": "Internship",
-      "discipline": "Software Engineering",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "software"
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
       ],
       "specialties": [],
       "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
-      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
       "posted_at": "2026-08-12",
-      "expires_at": "2026-08-18",
+      "expires_at": "2026-08-14",
       "updated_at": "",
       "source_id": "rtx|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T16:37:39.584Z",
+      "verified_at": "2026-08-12T17:42:37.248Z",
       "verification_version": 6,
-      "priority": "P0"
+      "priority": "P1"
     },
     {
-      "role_id": "ae18acb31d7ad952f78ae7bf",
-      "company_id": "booz-allen-hamilton",
-      "company": "Booz Allen Hamilton",
+      "role_id": "6e5e06a47bb2a99468841519",
+      "company_id": "bp",
+      "company": "BP",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Analyst, Junior",
-      "location": "Washington, DC",
-      "role_type": "New Grad",
-      "discipline": "Data Science & Analytics",
+      "title": "Summer Intern - Wells Engineer – Houston, TX",
+      "location": "United States of America - Texas - Houston",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "data"
+        "mechanical"
       ],
       "specialties": [],
-      "compensation": "$48,000.00 - $98,000.00",
-      "grad_window": "Early career",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Analyst--Junior_R0246709",
-      "source": "https://careers.boozallen.com/jobs/search",
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Wells-Engineer---Houston--TX_RQ114709",
+      "source": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Wells-Engineer---Houston--TX_RQ114709",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
       "posted_at": "2026-08-12",
-      "expires_at": "2026-11-09",
-      "updated_at": "Posted Today",
-      "source_id": "booz allen hamilton|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "2827c42c28d943e65594375a",
-      "company_id": "maxar",
-      "company": "Maxar",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "GIS Engineer (Jr)",
-      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
-      "role_type": "New Grad",
-      "discipline": "AI / Machine Learning",
-      "disciplines": [
-        "ai-ml"
-      ],
-      "specialties": [],
-      "compensation": "$67,000.00 - $111,000.00 annually",
-      "grad_window": "Early career",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-      "source": "https://www.maxar.com/careers",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "maxar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "834cbc2af5a08c4b1ea5552a",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Matlab/Simulink Engineer (Associate or Mid-Level)",
-      "location": "USA - Kirtland AFB, NM; USA - Albuquerque, NM",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace",
-        "data"
-      ],
-      "specialties": [],
-      "compensation": "$79,900 - $108,100",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-07-29",
-      "expires_at": "2026-08-13",
-      "updated_at": "Posted 14 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "31e78b56a5c374cb2fb38e2f",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems",
-      "location": "USA - El Segundo, CA",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace",
-        "mechanical"
-      ],
-      "specialties": [
-        "thermal-fluids"
-      ],
-      "compensation": "$63,000 - $113,000",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-11",
-      "expires_at": "2026-08-21",
-      "updated_at": "Posted Yesterday",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "f390784fd6050e4d32089264",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "location": "USA - El Segundo, CA",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$98,600 - $133,400",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-04",
-      "expires_at": "2026-08-25",
-      "updated_at": "Posted 8 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "3d3617316a6498c6b9a2552e",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "location": "USA - El Segundo, CA",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$79,050- $106,950",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-07-29",
-      "expires_at": "2026-08-26",
-      "updated_at": "Posted 14 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "b319184a8cf139c51fbc45bb",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "location": "USA - Oklahoma City, OK",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$66,300 - $89,700",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-07",
-      "expires_at": "2026-08-31",
-      "updated_at": "Posted 5 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c676c31102d3478aff848311",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Junior Scene Generation Engineer",
-      "location": "Huntsville, AL",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
-      "source": "https://bluehalo.com/careers/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "Posted 7 Days Ago",
-      "source_id": "bluehalo|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "fd3b9a148dbdded5662b5554",
-      "company_id": "campbell-soup-company",
-      "company": "Campbell Soup Company",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Data Science Intern",
-      "location": "USA - NJ - Camden",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
-      "disciplines": [
-        "data"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845",
-      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-06-12",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "campbell soup company|discovery_feed",
+      "source_id": "bp|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T16:37:41.857Z",
+      "verified_at": "2026-08-12T17:42:38.427Z",
       "verification_version": 6,
       "priority": "P1"
     },
     {
-      "role_id": "17ae1a147f79372d24b03e2a",
-      "company_id": "campbell-soup-company",
-      "company": "Campbell Soup Company",
+      "role_id": "46e917f3022baadf22f77fe3",
+      "company_id": "abbott",
+      "company": "Abbott",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Science Intern",
-      "location": "USA - NJ - Camden",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
-      "disciplines": [
-        "data"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844",
-      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-06-12",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "campbell soup company|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T16:37:41.089Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "5e3893fa9c5bd8e3d87bbae1",
-      "company_id": "campbell-soup-company",
-      "company": "Campbell Soup Company",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Data Engineer, DA&AI Co-Op",
-      "location": "USA - NJ - Camden",
-      "role_type": "Internship",
-      "discipline": "AI / Machine Learning",
-      "disciplines": [
-        "ai-ml",
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839",
-      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-06-12",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "campbell soup company|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T16:37:41.708Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ea038b55ed8bd33dea929a8f",
-      "company_id": "moog",
-      "company": "Moog",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Electronics Design Engineer I",
-      "location": "Johnson City, TN",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$75,000.00 - $100,000.00 Annually",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
-      "source": "https://www.moog.com/careers.html",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-07-16",
-      "expires_at": "",
-      "updated_at": "Posted 27 Days Ago",
-      "source_id": "moog|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "82621b67a2c3e85651597bb5",
-      "company_id": "curtiss-wright",
-      "company": "Curtiss-Wright",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Engineer - Quality and Calibration",
-      "location": "US-NY-Lansing (ST-800)",
+      "title": "System Engineer I",
+      "location": "United States - Georgia - Atlanta; United States > Massachusetts > Burlington : 168 Middlesex Turnpike; United States > Atlanta : 387 Technology Circle NW Suite 500",
       "role_type": "New Grad",
       "discipline": "Other Engineering",
       "disciplines": [
         "other-engineering"
       ],
-      "specialties": [
-        "test-validation"
-      ],
-      "compensation": "$70,000-$75,000",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
-      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "curtiss-wright|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ad4342c1d8a083b1c48abcbd",
-      "company_id": "thermo-fisher-scientific",
-      "company": "Thermo Fisher Scientific",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Manufacturing Electrical Engineer 1",
-      "location": "Millersburg, Pennsylvania, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [
-        "manufacturing",
-        "hardware-electronics"
-      ],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
-      "source": "https://jobs.thermofisher.com/global/en",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-01",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "thermo fisher scientific|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "da60ab0dd4a88bd7eb7cc834",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Software QA Automation Engineer I",
-      "location": "Moorpark, CA",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
       "specialties": [],
-      "compensation": "$82,000 - $125,000",
+      "compensation": "$73,900.00 - $116,000.00",
       "grad_window": "Verified early career (BS)",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "source": "https://bluehalo.com/careers/",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/System-Engineer-I_31158505-1",
+      "source": "https://www.jobs.abbott/us/en",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "",
+      "posted_at": "2026-08-12",
       "expires_at": "",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "bluehalo|workday",
+      "updated_at": "Posted Today",
+      "source_id": "abbott|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -537,21 +264,45 @@
   ],
   "removed_roles": [
     {
+      "company": "BlueHalo",
+      "title": "Software QA Automation Engineer I",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "RTX",
+      "title": "Software Engineer 1 - Air Traffic Solutions",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "BlueHalo",
+      "title": "Junior Scene Generation Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "GE Aerospace",
       "title": "Data Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Data-Engineer_R5036560-2/apply",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Tower Research Capital",
-      "title": "Quantitative Trader",
-      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Lockheed Martin",
       "title": "Database Engineer - Entry Level",
       "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/database-engineer-entry-level/694/93414597584",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Maxar",
+      "title": "GIS Engineer (Jr)",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -567,9 +318,27 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Boeing",
+      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Manufacturing Electrical Engineer 1",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Thermo Fisher Scientific",
       "title": "Manufacturing Electrical Engineer 1",
       "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -585,9 +354,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "company": "Moog",
+      "title": "Electronics Design Engineer I",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -624,6 +393,12 @@
       "company": "Spirit AeroSystems",
       "title": "Spirit Defense - Material Review Engineer (Associate, Mid-Level , or Senior)",
       "url": "https://careers.spiritaero.com/jobs/16763",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "Matlab/Simulink Engineer (Associate or Mid-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -735,6 +510,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Curtiss-Wright",
+      "title": "Associate Engineer - Quality and Calibration",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Abbott",
       "title": "Instrumentation/Automation Service Engineer I",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000255-1",
@@ -807,16 +588,28 @@
       "reason": "official verification confirmed closure"
     },
     {
+      "company": "Valkyrie Trading",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "General Dynamics Information Technology",
       "title": "AI/Machine Learning Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Microsoft",
-      "title": "Research Intern - Firmware Security",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
-      "reason": "official page shell does not expose the requisition"
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Strategy Developer Intern (Summer 2027, June start)",
+      "url": "https://careers.sig.com/jobs/10838",
+      "reason": "HTTP 404"
+    },
+    {
+      "company": "Susquehanna Investment Group",
+      "title": "Quantitative Strategy Developer Intern",
+      "url": "https://careers.sig.com/intern-co-op-technology/jobs/10838",
+      "reason": "HTTP 404"
     }
   ],
   "scan_log": [
@@ -857,7 +650,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 122,
+      "matches": 123,
       "phase": "fast-pass"
     },
     {
@@ -867,7 +660,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 297,
+      "matches": 295,
       "phase": "fast-pass"
     },
     {
@@ -897,7 +690,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 982,
+      "matches": 979,
       "phase": "fast-pass"
     },
     {
@@ -956,7 +749,7 @@
       "source_id": "jpmorgan chase|oracle",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -976,7 +769,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 249,
+      "matches": 250,
       "phase": "fast-pass"
     },
     {
@@ -1176,7 +969,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 42,
       "phase": "fast-pass"
     },
     {
@@ -1269,17 +1062,11 @@
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "general motors|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "fast-pass"
-    },
-    {
-      "company": "General Motors",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Caterpillar",
@@ -1364,7 +1151,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 51,
+      "matches": 52,
       "phase": "fast-pass"
     },
     {
@@ -1374,7 +1161,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 191,
+      "matches": 193,
       "phase": "fast-pass"
     },
     {
@@ -1404,7 +1191,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1524,7 +1311,7 @@
       "source_id": "archer aviation|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 84,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
@@ -1604,18 +1391,24 @@
       "source_id": "apple|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -2272,7 +2065,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -2572,7 +2365,7 @@
       "source_id": "virtu financial|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 28,
       "phase": "fast-pass"
     },
     {
@@ -2812,7 +2605,7 @@
       "source_id": "boeing|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 15,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -2958,7 +2751,7 @@
       "source_id": "abbott|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 17,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -3103,8 +2896,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-12T16:37:58.609Z",
-    "elapsed_ms": 341416,
+    "scanned_at": "2026-08-12T17:43:15.540Z",
+    "elapsed_ms": 349456,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
@@ -3115,43 +2908,43 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4144,
-      "official_candidates": 1444,
-      "cached_verifications": 423,
+      "rows_parsed": 4149,
+      "official_candidates": 1447,
+      "cached_verifications": 193,
       "reverify_hours": 24,
-      "verification_attempts": 1021,
-      "verification_successes": 249,
+      "verification_attempts": 1254,
+      "verification_successes": 456,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1360,
-        "untracked discipline": 635,
+        "untracked discipline": 637,
         "graduate-degree-only role": 87,
-        "excluded recruiting year": 151,
+        "excluded recruiting year": 152,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 346,
-        "verification: official posting closed: official page shell does not expose the requisition": 54,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 360,
+        "verification: official posting closed: official page shell does not expose the requisition": 55,
         "verification: official posting closed: explicit closed-page message": 9,
-        "verification: official page has an excluded recruiting year": 86,
+        "verification: official page has an excluded recruiting year": 91,
         "verification: 405 Not Allowed": 33,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
-        "verification: official posting closed: provider requisition is no longer listed": 76,
+        "verification: official posting closed: provider requisition is no longer listed": 80,
         "verification: official posting closed: 404 Not Found": 25,
         "verification: 403 Forbidden": 71,
         "verification: official posting closed: Oracle requisition is no longer listed": 10,
         "verification: 400 Bad Request": 4,
         "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 5,
-        "verification: 404 Not Found": 12,
+        "verification: 404 Not Found": 14,
         "verification: official posting closed: redirected to an error page": 1,
         "verification: 410 Gone": 2,
         "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 2,
-    "discovery_new_sources_this_scan": 2,
+    "discovery_attempts_this_scan": 0,
+    "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -3167,24 +2960,24 @@
     "ok_sources": 220,
     "error_sources": 6,
     "blocked_sources": 1,
-    "ats_ok_sources": 72,
-    "ats_error_sources": 3,
+    "ats_ok_sources": 73,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 94.7,
+    "ats_success_percent": 96.1,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
       "429 Too Many Requests": 3,
       "Request Timeout": 3
     },
-    "board_eligible_candidates": 964,
-    "provider_candidate_checks": 193,
+    "board_eligible_candidates": 958,
+    "provider_candidate_checks": 196,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
     "closure_checks": 165,
-    "inactive_provider_checks": 128,
-    "inactive_provider_closed": 0,
+    "inactive_provider_checks": 131,
+    "inactive_provider_closed": 2,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 47,
+    "closed_roles_removed": 58,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

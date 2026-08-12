@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 12:37 PM EDT
+Last updated: August 12, 2026 at 1:43 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Vertiv | Electrical Engineering Intern (Summer 2027) | United States; Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278502>) |
 | 🔥 Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007>) |
 | Bosch Group | Electronics Engineering Intern | Fort Lauderdale, Florida, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000126066306-electronics-engineering-intern>) |
 | FLIR Systems | Electrical Engineering Intern | Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563>) |
 | Micron | Intern - DRAM Design Engineer | Boise, ID, US | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.micron.com/careers/job/43721384-intern-dram-design-engineer-boise-idaho-united-states-of-america>) |
-| Teledyne | Electrical Engineering Intern | Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563>) |
+| Teledyne | Electrical Engineering Intern | US - Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563>) |
 | Vertiv | Electrical Engineering Intern (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278711>) |
 | 🔥 MIT Lincoln Laboratory | Group 08-35 \| Microfabrication Engineering Co-Op \| Microelectronics Laboratory \| Jan - Aug 2027 (Lexington, MA, US) | Lexington, MA, US | $24.50 - $31.00 per hour | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Group-08-35-Microfabrication-Engineering-Co-Op-Microelectronics-Laboratory-Jan-Aug-2027-MA-02420/1368363000>) |
 | ByteDance | ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://joinbytedance.com/search/7670332179383699717>) |
@@ -33,7 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | Engineering Intern (EE/CE/RF) III, Summer 2027 (Hybrid) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301582&partnerid=25771&siteid=5403>) |
 | BAE Systems | Radio-frequency (RF) Engineering Intern III, Summer 2027 (Hybrid) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301579&partnerid=25771&siteid=5403>) |
 | Skydio | Electrical Engineer Intern | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) |
-| Akuna Capital | Hardware Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
+| Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823945101>) |
 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |

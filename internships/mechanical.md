@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 12:37 PM EDT
+Last updated: August 12, 2026 at 1:43 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BP | Summer Intern - Wells Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Wells-Engineer---Houston--TX_RQ114709>) |
 | Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797>) |
+| Vertiv | Mechanical Engineering Intern (Summer 2027) | United States; Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503>) |
 | 🔥 Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months, Full-Time) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time->) |
 | Bosch Group | Chassis Control Intern - Kettering University Co-Op Section A | Plymouth, Michigan, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000127510818-chassis-control-intern-kettering-university-co-op-section-a>) |
@@ -21,7 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern | Milpitas, CA | $27.00 - $31.00 per hour | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744>) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, CA | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc>) |
 | FLIR Systems | Mechanical Engineering Intern | Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
-| Teledyne | Mechanical Engineering Intern | Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
+| Teledyne | Mechanical Engineering Intern | US - Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
 | Vertiv | Thermal Engineering Intern (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813>) |
 | Bosch Group | Internship Vehicle Thermal Systems Engineering | Farmington Hills, Michigan, United States | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142173185-internship-vehicle-thermal-systems-engineering>) |
 | 🔥 Caterpillar | 2027 Engineering Corporate Intern Program - Product Development Track | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; PA-Kennett Square-Tangent Energy Solutions; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Schertz, Texas; Rapid City, South Dakota; Griffin, Georgia; Denison, Texas; Houston, Texas; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Mossville, Illinois; Alpharetta, Georgia; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479>) |
@@ -51,6 +53,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
 | Thornton Tomasetti | Mechanical Engineer Co-op | New York, NY, USA | $25 - $35 hourly | 2027 internship eligible | Posted May 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868>) |
 | Marmon Holdings | Mechanical Engineer Intern | United States of America | - | 2027 internship eligible | Posted Jul 29, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1>) |
+| 🔥 RTX | Co-Op: Aftermarket Engineer | US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1 | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
 | 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | 🔥 Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |

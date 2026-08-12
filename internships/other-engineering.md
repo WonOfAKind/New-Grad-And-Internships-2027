@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 12:37 PM EDT
+Last updated: August 12, 2026 at 1:43 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -34,7 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | PlusAI | Research Engineer Intern - Mapping &amp; Localization | Santa Clara, CA | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061>) |
 | Stantec | Transportation Engineering Co-op/Intern (Spring 2027) | New York, NY, United States; Portland, OR, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071>) |
 | RTX | Internship Engineering (m/f/d) | Bw, DE | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601>) |
-| PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
