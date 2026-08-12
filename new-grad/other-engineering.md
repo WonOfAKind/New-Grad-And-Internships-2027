@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 11:44 AM EDT
+Last updated: August 12, 2026 at 12:37 PM EDT
 
-Current roles in this view: 30
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 12, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000255-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000254-1>) |

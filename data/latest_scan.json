@@ -1,34 +1,65 @@
 {
-  "scanned_at": "2026-08-12T15:44:19.116Z",
+  "scanned_at": "2026-08-12T16:37:58.609Z",
   "fresh_leads": [
     {
-      "role_id": "bfeebee3d6b62a40e26b34d6",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
+      "role_id": "8b9fb2f160a1296a7cec7421",
+      "company_id": "rtx",
+      "company": "RTX",
       "featured_company": true,
       "featured_disciplines": [
         "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "2027 Intern Software Engineer",
-      "location": "United States-Florida-Melbourne",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
       "role_type": "Internship",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$18.50 - $33.50 per hour",
+      "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
-      "source": "https://www.northropgrumman.com/jobs/",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
       "posted_at": "2026-08-12",
-      "expires_at": "",
+      "expires_at": "2026-08-18",
+      "updated_at": "",
+      "source_id": "rtx|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T16:37:39.584Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "ae18acb31d7ad952f78ae7bf",
+      "company_id": "booz-allen-hamilton",
+      "company": "Booz Allen Hamilton",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Data Analyst, Junior",
+      "location": "Washington, DC",
+      "role_type": "New Grad",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "$48,000.00 - $98,000.00",
+      "grad_window": "Early career",
+      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Analyst--Junior_R0246709",
+      "source": "https://careers.boozallen.com/jobs/search",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-12",
+      "expires_at": "2026-11-09",
       "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
+      "source_id": "booz allen hamilton|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -37,30 +68,30 @@
       "priority": "P0"
     },
     {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
+      "role_id": "2827c42c28d943e65594375a",
+      "company_id": "maxar",
+      "company": "Maxar",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
+      "title": "GIS Engineer (Jr)",
+      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "AI / Machine Learning",
       "disciplines": [
-        "hardware-electrical"
+        "ai-ml"
       ],
       "specialties": [],
-      "compensation": "$61,660 - $101,600",
+      "compensation": "$67,000.00 - $111,000.00 annually",
       "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "source": "https://www.maxar.com/careers",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-10",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "maxar|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -68,33 +99,335 @@
       "priority": "P0"
     },
     {
-      "role_id": "431cefc3a67eec00a1b395ec",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
+      "role_id": "834cbc2af5a08c4b1ea5552a",
+      "company_id": "boeing",
+      "company": "Boeing",
       "featured_company": true,
       "featured_disciplines": [
         "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "2027 Associate Software Engineer/Software Engineer",
-      "location": "United States-Florida-Melbourne",
+      "title": "Matlab/Simulink Engineer (Associate or Mid-Level)",
+      "location": "USA - Kirtland AFB, NM; USA - Albuquerque, NM",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace",
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "$79,900 - $108,100",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-07-29",
+      "expires_at": "2026-08-13",
+      "updated_at": "Posted 14 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "31e78b56a5c374cb2fb38e2f",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "specialties": [
+        "thermal-fluids"
+      ],
+      "compensation": "$63,000 - $113,000",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-11",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted Yesterday",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f390784fd6050e4d32089264",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$98,600 - $133,400",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-04",
+      "expires_at": "2026-08-25",
+      "updated_at": "Posted 8 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3d3617316a6498c6b9a2552e",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$79,050- $106,950",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-07-29",
+      "expires_at": "2026-08-26",
+      "updated_at": "Posted 14 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "b319184a8cf139c51fbc45bb",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "location": "USA - Oklahoma City, OK",
       "role_type": "New Grad",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$65,800 - $98,800",
-      "grad_window": "2027 grad eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233",
-      "source": "https://www.northropgrumman.com/jobs/",
+      "compensation": "$66,300 - $89,700",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
+      "source": "https://jobs.boeing.com/",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-08-12",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-31",
+      "updated_at": "Posted 5 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c676c31102d3478aff848311",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior Scene Generation Engineer",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-05",
       "expires_at": "",
-      "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "fd3b9a148dbdded5662b5554",
+      "company_id": "campbell-soup-company",
+      "company": "Campbell Soup Company",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Data Science Intern",
+      "location": "USA - NJ - Camden",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845",
+      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-06-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "campbell soup company|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T16:37:41.857Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "17ae1a147f79372d24b03e2a",
+      "company_id": "campbell-soup-company",
+      "company": "Campbell Soup Company",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Data Science Intern",
+      "location": "USA - NJ - Camden",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844",
+      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-06-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "campbell soup company|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T16:37:41.089Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "5e3893fa9c5bd8e3d87bbae1",
+      "company_id": "campbell-soup-company",
+      "company": "Campbell Soup Company",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Data Engineer, DA&AI Co-Op",
+      "location": "USA - NJ - Camden",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839",
+      "source": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-06-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "campbell soup company|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T16:37:41.708Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ea038b55ed8bd33dea929a8f",
+      "company_id": "moog",
+      "company": "Moog",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electronics Design Engineer I",
+      "location": "Johnson City, TN",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$75,000.00 - $100,000.00 Annually",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "source": "https://www.moog.com/careers.html",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-07-16",
+      "expires_at": "",
+      "updated_at": "Posted 27 Days Ago",
+      "source_id": "moog|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -103,34 +436,102 @@
       "priority": "P1"
     },
     {
-      "role_id": "6a22b034e7a9e4878b3c5675",
-      "company_id": "ccc-intelligent-solutions",
-      "company": "CCC Intelligent Solutions",
+      "role_id": "82621b67a2c3e85651597bb5",
+      "company_id": "curtiss-wright",
+      "company": "Curtiss-Wright",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Science Engineer Internship",
-      "location": "Chicago (Green St), IL",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
+      "title": "Associate Engineer - Quality and Calibration",
+      "location": "US-NY-Lansing (ST-800)",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
       "disciplines": [
-        "data"
+        "other-engineering"
       ],
-      "specialties": [],
-      "compensation": "$20.00 - $43.00 per hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
-      "source": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843",
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$70,000-$75,000",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-08-12",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "curtiss-wright|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ad4342c1d8a083b1c48abcbd",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Electrical Engineer 1",
+      "location": "Millersburg, Pennsylvania, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing",
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "source": "https://jobs.thermofisher.com/global/en",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-01",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "ccc intelligent solutions|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T15:43:05.251Z",
-      "verification_version": 6,
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "da60ab0dd4a88bd7eb7cc834",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software QA Automation Engineer I",
+      "location": "Moorpark, CA",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$82,000 - $125,000",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     }
   ],
@@ -142,15 +543,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Lockheed Martin",
-      "title": "Database Engineer - Entry Level",
-      "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/database-engineer-entry-level/694/93414597584",
+      "company": "Tower Research Capital",
+      "title": "Quantitative Trader",
+      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "company": "Lockheed Martin",
+      "title": "Database Engineer - Entry Level",
+      "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/database-engineer-entry-level/694/93414597584",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -172,12 +573,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Electrical Engineer for Test Systems (early career)",
-      "url": "https://www.amentumcareers.com/jobs/electrical-engineer-for-test-systems-early-career-huntsville-alabama-united-states-664cb626-3882-4631-a267-8828ce966725",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Protection",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
@@ -187,6 +582,12 @@
       "company": "United Launch Alliance",
       "title": "Electrical Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -406,22 +807,16 @@
       "reason": "official verification confirmed closure"
     },
     {
-      "company": "Valkyrie Trading",
-      "title": "Junior Software Engineer Intern",
-      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "General Dynamics Information Technology",
       "title": "AI/Machine Learning Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Contoro Robotics",
-      "title": "Robotics Engineer Intern - Test & Validation",
-      "url": "https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5",
-      "reason": "official verification confirmed closure"
+      "company": "Microsoft",
+      "title": "Research Intern - Firmware Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518",
+      "reason": "official page shell does not expose the requisition"
     }
   ],
   "scan_log": [
@@ -452,7 +847,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 876,
+      "matches": 883,
       "phase": "fast-pass"
     },
     {
@@ -462,7 +857,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 121,
+      "matches": 122,
       "phase": "fast-pass"
     },
     {
@@ -581,7 +976,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 250,
+      "matches": 249,
       "phase": "fast-pass"
     },
     {
@@ -591,7 +986,7 @@
       "source_id": "perplexity|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 39,
+      "matches": 40,
       "phase": "fast-pass"
     },
     {
@@ -641,7 +1036,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -711,7 +1106,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 47,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -811,7 +1206,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -959,7 +1354,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -979,7 +1374,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 190,
+      "matches": 191,
       "phase": "fast-pass"
     },
     {
@@ -996,17 +1391,11 @@
       "company": "Woodward",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "woodward|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Woodward",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Moog",
@@ -1015,24 +1404,18 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1091,7 +1474,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1111,7 +1494,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 72,
+      "matches": 77,
       "phase": "fast-pass"
     },
     {
@@ -1141,7 +1524,7 @@
       "source_id": "archer aviation|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 86,
+      "matches": 84,
       "phase": "fast-pass"
     },
     {
@@ -1228,17 +1611,11 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "nvidia|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "NVIDIA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1287,7 +1664,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 79,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -1434,17 +1811,11 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "crowdstrike|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "fast-pass"
-    },
-    {
-      "company": "CrowdStrike",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1463,7 +1834,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 112,
+      "matches": 111,
       "phase": "fast-pass"
     },
     {
@@ -1503,7 +1874,7 @@
       "source_id": "sierra|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 62,
+      "matches": 61,
       "phase": "fast-pass"
     },
     {
@@ -1553,7 +1924,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 119,
+      "matches": 120,
       "phase": "fast-pass"
     },
     {
@@ -1810,10 +2181,8 @@
       "company": "Workday",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "workday|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -1850,19 +2219,11 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Zendesk",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Zapier",
@@ -1901,7 +2262,7 @@
       "source_id": "docker|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -2238,17 +2599,11 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "booz allen hamilton|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2304,17 +2659,11 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Maxar",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2460,17 +2809,11 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "boeing|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 15,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Boeing",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Boeing workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2652,17 +2995,11 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "curtiss-wright|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "ABB",
@@ -2698,17 +3035,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "goodyear|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2717,24 +3048,18 @@
       "source_id": "nasa jet propulsion laboratory|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "bluehalo|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 9,
       "phase": "fast-pass"
-    },
-    {
-      "company": "BlueHalo",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2778,36 +3103,36 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-12T15:44:19.116Z",
-    "elapsed_ms": 356913,
+    "scanned_at": "2026-08-12T16:37:58.609Z",
+    "elapsed_ms": 341416,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
     "discovered_sources_active": 151,
     "discovered_companies_active": 151,
-    "companies_with_active_sources": 211,
+    "companies_with_active_sources": 220,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4139,
-      "official_candidates": 1439,
-      "cached_verifications": 401,
+      "rows_parsed": 4144,
+      "official_candidates": 1444,
+      "cached_verifications": 423,
       "reverify_hours": 24,
-      "verification_attempts": 1038,
-      "verification_successes": 262,
+      "verification_attempts": 1021,
+      "verification_successes": 249,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1360,
-        "untracked discipline": 633,
+        "untracked discipline": 635,
         "graduate-degree-only role": 87,
         "excluded recruiting year": 151,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 347,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 346,
         "verification: official posting closed: official page shell does not expose the requisition": 54,
         "verification: official posting closed: explicit closed-page message": 9,
-        "verification: official page has an excluded recruiting year": 89,
+        "verification: official page has an excluded recruiting year": 86,
         "verification: 405 Not Allowed": 33,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
@@ -2825,8 +3150,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 2,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2836,30 +3161,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 14,
+    "double_check_attempts": 3,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 241,
-    "ok_sources": 211,
-    "error_sources": 15,
+    "total_fetch_attempts": 230,
+    "ok_sources": 220,
+    "error_sources": 6,
     "blocked_sources": 1,
-    "ats_ok_sources": 70,
-    "ats_error_sources": 5,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 92.1,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 11,
-      "Request Timeout": 4
+      "429 Too Many Requests": 3,
+      "Request Timeout": 3
     },
-    "board_eligible_candidates": 929,
-    "provider_candidate_checks": 161,
+    "board_eligible_candidates": 964,
+    "provider_candidate_checks": 193,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 173,
-    "inactive_provider_checks": 143,
-    "inactive_provider_closed": 1,
+    "closure_checks": 165,
+    "inactive_provider_checks": 128,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 48,
+    "closed_roles_removed": 47,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

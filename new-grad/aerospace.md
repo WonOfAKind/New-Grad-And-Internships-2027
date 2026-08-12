@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 11:44 AM EDT
+Last updated: August 12, 2026 at 12:37 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 48
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -17,6 +17,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Northrop Grumman | Sentinel - DAPS Associate / Systems Engineer - 14374 | United States-Utah-Roy | $65,800.00 - $98,800.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---DAPS-Associate---Systems-Engineer---14374_R10238541>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
+| 🔥 Boeing | Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems | USA - El Segundo, CA | $63,000 - $113,000 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Archer Aviation | Associate Survivability and Operations Analysis Engineer | Remote; San Jose, California, United States | $70,400 - $96,800 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/archer56/jobs/7719738003>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Aviation Federal Roanoke | Roanoke, VA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/roanoke-va/assistant-structural-engineer-aviation-federal-roanoke/52C8BBA22A5546819DCE9E48D8662146/job>) |
@@ -32,6 +33,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Spirit AeroSystems | Spirit Defense - Material Review Engineer (Associate, Mid-Level , or Senior) | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16763>) |
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | BlueHalo | Systems Test Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Systems-Test-Engineer-I_8240>) |
+| 🔥 Boeing | Matlab/Simulink Engineer (Associate or Mid-Level) | USA - Kirtland AFB, NM; USA - Albuquerque, NM | $79,900 - $108,100 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 12, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | Huntsville, Alabama, US | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/structural-engineer-for-liquid-propulsion-systems-early-career-es2-huntsville-alabama-united-states-fbebac79-5ace-400b-bb9b-7d0c96e35709>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |

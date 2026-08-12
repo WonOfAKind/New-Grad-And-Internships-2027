@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 11:44 AM EDT
+Last updated: August 12, 2026 at 12:37 PM EDT
 
-Current roles in this view: 40
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
