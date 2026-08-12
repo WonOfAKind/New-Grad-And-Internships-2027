@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 6:05 PM EDT
+Last updated: August 12, 2026 at 7:01 PM EDT
 
-Current roles in this view: 21
+Current roles in this view: 22
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,6 +16,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672569081632229685>) |
 | TikTok | Product Manager Intern (Commerce Ads) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672557943224961333>) |
 | TikTok | Product Manager Intern (Signal and Identity Product) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672554809555192117>) |
+| Vertiv | IT Systems Product Management Intern (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239>) |
 | TikTok | AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7670529537944766773>) |
 | Vertiv | Product Management Intern (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933>) |
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |

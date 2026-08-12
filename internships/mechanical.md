@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 6:05 PM EDT
+Last updated: August 12, 2026 at 7:01 PM EDT
 
-Current roles in this view: 40
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -38,6 +38,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bosch Group | Mechanical Design Engineering Intern | Fort Lauderdale, Florida, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000131662039-mechanical-design-engineering-intern>) |
 | Smiths Group | Mechanical Engineering Co-Op | Morton Grove, Illinois, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000138415594-mechanical-engineering-co-op>) |
 | Smiths Group | Mechanical Engineering Co-Op | Morton Grove, Illinois, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000138408779-mechanical-engineering-co-op>) |
+| 🔥 Medtronic | Engineering Intern – Summer 2027 | Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) |
 | GE Vernova | GE Vernova Nuclear Engineering Intern - Summer 2027 | Wilmington NC USA | $1,000 - $2,000/week | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-2>) |
 | KION Group | Mechanical Engineering Co-Op | Henrietta, NY, United States | $20.00 - $29.00 per hour | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 3, 2026 | [Apply](<https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Henrietta-NY-United-States/Mechanical-Engineering-Co-Op_JR-0094004-1>) |
 | 🔥 BAE Systems | 2027 Spring and Summer Mechanical Engineering Coop | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=299897&partnerid=25771&siteid=5403>) |
@@ -51,5 +52,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Thornton Tomasetti | Mechanical Engineer Co-op | New York, NY, USA | $25 - $35 hourly | 2027 internship eligible | Posted May 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868>) |
 | Marmon Holdings | Mechanical Engineer Intern | United States of America | - | 2027 internship eligible | Posted Jul 29, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
+| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | 🔥 Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 

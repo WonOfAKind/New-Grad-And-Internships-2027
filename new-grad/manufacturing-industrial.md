@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 6:05 PM EDT
+Last updated: August 12, 2026 at 7:01 PM EDT
 
-Current roles in this view: 40
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,12 +13,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Development Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | First seen Aug 12, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Development Program Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | First seen Aug 12, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01363119/Quality-Engineer-I>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |
 | Boston Scientific | Quality Engineer I (St. Paul, MN, US) | St. Paul, MN, US | - | Verified early career (BS) | First seen Aug 11, 2026 | [Apply](<https://jobs.bostonscientific.com/job/St_-Paul-Quality-Engineer-I-MN-55101/1418448200>) |
-| 🔥 Northrop Grumman | 2027 Associate Quality Engineer | United States-California-Palmdale | $69,400 - $104,000/year | 2027 grad eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Quality-Engineer_R10244912>) |
+| 🔥 Northrop Grumman | 2027 Associate Quality Engineer | United States-California-Palmdale | $69,400 - $104,000/year | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Quality-Engineer_R10244912>) |
 | 🔥 Toyota Motor North America | Engineer I - Production Engineering (Assembly) | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I---Production-Engineering--Assembly-_10332450>) |
 | Boston Scientific | Quality Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Quality-Engineer-I-MN-55112/1417067300>) |
 | Burns &amp; McDonnell | Assistant Instrument Controls Engineer Global Facilities Onsite Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-instrument-controls-engineer-global-facilities-onsite-kansas-city/B6AEF423E5BC4303B3D4B5A080F1B4DF/job>) |
