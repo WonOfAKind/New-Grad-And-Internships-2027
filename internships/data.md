@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 5:09 PM EDT
+Last updated: August 12, 2026 at 6:05 PM EDT
 
 Current roles in this view: 24
 
@@ -19,7 +19,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | The Nuclear Company | Spring 2027 Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008>) |
 | The Nuclear Company | Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008>) |
 | JPMorgan Chase | 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223>) |
-| The Boeing Company | Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern | USA - Everett, WA | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1>) |
+| The Boeing Company | Data Analytics Intern | El Segundo, CA | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1>) |
 | TikTok | Data Science Intern (TikTok Integrity and Safety) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
 | TikTok | Data Science Intern (TikTok LIVE) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
 | TikTok | Data Science Intern (TikTok Product) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 5:09 PM EDT
+Last updated: August 12, 2026 at 6:05 PM EDT
 
-Current roles in this view: 8
+Current roles in this view: 9
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
 | Micron Technology | HBM Product Manager – New College Grad | Boise, ID | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001>) |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663710002>) |
 | 🔥 Amazon | 2027 Amazon Leadership Accelerator (ALA) - Product Manager Full Time | US, WA, Seattle | $151,200 - $204,600 | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time>) |

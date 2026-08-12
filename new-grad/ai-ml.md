@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 5:09 PM EDT
+Last updated: August 12, 2026 at 6:05 PM EDT
 
-Current roles in this view: 65
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 12, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
 | TikTok | AI Infra Engineer Graduate (Recommendation &amp; LLM) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672654026594093317>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672882500030138629>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Foundation) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672880386574338309>) |
@@ -75,6 +76,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Amazon | Software Development Engineer I, ML Infra Services, Annapurna Labs | US, WA, Seattle | $110,500 - $160,000 | Verified early career (BS) | Posted Jul 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs>) |
 | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA, US | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 8, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 | Capgemini | Junior AI Data Scientist/Engineer | New York, NY, NY, US | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433>) |
+| TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 | Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 
