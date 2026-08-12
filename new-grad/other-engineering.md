@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 7:26 PM EDT
+Last updated: August 11, 2026 at 8:45 PM EDT
 
 Current roles in this view: 28
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1>) |
 | Nissan | Systems Engineer 1 | Canton, Mississippi - United States of America | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-1_R00200457-1>) |
-| Thermo Fisher Scientific | Field Service Engineer I (SDB/SEM) RTP | Remote, North Carolina, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01360776/Field-Service-Engineer-I-SDB-SEM-RTP>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
@@ -30,8 +30,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Leidos | Junior Manual Test Engineer | Annapolis Junction, MD | $69,550.00 - $125,725.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/es/es/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 11, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
+| Solar Turbines | Entry Level Gas Turbine Product Engineer - Gtpe | San Diego, CA | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 11, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257>) |
-| Comcast | Engineer 1, Installation-Managed Enterprise Services | IL - Naperville, 1415 W Diehl Rd Ste 5; CO - Denver, 8000 E Iliff Ave | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 11, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Naperville-1415-W-Diehl-Rd-Ste-5/Engineer-1--Installation-Managed-Enterprise-Services_R442298>) |
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Dallas, TX, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |

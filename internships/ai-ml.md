@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 7:26 PM EDT
+Last updated: August 11, 2026 at 8:45 PM EDT
 
 Current roles in this view: 84
 
@@ -13,9 +13,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869>) |
+| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | ByteDance | Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://joinbytedance.com/search/7671291260529821957>) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
-| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83>) |
 | ByteDance | Software Engineer Intern (AI Infra Compute) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://joinbytedance.com/search/7667378931599214853>) |
 | The Nuclear Company | Spring 2027 AI/ML Engineering Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008>) |
@@ -60,7 +60,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bot Auto | Intern, Deep Learning Engineer | Houston, TX | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/botauto/jobs/5289440008>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | TikTok | AI Product Design Intern (TikTok-Design) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667856128008702261>) |
-| TikTok | Design Engineering Intern - Design System &amp; AI Workflow - TikTok-Design - 2027 Summer | San Jose, CA | $30- $30/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667857406611343621>) |
+| TikTok | Design Engineering Intern (Design System &amp; AI Workflow - TikTok-Design) - 2027 Summer | San Jose, California, United States of America | $30- $30/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667857406611343621>) |
 | TikTok | ML Infra Engineer Intern (Ads Infra) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668881813744191749>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote (US) | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3>) |

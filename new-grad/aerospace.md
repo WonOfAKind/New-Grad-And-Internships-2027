@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 11, 2026 at 7:26 PM EDT
+Last updated: August 11, 2026 at 8:45 PM EDT
 
 Current roles in this view: 44
 
@@ -20,7 +20,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) | Redmond, WA | $105,000.00 - $120,000.00 | Explicit new grad role | First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8541336002>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | KBR | Jr. Systems Engineer (Board Support) | Chantilly, Virginia | - | Early career | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Board-Support-_R2127901-1/apply>) |
-| Solar Turbines | 2027 Entry Level Gas Turbine Product Engineer (GTPE) | San Diego, California | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | 🔥 Northrop Grumman | 2027 Associate Aeronautical Engineer / Aeronautical Engineer | United States-Florida-Melbourne | $63,900 - $95,900 | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Aeronautical-Engineer---Aeronautical-Engineer_R10244139>) |
 | KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | - | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2127828/apply>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
@@ -31,6 +30,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | BlueHalo | Systems Test Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Systems-Test-Engineer-I_8240>) |
 | 🔥 Boeing | F-15 Mission Systems Software Engineer (Associate, Experienced, &amp; Senior) | USA - Berkeley, MO | $99,450.00 - $134,550.00 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780-1>) |
+| 🔥 Boeing | Matlab/Simulink Engineer (Associate or Mid-Level) | USA - Kirtland AFB, NM; USA - Albuquerque, NM | $79,900 - $108,100 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 11, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Matlab-Simulink-Engineer--Associate-or-Mid-Level-_JR2026503132-1>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | Huntsville, Alabama, US | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/structural-engineer-for-liquid-propulsion-systems-early-career-es2-huntsville-alabama-united-states-fbebac79-5ace-400b-bb9b-7d0c96e35709>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 11, 2026 at 7:26 PM EDT
+Last updated: August 11, 2026 at 8:45 PM EDT
 
 Current roles in this view: 231
 
@@ -20,7 +20,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Smiths Group | Customer Reliability Engineer Intern (PT) | Port Arthur, Texas, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634-customer-reliability-engineer-intern-pt->) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7667935739300792629>) |
 | BAE Systems | Software Intern (High School) - Summer 2027 Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302041&partnerid=25771&siteid=5403>) |
-| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
+| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York, NY | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA; New York, NY | $55 - $55/hr USD | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6131089004>) |
 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823923101>) |
 | IMC Trading | Software Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823924101>) |
@@ -237,7 +237,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152>) |
-| Rockwell Automation | Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027) | Mayfield Heights, Ohio, United States | $22 - $32/hr | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1>) |
+| Rockwell Automation | Spring 2027 Co-op - Embedded Software Engineer - January 2027 - August 2027 | Mayfield Heights, OH | $22 - $32/hr | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1>) |
 | Rockwell Automation | Spring 2027 Co-op, Embedded Software Engineer (January 2027 - August 2027) | Mayfield Heights, Ohio, United States | $22 - $32/hr | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473>) |
 | 🔥 Microsoft | Research Intern - Firmware Security | Redmond, WA, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556955518>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months, Full-Time) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time->) |

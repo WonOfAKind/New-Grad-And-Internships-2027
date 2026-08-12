@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-11T23:26:35.476Z",
+  "updated_at": "2026-08-12T00:45:08.853Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,10 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T22:28:38.090Z"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -820,10 +820,10 @@
         "limit": 20,
         "verified_open_jobs": 407
       },
-      "last_scan_at": "2026-08-11T22:28:38.090Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T19:48:39.770Z"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1120,12 +1120,24 @@
     },
     "fireworks ai": {
       "company": "Fireworks AI",
-      "checked_at": "2026-08-05T00:38:06.016Z",
-      "status": "none",
-      "method": "",
-      "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
+      "checked_at": "2026-08-12T00:40:23.576Z",
+      "status": "discovered",
+      "method": "ats-fingerprint",
+      "reason": "",
       "robots_url": "https://fireworks.ai/robots.txt",
-      "source": null
+      "source": {
+        "company": "Fireworks AI",
+        "adapter": "ashby",
+        "priority": "P1",
+        "source_kind": "discovered",
+        "discovered_from": "https://fireworks.ai/careers",
+        "board": "fireworks",
+        "verified_open_jobs": 58
+      },
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "cerebras": {
       "company": "Cerebras",
@@ -2020,9 +2032,9 @@
         "limit": 20,
         "verified_open_jobs": 112
       },
-      "last_scan_at": "2026-08-11T19:48:39.770Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T19:48:39.770Z"
     },
     "opendoor": {
@@ -3351,9 +3363,10 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -3850,9 +3863,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4475,9 +4489,9 @@
         "limit": 20,
         "verified_open_jobs": 739
       },
-      "last_scan_at": "2026-08-10T15:20:45.429Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-10T15:20:45.429Z"
     },
     "verizon": {
@@ -4509,9 +4523,10 @@
         "limit": 20,
         "verified_open_jobs": 758
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -4992,9 +5007,9 @@
         "limit": 20,
         "verified_open_jobs": 425
       },
-      "last_scan_at": "2026-08-11T21:31:44.804Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T21:31:44.804Z"
     },
     "parker hannifin": {
@@ -5124,7 +5139,7 @@
     },
     "stryker": {
       "company": "Stryker",
-      "checked_at": "2026-08-11T14:41:21.698Z",
+      "checked_at": "2026-08-12T00:40:23.576Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5140,12 +5155,11 @@
         "site": "StrykerCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1151
+        "verified_open_jobs": 1149
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-11T20:29:29.647Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "abbott": {
       "company": "Abbott",
@@ -5533,9 +5547,10 @@
         "limit": 20,
         "verified_open_jobs": 241
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5627,9 +5642,10 @@
         "limit": 20,
         "verified_open_jobs": 295
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-12T00:45:08.853Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "chevron": {
       "company": "Chevron",
