@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-12T18:37:37.828Z",
-  "generated_at": "2026-08-12T18:37:37.828Z",
+  "scan_id": "2026-08-12T19:50:20.986Z",
+  "generated_at": "2026-08-12T19:50:20.986Z",
   "companies": [
     {
       "id": "adobe",
@@ -8031,180 +8031,69 @@
   ],
   "roles": [
     {
-      "role_id": "0e31424ca56c671a90e1b26d",
-      "company_id": "boeing",
-      "company": "Boeing",
+      "role_id": "5f93f31039c3c315aa1d8de6",
+      "company_id": "western-digital",
+      "company": "Western Digital",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Summer 2027 Intern - Software Engineering",
+      "location": "San Jose, California, United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering",
+      "source": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-04",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "western digital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T19:49:32.483Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0ef2432da63214cfbba6d17f",
+      "company_id": "general-motors",
+      "company": "General Motors",
       "featured_company": true,
       "featured_disciplines": [
-        "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "Associate Electrical Engineer - Hardware Design and Analysis",
-      "location": "USA - Kirtland AFB, NM; USA - Albuquerque, NM",
+      "title": "Early Career Virtual/Computer Aided Engineer",
+      "location": "Warren, Michigan, United States of America",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "mechanical"
       ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$91,800 - $124,200",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Associate-Electrical-Engineer---Hardware-Design-and-Analysis_JR2026513236-2",
-      "source": "https://jobs.boeing.com/",
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
+      "source": "https://search-careers.gm.com/en/jobs/",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-07-29",
-      "expires_at": "2026-08-13",
-      "updated_at": "Posted 14 Days Ago",
-      "source_id": "boeing|workday",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted 5 Days Ago",
+      "source_id": "general motors|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
       "priority": "P0"
-    },
-    {
-      "role_id": "9025c86b5cce4320502ae1d8",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Materials",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$81,370.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ab128ea59bec0c8e75a25302",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Product Development Program",
-      "location": "Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "$81,370.00 - $146,290.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "21fac593559a321fb47b3386",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Program Welding",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$89,210.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-21",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ea038b55ed8bd33dea929a8f",
-      "company_id": "moog",
-      "company": "Moog",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Electronics Design Engineer I",
-      "location": "Johnson City, TN",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$75,000.00 - $100,000.00 Annually",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
-      "source": "https://www.moog.com/careers.html",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-07-16",
-      "expires_at": "",
-      "updated_at": "Posted 27 Days Ago",
-      "source_id": "moog|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
     }
   ]
 }

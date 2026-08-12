@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 2:37 PM EDT
+Last updated: August 12, 2026 at 3:50 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 36
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -34,13 +34,16 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HNTB | Returning Intern Engineer - Summer 2027 - Mid Atlantic Division (For Current/Former HNTB Interns Only) | Philadelphia, PA (Pennsylvania) | $24.23 - $36.34/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-Intern-Engineer---Summer-2027---Mid-Atlantic-Division--For-Current-Former-HNTB-Interns-Only-_R-31026-1>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | NY, New York, R184234 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234>) |
 | Nidec | Engineering Co-op-2 | North America/USA/Missouri/St. Louis - WPE, MO | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 4, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Engineering-Co-op-2_R0017023>) |
+| PlusAI | Research Engineer Intern - Mapping &amp; Localization | Santa Clara, CA | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/plus-2/efbb82d3-1c4a-4fc9-8b40-ee1545085061>) |
 | Stantec | Transportation Engineering Co-op/Intern (Spring 2027) | New York, NY, United States; Portland, OR, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071>) |
 | RTX | Internship Engineering (m/f/d) | Bw, DE | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
+| Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
 | Magna | Intern - Systems Engineering | Southfield, Michigan, US | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437>) |
 | Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
+| Mariana Minerals | Chemical Engineering Intern | Moab, UT | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a>) |
 | ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
 | HNTB | Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | Posted Apr 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874>) |
 | Marmon Holdings | Engineering Intern Co-op | Chicago, IL | - | 2027 internship eligible | Posted Oct 6, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern-Co-op_JR0000026780-4>) |

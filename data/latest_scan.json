@@ -1,181 +1,70 @@
 {
-  "scanned_at": "2026-08-12T18:37:37.828Z",
+  "scanned_at": "2026-08-12T19:50:20.986Z",
   "fresh_leads": [
     {
-      "role_id": "0e31424ca56c671a90e1b26d",
-      "company_id": "boeing",
-      "company": "Boeing",
+      "role_id": "5f93f31039c3c315aa1d8de6",
+      "company_id": "western-digital",
+      "company": "Western Digital",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Summer 2027 Intern - Software Engineering",
+      "location": "San Jose, California, United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering",
+      "source": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "2026-08-04",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "western digital|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-12T19:49:32.483Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0ef2432da63214cfbba6d17f",
+      "company_id": "general-motors",
+      "company": "General Motors",
       "featured_company": true,
       "featured_disciplines": [
-        "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "Associate Electrical Engineer - Hardware Design and Analysis",
-      "location": "USA - Kirtland AFB, NM; USA - Albuquerque, NM",
+      "title": "Early Career Virtual/Computer Aided Engineer",
+      "location": "Warren, Michigan, United States of America",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "mechanical"
       ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$91,800 - $124,200",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Associate-Electrical-Engineer---Hardware-Design-and-Analysis_JR2026513236-2",
-      "source": "https://jobs.boeing.com/",
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
+      "source": "https://search-careers.gm.com/en/jobs/",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-07-29",
-      "expires_at": "2026-08-13",
-      "updated_at": "Posted 14 Days Ago",
-      "source_id": "boeing|workday",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted 5 Days Ago",
+      "source_id": "general motors|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
       "priority": "P0"
-    },
-    {
-      "role_id": "9025c86b5cce4320502ae1d8",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Materials",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$81,370.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ab128ea59bec0c8e75a25302",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Product Development Program",
-      "location": "Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "$81,370.00 - $146,290.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "21fac593559a321fb47b3386",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Program Welding",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$89,210.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-21",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ea038b55ed8bd33dea929a8f",
-      "company_id": "moog",
-      "company": "Moog",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Electronics Design Engineer I",
-      "location": "Johnson City, TN",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$75,000.00 - $100,000.00 Annually",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
-      "source": "https://www.moog.com/careers.html",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-07-16",
-      "expires_at": "",
-      "updated_at": "Posted 27 Days Ago",
-      "source_id": "moog|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
     }
   ],
   "removed_roles": [
@@ -192,9 +81,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219",
+      "company": "General Dynamics Information Technology",
+      "title": "Junior Software Engineer - Clearance Sponsorship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1",
       "reason": "official verification confirmed closure"
     },
     {
@@ -207,6 +96,12 @@
       "company": "GE Aerospace",
       "title": "Data Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Data-Engineer_R5036560-2/apply",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Tower Research Capital",
+      "title": "Quantitative Trader",
+      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -253,6 +148,12 @@
     },
     {
       "company": "Boeing",
+      "title": "Associate Electrical Engineer - Hardware Design and Analysis",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Associate-Electrical-Engineer---Hardware-Design-and-Analysis_JR2026513236-2",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
       "title": "DSP Algorithms Engineer (Entry-Level)",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
       "reason": "no longer matches board eligibility policy"
@@ -270,9 +171,27 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "General Motors",
-      "title": "Early Career Virtual/Computer Aided Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
+      "company": "Moog",
+      "title": "Electronics Design Engineer I",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Development Materials",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Development Program Welding",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Product Development Program",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -504,16 +423,22 @@
       "reason": "official verification confirmed closure"
     },
     {
+      "company": "ING",
+      "title": "Summer 2027 Internship - Tech (Infrastructure)",
+      "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621",
+      "reason": "official verification confirmed closure"
+    },
+    {
       "company": "Valkyrie Trading",
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "HPE",
-      "title": "Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career",
-      "url": "https://careers.hpe.com/us/en/job/1206917/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career",
-      "reason": "HTTP 410"
+      "company": "General Dynamics Information Technology",
+      "title": "GDIT 2027 Summer AI / ML Internship",
+      "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -544,7 +469,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 883,
+      "matches": 885,
       "phase": "fast-pass"
     },
     {
@@ -584,7 +509,7 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 86,
+      "matches": 87,
       "phase": "fast-pass"
     },
     {
@@ -594,7 +519,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 978,
+      "matches": 976,
       "phase": "fast-pass"
     },
     {
@@ -614,7 +539,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 66,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -753,7 +678,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 58,
+      "matches": 59,
       "phase": "fast-pass"
     },
     {
@@ -833,7 +758,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 90,
+      "matches": 91,
       "phase": "fast-pass"
     },
     {
@@ -966,27 +891,27 @@
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "general motors|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "fast-pass"
-    },
-    {
-      "company": "General Motors",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "caterpillar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 9,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Caterpillar",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -1055,7 +980,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 53,
+      "matches": 54,
       "phase": "fast-pass"
     },
     {
@@ -1065,7 +990,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 191,
+      "matches": 192,
       "phase": "fast-pass"
     },
     {
@@ -1095,7 +1020,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1165,7 +1090,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1185,7 +1110,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 77,
+      "matches": 76,
       "phase": "fast-pass"
     },
     {
@@ -1222,10 +1147,8 @@
       "company": "Pivotal",
       "adapter": "lever",
       "source_kind": "configured",
-      "source_id": "pivotal|lever",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 12,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -1295,18 +1218,24 @@
       "source_id": "apple|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1355,7 +1284,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 78,
+      "matches": 77,
       "phase": "fast-pass"
     },
     {
@@ -1502,11 +1431,19 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1615,7 +1552,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 120,
+      "matches": 121,
       "phase": "fast-pass"
     },
     {
@@ -1625,7 +1562,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 126,
+      "matches": 127,
       "phase": "fast-pass"
     },
     {
@@ -1845,7 +1782,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 9,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -2350,11 +2287,17 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "maxar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2500,11 +2443,17 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 17,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2626,24 +2575,10 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -2654,7 +2589,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Abbott",
@@ -2700,19 +2635,11 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "curtiss-wright|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "ABB",
@@ -2816,37 +2743,37 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-12T18:37:37.828Z",
-    "elapsed_ms": 346260,
+    "scanned_at": "2026-08-12T19:50:20.986Z",
+    "elapsed_ms": 345482,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
     "discovered_sources_active": 151,
     "discovered_companies_active": 151,
-    "companies_with_active_sources": 220,
+    "companies_with_active_sources": 217,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4146,
+      "rows_parsed": 4143,
       "official_candidates": 1444,
-      "cached_verifications": 334,
+      "cached_verifications": 364,
       "reverify_hours": 24,
-      "verification_attempts": 1110,
-      "verification_successes": 329,
+      "verification_attempts": 1080,
+      "verification_successes": 293,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1360,
-        "untracked discipline": 635,
+        "untracked discipline": 633,
         "graduate-degree-only role": 87,
         "excluded recruiting year": 153,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 348,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 349,
         "verification: official posting closed: official page shell does not expose the requisition": 54,
         "verification: official posting closed: explicit closed-page message": 9,
-        "verification: official page has an excluded recruiting year": 87,
-        "verification: official posting closed: provider requisition is no longer listed": 80,
+        "verification: official page has an excluded recruiting year": 88,
+        "verification: official posting closed: provider requisition is no longer listed": 84,
         "verification: 405 Not Allowed": 33,
         "verification: official posting closed: official page does not identify the requisition": 30,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
@@ -2863,8 +2790,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 67,
+    "discovery_new_sources_this_scan": 4,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2874,30 +2801,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 5,
+    "double_check_attempts": 6,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 232,
-    "ok_sources": 220,
-    "error_sources": 6,
+    "total_fetch_attempts": 233,
+    "ok_sources": 217,
+    "error_sources": 9,
     "blocked_sources": 1,
-    "ats_ok_sources": 73,
-    "ats_error_sources": 2,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 96.1,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 3,
-      "Request Timeout": 3
+      "429 Too Many Requests": 5,
+      "Request Timeout": 4
     },
-    "board_eligible_candidates": 965,
-    "provider_candidate_checks": 201,
+    "board_eligible_candidates": 929,
+    "provider_candidate_checks": 179,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 173,
-    "inactive_provider_checks": 132,
-    "inactive_provider_closed": 1,
+    "closure_checks": 185,
+    "inactive_provider_checks": 161,
+    "inactive_provider_closed": 3,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 56,
+    "closed_roles_removed": 62,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

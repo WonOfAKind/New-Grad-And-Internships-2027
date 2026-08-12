@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 2:37 PM EDT
+Last updated: August 12, 2026 at 3:50 PM EDT
 
 Current roles in this view: 43
 
@@ -51,7 +51,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johnson Controls | Mechanical Engineering Fall CO Intern | Pennsylvania | $21-$24/hr | 2027 internship eligible | Posted Jun 23, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1>) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
 | Thornton Tomasetti | Mechanical Engineer Co-op | New York, NY, USA | $25 - $35 hourly | 2027 internship eligible | Posted May 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868>) |
-| Marmon Holdings | Mechanical Engineer Intern | Remote - United States of America | - | 2027 internship eligible | Posted Jul 29, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1>) |
+| Marmon Holdings | Mechanical Engineer Intern | United States of America | - | 2027 internship eligible | Posted Jul 29, 2025<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Remote---United-States-of-America/Mechanical-Engineer-Intern_JR0000036528-1>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
 | 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | 🔥 Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
