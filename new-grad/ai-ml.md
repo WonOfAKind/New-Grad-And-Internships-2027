@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 3:50 PM EDT
+Last updated: August 12, 2026 at 5:09 PM EDT
 
-Current roles in this view: 66
+Current roles in this view: 65
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -66,7 +66,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Travelers | Software Engineer I (AI Driven) | Atlanta, GA | $99,100.00 - $163,400.00 | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831>) |
 | General Motors | ML Validation Engineer - Early Career | Sunnyvale, California, United States of America | - | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |
-| Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
+| Pipe17 | Junior Software Engineer - AI-Native | Seattle, WA | - | Early career | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | Black &amp; Veatch | Associate Substation Structural Engineer | Burlington, MA, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
 | Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
 | Peraton | Information Systems Security Engineer Level 1 – AI/ML Project TS/SCI w Poly | MD | $135,000 - $216,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security-->) |
@@ -75,7 +75,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Amazon | Software Development Engineer I, ML Infra Services, Annapurna Labs | US, WA, Seattle | $110,500 - $160,000 | Verified early career (BS) | Posted Jul 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs>) |
 | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA, US | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 8, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 | Capgemini | Junior AI Data Scientist/Engineer | New York, NY, NY, US | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 | Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 
