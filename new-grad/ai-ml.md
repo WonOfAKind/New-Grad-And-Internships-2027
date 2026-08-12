@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
 Current roles in this view: 68
 
@@ -20,7 +20,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Mall) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672911151560296709>) |
 | TikTok | Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672532275557583157>) |
 | TikTok | Software Engineer Graduate (Recommendation - TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672517471946000645>) |
-| Reliance | AI Software Engineer 1 | Chicago, Illinois, United States | $80,000.00/Yr | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.reliance.com/jobs/3330>) |
+| Reliance | AI Software Engineer 1 | Chicago, IL | $80,000.00/Yr | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.reliance.com/jobs/3330>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
 | Sandia National Laboratories | Early Career Rd Agentic Ai Systems Engineer Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-rd-agentic-ai-systems-engineer-onsite/BE8795592D2549D98E433B698E1CCB6A/job>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |

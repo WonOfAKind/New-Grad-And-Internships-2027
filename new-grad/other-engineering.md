@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
-Current roles in this view: 29
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000255-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000254-1>) |
+| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
 | Nissan | Systems Engineer 1 | Canton, Mississippi - United States of America | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-1_R00200457-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |

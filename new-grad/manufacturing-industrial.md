@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
-Current roles in this view: 39
+Current roles in this view: 40
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
+| 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01363119/Quality-Engineer-I>) |
 | Boston Scientific | Quality Engineer I (St. Paul, MN, US) | St. Paul, MN, US | - | Verified early career (BS) | First seen Aug 11, 2026 | [Apply](<https://jobs.bostonscientific.com/job/St_-Paul-Quality-Engineer-I-MN-55101/1418448200>) |
 | 🔥 Northrop Grumman | 2027 Associate Quality Engineer | United States-California-Palmdale | $69,400 - $104,000/year | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Quality-Engineer_R10244912>) |

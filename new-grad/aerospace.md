@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
 Current roles in this view: 46
 
@@ -16,7 +16,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Northrop Grumman | Sentinel - DAPS Associate / Systems Engineer - 14374 | United States-Utah-Roy | $65,800.00 - $98,800.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---DAPS-Associate---Systems-Engineer---14374_R10238541>) |
-| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
+| Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Archer Aviation | Associate Survivability and Operations Analysis Engineer | Remote; San Jose, California, United States | $70,400 - $96,800 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/archer56/jobs/7719738003>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Aviation Federal Roanoke | Roanoke, VA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/roanoke-va/assistant-structural-engineer-aviation-federal-roanoke/52C8BBA22A5546819DCE9E48D8662146/job>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
 Current roles in this view: 20
 
@@ -17,11 +17,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | The Nuclear Company | Spring 2027 Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008>) |
 | The Nuclear Company | Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008>) |
 | The Boeing Company | Data Analytics Intern | El Segundo, CA | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1>) |
-| TikTok | Data Science Intern (TikTok Integrity and Safety) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
-| TikTok | Data Science Intern (TikTok LIVE) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
-| TikTok | Data Science Intern (TikTok Product) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
-| TikTok | Data Scientist Intern (VOD Data) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
-| TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| TikTok | Data Science Intern - TikTok Integrity and Safety - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
+| TikTok | Data Science Intern - TikTok LIVE - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
+| TikTok | Data Science Intern - TikTok Product - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
+| TikTok | Data Scientist Intern - VOD Data - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
+| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | Trata | Research Scientist Intern ⏳ | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | Two Sigma | AI Research Scientist - Intern [2027 Summer] | New York, NY | $5,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096>) |
 | Uline | Financial Data Analyst Intern | Kenosha, WI | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665>) |

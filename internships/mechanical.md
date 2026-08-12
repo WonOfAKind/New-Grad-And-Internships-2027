@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 9:47 AM EDT
+Last updated: August 12, 2026 at 10:48 AM EDT
 
-Current roles in this view: 41
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797>) |
 | 🔥 Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months, Full-Time) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time->) |
 | Bosch Group | Chassis Control Intern - Kettering University Co-Op Section A | Plymouth, Michigan, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000127510818-chassis-control-intern-kettering-university-co-op-section-a>) |
