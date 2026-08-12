@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-12T23:01:50.469Z",
+  "updated_at": "2026-08-12T23:59:08.016Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-12T23:01:50.469Z",
+      "last_scan_at": "2026-08-12T23:59:08.016Z",
       "last_scan_status": "error",
-      "last_scan_error": "NVIDIA workday scan timed out after 60000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "netflix": {
       "company": "Netflix",

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 7:01 PM EDT
+Last updated: August 12, 2026 at 7:59 PM EDT
 
-Current roles in this view: 234
+Current roles in this view: 233
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,7 +27,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sentry | Software Engineer Intern | San Francisco, CA | $53.13 per hour | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1>) |
 | Smiths Group | Customer Reliability Engineer Intern (PT) | Port Arthur, Texas, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/SmithsGroup2/744000135011634-customer-reliability-engineer-intern-pt->) |
 | BAE Systems | Software Intern (High School) - Summer 2027 Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302041&partnerid=25771&siteid=5403>) |
-| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York, NY | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
+| DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
 | Figma | Software Engineer Intern | San Francisco, CA; New York, NY | $55 - $55/hr USD | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6131089004>) |
 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823923101>) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
@@ -86,7 +86,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | JPMorgan Chase | 2027 Quantitative Research – Asset Management – Summer Internship – Analyst - United States | New York, NY, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774074>) |
 | JPMorgan Chase | 2027 Quantitative Research – Markets – Summer Internship - Analyst – United States | New York, NY, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774038>) |
 | JPMorgan Chase | 2027 Quantitative Research – Markets – Summer Internship - Associate– United States | New York, NY, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061>) |
-| Nidec | Software Engineer Co-Op | WPE, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871>) |
 | Rendezvous Robotics | Software Engineering Intern | Golden, CO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009>) |
 | TikTok | Backend Software Engineer Intern, Global E-Commerce | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668834837268138293>) |
 | TikTok | Backend Software Engineer Intern, Global E-Commerce | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668834837268416821>) |
@@ -227,7 +226,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
-| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | US, Oregon, Hillsboro | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |

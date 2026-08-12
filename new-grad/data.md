@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 7:01 PM EDT
+Last updated: August 12, 2026 at 7:59 PM EDT
 
-Current roles in this view: 13
+Current roles in this view: 14
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -24,5 +24,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | Leidos | Junior Data Analyst w/ Top Secret | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Data-Analyst_R-00187929>) |
 | Software Quality Experts | Entry level Business Analyst/ Data Analyst | Sterling, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861-entry-level-business-analyst-data-analyst>) |
+| Solar Turbines | 2027 Entry Level Gas Turbine Product Engineer (GTPE) | San Diego, California | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 

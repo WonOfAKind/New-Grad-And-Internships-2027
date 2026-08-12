@@ -1,67 +1,31 @@
 {
-  "scanned_at": "2026-08-12T23:01:50.469Z",
+  "scanned_at": "2026-08-12T23:59:08.016Z",
   "fresh_leads": [
     {
-      "role_id": "6f6e9ff9c578fa4aa15d9cce",
-      "company_id": "vertiv",
-      "company": "Vertiv",
+      "role_id": "485b969906a53bbbbe88a220",
+      "company_id": "tiktok",
+      "company": "TikTok",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "IT Systems Product Management Intern (Summer 2027)",
-      "location": "Westerville, OH, United States",
-      "role_type": "Internship",
-      "discipline": "Product Management",
-      "disciplines": [
-        "product-management"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
-      "source": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-12",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "vertiv|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T23:01:35.469Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "0ef2432da63214cfbba6d17f",
-      "company_id": "general-motors",
-      "company": "General Motors",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Early Career Virtual/Computer Aided Engineer",
-      "location": "Warren, Michigan, United States of America",
+      "title": "Software Engineer Graduate (Recommendation Architecture, Feeds Infrastructure) - 2027 Start",
+      "location": "Seattle, Washington, United States of America",
       "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "mechanical"
+        "software"
       ],
       "specialties": [],
       "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
-      "source": "https://search-careers.gm.com/en/jobs/",
+      "grad_window": "2027 grad eligible",
+      "url": "https://lifeattiktok.com/search/7672530785573980421",
+      "source": "https://careers.tiktok.com/search",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-08-07",
-      "expires_at": "2026-08-21",
-      "updated_at": "Posted 5 Days Ago",
-      "source_id": "general motors|workday",
-      "source_adapter": "workday",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -69,177 +33,69 @@
       "priority": "P0"
     },
     {
-      "role_id": "73d7c5950ee51351cba25207",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
+      "role_id": "fa0d4738a02b660eb36f3b94",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Backend Software Engineer Graduate (TikTok-PGC-Creator Strategy) - 2027 Start",
+      "location": "San Jose, California, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
       ],
-      "title": "2027 Associate Electrical Engineer / Electrical Engineer",
-      "location": "United States-Florida-Melbourne",
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://lifeattiktok.com/search/7672976491146004741",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "da2bc434f97fb4f851a03d53",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Electrical Engineer 1",
+      "location": "Millersburg, Pennsylvania, Stati Uniti d'America",
       "role_type": "New Grad",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "hardware-electrical",
+        "manufacturing-industrial"
       ],
       "specialties": [
+        "manufacturing",
         "hardware-electronics"
       ],
-      "compensation": "$63,900.00 - $95,900.00",
-      "grad_window": "2027 grad eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer_R10243534",
-      "source": "https://www.northropgrumman.com/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "2026-08-11",
-      "expires_at": "2026-08-25",
-      "updated_at": "Posted Yesterday",
-      "source_id": "northrop grumman|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "9025c86b5cce4320502ae1d8",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Materials",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$81,370.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ab128ea59bec0c8e75a25302",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Product Development Program",
-      "location": "Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "$81,370.00 - $146,290.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-15",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "21fac593559a321fb47b3386",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Program Welding",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "$89,210.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
-      "posted_at": "",
-      "expires_at": "2026-08-21",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "54d99743fa02ef5507fe9dc2",
-      "company_id": "becton-dickinson",
-      "company": "Becton Dickinson",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Engineering Intern",
-      "location": "USA CT - Canaan",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1",
-      "source": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "source": "https://jobs.thermofisher.com/global/en",
       "date_seen": "2026-08-12",
       "last_seen": "2026-08-12",
-      "posted_at": "2026-08-05",
+      "posted_at": "2026-07-31",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "becton dickinson|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-12T23:01:33.876Z",
-      "verification_version": 6,
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     }
   ],
@@ -269,12 +125,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Tower Research Capital",
-      "title": "Quantitative Trader",
-      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Lockheed Martin",
       "title": "Database Engineer - Entry Level",
       "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/database-engineer-entry-level/694/93414597584",
@@ -284,6 +134,12 @@
       "company": "Maxar",
       "title": "GIS Engineer (Jr)",
       "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Electrical Engineer / Electrical Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer_R10243534",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -311,15 +167,33 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Moog",
       "title": "Electronics Design Engineer I",
       "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Johnson-City-TN/Electronics-Design-Engineer-I_R-26-16972",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Development Materials",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Development Program Welding",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Product Development Program",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "General Motors",
+      "title": "Early Career Virtual/Computer Aided Engineer",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -527,10 +401,16 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Copart",
-      "title": "Data Analytics Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584",
-      "reason": "official verification confirmed closure"
+      "company": "Nidec",
+      "title": "Software Engineer Co-Op",
+      "url": "https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871",
+      "reason": "redirected away from the requisition"
+    },
+    {
+      "company": "Nidec",
+      "title": "manufacturing engineering intern",
+      "url": "https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAMinnesotaMankato-MN/manufacturing-engineering-intern_R0016035",
+      "reason": "redirected away from the requisition"
     }
   ],
   "scan_log": [
@@ -561,7 +441,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 883,
+      "matches": 886,
       "phase": "fast-pass"
     },
     {
@@ -660,7 +540,7 @@
       "source_id": "tiktok|tiktok",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 172,
+      "matches": 174,
       "phase": "fast-pass"
     },
     {
@@ -983,11 +863,17 @@
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "general motors|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "General Motors",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "General Motors workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Caterpillar",
@@ -1036,7 +922,7 @@
       "source_id": "medtronic|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1076,7 +962,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 192,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -1106,7 +992,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1176,7 +1062,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1322,7 +1208,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "NVIDIA workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1372,7 +1258,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 77,
+      "matches": 78,
       "phase": "fast-pass"
     },
     {
@@ -1612,7 +1498,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 31,
+      "matches": 32,
       "phase": "fast-pass"
     },
     {
@@ -1980,7 +1866,7 @@
       "source_id": "temporal|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -2666,7 +2552,7 @@
       "source_id": "abb|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -2676,7 +2562,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -2761,40 +2647,39 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-12T23:01:50.469Z",
-    "elapsed_ms": 301717,
+    "scanned_at": "2026-08-12T23:59:08.016Z",
+    "elapsed_ms": 288699,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 222,
     "discovered_sources_active": 146,
     "discovered_companies_active": 146,
-    "companies_with_active_sources": 216,
+    "companies_with_active_sources": 215,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4134,
-      "official_candidates": 1443,
-      "cached_verifications": 403,
+      "rows_parsed": 4146,
+      "official_candidates": 1446,
+      "cached_verifications": 400,
       "reverify_hours": 24,
-      "verification_attempts": 1040,
-      "verification_successes": 248,
+      "verification_attempts": 1046,
+      "verification_successes": 255,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1360,
-        "untracked discipline": 629,
+        "untracked discipline": 637,
         "graduate-degree-only role": 88,
         "excluded recruiting year": 155,
         "non-official application URL": 43,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 341,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 339,
+        "verification: official posting closed: provider requisition is no longer listed": 87,
         "verification: official posting closed: official page shell does not expose the requisition": 54,
         "verification: official posting closed: explicit closed-page message": 9,
-        "verification: official page has an excluded recruiting year": 92,
-        "verification: official posting closed: provider requisition is no longer listed": 87,
+        "verification: official page has an excluded recruiting year": 90,
         "verification: 405 Not Allowed": 33,
-        "verification: official posting closed: official page does not identify the requisition": 29,
-        "verification: 429 Too Many Requests": 2,
+        "verification: official posting closed: official page does not identify the requisition": 31,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: 404 Not Found": 32,
         "verification: 403 Forbidden": 71,
@@ -2803,6 +2688,7 @@
         "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 5,
         "verification: 404 Not Found": 12,
+        "verification: official provider verification unavailable: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON": 3,
         "verification: official posting closed: redirected to an error page": 1,
         "verification: 410 Gone": 2,
         "verification: official provider verification unavailable: 403 Forbidden": 1
@@ -2820,30 +2706,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 2,
+    "double_check_attempts": 3,
     "unique_sources_attempted": 222,
-    "total_fetch_attempts": 224,
-    "ok_sources": 216,
-    "error_sources": 5,
+    "total_fetch_attempts": 225,
+    "ok_sources": 215,
+    "error_sources": 6,
     "blocked_sources": 1,
-    "ats_ok_sources": 74,
-    "ats_error_sources": 1,
+    "ats_ok_sources": 73,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 97.4,
+    "ats_success_percent": 96.1,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 1,
+      "429 Too Many Requests": 2,
       "Request Timeout": 4
     },
-    "board_eligible_candidates": 930,
-    "provider_candidate_checks": 184,
+    "board_eligible_candidates": 936,
+    "provider_candidate_checks": 179,
     "provider_candidate_closed": 0,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 182,
-    "inactive_provider_checks": 143,
-    "inactive_provider_closed": 1,
-    "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 48,
+    "closure_checks": 185,
+    "inactive_provider_checks": 145,
+    "inactive_provider_closed": 0,
+    "inactive_provider_unavailable": 2,
+    "closed_roles_removed": 52,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
