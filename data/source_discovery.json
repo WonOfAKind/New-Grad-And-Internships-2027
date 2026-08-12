@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-12T14:48:22.882Z",
+  "updated_at": "2026-08-12T15:44:19.116Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -819,9 +819,9 @@
         "limit": 20,
         "verified_open_jobs": 407
       },
-      "last_scan_at": "2026-08-12T00:45:08.853Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-12T15:44:19.116Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-12T00:45:08.853Z"
     },
     "palo alto networks": {
@@ -2298,9 +2298,10 @@
         "limit": 20,
         "verified_open_jobs": 330
       },
-      "last_scan_at": "2026-08-12T13:47:15.136Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_at": "2026-08-12T15:44:19.116Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T15:44:19.116Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -4068,9 +4069,9 @@
         "limit": 20,
         "verified_open_jobs": 159
       },
-      "last_scan_at": "2026-08-11T23:26:35.476Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-12T15:44:19.116Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-11T23:26:35.476Z"
     },
     "oscar health": {
@@ -5138,10 +5139,10 @@
         "limit": 20,
         "verified_open_jobs": 1160
       },
-      "last_scan_at": "2026-08-12T14:48:22.882Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-12T13:47:15.136Z"
+      "last_scan_at": "2026-08-12T15:44:19.116Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-12T15:44:19.116Z"
     },
     "abbott": {
       "company": "Abbott",

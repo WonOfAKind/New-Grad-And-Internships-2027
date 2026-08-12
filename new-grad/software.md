@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 10:48 AM EDT
+Last updated: August 12, 2026 at 11:44 AM EDT
 
-Current roles in this view: 245
+Current roles in this view: 247
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Northrop Grumman | 2027 Associate Cyber Systems Engineer Annapolis Junction MD | United States-Maryland-Annapolis Junction | $96,700 -$103,800 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2027-Associate-Cyber-Systems-Engineer-Annapolis-Junction-MD_R10245314>) |
+| Northrop Grumman | 2027 Associate Software Engineer/Software Engineer | United States-Florida-Melbourne | $65,800 - $98,800 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233>) |
 | TikTok | Big Data Engineer Graduate (TikTok Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672518398222387461>) |
 | BlueHalo | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | BlueHalo | Software Engineer I-2 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-2_8367>) |
@@ -22,8 +23,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Comcast | Junior C++ Software Engineer - New York Hybrid - FreeWheel | NY - New York, 1407 Broadway Floor 12 | $106,304.37 - $159,456.55 | Early career | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Junior-C---Software-Engineer---New-York-Hybrid---FreeWheel_R442391>) |
 | DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | $135,000 - $150,000 USD | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719126005>) |
 | 🔥 Google | Software Engineer, Early Career, Campus | United States | $123,000 - $174,000 USD | Early career | Posted Aug 10, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus>) |
-| Belvedere Trading | Quantitative Trader - Entry Level | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee>) |
-| Belvedere Trading | Software Engineer - Entry Level | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f>) |
+| Belvedere Trading | Quantitative Trader - Entry Level 2027 | Chicago, Illinois | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee>) |
+| Belvedere Trading | Software Engineer - Entry Level 2027 | Chicago, Illinois | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f>) |
 | Booz Allen Hamilton | Cybersecurity Test Engineer, Junior | Rome, NY | $55,200.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Test-Engineer--Junior_R0241650>) |
 | Chicago Trading Company | Quant Trading Associate - 2027 Start | Chicago, IL | $200,000 - $200,000 USD | 2027 grad eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005>) |
 | Leidos | Jr. Software Engineer | Bethesda, MD | $57,850.00 - $104,575.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00175979>) |
@@ -124,6 +125,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Boeing | Entry-Level Systems Engineer (Digital Comm &amp; Networks Sys Engrg) | USA - El Segundo, CA | $79,050 - $106,950 | Early career | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769-1>) |
 | Chicago Trading Company | Quant Trading Associate - 2027 Start | Chicago, IL | $200,000 - $200,000 USD | 2027 grad eligible | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708724005>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | $65,800 - $98,800 | 2027 grad eligible | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060>) |
+| Valkyrie Trading | Junior Software Engineer | Chicago, IL | - | Early career | Posted Jul 30, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c>) |
 | BAE Systems | Entry Level Software Engineer | Hudson, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300852&partnerid=25771&siteid=5403>) |
 | BAE Systems | FAST Labs - Software Engineer - Early Career Levels - Secret | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301408&partnerid=25771&siteid=5403>) |
 | BAE Systems | FAST Labs - Software Engineer - Early Career Levels - Top Secret | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300658&partnerid=25771&siteid=5403>) |
@@ -220,7 +222,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Aquatic | Quantitative Researcher, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489150002>) |
 | Aquatic | Software Engineer, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002>) |
-| Tower Research Capital | Quantitative Trader - 2027 | New York, Chicago | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
+| Tower Research Capital | Quantitative Trader | New York, NY; Chicago, IL | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
 | Notion | Software Engineer, Early Career | San Francisco, California | $130,000 - $150,000 | Early career | Posted Jul 6, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) |
 | Micron | New College Grad - ID1 IT Network Engineer | Boise, ID,US | - | Early career | Posted Jun 29, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42813200-new-college-grad-id1-it-network-engineer-boise-idaho-united-states-of-america>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | - | Early career | Posted Jun 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2125556/apply>) |
