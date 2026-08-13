@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 12:37 PM EDT
+Last updated: August 13, 2026 at 1:42 PM EDT
 
 Current roles in this view: 11
 
@@ -22,5 +22,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Uncountable | Product Manager – New Grad | San Francisco, CA; New York, NY | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc>) |
 | Appian | Product Manager (2027 Graduates) | McLean, VA | $110,000 - $113,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8069612-product-manager--2027-graduates->) |
 | Micron | New College Grad - Product Manager, HBM | Boise, ID, US | - | Early career | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<http://careers.micron.com/careers/job/41945073-new-college-grad-product-manager-hbm-boise-idaho-united-states-of-america>) |
-| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) - Databricks | San Francisco, CA; Mountain View, CA; Bellevue, WA | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002>) |
+| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) | San Francisco, CA; Mountain View, CA; Bellevue, WA | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002>) |
 

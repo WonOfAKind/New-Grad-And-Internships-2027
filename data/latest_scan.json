@@ -1,169 +1,62 @@
 {
-  "scanned_at": "2026-08-13T16:37:30.443Z",
+  "scanned_at": "2026-08-13T17:42:44.817Z",
   "fresh_leads": [
     {
-      "role_id": "1e74931aa49dc9eca2ec662d",
-      "company_id": "kbr",
-      "company": "KBR",
+      "role_id": "02a37381e4899f38585912aa",
+      "company_id": "impact",
+      "company": "Impact",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Jr. Systems Engineer (Digital Engineering Engagement)",
-      "location": "Chantilly, Virginia",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Engagement-_R2125983/apply",
-      "source": "https://careers.kbr.com/",
-      "date_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "posted_at": "2026-08-12",
-      "expires_at": "",
-      "updated_at": "2026-08-13T00:00:00.000+0000",
-      "source_id": "kbr|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c676c31102d3478aff848311",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Junior Scene Generation Engineer",
-      "location": "Huntsville, AL",
+      "title": "Associate Software Engineer",
+      "location": "Santa Barbara, CA",
       "role_type": "New Grad",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
-      "source": "https://bluehalo.com/careers/",
-      "date_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "Posted 8 Days Ago",
-      "source_id": "bluehalo|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "16b42cfa613f933d54758d60",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Associate Electronics Engineer/Electronics Engineer",
-      "location": "United States-California-San Diego; United States-California-Palmdale; United States-California-El Segundo; United States-California-Redondo Beach",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$76,200.00 - $114,400.00",
-      "grad_window": "2027 grad eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10245656",
-      "source": "https://www.northropgrumman.com/jobs/",
-      "date_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "posted_at": "2026-08-13",
-      "expires_at": "2026-08-16",
-      "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "3522eacbbcdab00a485fe85d",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Associate Software Engineer/Software Engineer",
-      "location": "United States-California-San Diego; United States-California-Palmdale; United States-California-El Segundo; United States-Oklahoma-Oklahoma City; United States-California-Redondo Beach",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$62,300.00 - $114,400.00",
-      "grad_window": "2027 grad eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
-      "source": "https://www.northropgrumman.com/jobs/",
-      "date_seen": "2026-08-13",
-      "last_seen": "2026-08-13",
-      "posted_at": "2026-08-13",
-      "expires_at": "2026-08-16",
-      "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "ad4342c1d8a083b1c48abcbd",
-      "company_id": "thermo-fisher-scientific",
-      "company": "Thermo Fisher Scientific",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Manufacturing Electrical Engineer 1",
-      "location": "Millersburg, Pennsylvania, United States of America",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [
-        "manufacturing",
-        "hardware-electronics"
-      ],
-      "compensation": "",
+      "compensation": "$80,000.00 - $90,000.00 base salary",
       "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
-      "source": "https://jobs.thermofisher.com/global/en",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "source": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
       "date_seen": "2026-08-13",
       "last_seen": "2026-08-13",
-      "posted_at": "2026-08-01",
+      "posted_at": "2026-08-08",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "thermo fisher scientific|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "source_id": "impact|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-13T17:41:50.217Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "03ebec725aa6b63fb3c3e84d",
+      "company_id": "abbott",
+      "company": "Abbott",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Instrumentation/Automation Service Engineer I",
+      "location": "United States - Wisconsin - Madison",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1",
+      "source": "https://www.jobs.abbott/us/en",
+      "date_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
+      "updated_at": "Posted Today",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -171,29 +64,31 @@
       "priority": "P1"
     },
     {
-      "role_id": "da60ab0dd4a88bd7eb7cc834",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
+      "role_id": "82621b67a2c3e85651597bb5",
+      "company_id": "curtiss-wright",
+      "company": "Curtiss-Wright",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Software QA Automation Engineer I",
-      "location": "Moorpark, CA",
+      "title": "Associate Engineer - Quality and Calibration",
+      "location": "US-NY-Lansing (ST-800)",
       "role_type": "New Grad",
-      "discipline": "Software Engineering",
+      "discipline": "Other Engineering",
       "disciplines": [
-        "software"
+        "other-engineering"
       ],
-      "specialties": [],
-      "compensation": "$82,000 - $125,000",
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$70,000-$75,000",
       "grad_window": "Verified early career (BS)",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "source": "https://bluehalo.com/careers/",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
       "date_seen": "2026-08-13",
       "last_seen": "2026-08-13",
       "posted_at": "",
       "expires_at": "",
       "updated_at": "Posted 30+ Days Ago",
-      "source_id": "bluehalo|workday",
+      "source_id": "curtiss-wright|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -204,9 +99,21 @@
   ],
   "removed_roles": [
     {
+      "company": "BlueHalo",
+      "title": "Software QA Automation Engineer I",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303/apply",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "BlueHalo",
+      "title": "Junior Scene Generation Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -222,9 +129,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Electronics Engineer/Electronics Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10245656",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -249,6 +156,12 @@
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Studies",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Thermo Fisher Scientific",
+      "title": "Manufacturing Electrical Engineer 1",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -292,12 +205,6 @@
       "title": "Spirit Defense - Entry-Level Material Review Engineer",
       "url": "https://careers.spiritaero.com/jobs/17257",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "KBR",
-      "title": "Jr. Systems Engineer (Board Support)",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Board-Support-_R2127901-1/apply",
-      "reason": "official verification confirmed closure"
     },
     {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -372,12 +279,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "RTX",
-      "title": "Manufacturing Engineer I",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineer-I_01864787/apply",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Abbott",
       "title": "Equipment/Automation Engineer I",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000251-1",
@@ -398,19 +299,7 @@
     {
       "company": "Abbott",
       "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Abbott",
-      "title": "Equipment/Automation Engineer I",
-      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000244",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -520,18 +409,6 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Summer-2027--Software-Intern-OnSite_01865160",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Valkyrie Trading",
-      "title": "Junior Software Engineer Intern",
-      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Parsons",
-      "title": "Civil Engineering Intern",
-      "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---CA-Pasadena/Civil-Engineering-Intern_R184307",
-      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -562,7 +439,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 890,
+      "matches": 892,
       "phase": "fast-pass"
     },
     {
@@ -592,7 +469,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 104,
+      "matches": 103,
       "phase": "fast-pass"
     },
     {
@@ -602,15 +479,17 @@
       "source_id": "scale ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 86,
+      "matches": 85,
       "phase": "fast-pass"
     },
     {
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 10000ms",
+      "source_id": "anduril|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 960,
       "phase": "fast-pass"
     },
     {
@@ -689,7 +568,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 252,
+      "matches": 251,
       "phase": "fast-pass"
     },
     {
@@ -889,7 +768,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 42,
+      "matches": 41,
       "phase": "fast-pass"
     },
     {
@@ -1077,7 +956,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 53,
+      "matches": 51,
       "phase": "fast-pass"
     },
     {
@@ -1087,7 +966,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 196,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -1124,17 +1003,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1193,7 +1066,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -1213,7 +1086,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 75,
+      "matches": 87,
       "phase": "fast-pass"
     },
     {
@@ -1263,7 +1136,7 @@
       "source_id": "stoke space|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 22,
+      "matches": 21,
       "phase": "fast-pass"
     },
     {
@@ -1536,11 +1409,17 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1907,16 +1786,8 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Workday",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -1952,19 +1823,11 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Zendesk",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Zapier",
@@ -2143,7 +2006,7 @@
       "source_id": "snorkel ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -2210,11 +2073,19 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "verily|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2340,11 +2211,17 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 3,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2408,8 +2285,10 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
@@ -2439,7 +2318,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -2600,33 +2479,21 @@
       "company": "Axiom Space",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Axiom Space",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Red Hat",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "axiom space|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "red hat|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
     },
     {
       "company": "Cummins",
@@ -2670,11 +2537,17 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "rockwell automation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2708,25 +2581,21 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "double-check"
     },
     {
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Abbott",
@@ -2735,7 +2604,7 @@
       "source_id": "abbott|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 16,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -2772,17 +2641,11 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "curtiss-wright|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "ABB",
@@ -2791,7 +2654,7 @@
       "source_id": "abb|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 9,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -2892,24 +2755,24 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-13T16:37:30.443Z",
-    "elapsed_ms": 352733,
+    "scanned_at": "2026-08-13T17:42:44.817Z",
+    "elapsed_ms": 354604,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 227,
     "discovered_sources_active": 151,
     "discovered_companies_active": 151,
-    "companies_with_active_sources": 209,
+    "companies_with_active_sources": 214,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4359,
       "official_candidates": 1598,
-      "cached_verifications": 465,
+      "cached_verifications": 489,
       "reverify_hours": 24,
-      "verification_attempts": 1133,
-      "verification_successes": 297,
+      "verification_attempts": 1109,
+      "verification_successes": 275,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1393,
@@ -2918,7 +2781,7 @@
         "excluded recruiting year": 150,
         "non-official application URL": 45,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 371,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 369,
         "verification: 405 Not Allowed": 40,
         "verification: official posting closed: provider requisition is no longer listed": 88,
         "verification: official posting closed: official page shell does not expose the requisition": 54,
@@ -2938,8 +2801,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 2,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2949,30 +2812,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 15,
+    "double_check_attempts": 12,
     "unique_sources_attempted": 227,
-    "total_fetch_attempts": 242,
-    "ok_sources": 209,
-    "error_sources": 17,
+    "total_fetch_attempts": 239,
+    "ok_sources": 214,
+    "error_sources": 12,
     "blocked_sources": 1,
-    "ats_ok_sources": 70,
-    "ats_error_sources": 5,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 92.1,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 3,
-      "429 Too Many Requests": 14
+      "429 Too Many Requests": 9,
+      "Request Timeout": 3
     },
-    "board_eligible_candidates": 1045,
-    "provider_candidate_checks": 171,
+    "board_eligible_candidates": 1048,
+    "provider_candidate_checks": 177,
     "provider_candidate_closed": 1,
     "provider_candidate_unavailable": 0,
     "closure_checks": 174,
-    "inactive_provider_checks": 147,
-    "inactive_provider_closed": 4,
+    "inactive_provider_checks": 139,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 55,
+    "closed_roles_removed": 52,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

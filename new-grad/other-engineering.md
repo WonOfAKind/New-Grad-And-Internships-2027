@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 12:37 PM EDT
+Last updated: August 13, 2026 at 1:42 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 13, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.dupont.com/es/es/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 13, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Abbott | System Engineer I | United States - Georgia - Atlanta; United States &gt; Massachusetts &gt; Burlington : 168 Middlesex Turnpike; United States &gt; Atlanta : 387 Technology Circle NW Suite 500 | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/System-Engineer-I_31158505-1>) |
