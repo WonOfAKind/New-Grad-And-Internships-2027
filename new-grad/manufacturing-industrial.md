@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 10:48 AM EDT
+Last updated: August 13, 2026 at 11:44 AM EDT
 
-Current roles in this view: 45
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,8 +14,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Black &amp; Veatch | Associate Engineer - Electrical, Industrial Manufacturing | Ann Arbor, MI, US | $91,047 - $152,053 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Development Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | First seen Aug 13, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Development Program Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | First seen Aug 13, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17151>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |

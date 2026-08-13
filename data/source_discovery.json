@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-13T14:48:44.867Z",
+  "updated_at": "2026-08-13T15:44:28.933Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-13T14:48:44.867Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T14:48:44.867Z"
     },
     "netflix": {
@@ -3847,9 +3847,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-13T14:48:44.867Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T14:48:44.867Z"
     },
     "l3harris": {
@@ -4507,9 +4507,9 @@
         "limit": 20,
         "verified_open_jobs": 734
       },
-      "last_scan_at": "2026-08-13T13:46:55.357Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-13T13:46:55.357Z"
     },
     "honeywell": {
@@ -5339,9 +5339,9 @@
         "limit": 20,
         "verified_open_jobs": 354
       },
-      "last_scan_at": "2026-08-13T14:48:44.867Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T14:48:44.867Z"
     },
     "draper": {
@@ -5533,9 +5533,9 @@
         "limit": 20,
         "verified_open_jobs": 240
       },
-      "last_scan_at": "2026-08-13T14:48:44.867Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T14:48:44.867Z"
     },
     "michelin": {
@@ -5628,9 +5628,9 @@
         "limit": 20,
         "verified_open_jobs": 292
       },
-      "last_scan_at": "2026-08-13T14:48:44.867Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T15:44:28.933Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T14:48:44.867Z"
     },
     "chevron": {

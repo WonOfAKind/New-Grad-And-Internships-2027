@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 10:48 AM EDT
+Last updated: August 13, 2026 at 11:44 AM EDT
 
-Current roles in this view: 249
+Current roles in this view: 248
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -35,15 +35,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Backend Software Engineer Intern - Global E-Commerce | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668834837268416821>) |
 | TikTok | Backend Software Engineer Intern - LIVE Foundation Governance Engineering | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667935150530840837>) |
 | TikTok | Data Engineer Intern - Ads Targeting | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
-| TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
+| TikTok | Data Engineer Intern - Monetization Data | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
 | TikTok | Frontend Engineer Intern - Ads Interface | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
 | TikTok | Frontend Engineer Intern - Global CRM | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669711026846058757>) |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670700387322300677>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670738362521520437>) |
 | TikTok | Software Engineer Intern - Foundation Platform | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670281449668905269>) |
+| TikTok | Software Engineer Intern - Global E-commerce-Search | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839727059339525>) |
 | TikTok | Software Engineer Intern - Media Engine | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670295535077427509>) |
 | TikTok | Software Engineer Intern - Trust and Safety Engineering | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7662684280234232117>) |
-| TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839727059339525>) |
 | Layup Parts | Software Engineering Intern | Huntington Beach, CA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53>) |
 | 🔥 Microsoft | Software Engineering Intern | Remote (US) | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 7, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556957962>) |
 | Northwestern Mutual | Cyber-Security Internship | Milwaukee, Wisconsin, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/NorthwesternMutual/85751642-cyber-security-internship>) |
@@ -238,7 +238,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
-| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
+| Intel | AI Software Engineering Intern | Oregon Hillsboro | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
 | Intel | AI Software Engineering Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |
@@ -249,7 +249,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7671109787509213445>) |
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7672394389001816325>) |
 | Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | - | 2027 internship eligible | Posted Jun 28, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
-| ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
 | TikTok | Product Manager Intern - Ads Interface and Platform | Seattle, WA | $33.25- $52.25/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672569081632229685>) |
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672562486917286149>) |
