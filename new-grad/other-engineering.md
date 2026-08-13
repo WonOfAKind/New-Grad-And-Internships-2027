@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 9:46 AM EDT
+Last updated: August 13, 2026 at 10:48 AM EDT
 
-Current roles in this view: 31
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,13 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 13, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.dupont.com/es/es/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 13, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Abbott | System Engineer I | United States - Georgia - Atlanta; United States &gt; Massachusetts &gt; Burlington : 168 Middlesex Turnpike; United States &gt; Atlanta : 387 Technology Circle NW Suite 500 | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/System-Engineer-I_31158505-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000255-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000252-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000254-1>) |
-| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
 | Nissan | Systems Engineer 1 | Canton, Mississippi - United States of America | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-1_R00200457-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000256-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
@@ -36,6 +36,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | DuPont | Administrative Specialist- Early Career &amp; Engineering Programs | Wilmington, Delaware, United States of America | - | Early career | Posted Aug 8, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs>) |
 | Solar Turbines | Entry Level Gas Turbine Product Engineer - Gtpe | San Diego, CA | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | Abbott | Instrumentation/Automation Service Engineer I - OS | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Instrumentation-Automation-Service-Engineer-I---OS_35000257>) |
+| Leidos | Associate Engineer Drafter | Reston, VA | $73,450.00 - $132,775.00 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 13, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Associate-Engineer-Drafter_R-00184630>) |
+| Leidos | Junior Engineer Drafter | Reston, VA | $59,150.00 - $106,925.00 | Early career | Posted Aug 5, 2026<br>First seen Aug 13, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Engineer-Drafter_R-00184626>) |
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Orlando, FL, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |

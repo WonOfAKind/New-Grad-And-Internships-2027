@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 9:46 AM EDT
+Last updated: August 13, 2026 at 10:48 AM EDT
 
-Current roles in this view: 14
+Current roles in this view: 15
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | 🔥 MIT Lincoln Laboratory | Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105 (Lexington, MA, US) | Lexington, MA, US | $25.00/hour | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Airborne-Radar-Systems-and-Techniques-Intern-%28Summer-2027%29-Group-105-MA-02420/1410581200>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 | Varda Space | Avionics Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) |
