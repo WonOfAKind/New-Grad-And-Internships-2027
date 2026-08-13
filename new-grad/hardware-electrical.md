@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 2:38 PM EDT
+Last updated: August 13, 2026 at 3:46 PM EDT
 
-Current roles in this view: 26
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
+| BlueHalo | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | Northrop Grumman | 2027 Associate Electronics Engineer/Electronics Engineer | United States-California-San Diego; United States-California-Palmdale; United States-California-El Segundo; United States-California-Redondo Beach | $76,200.00 - $114,400.00 | 2027 grad eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10245656>) |
 | Black &amp; Veatch | Associate Engineer - Electrical, Industrial Manufacturing | Ann Arbor, MI, US | $91,047 - $152,053 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033>) |
 | Northrop Grumman | 2027 Associate Engineer Electrical / Engineer Electrical | United States-California-Palmdale; United States-California-San Diego; United States-California-Edwards AFB; United States-Maryland-Patuxent River; United States-California-Mojave; United States-California-Redondo Beach; United States-California-El Segundo; United States-Oklahoma-Oklahoma City; United States-North Dakota-Emerado | $62,300.00 - $114,400.00 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Engineer-Electrical---Engineer-Electrical_R10245569>) |
@@ -24,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | BAE Systems | FAST Lab – Entry Level FPGA Engineer | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 29, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301953&partnerid=25771&siteid=5403>) |
+| Boeing | DSP Algorithms Engineer (Entry-Level) | USA - El Segundo, CA | $79,050- $106,950 | Early career | Posted Jul 29, 2026<br>First seen Aug 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1>) |
 | Nexxen | Software Engineer 1 - DSP Runtime | New York, NY | $110,000-$140,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32>) |
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Protection | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833>) |
 | United Launch Alliance | Electrical Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700>) |
