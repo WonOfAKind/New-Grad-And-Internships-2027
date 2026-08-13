@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-13T21:31:39.429Z",
+  "updated_at": "2026-08-13T22:27:11.718Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -819,9 +819,10 @@
         "limit": 20,
         "verified_open_jobs": 407
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1921,9 +1922,9 @@
         "limit": 20,
         "verified_open_jobs": 1014
       },
-      "last_scan_at": "2026-08-13T19:46:09.684Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T19:46:09.684Z"
     },
     "lowe's technology": {
@@ -2309,9 +2310,9 @@
         "limit": 20,
         "verified_open_jobs": 344
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Workday workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-13T21:31:39.429Z"
     },
     "cisco": {
@@ -4078,9 +4079,10 @@
         "limit": 20,
         "verified_open_jobs": 164
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4514,9 +4516,10 @@
         "limit": 20,
         "verified_open_jobs": 778
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms"
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -4644,9 +4647,9 @@
         "limit": 20,
         "verified_open_jobs": 73
       },
-      "last_scan_at": "2026-08-13T17:42:44.817Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T17:42:44.817Z"
     },
     "vast": {
@@ -5031,9 +5034,9 @@
         "limit": 20,
         "verified_open_jobs": 1108
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T21:31:39.429Z"
     },
     "trane technologies": {
@@ -5113,9 +5116,9 @@
         "limit": 20,
         "verified_open_jobs": 1025
       },
-      "last_scan_at": "2026-08-13T20:25:23.000Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T20:25:23.000Z"
     },
     "johnson & johnson": {
@@ -5537,9 +5540,10 @@
         "limit": 20,
         "verified_open_jobs": 241
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5631,9 +5635,10 @@
         "limit": 20,
         "verified_open_jobs": 291
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-13T22:27:11.718Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "chevron": {
       "company": "Chevron",
