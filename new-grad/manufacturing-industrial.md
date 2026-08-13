@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 11:44 AM EDT
+Last updated: August 13, 2026 at 12:37 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Black &amp; Veatch | Associate Engineer - Electrical, Industrial Manufacturing | Ann Arbor, MI, US | $91,047 - $152,053 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033>) |
+| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17151>) |
@@ -27,7 +28,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Boston Scientific | Quality Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Quality-Engineer-I-MN-55112/1417067300>) |
 | Burns &amp; McDonnell | Assistant Instrument Controls Engineer Global Facilities Onsite Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-instrument-controls-engineer-global-facilities-onsite-kansas-city/B6AEF423E5BC4303B3D4B5A080F1B4DF/job>) |
 | 🔥 RTX | Manufacturing Engineer | goleta, California, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer_01864965/apply>) |
-| 🔥 RTX | Manufacturing Engineer I | burnsville, Minnesota, United States of America | - | Early career | Posted Aug 9, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineer-I_01864787/apply>) |
 | Abbott | Manufacturing Process Engineer I | United States - Maine - Scarborough | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31158324-1>) |
 | Abbott | Quality Engineer I | United States - Indiana - Westfield | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Quality-Engineer-II_31152098-1>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000251-1>) |
@@ -36,9 +36,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, &amp; Adhesives (Early Career) | Space Coast, FL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |
 | Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17014>) |
-| Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
-| Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000244>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000245-1>) |
 | Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000241>) |
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
