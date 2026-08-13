@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 1:42 PM EDT
+Last updated: August 13, 2026 at 2:38 PM EDT
 
-Current roles in this view: 24
+Current roles in this view: 26
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,6 +19,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Northrop Grumman | 2027 Associate Electrical Engineer / Electrical Engineer | United States-Florida-Melbourne | $63,900.00 - $95,900.00 | 2027 grad eligible | Posted Aug 11, 2026<br>First seen Aug 13, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer_R10243534>) |
 | Johnson Controls | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United States of America | $65,000 - $80,000 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369>) |
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Studies | Tualatin, OR, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633>) |
+| Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | 🔥 Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | Early career | First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5167865007>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
@@ -27,6 +28,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Protection | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833>) |
 | United Launch Alliance | Electrical Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Electrical-Engineer-1-AL-35601/1412556700>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
+| Amentum | Power System Design Engineer - Entry Level | Tullahoma, Tennessee, US | $61,660 - $101,600 | Early career | Posted Jul 16, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states>) |
 | Lockheed Martin | RF Systems Engineer Level 1 - Clearance Required | Hanover, Maryland | $73,400 - $129,260 | Verified early career (BS) | Posted Jun 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/hanover/rf-systems-engineer-level-1-clearance-required/694/92888973888>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |

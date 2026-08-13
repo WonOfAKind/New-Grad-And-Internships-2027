@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 1:42 PM EDT
+Last updated: August 13, 2026 at 2:38 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 38
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -36,9 +36,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, &amp; Adhesives (Early Career) | Space Coast, FL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |
 | Spirit AeroSystems | Industrial Engineer (Associate or Mid-Level) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17014>) |
-| Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
-| Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000245-1>) |
-| Abbott | Equipment/Automation Engineer I | United States - Wisconsin - Madison | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 13, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000241>) |
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 | Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
 | Spirit AeroSystems | Spirit Defense - Associate Industrial Engineer | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16703>) |

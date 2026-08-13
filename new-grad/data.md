@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 1:42 PM EDT
+Last updated: August 13, 2026 at 2:38 PM EDT
 
-Current roles in this view: 15
+Current roles in this view: 16
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -23,6 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
 | TikTok | Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668512600592812293>) |
 | TikTok | Data Scientist Graduate (TikTok-Search) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669658702904871173>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA, US | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 | Leidos | Junior Data Analyst w/ Top Secret | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Data-Analyst_R-00187929>) |
 | Software Quality Experts | Entry level Business Analyst/ Data Analyst | Sterling, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/SQexpetsLLC/743999653805861-entry-level-business-analyst-data-analyst>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 1:42 PM EDT
+Last updated: August 13, 2026 at 2:38 PM EDT
 
-Current roles in this view: 49
+Current roles in this view: 50
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
+| KBR | Junior Mechanical Engineer | Huntsville, Alabama | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2128289/apply>) |
 | Trane Technologies | Application Engineer I | Fort Smith, Arkansas, Vereinigte Staaten | $67,133.33 - $93,485.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.tranetechnologies.com/global/de/job/JR-11722/Application-Engineer-I>) |
 | 🔥 RTX | Mechanical Engineer I | tucson, Arizona, United States of America | - | Early career | Posted Aug 11, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/Mechanical-Engineer-I_01861513/apply>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |

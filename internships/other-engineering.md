@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 1:42 PM EDT
+Last updated: August 13, 2026 at 2:38 PM EDT
 
-Current roles in this view: 34
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| BP | Summer Intern - Wells Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Wells-Engineer---Houston--TX_RQ114709>) |
 | Curtiss-Wright | Project Engineering Intern | East Farmingdale, NY | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Project-Engineering-Intern_JR13137-1>) |
 | HNTB | Returning Project Controls Intern - Summer 2027 - Great Lakes Division (For Current/Former HNTB Interns Only) | Milwaukee, WI (East Wisconsin Avenue) | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Project-Controls-Intern---Summer-2027---Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only-_R-31144-1>) |
 | RTX | Co-Op: Aftermarket Engineer | Lansing, MI | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164>) |
 | TikTok | Research Engineer Intern - Monetization Technology - Business Integrity | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202602270951733>) |
-| Vertiv | Cost Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896>) |
 | BP | Summer Intern – Reservoir Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | IN, Indianapolis, R184490 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Bridge-Engineering-Intern---Summer-2027_R184490>) |
 | Parsons | Roadway Engineering Intern - Summer 2027 | IN, Indianapolis, R184488 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488>) |
@@ -28,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
+| TikTok | LLM Post-training Engineer Intern - Research &amp; Product - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285031018432773>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |
 | HNTB | Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only) | Boston, MA | $26.34 - $39.50/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1>) |
@@ -35,7 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Parsons | Bridge Engineering Intern - Summer 2027 | NY, New York, R184234 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234>) |
 | Stantec | Transportation Engineering Co-op/Intern (Spring 2027) | New York, NY, United States; Portland, OR, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071>) |
 | RTX | Internship Engineering (m/f/d) | Bw, DE | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601>) |
-| PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
