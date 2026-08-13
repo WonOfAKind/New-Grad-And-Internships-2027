@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 12, 2026 at 7:59 PM EDT
+Last updated: August 13, 2026 at 9:46 AM EDT
 
-Current roles in this view: 9
+Current roles in this view: 11
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | Creative Product Manager Graduate (Creative and Brand Innovation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7673256057754290437>) |
+| LPL Financial Holdings | Product Management New Grad - Product | Austin, TX; Fort Mill, SC; Charlotte, NC | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
 | Micron Technology | HBM Product Manager – New College Grad | Boise, ID | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001>) |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663710002>) |

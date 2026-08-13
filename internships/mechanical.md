@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 12, 2026 at 7:59 PM EDT
+Last updated: August 13, 2026 at 9:46 AM EDT
 
 Current roles in this view: 42
 
@@ -22,7 +22,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern | Milpitas, CA | $27.00 - $31.00 per hour | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744>) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, CA | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc>) |
 | FLIR Systems | Mechanical Engineering Intern | US - Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
-| Teledyne | Mechanical Engineering Intern | US - Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
+| Teledyne | Mechanical Engineering Intern | Miamisburg, OH | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562>) |
 | Vertiv | Thermal Engineering Intern (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278813>) |
 | Bosch Group | Internship Vehicle Thermal Systems Engineering | Farmington Hills, Michigan, United States | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142173185-internship-vehicle-thermal-systems-engineering>) |
 | 🔥 Caterpillar | 2027 Engineering Corporate Intern Program - Product Development Track | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; PA-Kennett Square-Tangent Energy Solutions; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Schertz, Texas; Rapid City, South Dakota; Griffin, Georgia; Denison, Texas; Houston, Texas; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Mossville, Illinois; Alpharetta, Georgia; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Intern-Program-----Product-Development-Track_R0000380479>) |
