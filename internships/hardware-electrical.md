@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 3:46 PM EDT
+Last updated: August 13, 2026 at 4:25 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -38,17 +38,16 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Akuna Capital | Hardware Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
 | IMC Trading | Hardware Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 5, 2026 | [Apply](<https://www.imc.com/us/careers/jobs/4823945101>) |
 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
-| Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |
 | Huntsman | Electrical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027>) |
-| Agilent Technologies | Electrical Engineering Intern | US-DE-Wilmington | $22.00 - $24.00/hour | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526>) |
+| Agilent Technologies | Electrical Engineering Intern | Wilmington, DE | $22.00 - $24.00/hour | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526>) |
 | Neuralink | Electrical Engineer Intern - Implant Embedded Systems | Austin, TX +1 | $35/Hr | 2027 internship eligible | Posted Jun 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7702527003>) |
 | Base Power | Firmware Engineering Intern | Austin, TX | - | 2027 internship eligible | Posted May 26, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7>) |
 | Base Power | Hardware Engineering Intern | Austin, TX | - | 2027 internship eligible | Posted May 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770>) |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | $19.20 - $26.40/hr | 2027 internship eligible | Posted Feb 19, 2026<br>First seen Aug 3, 2026 | [Apply](<https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533>) |
 | Ambarella | ASIC Design Engineer Intern | US Headquarters | - | 2027 internship eligible | Posted Sep 8, 2025<br>First seen Aug 3, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100>) |
 | FLIR Systems | Computer Engineering Intern | US - Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
-| Teledyne | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
+| Teledyne | Computer Engineering Intern | US - Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, CA | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc>) |
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | $1,000 - $2,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2>) |
 | Bosch Group | 2027 Spring Mechanical/Electrical Engineering Co-Op | Charleston, South Carolina, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141338219-2027-spring-mechanical-electrical-engineering-co-op>) |
