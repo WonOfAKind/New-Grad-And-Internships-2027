@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 4:25 PM EDT
+Last updated: August 13, 2026 at 5:31 PM EDT
 
 Current roles in this view: 34
 
@@ -18,7 +18,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | RTX | Co-Op: Aftermarket Engineer | Lansing, MI | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164>) |
 | TikTok | Research Engineer Intern - Monetization Technology - Business Integrity | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202602270951733>) |
 | Vertiv | Cost Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278896>) |
-| BP | Summer Intern – Reservoir Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | IN, Indianapolis, R184490 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Bridge-Engineering-Intern---Summer-2027_R184490>) |
 | Parsons | Roadway Engineering Intern - Summer 2027 | IN, Indianapolis, R184488 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488>) |
 | RE/SPEC Inc. | Student Engineering Intern - Cavern Geomechanics | Rapid City, South Dakota, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/RESPECInc/744000107082695-student-engineering-intern-cavern-geomechanics>) |
@@ -28,6 +27,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
+| TikTok | LLM Post-training Engineer Intern - Research &amp; Product - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285031018432773>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |
 | HNTB | Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only) | Boston, MA | $26.34 - $39.50/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1>) |

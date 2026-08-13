@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 13, 2026 at 4:25 PM EDT
+Last updated: August 13, 2026 at 5:31 PM EDT
 
-Current roles in this view: 25
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -31,9 +31,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Lockheed Martin | RF Systems Engineer Level 1 - Clearance Required | Hanover, Maryland | $73,400 - $129,260 | Verified early career (BS) | Posted Jun 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/hanover/rf-systems-engineer-level-1-clearance-required/694/92888973888>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
-| 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | SpaceX | New Graduate Engineer, Electrical - Satellites (Starlink) | Redmond, WA | $105,000.00 - $120,000.00 | Explicit new grad role | First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8541336002>) |
-| 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 | Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |

@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-13T20:25:23.000Z",
-  "generated_at": "2026-08-13T20:25:23.000Z",
+  "scan_id": "2026-08-13T21:31:39.429Z",
+  "generated_at": "2026-08-13T21:31:39.429Z",
   "companies": [
     {
       "id": "adobe",
@@ -8029,5 +8029,76 @@
       ]
     }
   ],
-  "roles": []
+  "roles": [
+    {
+      "role_id": "ed8a9824b702eac7b6b13f15",
+      "company_id": "bae-systems",
+      "company": "BAE Systems",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Mechanical Engineering Intern IV, (Summer 2027) Onsite",
+      "location": "San Diego, California, United States",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302709&partnerid=25771&siteid=5403",
+      "source": "https://jobs.baesystems.com/global/en/",
+      "date_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
+      "updated_at": "2026-08-13T21:05:37.374+0000",
+      "source_id": "bae systems|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "1d9fd967746192ac52121809",
+      "company_id": "johns-hopkins-apl",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "title": "Associate Software Engineer",
+      "location": "Laurel, Maryland, United States",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$85,000 Annually",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.jhuapl.edu/jobs/59605",
+      "source": "https://careers.jhuapl.edu/",
+      "date_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
+      "posted_at": "2026-08-13",
+      "expires_at": "2027-08-13",
+      "updated_at": "",
+      "source_id": "johns hopkins applied physics laboratory|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ]
 }

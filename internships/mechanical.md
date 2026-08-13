@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 4:25 PM EDT
+Last updated: August 13, 2026 at 5:31 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Mechanical Engineering Intern IV, (Summer 2027) Onsite | San Diego, California, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302709&partnerid=25771&siteid=5403>) |
 | Draper | Mechanical Engineering &amp; System Packaging Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797>) |
 | Vertiv | Mechanical Engineering Intern (Summer 2027) | United States; Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278503>) |
 | 🔥 Anduril | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5153187007>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months, Full-Time) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time->) |
 | Bosch Group | Chassis Control Intern - Kettering University Co-Op Section A | Plymouth, Michigan, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000127510818-chassis-control-intern-kettering-university-co-op-section-a>) |
 | Bosch Group | Mechanical Design Engineering Intern | Fort Lauderdale, Florida, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000123481879-mechanical-design-engineering-intern>) |
+| BP | Summer Intern – Reservoir Engineer – Houston, TX | United States of America - Texas - Houston | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655>) |
 | JLL | HVAC Technician Intern | Seattle, WA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/HVAC-Technician-Intern_REQ528097>) |
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern | Milpitas, CA | $27.00 - $31.00 per hour | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744>) |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, CA | - | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc>) |
