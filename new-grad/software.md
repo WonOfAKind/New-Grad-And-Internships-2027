@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 5:07 PM EDT
+Last updated: August 14, 2026 at 5:41 PM EDT
 
 Current roles in this view: 290
 
@@ -15,6 +15,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BlueHalo | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 14, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
 | TikTok | Software Engineer Graduate (Ads Infra) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673409179353139461>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Software Engineer | Laurel, Maryland, United States | $85,000 Annually | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59605>) |
+| KBR | Jr Software Developer | Colorado Springs, Colorado | - | Early career | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128352/apply>) |
+| KBR | Jr Software Engineer | Beavercreek, Ohio | - | Early career | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Jr-Software-Engineer_R2126837/apply>) |
 | Northrop Grumman | 2027 Associate Software Engineer/Software Engineer | United States-California-San Diego; United States-California-Palmdale; United States-California-El Segundo; United States-Oklahoma-Oklahoma City; United States-California-Redondo Beach | $62,300.00 - $114,400.00 | 2027 grad eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648>) |
 | TikTok | Software Engineer Graduate (Recommendation Infrastructure) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7673284715407886597>) |
 | 9to9 Software Solutions | Entry level software Developer | Copperhill, Tennessee, United States | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473-entry-level-software-developer>) |
@@ -102,7 +104,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
 | Boeing | Associate Software Systems Engineer | USA - Tinker AFB, OK | $87,550 - $118,450 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | Cox | Entry Level Software Engineer | Atlanta, GA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
@@ -299,7 +300,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Nexxen | Software Engineer 1 - DSP Runtime | New York, NY | $110,000-$140,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32>) |
 | Intel | Thermal Quality and Reliability Engineer | US, Arizona, Phoenix | $120,860.00-170,630.00 USD | Explicit new grad role | Posted Jul 8, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Thermal-Quality-and-Reliability-Engineer_JR0285220>) |
 | Northrop Grumman | 2027 Associate Engineer Product Support / Engineer Product Support | United States-California-Palmdale; United States-California-San Diego; United States-California-El Segundo; United States-California-Redondo Beach | $69,400.00 - $104,000.00 | 2027 grad eligible | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Associate-Engineer-Product-Support---Engineer-Product-Support_R10245812>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | Peraton | Junior Software Test Engineer (Flight Safety Systems) | VA | $86,000 - $138,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-software-test-engineer-flight-safety-systems-fort-belvoir-virginia-167525-jobs--quality-assurance-->) |
 | True Anomaly | Flight Software Engineer 1 | Long Beach, CA; Denver, CO | $75,000 - $125,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007>) |
 

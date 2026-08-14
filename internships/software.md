@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 5:07 PM EDT
+Last updated: August 14, 2026 at 5:41 PM EDT
 
-Current roles in this view: 258
+Current roles in this view: 259
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://joinbytedance.com/search/7668489218234157365>) |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 7, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510>) |
 | KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | $25 per hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380>) |
 | Motorola | Android Platform Software Engineering Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1>) |
@@ -24,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Valeo | Software Engineer Intern | Troy, MI | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575>) |
 | Exa Labs | Software Engineer, Intern | San Francisco, California | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16>) |
 | FLIR Systems | NHRC Software Engineering Internship (Summer 2027) | US - Huntsville, AL | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2>) |
+| InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421-quantitative-researcher-internship-summer-2027>) |
 | InfiniteQuant 🆁 | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594-quantitative-developer-internship-summer-2027>) |
 | Interco | Paid Internship -- Software Development -- React | St. Louis, Missouri, United States | $15 per Hour | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.smartrecruiters.com/Interco/744000143346169-paid-internship-software-development-react->) |
 | Teledyne | NHRC Software Engineering Internship - Summer 2027 | Huntsville, AL | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193>) |
@@ -40,7 +42,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | RTX | Software Engineer Intern | Largo, FL | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1>) |
 | RTX | Software Engineer Intern - Summer 2027 | Marlborough, MA | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158>) |
 | RTX | Software Engineering Intern - Summer 2027 | Cedar Rapids, IA | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875>) |
-| Susquehanna International Group | Quantitative Strategy Developer Internship: Summer 2027 | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://careers.sig.com/jobs/10838>) |
+| Susquehanna International Group | Quantitative Strategy Developer Internship: Summer 2027 | Bala Cynwyd (Philadelphia Area), Pennsylvania, United States | $0 - $0/hr | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://careers.sig.com/jobs/10838>) |
 | TikTok | Backend Software Engineer Intern - Creation Platform - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670289874020993285>) |
 | TikTok | Data Engineer Intern - Monetization Data - 2027 Summer | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
 | TikTok | Data Engineering Project Intern - Ads Targeting - 2027 Start | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
@@ -62,7 +64,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Intern - Global E-commerce-Search - 2027 Fall | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839752644233525>) |
 | Belvedere Trading | Quantitative Trading Intern | Chicago, IL | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab>) |
 | Belvedere Trading | Quantitative Trading Intern - Winter Quarter | Chicago, IL | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0>) |
-| InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421-quantitative-researcher-internship-summer-2027>) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129-quantitative-researcher-internship-summer-2027>) |
 | SIG | Trading System Engineering Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10837>) |
 | The Nuclear Company | Spring 2027 Software Engineering Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008>) |
@@ -222,7 +223,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C. | $10,000/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2>) |
 | 🔥 Palantir | Software Engineer, Internship | Washington, D.C. | $10,500/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0>) |
 | 🔥 Palantir | Software Engineer, Internship - Production Infrastructure | Washington, D.C. | $10,500/month | 2027 internship eligible | First seen Jul 7, 2026 | [Apply](<https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86>) |
-| Susquehanna Investment Group | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | $0 - $0/hr | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
+| Susquehanna Investment Group | Quantitative Strategy Developer Internship: Summer 2027 | Bala Cynwyd (Philadelphia Area), Pennsylvania, United States | $0 - $0/hr | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.sig.com/intern-co-op-technology/jobs/10838>) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL New York, NY | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8044334>) |
 | Tower Research Capital | Quantitative Trader Intern | New York, NY; Chicago, IL | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128>) |
 | VWH Capital Management | Quantitative Researcher Intern | Dallas, Texas, United States | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801-quantitative-researcher-intern>) |
