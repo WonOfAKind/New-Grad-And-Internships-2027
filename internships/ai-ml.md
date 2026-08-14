@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 8:46 PM EDT
+Last updated: August 14, 2026 at 9:42 AM EDT
 
-Current roles in this view: 87
+Current roles in this view: 88
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -20,7 +20,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7671105026009925893>) |
 | ByteDance | Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7672392998231050549>) |
 | TikTok | Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669711968043092229>) |
-| TikTok | Research Engineer Intern - Agentic Systems &amp; AI Infrastructure - Generalized Architecture | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
+| TikTok | Research Engineer Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202602270951733>) |
+| TikTok | Research Engineer Intern, Agentic Systems &amp; AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869>) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
@@ -90,7 +91,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839>) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada; Europe; United States; United Kingdom | - | 2027 internship eligible | Posted May 13, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b>) |
 | Analytical Mechanics Associates 🆁 | Graduate Research Scientist intern | Remote - New Jersey | $27.69-$33.85/hr | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://amainc.wd12.myworkdayjobs.com/AMA_Careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1>) |
-| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | JPMorgan Chase | 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223>) |
 | Trata | Research Scientist Intern ⏳ | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | Two Sigma | AI Research Scientist - Intern [2027 Summer] | New York, NY | $5,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096>) |
