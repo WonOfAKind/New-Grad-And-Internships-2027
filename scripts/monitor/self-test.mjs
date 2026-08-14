@@ -251,8 +251,8 @@ export async function runSelfTests() {
       "Structural Analysis Engineer (Associate, Mid-level, or Senior)",
       "Bachelor's degree in engineering required. 2+ years of experience in structural analysis.",
     ),
-    true,
-    "multi-level aerospace requisition remains eligible when it explicitly offers an associate tier",
+    false,
+    "associate-tier requisition requiring two years of experience is not a bachelor's new-grad role",
   );
   assertEqual(
     isProbablySenior("Structural Analysis Engineer (Associate, Mid-level, or Senior)"),
@@ -283,8 +283,8 @@ export async function runSelfTests() {
       "Software Engineer I",
       "Early career opportunity. Bachelor's degree required. Basic qualifications: 2+ years of professional experience.",
     ),
-    true,
-    "level-one role with at most two years of required experience accepted",
+    false,
+    "level-one role requiring two years of professional experience rejected",
   );
   assertEqual(isRelevant("Campus Recruiter, Machine Learning and Quantitative Research"), false, "technical recruiter role rejected");
   assertEqual(isRelevant("2027 Infrastructure Private Equity Investment Associate"), false, "investment role rejected");
@@ -307,6 +307,19 @@ export async function runSelfTests() {
   assertEqual(categorize("Product Mgmt Intern - Summer 2027"), "Product Management", "abbreviated product management category");
   assertEqual(isRelevant("Technical Product Manager Intern - Summer 2027"), true, "technical product manager title coverage");
   assertEqual(categorizeDisciplines("Avionics Hardware Engineer, New Grad").join(","), "aerospace,hardware-electrical", "multi-discipline avionics classification");
+  assertEqual(
+    categorizeDisciplines("Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career").join(","),
+    "hardware-electrical",
+    "hardware product context does not create AI or software classifications",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career",
+      "Requirements: Hold a Bachelor's in Electrical Engineering or equivalent. Have 2-4 years of experience.",
+    ),
+    false,
+    "two-to-four-year experience range is not bachelor new-grad eligible",
+  );
   assertEqual(categorizeDisciplines("Manufacturing Engineer, New Grad").join(","), "manufacturing-industrial", "manufacturing has its own discipline");
   assertEqual(
     categorizeDisciplines("Structures Design Engineer, Entry Level", "", { companyDisciplines: ["aerospace", "mechanical"] }).join(","),

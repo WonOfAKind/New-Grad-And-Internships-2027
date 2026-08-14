@@ -4,7 +4,7 @@
 
 Last updated: August 14, 2026 at 5:41 PM EDT
 
-Current roles in this view: 288
+Current roles in this view: 287
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 14, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | TikTok | Software Engineer Graduate (Ads Infra) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673409179353139461>) |
 | Boeing | Embedded Software Engineer - Entry-Level | USA - Hazelwood, MO; USA - Berkeley, MO | $78,200 - $105,800 | Early career | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Software Engineer | Laurel, Maryland, United States | $85,000 Annually | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59605>) |

@@ -27,7 +27,7 @@ Companies in registry: 450
 
 Companies successfully scanned: 209
 
-Current roles: 1024
+Current roles: 1023
 
 Fresh roles this scan: 5
 
@@ -39,7 +39,7 @@ Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 509 roles
+- [New Grad Roles](NEW_GRAD.md): 508 roles
 - [Internship Roles](INTERNSHIPS.md): 515 roles
 
 ## Data Files

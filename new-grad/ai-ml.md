@@ -4,7 +4,7 @@
 
 Last updated: August 14, 2026 at 5:41 PM EDT
 
-Current roles in this view: 64
+Current roles in this view: 63
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 14, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | ByteDance | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7667726338627356933>) |
 | Capgemini | Junior AI Data Scientist/Engineer | Atlanta, GA, GA, US | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-AI-Data-ScientistEngineer-GA-30301/1418864933>) |
 | Cortica | Junior AI Data Engineer | San Diego, CA | $80,000 - $90,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://job-boards.greenhouse.io/allcareers/jobs/8692383002>) |

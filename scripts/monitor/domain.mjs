@@ -325,7 +325,10 @@ export function hasIneligibleBachelorNewGradRequirements(text = "") {
   if (!requirements) return false;
 
   const requiredYears = requiredExperienceYears(requirements);
-  if (requiredYears.some((years) => years >= 3)) return true;
+  // A bachelor's new-grad role may allow zero or one year of experience, but
+  // a required minimum of two years (including "2-4" and "2+") is no longer
+  // accessible to a typical graduating senior.
+  if (requiredYears.some((years) => years >= 2)) return true;
 
   const preferencePattern = new RegExp(
     `(?:${graduateDegreeToken})[^.;]{0,100}\\b(?:preferred|desired|a\\s+plus|advantage|not\\s+required)\\b|\\b(?:preferred|desired|preference|a\\s+plus)\\b[^.;]{0,100}(?:${graduateDegreeToken})`,
@@ -409,9 +412,7 @@ export function hasVerifiedEntryLevelEvidence(title, text = "") {
   if (!titleIsExplicitlyJunior && !earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
   if (!/\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(text)) return false;
   const requiredText = normalize(text).split(/\bpreferred\s+qualifications?\b/i)[0];
-  const requiredYears = [...requiredText.matchAll(/\b(\d{1,2})(?:\s*\+|\s+or\s+more)?\s+years?\s+(?:of\s+)?(?:[a-z][a-z/-]*\s+){0,8}experience\b/gi)]
-    .map((match) => Number(match[1]));
-  return !requiredYears.some((years) => years >= 3);
+  return !requiredExperienceYears(requiredText).some((years) => years >= 2);
 }
 
 export function isEligibleRole(title, text = "") {
@@ -467,6 +468,14 @@ export function categorizeDisciplines(title, text = "", { companyDisciplines = [
   add("hardware-electrical", /hardware|electrical|electronics|firmware|embedded|\b(?:fpga|asic|dsp|rf)\b|radio[-\s]?frequency|signal\s+processing|silicon|semiconductor|photonics?|optical|optoelectronic|power\s+systems?|circuit|\bPCB\b|avionics|computer\s+engineering/i);
   add("manufacturing-industrial", /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|quality\s+engineer|supplier\s+quality|sustaining\s+engineer|facilities\s+engineer|operations\s+engineer|automation\s+engineer|controls\s+engineer|tooling\s+engineer|\bweld(?:ing)?\b|metallurg(?:y|ical)|engineering[^\n]{0,100}materials|materials?\s+(?:and|&)\s+process|\bNPI\b|continuous\s+improvement/i);
   add("software", /software|developer|\bSWE\b|backend|frontend|full[-\s]?stack|network|devops|infrastructure|platform|reliability|\bSRE\b|security|cyber|quant|trad(?:er|ing)|data\s+engineer|forward\s+deployed|cloud\s+engineer|database\s+engineer/i);
+  const explicitHardwareTitle = /\b(?:hardware|electrical|electronics|circuit|silicon|semiconductor|photonics?|optical|optoelectronic|power\s+systems?|computer\s+engineering)\b|\b(?:fpga|asic|dsp|rf)\b|radio[-\s]?frequency/i.test(title);
+  const explicitSoftwareTitle = /\b(?:software|firmware|developer|backend|frontend|full[-\s]?stack|devops|cloud\s+engineer|data\s+engineer|machine\s+learning\s+engineer)\b/i.test(title);
+  if (explicitHardwareTitle && !explicitSoftwareTitle) {
+    for (const slug of ["software", "ai-ml"]) {
+      const index = matches.indexOf(slug);
+      if (index >= 0) matches.splice(index, 1);
+    }
+  }
   const explicitManufacturingTitle = /manufactur|industrial\s+engineer|production\s+engineer|process\s+(?:development\s+)?engineer|supplier\s+quality|tooling\s+engineer|\bweld(?:ing)?\b|metallurg|materials?\s+(?:and|&)\s+process|\bNPI\b/i.test(title);
   if (digitalTitle && !explicitManufacturingTitle && matches.includes("manufacturing-industrial")) {
     matches.splice(matches.indexOf("manufacturing-industrial"), 1);
