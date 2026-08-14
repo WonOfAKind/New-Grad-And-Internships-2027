@@ -4,7 +4,7 @@
 
 Last updated: August 14, 2026 at 5:41 PM EDT
 
-Current roles in this view: 26
+Current roles in this view: 25
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -37,5 +37,4 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845>) |
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844>) |
 | Integra FEC | (FALL) Data Analyst Intern | Austin, Texas | - | 2027 internship eligible | Posted Apr 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/integra/jobs/5134522008>) |
-| Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 

@@ -612,6 +612,47 @@ export async function runSelfTests() {
     true,
     "newest posting sorts first",
   );
+  const crossListedNewer = {
+    company: "Newer Cross-Listed",
+    title: "Hardware and Software Engineer",
+    location: "TX",
+    role_type: "New Grad",
+    discipline: "Hardware & Electrical Engineering",
+    disciplines: ["hardware-electrical", "software"],
+    posted_at: "2026-07-13",
+    date_seen: "2026-07-13",
+    url: "https://example.com/jobs/cross-listed-newer",
+  };
+  const primarySoftwareOlder = {
+    company: "Older Primary Software",
+    title: "Software Engineer",
+    location: "TX",
+    role_type: "New Grad",
+    discipline: "Software Engineering",
+    disciplines: ["software"],
+    posted_at: "2026-07-12",
+    date_seen: "2026-07-12",
+    url: "https://example.com/jobs/primary-software-older",
+  };
+  const crossDisciplineBoard = renderDisciplinePage(
+    [primarySoftwareOlder, crossListedNewer],
+    { scanned_at: "2026-07-13T12:00:00Z" },
+    "New Grad",
+    { slug: "software", name: "Software Engineering" },
+  );
+  assertEqual(
+    crossDisciplineBoard.indexOf(crossListedNewer.company) < crossDisciplineBoard.indexOf(primarySoftwareOlder.company),
+    true,
+    "category page sorts by freshness before a role's primary discipline",
+  );
+  assertEqual(
+    compareRoles(
+      { role_type: "New Grad", discipline: "Software Engineering", company: "Old Discovery", title: "Engineer", location: "TX", posted_at: "", date_seen: "2026-07-13", updated_at: "Posted 30+ Days Ago" },
+      { role_type: "New Grad", discipline: "Software Engineering", company: "Fresh Posting", title: "Engineer", location: "TX", posted_at: "2026-07-12", date_seen: "2026-07-12" },
+    ) > 0,
+    true,
+    "old relative posting age does not sort as a newly discovered role",
+  );
   assertEqual(renderRoleDates({ posted_at: "2026-07-01", date_seen: "2026-07-05" }), "Posted Jul 1, 2026<br>First seen Jul 5, 2026", "posted and first-seen labels");
   assertTruthy(titlesLikelySame("Software Engineer, New Grad", "New Grad Software Engineer - Example Careers"), "job-title token matching");
   assertEqual(

@@ -219,15 +219,31 @@ export function compareRoles(a, b) {
   const disciplineOrder = Object.fromEntries(boardDisciplines.map((discipline, index) => [discipline.name, index]));
   return (typeOrder[a.role_type] ?? 9) - (typeOrder[b.role_type] ?? 9)
     || (disciplineOrder[a.discipline] ?? 9) - (disciplineOrder[b.discipline] ?? 9)
-    || roleFreshnessTime(b) - roleFreshnessTime(a)
-    || a.company.localeCompare(b.company)
-    || a.title.localeCompare(b.title)
-    || a.location.localeCompare(b.location);
+    || compareRoleFreshness(a, b);
 }
 
 export function roleFreshnessTime(role) {
-  const parsed = Date.parse(role.posted_at || role.date_seen || "");
-  return Number.isNaN(parsed) ? 0 : parsed;
+  const postedAt = Date.parse(role.posted_at || "");
+  if (!Number.isNaN(postedAt)) return postedAt;
+
+  const firstSeen = Date.parse(role.date_seen || "");
+  if (Number.isNaN(firstSeen)) return 0;
+
+  // Workday collapses older dates to "Posted 30+ Days Ago". Treat that as an
+  // age bound instead of pretending the role was posted when we discovered it.
+  const relativeAge = /^\s*posted\s+(\d+)\s*(\+)?\s+days?\s+ago\s*$/i.exec(normalize(role.updated_at));
+  if (relativeAge) return firstSeen - Number(relativeAge[1]) * 24 * 60 * 60 * 1000;
+  return firstSeen;
+}
+
+export function compareRoleFreshness(a, b) {
+  const aHasOfficialDate = Number.isNaN(Date.parse(a.posted_at || "")) ? 0 : 1;
+  const bHasOfficialDate = Number.isNaN(Date.parse(b.posted_at || "")) ? 0 : 1;
+  return roleFreshnessTime(b) - roleFreshnessTime(a)
+    || bHasOfficialDate - aHasOfficialDate
+    || a.company.localeCompare(b.company)
+    || a.title.localeCompare(b.title)
+    || a.location.localeCompare(b.location);
 }
 
 export function csvEscape(value) {
@@ -264,7 +280,10 @@ export function renderTable(roles, disciplineSlug = "") {
     "| Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |",
     "|---|---|---|---|---|---|---|",
   ];
-  for (const role of [...roles].sort(compareRoles)) {
+  // A category page already contains one role type and one selected discipline.
+  // Sorting with the global comparator here incorrectly grouped cross-listed
+  // roles by their primary discipline before considering their posting date.
+  for (const role of [...roles].sort(compareRoleFreshness)) {
     const isFeaturedHere = Array.isArray(role.featured_disciplines)
       && role.featured_disciplines.includes(disciplineSlug);
     const company = `${isFeaturedHere ? "🔥 " : ""}${role.company}`;
