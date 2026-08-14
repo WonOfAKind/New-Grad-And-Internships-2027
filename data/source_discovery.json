@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-14T16:34:09.511Z",
+  "updated_at": "2026-08-14T17:40:15.865Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-14T15:33:01.530Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T17:40:15.865Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -819,10 +820,10 @@
         "limit": 20,
         "verified_open_jobs": 402
       },
-      "last_scan_at": "2026-08-14T16:34:09.511Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-14T15:33:01.530Z"
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T17:40:15.865Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -5003,9 +5004,9 @@
         "limit": 20,
         "verified_open_jobs": 417
       },
-      "last_scan_at": "2026-08-14T00:46:20.715Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "parker hannifin": {
@@ -5037,9 +5038,9 @@
         "limit": 20,
         "verified_open_jobs": 1108
       },
-      "last_scan_at": "2026-08-13T23:27:18.420Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T23:27:18.420Z"
     },
     "trane technologies": {
@@ -5119,9 +5120,9 @@
         "limit": 20,
         "verified_open_jobs": 1025
       },
-      "last_scan_at": "2026-08-13T23:27:18.420Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T23:27:18.420Z"
     },
     "johnson & johnson": {
@@ -5153,9 +5154,9 @@
         "limit": 20,
         "verified_open_jobs": 1146
       },
-      "last_scan_at": "2026-08-14T16:34:09.511Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T16:34:09.511Z"
     },
     "abbott": {

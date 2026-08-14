@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 12:34 PM EDT
+Last updated: August 14, 2026 at 1:40 PM EDT
 
-Current roles in this view: 85
+Current roles in this view: 87
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -47,7 +47,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Intern - TikTok-Data-Search-Recommendation-Global E-Commerce - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668383643375257909>) |
 | TikTok | Machine Learning Engineer Intern - TikTok-Data-Search-Search Quality - Summer 2027 | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7665475460339665157>) |
 | TikTok | Machine Learning Eningeer Intern - Brand Ads - 2027 Summer | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668654528822954245>) |
-| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern - Data-Arch-TikTok Live - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876223732762933>) |
+| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876223732762933>) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668802157205965109>) |
 | ByteDance | Applied Machine Learning Production Engineer Intern | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7670009669494704437>) |
 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668464504736876853>) |
@@ -87,6 +87,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837>) |
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839>) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada; Europe; United States; United Kingdom | - | 2027 internship eligible | Posted May 13, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b>) |
+| JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
 | Analytical Mechanics Associates 🆁 | Graduate Research Scientist intern | Remote - New Jersey | $27.69-$33.85/hr | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://amainc.wd12.myworkdayjobs.com/AMA_Careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1>) |
 | TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | JPMorgan Chase | 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 5, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775223>) |
@@ -96,5 +97,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |
 | TikTok | AI Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667578131150506293>) |
 | Micron | Intern - DRAM Design Engineer | Boise, ID, US | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.micron.com/careers/job/43721384-intern-dram-design-engineer-boise-idaho-united-states-of-america>) |
+| Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 

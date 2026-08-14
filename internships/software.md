@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 12:34 PM EDT
+Last updated: August 14, 2026 at 1:40 PM EDT
 
-Current roles in this view: 254
+Current roles in this view: 253
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -39,7 +39,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Backend Software Engineer Intern - Creation Platform - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670289874020993285>) |
 | TikTok | Data Engineer Intern - Monetization Data - 2027 Summer | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
 | TikTok | Data Engineering Project Intern - Ads Targeting - 2027 Start | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
-| TikTok | Frontend Engineer Intern - Ads Interface - 2027 Summer | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
+| TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670738362521520437>) |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670700387322300677>) |
 | TikTok | Software Engineer Intern - Foundation Platform - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670281449668905269>) |
@@ -155,7 +155,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Copart | Software Engineering Intern | Dallas, TX | - | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 3, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965>) |
 | Optiver | Institutional Trader Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002>) |
 | Persona AI | Teleoperation Software Engineering Internship | Houston, TX | - | 2027 internship eligible | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c>) |
-| Valkyrie Trading | Junior Software Engineer Intern | Chicago, IL | - | Internship | Posted Jul 30, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c>) |
 | Quadrillion Labs | Software Engineering Intern | Remote (US) | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05>) |
 | Texas Instruments | Network Engineer - Encore Program Internship | Dallas, TX, United States | - | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016832>) |
 | Virtu Financial | 2027 Internship - Frontend Engineer (UI) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 29, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8657500002>) |
@@ -199,7 +198,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Two Sigma | Quantitative Researcher - Intern [2027 Summer] | New York, NY | $4,900/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Aug 3, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945>) |
 | Virtu Financial | 2027 Internship - Quantitative Researcher (Undergrad) | New York | $5,000 - $5,800/week | 2027 internship eligible | Posted Jul 14, 2026<br>First seen Jul 9, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8142539002>) |
 | Hudson River Trading | Algorithm Development (Quant Research) Internship – Summer 2027 | New York, NY | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027>) |
-| Hudson River Trading | Software Engineering Internship (C++ or Python) | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
+| Hudson River Trading | Software Engineering Internship (C++ or Python) – Summer 2027 | New York, NY; Chicago, IL; Austin, TX | - | 2027 internship eligible | Posted Jul 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027>) |
 | Point72 | Quantitative Researcher Intern | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
 | Manhattan Associates | A.I. Developer Co-Op (Boston, MA) | US - Home Office | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://manh.wd5.myworkdayjobs.com/Campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931>) |
@@ -238,7 +237,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Software Engineer Intern (AI Infra Compute) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://joinbytedance.com/search/7667378931599214853>) |
 | ByteDance | AI Network Automation Engineer Intern, Global Physical Network Infra | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7670690923748870405>) |
 | ByteDance | Software Engineer Intern, AI Platform | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://joinbytedance.com/search/7668212952030841093>) |
-| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern - Data-Arch-TikTok Live - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876223732762933>) |
+| TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876223732762933>) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668802157205965109>) |
 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668464504736876853>) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
