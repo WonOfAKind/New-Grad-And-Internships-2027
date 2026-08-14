@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 7:01 PM EDT
+Last updated: August 14, 2026 at 7:38 PM EDT
 
-Current roles in this view: 64
+Current roles in this view: 65
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -75,5 +75,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Information Systems Security Engineer Level 1 – AI/ML Project TS/SCI w Poly | MD | $135,000 - $216,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security-->) |
 | Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 14, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
 | Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA, US | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 8, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 

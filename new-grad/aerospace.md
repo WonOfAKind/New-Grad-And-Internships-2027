@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 7:01 PM EDT
+Last updated: August 14, 2026 at 7:38 PM EDT
 
-Current roles in this view: 40
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -30,6 +30,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 31, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59497>) |
+| Maxar | Associate Systems Engineer - Mission Architecture and Systems Engineering | Westminster, CO | $86,000.00 - $115,000.00 | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 14, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Associate-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24316>) |
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | Huntsville, Alabama, US | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/structural-engineer-for-liquid-propulsion-systems-early-career-es2-huntsville-alabama-united-states-fbebac79-5ace-400b-bb9b-7d0c96e35709>) |
@@ -43,6 +44,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, CA | $100,000.00 - $115,000.00 | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8517361002>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8497447002>) |
+| BlueHalo | Industrial Engineer I, Continuous Improvement | Simi Valley, CA | $62,741 - $95,680 | Verified early career (BS) | First seen Aug 14, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Industrial-Engineer-I--Continuous-Improvement_6620>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Course Development) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Digital-Engineering-Course-Development-_R2125981/apply>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Methodology) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Methodology-_R2125985-1/apply>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Process Support) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Process-Support-_R2125986/apply>) |
