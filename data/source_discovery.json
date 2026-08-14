@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-14T17:40:15.865Z",
+  "updated_at": "2026-08-14T18:34:54.949Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-14T17:40:15.865Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T17:40:15.865Z"
     },
     "netflix": {
@@ -820,9 +820,9 @@
         "limit": 20,
         "verified_open_jobs": 402
       },
-      "last_scan_at": "2026-08-14T17:40:15.865Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T17:40:15.865Z"
     },
     "palo alto networks": {
@@ -2504,9 +2504,9 @@
         "limit": 20,
         "verified_open_jobs": 111
       },
-      "last_scan_at": "2026-08-14T16:34:09.511Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T16:34:09.511Z"
     },
     "qualtrics": {
@@ -3360,9 +3360,9 @@
         "limit": 20,
         "verified_open_jobs": 66
       },
-      "last_scan_at": "2026-08-14T15:33:01.530Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T15:33:01.530Z"
     },
     "recursion": {
@@ -3860,9 +3860,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-14T16:34:09.511Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-14T16:34:09.511Z"
     },
     "l3harris": {
@@ -4083,9 +4083,9 @@
         "limit": 20,
         "verified_open_jobs": 169
       },
-      "last_scan_at": "2026-08-14T15:33:01.530Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T15:33:01.530Z"
     },
     "oscar health": {
@@ -4986,7 +4986,7 @@
     },
     "rockwell automation": {
       "company": "Rockwell Automation",
-      "checked_at": "2026-08-13T20:20:12.099Z",
+      "checked_at": "2026-08-14T18:29:58.574Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5002,12 +5002,12 @@
         "site": "External_Rockwell_Automation",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 417
+        "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-14T17:40:15.865Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-14T00:46:20.715Z"
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T18:34:54.949Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5020,7 +5020,7 @@
     },
     "carrier": {
       "company": "Carrier",
-      "checked_at": "2026-08-13T20:20:12.099Z",
+      "checked_at": "2026-08-14T18:29:58.574Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5036,12 +5036,12 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1108
+        "verified_open_jobs": 1081
       },
-      "last_scan_at": "2026-08-14T17:40:15.865Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-13T23:27:18.420Z"
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T18:34:54.949Z"
     },
     "trane technologies": {
       "company": "Trane Technologies",
@@ -5102,7 +5102,7 @@
     },
     "kla": {
       "company": "KLA",
-      "checked_at": "2026-08-13T17:37:30.252Z",
+      "checked_at": "2026-08-14T18:29:58.574Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5118,12 +5118,11 @@
         "site": "Search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1025
+        "verified_open_jobs": 1014
       },
-      "last_scan_at": "2026-08-14T17:40:15.865Z",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-13T23:27:18.420Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5352,9 +5351,9 @@
         "limit": 20,
         "verified_open_jobs": 357
       },
-      "last_scan_at": "2026-08-14T16:34:09.511Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T18:34:54.949Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T16:34:09.511Z"
     },
     "draper": {
