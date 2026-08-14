@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 5:41 PM EDT
+Last updated: August 14, 2026 at 6:01 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 37
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
+| Amentum | Junior Engineering Technician | Dahlgren, Virginia, US | - | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-engineering-technician-dahlgren-virginia-united-states-91325338-74a0-4172-a2f2-8c6dd95fd6e5>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 14, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
