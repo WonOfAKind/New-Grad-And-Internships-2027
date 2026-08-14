@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-13T23:27:18.420Z",
+  "updated_at": "2026-08-14T00:46:20.715Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-13T20:25:23.000Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -1922,10 +1923,10 @@
         "limit": 20,
         "verified_open_jobs": 1014
       },
-      "last_scan_at": "2026-08-13T22:27:11.718Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-13T19:46:09.684Z"
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2310,10 +2311,10 @@
         "limit": 20,
         "verified_open_jobs": 344
       },
-      "last_scan_at": "2026-08-13T22:27:11.718Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-13T21:31:39.429Z"
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "cisco": {
       "company": "Cisco",
@@ -2503,9 +2504,10 @@
         "limit": 20,
         "verified_open_jobs": 115
       },
-      "last_scan_at": "2026-08-13T21:31:39.429Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -4484,9 +4486,9 @@
         "limit": 20,
         "verified_open_jobs": 754
       },
-      "last_scan_at": "2026-08-12T13:47:15.136Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-12T13:47:15.136Z"
     },
     "verizon": {
@@ -4518,9 +4520,9 @@
         "limit": 20,
         "verified_open_jobs": 778
       },
-      "last_scan_at": "2026-08-13T22:27:11.718Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "honeywell": {
@@ -5002,10 +5004,10 @@
         "limit": 20,
         "verified_open_jobs": 417
       },
-      "last_scan_at": "2026-08-13T23:27:18.420Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-13T20:25:23.000Z"
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-14T00:46:20.715Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5152,9 +5154,9 @@
         "limit": 20,
         "verified_open_jobs": 1158
       },
-      "last_scan_at": "2026-08-13T23:27:18.420Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T23:27:18.420Z"
     },
     "abbott": {
@@ -5350,9 +5352,9 @@
         "limit": 20,
         "verified_open_jobs": 355
       },
-      "last_scan_at": "2026-08-13T23:27:18.420Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T23:27:18.420Z"
     },
     "draper": {
@@ -5544,9 +5546,9 @@
         "limit": 20,
         "verified_open_jobs": 241
       },
-      "last_scan_at": "2026-08-13T22:27:11.718Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "michelin": {
@@ -5639,9 +5641,9 @@
         "limit": 20,
         "verified_open_jobs": 291
       },
-      "last_scan_at": "2026-08-13T22:27:11.718Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-14T00:46:20.715Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-13T22:27:11.718Z"
     },
     "chevron": {

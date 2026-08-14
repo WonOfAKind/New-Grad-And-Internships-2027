@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 13, 2026 at 7:27 PM EDT
+Last updated: August 13, 2026 at 8:46 PM EDT
 
-Current roles in this view: 15
+Current roles in this view: 16
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 13, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
+| 🔥 RTX | Co-Op: Aftermarket Engineer | US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1 | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164>) |
 | 🔥 MIT Lincoln Laboratory | Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105 (Lexington, MA, US) | Lexington, MA, US | $25.00/hour | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Airborne-Radar-Systems-and-Techniques-Intern-%28Summer-2027%29-Group-105-MA-02420/1410581200>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 | Varda Space | Avionics Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) |
