@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 10:40 AM EDT
+Last updated: August 14, 2026 at 11:33 AM EDT
 
-Current roles in this view: 34
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -17,6 +17,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Caterpillar | 2027 Engineering Corporate Internship Program Materials | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501>) |
 | 🔥 Caterpillar | 2027 Engineering Corporate Internship Program Welding | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506>) |
 | 🔥 Medtronic | Engineering Intern – Summer 2027 | Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) |
+| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Amazon | Automation Engineer Intern, (Nationwide) - Summer 2027 | US, TN, Mt. Juliet | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027>) |
 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060>) |
 | Jabil | Manufacturing Engineer - Intern | West Chester, PA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898>) |

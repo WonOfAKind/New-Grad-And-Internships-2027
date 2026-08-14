@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 10:40 AM EDT
+Last updated: August 14, 2026 at 11:33 AM EDT
 
 Current roles in this view: 25
 
@@ -14,7 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | TikTok | Product Manager Intern (Content and Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673337777708550405>) |
 | TikTok | Product Manager Intern (Scaled Growth) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673559305519794437>) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - Phoenix, AZ | Phoenix, AZ, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
+| American Express | Product Management Intern - Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672562486917286149>) |
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | Seattle, Washington, United States of America | $33.25- $52.25/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672569081632229685>) |
 | TikTok | Product Manager Intern (Commerce Ads) - 2027 Summer | San Jose, California, United States of America | $35- $55/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672557943224961333>) |

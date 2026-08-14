@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 10:40 AM EDT
+Last updated: August 14, 2026 at 11:33 AM EDT
 
-Current roles in this view: 50
+Current roles in this view: 51
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -50,6 +50,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Spirit AeroSystems | Structural Analysis Engineer (Associate, Mid-level, or Senior) | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16677>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
 | 🔥 Boeing | Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems | USA - El Segundo, CA | $63,000 - $113,000 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1>) |
+| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Aviation Federal Roanoke | Roanoke, VA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/roanoke-va/assistant-structural-engineer-aviation-federal-roanoke/52C8BBA22A5546819DCE9E48D8662146/job>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
