@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 4:47 PM EDT
+Last updated: August 14, 2026 at 5:07 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 54
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Development Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | First seen Aug 14, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Development Program Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | First seen Aug 14, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program | Mossville, Illinois; Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Fort Worth, Texas; Lafayette, Indiana; Pontiac, Illinois; Sanford, North Carolina; Houston, Texas; Griffin, Georgia; Rapid City, South Dakota; East Peoria, Illinois; Clayton, North Carolina; West Fargo, North Dakota; Peoria, Illinois | $81,370.00 - $146,290.00 | Early career | First seen Aug 14, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program_R0000380484>) |
+| Leidos | Junior Mechanical Engineer - TS/SCI Polygraph Required | Reston, VA | $69,550.00 - $125,725.00 | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Mechanical-Engineer---TS-SCI-Polygraph-Required_R-00189651>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26073>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | KBR | Junior Mechanical Engineer | Huntsville, Alabama | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2128289/apply>) |
@@ -28,6 +32,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Hyundai | Thermal Systems Engineer I | California City, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/California-City-Thermal-Systems-Engineer-I-CA-93505/1417921400>) |
 | 🔥 Sandia National Laboratories | Cleared Early Career Rd Mechanical Engineer Applied Technologies Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer-applied-technologies-onsite/30EB9FE074C34C5B91D385CC16AAAA7B/job>) |
 | 🔥 Sandia National Laboratories | Early Career Membersenior Product Design Engineer Design Engineering On Site | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-membersenior-product-design-engineer-design-engineering-on-site/96A50C3DDE5E4289A6111B182340E6C2/job>) |
+| 🔥 General Motors | Early Career Virtual/Computer Aided Engineer | Warren, Michigan, United States of America | - | Early career | Posted Aug 7, 2026<br>First seen Aug 14, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312>) |
 | Black &amp; Veatch | Associate Buildings Mechanical Engineer - Federal | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Buildings-Mechanical-Engineer-Federal-KS-66062/1383242433>) |
 | Trane Technologies | Application Engineer I | Fort Smith, Arkansas, États-Unis d'Amérique | $67,133.33 - $93,485.00 | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.tranetechnologies.com/global/fr/job/JR-11722/Application-Engineer-I>) |
 | 🔥 Boeing | Entry-Level Product Review Engineer (Liaison Engineer) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineer-_JR2026518890-1>) |
@@ -59,7 +64,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Spirit AeroSystems | Spirit Defense - Material Review Engineer (Associate, Mid-Level , or Senior) | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16763>) |
 | Amentum | Structural Engineer for Liquid Propulsion Systems, Early Career (ES2) | Huntsville, Alabama, US | - | Early career | Posted Jul 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/structural-engineer-for-liquid-propulsion-systems-early-career-es2-huntsville-alabama-united-states-fbebac79-5ace-400b-bb9b-7d0c96e35709>) |
 | Spirit AeroSystems | Associate Material Review Engineer | Wichita, Kansas, United States | $76,250 - $116,900 | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17180>) |
-| 🔥 Lockheed Martin | Associate Engineer | Uniondale, New York | $95,817.77 - $152,867.35 | Verified early career (BS) | Posted Jul 12, 2026<br>First seen Aug 14, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/uniondale/associate-engineer/694/97758100416>) |
 | Amentum | Early Career Structural Engineer | Oak Ridge, Tennessee, US | $61,000 - $86,000 | Early career | Posted Jul 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-engineer-oak-ridge-tennessee-united-states-818050e2-ba28-41fa-80a4-18c41d1721de>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
 
