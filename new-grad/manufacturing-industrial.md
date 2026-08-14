@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 6:42 PM EDT
+Last updated: August 14, 2026 at 7:01 PM EDT
 
 Current roles in this view: 30
 
@@ -30,12 +30,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Associate Manufacturing Engineer | Salt Lake City, UT | $70,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Associate-Manufacturing-Engineer_R-26-18241>) |
 | 🔥 Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, &amp; Adhesives (Early Career) | Space Coast, FL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |
+| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
 | Spirit AeroSystems | Spirit Defense - Associate Quality Engineer | Wichita, Kansas, United States | $71,100- $109,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16979>) |
 | 🔥 Lockheed Martin | Associate Quality Engineer - Chelmsford, MA | Chelmsford, Massachusetts | $54,900 - $96,830 | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/chelmsford/associate-quality-engineer-chelmsford-ma/694/95644273456>) |
 | Spirit AeroSystems | Quality Engineer (Associate, Mid-Level, or Senior) | Wichita, Kansas, United States | $71,100- $109,000 | Verified early career (BS) | Posted Jul 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17105>) |
-| BlueHalo | Industrial Engineer I, Continuous Improvement | Simi Valley, CA | $62,741 - $95,680 | Verified early career (BS) | First seen Aug 14, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Industrial-Engineer-I--Continuous-Improvement_6620>) |
 | Micron | New College Grad - Photolithography Process Engineer | Boise, ID, US | - | Early career | Posted Jul 13, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/41923169-new-college-grad-photolithography-process-engineer-boise-idaho-united-states-of-america>) |
 | Abbott | Quality Engineer I | United States - Minnesota - St. Paul | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Quality-Engineer-I_31154797-1>) |
 | Spirit AeroSystems | Manufacturing Engineer (Associate, Mid-Level, or Senior) | Wichita, Kansas, United States | $71,650 - $109,800 | Verified early career (BS) | Posted Jul 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16611>) |
