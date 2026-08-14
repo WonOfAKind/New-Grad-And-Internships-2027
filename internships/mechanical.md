@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 2:34 PM EDT
+Last updated: August 14, 2026 at 3:39 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Formlabs | Mechanical Engineering Intern (Winter/Spring 2027) | Somerville, MA, United States | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://careers.formlabs.com/job/8130829/apply>) |
 | 🔥 BAE Systems | Mechanical Engineering Intern IV, (Summer 2027) Onsite | San Diego, California, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302709&partnerid=25771&siteid=5403>) |
 | Bosch Group | Mechanical Engineering Intern | Fort Lauderdale, Florida, United States | - | 2027 internship eligible | First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000126065755-mechanical-engineering-intern>) |
 | Vertiv | Mechanical Engineering Intern - Liquid Cooling Summer 2027 | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279267>) |

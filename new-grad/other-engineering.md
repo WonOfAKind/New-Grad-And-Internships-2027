@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 2:34 PM EDT
+Last updated: August 14, 2026 at 3:39 PM EDT
 
-Current roles in this view: 36
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Junior Engineering Technician | Dahlgren, Virginia, US | - | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-engineering-technician-dahlgren-virginia-united-states-91325338-74a0-4172-a2f2-8c6dd95fd6e5>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 14, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
@@ -44,8 +45,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Dallas, TX, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |
-| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
-| Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Spirit AeroSystems | Spirit Defense - Advanced Product Development &amp; Research Engineering Technical Analyst (Associate or Mid-level) | Wichita, Kansas, United States | $67,150 - $103,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16923>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
 
