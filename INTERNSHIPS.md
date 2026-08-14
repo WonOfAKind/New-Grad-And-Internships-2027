@@ -2,9 +2,9 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 5:41 PM EDT
+Last updated: August 14, 2026 at 6:01 PM EDT
 
-Current roles: 515
+Current roles: 513
 
 Choose a category below. Cross-disciplinary roles can appear in more than one category, while the total above counts each role once.
 
@@ -19,6 +19,6 @@ Choose a category below. Cross-disciplinary roles can appear in more than one ca
 | [Aerospace Engineering](internships/aerospace.md) | 13 |
 | [Manufacturing & Industrial Engineering](internships/manufacturing-industrial.md) | 32 |
 | [Technical Writing](internships/technical-writing.md) | 0 |
-| [Other Engineering](internships/other-engineering.md) | 45 |
+| [Other Engineering](internships/other-engineering.md) | 43 |
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.

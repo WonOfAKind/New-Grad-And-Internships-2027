@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 14, 2026 at 5:41 PM EDT
+Last updated: August 14, 2026 at 6:01 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000253-1>) |
+| Amentum | Junior Engineering Technician | Dahlgren, Virginia, US | - | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-engineering-technician-dahlgren-virginia-united-states-91325338-74a0-4172-a2f2-8c6dd95fd6e5>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 14, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000243-1>) |
 | Abbott | Instrumentation/Automation Service Engineer I | United States - Wisconsin - Madison | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000238-1>) |
@@ -51,6 +52,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Spirit AeroSystems | Spirit Defense - Advanced Product Development &amp; Research Engineering Technical Analyst (Associate or Mid-level) | Wichita, Kansas, United States | $67,150 - $103,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16923>) |
 | Johns Hopkins Applied Physics Laboratory | Associate Systems/Test and Evaluation Engineer | Laurel, Maryland, United States | $100,000 Annually | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59352>) |
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 14, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
 | Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |
 | Leidos | Junior Manual Test Engineer | Annapolis Junction, MD | $69,550.00 - $125,725.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Junior-Manual-Test-Engineer_R-00180257>) |
 
