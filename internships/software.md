@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 7:38 PM EDT
+Last updated: August 14, 2026 at 8:01 PM EDT
 
 Current roles in this view: 260
 
@@ -20,6 +20,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Notion | Software Engineer Intern (Summer 2027) | San Francisco, California; New York, New York | $57/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c>) |
 | Notion | Software Engineer Intern (Winter 2027) | San Francisco, California; New York, New York | $57/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8>) |
 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-131 5450 C Ave NE… | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136>) |
+| Teledyne | NHRC Software Engineering Internship | Huntsville, AL | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2>) |
 | Valeo | Software Engineer Intern | Troy, MI | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575>) |
 | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://joinbytedance.com/search/7668489218234157365>) |
 | TikTok | Mobile Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673663349758675205>) |
@@ -29,7 +30,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | InfiniteQuant 🆁 | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594-quantitative-developer-internship-summer-2027>) |
 | Interco | Paid Internship -- Software Development -- React | St. Louis, Missouri, United States | $15 per Hour | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.smartrecruiters.com/Interco/744000143346169-paid-internship-software-development-react->) |
 | Teledyne | NHRC Software Engineering Internship - Summer 2027 | Huntsville, AL | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193>) |
-| Teledyne | NHRC Software Engineering Internship (Summer 2027) | US - Huntsville, AL | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
 | BAE Systems | Software Engineering Intern III, Summer 2027 (Onsite) | San Diego, California, United States | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302588&partnerid=25771&siteid=5403>) |
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7671109787509213445>) |
