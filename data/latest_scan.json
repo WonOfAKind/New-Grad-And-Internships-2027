@@ -1,129 +1,33 @@
 {
-  "scanned_at": "2026-08-17T19:42:54.975Z",
+  "scanned_at": "2026-08-17T20:01:25.528Z",
   "fresh_leads": [
     {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
+      "role_id": "6a5a69cd8c96e50165f057d0",
+      "company_id": "abbott",
+      "company": "Abbott",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
+      "title": "Quality Engineer I",
+      "location": "United States - Minnesota - Roseville",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Manufacturing & Industrial Engineering",
       "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-15",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "e139d7ad5c43144d1440ff92",
-      "company_id": "palo-alto-networks",
-      "company": "Palo Alto Networks",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Intern - Software Engineer",
-      "location": "Office - USA - CA - Headquarters",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598",
-      "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-01-29",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "palo alto networks|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T19:42:30.175Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "9b06165284e778adb1d95d61",
-      "company_id": "johnson-johnson",
-      "company": "Johnson & Johnson",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "product-management",
         "manufacturing-industrial"
       ],
-      "title": "Materials Engineering Co-Op",
-      "location": "Jacksonville, Florida, United States of America",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
+      "specialties": [
+        "test-validation"
       ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1",
-      "source": "https://jj.wd5.myworkdayjobs.com/jj/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1",
+      "compensation": "$50,700.00 - $101,300.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Roseville/Quality-Engineer-I_31159180",
+      "source": "https://www.jobs.abbott/us/en",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
       "posted_at": "2026-08-17",
-      "expires_at": "2026-09-28",
-      "updated_at": "",
-      "source_id": "johnson & johnson|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T19:42:32.691Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "3844f3f628e76c6368d7bb12",
-      "company_id": "hyundai",
-      "company": "Hyundai",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "NVH Engineer I",
-      "location": "Irvine, CA, US",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace",
-        "mechanical"
-      ],
-      "specialties": [],
-      "compensation": "$78,000/Year",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
-      "source": "https://careers-americas.hyundai.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-07-23",
       "expires_at": "",
-      "updated_at": "",
-      "source_id": "hyundai|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "updated_at": "Posted Today",
+      "source_id": "abbott|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -167,12 +71,6 @@
       "title": "GIS Engineer (Jr)",
       "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "title": "Data Analyst, Junior",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Analyst--Junior_R0246709",
-      "reason": "official verification confirmed closure"
     },
     {
       "company": "BlueHalo",
@@ -235,21 +133,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Product Development - Materials",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Product Development Program-Welding",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -262,12 +148,6 @@
       "company": "Hyundai",
       "title": "Total Vehicle Evaluation Engineer I",
       "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Total-Vehicle-Evaluation-Engineer-I-CA-92618/1365341000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "General Motors",
-      "title": "Early Career Virtual/Computer Aided Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -298,6 +178,12 @@
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "2027 Graduate - Subsea Robotics Engineer - Maritime Robotics",
       "url": "https://careers.jhuapl.edu/jobs/59589",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Hyundai",
+      "title": "NVH Engineer I",
+      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -395,18 +281,6 @@
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Corporate Parallel Co-op Program",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Workiva",
-      "title": "Spring 2027 Intern - Finance Systems",
-      "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Finance-Systems_R12202",
-      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -437,7 +311,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 858,
+      "matches": 856,
       "phase": "fast-pass"
     },
     {
@@ -796,7 +670,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -832,7 +706,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 298,
+      "matches": 297,
       "phase": "fast-pass"
     },
     {
@@ -944,7 +818,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 11,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -964,7 +838,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 196,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -1064,7 +938,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 9,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1084,7 +958,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 108,
+      "matches": 96,
       "phase": "fast-pass"
     },
     {
@@ -1194,7 +1068,7 @@
       "source_id": "apple|html_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1693,17 +1567,11 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Target Tech",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Target Tech workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "Home Depot Technology",
@@ -1799,8 +1667,10 @@
       "company": "Workday",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Workday workday scan timed out after 90000ms",
+      "source_id": "workday|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2026,7 +1896,7 @@
       "source_id": "snorkel ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -2093,17 +1963,11 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "verily|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Verily",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2142,7 +2006,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 24,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -2295,11 +2159,19 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "maxar|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2445,11 +2317,17 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 18,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "Boeing workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2541,29 +2419,27 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "rockwell automation|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "carrier|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 4,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Carrier",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Trane Technologies",
@@ -2614,7 +2490,7 @@
       "source_id": "abbott|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2659,10 +2535,8 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "curtiss-wright|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2733,10 +2607,8 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 8,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2781,24 +2653,24 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-17T19:42:54.975Z",
-    "elapsed_ms": 394847,
+    "scanned_at": "2026-08-17T20:01:25.528Z",
+    "elapsed_ms": 346685,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 228,
     "discovered_sources_active": 152,
     "discovered_companies_active": 152,
-    "companies_with_active_sources": 212,
+    "companies_with_active_sources": 211,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4626,
       "official_candidates": 1633,
-      "cached_verifications": 505,
+      "cached_verifications": 507,
       "reverify_hours": 24,
-      "verification_attempts": 1128,
-      "verification_successes": 293,
+      "verification_attempts": 1126,
+      "verification_successes": 290,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1545,
@@ -2811,7 +2683,7 @@
         "verification: official page has an excluded recruiting year": 95,
         "verification: 404 Not Found": 13,
         "verification: official posting closed: provider requisition is no longer listed": 107,
-        "verification: official posting closed: official page does not identify the requisition": 31,
+        "verification: official posting closed: official page does not identify the requisition": 32,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
         "verification: 405 Not Allowed": 31,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
@@ -2827,8 +2699,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 66,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 5,
+    "discovery_new_sources_this_scan": 5,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2841,8 +2713,8 @@
     "double_check_attempts": 15,
     "unique_sources_attempted": 228,
     "total_fetch_attempts": 243,
-    "ok_sources": 212,
-    "error_sources": 15,
+    "ok_sources": 211,
+    "error_sources": 16,
     "blocked_sources": 1,
     "ats_ok_sources": 72,
     "ats_error_sources": 3,
@@ -2850,18 +2722,18 @@
     "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 10,
-      "Request Timeout": 5
+      "429 Too Many Requests": 12,
+      "Request Timeout": 4
     },
-    "board_eligible_candidates": 1074,
-    "provider_candidate_checks": 196,
+    "board_eligible_candidates": 1044,
+    "provider_candidate_checks": 170,
     "provider_candidate_closed": 3,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 212,
-    "inactive_provider_checks": 161,
-    "inactive_provider_closed": 2,
+    "closure_checks": 228,
+    "inactive_provider_checks": 182,
+    "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 46,
+    "closed_roles_removed": 41,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
