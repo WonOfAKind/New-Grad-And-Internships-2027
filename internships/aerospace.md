@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 14, 2026 at 8:01 PM EDT
+Last updated: August 17, 2026 at 9:10 AM EDT
 
-Current roles in this view: 16
+Current roles in this view: 26
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,16 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
+| 🔥 GE Aerospace | Engines Engineering Co-op – US – Fall 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---US---Fall-2027_R5029625-1/apply>) |
+| 🔥 GE Aerospace | Engines Engineering Co-op – US – Spring 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---US---Spring-2027_R5029617-1/apply>) |
+| 🔥 GE Aerospace | Engines Engineering Intern – US – Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Co-op - Electrical Engineering &amp; Computer Engineering/Science (Avionics) - US - Fall 2027 | Grand Rapids, Michigan, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Fall-2027_R5030141-1/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Co-op - Electrical Engineering &amp; Computer Engineering/Science (Avionics) - US - Spring 2027 | Grand Rapids, Michigan, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Spring-2027_R5030096-2/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Fall 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027_R5030145-1/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Spring 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Spring-2027_R5030103-1/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Intern - Electrical Engineering &amp; Computer Engineering/Science (Avionics) - US - Summer 2027 | Grand Rapids, Michigan, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027_R5030118-1/apply>) |
+| 🔥 GE Aerospace | Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1/apply>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Co-op – Spacecraft Power Engineering | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 14, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59477>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 13, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
@@ -27,5 +37,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
 | 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
-| Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Aug 14, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
+| Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Aug 17, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
 
