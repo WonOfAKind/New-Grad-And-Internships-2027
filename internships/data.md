@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 11:06 AM EDT
+Last updated: August 17, 2026 at 11:41 AM EDT
 
-Current roles in this view: 26
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -32,10 +32,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Data Science Intern (TikTok LIVE) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
 | Trata | Research Scientist Intern ⏳ | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | Two Sigma | AI Research Scientist - Intern [2027 Summer] | New York, NY | $5,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096>) |
-| Uline | Financial Data Analyst Intern | Kenosha, WI | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665>) |
+| Uline | Financial Data Analyst Internship - Summer 2027 | Pleasant Prairie, WI +4 | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665>) |
+| Cresta | Data Science Intern (Customer Success) | United States (Remote) | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/cresta/jobs/5213417008>) |
 | Ardian | Data Scientist Intern | New York | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434>) |
 | Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | - | 2027 internship eligible | Posted Jun 28, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845>) |
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844>) |
+| Evolver | Applied Data Science Intern | Palo Alto, CA | - | 2027 internship eligible | Posted May 20, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/evolver/jobs/4254540009>) |
 | Integra FEC | (FALL) Data Analyst Intern | Austin, Texas | - | 2027 internship eligible | Posted Apr 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/integra/jobs/5134522008>) |
 

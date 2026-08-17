@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 11:06 AM EDT
+Last updated: August 17, 2026 at 11:41 AM EDT
 
 Current roles in this view: 31
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| GlobalFoundries | Manufacturing Operations Engineer (2027 New College Graduate) | USA - New York - Malta | $58,400.00 - $100,800.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Operations-Engineer--2027-New-College-Graduate-_JR-2604695>) |
+| GlobalFoundries | Manufacturing Operations Engineer (2027 New College Graduate) | USA - New York - Malta | $58,400.00 - $100,800.00 | 2027 grad eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Operations-Engineer--2027-New-College-Graduate-_JR-2604695>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
 | 🔥 RTX | Manufacturing Engineer | goleta, California, United States of America | - | Early career | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer_01866991/apply>) |
