@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-17T17:09:46.692Z",
+  "updated_at": "2026-08-17T17:46:07.858Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -820,9 +820,9 @@
         "limit": 20,
         "verified_open_jobs": 462
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "palo alto networks": {
@@ -3359,9 +3359,9 @@
         "limit": 20,
         "verified_open_jobs": 65
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "recursion": {
@@ -3859,9 +3859,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "l3harris": {
@@ -4082,9 +4082,9 @@
         "limit": 20,
         "verified_open_jobs": 176
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "oscar health": {
@@ -4519,9 +4519,9 @@
         "limit": 20,
         "verified_open_jobs": 721
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "honeywell": {
@@ -5003,10 +5003,10 @@
         "limit": 20,
         "verified_open_jobs": 418
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T14:46:11.900Z"
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5153,10 +5153,10 @@
         "limit": 20,
         "verified_open_jobs": 1134
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T16:01:16.769Z"
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5352,10 +5352,10 @@
         "limit": 20,
         "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-08-17T15:41:13.662Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T14:46:11.900Z"
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "draper": {
       "company": "Draper",
@@ -5546,9 +5546,10 @@
         "limit": 20,
         "verified_open_jobs": 232
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "michelin": {
       "company": "Michelin",

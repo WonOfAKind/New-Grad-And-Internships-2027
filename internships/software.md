@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 1:09 PM EDT
+Last updated: August 17, 2026 at 1:46 PM EDT
 
 Current roles in this view: 288
 
@@ -61,12 +61,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | RTX | Software Engineer Intern | Marlborough, MA | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158>) |
 | TikTok | Backend Software Engineer Intern (Creation Platform) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670289874020993285>) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
-| TikTok | Data Engineering Project Intern (Ads Targeting) - 2027 Start | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
+| TikTok | Data Engineering Project Intern - Ads Targeting - 2027 Start | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
 | TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670738362521520437>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670700387322300677>) |
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | Seattle, Washington, United States of America | $33.25- $52.25/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672569081632229685>) |
-| TikTok | Research Engineer Intern, Agentic Systems &amp; AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
+| TikTok | Research Engineer Intern - Agentic Systems &amp; AI Infrastructure - TikTok-Generalized Arch - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
 | TikTok | Software Engineer Intern (Foundation Platform) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670281449668905269>) |
 | TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839727059339525>) |
 | TikTok | Software Engineer Intern (Media Engine) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670295535077427509>) |
@@ -93,7 +93,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
-| Impact | Associate Software Engineer Intern | Santa Barbara, CA | $80,000.00 - $90,000.00 base salary | Internship | Posted Aug 8, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/impact/jobs/8645964002>) |
+| Impact | Associate Software Engineer Intern | Santa Barbara, CA | - | Internship | Posted Aug 8, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/impact/jobs/8645964002>) |
 | The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152>) |
 | 🔥 Anduril | Software Engineer Intern | Seattle, WA | $40 - $55/hr USD | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148079007>) |
