@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 5:05 PM EDT
+Last updated: August 17, 2026 at 5:41 PM EDT
 
 Current roles in this view: 293
 
@@ -18,7 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/neuralink/jobs/6594422003>) |
 | Point72 | Quantitative Developer Intern | New York | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8721562002>) |
 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-166 855 35Th St NE… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487>) |
-| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324>) |
+| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-192 1205 Continent… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | ByteDance | Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://joinbytedance.com/search/7668315137242351925>) |
 | CloudFit Software | Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) | Lynchburg, VA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://20240827162904_yztgchk5mbbpx7fj.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027>) |
@@ -181,8 +181,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7662684280234232117>) |
 | Uline | Network Engineer Internship | Pleasant Prairie, WI | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Network-Engineer-Internship---Summer-2027_R265689>) |
 | Walleye Capital | Quantic - Quantitative Developer Intern | New York, NY; Boston, MA | $20,000/month | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
-| TikTok | Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
 | TikTok | Software Development Engineer in Test Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837275459324213>) |
+| TikTok | Software Development Engineer in Test Intern (Global E-Commerce) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
 | TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667934759481526581>) |
 | HPR | Software Engineering Intern - Summer 2027 | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003>) |
 | JPMorgan Chase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759>) |
@@ -259,7 +259,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Point72 | Quantitative Research Intern | New York, NY; Seattle, WA | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297667002>) |
 | Point72 | Quantitative Research Intern (NLP) | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8018862002>) |
 | Point72 | Quantitative Research Internship | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
-| Point72 | Quantitative Researcher Intern | New York | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
+| Point72 | Quantitative Researcher Intern | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
 | Jane Street | Network Engineer Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8620793002>) |
 | Jane Street | Quantitative Researcher Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8498547002>) |
