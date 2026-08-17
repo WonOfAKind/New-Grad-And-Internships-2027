@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 2:07 PM EDT
+Last updated: August 17, 2026 at 3:00 PM EDT
 
-Current roles in this view: 48
+Current roles in this view: 52
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | BlueHalo | Mechanical Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Mechanical-Engineer-I_8404-1>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Development Program (ERDP) - Product Development Track | Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development - Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | Black &amp; Veatch | Associate Mechanical Systems Engineer-Nuclear | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Systems-Engineer-Nuclear-KS-66062/1427174333>) |
 | 🔥 GE Aerospace | Mechanical Design Engineer – Next Generation Products | Evendale, Ohio, United States of America | - | Early career | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5036131-1/apply>) |
 | Leidos | Junior Mechanical Engineer - TS/SCI Polygraph Required | Reston, VA | $69,550.00 - $125,725.00 | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Mechanical-Engineer---TS-SCI-Polygraph-Required_R-00189651>) |
@@ -36,6 +39,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Sandia National Laboratories | Cleared Early Career Rd Mechanical Engineer Applied Technologies Onsite | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/cleared-early-career-rd-mechanical-engineer-applied-technologies-onsite/30EB9FE074C34C5B91D385CC16AAAA7B/job>) |
 | 🔥 Sandia National Laboratories | Early Career Membersenior Product Design Engineer Design Engineering On Site | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-membersenior-product-design-engineer-design-engineering-on-site/96A50C3DDE5E4289A6111B182340E6C2/job>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
+| 🔥 General Motors | Early Career Virtual/Computer Aided Engineer | Warren, Michigan, United States of America | - | Early career | Posted Aug 7, 2026<br>First seen Aug 17, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | Black &amp; Veatch | Associate Buildings Mechanical Engineer - Federal | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Buildings-Mechanical-Engineer-Federal-KS-66062/1383242433>) |
 | Trane Technologies | Application Engineer I | Fort Smith, Arkansas, États-Unis d'Amérique | $67,133.33 - $93,485.00 | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.tranetechnologies.com/global/fr/job/JR-11722/Application-Engineer-I>) |

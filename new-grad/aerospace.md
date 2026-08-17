@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 2:07 PM EDT
+Last updated: August 17, 2026 at 3:00 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -44,6 +44,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Raptor) | Hawthorne, CA | $100,000.00 - $115,000.00 | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8517361002>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8497447002>) |
+| BlueHalo | Industrial Engineer I, Continuous Improvement | Simi Valley, CA | $62,741 - $95,680 | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Industrial-Engineer-I--Continuous-Improvement_6620>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Course Development) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Digital-Engineering-Course-Development-_R2125981/apply>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Methodology) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Methodology-_R2125985-1/apply>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Process Support) | Chantilly, Virginia | - | Early career | Posted Jul 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Process-Support-_R2125986/apply>) |
