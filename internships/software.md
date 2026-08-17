@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 7:02 PM EDT
+Last updated: August 17, 2026 at 7:38 PM EDT
 
 Current roles in this view: 296
 
@@ -90,7 +90,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | DV Trading | Software Engineer Intern | New York, NY | $50.00 per hour | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719119005>) |
 | Figma | Software Engineer Intern | San Francisco, CA; New York, NY | $55 - $55/hr USD | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/figma/jobs/6131089004>) |
 | IMC Trading | Quantitative Trader Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823923101>) |
-| TikTok | Software Engineer Intern - Global E-commerce-Search - 2027 Fall | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839752644233525>) |
+| TikTok | Software Engineer Intern (Global E-commerce-Search) - 2027 Fall | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7670839752644233525>) |
 | Belvedere Trading | Quantitative Trading Intern - Winter Quarter | Chicago, IL | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0>) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421-quantitative-researcher-internship-summer-2027>) |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000142560129-quantitative-researcher-internship-summer-2027>) |
@@ -184,8 +184,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7662684280234232117>) |
 | Uline | Network Engineer Internship | Pleasant Prairie, WI | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Network-Engineer-Internship---Summer-2027_R265689>) |
 | Walleye Capital | Quantic - Quantitative Developer Intern | New York, NY; Boston, MA | $20,000/month | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
+| TikTok | Software Development Engineer in Test Intern - Global E-Commerce - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
 | TikTok | Software Development Engineer in Test Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837275459324213>) |
-| TikTok | Software Development Engineer in Test Intern (Global E-Commerce) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
 | TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667934759481526581>) |
 | HPR | Software Engineering Intern - Summer 2027 | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003>) |
 | JPMorgan Chase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | Chicago, IL, United States; Columbus, OH, United States; Houston, TX, United States; Jersey City, NJ, United States; New York, NY, United States; Palo Alto, CA, United States; Plano, TX, United States; Wilmington, DE, United States; Tampa, FL, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759>) |

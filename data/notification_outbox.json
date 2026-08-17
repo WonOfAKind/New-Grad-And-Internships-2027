@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-17T23:02:22.149Z",
-  "generated_at": "2026-08-17T23:02:22.149Z",
+  "scan_id": "2026-08-17T23:38:33.578Z",
+  "generated_at": "2026-08-17T23:38:33.578Z",
   "companies": [
     {
       "id": "adobe",
@@ -8029,5 +8029,68 @@
       ]
     }
   ],
-  "roles": []
+  "roles": [
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-15",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "dd3f3c71f8fbd9059b85d64e",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior RF Engineering Technician",
+      "location": "Dahlgren, Virginia, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/junior-rf-engineering-technician-dahlgren-virginia-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-11-15",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    }
+  ]
 }
