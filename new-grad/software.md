@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 6:43 PM EDT
+Last updated: August 17, 2026 at 7:02 PM EDT
 
-Current roles in this view: 273
+Current roles in this view: 270
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -93,7 +93,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
 | Boeing | Associate Software Systems Engineer | USA - Tinker AFB, OK | $87,550 - $118,450 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | Cox | Entry Level Software Engineer | Atlanta, GA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
@@ -134,7 +133,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Software Developer - Junior (Team 01) | Washington, District of Columbia, US | $100,000 - $115,000 | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/software-developer-junior-team-01-washington-district-of-columbia-united-states-ea113eae-04a2-48d5-885f-04984eca131f>) |
 | Amentum | Software Developer - Junior (Team 01) | Washington, District of Columbia, US | $100,000 - $115,000 | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/software-developer-junior-team-01-washington-district-of-columbia-united-states-41731793-07c5-4f10-b6bf-15fd5e0f1ea2>) |
 | BAE Systems | Entry Level Software Engineer | San Diego, California, United States | - | Early career | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301511&partnerid=25771&siteid=5403>) |
-| BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Boeing | Software Engineer (Associate, Experienced or Senior) | USA - Daytona Beach, FL | $77,000.00 - $137,000.00 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/F-15-Software-Engineer--Associate--Experienced-or-Senior-_JR2026518220-1>) |
 | Cox Enterprises | Entry Level Software Engineer | Atlanta, GA | - | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
@@ -250,7 +248,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TransMarket Group | Junior Software Engineer | Chicago, IL | - | Early career | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007>) |
 | Voloridge Investment Management | Quantitative Research Fellowship 2027 | Jupiter, FL | - | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224950009>) |
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
-| BlueHalo | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
 | Ellipsis Labs | Software Engineer, New Grad | New York, NY | $150,000 - $200,000 | 2027 grad eligible | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d>) |
 | 🔥 Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb>) |
 | 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | Washington, D.C. | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6>) |
