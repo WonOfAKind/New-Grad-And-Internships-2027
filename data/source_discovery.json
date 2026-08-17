@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-17T17:46:07.858Z",
+  "updated_at": "2026-08-17T18:07:03.383Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2503,9 +2503,9 @@
         "limit": 20,
         "verified_open_jobs": 111
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "qualtrics": {
@@ -3859,9 +3859,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "l3harris": {
@@ -4082,10 +4082,10 @@
         "limit": 20,
         "verified_open_jobs": 176
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T17:09:46.692Z"
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T18:07:03.383Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4519,10 +4519,10 @@
         "limit": 20,
         "verified_open_jobs": 721
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T17:09:46.692Z"
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T18:07:03.383Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5153,9 +5153,9 @@
         "limit": 20,
         "verified_open_jobs": 1134
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "abbott": {
@@ -5352,9 +5352,9 @@
         "limit": 20,
         "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "draper": {
@@ -5546,9 +5546,9 @@
         "limit": 20,
         "verified_open_jobs": 232
       },
-      "last_scan_at": "2026-08-17T17:46:07.858Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:46:07.858Z"
     },
     "michelin": {
@@ -5641,9 +5641,9 @@
         "limit": 20,
         "verified_open_jobs": 291
       },
-      "last_scan_at": "2026-08-17T17:09:46.692Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T18:07:03.383Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T17:09:46.692Z"
     },
     "chevron": {

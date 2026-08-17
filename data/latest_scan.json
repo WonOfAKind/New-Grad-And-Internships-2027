@@ -1,31 +1,93 @@
 {
-  "scanned_at": "2026-08-17T17:46:07.858Z",
+  "scanned_at": "2026-08-17T18:07:03.383Z",
   "fresh_leads": [
     {
-      "role_id": "d02ce3412cf543fd8180a838",
-      "company_id": "spirit-aerosystems",
-      "company": "Spirit AeroSystems",
+      "role_id": "5b5666f3cc6cbe86ebcf76ba",
+      "company_id": "jpmorgan-chase",
+      "company": "JPMorgan Chase",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Spirit Defense - Entry-Level Material Review Engineer",
-      "location": "Wichita, Kansas, United States",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
+      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+      "location": "Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
       "disciplines": [
-        "aerospace",
-        "mechanical"
+        "data",
+        "ai-ml"
       ],
       "specialties": [],
-      "compensation": "$63,750 - $97,750",
-      "grad_window": "2027 grad eligible",
-      "url": "https://careers.spiritaero.com/jobs/17257",
-      "source": "https://careers.spiritaero.com/",
+      "compensation": "$45.67-$45.67/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "source": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
-      "posted_at": "2026-08-12",
-      "expires_at": "2027-08-12",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-11-06",
+      "updated_at": "2026-08-17T17:53:26+00:00",
+      "source_id": "jpmorgan chase|oracle",
+      "source_adapter": "oracle",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "53d2d8b03caea7e6026947fb",
+      "company_id": "american-express",
+      "company": "American Express",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
+      "location": "Charlotte, NC, United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
+      "source": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-09-30",
       "updated_at": "",
-      "source_id": "spirit aerosystems|sitemap_jobs",
+      "source_id": "american express|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T18:05:53.012Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "dd3f3c71f8fbd9059b85d64e",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior RF Engineering Technician",
+      "location": "Dahlgren, Virginia, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/junior-rf-engineering-technician-dahlgren-virginia-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-11-15",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
@@ -34,32 +96,166 @@
       "priority": "P0"
     },
     {
-      "role_id": "82621b67a2c3e85651597bb5",
-      "company_id": "curtiss-wright",
-      "company": "Curtiss-Wright",
+      "role_id": "2827c42c28d943e65594375a",
+      "company_id": "maxar",
+      "company": "Maxar",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Associate Engineer - Quality and Calibration",
-      "location": "US-NY-Lansing (ST-800)",
+      "title": "GIS Engineer (Jr)",
+      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
       "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "discipline": "AI / Machine Learning",
       "disciplines": [
-        "other-engineering"
+        "ai-ml"
       ],
-      "specialties": [
-        "test-validation"
-      ],
-      "compensation": "$70,000-$75,000",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
-      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
+      "specialties": [],
+      "compensation": "$67,000.00 - $111,000.00 annually",
+      "grad_window": "Early career",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "source": "https://www.maxar.com/careers",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
       "posted_at": "",
       "expires_at": "",
       "updated_at": "Posted 30+ Days Ago",
-      "source_id": "curtiss-wright|workday",
+      "source_id": "maxar|workday",
       "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f390784fd6050e4d32089264",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$98,600 - $133,400",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-04",
+      "expires_at": "2026-08-25",
+      "updated_at": "Posted 13 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "b319184a8cf139c51fbc45bb",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "location": "USA - Oklahoma City, OK",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$66,300 - $89,700",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-31",
+      "updated_at": "Posted 10 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3d3617316a6498c6b9a2552e",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$79,050- $106,950",
+      "grad_window": "Early career",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-07-29",
+      "expires_at": "2026-08-26",
+      "updated_at": "Posted 19 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "0aabf9a49fa3d5969558269d",
+      "company_id": "black-and-veatch",
+      "company": "Black & Veatch",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Mechanical Systems Engineer-Nuclear",
+      "location": "Ann Arbor, MI, US",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Systems-Engineer-Nuclear-KS-66062/1427174333",
+      "source": "https://careers.bv.com/",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-16",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "black & veatch|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -68,12 +264,6 @@
     }
   ],
   "removed_roles": [
-    {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "reason": "no longer matches board eligibility policy"
-    },
     {
       "company": "BlueHalo",
       "title": "Junior Scene Generation Engineer",
@@ -90,12 +280,6 @@
       "company": "BlueHalo",
       "title": "Software QA Automation Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -123,12 +307,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Thermo Fisher Scientific",
       "title": "Manufacturing Electrical Engineer 1",
       "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
@@ -144,12 +322,6 @@
       "company": "Peraton",
       "title": "Entry-Level Electrical Engineer",
       "url": "https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering--",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -195,15 +367,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Johns Hopkins Applied Physics Laboratory",
-      "title": "2027 Graduate - Subsea Robotics Engineer - Maritime Robotics",
-      "url": "https://careers.jhuapl.edu/jobs/59589",
+      "company": "Spirit AeroSystems",
+      "title": "Spirit Defense - Entry-Level Material Review Engineer",
+      "url": "https://careers.spiritaero.com/jobs/17257",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Hyundai",
-      "title": "NVH Engineer I",
-      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 Graduate - Subsea Robotics Engineer - Maritime Robotics",
+      "url": "https://careers.jhuapl.edu/jobs/59589",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -279,6 +451,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Curtiss-Wright",
+      "title": "Associate Engineer - Quality and Calibration",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
@@ -295,6 +473,12 @@
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Arevon",
+      "title": "Data Science Intern, Interconnection & Transmission",
+      "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007",
+      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -434,7 +618,7 @@
       "source_id": "jpmorgan chase|oracle",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -454,7 +638,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 258,
+      "matches": 259,
       "phase": "fast-pass"
     },
     {
@@ -691,11 +875,17 @@
       "company": "Visa",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "visa|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Visa",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Leidos",
@@ -852,7 +1042,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 194,
+      "matches": 195,
       "phase": "fast-pass"
     },
     {
@@ -889,17 +1079,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -978,7 +1162,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 78,
+      "matches": 96,
       "phase": "fast-pass"
     },
     {
@@ -1264,7 +1448,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 17,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -1725,11 +1909,17 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "zendesk|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2120,7 +2310,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -2185,8 +2375,10 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "double-check"
     },
     {
@@ -2216,7 +2408,7 @@
       "source_id": "commure|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 26,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -2333,17 +2525,11 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "boeing|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 17,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Boeing",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2475,11 +2661,17 @@
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "stryker|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Stryker",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Abbott",
@@ -2525,11 +2717,17 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "curtiss-wright|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Curtiss-Wright",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "ABB",
@@ -2565,11 +2763,17 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "goodyear|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Goodyear",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2585,11 +2789,17 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 8,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "BlueHalo",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2633,23 +2843,23 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-17T17:46:07.858Z",
-    "elapsed_ms": 362390,
+    "scanned_at": "2026-08-17T18:07:03.383Z",
+    "elapsed_ms": 366799,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 228,
     "discovered_sources_active": 152,
     "discovered_companies_active": 152,
-    "companies_with_active_sources": 214,
+    "companies_with_active_sources": 211,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4615,
       "official_candidates": 1629,
-      "cached_verifications": 508,
+      "cached_verifications": 507,
       "reverify_hours": 24,
-      "verification_attempts": 1121,
+      "verification_attempts": 1122,
       "verification_successes": 286,
       "verification_deferred": 0,
       "rejection_counts": {
@@ -2660,14 +2870,14 @@
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 376,
-        "verification: official page has an excluded recruiting year": 99,
+        "verification: official page has an excluded recruiting year": 97,
         "verification: 404 Not Found": 13,
-        "verification: official posting closed: provider requisition is no longer listed": 105,
-        "verification: official posting closed: official page does not identify the requisition": 31,
+        "verification: official posting closed: provider requisition is no longer listed": 106,
+        "verification: official posting closed: official page does not identify the requisition": 32,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
         "verification: 405 Not Allowed": 31,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
-        "verification: official posting closed: 404 Not Found": 26,
+        "verification: official posting closed: 404 Not Found": 27,
         "verification: 403 Forbidden": 70,
         "verification: official posting closed: official page shell does not expose the requisition": 45,
         "verification: 400 Bad Request": 4,
@@ -2690,11 +2900,11 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 10,
+    "double_check_attempts": 14,
     "unique_sources_attempted": 228,
-    "total_fetch_attempts": 238,
-    "ok_sources": 214,
-    "error_sources": 13,
+    "total_fetch_attempts": 242,
+    "ok_sources": 211,
+    "error_sources": 16,
     "blocked_sources": 1,
     "ats_ok_sources": 71,
     "ats_error_sources": 4,
@@ -2702,18 +2912,18 @@
     "ats_success_percent": 93.4,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 10,
-      "Request Timeout": 3
+      "429 Too Many Requests": 12,
+      "Request Timeout": 4
     },
-    "board_eligible_candidates": 1048,
-    "provider_candidate_checks": 174,
+    "board_eligible_candidates": 1057,
+    "provider_candidate_checks": 184,
     "provider_candidate_closed": 3,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 223,
-    "inactive_provider_checks": 169,
-    "inactive_provider_closed": 0,
+    "closure_checks": 214,
+    "inactive_provider_checks": 164,
+    "inactive_provider_closed": 1,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 38,
+    "closed_roles_removed": 36,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
