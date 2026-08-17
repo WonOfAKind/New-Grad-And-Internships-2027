@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 9:10 AM EDT
+Last updated: August 17, 2026 at 9:55 AM EDT
 
 Current roles in this view: 31
 
@@ -17,6 +17,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
 | 🔥 RTX | Manufacturing Engineer | goleta, California, United States of America | - | Early career | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Manufacturing-Engineer_01866991/apply>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |
+| Black &amp; Veatch | Associate Engineer - Electrical, Industrial Manufacturing | Ann Arbor, MI, US | $91,047 - $152,053 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033>) |
 | 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01363119/Quality-Engineer-I>) |
 | 🔥 RTX | Manufacturing Engineer | riverside, California, United States of America | - | Early career | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-RIVERSIDE-8200B1--8200-Arlington-Ave--BLDG-B1/Manufacturing-Engineer_01865676-1/apply>) |
@@ -25,7 +26,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Burns &amp; McDonnell | Assistant Instrument Controls Engineer Global Facilities Onsite Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-instrument-controls-engineer-global-facilities-onsite-kansas-city/B6AEF423E5BC4303B3D4B5A080F1B4DF/job>) |
 | Abbott | Manufacturing Process Engineer I | United States - Maine - Scarborough | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31158324-1>) |
 | Abbott | Quality Engineer I | United States - Indiana - Westfield | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Indiana---Westfield/Quality-Engineer-II_31152098-1>) |
-| Solar Turbines | 2027 Entry Level Gas Turbine Product Engineer (GTPE) | San Diego, California | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | Moog | Associate Manufacturing Engineer | Salt Lake City, UT | $70,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Associate-Manufacturing-Engineer_R-26-18241>) |
 | 🔥 Blue Origin | Materials and Process Engineer II – TPS, Sealants, Coatings, &amp; Adhesives (Early Career) | Space Coast, FL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |

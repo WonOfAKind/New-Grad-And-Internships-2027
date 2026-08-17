@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-17T13:10:08.210Z",
+  "updated_at": "2026-08-17T13:55:46.227Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -819,9 +819,10 @@
         "limit": 20,
         "verified_open_jobs": 462
       },
-      "last_scan_at": "2026-08-17T13:10:08.210Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T13:55:46.227Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1214,7 +1215,7 @@
     },
     "shield ai": {
       "company": "Shield AI",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1226,12 +1227,12 @@
         "source_kind": "discovered",
         "discovered_from": "https://shield.ai/careers/",
         "site": "shieldai",
-        "verified_open_jobs": 434
+        "verified_open_jobs": 431
       },
-      "last_scan_at": "2026-08-10T15:42:16.507Z",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_verified_at": "2026-08-17T13:55:46.227Z"
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
@@ -2291,7 +2292,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-08-14T21:02:05.159Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2307,12 +2308,11 @@
         "site": "Workday",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 347
+        "verified_open_jobs": 345
       },
-      "last_scan_at": "2026-08-17T13:10:08.210Z",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-15T00:01:43.540Z"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -3340,7 +3340,7 @@
     },
     "verily": {
       "company": "Verily",
-      "checked_at": "2026-08-14T21:56:04.570Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3356,12 +3356,12 @@
         "site": "Verily_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 66
+        "verified_open_jobs": 65
       },
-      "last_scan_at": "2026-08-17T13:10:08.210Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-15T00:01:43.540Z"
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T13:55:46.227Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -3840,7 +3840,7 @@
     },
     "booz allen hamilton": {
       "company": "Booz Allen Hamilton",
-      "checked_at": "2026-08-14T21:56:04.570Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3858,10 +3858,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-17T13:10:08.210Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-14T23:38:09.650Z"
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T13:55:46.227Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4893,7 +4893,7 @@
     },
     "toyota motor north america": {
       "company": "Toyota Motor North America",
-      "checked_at": "2026-08-10T13:39:45.160Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4909,12 +4909,12 @@
         "site": "TMNA",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 90
+        "verified_open_jobs": 94
       },
-      "last_scan_at": "2026-08-10T15:42:16.507Z",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-10T15:42:16.507Z"
+      "last_verified_at": "2026-08-17T13:55:46.227Z"
     },
     "honda": {
       "company": "Honda",
@@ -5002,9 +5002,9 @@
         "limit": 20,
         "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-14T18:34:54.949Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T18:34:54.949Z"
     },
     "parker hannifin": {
@@ -5152,9 +5152,9 @@
         "limit": 20,
         "verified_open_jobs": 1146
       },
-      "last_scan_at": "2026-08-14T22:42:06.690Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-14T22:42:06.690Z"
     },
     "abbott": {
@@ -5332,7 +5332,7 @@
     },
     "curtiss-wright": {
       "company": "Curtiss-Wright",
-      "checked_at": "2026-08-14T20:07:36.383Z",
+      "checked_at": "2026-08-17T13:50:11.643Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5348,12 +5348,11 @@
         "site": "CW_External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 362
+        "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-08-17T13:10:08.210Z",
+      "last_scan_at": "2026-08-17T13:55:46.227Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-14T23:38:09.650Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "draper": {
       "company": "Draper",

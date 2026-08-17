@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 9:10 AM EDT
+Last updated: August 17, 2026 at 9:55 AM EDT
 
-Current roles in this view: 26
+Current roles in this view: 25
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | 🔥 GE Aerospace | Engines Engineering Co-op – US – Fall 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---US---Fall-2027_R5029625-1/apply>) |
 | 🔥 GE Aerospace | Engines Engineering Co-op – US – Spring 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Co-op---US---Spring-2027_R5029617-1/apply>) |
 | 🔥 GE Aerospace | Engines Engineering Intern – US – Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027_R5029621-1/apply>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 9:10 AM EDT
+Last updated: August 17, 2026 at 9:55 AM EDT
 
 Current roles in this view: 27
 
@@ -12,16 +12,17 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Motorola Solutions | Junior Field Applications Engineer | Reston, VA (VA58) | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R64415>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | $125,000.00 - $160,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706884002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | $135,000.00 - $175,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8703552002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |
 | BlueHalo | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | Boeing | Embedded Software Engineer - Entry-Level | USA - Hazelwood, MO; USA - Berkeley, MO | $78,200 - $105,800 | Early career | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1>) |
-| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
+| Black &amp; Veatch | Associate Engineer - Electrical, Industrial Manufacturing | Ann Arbor, MI, US | $91,047 - $152,053 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033>) |
 | Shield AI | Power Electronics - Thermal Engineer I (R4842) | Dallas, Texas | - | Verified early career (BS) | First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/shieldai/f6bbec19-f1c6-44ce-9af5-132b25b6e83a>) |
+| Black &amp; Veatch | Associate Electrical Engineer - Substation | Walnut Creek, CA, US | $95,186- $179,699 | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Burlington-Associate-Electrical-Engineer-Substation-MA-01803/1394206433>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | Johnson Controls | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United States of America | $65,000 - $80,000 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369>) |
+| Black &amp; Veatch | Associate Electrical Engineer - Power System Studies | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | 🔥 Anduril | Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | Early career | First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5167865007>) |
@@ -37,6 +38,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Electrical Engineer - Power System Protection | Greenwood Village, CO, US | - | Verified early career (BS) | Posted Jul 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833>) |
 | Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
-| Amentum | Power System Design Engineer - Entry Level | Tullahoma, Tennessee, US | $61,660 - $101,600 | Early career | Posted Jul 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states>) |
 | Lockheed Martin | RF Systems Engineer Level 1 - Clearance Required | Hanover, Maryland | $73,400 - $129,260 | Verified early career (BS) | Posted Jun 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/hanover/rf-systems-engineer-level-1-clearance-required/694/92888973888>) |
 

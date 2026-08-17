@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 9:10 AM EDT
+Last updated: August 17, 2026 at 9:55 AM EDT
 
-Current roles in this view: 44
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -20,13 +20,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 RTX | Mechanical Engineer I | tucson, Arizona, United States of America | - | Early career | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I_01866696/apply>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
 | 🔥 Boeing | Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems | USA - El Segundo, CA | $63,000 - $113,000 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1>) |
-| Leidos | Junior Systems Engineer | Huntsville, AL | $69,550.00 - $125,725.00 | Early career | Posted Aug 11, 2026<br>First seen Aug 12, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Systems-Engineer_R-00185754>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Archer Aviation | Associate Survivability and Operations Analysis Engineer | Remote; San Jose, California, United States | $70,400 - $96,800 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/archer56/jobs/7719738003>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Aviation Federal Roanoke | Roanoke, VA | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/roanoke-va/assistant-structural-engineer-aviation-federal-roanoke/52C8BBA22A5546819DCE9E48D8662146/job>) |
 | 🔥 Sandia National Laboratories | Early Career Membersenior Product Design Engineer Design Engineering On Site | Albuquerque, NM | - | Early career | First seen Aug 9, 2026 | [Apply](<https://sandia.jobs/albuquerque-nm/early-career-membersenior-product-design-engineer-design-engineering-on-site/96A50C3DDE5E4289A6111B182340E6C2/job>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
-| Solar Turbines | 2027 Entry Level Gas Turbine Product Engineer (GTPE) | San Diego, California | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | BlueHalo | Manufacturing Engineer I | Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Manufacturing-Engineer-I_8333>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | - | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2127828/apply>) |
@@ -36,7 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
-| Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
 | Peraton | Junior Software Test Engineer (Flight Safety Systems) | VA | $86,000 - $138,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-software-test-engineer-flight-safety-systems-fort-belvoir-virginia-167525-jobs--quality-assurance-->) |

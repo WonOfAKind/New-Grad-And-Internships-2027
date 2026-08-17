@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 9:10 AM EDT
+Last updated: August 17, 2026 at 9:55 AM EDT
 
-Current roles in this view: 70
+Current roles in this view: 68
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -69,15 +69,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | NewsBreak | Software Engineer, ML Infra (Junior &amp; New Grad) | Mountain View, CA | $125,000 - $175,000 USD | Early career | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4615879006>) |
 | Booz Allen Hamilton | AI/ML Engineer, Junior | Wharton, NJ | $55,200.00 - $126,000.00 | Early career | Posted Jul 28, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/AI-ML-Engineer--Junior_R0245456>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
-| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, California, United States | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
+| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | $85,000 - $100,000 | Early career | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008>) |
 | Travelers | Software Engineer I (AI Driven) | Atlanta, GA | $99,100.00 - $163,400.00 | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831>) |
 | General Motors | ML Validation Engineer - Early Career | Sunnyvale, California, United States of America | - | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |
-| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA, US | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
 | Black &amp; Veatch | Associate Substation Structural Engineer | Tualatin, OR, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
-| Bridger | Early Career Product Engineer | New York City | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
-| Milwaukee Tool | Applied Machine Learning Engineer I - Advanced Engineering &amp; Technology | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
+| Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
 | Peraton | Information Systems Security Engineer Level 1 – AI/ML Project TS/SCI w Poly | MD | $135,000 - $216,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/information-systems-security-engineer-level-1-ai-ml-project-ts-sci-w-poly-laurel-maryland-167506-jobs--cyber-security-->) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
 | Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 17, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
