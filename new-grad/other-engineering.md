@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 12:01 PM EDT
+Last updated: August 17, 2026 at 12:47 PM EDT
 
-Current roles in this view: 28
+Current roles in this view: 29
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -31,6 +31,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Kansas City | Kansas City, MO | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/kansas-city-mo/assistant-structural-engineer-transmission-distribution-kansas-city/AC250A7622A0421FBCC328BAC5469DBB/job>) |
 | Burns &amp; McDonnell | Assistant Structural Engineer Transmission Distribution Orlando | Orlando, FL | - | Early career | First seen Aug 9, 2026 | [Apply](<https://burnsmcd.jobs/orlando-fl/assistant-structural-engineer-transmission-distribution-orlando/FA0A44C509A2446EBD361CCFC99763BC/job>) |
 | Solar Turbines | Entry Level Gas Turbine Product Engineer - Gtpe | San Diego, CA | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Aug 11, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
+| Maxar | Associate Systems Engineer - Mission Architecture and Systems Engineering | Westminster, CO | $86,000.00 - $115,000.00 | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 14, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Westminster-CO/Associate-Systems-Engineer---Mission-Architecture-and-Systems-Engineering_R24316>) |
 | Bechtel | Controls/Systems Engineer | Phoenix, Arizona, United States; United States | - | Explicit new grad role | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296928EXTERNALENUS/Controls-Systems-Engineer>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Engineer | Greenwood Village, CO, US | $91,047-152,053 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Burlington-Associate-Overhead-Transmission-Line-Engineer-MA-01803/1380518033>) |
 | Micron | New College Grad - OI System Engineer | Manassas, VA,US | - | Early career | Posted Jul 26, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.micron.com/careers/job/42021676-new-college-grad-oi-system-engineer-manassas-virginia-united-states-of-america>) |

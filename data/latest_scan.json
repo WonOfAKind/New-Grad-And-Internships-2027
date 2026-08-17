@@ -1,276 +1,198 @@
 {
-  "scanned_at": "2026-08-17T16:01:16.769Z",
+  "scanned_at": "2026-08-17T16:47:51.468Z",
   "fresh_leads": [
     {
-      "role_id": "424e83989403fc521063bd5f",
-      "company_id": "replit",
-      "company": "Replit",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Foster City, CA",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "source": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-15",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "replit|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T16:00:40.197Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "95e23fb541f7ee8e02718323",
-      "company_id": "hpr-hyannis-port-research",
-      "company": "HPR (Hyannis Port Research)",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Software Engineering Intern - Summer 2027",
-      "location": "Needham, MA",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$42.00/hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-      "source": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-01",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "hpr (hyannis port research)|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T16:00:41.950Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "d29d220e12f76bf4dfea61f0",
-      "company_id": "deepgram",
-      "company": "Deepgram 🆁",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
-      "location": "USA | Remote",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-      "source": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-07-17",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "deepgram 🆁|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T16:00:42.510Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "d6378235b487d62b26169919",
-      "company_id": "voloridge",
-      "company": "Voloridge",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Quantitative Research Intern 2027",
-      "location": "Jupiter, FL",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
-      "source": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-06-11",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "voloridge|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T16:00:42.840Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "5f802649cf80819ecf52b516",
-      "company_id": "voloridge",
-      "company": "Voloridge",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Quantitative Developer Intern 2027",
-      "location": "Jupiter, FL",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "source": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-06-11",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "voloridge|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T16:00:42.986Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-15",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "3844f3f628e76c6368d7bb12",
-      "company_id": "hyundai",
-      "company": "Hyundai",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "NVH Engineer I",
-      "location": "Irvine, CA, US",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
+      "role_id": "d49b317ee5e0132792a09ade",
+      "company_id": "rtx",
+      "company": "RTX",
+      "featured_company": true,
+      "featured_disciplines": [
         "aerospace",
-        "mechanical"
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Software Engineering Intern (Summer 2027)",
+      "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
       ],
       "specialties": [],
-      "compensation": "$78,000/Year",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
-      "source": "https://careers-americas.hyundai.com/",
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
-      "posted_at": "2026-07-23",
+      "posted_at": "2026-08-12",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "hyundai|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
+      "source_id": "rtx|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:46:32.905Z",
+      "verification_version": 6,
+      "priority": "P0"
     },
     {
-      "role_id": "4feef971ed2c2c573c5f2872",
-      "company_id": "bluehalo",
-      "company": "BlueHalo",
+      "role_id": "9c79568c28920abac9504572",
+      "company_id": "chicago-trading-company",
+      "company": "Chicago Trading Company",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Mechanical Engineer I",
-      "location": "Moorpark, CA",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
+      "title": "Software Engineering Internship - Summer 2027",
+      "location": "Chicago, Illinois, United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "mechanical",
-        "aerospace"
+        "software"
       ],
       "specialties": [],
-      "compensation": "$66,500 - $101,500",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Mechanical-Engineer-I_8404-1",
-      "source": "https://bluehalo.com/careers/",
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+      "source": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-04",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "chicago trading company|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:46:57.434Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "6b94501af81a7d1ce1bdbbbb",
+      "company_id": "valkyrie-trading",
+      "company": "Valkyrie Trading",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior Software Engineer",
+      "location": "Chicago, IL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "source": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-07-30",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "valkyrie trading|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:47:02.878Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2f17613c5367ac4f40bec01c",
+      "company_id": "workiva",
+      "company": "Workiva",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Spring 2027 Intern - Finance Systems",
+      "location": "USA - Remote",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$22.00 - $22.00/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Finance-Systems_R12202",
+      "source": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Finance-Systems_R12202",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
       "posted_at": "2026-08-17",
+      "expires_at": "2026-08-19",
+      "updated_at": "",
+      "source_id": "workiva|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:47:31.379Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "02a37381e4899f38585912aa",
+      "company_id": "impact",
+      "company": "Impact",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Software Engineer",
+      "location": "Santa Barbara, CA",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$80,000.00 - $90,000.00 base salary",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "source": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-08",
       "expires_at": "",
-      "updated_at": "Posted Today",
-      "source_id": "bluehalo|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
+      "updated_at": "",
+      "source_id": "impact|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:46:45.486Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "67f1b68c07ee7ce67b88f034",
+      "company_id": "maven-securities",
+      "company": "Maven Securities",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Trader Intern",
+      "location": "Chicago, IL",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "source": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "maven securities|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T16:46:55.452Z",
+      "verification_version": 6,
       "priority": "P1"
     }
   ],
   "removed_roles": [
-    {
-      "company": "BlueHalo",
-      "title": "Software Engineer I-1",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366",
-      "reason": "official verification confirmed closure"
-    },
-    {
-      "company": "BlueHalo",
-      "title": "Software Engineer I-2",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-2_8367",
-      "reason": "official verification confirmed closure"
-    },
-    {
-      "company": "BlueHalo",
-      "title": "Software Engineer I-3",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-3_8368",
-      "reason": "official verification confirmed closure"
-    },
     {
       "company": "Boeing",
       "title": "Entry Level or Associate Software Safety Engineer",
@@ -362,6 +284,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "GE Aerospace",
       "title": "Mechanical Design Engineer – Next Generation Products",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5036131-1/apply",
@@ -401,6 +329,12 @@
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "2027 Graduate - Subsea Robotics Engineer - Maritime Robotics",
       "url": "https://careers.jhuapl.edu/jobs/59589",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Hyundai",
+      "title": "NVH Engineer I",
+      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -476,22 +410,16 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Commercial",
-      "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
-      "reason": "missing from authoritative source"
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7667935739300792629",
+      "reason": "official verification confirmed closure"
     },
     {
-      "company": "Palantir",
-      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-      "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-      "reason": "missing from authoritative source"
-    },
-    {
-      "company": "HPR (Hyannis Port Research)",
-      "title": "FPGA Engineer Intern",
-      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
-      "reason": "official page shell does not expose the requisition"
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875/apply",
+      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -522,7 +450,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 856,
+      "matches": 857,
       "phase": "fast-pass"
     },
     {
@@ -651,7 +579,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 259,
+      "matches": 258,
       "phase": "fast-pass"
     },
     {
@@ -851,7 +779,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 44,
+      "matches": 45,
       "phase": "fast-pass"
     },
     {
@@ -881,7 +809,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -917,7 +845,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 297,
+      "matches": 298,
       "phase": "fast-pass"
     },
     {
@@ -960,17 +888,11 @@
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "caterpillar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Caterpillar",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -1029,7 +951,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 12,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -1086,17 +1008,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1155,7 +1071,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -1498,11 +1414,17 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1601,7 +1523,7 @@
       "source_id": "fireworks ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 9,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -1621,7 +1543,7 @@
       "source_id": "shield ai|lever",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 130,
+      "matches": 129,
       "phase": "fast-pass"
     },
     {
@@ -1916,11 +1838,17 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "zendesk|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2166,11 +2094,17 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2296,11 +2230,17 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 3,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2356,11 +2296,17 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "maxar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2506,11 +2452,17 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 17,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Ford",
@@ -2612,17 +2564,11 @@
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "carrier|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Carrier",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Carrier workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "Trane Technologies",
@@ -2638,24 +2584,10 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -2666,7 +2598,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Abbott",
@@ -2741,7 +2673,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -2766,10 +2698,8 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "goodyear|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2786,11 +2716,17 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 8,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "BlueHalo",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2834,56 +2770,51 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-17T16:01:16.769Z",
-    "elapsed_ms": 386325,
+    "scanned_at": "2026-08-17T16:47:51.468Z",
+    "elapsed_ms": 365116,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 228,
     "discovered_sources_active": 152,
     "discovered_companies_active": 152,
-    "companies_with_active_sources": 216,
+    "companies_with_active_sources": 212,
     "discovery_feeds": {
       "feeds_configured": 7,
-      "feeds_ok": 3,
-      "feeds_error": 4,
-      "rows_parsed": 922,
-      "official_candidates": 479,
-      "cached_verifications": 210,
+      "feeds_ok": 7,
+      "feeds_error": 0,
+      "rows_parsed": 4615,
+      "official_candidates": 1628,
+      "cached_verifications": 500,
       "reverify_hours": 24,
-      "verification_attempts": 269,
-      "verification_successes": 102,
+      "verification_attempts": 1128,
+      "verification_successes": 295,
       "verification_deferred": 0,
       "rejection_counts": {
-        "untracked discipline": 350,
-        "excluded recruiting year": 45,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 82,
-        "verification: official posting closed: Oracle requisition is no longer listed": 1,
-        "verification: official posting closed: provider requisition is no longer listed": 15,
-        "verification: official page has an excluded recruiting year": 34,
-        "verification: official posting closed: 404 Not Found": 6,
-        "verification: official posting closed: official page shell does not expose the requisition": 8,
-        "verification: 400 Bad Request": 1,
-        "verification: 403 Forbidden": 11,
-        "verification: 405 Not Allowed": 9
+        "missing required field": 1545,
+        "untracked discipline": 735,
+        "graduate-degree-only role": 97,
+        "excluded recruiting year": 161,
+        "non-official application URL": 44,
+        "marked closed by discovery source": 1,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 377,
+        "verification: official page has an excluded recruiting year": 97,
+        "verification: 404 Not Found": 13,
+        "verification: official posting closed: provider requisition is no longer listed": 103,
+        "verification: official posting closed: official page does not identify the requisition": 32,
+        "verification: official posting closed: Oracle requisition is no longer listed": 12,
+        "verification: 405 Not Allowed": 31,
+        "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
+        "verification: official posting closed: 404 Not Found": 26,
+        "verification: 403 Forbidden": 70,
+        "verification: official posting closed: official page shell does not expose the requisition": 45,
+        "verification: 400 Bad Request": 4,
+        "verification: fetch failed": 2,
+        "verification: official posting closed: explicit closed-page message": 7,
+        "verification: official posting closed: redirected away from the requisition": 6,
+        "verification: 410 Gone": 2,
+        "verification: official provider verification unavailable: 403 Forbidden": 1
       },
-      "errors": [
-        {
-          "feed": "2027 Tech Jobs",
-          "error": "429 Too Many Requests"
-        },
-        {
-          "feed": "Summer 2027 Internships",
-          "error": "429 Too Many Requests"
-        },
-        {
-          "feed": "Summer 2027 Internships Community List",
-          "error": "request timed out after 15000ms"
-        },
-        {
-          "feed": "2027 SWE College Jobs",
-          "error": "request timed out after 15000ms"
-        }
-      ]
+      "errors": []
     },
     "discovery_attempts_this_scan": 1,
     "discovery_new_sources_this_scan": 1,
@@ -2896,30 +2827,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 10,
+    "double_check_attempts": 12,
     "unique_sources_attempted": 228,
-    "total_fetch_attempts": 238,
-    "ok_sources": 216,
-    "error_sources": 11,
+    "total_fetch_attempts": 240,
+    "ok_sources": 212,
+    "error_sources": 15,
     "blocked_sources": 1,
-    "ats_ok_sources": 71,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 73,
+    "ats_error_sources": 2,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 93.4,
+    "ats_success_percent": 96.1,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 7,
+      "429 Too Many Requests": 11,
       "Request Timeout": 4
     },
-    "board_eligible_candidates": 683,
-    "provider_candidate_checks": 193,
-    "provider_candidate_closed": 2,
+    "board_eligible_candidates": 1040,
+    "provider_candidate_checks": 165,
+    "provider_candidate_closed": 3,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 287,
-    "inactive_provider_checks": 281,
-    "inactive_provider_closed": 3,
+    "closure_checks": 225,
+    "inactive_provider_checks": 177,
+    "inactive_provider_closed": 1,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 40,
+    "closed_roles_removed": 38,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

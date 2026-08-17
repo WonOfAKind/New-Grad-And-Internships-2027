@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 12:01 PM EDT
+Last updated: August 17, 2026 at 12:47 PM EDT
 
-Current roles in this view: 27
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -36,7 +36,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Amazon | 2027 Amazon Leadership Accelerator (ALA) Product Manager Internship | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship>) |
 | American Express | Product Management Intern | New York, NY | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916>) |
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041243-product-manager-intern->) |
-| Appian | Product Manager Intern | McLean, Virginia | $8,666/month | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8041243>) |
-| 🔥 Databricks | Product Management Intern (Summer 2027) | Bellevue, Washington; Mountain View, California; San Francisco, California | $54 - $56/hr USD | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6883068002>) |
-| Oracle | OH Product Manager Intern - OVIP | Kansas City, MO, United States; United States | $19.09 - $36.35 per hour | 2027 internship eligible | Posted May 19, 2026<br>First seen Aug 17, 2026 | [Apply](<https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348>) |
+| Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8041243>) |
+| Oracle | Product Manager Intern - OVIP | Kansas City, MO | $19.09 - $36.35 per hour | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348>) |
+| Dedalus Labs | Systems Engineer / Product Manager Intern | San Francisco, CA | $5,000 - $10,000 | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern>) |
+| 🔥 Databricks | Product Management Intern | San Francisco, CA; Mountain View, CA; Bellevue, WA | $54 - $56/hr USD | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6883068002>) |
 
