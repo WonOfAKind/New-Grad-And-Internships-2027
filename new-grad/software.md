@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 5:41 PM EDT
+Last updated: August 17, 2026 at 6:01 PM EDT
 
 Current roles in this view: 270
 
@@ -90,6 +90,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freedom Technology Solutions Group | Junior Software Engineer 744 | Annapolis Junction, MD | $110,000-$155,000 | Early career | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007>) |
 | IXL Learning | Software Engineer, New Grad | Raleigh, NC | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663379002>) |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8662881002>) |
+| Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343>) |
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
 | Boeing | Associate Software Systems Engineer | USA - Tinker AFB, OK | $87,550 - $118,450 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 10, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Associate-Software-Systems-Engineer_JR2026514489-1>) |
@@ -140,7 +141,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | Peraton | Cloud Software Engineer Jr. - TS/SCI w/Poly | MD | $86,000 - $138,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/cloud-software-engineer-jr-ts-sci-w-poly-annapolis-junction-maryland-165899-jobs--information-technology-->) |
-| Samsara | Software Engineer I - New Grad | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343>) |
 | TransMarket Group | Junior Algorithmic Trader | Chicago, IL | - | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007>) |
 | TikTok | AI Effects Workflow Software Engineer Graduate (TikTok-Agentic Creation-Effect House) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669905277419948293>) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668824169648097541>) |

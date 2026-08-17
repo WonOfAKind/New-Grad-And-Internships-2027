@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 5:41 PM EDT
+Last updated: August 17, 2026 at 6:01 PM EDT
 
-Current roles in this view: 24
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Amentum | Junior RF Engineering Technician | Dahlgren, Virginia, US | - | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-rf-engineering-technician-dahlgren-virginia-united-states>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | $125,000.00 - $160,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706884002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | $135,000.00 - $175,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8703552002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |

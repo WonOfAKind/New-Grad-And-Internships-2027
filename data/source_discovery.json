@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-17T21:41:59.987Z",
+  "updated_at": "2026-08-17T22:01:28.292Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1897,9 +1897,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T21:41:59.987Z"
     },
     "home depot technology": {
@@ -1922,9 +1922,9 @@
         "limit": 20,
         "verified_open_jobs": 1028
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T21:41:59.987Z"
     },
     "lowe's technology": {
@@ -3359,9 +3359,9 @@
         "limit": 20,
         "verified_open_jobs": 68
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T21:41:59.987Z"
     },
     "recursion": {
@@ -3859,9 +3859,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
       "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T20:44:41.951Z"
     },
     "l3harris": {
@@ -4519,9 +4519,9 @@
         "limit": 20,
         "verified_open_jobs": 721
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-17T21:41:59.987Z"
     },
     "honeywell": {
@@ -5153,9 +5153,10 @@
         "limit": 20,
         "verified_open_jobs": 1142
       },
-      "last_scan_at": "2026-08-17T21:41:59.987Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-17T22:01:28.292Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-17T22:01:28.292Z"
     },
     "abbott": {
       "company": "Abbott",
