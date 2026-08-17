@@ -1,198 +1,95 @@
 {
-  "scanned_at": "2026-08-17T13:55:46.227Z",
+  "scanned_at": "2026-08-17T14:46:11.900Z",
   "fresh_leads": [
     {
-      "role_id": "4d8d9911a5fe0ea34eb06cf7",
-      "company_id": "polaris",
-      "company": "Polaris",
+      "role_id": "f05faf2d8a7ca6c89a1c6967",
+      "company_id": "ciena",
+      "company": "Ciena",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Engineering Intern - Summer 2027",
-      "location": "Wyoming, MN, USA",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
-      "compensation": "$24.00 - $32.00 per hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718",
-      "source": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-17",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "polaris|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-17T13:55:15.810Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "b319184a8cf139c51fbc45bb",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "location": "USA - Oklahoma City, OK",
+      "title": "Software Engineer New Grad - Security",
+      "location": "Atlanta, GA",
       "role_type": "New Grad",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$66,300 - $89,700",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-07",
-      "expires_at": "2026-08-31",
-      "updated_at": "Posted 10 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "069ca1eb618f89de83e895ec",
-      "company_id": "black-and-veatch",
-      "company": "Black & Veatch",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Engineer - Electrical, Industrial Manufacturing",
-      "location": "Ann Arbor, MI, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [
-        "manufacturing",
-        "hardware-electronics"
-      ],
-      "compensation": "$91,047 - $152,053",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033",
-      "source": "https://careers.bv.com/",
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
+      "source": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
       "posted_at": "2026-08-12",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "black & veatch|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
+      "source_id": "ciena|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-17T14:45:13.377Z",
+      "verification_version": 6,
+      "priority": "P0"
     },
     {
-      "role_id": "d9ffccbb9d17a3d3b7601a73",
-      "company_id": "black-and-veatch",
-      "company": "Black & Veatch",
+      "role_id": "409612de7a6851c37adab081",
+      "company_id": "comcast",
+      "company": "Comcast",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Associate Electrical Engineer - Power System Studies",
-      "location": "Overland Park, KS, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
-      "source": "https://careers.bv.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-05",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "black & veatch|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "3a71bc6ae70cd34d188fc30e",
-      "company_id": "black-and-veatch",
-      "company": "Black & Veatch",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Electrical Engineer - Substation",
-      "location": "Walnut Creek, CA, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$95,186- $179,699",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://careers.bv.com/job/Burlington-Associate-Electrical-Engineer-Substation-MA-01803/1394206433",
-      "source": "https://careers.bv.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-09",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "black & veatch|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "92142576ef36307fd38bffb7",
-      "company_id": "black-and-veatch",
-      "company": "Black & Veatch",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Overhead Transmission Line Engineer",
-      "location": "Greenwood Village, CO, US",
+      "title": "Sales Engineer 1, Comcast Business",
+      "location": "MD - Silver Spring, 11800 Tech Rd; MD - Millersville, 231 Najoles Rd Ste 250; MD - Baltimore, 8031 Corporate Dr",
       "role_type": "New Grad",
       "discipline": "Other Engineering",
       "disciplines": [
         "other-engineering"
       ],
       "specialties": [],
-      "compensation": "$91,047-152,053",
+      "compensation": "$62,100.00 - $93,150.00",
       "grad_window": "Verified early career (BS)",
-      "url": "https://careers.bv.com/job/Burlington-Associate-Overhead-Transmission-Line-Engineer-MA-01803/1380518033",
-      "source": "https://careers.bv.com/",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MD---Silver-Spring-11800-Tech-Rd/Sales-Engineer-1--Comcast-Business_R442976",
+      "source": "https://jobs.comcast.com/search-jobs",
       "date_seen": "2026-08-17",
       "last_seen": "2026-08-17",
-      "posted_at": "2026-07-26",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-08-25",
+      "updated_at": "Posted Today",
+      "source_id": "comcast|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "82621b67a2c3e85651597bb5",
+      "company_id": "curtiss-wright",
+      "company": "Curtiss-Wright",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Engineer - Quality and Calibration",
+      "location": "US-NY-Lansing (ST-800)",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$70,000-$75,000",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
+      "date_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "posted_at": "",
       "expires_at": "",
-      "updated_at": "",
-      "source_id": "black & veatch|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "curtiss-wright|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -205,6 +102,12 @@
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
       "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303/apply",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -235,6 +138,24 @@
       "company": "BlueHalo",
       "title": "Electrical Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Black & Veatch",
+      "title": "Associate Engineer - Electrical, Industrial Manufacturing",
+      "url": "https://careers.bv.com/job/Overland-Park-Associate-Engineer-Electrical%2C-Industrial-Manufacturing-KS-66062/1426221033",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Black & Veatch",
+      "title": "Associate Electrical Engineer - Substation",
+      "url": "https://careers.bv.com/job/Burlington-Associate-Electrical-Engineer-Substation-MA-01803/1394206433",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Black & Veatch",
+      "title": "Associate Electrical Engineer - Power System Studies",
+      "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Studies-TX-77001/1424101633",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -271,12 +192,6 @@
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Protection",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -328,12 +243,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Hyundai",
-      "title": "NVH Engineer I",
-      "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "2027 Graduate - Radar Engineering/Analyst/Physics",
       "url": "https://careers.jhuapl.edu/jobs/59251",
@@ -370,12 +279,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Junior Engineering Technician",
-      "url": "https://www.amentumcareers.com/jobs/junior-engineering-technician-dahlgren-virginia-united-states-91325338-74a0-4172-a2f2-8c6dd95fd6e5",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "DuPont",
       "title": "Administrative Specialist- Early Career & Engineering Programs",
       "url": "https://careers.dupont.com/tw/zh/job/249865W/Administrative-Specialist-Early-Career-Engineering-Programs",
@@ -400,10 +303,28 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Black & Veatch",
+      "title": "Associate Overhead Transmission Line Engineer",
+      "url": "https://careers.bv.com/job/Burlington-Associate-Overhead-Transmission-Line-Engineer-MA-01803/1380518033",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
       "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Impact",
+      "title": "Associate Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Valkyrie Trading",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "reason": "no longer matches board eligibility policy"
     }
   ],
   "scan_log": [
@@ -434,7 +355,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 857,
+      "matches": 856,
       "phase": "fast-pass"
     },
     {
@@ -484,7 +405,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 967,
+      "matches": 971,
       "phase": "fast-pass"
     },
     {
@@ -811,16 +732,8 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Leidos workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Leidos",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -829,7 +742,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 297,
+      "matches": 298,
       "phase": "fast-pass"
     },
     {
@@ -941,7 +854,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 10,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -951,7 +864,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 67,
+      "matches": 68,
       "phase": "fast-pass"
     },
     {
@@ -961,24 +874,18 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 197,
+      "matches": 194,
       "phase": "fast-pass"
     },
     {
       "company": "Lockheed Martin",
       "adapter": "sitemap_jobs",
       "source_kind": "configured",
-      "status": "error",
-      "error": "fetch failed",
+      "source_id": "lockheed martin|sitemap_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Lockheed Martin",
-      "adapter": "sitemap_jobs",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "fetch failed",
-      "phase": "double-check"
     },
     {
       "company": "Woodward",
@@ -987,7 +894,7 @@
       "source_id": "woodward|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -1087,7 +994,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 93,
+      "matches": 83,
       "phase": "fast-pass"
     },
     {
@@ -1333,7 +1240,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1410,11 +1317,17 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1523,7 +1436,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 128,
+      "matches": 133,
       "phase": "fast-pass"
     },
     {
@@ -2411,7 +2324,7 @@
       "source_id": "comcast|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -2514,17 +2427,11 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2550,35 +2457,21 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "kla|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "double-check"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
+      "phase": "fast-pass"
     },
     {
       "company": "Abbott",
@@ -2624,17 +2517,11 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "curtiss-wright|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "ABB",
@@ -2643,7 +2530,7 @@
       "source_id": "abb|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -2653,7 +2540,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -2670,19 +2557,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "goodyear|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2746,38 +2625,38 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-17T13:55:46.227Z",
-    "elapsed_ms": 377030,
+    "scanned_at": "2026-08-17T14:46:11.900Z",
+    "elapsed_ms": 376801,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 228,
     "discovered_sources_active": 152,
     "discovered_companies_active": 152,
-    "companies_with_active_sources": 216,
+    "companies_with_active_sources": 219,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4612,
-      "official_candidates": 1625,
-      "cached_verifications": 464,
+      "rows_parsed": 4613,
+      "official_candidates": 1627,
+      "cached_verifications": 470,
       "reverify_hours": 24,
-      "verification_attempts": 1161,
-      "verification_successes": 293,
+      "verification_attempts": 1157,
+      "verification_successes": 291,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1545,
-        "untracked discipline": 733,
+        "untracked discipline": 731,
         "graduate-degree-only role": 97,
-        "excluded recruiting year": 162,
+        "excluded recruiting year": 160,
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 413,
-        "verification: official page has an excluded recruiting year": 98,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 411,
+        "verification: official page has an excluded recruiting year": 99,
         "verification: 404 Not Found": 13,
         "verification: official posting closed: official page does not identify the requisition": 32,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
-        "verification: official posting closed: provider requisition is no longer listed": 100,
+        "verification: official posting closed: provider requisition is no longer listed": 99,
         "verification: 405 Not Allowed": 31,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: 404 Not Found": 25,
@@ -2792,8 +2671,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 6,
-    "discovery_new_sources_this_scan": 6,
+    "discovery_attempts_this_scan": 2,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2803,31 +2682,30 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 10,
+    "double_check_attempts": 4,
     "unique_sources_attempted": 228,
-    "total_fetch_attempts": 238,
-    "ok_sources": 216,
-    "error_sources": 11,
+    "total_fetch_attempts": 232,
+    "ok_sources": 219,
+    "error_sources": 8,
     "blocked_sources": 1,
-    "ats_ok_sources": 71,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 93.4,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 7,
-      "Network Error": 1,
-      "Request Timeout": 3
+      "Request Timeout": 4,
+      "429 Too Many Requests": 4
     },
-    "board_eligible_candidates": 1028,
-    "provider_candidate_checks": 193,
-    "provider_candidate_closed": 0,
+    "board_eligible_candidates": 1036,
+    "provider_candidate_checks": 196,
+    "provider_candidate_closed": 2,
     "provider_candidate_unavailable": 0,
     "closure_checks": 210,
-    "inactive_provider_checks": 157,
-    "inactive_provider_closed": 0,
+    "inactive_provider_checks": 152,
+    "inactive_provider_closed": 2,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 34,
+    "closed_roles_removed": 38,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

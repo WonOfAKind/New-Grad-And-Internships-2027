@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 9:55 AM EDT
+Last updated: August 17, 2026 at 10:46 AM EDT
 
 Current roles in this view: 266
 
@@ -92,7 +92,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
-| Impact | Associate Software Engineer Intern | Santa Barbara, CA | $80,000.00 - $90,000.00 base salary | Internship | Posted Aug 8, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/impact/jobs/8645964002>) |
+| Impact | Associate Software Engineer Intern | Santa Barbara, CA | - | Internship | Posted Aug 8, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/impact/jobs/8645964002>) |
 | The Nuclear Company | Software Engineering Intern - Product - Platform | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152>) |
 | 🔥 Anduril | Software Engineer Intern | Seattle, WA | $40 - $55/hr USD | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148079007>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 9:55 AM EDT
+Last updated: August 17, 2026 at 10:46 AM EDT
 
 Current roles in this view: 277
 
@@ -75,11 +75,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BlueHalo | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | BlueHalo | Software Engineer I-2 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-2_8367>) |
 | BlueHalo | Software Engineer I-3 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-3_8368>) |
+| Ciena | Software Engineer (Security) - New Grad | Atlanta, GA | - | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R030880>) |
 | Comcast | Junior C++ Software Engineer - New York Hybrid - FreeWheel | NY - New York, 1407 Broadway Floor 12 | $106,304.37 - $159,456.55 | Early career | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Junior-C---Software-Engineer---New-York-Hybrid---FreeWheel_R442391>) |
 | Cox Automotive | Entry Level Software Engineer | Carmel, IN | - | Early career | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859>) |
 | DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | $135,000 - $150,000 USD | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719126005>) |
 | 🔥 Google | Software Engineer, Early Career, Campus | United States | $123,000 - $174,000 USD | Early career | Posted Aug 10, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus>) |
-| RTX | Software Engineer I (Onsite) | cedar rapids, Iowa, United States of America | - | Early career | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303/apply>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
 | Belvedere Trading | Quantitative Trader - Entry Level | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee>) |
 | Belvedere Trading | Software Engineer - Entry Level | Chicago, IL | - | Early career | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f>) |
@@ -142,7 +142,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Cox Enterprises | Entry Level Software Engineer | Atlanta, GA | - | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer | United States-Florida-Melbourne | $65,800 - $98,800 | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561>) |
-| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
+| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | Peraton | Cloud Software Engineer Jr. - TS/SCI w/Poly | MD | $86,000 - $138,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/cloud-software-engineer-jr-ts-sci-w-poly-annapolis-junction-maryland-165899-jobs--information-technology-->) |
 | TransMarket Group | Junior Algorithmic Trader | Chicago, IL | - | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151575007>) |
