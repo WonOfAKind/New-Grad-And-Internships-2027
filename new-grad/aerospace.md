@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 3:00 PM EDT
+Last updated: August 17, 2026 at 3:42 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -36,6 +36,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
+| Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
 | Peraton | Junior Software Test Engineer (Flight Safety Systems) | VA | $86,000 - $138,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-software-test-engineer-flight-safety-systems-fort-belvoir-virginia-167525-jobs--quality-assurance-->) |

@@ -2,7 +2,7 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 3:00 PM EDT
+Last updated: August 17, 2026 at 3:42 PM EDT
 
 Current roles: 581
 
@@ -11,13 +11,13 @@ Choose a category below. Cross-disciplinary roles can appear in more than one ca
 | Category | Roles |
 |---|---:|
 | [Software Engineering](internships/software.md) | 292 |
-| [AI / Machine Learning](internships/ai-ml.md) | 94 |
-| [Data Science & Analytics](internships/data.md) | 31 |
+| [AI / Machine Learning](internships/ai-ml.md) | 92 |
+| [Data Science & Analytics](internships/data.md) | 28 |
 | [Product Management](internships/product-management.md) | 28 |
 | [Hardware & Electrical Engineering](internships/hardware-electrical.md) | 54 |
-| [Mechanical Engineering](internships/mechanical.md) | 49 |
-| [Aerospace Engineering](internships/aerospace.md) | 27 |
-| [Manufacturing & Industrial Engineering](internships/manufacturing-industrial.md) | 44 |
+| [Mechanical Engineering](internships/mechanical.md) | 48 |
+| [Aerospace Engineering](internships/aerospace.md) | 25 |
+| [Manufacturing & Industrial Engineering](internships/manufacturing-industrial.md) | 42 |
 | [Technical Writing](internships/technical-writing.md) | 0 |
 | [Other Engineering](internships/other-engineering.md) | 42 |
 

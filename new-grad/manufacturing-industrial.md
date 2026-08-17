@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 3:00 PM EDT
+Last updated: August 17, 2026 at 3:42 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development - Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | GlobalFoundries | Manufacturing Operations Engineer (2027 New College Graduate) | USA - New York - Malta | $58,400.00 - $100,800.00 | 2027 grad eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Operations-Engineer--2027-New-College-Graduate-_JR-2604695>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
