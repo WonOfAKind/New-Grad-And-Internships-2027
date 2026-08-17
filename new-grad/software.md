@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 11:41 AM EDT
+Last updated: August 17, 2026 at 12:01 PM EDT
 
-Current roles in this view: 276
+Current roles in this view: 273
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -73,9 +73,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Recommendation - TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672517471946000645>) |
 | TikTok | Software Engineer Graduate (Recommendation Architecture, Feeds Infrastructure) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672530785573980421>) |
 | TikTok | Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7670282906426476853>) |
-| BlueHalo | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
-| BlueHalo | Software Engineer I-2 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-2_8367>) |
-| BlueHalo | Software Engineer I-3 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-3_8368>) |
 | Comcast | Junior C++ Software Engineer - New York Hybrid - FreeWheel | NY - New York, 1407 Broadway Floor 12 | $106,304.37 - $159,456.55 | Early career | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Junior-C---Software-Engineer---New-York-Hybrid---FreeWheel_R442391>) |
 | Cox Automotive | Entry Level Software Engineer | Carmel, IN | - | Early career | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859>) |
 | DV Trading | 2027 Graduate Software Engineer (DV Commodities) | New York, NY | $135,000 - $150,000 USD | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/dvtrading/jobs/4719126005>) |

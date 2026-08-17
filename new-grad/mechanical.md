@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 11:41 AM EDT
+Last updated: August 17, 2026 at 12:01 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 48
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BlueHalo | Mechanical Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Mechanical-Engineer-I_8404-1>) |
 | 🔥 GE Aerospace | Mechanical Design Engineer – Next Generation Products | Evendale, Ohio, United States of America | - | Early career | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5036131-1/apply>) |
 | Leidos | Junior Mechanical Engineer - TS/SCI Polygraph Required | Reston, VA | $69,550.00 - $125,725.00 | Early career | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Junior-Mechanical-Engineer---TS-SCI-Polygraph-Required_R-00189651>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26073>) |
@@ -47,6 +48,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Whirlpool | Associate Product Development Engineer - KitchenAid | St Joseph, MI, US | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<http://jobs.whirlpool.com/careers/job/34403304336-associate-product-development-engineer-kitchenaid-st-joseph-michigan-usa>) |
 | 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
+| Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Black &amp; Veatch | Associate Mechanical Engineer - Industrial Buildings and Utility Systems | Atlanta, GA, US | - | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Engineer-Industrial-Buildings-and-Utility-Systems-KS-66062/1378645133>) |
 | Bechtel | Mechanical Engineer | United States; Phoenix, Arizona, United States | - | Explicit new grad role | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS296085EXTERNALENUS/Mechanical-Engineer>) |
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |

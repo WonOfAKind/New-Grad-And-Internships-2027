@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 11:41 AM EDT
+Last updated: August 17, 2026 at 12:01 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BlueHalo | Mechanical Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Mechanical-Engineer-I_8404-1>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 Boeing | F-15 Mission Systems Software Engineer (Associate, Experienced, &amp; Senior) | USA - Berkeley, MO | $99,450.00 - $134,550.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780-1>) |
 | 🔥 GE Aerospace | Mechanical Design Engineer – Next Generation Products | Evendale, Ohio, United States of America | - | Early career | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Mechanical-Design-Engineer---Next-Generation-Products_R5036131-1/apply>) |
@@ -35,6 +36,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
 | Sierra Space | Propulsion Engineer I | Madison, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Propulsion-Engineer-I_R25657-1>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
+| Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
 | Peraton | Junior Software Test Engineer (Flight Safety Systems) | VA | $86,000 - $138,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-software-test-engineer-flight-safety-systems-fort-belvoir-virginia-167525-jobs--quality-assurance-->) |

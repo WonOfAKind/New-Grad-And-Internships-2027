@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 11:41 AM EDT
+Last updated: August 17, 2026 at 12:01 PM EDT
 
-Current roles in this view: 56
+Current roles in this view: 54
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -37,7 +37,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Varda Space | Avionics Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00/hr | 2027 internship eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824780003>) |
 | ByteDance | ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://joinbytedance.com/search/7670332179383699717>) |
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | $1,000 - $2,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 14, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2>) |
-| HPR (Hyannis Port Research) | FPGA Engineer Intern | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003>) |
 | Rainmaker | Electrical Engineering Intern - Fall | El Segundo, CA | - | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b>) |
 | Draper | Embedded Quality &amp; Fielded Systems Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718>) |
 | BAE Systems | Electrical Engineering Coop (Summer/Fall 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301763&partnerid=25771&siteid=5403>) |
@@ -56,7 +55,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Akuna Capital | Hardware Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823945101>) |
 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
-| Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
 | Huntsman | Electrical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027>) |

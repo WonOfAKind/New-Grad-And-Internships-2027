@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 11:41 AM EDT
+Last updated: August 17, 2026 at 12:01 PM EDT
 
-Current roles in this view: 37
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,7 +21,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
 | AMAROK Security | Technical Sales Engineer Intern | South Carolina, Columbia | $15/hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/amarok/jobs/6141167004>) |
+| Neuralink | Biomedical Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7872639003>) |
 | Olsson | Civil Engineering Internship - Rail Public Projects | Utah - Remote | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5389567008>) |
+| Jabil | Engineering Co-op | West Chester, PA | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Engineering-Co-op_J2460765>) |
 | Vertiv | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722>) |
 | Vertiv | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278720>) |
 | Curtiss-Wright | Project Engineering Intern | East Farmingdale, NY | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Project-Engineering-Intern_JR13137-1>) |
@@ -41,9 +43,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Stantec | Transportation Engineering Co-op/Intern (Spring 2027) | New York, NY, United States; Portland, OR, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007071>) |
 | RTX | Internship Engineering (m/f/d) | Bw, DE | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601>) |
 | PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
+| Jane Street | Linux Engineer Internship, New York :: Jane Street | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8626260002>) |
+| Jane Street | Windows Engineer Internship, New York :: Jane Street | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8628843002>) |
+| Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
 | Magna | Intern - Systems Engineering | Southfield, Michigan, US | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437>) |
+| Dedalus Labs | Systems Engineer Summer 2027 Intern | San Francisco, California, US | $5,000 - $10,000 | 2027 internship eligible | Posted Jun 28, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern>) |
 | Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
 | Mariana Minerals | Chemical Engineering Intern | Moab, UT | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a>) |
 | ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
