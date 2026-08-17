@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 12:47 PM EDT
+Last updated: August 17, 2026 at 1:09 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -22,6 +22,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Neuralink | Biomedical Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7872639003>) |
 | Neuralink | Digital IC Design Engineer Intern | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
 | Polaris | Engineering Intern - Summer 2027 | Wyoming, MN | $24.00 - $32.00 per hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718>) |
+| Workiva | Spring 2027 Intern - Finance Systems | USA - Remote | $22.00 - $22.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Finance-Systems_R12202>) |
 | AMAROK Security | Technical Sales Engineer Intern | South Carolina, Columbia | $15/hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/amarok/jobs/6141167004>) |
 | Olsson | Civil Engineering Internship - Rail Public Projects | Utah - Remote | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5389567008>) |
 | Jabil | Engineering Co-op | West Chester, PA | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Engineering-Co-op_J2460765>) |
