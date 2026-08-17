@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 4:01 PM EDT
+Last updated: August 17, 2026 at 4:44 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; South Milwaukee, Wisconsin; Green Valley, Arizona; Fort Worth, Texas; San Antonio, Texas; Lafayette, Indiana; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 13, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR110512>) |
 | HNTB | Co-op Engineer: Structures - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_University_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875>) |
 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 13, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533>) |
@@ -36,6 +35,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51>) |
 | Moog | Intern, Product Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
+| TikTok | LLM Post-training Engineer Intern - Research &amp; Product - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285031018432773>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |
 | HNTB | Returning Intern Engineer - NED Summer 2027 (For Current/Former HNTB Interns Only) | Boston, MA | $26.34 - $39.50/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Boston-MA/Returning-Intern-Engineer---NED-Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31039-1>) |
@@ -46,7 +46,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Jane Street | Linux Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8626260002>) |
 | Jane Street | Windows Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8628843002>) |
 | PDT Partners | Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
-| Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
 | Magna | Intern - Systems Engineering | Southfield, Michigan, US | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437>) |
