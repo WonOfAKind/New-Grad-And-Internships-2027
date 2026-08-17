@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 17, 2026 at 6:01 PM EDT
+Last updated: August 17, 2026 at 6:43 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -36,6 +36,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron | New College Grad - Diffusion Process Engineer | Manassas, VA, US | - | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/43273032-new-college-grad-diffusion-process-engineer-manassas-virginia-united-states-of-america>) |
 | Spirit AeroSystems | Spirit Defense - Associate Quality Engineer | Wichita, Kansas, United States | $71,100- $109,000 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/16979>) |
 | 🔥 Lockheed Martin | Associate Quality Engineer - Chelmsford, MA | Chelmsford, Massachusetts | $54,900 - $96,830 | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/chelmsford/associate-quality-engineer-chelmsford-ma/694/95644273456>) |
+| BlueHalo | Industrial Engineer I, Continuous Improvement | Simi Valley, CA | $62,741 - $95,680 | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Industrial-Engineer-I--Continuous-Improvement_6620>) |
 | Spirit AeroSystems | Quality Engineer (Associate, Mid-Level, or Senior) | Wichita, Kansas, United States | $71,100- $109,000 | Verified early career (BS) | Posted Jul 15, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17105>) |
 | Micron | New College Grad - Photolithography Process Engineer | Boise, ID, US | - | Early career | Posted Jul 13, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/41923169-new-college-grad-photolithography-process-engineer-boise-idaho-united-states-of-america>) |
 | Abbott | Quality Engineer I | United States - Minnesota - St. Paul | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/Quality-Engineer-I_31154797-1>) |
