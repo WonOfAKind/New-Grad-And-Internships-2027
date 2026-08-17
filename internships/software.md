@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 10:46 AM EDT
+Last updated: August 17, 2026 at 11:06 AM EDT
 
-Current roles in this view: 266
+Current roles in this view: 267
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | ByteDance | Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://joinbytedance.com/search/7668315137242351925>) |
 | TikTok | Data Engineer Intern (Data Platform Global Live) 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674032146438162693>) |

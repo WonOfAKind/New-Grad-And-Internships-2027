@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 17, 2026 at 10:46 AM EDT
+Last updated: August 17, 2026 at 11:06 AM EDT
 
-Current roles in this view: 25
+Current roles in this view: 26
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Datadog | Product Management Intern \| Datadog Careers | New York, New York, USA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
 | TikTok | Product Manager Intern (Content and Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673337777708550405>) |
 | TikTok | Product Manager Intern (Scaled Growth) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673559305519794437>) |
 | American Express | Product Management Intern - Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
