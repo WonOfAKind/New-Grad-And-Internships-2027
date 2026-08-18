@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-18T21:03:25.296Z",
+  "updated_at": "2026-08-18T21:41:33.846Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T20:43:08.386Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T20:43:08.386Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 445
       },
-      "last_scan_at": "2026-08-18T20:43:08.386Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T20:43:08.386Z"
     },
     "palo alto networks": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1426
       },
-      "last_scan_at": "2026-08-18T20:43:08.386Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T20:43:08.386Z"
     },
     "wiz": {
@@ -3417,9 +3417,9 @@
         "limit": 20,
         "verified_open_jobs": 71
       },
-      "last_scan_at": "2026-08-18T14:01:27.941Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T14:01:27.941Z"
     },
     "recursion": {
@@ -3917,9 +3917,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "l3harris": {
@@ -5024,9 +5024,9 @@
         "limit": 20,
         "verified_open_jobs": 295
       },
-      "last_scan_at": "2026-08-18T03:55:28.491Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T03:55:28.491Z"
     },
     "kratos defense": {
@@ -5149,9 +5149,9 @@
         "limit": 20,
         "verified_open_jobs": 414
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "parker hannifin": {
@@ -5265,9 +5265,9 @@
         "limit": 20,
         "verified_open_jobs": 981
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "johnson & johnson": {
@@ -5299,9 +5299,9 @@
         "limit": 20,
         "verified_open_jobs": 1145
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "abbott": {
@@ -5376,7 +5376,7 @@
     },
     "black & veatch": {
       "company": "Black & Veatch",
-      "checked_at": "2026-08-11T21:26:59.781Z",
+      "checked_at": "2026-08-18T21:35:35.527Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5393,10 +5393,10 @@
         "robotsUrl": "https://careers.bv.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-11T21:31:44.804Z",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-11T21:31:44.804Z"
+      "last_verified_at": "2026-08-18T21:41:33.846Z"
     },
     "corning": {
       "company": "Corning",
@@ -5835,9 +5835,9 @@
         "limit": 20,
         "verified_open_jobs": 307
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T21:41:33.846Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "chevron": {
