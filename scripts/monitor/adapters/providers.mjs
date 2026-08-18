@@ -16,6 +16,7 @@ import {
   isRelevant,
   mapConcurrent,
   normalize,
+  normalizeDisplayText,
   normalizePostingDate,
   priorityFor,
   searchTextsFor,
@@ -97,7 +98,7 @@ ${listContent}`);
 }
 
 export function stripHtml(html = "") {
-  return normalize(html.replace(/<script[\s\S]*?<\/script>/gi, " ")
+  return normalizeDisplayText(html.replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<[^>]+>/g, " "));
 }

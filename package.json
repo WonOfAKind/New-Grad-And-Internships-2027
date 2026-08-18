@@ -8,6 +8,7 @@
     "generate": "node scripts/generate_boards.mjs",
     "notify": "node scripts/dispatch_notifications.mjs",
     "discover": "node scripts/discover_company_sources.mjs",
+    "check:links": "node scripts/check_company_links.mjs",
     "check": "node scripts/check_monitor_modules.mjs",
     "check:functions": "npx -y deno@2.9.5 check --config supabase/deno.json supabase/functions/subscription-api/index.ts supabase/functions/ingest-roles/index.ts supabase/functions/resend-webhook/index.ts",
     "test": "node scripts/monitor/self-test.mjs",

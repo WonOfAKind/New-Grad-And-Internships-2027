@@ -29,6 +29,16 @@ export function normalizeDisplayText(value) {
     .replace(/&quot;/gi, "\"")
     .replace(/&#x27;|&#39;/gi, "'")
     .replace(/&nbsp;|&#160;/gi, " ")
+    // Workday and other ATS payloads often HTML-encode qualification
+    // operators (for example, "2&#43; years"). Decode numeric entities before
+    // eligibility checks so required experience and degree text cannot hide
+    // behind provider-specific encoding.
+    .replace(/&#(?:x([0-9a-f]+)|(\d+));?/gi, (entity, hex, decimal) => {
+      const codePoint = Number.parseInt(hex ?? decimal, hex ? 16 : 10);
+      if (!Number.isFinite(codePoint) || codePoint < 0 || codePoint > 0x10ffff
+        || (codePoint >= 0xd800 && codePoint <= 0xdfff)) return entity;
+      return String.fromCodePoint(codePoint);
+    })
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -277,15 +287,24 @@ export function hasExcludedDegreeProgram(title) {
 }
 
 const bachelorDegreeToken = String.raw`(?:bachelor(?:'s|\s+of\s+(?:science|arts|engineering))?(?:\s+degree)?|baccalaureate(?:\s+degree)?|B\.?\s?(?:S|A|E)\.?(?:\s+degree)?)`;
-const graduateDegreeToken = String.raw`(?:master(?:'s|\s+of\s+(?:science|arts|engineering|business\s+administration))?(?:\s+degree)?|M\.?\s?(?:S|A|E|B\.?\s?A)\.?(?:\s+degree)?|Ph\.?\s?D\.?(?:\s+degree)?|doctorate|doctoral\s+degree)`;
+const graduateDegreeToken = String.raw`(?:master(?:'s|s|\s+of\s+(?:science|arts|engineering|business\s+administration))?(?:\s+degree)?|M\.?\s?(?:S|A|E|B\.?\s?A)\.?(?:\s+degree)?|Ph\.?\s?D\.?(?:\s+degree)?|doctorate|doctoral\s+degree|graduate\s+degree|advanced\s+degree)`;
 const experienceNumberToken = String.raw`(?:\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)`;
 
-function qualificationRequirementText(value) {
-  const text = normalize(value).replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
+export function qualificationRequirementText(value) {
+  const text = normalizeDisplayText(value).replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
   if (!text) return "";
-  const headingPattern = /\b(?:Minimum\s+(?:Qualifications?|Requirements?)|Required\s+(?:Qualifications?|Requirements?)|Basic\s+(?:Qualifications?|Requirements?)|Job\s+Requirements?|Requirements?|Education)\b/g;
-  const stops = /\b(?:Preferred\s+(?:Qualifications?|Requirements?|Skills?)|Desired\s+(?:Qualifications?|Requirements?|Skills?)|Recent\s+Graduate\s+Hiring\s+Range|Experienced\s+Hiring\s+Range|Disclaimer)\b/;
-  const starts = [...text.matchAll(headingPattern)].map((match) => match.index).filter((index) => index !== undefined);
+  const strongHeadingPattern = /\b(?:Minimum\s+(?:Qualifications?|Requirements?)|Required\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Basic\s+(?:Qualifications?|Requirements?)|Job\s+Requirements?|What\s+You(?:'ll|\s+Will)\s+Bring|What\s+We(?:'re|\s+Are)\s+Looking\s+For|Who\s+You\s+Are|You\s+(?:Have|Bring))\b/gi;
+  const genericHeadingPattern = /\b(?:Qualifications?|Requirements?|Education)\b/gi;
+  const stops = /\b(?:Preferred\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Desired\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Nice\s+to\s+Have|Recent\s+Graduate\s+Hiring\s+Range|Experienced\s+Hiring\s+Range|Disclaimer)\b/i;
+  const strongStarts = [...text.matchAll(strongHeadingPattern)].map((match) => match.index).filter((index) => index !== undefined);
+  // Once a page exposes an explicit required/minimum/basic section, do not
+  // append every later generic occurrence of words such as "education" or
+  // "requirements." Those commonly appear in benefits/legal copy and can
+  // make an unrelated bachelor's mention look like an alternative to a
+  // required master's or Ph.D.
+  const starts = strongStarts.length > 0
+    ? strongStarts
+    : [...text.matchAll(genericHeadingPattern)].map((match) => match.index).filter((index) => index !== undefined);
   if (starts.length === 0) return text;
   return starts.map((start) => {
     const window = text.slice(start, start + 2400);
@@ -301,16 +320,21 @@ function requiredExperienceYears(value) {
   ]);
   const toYears = (value) => Number(value) || yearsByNumber.get(String(value).toLowerCase()) || 0;
   const beforeExperience = new RegExp(
-    `\\b(${experienceNumberToken})(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?(?:['\\u2019])?\\s+(?:of\\s+)?(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
+    `\\b(${experienceNumberToken})(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+(?:years?|yrs?)(?:['\\u2019])?(?:\\s+of)?\\s+(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
     "gi",
   );
   const afterExperience = new RegExp(
-    `\\bexperience\\b(?:\\s+(?:with|in|using|developing|working|related|of|as|and|or|\\([^)]{0,80})){0,8}[^.;:]{0,100}?\\(?(${experienceNumberToken})(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?))?\\s+years?`,
+    `\\bexperience\\b(?:\\s+(?:with|in|using|developing|working|related|of|as|and|or|minimum|at\\s+least|\\([^)]{0,80})){0,8}[^.;:]{0,100}?\\(?(${experienceNumberToken})(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?))?\\s+(?:years?|yrs?)`,
+    "gi",
+  );
+  const minimumYears = new RegExp(
+    `\\b(?:minimum(?:\\s+of)?|at\\s+least|requires?|required)\\s+(${experienceNumberToken})(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?))?\\s+(?:years?|yrs?)\\b`,
     "gi",
   );
   return [
     ...[...value.matchAll(beforeExperience)].map((match) => toYears(match[1])),
     ...[...value.matchAll(afterExperience)].map((match) => toYears(match[1])),
+    ...[...value.matchAll(minimumYears)].map((match) => toYears(match[1])),
   ];
 }
 
@@ -325,13 +349,14 @@ export function hasIneligibleBachelorNewGradRequirements(text = "") {
   if (!requirements) return false;
 
   const requiredYears = requiredExperienceYears(requirements);
-  // A bachelor's new-grad role may allow zero or one year of experience, but
-  // a required minimum of two years (including "2-4" and "2+") is no longer
-  // accessible to a typical graduating senior.
-  if (requiredYears.some((years) => years >= 2)) return true;
+  // This board targets students entering their first post-bachelor role. Keep
+  // experience in preferred sections, but reject any stated minimum. A
+  // required year can exclude a graduating senior even when the employer
+  // labels the requisition "associate" or "early career."
+  if (requiredYears.some((years) => years >= 1)) return true;
 
   const preferencePattern = new RegExp(
-    `(?:${graduateDegreeToken})[^.;]{0,100}\\b(?:preferred|desired|a\\s+plus|advantage|not\\s+required)\\b|\\b(?:preferred|desired|preference|a\\s+plus)\\b[^.;]{0,100}(?:${graduateDegreeToken})`,
+    `(?:${graduateDegreeToken})\\s*(?:is\\s+)?(?:preferred|desired|a\\s+plus|an\\s+advantage|not\\s+required)\\b|\\b(?:preferred|desired)\\b(?:\\s+qualifications?)?\\s*[:\\-]?\\s*(?:an?\\s+)?(?:${graduateDegreeToken})`,
     "gi",
   );
   const requiredDegreeText = requirements.replace(preferencePattern, " ");
@@ -358,15 +383,23 @@ export function hasIneligibleBachelorNewGradRequirements(text = "") {
     || bachelorExtensiveExperience.test(requiredDegreeText);
 }
 
+function withoutPriorInternEligibilityNote(title) {
+  return normalize(title).replace(
+    /\bfor\s+(?:current\s*\/\s*former|former\s*\/\s*current|current\s+(?:or|and)\s+former|former\s+(?:or|and)\s+current)\s+(?:[a-z&/-]+\s+){0,3}interns?\s+only\b/gi,
+    "prior program participants only",
+  );
+}
+
 export function graduationMatch(title, text = "") {
-  const haystack = `${title}\n${text}`;
-  if (internshipPatterns.some((pattern) => pattern.test(title)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
+  const classificationTitle = withoutPriorInternEligibilityNote(title);
+  const haystack = `${classificationTitle}\n${text}`;
+  if (internshipPatterns.some((pattern) => pattern.test(classificationTitle)) && internshipEligiblePatterns.some((pattern) => pattern.test(haystack))) return "2027 internship eligible";
   if (targetGradPatterns.some((pattern) => pattern.test(haystack))) return "2027 grad eligible";
   if (newGrad2027StartPatterns.some((pattern) => pattern.test(haystack))) return "Summer 2027 start";
   if (explicitNewGradPatterns.some((pattern) => pattern.test(haystack))) return "Explicit new grad role";
   if (hasVerifiedEntryLevelEvidence(title, text)) return "Verified early career (BS)";
   if (earlyCareerPatterns.some((pattern) => pattern.test(haystack))) return "Early career";
-  if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
+  if (internshipPatterns.some((pattern) => pattern.test(classificationTitle))) return "Internship";
   return "";
 }
 
@@ -381,13 +414,14 @@ export function hasOnlyExcludedGraduationWindow(title, text = "") {
 }
 
 export function roleType(title, text = "") {
-  const haystack = `${title}\n${text}`;
+  const classificationTitle = withoutPriorInternEligibilityNote(title);
+  const haystack = `${classificationTitle}\n${text}`;
   // Explicit internship wording in the official title is authoritative and
   // must win over new-graduate language in a description or stale cache.
-  if (internshipPatterns.some((pattern) => pattern.test(title))) return "Internship";
+  if (internshipPatterns.some((pattern) => pattern.test(classificationTitle))) return "Internship";
   if (/\b(?:employment\s+type|job\s+type)\b.{0,60}\b(?:intern|internships?|co[-\s]?ops?)\b/i.test(text)) return "Internship";
-  if (/\b2027\b/i.test(title)) return "New Grad";
-  if (hasVerifiedEntryLevelEvidence(title, text)) return "New Grad";
+  if (/\b2027\b/i.test(classificationTitle)) return "New Grad";
+  if (hasVerifiedEntryLevelEvidence(classificationTitle, text)) return "New Grad";
   if (fullTimeNewGradPatterns.some((pattern) => pattern.test(haystack))) return "New Grad";
   return "";
 }
@@ -412,7 +446,7 @@ export function hasVerifiedEntryLevelEvidence(title, text = "") {
   if (!titleIsExplicitlyJunior && !earlyCareerPatterns.some((pattern) => pattern.test(text))) return false;
   if (!/\b(?:bachelor'?s?|undergraduate|undergrad|B\.?\s?S\.?)\b/i.test(text)) return false;
   const requiredText = normalize(text).split(/\bpreferred\s+qualifications?\b/i)[0];
-  return !requiredExperienceYears(requiredText).some((years) => years >= 2);
+  return !requiredExperienceYears(requiredText).some((years) => years >= 1);
 }
 
 export function isEligibleRole(title, text = "") {

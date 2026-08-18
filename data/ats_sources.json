@@ -795,7 +795,6 @@
     "sitemapJobUrlPatterns": [
       "/job/?$"
     ],
-    "allowSitemapTitleFallback": true,
     "titleCaseSitemapFallback": true,
     "requireUnitedStates": true,
     "detailLimit": 140,
@@ -813,7 +812,6 @@
     "sitemapJobUrlPatterns": [
       "/job/?$"
     ],
-    "allowSitemapTitleFallback": true,
     "titleCaseSitemapFallback": true,
     "requireUnitedStates": true,
     "detailLimit": 180,
@@ -833,6 +831,134 @@
     "requireUnitedStates": true,
     "detailLimit": 120,
     "detailConcurrency": 3,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Kimley-Horn",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers-kimley-horn.icims.com/sitemap.xml"
+    ],
+    "sitemapJobUrlPatterns": [
+      "/jobs/\\d+/[^/]+/job/?$"
+    ],
+    "userAgent": "Mozilla/5.0",
+    "detailUrlSuffix": "?in_iframe=1",
+    "requireUnitedStates": true,
+    "detailLimit": 220,
+    "detailConcurrency": 2,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 180000,
+    "priority": "P1"
+  },
+  {
+    "company": "Stantec",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://stantec.jobs/sitemap.xml"
+    ],
+    "sitemapJobUrlPatterns": [
+      "/job/?$"
+    ],
+    "titleCaseSitemapFallback": true,
+    "requireUnitedStates": true,
+    "detailLimit": 180,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Arup",
+    "adapter": "html_jobs",
+    "urls": [
+      "https://jobs.arup.com/latest-jobs"
+    ],
+    "relativeJobBase": "https://jobs.arup.com/",
+    "detailUrlPatterns": [
+      "/jobs/[^/?#]+-\\d+$"
+    ],
+    "detailLimit": 100,
+    "detailConcurrency": 5,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Parsons",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://jobs.parsons.com/sitemap.xml"
+    ],
+    "requireUnitedStates": true,
+    "detailLimit": 180,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Kiewit",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://kiewitcareers.kiewit.com/sitemap.xml"
+    ],
+    "requireUnitedStates": true,
+    "detailLimit": 180,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "HNTB",
+    "adapter": "workday",
+    "tenant": "hntb",
+    "host": "hntb.wd5.myworkdayjobs.com",
+    "site": "HNTB_Careers",
+    "searchTexts": [
+      "2027",
+      "new grad",
+      "entry level",
+      "engineer I",
+      "intern",
+      "civil engineer",
+      "structural engineer",
+      "transportation",
+      "aviation"
+    ],
+    "limit": 20,
+    "maxPages": 10,
+    "detailLimit": 160,
+    "detailConcurrency": 2,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Thornton Tomasetti",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers.thorntontomasetti.com/us/en/sitemap.xml"
+    ],
+    "requireUnitedStates": true,
+    "detailLimit": 140,
+    "detailConcurrency": 6,
+    "timeoutMs": 30000,
+    "scanDeadlineMs": 120000,
+    "priority": "P1"
+  },
+  {
+    "company": "Terracon",
+    "adapter": "sitemap_jobs",
+    "sitemaps": [
+      "https://careers.terracon.com/sitemap.xml"
+    ],
+    "requireUnitedStates": true,
+    "detailLimit": 180,
+    "detailConcurrency": 6,
     "timeoutMs": 30000,
     "scanDeadlineMs": 120000,
     "priority": "P1"

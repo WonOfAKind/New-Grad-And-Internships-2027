@@ -8,6 +8,7 @@ import {
   isAllowedLocation,
   isExpiredDate,
   isFreshEnough,
+  isEligibleRole,
   keyFor,
   mapConcurrent,
   normalize,
@@ -16,6 +17,7 @@ import {
 
 import {
   closedPageReason,
+  matchingJobPostingEvidence,
   officialPageRejection,
 } from "./official_page.mjs";
 
@@ -61,10 +63,21 @@ export async function probeRoleClosure(role, comparedAt) {
     });
     const html = [401, 403, 429].includes(response.status) ? "" : await response.text();
     const reason = closedPageReason(response.status, html, comparedAt)
-      || (role.source_adapter === "discovery_feed" && response.ok
+      || ((role.source_adapter === "discovery_feed" || response.redirected) && response.ok
         ? officialPageRejection(url, response.url, html, roleTitle(role), comparedAt)
         : "");
-    return { closed: Boolean(reason), checked: true, reason };
+    if (reason) return { closed: true, checked: true, reason };
+    if (response.ok && role.role_type === "New Grad") {
+      const evidence = matchingJobPostingEvidence(html, roleTitle(role));
+      if (evidence && !isEligibleRole(evidence.title || roleTitle(role), evidence.context)) {
+        return {
+          closed: true,
+          checked: true,
+          reason: "official qualifications do not match the bachelor's new-grad policy",
+        };
+      }
+    }
+    return { closed: false, checked: true, reason: "" };
   } catch (error) {
     return { closed: false, checked: false, reason: error.message };
   } finally {
@@ -87,9 +100,17 @@ function successfulSourceMap(scanResults) {
   return sources;
 }
 
-export async function reconcileRoleLifecycle(existing, currentCandidates, scanResults, scannedAt, confirmedClosedUrls = []) {
+export async function reconcileRoleLifecycle(
+  existing,
+  currentCandidates,
+  scanResults,
+  scannedAt,
+  confirmedClosedUrls = [],
+  confirmedPolicyRejectedUrls = [],
+) {
   const activeKeys = new Set(currentCandidates.map((lead) => keyFor(lead.company, roleTitle(lead), lead.location, applyUrl(lead))));
   const confirmedClosed = new Set(confirmedClosedUrls.map((url) => applyUrl({ url })));
+  const confirmedPolicyRejected = new Set(confirmedPolicyRejectedUrls.map((url) => applyUrl({ url })));
   const successfulSources = successfulSourceMap(scanResults);
   const sourcesByCompany = new Map();
   for (const source of successfulSources.values()) {
@@ -108,6 +129,10 @@ export async function reconcileRoleLifecycle(existing, currentCandidates, scanRe
     }
     if (confirmedClosed.has(applyUrl(role))) {
       removed.push({ role, reason: "official verification confirmed closure" });
+      continue;
+    }
+    if (confirmedPolicyRejected.has(applyUrl(role))) {
+      removed.push({ role, reason: "official qualifications do not match the bachelor's new-grad policy" });
       continue;
     }
     const key = keyFor(role.company, roleTitle(role), role.location, applyUrl(role));

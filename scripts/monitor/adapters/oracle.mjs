@@ -10,6 +10,7 @@ import {
   isRelevant,
   mapConcurrent,
   normalize,
+  normalizeDisplayText,
   normalizePostingDate,
   priorityFor,
   searchTextsFor,
@@ -21,12 +22,10 @@ import { sourceForCompany } from "./context.mjs";
 const searchExpand = "requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields";
 
 function stripHtml(value = "") {
-  return normalize(String(value)
+  return normalizeDisplayText(String(value)
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;|&#160;/gi, " ")
-    .replace(/&amp;/gi, "&"));
+    .replace(/<[^>]+>/g, " "));
 }
 
 function oracleBaseUrl(source) {

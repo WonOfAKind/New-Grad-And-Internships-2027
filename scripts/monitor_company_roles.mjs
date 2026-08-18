@@ -17,6 +17,7 @@ import {
   applyUrl,
   isAllowedLocation,
   isExpiredDate,
+  isEligibleRole,
   isFreshEnough,
   keyFor,
   mapConcurrent,
@@ -136,6 +137,16 @@ const providerCandidateChecks = await mapConcurrent(
         discoveryFeedTimeoutMs,
         providerVerificationCache,
       );
+      const officialTitle = roleTitle({ title: verifiedJob?.title ?? roleTitle(lead) });
+      const officialContext = `${verifiedJob?.location ?? lead.location ?? ""}\n${verifiedJob?.description ?? ""}\n${verifiedJob?.url ?? applyUrl(lead)}`;
+      if (!isEligibleRole(officialTitle, officialContext)) {
+        return {
+          lead,
+          original_url: applyUrl(lead),
+          status: "ineligible",
+          error: "official qualifications do not match the bachelor's new-grad policy",
+        };
+      }
       return {
         lead: verifiedJob?.url ? { ...lead, direct_apply_url: verifiedJob.url } : lead,
         original_url: applyUrl(lead),
@@ -177,7 +188,16 @@ const inactiveProviderChecks = await mapConcurrent(
   discoveryFeedConcurrency,
   async (role) => {
     try {
-      await verifyKnownProvider(role, runtimeSources, discoveryFeedTimeoutMs, providerVerificationCache);
+      const verifiedJob = await verifyKnownProvider(role, runtimeSources, discoveryFeedTimeoutMs, providerVerificationCache);
+      const officialTitle = roleTitle({ title: verifiedJob?.title ?? roleTitle(role) });
+      const officialContext = `${verifiedJob?.location ?? role.location ?? ""}\n${verifiedJob?.description ?? ""}\n${verifiedJob?.url ?? applyUrl(role)}`;
+      if (role.role_type === "New Grad" && !isEligibleRole(officialTitle, officialContext)) {
+        return {
+          role,
+          status: "ineligible",
+          error: "official qualifications do not match the bachelor's new-grad policy",
+        };
+      }
       return { role, status: "active", error: "" };
     } catch (error) {
       return {
@@ -191,6 +211,10 @@ const inactiveProviderChecks = await mapConcurrent(
 const inactiveProviderClosedUrls = inactiveProviderChecks
   .filter((check) => check.status === "closed")
   .map((check) => applyUrl(check.role));
+const policyRejectedProviderUrls = [
+  ...providerCandidateChecks.filter((check) => check.status === "ineligible").map((check) => applyUrl(check.lead)),
+  ...inactiveProviderChecks.filter((check) => check.status === "ineligible").map((check) => applyUrl(check.role)),
+];
 const providerUnavailableUrls = new Set([
   ...providerCandidateChecks.filter((check) => check.status === "unavailable").map((check) => applyUrl(check.lead)),
   ...inactiveProviderChecks.filter((check) => check.status === "unavailable").map((check) => applyUrl(check.role)),
@@ -201,6 +225,7 @@ const lifecycle = await reconcileRoleLifecycle(
   [...atsScan, ...feedScan.scan_results],
   scannedAt,
   [...feedScan.confirmed_closed_urls, ...closedProviderCandidateUrls, ...inactiveProviderClosedUrls],
+  policyRejectedProviderUrls,
 );
 const allFreshLeads = dedupeLeads(existingLeads, boardEligibleCandidates);
 const freshLeads = capByCompany(allFreshLeads, maxNewPerCompany);
@@ -258,10 +283,12 @@ const coverage = {
   board_eligible_candidates: boardEligibleCandidates.length,
   provider_candidate_checks: providerCandidateChecks.length,
   provider_candidate_closed: closedProviderCandidateUrls.length,
+  provider_candidate_ineligible: providerCandidateChecks.filter((check) => check.status === "ineligible").length,
   provider_candidate_unavailable: providerCandidateChecks.filter((check) => check.status === "unavailable").length,
   closure_checks: lifecycle.closure_checks,
   inactive_provider_checks: inactiveProviderChecks.length,
   inactive_provider_closed: inactiveProviderClosedUrls.length,
+  inactive_provider_ineligible: inactiveProviderChecks.filter((check) => check.status === "ineligible").length,
   inactive_provider_unavailable: inactiveProviderChecks.filter((check) => check.status === "unavailable").length,
   closed_roles_removed: lifecycle.removed.filter((entry) => entry.reason !== "expired").length,
   expired_roles_removed: lifecycle.removed.filter((entry) => entry.reason === "expired").length,

@@ -18,6 +18,7 @@ import {
   normalizeCompanyName,
   normalizeDisplayText,
   normalizeRoleTitle,
+  roleType,
   stableJobIdentity,
 } from "./domain.mjs";
 import {
@@ -53,6 +54,7 @@ import {
   toPublicRole,
 } from "./output.mjs";
 import { closedPageReason, reconcileRoleLifecycle } from "./lifecycle.mjs";
+import { matchingJobPostingEvidence } from "./official_page.mjs";
 import {
   detectAtsSource,
   detectAtsSources,
@@ -131,6 +133,7 @@ export async function runSelfTests() {
   assertEqual(normalizePostingDate("Jul 18, 2026"), "2026-07-18", "named calendar date is timezone invariant");
   assertEqual(normalizePostingDate("7/18/2026"), "2026-07-18", "numeric calendar date is timezone invariant");
   assertEqual(normalizePostingDate("2026-08-04T01:05:33"), "2026-08-04", "timezone-less ISO posting date keeps its calendar day");
+  assertEqual(normalizeDisplayText("Requires 2&#43; years and a Ph&#46;D&#46;"), "Requires 2+ years and a Ph.D.", "numeric HTML entities decode before eligibility checks");
   assertEqual(
     extractCompensation("Graduate Software Engineer", "The salary for this role is $200,000."),
     "$200,000",
@@ -194,6 +197,24 @@ export async function runSelfTests() {
     "graduate-degree-only minimum qualification rejected",
   );
   assertEqual(
+    isEligibleRole(
+      "Associate Staff Quantum Engineer",
+      "Required Qualifications: Master's degree in Physics. Laboratory experience and communication skills. Preferred Qualifications: Optics experience. Education benefits are available to employees with a bachelor's degree.",
+    ),
+    false,
+    "a later preferred heading does not turn a required master's degree into a preference",
+  );
+  assertEqual(
+    isEligibleRole("Research Engineer, Early Career", "Required qualifications: An advanced degree in robotics or a related field."),
+    false,
+    "generic advanced-degree requirement rejected",
+  );
+  assertEqual(
+    isEligibleRole("Research Engineer, Early Career", "Education: Doctorate in mechanical engineering required."),
+    false,
+    "doctorate-only requirement rejected",
+  );
+  assertEqual(
     isEligibleRole("Software Engineer, New Grad", "Requirements: M.S. in Computer Science, or B.S. with 3 years of experience."),
     false,
     "experienced bachelor's substitute is not a new-grad bachelor's path",
@@ -235,6 +256,30 @@ export async function runSelfTests() {
   );
   assertEqual(isEligibleRole("Software Engineer, Early Career", ""), true, "explicit early-career title accepted");
   assertEqual(
+    isEligibleRole(
+      "Software Engineer (Associate, Experienced or Senior)",
+      "Basic Qualifications (Required Skills/ Experience): Bachelor's degree. 2&#43; years of experience developing software.",
+    ),
+    false,
+    "HTML-encoded required experience is rejected",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Associate Mechanical Engineer",
+      "what you'll bring: Bachelor's degree and at least one year of professional engineering experience.",
+    ),
+    false,
+    "lowercase alternative qualification headings and one-year minimum are rejected",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Associate Electrical Engineer",
+      "Qualifications: Bachelor's degree. Preferred experience: two years of circuit design.",
+    ),
+    true,
+    "experience stated only as preferred remains eligible",
+  );
+  assertEqual(
     isEligibleRole("Mechanical Design Engineer", "Full time\nEarly Career\nEngineering / Technology"),
     true,
     "structured early-career level from an official feed is accepted",
@@ -245,6 +290,11 @@ export async function runSelfTests() {
     "generic early-career marketing copy is not treated as role-level evidence",
   );
   assertEqual(isEligibleRole("Entry-Level Software Engineer", ""), true, "explicit entry-level title accepted");
+  assertEqual(
+    isEligibleRole("Civil Engineering Analyst", "Kimley-Horn is looking for Engineering graduates to join our office in 2027. Qualifications: Bachelor's degree by Summer 2027."),
+    true,
+    "2027 civil engineering analyst role is in scope",
+  );
   assertEqual(isEligibleRole("Junior Mechanical Engineer", ""), true, "junior physical-engineering title accepted");
   assertEqual(
     isEligibleRole(
@@ -292,6 +342,11 @@ export async function runSelfTests() {
   assertEqual(isEligibleRole("Graduate Software Engineer", ""), true, "explicit graduate title accepted");
   assertEqual(isEligibleRole("Quantitative Trader - 2027", ""), true, "2027 title accepted");
   assertEqual(isEligibleRole("Software Engineer - 2027 Interns", ""), true, "plural interns are classified as an internship");
+  assertEqual(
+    roleType("New Grad Field Engineer I - Summer 2027 (For Current/Former HNTB Interns ONLY)", ""),
+    "New Grad",
+    "prior-intern eligibility note does not turn a new-grad job into an internship",
+  );
   assertEqual(isEligibleRole("Flight Test Intern (Dec 2026-Feb 2027)", ""), true, "internships spanning into 2027 are retained");
   assertEqual(isEligibleRole("Assistant Mechanical Engineer", ""), true, "consulting assistant-engineer grade is treated as entry level");
   assertEqual(isRelevant("FPGA Engineer Intern"), true, "hardware internship title coverage");
@@ -795,6 +850,11 @@ export async function runSelfTests() {
   assertEqual(softwareNewGradBoard.includes("Software Engineer Intern"), false, "category board excludes other role type");
   assertEqual(closedPageReason(200, "This job is no longer available", "2026-07-13"), "explicit closed-page message", "closed page message");
   assertEqual(closedPageReason(200, '<script>{"validThrough":"2026-07-01"}</script>', "2026-07-13"), "expired on 2026-07-01", "expired structured posting");
+  const policyEvidence = matchingJobPostingEvidence(
+    '<script type="application/ld+json">{"@type":"JobPosting","title":"Software Engineer, New Grad","description":"Basic Qualifications: Bachelor&#39;s degree and 2&#43; years of experience."}</script>',
+    "Software Engineer, New Grad",
+  );
+  assertTruthy(policyEvidence?.context.includes("2&#43; years"), "structured job requirements are available to lifecycle policy checks");
   const lifecycleRole = {
     company: "Example",
     title: "Software Engineer, New Grad",
@@ -824,6 +884,15 @@ export async function runSelfTests() {
     [lifecycleRole.url],
   );
   assertEqual(feedClosedLifecycle.roles.length, 0, "confirmed feed closure removes cached role");
+  const policyRejectedLifecycle = await reconcileRoleLifecycle(
+    [lifecycleRole],
+    [],
+    [],
+    "2026-07-13T12:00:00Z",
+    [],
+    [lifecycleRole.url],
+  );
+  assertEqual(policyRejectedLifecycle.roles.length, 0, "confirmed bachelor's-policy rejection removes cached role");
   const failedLifecycle = await reconcileRoleLifecycle(
     [lifecycleRole],
     [],

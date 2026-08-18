@@ -78,6 +78,11 @@ export const defaultSearchTexts = [
   "hardware engineer",
   "product manager",
   "product management intern",
+  "civil engineer",
+  "transportation engineer",
+  "environmental engineer",
+  "geotechnical engineer",
+  "water resources engineer",
   "quantitative",
 ];
 
@@ -97,6 +102,7 @@ export const titleRolePatterns = [
   /applied\s+scientist/i,
   /technical\s+(?:writer|writing|communications?|content)|documentation\s+(?:engineer|specialist|writer|developer)|developer\s+(?:documentation|education|content)|api\s+(?:writer|documentation)|information\s+developer|docs?\s+engineer|content\s+(?:developer|designer)\b/i,
   /mechanical\s+(?:design\s+)?engineer|manufacturing\s+engineer|hardware\s+engineer|test\s+(?:and\s+evaluation\s+)?engineer|validation\s+engineer|reliability\s+engineer|product\s+(?:design|development|review)\s+engineer|liaison\s+engineer|equipment\s+engineer|tooling\s+engineer|facilities\s+engineer|applications?\s+engineer|electromechanical|mechatronics|materials?\s+engineer|weld(?:ing)?\s+engineer|metallurg(?:y|ical)|process\s+engineer|quality\s+engineer|thermal\s+engineer|mechanisms?\s+engineer|machine\s+design|vehicle\s+dynamics|powertrain|chassis|hydraulics?|pneumatics?|HVAC|refrigeration|rotating\s+(?:equipment|machinery)|turbomachinery|combustion|acoustics?|vibration|finite\s+element|\bFEA\b|\bCFD\b|computer[-\s]+aided\s+engineering|\bCAE\b/i,
+  /civil\s+(?:design\s+)?engineer|civil\s+engineering\s+analyst|environmental\s+engineer|geotechnical\s+engineer|transportation\s+(?:design\s+)?engineer|traffic\s+engineer|water(?:\s+resources|\/wastewater|\s+and\s+wastewater)?\s+engineer|wastewater\s+engineer|hydraulic\s+engineer|land\s+development\s+engineer|construction\s+engineer|field\s+engineer|project\s+engineer|bridge\s+engineer|rail\s+engineer|survey(?:ing)?\s+engineer/i,
   /aerospace\s+engineer|aeronautical\s+engineer|avionics|propulsion|guidance|navigation|controls|\bGNC\b|flight\s+(?:systems|sciences?|controls|test|dynamics|mechanics|software)|space\s+systems|mission\s+(?:operations|systems|design|integration)|aerodynamics?|aeroelasticity|aerostructures?|airframe|aircraft\s+(?:systems?|design|structures?|integration|certification)|\bstructur(?:al|es?)\s+(?:analysis|design|engineer)|stress\s+(?:analysis|engineer)|loads\s+(?:and\s+dynamics|engineer)|spacecraft|airworthiness|payload\s+engineer|satellite|launch\s+vehicle|air\s+vehicle|astrodynamics|orbital\s+mechanics|aerothermal|mass\s+properties|survivability|rotorcraft|flightworthiness/i,
   /(?:(?:associate|technical)\s+)?product\s+manager|product\s+(?:management|mgmt)|\bAPM\b/i,
   /(?:software|platform|kubernetes|cloud)\s+infrastructure\s+engineer/i,
@@ -144,6 +150,7 @@ export const earlyCareerPatterns = [
 
 export const explicitNewGradPatterns = [
   /\bnew\s+grad(?:uate)?s?\b/i,
+  /\bengineering\s+grad(?:uate)?s?\b/i,
   /\buniversity\s+grad(?:uate)?s?\b/i,
   /\bnew\s+college\s+grad(?:uate)?s?\b/i,
   /\bcollege\s+grad(?:uate)?s?\b/i,
@@ -258,4 +265,7 @@ export const excludedGradWindowPatterns = [
 export const excludedDirectApplyUrls = new Set([
   "https://boards.greenhouse.io/spacex/jobs/8376990002?gh_jid=8376990002",
   "https://boards.greenhouse.io/spacex/jobs/8446263002?gh_jid=8446263002",
+  "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1",
+  "https://careers.ll.mit.edu/job/Lexington-98-Associate-Staff-Quantum-Science-and-Engineering-MA-02420/1393869100",
+  "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Straylight-Analysis-%28Optical-Engineering-Group%29-MA-02420/1409269700",
 ]);

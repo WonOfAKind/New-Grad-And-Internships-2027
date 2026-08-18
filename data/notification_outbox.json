@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-18T00:00:11.397Z",
-  "generated_at": "2026-08-18T00:00:11.397Z",
+  "scan_id": "2026-08-18T04:12:57.696Z",
+  "generated_at": "2026-08-18T04:12:57.696Z",
   "companies": [
     {
       "id": "adobe",
@@ -2089,25 +2089,6 @@
       ]
     },
     {
-      "id": "ansys",
-      "name": "Ansys",
-      "parent_id": null,
-      "featured": false,
-      "featured_disciplines": [],
-      "coverage_disciplines": [
-        "aerospace",
-        "mechanical"
-      ],
-      "groups": [],
-      "bucket": "Engineering Software",
-      "role_families": [
-        "Software",
-        "Data Science",
-        "Mechanical",
-        "Aerospace"
-      ]
-    },
-    {
       "id": "anyscale",
       "name": "Anyscale",
       "parent_id": null,
@@ -2231,6 +2212,29 @@
         "SWE",
         "Compiler",
         "Systems"
+      ]
+    },
+    {
+      "id": "arup",
+      "name": "Arup",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Transportation",
+        "Energy",
+        "Aviation"
       ]
     },
     {
@@ -2821,6 +2825,28 @@
       ]
     },
     {
+      "id": "carollo-engineers",
+      "name": "Carollo Engineers",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Water",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Wastewater",
+        "Mechanical",
+        "Electrical",
+        "Environmental",
+        "Infrastructure"
+      ]
+    },
+    {
       "id": "carrier",
       "name": "Carrier",
       "parent_id": null,
@@ -2853,6 +2879,29 @@
         "SWE",
         "ML",
         "Voice"
+      ]
+    },
+    {
+      "id": "cdm-smith",
+      "name": "CDM Smith",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Environmental",
+        "Transportation",
+        "Mechanical",
+        "Electrical",
+        "Energy",
+        "Construction"
       ]
     },
     {
@@ -3306,23 +3355,6 @@
       ]
     },
     {
-      "id": "covariant",
-      "name": "Covariant",
-      "parent_id": null,
-      "featured": false,
-      "featured_disciplines": [],
-      "coverage_disciplines": [
-        "mechanical"
-      ],
-      "groups": [],
-      "bucket": "Robotics/AI",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Robotics"
-      ]
-    },
-    {
       "id": "crowdstrike",
       "name": "CrowdStrike",
       "parent_id": null,
@@ -3468,6 +3500,29 @@
         "SWE",
         "ML",
         "Product"
+      ]
+    },
+    {
+      "id": "dewberry",
+      "name": "Dewberry",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Geospatial",
+        "Environmental"
       ]
     },
     {
@@ -4309,6 +4364,29 @@
       ]
     },
     {
+      "id": "hdr",
+      "name": "HDR",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Architecture",
+        "Energy"
+      ]
+    },
+    {
       "id": "hermeus",
       "name": "Hermeus",
       "parent_id": null,
@@ -4325,6 +4403,29 @@
         "Mechanical",
         "Software",
         "Propulsion"
+      ]
+    },
+    {
+      "id": "hntb",
+      "name": "HNTB",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Transportation",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Structural",
+        "Aviation",
+        "Rail",
+        "Water",
+        "Electrical",
+        "Mechanical"
       ]
     },
     {
@@ -4813,6 +4914,53 @@
       ]
     },
     {
+      "id": "kiewit",
+      "name": "Kiewit",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering/Construction/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Construction",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Industrial",
+        "Energy",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "kimley-horn",
+      "name": "Kimley-Horn",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Aviation",
+        "Mechanical",
+        "Electrical",
+        "Energy"
+      ]
+    },
+    {
       "id": "kla",
       "name": "KLA",
       "parent_id": null,
@@ -5181,6 +5329,29 @@
         "SWE",
         "Product",
         "Data"
+      ]
+    },
+    {
+      "id": "michael-baker-international",
+      "name": "Michael Baker International",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Aviation",
+        "Mechanical",
+        "Electrical",
+        "Infrastructure"
       ]
     },
     {
@@ -5747,6 +5918,30 @@
         "Manufacturing",
         "Product",
         "Quality"
+      ]
+    },
+    {
+      "id": "parsons",
+      "name": "Parsons",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering/Infrastructure/Defense",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Aerospace",
+        "Systems",
+        "Infrastructure"
       ]
     },
     {
@@ -7018,6 +7213,29 @@
       ]
     },
     {
+      "id": "stantec",
+      "name": "Stantec",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Environmental"
+      ]
+    },
+    {
       "id": "starburst",
       "name": "Starburst",
       "parent_id": null,
@@ -7135,6 +7353,25 @@
       ]
     },
     {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Software",
+      "role_families": [
+        "Software",
+        "Data Science",
+        "Mechanical",
+        "Aerospace"
+      ]
+    },
+    {
       "id": "tailscale",
       "name": "Tailscale",
       "parent_id": null,
@@ -7210,6 +7447,48 @@
       ]
     },
     {
+      "id": "terracon",
+      "name": "Terracon",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Geotechnical",
+      "role_families": [
+        "Civil",
+        "Geotechnical",
+        "Materials",
+        "Environmental",
+        "Construction",
+        "Facilities"
+      ]
+    },
+    {
+      "id": "tetra-tech",
+      "name": "Tetra Tech",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Environmental",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Environmental",
+        "Mechanical",
+        "Electrical",
+        "Energy",
+        "Infrastructure"
+      ]
+    },
+    {
       "id": "textron-aviation",
       "name": "Textron Aviation",
       "parent_id": null,
@@ -7272,6 +7551,26 @@
         "Manufacturing",
         "Quality",
         "Automation"
+      ]
+    },
+    {
+      "id": "thornton-tomasetti",
+      "name": "Thornton Tomasetti",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Structural/Building Engineering Consulting",
+      "role_families": [
+        "Structural",
+        "Mechanical",
+        "Applied Science",
+        "Forensics",
+        "Building Performance",
+        "Sustainability"
       ]
     },
     {
@@ -7888,6 +8187,29 @@
       ]
     },
     {
+      "id": "wsp",
+      "name": "WSP",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Energy"
+      ]
+    },
+    {
       "id": "xai",
       "name": "xAI",
       "parent_id": null,
@@ -8029,5 +8351,307 @@
       ]
     }
   ],
-  "roles": []
+  "roles": [
+    {
+      "role_id": "4666f4b3899e7fa9d3cb6a5a",
+      "company_id": "state-street",
+      "company": "State Street",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer, CRD- New Graduate",
+      "location": "Burlington Massachusetts",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$52,000 - $91,000",
+      "grad_window": "Explicit new grad role",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+      "source": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-12",
+      "expires_at": "2026-08-21",
+      "updated_at": "",
+      "source_id": "state street|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-18T04:11:37.698Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3116830e1432b364955f631b",
+      "company_id": "hntb",
+      "company": "HNTB",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only",
+      "location": "Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1",
+      "source": "https://hntb.jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-07-31",
+      "expires_at": "",
+      "updated_at": "Posted 18 Days Ago",
+      "source_id": "hntb|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "330c2411d1a4aff914af6482",
+      "company_id": "peraton",
+      "company": "Peraton",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior Systems Engineer, TS/SCI w/Poly",
+      "location": "MD",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace"
+      ],
+      "specialties": [],
+      "compensation": "$66,000 - $106,000",
+      "grad_window": "Early career",
+      "url": "https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology--",
+      "source": "https://www.careers.peraton.com/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-07-23",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "peraton|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "4c12494eeb99a9ef24ab46a3",
+      "company_id": "eaton",
+      "company": "Eaton",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "title": "Manufacturing Engineer (Entry Level)",
+      "location": "Minden, LA, US",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$71,000 - $105,000",
+      "grad_window": "Early career",
+      "url": "https://eaton.eightfold.ai/careers/job/687238472915",
+      "source": "https://jobs.eaton.com/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-12",
+      "expires_at": "2027-02-08",
+      "updated_at": "",
+      "source_id": "eaton|eightfold",
+      "source_adapter": "eightfold",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "4fb6e534199fee35c495fd72",
+      "company_id": "joby-aviation",
+      "company": "Joby Aviation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Design Engineer, Actuators (early career)",
+      "location": "Santa Cruz, CA, US",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "$97,600 - $131,000/yr",
+      "grad_window": "Early career",
+      "url": "https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job",
+      "source": "https://www.jobyaviation.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2024-08-18",
+      "expires_at": "2027-08-18",
+      "updated_at": "",
+      "source_id": "joby aviation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f390784fd6050e4d32089264",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+      "location": "USA - El Segundo, CA",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$98,600 - $133,400",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
+      "source": "https://jobs.boeing.com/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-05",
+      "expires_at": "2026-08-25",
+      "updated_at": "Posted 13 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "75a74442411e92f809f05c46",
+      "company_id": "aerovironment",
+      "company": "AeroVironment",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior Scene Generation Engineer",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "source": "https://www.avinc.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-06",
+      "expires_at": "",
+      "updated_at": "Posted 12 Days Ago",
+      "source_id": "aerovironment|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "21fac593559a321fb47b3386",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Product Development Program-Welding",
+      "location": "Mossville, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$89,210.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-18",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Today",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "a52028782d169a08dd83849a",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
+      "location": "Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$81,370.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-18",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Today",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ]
 }

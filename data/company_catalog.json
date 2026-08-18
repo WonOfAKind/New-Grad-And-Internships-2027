@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-08-18T00:00:11.397Z",
+  "generated_at": "2026-08-18T04:12:57.696Z",
   "featured_legend": "Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.",
   "companies": [
     {
@@ -2090,25 +2090,6 @@
       ]
     },
     {
-      "id": "ansys",
-      "name": "Ansys",
-      "parent_id": null,
-      "featured": false,
-      "featured_disciplines": [],
-      "coverage_disciplines": [
-        "aerospace",
-        "mechanical"
-      ],
-      "groups": [],
-      "bucket": "Engineering Software",
-      "role_families": [
-        "Software",
-        "Data Science",
-        "Mechanical",
-        "Aerospace"
-      ]
-    },
-    {
       "id": "anyscale",
       "name": "Anyscale",
       "parent_id": null,
@@ -2232,6 +2213,29 @@
         "SWE",
         "Compiler",
         "Systems"
+      ]
+    },
+    {
+      "id": "arup",
+      "name": "Arup",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Transportation",
+        "Energy",
+        "Aviation"
       ]
     },
     {
@@ -2822,6 +2826,28 @@
       ]
     },
     {
+      "id": "carollo-engineers",
+      "name": "Carollo Engineers",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Water",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Wastewater",
+        "Mechanical",
+        "Electrical",
+        "Environmental",
+        "Infrastructure"
+      ]
+    },
+    {
       "id": "carrier",
       "name": "Carrier",
       "parent_id": null,
@@ -2854,6 +2880,29 @@
         "SWE",
         "ML",
         "Voice"
+      ]
+    },
+    {
+      "id": "cdm-smith",
+      "name": "CDM Smith",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Environmental",
+        "Transportation",
+        "Mechanical",
+        "Electrical",
+        "Energy",
+        "Construction"
       ]
     },
     {
@@ -3307,23 +3356,6 @@
       ]
     },
     {
-      "id": "covariant",
-      "name": "Covariant",
-      "parent_id": null,
-      "featured": false,
-      "featured_disciplines": [],
-      "coverage_disciplines": [
-        "mechanical"
-      ],
-      "groups": [],
-      "bucket": "Robotics/AI",
-      "role_families": [
-        "SWE",
-        "ML",
-        "Robotics"
-      ]
-    },
-    {
       "id": "crowdstrike",
       "name": "CrowdStrike",
       "parent_id": null,
@@ -3469,6 +3501,29 @@
         "SWE",
         "ML",
         "Product"
+      ]
+    },
+    {
+      "id": "dewberry",
+      "name": "Dewberry",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Geospatial",
+        "Environmental"
       ]
     },
     {
@@ -4310,6 +4365,29 @@
       ]
     },
     {
+      "id": "hdr",
+      "name": "HDR",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Architecture",
+        "Energy"
+      ]
+    },
+    {
       "id": "hermeus",
       "name": "Hermeus",
       "parent_id": null,
@@ -4326,6 +4404,29 @@
         "Mechanical",
         "Software",
         "Propulsion"
+      ]
+    },
+    {
+      "id": "hntb",
+      "name": "HNTB",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Transportation",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Structural",
+        "Aviation",
+        "Rail",
+        "Water",
+        "Electrical",
+        "Mechanical"
       ]
     },
     {
@@ -4814,6 +4915,53 @@
       ]
     },
     {
+      "id": "kiewit",
+      "name": "Kiewit",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "manufacturing-industrial",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering/Construction/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Construction",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Industrial",
+        "Energy",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "kimley-horn",
+      "name": "Kimley-Horn",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Aviation",
+        "Mechanical",
+        "Electrical",
+        "Energy"
+      ]
+    },
+    {
       "id": "kla",
       "name": "KLA",
       "parent_id": null,
@@ -5182,6 +5330,29 @@
         "SWE",
         "Product",
         "Data"
+      ]
+    },
+    {
+      "id": "michael-baker-international",
+      "name": "Michael Baker International",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Aviation",
+        "Mechanical",
+        "Electrical",
+        "Infrastructure"
       ]
     },
     {
@@ -5748,6 +5919,30 @@
         "Manufacturing",
         "Product",
         "Quality"
+      ]
+    },
+    {
+      "id": "parsons",
+      "name": "Parsons",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering/Infrastructure/Defense",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Aerospace",
+        "Systems",
+        "Infrastructure"
       ]
     },
     {
@@ -7019,6 +7214,29 @@
       ]
     },
     {
+      "id": "stantec",
+      "name": "Stantec",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Environmental"
+      ]
+    },
+    {
       "id": "starburst",
       "name": "Starburst",
       "parent_id": null,
@@ -7136,6 +7354,25 @@
       ]
     },
     {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "aerospace",
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Software",
+      "role_families": [
+        "Software",
+        "Data Science",
+        "Mechanical",
+        "Aerospace"
+      ]
+    },
+    {
       "id": "tailscale",
       "name": "Tailscale",
       "parent_id": null,
@@ -7211,6 +7448,48 @@
       ]
     },
     {
+      "id": "terracon",
+      "name": "Terracon",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Geotechnical",
+      "role_families": [
+        "Civil",
+        "Geotechnical",
+        "Materials",
+        "Environmental",
+        "Construction",
+        "Facilities"
+      ]
+    },
+    {
+      "id": "tetra-tech",
+      "name": "Tetra Tech",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Environmental",
+      "role_families": [
+        "Civil",
+        "Water",
+        "Environmental",
+        "Mechanical",
+        "Electrical",
+        "Energy",
+        "Infrastructure"
+      ]
+    },
+    {
       "id": "textron-aviation",
       "name": "Textron Aviation",
       "parent_id": null,
@@ -7273,6 +7552,26 @@
         "Manufacturing",
         "Quality",
         "Automation"
+      ]
+    },
+    {
+      "id": "thornton-tomasetti",
+      "name": "Thornton Tomasetti",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical"
+      ],
+      "groups": [],
+      "bucket": "Structural/Building Engineering Consulting",
+      "role_families": [
+        "Structural",
+        "Mechanical",
+        "Applied Science",
+        "Forensics",
+        "Building Performance",
+        "Sustainability"
       ]
     },
     {
@@ -7886,6 +8185,29 @@
         "SWE",
         "ML",
         "Computer Vision"
+      ]
+    },
+    {
+      "id": "wsp",
+      "name": "WSP",
+      "parent_id": null,
+      "featured": false,
+      "featured_disciplines": [],
+      "coverage_disciplines": [
+        "mechanical",
+        "hardware-electrical"
+      ],
+      "groups": [],
+      "bucket": "Engineering Consulting/Infrastructure",
+      "role_families": [
+        "Civil",
+        "Transportation",
+        "Water",
+        "Structural",
+        "Mechanical",
+        "Electrical",
+        "Buildings",
+        "Energy"
       ]
     },
     {

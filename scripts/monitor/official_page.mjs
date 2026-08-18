@@ -35,16 +35,58 @@ export function closedPageReason(status, html, comparedAt = new Date().toISOStri
   return "";
 }
 
-function collectJobPostingTitles(value, titles = []) {
-  if (!value || typeof value !== "object") return titles;
+function collectJobPostings(value, postings = []) {
+  if (!value || typeof value !== "object") return postings;
   const type = Array.isArray(value["@type"]) ? value["@type"].join(" ") : normalize(value["@type"]);
-  if (/\bJobPosting\b/i.test(type) && normalize(value.title)) titles.push(normalizeRoleTitle(value.title));
+  if (/\bJobPosting\b/i.test(type) && normalize(value.title)) postings.push(value);
   if (Array.isArray(value)) {
-    for (const item of value) collectJobPostingTitles(item, titles);
+    for (const item of value) collectJobPostings(item, postings);
   } else {
-    for (const item of Object.values(value)) collectJobPostingTitles(item, titles);
+    for (const item of Object.values(value)) collectJobPostings(item, postings);
   }
-  return titles;
+  return postings;
+}
+
+function structuredValueText(value) {
+  if (typeof value === "string" || typeof value === "number") return String(value);
+  if (Array.isArray(value)) return value.map(structuredValueText).filter(Boolean).join(" ");
+  if (!value || typeof value !== "object") return "";
+  return Object.entries(value)
+    .filter(([key]) => !key.startsWith("@"))
+    .map(([, item]) => structuredValueText(item))
+    .filter(Boolean)
+    .join(" ");
+}
+
+function jobPostingsFromHtml(html) {
+  const postings = [];
+  for (const match of String(html ?? "").matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      collectJobPostings(JSON.parse(match[1].trim()), postings);
+    } catch {
+      // Ignore malformed or unrelated structured-data snippets.
+    }
+  }
+  return postings;
+}
+
+export function matchingJobPostingEvidence(html, expectedTitle) {
+  const postings = jobPostingsFromHtml(html);
+  const posting = postings.find((item) => titlesLikelySame(expectedTitle, normalizeRoleTitle(item.title)))
+    ?? (postings.length === 1 ? postings[0] : null);
+  if (!posting) return null;
+  const fields = [
+    posting.description,
+    posting.qualifications,
+    posting.experienceRequirements,
+    posting.educationRequirements,
+    posting.skills,
+    posting.responsibilities,
+  ];
+  return {
+    title: normalizeRoleTitle(posting.title),
+    context: fields.map(structuredValueText).filter(Boolean).join("\n"),
+  };
 }
 
 function metaContent(html, name) {
@@ -55,14 +97,7 @@ function metaContent(html, name) {
 }
 
 export function pageTitleCandidates(html) {
-  const titles = [];
-  for (const match of String(html ?? "").matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
-    try {
-      collectJobPostingTitles(JSON.parse(match[1].trim()), titles);
-    } catch {
-      // Ignore malformed or unrelated structured-data snippets.
-    }
-  }
+  const titles = jobPostingsFromHtml(html).map((posting) => normalizeRoleTitle(posting.title));
   titles.push(
     metaContent(html, "og:title"),
     metaContent(html, "twitter:title"),
