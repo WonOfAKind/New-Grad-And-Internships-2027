@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 6:44 PM EDT
+Last updated: August 18, 2026 at 7:02 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -23,6 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866674/System-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866673/Systems-Engineer-I>) |
+| 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I | aurora, Colorado, United States of America | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867258/Systems-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | 2027 Fulltime - Systems Engineer II – Onsite | el segundo, California, United States of America | - | 2027 grad eligible | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01859558/2027-Fulltime-Systems-Engineer-II-Onsite>) |
 | 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
