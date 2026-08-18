@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-18T23:02:57.249Z",
+  "updated_at": "2026-08-18T23:39:14.834Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1929,14 +1929,14 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T03:55:28.491Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Target Tech workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-18T03:55:28.491Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-08-18T03:47:05.202Z",
+      "checked_at": "2026-08-18T23:33:28.070Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1954,10 +1954,9 @@
         "limit": 20,
         "verified_open_jobs": 1028
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
       "last_scan_status": "error",
-      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-18T03:55:28.491Z"
+      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2342,9 +2341,9 @@
         "limit": 20,
         "verified_open_jobs": 341
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -2516,7 +2515,7 @@
     },
     "zendesk": {
       "company": "Zendesk",
-      "checked_at": "2026-08-18T13:54:10.875Z",
+      "checked_at": "2026-08-18T23:33:28.070Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2532,12 +2531,11 @@
         "site": "zendesk",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 103
+        "verified_open_jobs": 104
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T19:00:09.194Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3417,9 +3415,9 @@
         "limit": 20,
         "verified_open_jobs": 71
       },
-      "last_scan_at": "2026-08-18T22:01:06.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T22:01:06.976Z"
     },
     "recursion": {
@@ -3917,10 +3915,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T22:01:06.976Z"
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T23:39:14.834Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4122,7 +4120,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-18T13:54:10.875Z",
+      "checked_at": "2026-08-18T23:33:28.070Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4138,12 +4136,11 @@
         "site": "Vantor",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 178
+        "verified_open_jobs": 173
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T18:05:53.756Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4690,7 +4687,7 @@
     },
     "axiom space": {
       "company": "Axiom Space",
-      "checked_at": "2026-08-18T15:43:49.373Z",
+      "checked_at": "2026-08-18T23:33:28.070Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4708,10 +4705,9 @@
         "limit": 20,
         "verified_open_jobs": 75
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T21:03:25.296Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "vast": {
       "company": "Vast",
@@ -4778,10 +4774,10 @@
         "limit": 20,
         "verified_open_jobs": 152
       },
-      "last_scan_at": "2026-08-18T23:02:57.249Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T21:03:25.296Z"
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T23:39:14.834Z"
     },
     "canonical": {
       "company": "Canonical",
@@ -4812,9 +4808,9 @@
         "limit": 20,
         "verified_open_jobs": 216
       },
-      "last_scan_at": "2026-08-18T21:03:25.296Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T21:03:25.296Z"
     },
     "mathworks": {
@@ -5265,9 +5261,9 @@
         "limit": 20,
         "verified_open_jobs": 981
       },
-      "last_scan_at": "2026-08-18T22:01:06.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T23:39:14.834Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T22:01:06.976Z"
     },
     "johnson & johnson": {

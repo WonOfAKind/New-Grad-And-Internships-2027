@@ -1,8 +1,8 @@
 {
-  "scanned_at": "2026-08-18T23:02:57.249Z",
+  "scanned_at": "2026-08-18T23:39:14.834Z",
   "fresh_leads": [
     {
-      "role_id": "9b6bf3f29c332768c674b998",
+      "role_id": "a121bc04a34aec0978e5bcbe",
       "company_id": "united-launch-alliance",
       "company": "United Launch Alliance",
       "featured_company": true,
@@ -21,7 +21,7 @@
       "specialties": [],
       "compensation": "$70,952.00 - $118,253.00",
       "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420867300",
       "source": "https://jobs.ulalaunch.com/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
@@ -30,6 +30,37 @@
       "updated_at": "",
       "source_id": "united launch alliance|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ce8f0b713f0c1ed4ae8e8c96",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer I-1",
+      "location": "Sunrise, FL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$60,500 - $92,500",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-18",
+      "expires_at": "",
+      "updated_at": "Posted Today",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -45,12 +76,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "AeroVironment",
       "title": "Junior Scene Generation Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
@@ -63,9 +88,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "company": "Tower Research Capital",
+      "title": "Quantitative Trader",
+      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -78,12 +103,6 @@
       "company": "AeroVironment",
       "title": "Electrical Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -105,21 +124,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Draper",
       "title": "Entry Level RF Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Associate Technical Marketing Engineer",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -168,6 +175,12 @@
       "company": "Moog",
       "title": "Engineer I",
       "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "United Launch Alliance",
+      "title": "Thermodynamics Engineer 1",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -283,7 +296,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 896,
+      "matches": 894,
       "phase": "fast-pass"
     },
     {
@@ -293,7 +306,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 125,
+      "matches": 124,
       "phase": "fast-pass"
     },
     {
@@ -333,7 +346,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 969,
+      "matches": 971,
       "phase": "fast-pass"
     },
     {
@@ -642,7 +655,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -860,7 +873,7 @@
       "source_id": "united launch alliance|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -930,7 +943,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 95,
+      "matches": 106,
       "phase": "fast-pass"
     },
     {
@@ -1661,11 +1674,17 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "target tech|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Target Tech",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "Target Tech workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Home Depot Technology",
@@ -1768,16 +1787,8 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Workday",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -2097,10 +2108,8 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2227,17 +2236,11 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "booz allen hamilton|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2517,8 +2520,10 @@
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "red hat|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
@@ -2533,10 +2538,8 @@
       "company": "F5",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "f5|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2584,7 +2587,7 @@
       "source_id": "aerovironment|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2657,11 +2660,17 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "kla|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Stryker",
@@ -2733,11 +2742,19 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Curtiss-Wright",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "curtiss-wright|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Draper",
@@ -2915,42 +2932,42 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-18T23:02:57.249Z",
-    "elapsed_ms": 370434,
+    "scanned_at": "2026-08-18T23:39:14.834Z",
+    "elapsed_ms": 386987,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 253,
     "discovered_sources_active": 169,
     "discovered_companies_active": 169,
-    "companies_with_active_sources": 232,
+    "companies_with_active_sources": 230,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4353,
-      "official_candidates": 1627,
-      "cached_verifications": 456,
+      "rows_parsed": 4351,
+      "official_candidates": 1631,
+      "cached_verifications": 460,
       "reverify_hours": 24,
       "verification_attempts": 1171,
-      "verification_successes": 280,
+      "verification_successes": 278,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1269,
-        "untracked discipline": 744,
+        "untracked discipline": 737,
         "graduate-degree-only role": 110,
-        "excluded recruiting year": 154,
+        "excluded recruiting year": 153,
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 433,
-        "verification: official page has an excluded recruiting year": 98,
-        "verification: 404 Not Found": 12,
-        "verification: official posting closed: official page does not identify the requisition": 32,
+        "verification: official page has an excluded recruiting year": 100,
+        "verification: 404 Not Found": 13,
+        "verification: official posting closed: official page does not identify the requisition": 33,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
         "verification: official posting closed: provider requisition is no longer listed": 107,
         "verification: 405 Not Allowed": 26,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: 404 Not Found": 26,
-        "verification: 403 Forbidden": 71,
+        "verification: 403 Forbidden": 69,
         "verification: official posting closed: official page shell does not expose the requisition": 48,
         "verification: 400 Bad Request": 3,
         "verification: fetch failed": 2,
@@ -2962,8 +2979,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 4,
+    "discovery_new_sources_this_scan": 4,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 37,
@@ -2973,11 +2990,11 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 21,
+    "double_check_attempts": 22,
     "unique_sources_attempted": 253,
-    "total_fetch_attempts": 274,
-    "ok_sources": 232,
-    "error_sources": 20,
+    "total_fetch_attempts": 275,
+    "ok_sources": 230,
+    "error_sources": 22,
     "blocked_sources": 1,
     "ats_ok_sources": 79,
     "ats_error_sources": 4,
@@ -2986,19 +3003,19 @@
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
       "429 Too Many Requests": 17,
-      "Request Timeout": 3
+      "Request Timeout": 5
     },
-    "board_eligible_candidates": 1041,
-    "provider_candidate_checks": 190,
+    "board_eligible_candidates": 1045,
+    "provider_candidate_checks": 192,
     "provider_candidate_closed": 2,
-    "provider_candidate_ineligible": 24,
+    "provider_candidate_ineligible": 25,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 244,
-    "inactive_provider_checks": 176,
+    "closure_checks": 241,
+    "inactive_provider_checks": 170,
     "inactive_provider_closed": 0,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 36,
+    "closed_roles_removed": 33,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-18T23:02:57.249Z",
-  "generated_at": "2026-08-18T23:02:57.249Z",
+  "scan_id": "2026-08-18T23:39:14.834Z",
+  "generated_at": "2026-08-18T23:39:14.834Z",
   "companies": [
     {
       "id": "adobe",
@@ -8353,7 +8353,7 @@
   ],
   "roles": [
     {
-      "role_id": "9b6bf3f29c332768c674b998",
+      "role_id": "a121bc04a34aec0978e5bcbe",
       "company_id": "united-launch-alliance",
       "company": "United Launch Alliance",
       "featured_company": true,
@@ -8372,7 +8372,7 @@
       "specialties": [],
       "compensation": "$70,952.00 - $118,253.00",
       "grad_window": "Verified early career (BS)",
-      "url": "https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420867300",
       "source": "https://jobs.ulalaunch.com/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
@@ -8381,6 +8381,37 @@
       "updated_at": "",
       "source_id": "united launch alliance|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ce8f0b713f0c1ed4ae8e8c96",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer I-1",
+      "location": "Sunrise, FL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$60,500 - $92,500",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-18",
+      "expires_at": "",
+      "updated_at": "Posted Today",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
