@@ -1,10 +1,10 @@
 {
   "version": 4,
-  "updated_at": "2026-08-18T19:00:09.194Z",
+  "updated_at": "2026-08-18T19:42:53.794Z",
   "companies": {
     "meta": {
       "company": "Meta",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "400 Bad Request",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T18:05:53.756Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T19:42:53.794Z",
+      "last_scan_status": "error",
+      "last_scan_error": "NVIDIA workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "netflix": {
@@ -148,7 +148,7 @@
     },
     "servicenow": {
       "company": "ServiceNow",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -212,7 +212,7 @@
     },
     "airbnb": {
       "company": "Airbnb",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -230,7 +230,7 @@
     },
     "pinterest": {
       "company": "Pinterest",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -305,7 +305,7 @@
     },
     "dropbox": {
       "company": "Dropbox",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -796,7 +796,7 @@
     },
     "hashicorp": {
       "company": "HashiCorp",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -920,7 +920,7 @@
     },
     "xai": {
       "company": "xAI",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1295,7 +1295,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1304,7 +1304,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1443,7 +1443,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2173,7 +2173,7 @@
     },
     "quizlet": {
       "company": "Quizlet",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2215,7 +2215,7 @@
     },
     "canva": {
       "company": "Canva",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2366,7 +2366,7 @@
     },
     "arista networks": {
       "company": "Arista Networks",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "406 Not Acceptable",
@@ -2433,7 +2433,7 @@
     },
     "nutanix": {
       "company": "Nutanix",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3149,7 +3149,7 @@
     },
     "midjourney": {
       "company": "Midjourney",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3359,7 +3359,7 @@
     },
     "tempus": {
       "company": "Tempus",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -3505,7 +3505,7 @@
     },
     "coinbase": {
       "company": "Coinbase",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3632,7 +3632,7 @@
     },
     "paypal": {
       "company": "PayPal",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3735,7 +3735,7 @@
     },
     "fidelity investments": {
       "company": "Fidelity Investments",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4095,7 +4095,7 @@
     },
     "rocket lab": {
       "company": "Rocket Lab",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4550,7 +4550,7 @@
     },
     "verizon": {
       "company": "Verizon",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4647,7 +4647,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4828,7 +4828,7 @@
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5149,14 +5149,14 @@
         "limit": 20,
         "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-18T19:00:09.194Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-18T18:05:53.756Z"
+      "last_scan_at": "2026-08-18T19:42:53.794Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T19:42:53.794Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5272,7 +5272,7 @@
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5487,7 +5487,7 @@
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -5662,7 +5662,7 @@
     },
     "intuitive surgical": {
       "company": "Intuitive Surgical",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5756,7 +5756,7 @@
     },
     "regal rexnord": {
       "company": "Regal Rexnord",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5808,7 +5808,7 @@
     },
     "saic": {
       "company": "SAIC",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -6018,7 +6018,7 @@
     },
     "wsp": {
       "company": "WSP",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -6036,7 +6036,7 @@
     },
     "carollo engineers": {
       "company": "Carollo Engineers",
-      "checked_at": "2026-08-18T13:04:52.086Z",
+      "checked_at": "2026-08-18T19:36:52.724Z",
       "status": "error",
       "method": "",
       "reason": "405 Not Allowed",

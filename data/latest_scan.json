@@ -1,666 +1,108 @@
 {
-  "scanned_at": "2026-08-18T19:00:09.194Z",
+  "scanned_at": "2026-08-18T19:42:53.794Z",
   "fresh_leads": [
     {
-      "role_id": "df2fa5f0bedb311b94ed700d",
-      "company_id": "freeform",
-      "company": "Freeform",
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Mechanical Engineer (New Grad Summer 2027)",
-      "location": "Los Angeles, CA (On-site)",
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
       "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 grad eligible",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003",
-      "source": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "freeform|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T18:59:49.752Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "5b5666f3cc6cbe86ebcf76ba",
-      "company_id": "jpmorgan-chase",
-      "company": "JPMorgan Chase",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
-      "location": "Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
-      "disciplines": [
-        "data",
-        "ai-ml"
-      ],
-      "specialties": [],
-      "compensation": "$45.67-$45.67/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
-      "source": "https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "2026-11-06",
-      "updated_at": "2026-08-18T18:12:47+00:00",
-      "source_id": "jpmorgan chase|oracle",
-      "source_adapter": "oracle",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "af816ac40f61ce69457c3de5",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Corporate Parallel Co-op Program",
-      "location": "Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial",
-        "data",
-        "ai-ml"
-      ],
-      "specialties": [],
-      "compensation": "$25.00 - $43.00/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "2026-12-31",
-      "updated_at": "Posted Yesterday",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "e85862290c6bc521f8219946",
-      "company_id": "northrop-grumman",
-      "company": "Northrop Grumman",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Guidance Navigation and Control Intern Dulles VA",
-      "location": "United States-Virginia-Dulles",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [
-        "flight-controls-gnc"
-      ],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
-      "source": "https://www.northropgrumman.com/jobs/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "2026-08-23",
-      "updated_at": "Posted Today",
-      "source_id": "northrop grumman|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "c1baf5b29b164f97e9aca13f",
-      "company_id": "ge-aerospace",
-      "company": "GE Aerospace",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Welding Engineering Intern - Summer 2027",
-      "location": "Evendale, Ohio, United States of America",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Welding-Engineering-Intern---Summer-2027_R5038782-1/apply",
-      "source": "https://careers.geaerospace.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "",
-      "updated_at": "2026-08-18T00:00:00.000+0000",
-      "source_id": "ge aerospace|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "232d09834e4eb89e2719de75",
-      "company_id": "ge-aerospace",
-      "company": "GE Aerospace",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Unison Engineering Intern - Fall 2027",
-      "location": "Jacksonville, Florida, United States of America",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1/apply",
-      "source": "https://careers.geaerospace.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "",
-      "updated_at": "2026-08-18T00:00:00.000+0000",
-      "source_id": "ge aerospace|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "9c4c41b7ab079e31e9482905",
-      "company_id": "ge-aerospace",
-      "company": "GE Aerospace",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Unison Engineering Intern - Summer 2027",
-      "location": "Jacksonville, Florida, United States of America",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097/apply",
-      "source": "https://careers.geaerospace.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "",
-      "updated_at": "2026-08-18T00:00:00.000+0000",
-      "source_id": "ge aerospace|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "55504495b69ab066c9b73a0e",
-      "company_id": "ge-aerospace",
-      "company": "GE Aerospace",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Unison Engineering Intern - Spring 2027",
-      "location": "Jacksonville, Florida, United States of America",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1/apply",
-      "source": "https://careers.geaerospace.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "",
-      "updated_at": "2026-08-18T00:00:00.000+0000",
-      "source_id": "ge aerospace|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "d1e3355a83431d9bb1b31d6b",
-      "company_id": "bae-systems",
-      "company": "BAE Systems",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Technical Intern 3 – RF/Microwave Engineer, Summer 2027",
-      "location": "Westminster, Colorado, United States",
-      "role_type": "Internship",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
         "hardware-electrical"
       ],
       "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302206&partnerid=25771&siteid=5403",
-      "source": "https://jobs.baesystems.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "2026-08-18T18:35:11.164+0000",
-      "source_id": "bae systems|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "7f91cc24b42791ffb534b5e2",
-      "company_id": "bae-systems",
-      "company": "BAE Systems",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Systems Engineer - Entry Level",
-      "location": "Huntsville, Alabama, United States",
-      "role_type": "New Grad",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
+      "compensation": "$61,660 - $101,600",
       "grad_window": "Early career",
-      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302853&partnerid=25771&siteid=5403",
-      "source": "https://jobs.baesystems.com/global/en/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "2026-08-18T18:35:11.164+0000",
-      "source_id": "bae systems|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "f7259cfcb3c454e917efd7d1",
-      "company_id": "unison-ge-aerospace",
-      "company": "Unison (GE Aerospace)",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Unison Engineering Intern - Summer 2027 in Jacksonville, Florida, United States of America | Engineering / Technology at GE Aerospace",
-      "location": "Jacksonville, FL",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
-      "disciplines": [
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
-      "source": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "posted_at": "2026-07-16",
-      "expires_at": "",
+      "expires_at": "2026-11-16",
       "updated_at": "",
-      "source_id": "unison (ge aerospace)|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/sndsh404/summer-2027-internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T18:59:41.249Z",
-      "verification_version": 6,
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P0"
     },
     {
-      "role_id": "7ddab14c4cab98bd0dc7aef4",
-      "company_id": "freeform",
-      "company": "Freeform",
+      "role_id": "8e583a91e1da760a7cea9967",
+      "company_id": "moog",
+      "company": "Moog",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Mechanical Engineering Intern (Summer 2027)",
-      "location": "Los Angeles, CA (On-site)",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [],
-      "compensation": "$30/hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003",
-      "source": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "freeform|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T18:59:49.719Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "f390784fd6050e4d32089264",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "location": "USA - El Segundo, CA",
+      "title": "Engineer I",
+      "location": "Mineral Wells, TX",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "aerospace"
       ],
       "specialties": [],
-      "compensation": "$98,600 - $133,400",
+      "compensation": "$70,000.00 - $80,000.00 Annually",
       "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-      "source": "https://jobs.boeing.com/",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19148",
+      "source": "https://www.moog.com/careers.html",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
-      "posted_at": "2026-08-04",
-      "expires_at": "2026-08-25",
-      "updated_at": "Posted 14 Days Ago",
-      "source_id": "boeing|workday",
+      "posted_at": "2026-08-18",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted Today",
+      "source_id": "moog|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
-      "priority": "P0"
+      "priority": "P1"
     },
     {
-      "role_id": "3d3617316a6498c6b9a2552e",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "location": "USA - El Segundo, CA",
+      "role_id": "8d9d5305358562728fae8370",
+      "company_id": "moog",
+      "company": "Moog",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Engineer I",
+      "location": "Mineral Wells, TX",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "aerospace"
       ],
       "specialties": [],
-      "compensation": "$79,050- $106,950",
-      "grad_window": "Early career",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-07-29",
-      "expires_at": "2026-08-26",
-      "updated_at": "Posted 20 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "b319184a8cf139c51fbc45bb",
-      "company_id": "boeing",
-      "company": "Boeing",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "location": "USA - Oklahoma City, OK",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$66,300 - $89,700",
+      "compensation": "$70,000.00 - $80,000.00 Annually",
       "grad_window": "Verified early career (BS)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "source": "https://jobs.boeing.com/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-07",
-      "expires_at": "2026-08-31",
-      "updated_at": "Posted 11 Days Ago",
-      "source_id": "boeing|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "21fac593559a321fb47b3386",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Product Development Program-Welding",
-      "location": "Mossville, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "$89,210.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "2026-12-31",
-      "updated_at": "Posted Yesterday",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "a52028782d169a08dd83849a",
-      "company_id": "caterpillar",
-      "company": "Caterpillar",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
-      "location": "Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical"
-      ],
-      "specialties": [
-        "product"
-      ],
-      "compensation": "$81,370.00 - $133,810.00",
-      "grad_window": "Early career",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
-      "source": "https://careers.caterpillar.com/en/jobs/",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-17",
-      "expires_at": "2026-12-31",
-      "updated_at": "Posted Yesterday",
-      "source_id": "caterpillar|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "fadb50fbc6723c53e517c39e",
-      "company_id": "marmon-holdings",
-      "company": "Marmon Holdings",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Engineering Intern",
-      "location": "Chicago, IL",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3",
-      "source": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145",
+      "source": "https://www.moog.com/careers.html",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "marmon holdings|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T18:59:49.685Z",
-      "verification_version": 6,
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted Today",
+      "source_id": "moog|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     },
     {
-      "role_id": "0b15198aa72c03ccb4d9ba58",
-      "company_id": "marmon-holdings",
-      "company": "Marmon Holdings",
+      "role_id": "a1c7cd2687675babc935dccb",
+      "company_id": "nidec",
+      "company": "Nidec",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Engineering Co-op",
-      "location": "Chicago, IL",
+      "title": "Electrical Engineering Co-op",
+      "location": "North America/USA/Arkansas/Ft. Smith, AR",
       "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Co-op_JR0000045243-3",
-      "source": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Co-op_JR0000045243-3",
-      "date_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "marmon holdings|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T18:59:55.361Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "f02ddac8a084fe006a9653a3",
-      "company_id": "sierra-nevada-corporation",
-      "company": "Sierra Nevada Corporation",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Electrical Engineer I",
-      "location": "Dayton, OH",
-      "role_type": "New Grad",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
         "hardware-electrical"
@@ -669,20 +111,20 @@
         "hardware-electronics"
       ],
       "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
-      "source": "https://www.sncorp.com/Careers/",
+      "grad_window": "2027 internship eligible",
+      "url": "https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331",
+      "source": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "Posted Today",
-      "source_id": "sierra nevada corporation|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
+      "expires_at": "2026-10-09",
+      "updated_at": "",
+      "source_id": "nidec|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-18T19:42:36.923Z",
+      "verification_version": 6,
       "priority": "P1"
     }
   ],
@@ -691,6 +133,12 @@
       "company": "AeroVironment",
       "title": "Modeling and Simulation Software Integration Engineer (Junior)",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -712,9 +160,21 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Sierra Nevada Corporation",
+      "title": "Electrical Engineer I",
+      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "AeroVironment",
       "title": "Electrical Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -724,15 +184,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Thermo Fisher Scientific",
-      "title": "Manufacturing Electrical Engineer 1",
-      "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Peraton",
       "title": "Entry-Level Electrical Engineer",
       "url": "https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering--",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Boeing",
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -748,15 +208,21 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Toyota Motor North America",
       "title": "Engineer I",
       "url": "https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Rotational Product Development Program-Welding",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -850,6 +316,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "PIMCO",
+      "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+      "reason": "official verification confirmed closure"
+    },
+    {
       "company": "TikTok",
       "title": "Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer",
       "url": "https://lifeattiktok.com/search/7667935739300792629",
@@ -859,6 +331,12 @@
       "company": "Valkyrie Trading",
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Corporate Parallel Co-op Program",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509",
       "reason": "no longer matches board eligibility policy"
     }
   ],
@@ -890,7 +368,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 891,
+      "matches": 893,
       "phase": "fast-pass"
     },
     {
@@ -937,8 +415,10 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "status": "error",
-      "error": "request timed out after 10000ms",
+      "source_id": "anduril|greenhouse",
+      "reconciliation": "authoritative",
+      "status": "ok",
+      "matches": 972,
       "phase": "fast-pass"
     },
     {
@@ -1017,7 +497,7 @@
       "source_id": "openai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 256,
+      "matches": 257,
       "phase": "fast-pass"
     },
     {
@@ -1097,7 +577,7 @@
       "source_id": "doordash|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 58,
+      "matches": 57,
       "phase": "fast-pass"
     },
     {
@@ -1147,7 +627,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 49,
+      "matches": 50,
       "phase": "fast-pass"
     },
     {
@@ -1247,7 +727,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1265,16 +745,8 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Leidos workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Leidos",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "Leidos workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -1283,7 +755,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 297,
+      "matches": 296,
       "phase": "fast-pass"
     },
     {
@@ -1319,18 +791,24 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "General Motors workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "caterpillar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 9,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Caterpillar",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -1349,7 +827,7 @@
       "source_id": "varda space|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 70,
+      "matches": 69,
       "phase": "fast-pass"
     },
     {
@@ -1409,7 +887,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 205,
+      "matches": 202,
       "phase": "fast-pass"
     },
     {
@@ -1439,7 +917,7 @@
       "source_id": "moog|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1509,7 +987,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -1726,11 +1204,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "NVIDIA workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -3130,17 +2614,11 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Rockwell Automation workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -3279,7 +2757,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -3404,8 +2882,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-18T19:00:09.194Z",
-    "elapsed_ms": 436041,
+    "scanned_at": "2026-08-18T19:42:53.794Z",
+    "elapsed_ms": 416466,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 253,
@@ -3416,26 +2894,26 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4352,
+      "rows_parsed": 4351,
       "official_candidates": 1629,
-      "cached_verifications": 449,
+      "cached_verifications": 452,
       "reverify_hours": 24,
-      "verification_attempts": 1180,
-      "verification_successes": 289,
+      "verification_attempts": 1177,
+      "verification_successes": 288,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1269,
-        "untracked discipline": 738,
+        "untracked discipline": 737,
         "graduate-degree-only role": 110,
-        "excluded recruiting year": 155,
+        "excluded recruiting year": 154,
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 435,
-        "verification: official page has an excluded recruiting year": 98,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 434,
+        "verification: official page has an excluded recruiting year": 96,
         "verification: 404 Not Found": 13,
         "verification: official posting closed: official page does not identify the requisition": 33,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
-        "verification: official posting closed: provider requisition is no longer listed": 107,
+        "verification: official posting closed: provider requisition is no longer listed": 108,
         "verification: 405 Not Allowed": 26,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: official posting closed: 404 Not Found": 26,
@@ -3450,7 +2928,7 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
+    "discovery_attempts_this_scan": 31,
     "discovery_new_sources_this_scan": 0,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
@@ -3473,19 +2951,20 @@
     "ats_success_percent": 95.2,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 7
+      "Request Timeout": 5,
+      "429 Too Many Requests": 2
     },
-    "board_eligible_candidates": 1059,
-    "provider_candidate_checks": 221,
+    "board_eligible_candidates": 1063,
+    "provider_candidate_checks": 226,
     "provider_candidate_closed": 2,
-    "provider_candidate_ineligible": 24,
+    "provider_candidate_ineligible": 25,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 227,
+    "closure_checks": 221,
     "inactive_provider_checks": 148,
-    "inactive_provider_closed": 0,
+    "inactive_provider_closed": 1,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 29,
+    "closed_roles_removed": 35,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

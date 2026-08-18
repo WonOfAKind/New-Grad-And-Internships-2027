@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 3:00 PM EDT
+Last updated: August 18, 2026 at 3:42 PM EDT
 
-Current roles in this view: 279
+Current roles in this view: 278
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015>) |
-| PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX USA | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745>) |
 | TikTok | Software Engineer Intern (TikTok Search Data Infra) - 2027 Fall | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://lifeattiktok.com/search/7675129440242010421>) |
 | TikTok | Software Engineer Intern (TikTok Search Data Infra) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://lifeattiktok.com/search/7675128776856029445>) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://lifeattiktok.com/search/7667935739300792629>) |
