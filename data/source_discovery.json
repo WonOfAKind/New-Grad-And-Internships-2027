@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-18T18:05:53.756Z",
+  "updated_at": "2026-08-18T19:00:09.194Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2534,10 +2534,10 @@
         "limit": 20,
         "verified_open_jobs": 103
       },
-      "last_scan_at": "2026-08-18T18:05:53.756Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T14:54:48.584Z"
+      "last_scan_at": "2026-08-18T19:00:09.194Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T19:00:09.194Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3917,10 +3917,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T18:05:53.756Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_scan_at": "2026-08-18T19:00:09.194Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T19:00:09.194Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4577,10 +4577,10 @@
         "limit": 20,
         "verified_open_jobs": 706
       },
-      "last_scan_at": "2026-08-18T18:05:53.756Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T17:44:49.570Z"
+      "last_scan_at": "2026-08-18T19:00:09.194Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T19:00:09.194Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5149,9 +5149,9 @@
         "limit": 20,
         "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-18T18:05:53.756Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T19:00:09.194Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "parker hannifin": {

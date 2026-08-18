@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 2:05 PM EDT
+Last updated: August 18, 2026 at 3:00 PM EDT
 
-Current roles in this view: 54
+Current roles in this view: 55
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BAE Systems | Technical Intern 3 – RF/Microwave Engineer, Summer 2027 | Westminster, Colorado, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302206&partnerid=25771&siteid=5403>) |
 | 🔥 L3Harris | Intern, Electrical Engineer - Spring 2027 | Greenville, TX, US | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.l3harris.com/en/job/greenville/intern-electrical-engineer-spring-2027/4832/99372980032>) |
 | HPR | FPGA Engineering Intern - Summer 2027 | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003>) |
 | Western Digital | Summer 2027 Intern - Hardware Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000140949875-summer-2027-intern-hardware-engineering>) |

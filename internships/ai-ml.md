@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 2:05 PM EDT
+Last updated: August 18, 2026 at 3:00 PM EDT
 
-Current roles in this view: 92
+Current roles in this view: 95
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869>) |
 | American Express | AI Engineer I Intern, Enterprise Technology Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375>) |
 | American Express | AI Engineer Intern, Enterprise Technology Services | Atlanta, GA | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796>) |
 | American Express | AI Engineer Intern, Enterprise Technology Services | New York, NY | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698>) |
 | American Express | AI Engineer Intern, Enterprise Technology Services | Sunrise, FL | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745>) |
+| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; South Milwaukee, Wisconsin; Green Valley, Arizona; Fort Worth, Texas; San Antonio, Texas; Lafayette, Indiana; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
+| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
 | The Nuclear Company | Summer 2027 AI Applied Research Internship | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008>) |
 | CloudFit Software | Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) | Lynchburg, VA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://20240827162904_yztgchk5mbbpx7fj.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027>) |
 | Analytical Mechanics Associates 🆁 | Graduate Research Scientist intern | Remote - New Jersey | $27.69-$33.85/hr | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://amainc.wd12.myworkdayjobs.com/AMA_Careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1>) |
@@ -29,9 +32,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Research Engineer Intern - Agentic Systems &amp; AI Infrastructure - TikTok-Generalized Arch - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
 | TikTok | Research Engineer Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202602270951733>) |
 | TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | TikTok | AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7670529537944766773>) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
-| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Micron | Intern - DRAM Design Engineer | Boise, ID, US | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.micron.com/careers/job/43721384-intern-dram-design-engineer-boise-idaho-united-states-of-america>) |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83>) |
 | The Nuclear Company | AI/ML Engineering Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008>) |
