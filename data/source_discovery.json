@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-18T17:44:49.570Z",
+  "updated_at": "2026-08-18T18:05:53.756Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,10 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T16:52:24.756Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -814,7 +814,7 @@
     },
     "crowdstrike": {
       "company": "CrowdStrike",
-      "checked_at": "2026-08-18T03:23:06.815Z",
+      "checked_at": "2026-08-18T17:59:15.278Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -830,12 +830,12 @@
         "site": "crowdstrikecareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 449
+        "verified_open_jobs": 445
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T03:55:28.491Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -857,10 +857,10 @@
         "limit": 20,
         "verified_open_jobs": 1426
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T14:54:48.584Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "wiz": {
       "company": "Wiz",
@@ -2342,9 +2342,9 @@
         "limit": 20,
         "verified_open_jobs": 343
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 60000ms"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 103
       },
-      "last_scan_at": "2026-08-18T14:54:48.584Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T14:54:48.584Z"
     },
     "qualtrics": {
@@ -3917,9 +3917,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
       "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms",
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-18T15:50:07.010Z"
     },
     "l3harris": {
@@ -4140,10 +4140,10 @@
         "limit": 20,
         "verified_open_jobs": 178
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T14:01:27.941Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4577,9 +4577,9 @@
         "limit": 20,
         "verified_open_jobs": 706
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-18T17:44:49.570Z"
     },
     "honeywell": {
@@ -5149,10 +5149,10 @@
         "limit": 20,
         "verified_open_jobs": 416
       },
-      "last_scan_at": "2026-08-18T16:52:24.756Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5265,10 +5265,10 @@
         "limit": 20,
         "verified_open_jobs": 986
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "KLA workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5299,10 +5299,10 @@
         "limit": 20,
         "verified_open_jobs": 1136
       },
-      "last_scan_at": "2026-08-18T16:52:24.756Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5514,10 +5514,10 @@
         "limit": 20,
         "verified_open_jobs": 365
       },
-      "last_scan_at": "2026-08-18T17:44:49.570Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_scan_at": "2026-08-18T18:05:53.756Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-18T18:05:53.756Z"
     },
     "draper": {
       "company": "Draper",
