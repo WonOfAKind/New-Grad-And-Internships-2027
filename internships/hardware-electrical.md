@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 6:01 PM EDT
+Last updated: August 18, 2026 at 6:44 PM EDT
 
 Current roles in this view: 56
 
@@ -26,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Generac | Intern Firmware Engineering | Reno, NV | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149>) |
 | Generac | Intern- Electrical Engineering | Reno, NV - USA | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148>) |
 | Rivian and Volkswagen Group Technologies | Electrical Design Engineering Intern | Irvine, California | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/rivianvw.tech/e93841e0-d1b4-484e-a1e7-6ac494c9868c>) |
+| Teledyne | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 | 🔥 Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007>) |
 | GE Aerospace | Embedded Systems Engineer Co-op (Bohemia, NY) – Spring 2027 | Bohemia, New York, United States of America | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1/apply>) |
 | Bosch Group | Electronics Engineering Intern | Fort Lauderdale, Florida, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000126066306-electronics-engineering-intern>) |
@@ -67,5 +68,4 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | $19.20 - $26.40/hr | 2027 internship eligible | Posted Feb 19, 2026<br>First seen Aug 3, 2026 | [Apply](<https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533>) |
 | Ambarella | ASIC Design Engineer Intern | US Headquarters | - | 2027 internship eligible | Posted Sep 8, 2025<br>First seen Aug 3, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100>) |
 | FLIR Systems | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
-| Teledyne | Computer Engineering Intern | US - Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 

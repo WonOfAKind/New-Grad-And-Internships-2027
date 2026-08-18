@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 6:01 PM EDT
+Last updated: August 18, 2026 at 6:44 PM EDT
 
-Current roles in this view: 29
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,8 +13,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
-| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; South Milwaukee, Wisconsin; Green Valley, Arizona; Fort Worth, Texas; San Antonio, Texas; Lafayette, Indiana; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
-| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
 | Vanguard | College to Corporate IT Internship - Data Analyst (NC) | Charlotte, NC | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1>) |
 | Crowe | Data Analytics Developer Intern | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
@@ -41,4 +39,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bank of America | Quantitative Data Analyst Summer Analyst | multiple US | - | 2027 internship eligible | Posted Jun 28, 2026<br>First seen Jul 23, 2026 | [Apply](<https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations>) |
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65845>) |
 | Campbell Soup Company | Data Science Intern | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Science-Intern_Req-65844>) |
+| ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
 

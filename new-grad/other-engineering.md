@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 6:01 PM EDT
+Last updated: August 18, 2026 at 6:44 PM EDT
 
-Current roles in this view: 87
+Current roles in this view: 88
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -65,6 +65,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kiewit | Field Engineer 1 - Northwest (Heavy Civil) | Federal Way, WA, US | $79,000/yr | Verified early career (BS) | Posted Aug 2, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-1-Northwest-%28Heavy-Civil%29-WA-98660/1415415800>) |
 | Kiewit | Kiewit Building Group - Field/Office Engineer (Entry-Level) | Omaha, NE, US | $80,000/yr | Early career | Posted Aug 1, 2026<br>First seen Aug 18, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Washington-Kiewit-Building-Group-FieldOffice-Engineer-%28Entry-Level%29-DC-20001/1388707900>) |
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
+| Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
 | Kimley-Horn | Civil Engineering Analyst | Peachtree Corners, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24803/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Woodstock, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25189/civil-engineering-analyst/job>) |

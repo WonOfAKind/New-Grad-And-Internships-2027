@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 6:01 PM EDT
+Last updated: August 18, 2026 at 6:44 PM EDT
 
-Current roles in this view: 96
+Current roles in this view: 95
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,11 +14,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
 | American Express | AI Engineer I Intern, Enterprise Technology Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375>) |
-| American Express | AI Engineer Intern, Enterprise Technology Services | Atlanta, GA | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796>) |
-| American Express | AI Engineer Intern, Enterprise Technology Services | New York, NY | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698>) |
-| American Express | AI Engineer Intern, Enterprise Technology Services | Sunrise, FL | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745>) |
-| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; South Milwaukee, Wisconsin; Green Valley, Arizona; Fort Worth, Texas; San Antonio, Texas; Lafayette, Indiana; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
-| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796>) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698>) |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745>) |
 | The Nuclear Company | Summer 2027 AI Applied Research Internship | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008>) |
 | CloudFit Software | Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) | Lynchburg, VA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://20240827162904_yztgchk5mbbpx7fj.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027>) |
 | Analytical Mechanics Associates 🆁 | Graduate Research Scientist intern | Remote - New Jersey | $27.69-$33.85/hr | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://amainc.wd12.myworkdayjobs.com/AMA_Careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1>) |
@@ -108,4 +106,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada; Europe; United States; United Kingdom | - | 2027 internship eligible | Posted May 13, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b>) |
+| ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
 
