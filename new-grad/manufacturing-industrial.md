@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 10:01 AM EDT
+Last updated: August 18, 2026 at 10:54 AM EDT
 
-Current roles in this view: 19
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | GlobalFoundries | Manufacturing Operations Engineer (2027 New College Graduate) | USA - New York - Malta | $58,400.00 - $100,800.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Operations-Engineer--2027-New-College-Graduate-_JR-2604695>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865900/Manufacturing-Engineer-I>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867143/Manufacturing-Engineer-I>) |
-| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |
 | 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 18, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01363119/Quality-Engineer-I>) |
@@ -26,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | Manufacturing Engineer I - Technical Shop Floor Support (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I---Technical-Shop-Floor-Support--2nd-Shift-_JR10432688>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
+| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 Lockheed Martin | Associate Quality Engineer - Chelmsford, MA | Chelmsford, Massachusetts | $54,900 - $96,830 | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.lockheedmartinjobs.com/job/chelmsford/associate-quality-engineer-chelmsford-ma/694/95644273456>) |
 | Airbus | Manufacturing Engineer I | Mobile Area, AL | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I_JR10426486>) |
 | Micron | New College Grad - Photolithography Process Engineer | Boise, ID, US | - | Early career | Posted Jul 13, 2026<br>First seen Aug 3, 2026 | [Apply](<http://careers.micron.com/careers/job/41923169-new-college-grad-photolithography-process-engineer-boise-idaho-united-states-of-america>) |
