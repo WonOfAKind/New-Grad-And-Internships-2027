@@ -559,7 +559,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:20.805Z",
+    "verified_at": "2026-08-18T17:43:46.405Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -590,7 +590,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:20.893Z",
+    "verified_at": "2026-08-18T17:43:46.388Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -621,7 +621,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:20.364Z",
+    "verified_at": "2026-08-18T17:43:45.898Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -1570,7 +1570,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:21.771Z",
+    "verified_at": "2026-08-18T17:43:47.516Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -2071,7 +2071,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:24.899Z",
+    "verified_at": "2026-08-18T17:43:51.024Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -2104,6 +2104,41 @@
     "verification_status": "official requisition verified",
     "verified_at": "2026-08-10T14:46:02.959Z",
     "verification_version": 6,
+    "priority": "P0"
+  },
+  {
+    "role_id": "b319184a8cf139c51fbc45bb",
+    "company_id": "boeing",
+    "company": "Boeing",
+    "featured_company": true,
+    "featured_disciplines": [
+      "aerospace",
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "Entry Level or Associate Software Safety Engineer",
+    "location": "USA - Oklahoma City, OK",
+    "role_type": "New Grad",
+    "discipline": "Software Engineering",
+    "disciplines": [
+      "software"
+    ],
+    "specialties": [],
+    "compensation": "$66,300 - $89,700",
+    "grad_window": "Verified early career (BS)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
+    "source": "https://jobs.boeing.com/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-07",
+    "expires_at": "2026-08-31",
+    "updated_at": "Posted 11 Days Ago",
+    "source_id": "boeing|workday",
+    "source_adapter": "workday",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
     "priority": "P0"
   },
   {
@@ -2618,7 +2653,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:29.026Z",
+    "verified_at": "2026-08-18T17:43:55.234Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -3809,7 +3844,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:38.771Z",
+    "verified_at": "2026-08-18T17:44:05.322Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -3840,7 +3875,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:38.366Z",
+    "verified_at": "2026-08-18T17:44:04.446Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -4163,37 +4198,6 @@
     "priority": "P0"
   },
   {
-    "role_id": "6b94501af81a7d1ce1bdbbbb",
-    "company_id": "valkyrie-trading",
-    "company": "Valkyrie Trading",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "Junior Software Engineer",
-    "location": "Chicago, IL",
-    "role_type": "New Grad",
-    "discipline": "Software Engineering",
-    "disciplines": [
-      "software"
-    ],
-    "specialties": [],
-    "compensation": "",
-    "grad_window": "Early career",
-    "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
-    "source": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
-    "date_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "posted_at": "2026-07-30",
-    "expires_at": "",
-    "updated_at": "",
-    "source_id": "valkyrie trading|discovery_feed",
-    "source_adapter": "discovery_feed",
-    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:21.108Z",
-    "verification_version": 6,
-    "priority": "P0"
-  },
-  {
     "role_id": "5ab245e7bcde7055f3773da0",
     "company_id": "bae-systems",
     "company": "BAE Systems",
@@ -4361,7 +4365,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:40.344Z",
+    "verified_at": "2026-08-18T17:44:06.415Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -5104,7 +5108,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:48.976Z",
+    "verified_at": "2026-08-18T17:44:15.087Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -6371,8 +6375,8 @@
     "company": "Tower Research Capital",
     "featured_company": false,
     "featured_disciplines": [],
-    "title": "Quantitative Trader/Researcher - 2027",
-    "location": "New York, Chicago",
+    "title": "Quantitative Trader",
+    "location": "New York, NY; Chicago, IL",
     "role_type": "New Grad",
     "discipline": "Software Engineering",
     "disciplines": [
@@ -6382,14 +6386,14 @@
     "compensation": "$150,000 - $250,000",
     "grad_window": "Early career",
     "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
-    "source": "https://www.tower-research.com/open-positions/",
+    "source": "https://www.tower-research.com/open-positions?gh_jid=8024142",
     "date_seen": "2026-08-18",
     "last_seen": "2026-08-18",
     "posted_at": "2026-07-07",
     "expires_at": "",
-    "updated_at": "2026-08-14T13:03:05-04:00",
-    "source_id": "tower research|greenhouse",
-    "source_adapter": "greenhouse",
+    "updated_at": "",
+    "source_id": "tower research capital|discovery_feed",
+    "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official verification cached",
     "verified_at": "2026-08-18T13:11:13.816Z",
@@ -6610,7 +6614,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:23.379Z",
+    "verified_at": "2026-08-18T17:43:49.510Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -7647,7 +7651,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:38.522Z",
+    "verified_at": "2026-08-18T17:44:04.259Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -8153,7 +8157,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:44.125Z",
+    "verified_at": "2026-08-18T17:44:10.612Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -8213,37 +8217,6 @@
     "updated_at": "2026-08-14T12:01:27-04:00",
     "source_id": "imc trading|greenhouse",
     "source_adapter": "greenhouse",
-    "discovered_via": "",
-    "verification_status": "",
-    "verified_at": "",
-    "verification_version": 0,
-    "priority": "P0"
-  },
-  {
-    "role_id": "2827c42c28d943e65594375a",
-    "company_id": "maxar",
-    "company": "Maxar",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "GIS Engineer (Jr)",
-    "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
-    "role_type": "New Grad",
-    "discipline": "AI / Machine Learning",
-    "disciplines": [
-      "ai-ml"
-    ],
-    "specialties": [],
-    "compensation": "$67,000.00 - $111,000.00 annually",
-    "grad_window": "Early career",
-    "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-    "source": "https://www.maxar.com/careers",
-    "date_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "posted_at": "",
-    "expires_at": "",
-    "updated_at": "Posted 30+ Days Ago",
-    "source_id": "maxar|workday",
-    "source_adapter": "workday",
     "discovered_via": "",
     "verification_status": "",
     "verified_at": "",
@@ -8404,7 +8377,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:22.401Z",
+    "verified_at": "2026-08-18T17:43:48.126Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -8436,7 +8409,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:31.183Z",
+    "verified_at": "2026-08-18T17:43:57.313Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -8468,37 +8441,6 @@
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official verification cached",
     "verified_at": "2026-08-18T13:10:59.595Z",
-    "verification_version": 6,
-    "priority": "P0"
-  },
-  {
-    "role_id": "1df1c33917ecf68b6a7cbf84",
-    "company_id": "crowdstrike",
-    "company": "CrowdStrike",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
-    "location": "USA - Sunnyvale, CA",
-    "role_type": "New Grad",
-    "discipline": "Data Science & Analytics",
-    "disciplines": [
-      "data"
-    ],
-    "specialties": [],
-    "compensation": "$90,000 - $125,000 per year",
-    "grad_window": "Explicit new grad role",
-    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
-    "source": "https://www.crowdstrike.com/en-us/careers/",
-    "date_seen": "2026-07-20",
-    "last_seen": "2026-08-18",
-    "posted_at": "2026-08-06",
-    "expires_at": "",
-    "updated_at": "Posted 12 Days Ago",
-    "source_id": "crowdstrike|workday",
-    "source_adapter": "workday",
-    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official verification cached",
-    "verified_at": "2026-08-17T13:09:47.119Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -8718,6 +8660,37 @@
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
     "verified_at": "2026-08-17T23:59:40.738Z",
+    "verification_version": 6,
+    "priority": "P0"
+  },
+  {
+    "role_id": "1df1c33917ecf68b6a7cbf84",
+    "company_id": "crowdstrike",
+    "company": "CrowdStrike",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "Engineer I, Data Scientist - New Grad (Hybrid)",
+    "location": "USA - Sunnyvale, CA",
+    "role_type": "New Grad",
+    "discipline": "Data Science & Analytics",
+    "disciplines": [
+      "data"
+    ],
+    "specialties": [],
+    "compensation": "$90,000 - $125,000 per year",
+    "grad_window": "Explicit new grad role",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
+    "source": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
+    "date_seen": "2026-07-20",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-07-21",
+    "expires_at": "",
+    "updated_at": "",
+    "source_id": "crowdstrike|discovery_feed",
+    "source_adapter": "discovery_feed",
+    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+    "verification_status": "official requisition verified",
+    "verified_at": "2026-08-18T17:44:47.004Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -9375,6 +9348,74 @@
     "priority": "P0"
   },
   {
+    "role_id": "f26bf396116e1d65c5569a37",
+    "company_id": "aerovironment",
+    "company": "AeroVironment",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "Electrical Engineer I",
+    "location": "100 Quality Circle Suite 100 Huntsville, AL",
+    "role_type": "New Grad",
+    "discipline": "Hardware & Electrical Engineering",
+    "disciplines": [
+      "hardware-electrical"
+    ],
+    "specialties": [
+      "hardware-electronics"
+    ],
+    "compensation": "$60,500 - $92,500",
+    "grad_window": "Verified early career (BS)",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+    "source": "https://www.avinc.com/careers/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-13",
+    "expires_at": "",
+    "updated_at": "Posted 5 Days Ago",
+    "source_id": "aerovironment|workday",
+    "source_adapter": "workday",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P1"
+  },
+  {
+    "role_id": "f390784fd6050e4d32089264",
+    "company_id": "boeing",
+    "company": "Boeing",
+    "featured_company": true,
+    "featured_disciplines": [
+      "aerospace",
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
+    "location": "USA - El Segundo, CA",
+    "role_type": "New Grad",
+    "discipline": "Hardware & Electrical Engineering",
+    "disciplines": [
+      "hardware-electrical"
+    ],
+    "specialties": [],
+    "compensation": "$98,600 - $133,400",
+    "grad_window": "Verified early career (BS)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
+    "source": "https://jobs.boeing.com/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-04",
+    "expires_at": "2026-08-25",
+    "updated_at": "Posted 14 Days Ago",
+    "source_id": "boeing|workday",
+    "source_adapter": "workday",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P0"
+  },
+  {
     "role_id": "1658848bfce9b5f7316ebf87",
     "company_id": "anduril",
     "company": "Anduril",
@@ -9553,6 +9594,41 @@
     "priority": "P0"
   },
   {
+    "role_id": "3d3617316a6498c6b9a2552e",
+    "company_id": "boeing",
+    "company": "Boeing",
+    "featured_company": true,
+    "featured_disciplines": [
+      "aerospace",
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "DSP Algorithms Engineer (Entry-Level)",
+    "location": "USA - El Segundo, CA",
+    "role_type": "New Grad",
+    "discipline": "Hardware & Electrical Engineering",
+    "disciplines": [
+      "hardware-electrical"
+    ],
+    "specialties": [],
+    "compensation": "$79,050- $106,950",
+    "grad_window": "Early career",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+    "source": "https://jobs.boeing.com/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-07-29",
+    "expires_at": "2026-08-26",
+    "updated_at": "Posted 20 Days Ago",
+    "source_id": "boeing|workday",
+    "source_adapter": "workday",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P0"
+  },
+  {
     "role_id": "99faddd8daa762657929c925",
     "company_id": "draper",
     "company": "Draper",
@@ -9582,39 +9658,6 @@
     "verified_at": "",
     "verification_version": 0,
     "priority": "P0"
-  },
-  {
-    "role_id": "2a9c2ea7802b8ea58d84102e",
-    "company_id": "palo-alto-networks",
-    "company": "Palo Alto Networks",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "Associate Technical Marketing Engineer",
-    "location": "Office - USA - CA - Headquarters",
-    "role_type": "New Grad",
-    "discipline": "Hardware & Electrical Engineering",
-    "disciplines": [
-      "hardware-electrical",
-      "ai-ml",
-      "software"
-    ],
-    "specialties": [],
-    "compensation": "$94,000.00 - $153,000.00/yr",
-    "grad_window": "Verified early career (BS)",
-    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
-    "source": "https://jobs.paloaltonetworks.com/en/search-jobs",
-    "date_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "posted_at": "",
-    "expires_at": "",
-    "updated_at": "Posted 30+ Days Ago",
-    "source_id": "palo alto networks|workday",
-    "source_adapter": "workday",
-    "discovered_via": "",
-    "verification_status": "",
-    "verified_at": "",
-    "verification_version": 0,
-    "priority": "P1"
   },
   {
     "role_id": "7adcd82e590c20ad05dc596e",
@@ -9648,6 +9691,41 @@
     "verified_at": "2026-07-21T04:23:36.885Z",
     "verification_version": 4,
     "priority": "P0"
+  },
+  {
+    "role_id": "2db0338004dea95d28c23717",
+    "company_id": "toyota-motor-north-america",
+    "company": "Toyota Motor North America",
+    "featured_company": true,
+    "featured_disciplines": [
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "Engineer I",
+    "location": "Georgetown, Kentucky",
+    "role_type": "New Grad",
+    "discipline": "Mechanical Engineering",
+    "disciplines": [
+      "mechanical",
+      "hardware-electrical"
+    ],
+    "specialties": [],
+    "compensation": "",
+    "grad_window": "Verified early career (BS)",
+    "url": "https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095",
+    "source": "https://careers.toyota.com/us/en/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-18",
+    "expires_at": "",
+    "updated_at": "Posted Today",
+    "source_id": "toyota motor north america|workday",
+    "source_adapter": "workday",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P1"
   },
   {
     "role_id": "2b7ad8d71b7122afd23c7890",
@@ -12098,6 +12176,37 @@
     "verified_at": "",
     "verification_version": 0,
     "priority": "P1"
+  },
+  {
+    "role_id": "9dab0cea7b4a2f244315c000",
+    "company_id": "peraton",
+    "company": "Peraton",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "Entry Level Environmental Engineer",
+    "location": "UT",
+    "role_type": "New Grad",
+    "discipline": "Other Engineering",
+    "disciplines": [
+      "other-engineering"
+    ],
+    "specialties": [],
+    "compensation": "$51,000 - $82,000",
+    "grad_window": "Early career",
+    "url": "https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety--",
+    "source": "https://www.careers.peraton.com/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-18",
+    "expires_at": "",
+    "updated_at": "",
+    "source_id": "peraton|sitemap_jobs",
+    "source_adapter": "sitemap_jobs",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P0"
   },
   {
     "role_id": "560aab04b0ecb80ab61faac5",
@@ -14894,7 +15003,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:12.854Z",
+    "verified_at": "2026-08-18T17:43:37.049Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -14956,7 +15065,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/speedyapply/2027-AI-College-Jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:18.294Z",
+    "verified_at": "2026-08-18T17:44:43.481Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -15119,7 +15228,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:12.015Z",
+    "verified_at": "2026-08-18T17:43:36.300Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -15327,7 +15436,7 @@
     "company": "Replit",
     "featured_company": false,
     "featured_disciplines": [],
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineer Intern",
     "location": "Foster City, CA",
     "role_type": "Internship",
     "discipline": "Software Engineering",
@@ -15338,19 +15447,19 @@
     "compensation": "",
     "grad_window": "2027 internship eligible",
     "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-    "source": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "source": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application",
     "date_seen": "2026-08-17",
     "last_seen": "2026-08-18",
-    "posted_at": "2026-08-15",
+    "posted_at": "2026-08-16",
     "expires_at": "",
     "updated_at": "",
     "source_id": "replit|discovery_feed",
     "source_adapter": "discovery_feed",
-    "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-    "verification_status": "official requisition verified",
+    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T16:52:19.202Z",
     "verification_version": 6,
-    "priority": "P0"
+    "priority": "P1"
   },
   {
     "role_id": "6a8b357d13cc004befb9a831",
@@ -15852,7 +15961,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:14.176Z",
+    "verified_at": "2026-08-18T17:43:38.920Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -15883,7 +15992,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:14.451Z",
+    "verified_at": "2026-08-18T17:43:39.044Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -15980,7 +16089,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:19.691Z",
+    "verified_at": "2026-08-18T17:43:43.797Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -16011,7 +16120,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:19.426Z",
+    "verified_at": "2026-08-18T17:43:43.186Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -16042,7 +16151,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:18.286Z",
+    "verified_at": "2026-08-18T17:43:44.417Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -16073,7 +16182,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:18.246Z",
+    "verified_at": "2026-08-18T17:43:43.001Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -16170,7 +16279,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/speedyapply/2027-AI-College-Jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:18.349Z",
+    "verified_at": "2026-08-18T17:44:43.148Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -16219,8 +16328,8 @@
       "mechanical",
       "manufacturing-industrial"
     ],
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
+    "title": "Software Engineer Intern",
+    "location": "Marlborough, MA",
     "role_type": "Internship",
     "discipline": "Software Engineering",
     "disciplines": [
@@ -16239,10 +16348,10 @@
     "source_id": "rtx|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T16:52:19.498Z",
     "verification_version": 6,
-    "priority": "P0"
+    "priority": "P1"
   },
   {
     "role_id": "eec01ae575510229c92ba5d7",
@@ -16648,7 +16757,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:09.044Z",
+    "verified_at": "2026-08-18T17:44:33.687Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -16681,7 +16790,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:08.816Z",
+    "verified_at": "2026-08-18T17:44:33.553Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -16933,7 +17042,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:23.871Z",
+    "verified_at": "2026-08-18T17:43:49.545Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -17223,7 +17332,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:26.885Z",
+    "verified_at": "2026-08-18T17:43:53.381Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -17254,7 +17363,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:29.503Z",
+    "verified_at": "2026-08-18T17:43:53.278Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -17787,7 +17896,7 @@
     "source_id": "maven securities|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T16:52:20.590Z",
     "verification_version": 6,
     "priority": "P1"
@@ -18059,8 +18168,8 @@
     "company": "Chicago Trading Company",
     "featured_company": false,
     "featured_disciplines": [],
-    "title": "Software Engineering Internship - Summer 2027",
-    "location": "Chicago, Illinois, United States",
+    "title": "Software Engineer Intern",
+    "location": "Chicago, IL",
     "role_type": "Internship",
     "discipline": "Software Engineering",
     "disciplines": [
@@ -18079,10 +18188,10 @@
     "source_id": "chicago trading company|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T16:52:20.616Z",
     "verification_version": 6,
-    "priority": "P0"
+    "priority": "P1"
   },
   {
     "role_id": "346d189941c5c2613cc20015",
@@ -19894,6 +20003,37 @@
     "priority": "P1"
   },
   {
+    "role_id": "6b94501af81a7d1ce1bdbbbb",
+    "company_id": "valkyrie-trading",
+    "company": "Valkyrie Trading",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "Junior Software Engineer Intern",
+    "location": "Chicago, IL",
+    "role_type": "Internship",
+    "discipline": "Software Engineering",
+    "disciplines": [
+      "software"
+    ],
+    "specialties": [],
+    "compensation": "",
+    "grad_window": "Internship",
+    "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+    "source": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-07-30",
+    "expires_at": "",
+    "updated_at": "",
+    "source_id": "valkyrie trading|discovery_feed",
+    "source_adapter": "discovery_feed",
+    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+    "verification_status": "official verification cached",
+    "verified_at": "2026-08-18T16:52:21.108Z",
+    "verification_version": 6,
+    "priority": "P0"
+  },
+  {
     "role_id": "949a3d10ec372b828ca115ea",
     "company_id": "quadrillion-labs",
     "company": "Quadrillion Labs",
@@ -20988,7 +21128,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/sndsh404/summer-2027-internships",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:22.297Z",
+    "verified_at": "2026-08-18T17:44:47.626Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -21205,7 +21345,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:53.984Z",
+    "verified_at": "2026-08-18T17:44:20.762Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22078,6 +22218,37 @@
     "priority": "P1"
   },
   {
+    "role_id": "994f0759d8f2e8dccc8c1ee7",
+    "company_id": "palo-alto-networks",
+    "company": "Palo Alto Networks",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "Intern - Software Engineer",
+    "location": "Office - USA - CA - Headquarters",
+    "role_type": "Internship",
+    "discipline": "Software Engineering",
+    "disciplines": [
+      "software"
+    ],
+    "specialties": [],
+    "compensation": "",
+    "grad_window": "2027 internship eligible",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
+    "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
+    "date_seen": "2026-08-04",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-01-29",
+    "expires_at": "",
+    "updated_at": "",
+    "source_id": "palo alto networks|discovery_feed",
+    "source_adapter": "discovery_feed",
+    "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+    "verification_status": "official requisition verified",
+    "verified_at": "2026-08-18T17:44:48.060Z",
+    "verification_version": 6,
+    "priority": "P1"
+  },
+  {
     "role_id": "2e3e68bae91e31e80d8bdce7",
     "company_id": "palo-alto-networks",
     "company": "Palo Alto Networks",
@@ -22105,37 +22276,6 @@
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
     "verified_at": "2026-08-18T14:54:46.904Z",
-    "verification_version": 6,
-    "priority": "P1"
-  },
-  {
-    "role_id": "994f0759d8f2e8dccc8c1ee7",
-    "company_id": "palo-alto-networks",
-    "company": "Palo Alto Networks",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "Intern - Software Engineer",
-    "location": "Office - USA - CA - Headquarters",
-    "role_type": "Internship",
-    "discipline": "Software Engineering",
-    "disciplines": [
-      "software"
-    ],
-    "specialties": [],
-    "compensation": "",
-    "grad_window": "2027 internship eligible",
-    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
-    "source": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589",
-    "date_seen": "2026-08-04",
-    "last_seen": "2026-08-17",
-    "posted_at": "2026-01-29",
-    "expires_at": "",
-    "updated_at": "",
-    "source_id": "palo alto networks|discovery_feed",
-    "source_adapter": "discovery_feed",
-    "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-    "verification_status": "official requisition verified",
-    "verified_at": "2026-08-17T13:09:51.488Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -22415,7 +22555,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:21.124Z",
+    "verified_at": "2026-08-18T17:43:46.950Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22446,7 +22586,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:19.964Z",
+    "verified_at": "2026-08-18T17:43:44.679Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22477,7 +22617,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:21.082Z",
+    "verified_at": "2026-08-18T17:43:46.583Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22508,7 +22648,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:18.629Z",
+    "verified_at": "2026-08-18T17:43:43.722Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22539,7 +22679,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:22.297Z",
+    "verified_at": "2026-08-18T17:43:45.889Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22570,7 +22710,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:18.831Z",
+    "verified_at": "2026-08-18T17:43:46.907Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -22669,37 +22809,6 @@
     "priority": "P0"
   },
   {
-    "role_id": "2652c93519cbf53c87b90cf6",
-    "company_id": "booz-allen-hamilton",
-    "company": "Booz Allen Hamilton",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "AI RAN Telecommunications Engineer Intern",
-    "location": "McLean, VA",
-    "role_type": "Internship",
-    "discipline": "AI / Machine Learning",
-    "disciplines": [
-      "ai-ml"
-    ],
-    "specialties": [],
-    "compensation": "",
-    "grad_window": "2027 internship eligible",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
-    "source": "https://careers.boozallen.com/jobs/search",
-    "date_seen": "2026-08-11",
-    "last_seen": "2026-08-18",
-    "posted_at": "2026-08-11",
-    "expires_at": "2026-11-08",
-    "updated_at": "Posted 7 Days Ago",
-    "source_id": "booz allen hamilton|workday",
-    "source_adapter": "workday",
-    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-    "verification_status": "official verification cached",
-    "verified_at": "2026-08-18T13:10:56.904Z",
-    "verification_version": 6,
-    "priority": "P1"
-  },
-  {
     "role_id": "3b817a3f4d5d034e7d105110",
     "company_id": "booz-allen",
     "company": "Booz Allen",
@@ -22727,6 +22836,37 @@
     "discovered_via": "https://github.com/speedyapply/2027-AI-College-Jobs",
     "verification_status": "official verification cached",
     "verified_at": "2026-08-18T14:01:26.133Z",
+    "verification_version": 6,
+    "priority": "P1"
+  },
+  {
+    "role_id": "2652c93519cbf53c87b90cf6",
+    "company_id": "booz-allen-hamilton",
+    "company": "Booz Allen Hamilton",
+    "featured_company": false,
+    "featured_disciplines": [],
+    "title": "AI RAN Telecommunications Engineer Intern",
+    "location": "McLean, VA",
+    "role_type": "Internship",
+    "discipline": "AI / Machine Learning",
+    "disciplines": [
+      "ai-ml"
+    ],
+    "specialties": [],
+    "compensation": "",
+    "grad_window": "2027 internship eligible",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+    "source": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+    "date_seen": "2026-08-11",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-10",
+    "expires_at": "2026-11-08",
+    "updated_at": "",
+    "source_id": "booz allen hamilton|discovery_feed",
+    "source_adapter": "discovery_feed",
+    "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+    "verification_status": "official verification cached",
+    "verified_at": "2026-08-18T13:10:56.904Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -24930,7 +25070,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:20.520Z",
+    "verified_at": "2026-08-18T17:43:46.689Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -24962,7 +25102,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:20.190Z",
+    "verified_at": "2026-08-18T17:43:44.772Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -25338,7 +25478,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:27.366Z",
+    "verified_at": "2026-08-18T17:43:53.349Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -26234,7 +26374,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:25.287Z",
+    "verified_at": "2026-08-18T17:43:51.357Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -26610,7 +26750,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:11.327Z",
+    "verified_at": "2026-08-18T17:43:35.669Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -26957,7 +27097,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:07.596Z",
+    "verified_at": "2026-08-18T17:44:31.959Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -27125,7 +27265,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:30.152Z",
+    "verified_at": "2026-08-18T17:43:56.247Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -27745,7 +27885,7 @@
     "featured_company": false,
     "featured_disciplines": [],
     "title": "Electrical Engineering Intern",
-    "location": "US-DE-Wilmington",
+    "location": "Wilmington, DE",
     "role_type": "Internship",
     "discipline": "Hardware & Electrical Engineering",
     "disciplines": [
@@ -27766,7 +27906,7 @@
     "source_id": "agilent technologies|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T15:50:05.818Z",
     "verification_version": 6,
     "priority": "P1"
@@ -27941,7 +28081,7 @@
     "featured_company": false,
     "featured_disciplines": [],
     "title": "Computer Engineering Intern",
-    "location": "US - Lincoln, NE",
+    "location": "Lincoln, NE",
     "role_type": "Internship",
     "discipline": "Hardware & Electrical Engineering",
     "disciplines": [
@@ -27960,7 +28100,7 @@
     "source_id": "flir systems|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T15:50:05.530Z",
     "verification_version": 6,
     "priority": "P1"
@@ -28485,7 +28625,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:23.227Z",
+    "verified_at": "2026-08-18T17:43:48.691Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -28547,7 +28687,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:09.225Z",
+    "verified_at": "2026-08-18T17:44:33.976Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -28578,7 +28718,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:07.562Z",
+    "verified_at": "2026-08-18T17:44:31.885Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -28740,7 +28880,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:05.130Z",
+    "verified_at": "2026-08-18T17:44:30.358Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -29031,7 +29171,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:07.204Z",
+    "verified_at": "2026-08-18T17:44:31.879Z",
     "verification_version": 6,
     "priority": "P1"
   },
@@ -29338,37 +29478,6 @@
     "priority": "P1"
   },
   {
-    "role_id": "711e3efe613afa5022aa4054",
-    "company_id": "johnson-controls",
-    "company": "Johnson Controls",
-    "featured_company": false,
-    "featured_disciplines": [],
-    "title": "Mechanical Engineering Fall CO Intern",
-    "location": "New Freedom-Pennsylvania-United States of America",
-    "role_type": "Internship",
-    "discipline": "Mechanical Engineering",
-    "disciplines": [
-      "mechanical"
-    ],
-    "specialties": [],
-    "compensation": "$21-$24/hr",
-    "grad_window": "2027 internship eligible",
-    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1",
-    "source": "https://jci.wd5.myworkdayjobs.com/JCI/job/New-Freedom-Pennsylvania-United-States-of-America/Mechanical-Engineering-Fall-CO-Intern_WD30271667-1",
-    "date_seen": "2026-08-04",
-    "last_seen": "2026-08-18",
-    "posted_at": "2026-06-23",
-    "expires_at": "",
-    "updated_at": "",
-    "source_id": "johnson controls|discovery_feed",
-    "source_adapter": "discovery_feed",
-    "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-    "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:23.476Z",
-    "verification_version": 6,
-    "priority": "P1"
-  },
-  {
     "role_id": "fd7901b35f5d197d3d308029",
     "company_id": "generac",
     "company": "Generac",
@@ -29468,7 +29577,7 @@
     "featured_company": false,
     "featured_disciplines": [],
     "title": "Fall Intern, HLS Guidance Engineer",
-    "location": "US-AL-Huntsville",
+    "location": "Huntsville, AL",
     "role_type": "Internship",
     "discipline": "Aerospace Engineering",
     "disciplines": [
@@ -29489,7 +29598,7 @@
     "source_id": "amentum|discovery_feed",
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-    "verification_status": "official requisition verified",
+    "verification_status": "official verification cached",
     "verified_at": "2026-08-18T16:52:09.412Z",
     "verification_version": 6,
     "priority": "P1"
@@ -29526,6 +29635,78 @@
     "verified_at": "2026-08-18T14:00:51.362Z",
     "verification_version": 6,
     "priority": "P1"
+  },
+  {
+    "role_id": "724813009681da324e454570",
+    "company_id": "ge-aerospace",
+    "company": "GE Aerospace",
+    "featured_company": true,
+    "featured_disciplines": [
+      "aerospace",
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "Edison Works Engineering Intern - Aero Design - US - Summer 2027",
+    "location": "Evendale, Ohio, United States of America",
+    "role_type": "Internship",
+    "discipline": "Aerospace Engineering",
+    "disciplines": [
+      "aerospace"
+    ],
+    "specialties": [],
+    "compensation": "",
+    "grad_window": "2027 internship eligible",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---Aero-Design---US---Summer-2027_R5038737/apply",
+    "source": "https://careers.geaerospace.com/global/en/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-17",
+    "expires_at": "",
+    "updated_at": "2026-08-18T00:00:00.000+0000",
+    "source_id": "ge aerospace|phenom",
+    "source_adapter": "phenom",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P0"
+  },
+  {
+    "role_id": "3a04f0c9bfc79f7c5ab55b8b",
+    "company_id": "ge-aerospace",
+    "company": "GE Aerospace",
+    "featured_company": true,
+    "featured_disciplines": [
+      "aerospace",
+      "mechanical",
+      "manufacturing-industrial"
+    ],
+    "title": "Edison Works Engineering Intern - US - Signature Design & Test - Summer 2027",
+    "location": "Evendale, Ohio, United States of America",
+    "role_type": "Internship",
+    "discipline": "Aerospace Engineering",
+    "disciplines": [
+      "aerospace"
+    ],
+    "specialties": [
+      "test-validation"
+    ],
+    "compensation": "",
+    "grad_window": "2027 internship eligible",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---US---Signature-Design---Test---Summer-2027_R5038789-1/apply",
+    "source": "https://careers.geaerospace.com/global/en/",
+    "date_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "posted_at": "2026-08-17",
+    "expires_at": "",
+    "updated_at": "2026-08-18T00:00:00.000+0000",
+    "source_id": "ge aerospace|phenom",
+    "source_adapter": "phenom",
+    "discovered_via": "",
+    "verification_status": "",
+    "verified_at": "",
+    "verification_version": 0,
+    "priority": "P0"
   },
   {
     "role_id": "d510721bf3fa46c510a1be02",
@@ -31638,7 +31819,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:51:12.536Z",
+    "verified_at": "2026-08-18T17:43:36.949Z",
     "verification_version": 6,
     "priority": "P0"
   },
@@ -32262,7 +32443,7 @@
     "source_adapter": "discovery_feed",
     "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
     "verification_status": "official requisition verified",
-    "verified_at": "2026-08-18T16:52:07.416Z",
+    "verified_at": "2026-08-18T17:44:31.870Z",
     "verification_version": 6,
     "priority": "P1"
   },

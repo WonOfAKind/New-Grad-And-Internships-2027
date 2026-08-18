@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 12:52 PM EDT
+Last updated: August 18, 2026 at 1:44 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Toyota Motor North America | Engineer I | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095>) |
 | Kimley-Horn | Mechanical Engineering Analyst | Virginia Beach, VA, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25858/mechanical-engineering-analyst/job>) |
 | 🔥 ExxonMobil | Reliability Engineer (Bonnyville, AB, CA, T9N 2J7) | Bonnyville, AB, CA, T9N 2J7 | - | Explicit new grad role | First seen Aug 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Bonnyville-Reliability-Engineer-AB-T9N-2J7/1418708700>) |
 | Black &amp; Veatch | Associate Mechanical Systems Engineer-Nuclear | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Systems-Engineer-Nuclear-KS-66062/1427174333>) |
