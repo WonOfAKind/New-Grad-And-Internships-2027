@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 4:01 PM EDT
+Last updated: August 18, 2026 at 4:43 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -41,6 +41,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | Systems Engineering Intern II, Summer 2027 (NH-Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302215&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineering Intern IV, Summer 2027 (NH - Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302214&partnerid=25771&siteid=5403>) |
 | True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
+| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Aug 18, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
 
