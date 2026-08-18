@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 10:54 AM EDT
+Last updated: August 18, 2026 at 11:50 AM EDT
 
-Current roles in this view: 27
+Current roles in this view: 29
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,15 +12,17 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Caterpillar | 2027 Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; South Milwaukee, Wisconsin; Green Valley, Arizona; Fort Worth, Texas; San Antonio, Texas; Lafayette, Indiana; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
+| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
 | Vanguard | College to Corporate IT Internship - Data Analyst (NC) | Charlotte, NC | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1>) |
 | Crowe | Data Analytics Developer Intern | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |
 | Analytical Mechanics Associates 🆁 | Graduate Research Scientist intern | Remote - New Jersey | $27.69-$33.85/hr | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://amainc.wd12.myworkdayjobs.com/AMA_Careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1>) |
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7671109787509213445>) |
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7672394389001816325>) |
-| TikTok | Data Science Intern (TikTok Product) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
+| TikTok | Data Science Intern - TikTok Product - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
 | TikTok | Data Scientist Intern (VOD Data) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
-| TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | Motorola Solutions | Supply Chain Data Analyst Internship 2027 | Chicago, IL | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489>) |
 | The Nuclear Company | Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008>) |
 | The Nuclear Company | Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 8, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008>) |

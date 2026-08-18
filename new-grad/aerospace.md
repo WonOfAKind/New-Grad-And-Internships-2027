@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 10:54 AM EDT
+Last updated: August 18, 2026 at 11:50 AM EDT
 
-Current roles in this view: 42
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
+| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866674/System-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866673/Systems-Engineer-I>) |
@@ -21,12 +22,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865900/Manufacturing-Engineer-I>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26073>) |
-| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Engagement) | Chantilly, Virginia | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Engagement-_R2125983/apply>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
-| Sierra Nevada Corporation | Test Engineer I | Sparks, NV | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Test-Engineer-I_R0030484>) |
 | Archer Aviation | Associate Survivability and Operations Analysis Engineer | Remote; San Jose, California, United States | $70,400 - $96,800 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/archer56/jobs/7719738003>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
