@@ -1,27 +1,130 @@
 {
-  "scanned_at": "2026-08-18T21:41:33.846Z",
+  "scanned_at": "2026-08-18T22:01:06.976Z",
   "fresh_leads": [
     {
-      "role_id": "c2e919796267099a186fd8da",
+      "role_id": "0ef2432da63214cfbba6d17f",
+      "company_id": "general-motors",
+      "company": "General Motors",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Early Career Virtual/Computer Aided Engineer",
+      "location": "Warren, Michigan, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
+      "source": "https://search-careers.gm.com/en/jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-21",
+      "updated_at": "Posted 11 Days Ago",
+      "source_id": "general motors|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "af816ac40f61ce69457c3de5",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Corporate Parallel Co-op Program",
+      "location": "Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois",
+      "role_type": "Internship",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial",
+        "data",
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$25.00 - $43.00/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Yesterday",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "80abd1e1927aa362394be4a2",
+      "company_id": "kbr",
+      "company": "KBR",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Systems Engineer, Jr.",
+      "location": "Chantilly, Virginia",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
+      "disciplines": [
+        "aerospace"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply",
+      "source": "https://careers.kbr.com/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-05-05",
+      "expires_at": "",
+      "updated_at": "2026-05-06T00:00:00.000+0000",
+      "source_id": "kbr|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "8f008283a6a467372439550c",
       "company_id": "amentum",
       "company": "Amentum",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
+      "title": "Early Career Payload Integration Systems Engineer (ES2)",
+      "location": "Huntsville, Alabama, US",
       "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "aerospace"
       ],
       "specialties": [],
-      "compensation": "$61,660 - $101,600",
+      "compensation": "",
       "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "url": "https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states",
       "source": "https://www.amentumcareers.com/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
-      "posted_at": "2026-07-16",
+      "posted_at": "2026-08-18",
       "expires_at": "2026-11-16",
       "updated_at": "",
       "source_id": "amentum|sitemap_jobs",
@@ -33,30 +136,30 @@
       "priority": "P0"
     },
     {
-      "role_id": "14adbe1964b745a61b4b764b",
-      "company_id": "kiewit",
-      "company": "Kiewit",
+      "role_id": "16e33e95cc043a73c1dbc35e",
+      "company_id": "aerovironment",
+      "company": "AeroVironment",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Equipment Engineer Intern - Kiewit Equipment Services (Summer 2027)",
-      "location": "Lenexa, KS, US",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
+      "title": "Modeling and Simulation Software Integration Engineer (Junior)",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "mechanical"
+        "software"
       ],
       "specialties": [],
-      "compensation": "$18.00/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://kiewitcareers.kiewit.com/job/Vancouver-Equipment-Engineer-Intern-Kiewit-Equipment-Services-%28Summer-2027%29-WA-98660/1420832300",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440",
+      "source": "https://www.avinc.com/careers/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "posted_at": "2026-08-17",
-      "expires_at": "2027-01-01",
-      "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "expires_at": "",
+      "updated_at": "Posted Yesterday",
+      "source_id": "aerovironment|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -64,82 +167,245 @@
       "priority": "P0"
     },
     {
-      "role_id": "35c6bb01cc11633d1ad65793",
-      "company_id": "kiewit",
-      "company": "Kiewit",
+      "role_id": "75a74442411e92f809f05c46",
+      "company_id": "aerovironment",
+      "company": "AeroVironment",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Field/Office Engineer - MEC Industrial (Entry-Level)",
-      "location": "Phoenix, AZ, US",
+      "title": "Junior Scene Generation Engineer",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "source": "https://www.avinc.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-05",
+      "expires_at": "",
+      "updated_at": "Posted 13 Days Ago",
+      "source_id": "aerovironment|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "9025c86b5cce4320502ae1d8",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Product Development - Materials",
+      "location": "Mossville, Illinois",
       "role_type": "New Grad",
       "discipline": "Mechanical Engineering",
       "disciplines": [
         "mechanical",
-        "hardware-electrical"
+        "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "$82,000/yr",
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$81,370.00 - $133,810.00",
       "grad_window": "Early career",
-      "url": "https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
+      "source": "https://careers.caterpillar.com/en/jobs/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
       "posted_at": "2026-08-17",
-      "expires_at": "2027-01-01",
-      "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Yesterday",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
-      "priority": "P0"
+      "priority": "P1"
     },
     {
-      "role_id": "39a748ab68529071ee03f0f8",
-      "company_id": "rtx",
-      "company": "RTX",
+      "role_id": "21fac593559a321fb47b3386",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
       "featured_company": true,
       "featured_disciplines": [
-        "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "Co-Op: Aftermarket Engineer",
-      "location": "US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
+      "title": "2027 Engineering Rotational Product Development Program-Welding",
+      "location": "Mossville, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
       "disciplines": [
-        "aerospace",
         "mechanical",
         "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
-      "source": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$89,210.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498",
+      "source": "https://careers.caterpillar.com/en/jobs/",
       "date_seen": "2026-08-18",
       "last_seen": "2026-08-18",
-      "posted_at": "2026-08-18",
-      "expires_at": "2026-08-21",
-      "updated_at": "",
-      "source_id": "rtx|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-18T21:41:19.138Z",
-      "verification_version": 6,
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Yesterday",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "a52028782d169a08dd83849a",
+      "company_id": "caterpillar",
+      "company": "Caterpillar",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
+      "location": "Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$81,370.00 - $133,810.00",
+      "grad_window": "Early career",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
+      "source": "https://careers.caterpillar.com/en/jobs/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-17",
+      "expires_at": "2026-12-31",
+      "updated_at": "Posted Yesterday",
+      "source_id": "caterpillar|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "2a9c2ea7802b8ea58d84102e",
+      "company_id": "palo-alto-networks",
+      "company": "Palo Alto Networks",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Technical Marketing Engineer",
+      "location": "Office - USA - CA - Headquarters",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "ai-ml",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$94,000.00 - $153,000.00/yr",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
+      "source": "https://jobs.paloaltonetworks.com/en/search-jobs",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "palo alto networks|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "a9cc056967074a0ff2f259ac",
+      "company_id": "aerovironment",
+      "company": "AeroVironment",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software QA Automation Engineer I",
+      "location": "Moorpark, CA",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$82,000 - $125,000",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
+      "source": "https://www.avinc.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "aerovironment|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "f26bf396116e1d65c5569a37",
+      "company_id": "aerovironment",
+      "company": "AeroVironment",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "100 Quality Circle Suite 100 Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$60,500 - $92,500",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+      "source": "https://www.avinc.com/careers/",
+      "date_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
+      "updated_at": "Posted 5 Days Ago",
+      "source_id": "aerovironment|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     }
   ],
   "removed_roles": [
-    {
-      "company": "AeroVironment",
-      "title": "Modeling and Simulation Software Integration Engineer (Junior)",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440",
-      "reason": "no longer matches board eligibility policy"
-    },
     {
       "company": "Boeing",
       "title": "Entry Level or Associate Software Safety Engineer",
@@ -147,16 +413,10 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "AeroVironment",
-      "title": "Junior Scene Generation Engineer",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "AeroVironment",
-      "title": "Software QA Automation Engineer I",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "reason": "no longer matches board eligibility policy"
+      "company": "General Motors",
+      "title": "ML Validation Engineer - Early Career",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769",
+      "reason": "official qualifications do not match the bachelor's new-grad policy"
     },
     {
       "company": "Maxar",
@@ -168,12 +428,6 @@
       "company": "Sierra Nevada Corporation",
       "title": "Electrical Engineer I",
       "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "AeroVironment",
-      "title": "Electrical Engineer I",
-      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -213,15 +467,21 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Associate Technical Marketing Engineer",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
       "company": "Toyota Motor North America",
       "title": "Engineer I",
       "url": "https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Field/Office Engineer - MEC Industrial (Entry-Level)",
+      "url": "https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -337,12 +597,6 @@
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "KBR",
-      "title": "Systems Engineer, Jr.",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply",
-      "reason": "official qualifications do not match the bachelor's new-grad policy"
     }
   ],
   "scan_log": [
@@ -393,7 +647,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 320,
+      "matches": 319,
       "phase": "fast-pass"
     },
     {
@@ -602,7 +856,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 20,
+      "matches": 21,
       "phase": "fast-pass"
     },
     {
@@ -732,7 +986,7 @@
       "source_id": "blue origin|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -750,16 +1004,8 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Leidos workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Leidos",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -768,7 +1014,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 296,
+      "matches": 297,
       "phase": "fast-pass"
     },
     {
@@ -795,33 +1041,21 @@
       "company": "General Motors",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "General Motors",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Caterpillar",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "general motors|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "caterpillar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 10,
+      "phase": "fast-pass"
     },
     {
       "company": "Northrop Grumman",
@@ -937,17 +1171,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1026,7 +1254,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 96,
+      "matches": 82,
       "phase": "fast-pass"
     },
     {
@@ -1183,17 +1411,11 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "hntb|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 20,
       "phase": "fast-pass"
-    },
-    {
-      "company": "HNTB",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Thornton Tomasetti",
@@ -1461,17 +1683,11 @@
       "company": "Palo Alto Networks",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "palo alto networks|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1895,19 +2111,11 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Zendesk",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Zapier",
@@ -2173,17 +2381,11 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "verily|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Verily",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2309,17 +2511,11 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "booz allen hamilton|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2375,19 +2571,11 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Maxar",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "maxar|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Cedar",
@@ -2639,17 +2827,11 @@
       "company": "AeroVironment",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "aerovironment|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
-    },
-    {
-      "company": "AeroVironment",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Toyota Motor North America",
@@ -2685,17 +2867,11 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2721,33 +2897,21 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
+      "phase": "fast-pass"
     },
     {
       "company": "Abbott",
@@ -2793,19 +2957,11 @@
       "company": "Sierra Nevada Corporation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "sierra nevada corporation|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Curtiss-Wright",
@@ -2891,17 +3047,11 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "bluehalo|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
-    },
-    {
-      "company": "BlueHalo",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2985,34 +3135,34 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-18T21:41:33.846Z",
-    "elapsed_ms": 403392,
+    "scanned_at": "2026-08-18T22:01:06.976Z",
+    "elapsed_ms": 393713,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 253,
     "discovered_sources_active": 169,
     "discovered_companies_active": 169,
-    "companies_with_active_sources": 234,
+    "companies_with_active_sources": 246,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4351,
-      "official_candidates": 1631,
+      "rows_parsed": 4353,
+      "official_candidates": 1632,
       "cached_verifications": 457,
       "reverify_hours": 24,
-      "verification_attempts": 1174,
-      "verification_successes": 281,
+      "verification_attempts": 1175,
+      "verification_successes": 284,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1269,
         "untracked discipline": 739,
         "graduate-degree-only role": 110,
-        "excluded recruiting year": 153,
+        "excluded recruiting year": 155,
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 433,
-        "verification: official page has an excluded recruiting year": 100,
+        "verification: official page has an excluded recruiting year": 98,
         "verification: 404 Not Found": 13,
         "verification: official posting closed: official page does not identify the requisition": 33,
         "verification: official posting closed: Oracle requisition is no longer listed": 12,
@@ -3032,8 +3182,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 1,
-    "discovery_new_sources_this_scan": 1,
+    "discovery_attempts_this_scan": 3,
+    "discovery_new_sources_this_scan": 3,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 37,
@@ -3043,32 +3193,32 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 18,
+    "double_check_attempts": 2,
     "unique_sources_attempted": 253,
-    "total_fetch_attempts": 271,
-    "ok_sources": 234,
-    "error_sources": 18,
+    "total_fetch_attempts": 255,
+    "ok_sources": 246,
+    "error_sources": 6,
     "blocked_sources": 1,
-    "ats_ok_sources": 78,
-    "ats_error_sources": 5,
+    "ats_ok_sources": 82,
+    "ats_error_sources": 1,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 92.9,
+    "ats_success_percent": 97.6,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 14,
-      "Request Timeout": 4
+      "Request Timeout": 4,
+      "429 Too Many Requests": 2
     },
-    "board_eligible_candidates": 1033,
-    "provider_candidate_checks": 187,
+    "board_eligible_candidates": 1079,
+    "provider_candidate_checks": 234,
     "provider_candidate_closed": 2,
     "provider_candidate_ineligible": 25,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 233,
-    "inactive_provider_checks": 176,
+    "closure_checks": 219,
+    "inactive_provider_checks": 145,
     "inactive_provider_closed": 0,
-    "inactive_provider_ineligible": 0,
+    "inactive_provider_ineligible": 1,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 35,
+    "closed_roles_removed": 32,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
