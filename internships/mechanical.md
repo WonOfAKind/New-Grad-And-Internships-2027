@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 4:43 PM EDT
+Last updated: August 18, 2026 at 5:03 PM EDT
 
 Current roles in this view: 54
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Amentum | Mechanical Engineering Intern | US-ID-Scoville | $20.00 - $28.00/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1>) |
+| Amentum | Mechanical Engineering Intern | Scoville, ID | $20.00 - $28.00/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1>) |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003>) |
 | 🔥 Johnson &amp; Johnson | Materials Engineering Co-op | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380>) |
 | Vertiv | Mechanical Design Engineering Internship (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 4:43 PM EDT
+Last updated: August 18, 2026 at 5:03 PM EDT
 
 Current roles in this view: 94
 
@@ -30,9 +30,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Research Engineer Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202602270951733>) |
 | TikTok | Research Engineer Intern, Agentic Systems &amp; AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667934792727906565>) |
 | TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | TikTok | AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7670529537944766773>) |
 | Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
-| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415>) |
 | Micron | Intern - DRAM Design Engineer | Boise, ID, US | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.micron.com/careers/job/43721384-intern-dram-design-engineer-boise-idaho-united-states-of-america>) |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83>) |
 | The Nuclear Company | AI/ML Engineering Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008>) |
@@ -101,8 +101,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914>) |
 | Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913>) |
 | Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915>) |
+| Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | NJ | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837>) |
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | NJ | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838>) |
-| Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837>) |
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65839>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Cohere | Machine Learning Intern/Co-op (Winter 2027) | Canada; Europe; United States; United Kingdom | - | 2027 internship eligible | Posted May 13, 2026<br>First seen Aug 6, 2026 | [Apply](<https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b>) |

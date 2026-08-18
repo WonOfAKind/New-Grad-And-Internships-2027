@@ -2,15 +2,15 @@
 
 [Project overview](README.md) | [New Grad Roles](NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 4:43 PM EDT
+Last updated: August 18, 2026 at 5:03 PM EDT
 
-Current roles: 600
+Current roles: 601
 
 Choose a category below. Cross-disciplinary roles can appear in more than one category, while the total above counts each role once.
 
 | Category | Roles |
 |---|---:|
-| [Software Engineering](internships/software.md) | 281 |
+| [Software Engineering](internships/software.md) | 282 |
 | [AI / Machine Learning](internships/ai-ml.md) | 94 |
 | [Data Science & Analytics](internships/data.md) | 27 |
 | [Product Management](internships/product-management.md) | 27 |
