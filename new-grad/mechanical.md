@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 9:11 AM EDT
+Last updated: August 18, 2026 at 10:01 AM EDT
 
 Current roles in this view: 32
 
@@ -20,15 +20,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | KBR | Junior Mechanical Engineer | Huntsville, Alabama | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2128289/apply>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
-| Sierra Nevada Corporation | Test Engineer I | Sparks, NV | - | Verified early career (BS) | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Test-Engineer-I_R0030484>) |
 | Hyundai | Total Vehicle Evaluation Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Total-Vehicle-Evaluation-Engineer-I-CA-92618/1365341000>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
+| Sierra Nevada Corporation | Test Engineer I | Sparks, NV | - | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Test-Engineer-I_R0030484>) |
 | Hyundai | Thermal Systems Engineer I | California City, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/California-City-Thermal-Systems-Engineer-I-CA-93505/1417921400>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | Black &amp; Veatch | Associate Buildings Mechanical Engineer - Federal | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Buildings-Mechanical-Engineer-Federal-KS-66062/1383242433>) |
-| 🔥 Boeing | Entry-Level Product Review Engineer (Liaison Engineer) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Aug 5, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineer-_JR2026518890-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
+| 🔥 Boeing | Entry-Level Product Review Engineer (Liaison Engineer) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineer-_JR2026518890-1>) |
 | Amentum | Early Career Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Aug 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-engineer-oak-ridge-tennessee-united-states-4b7c3e56-64b7-435b-9d8a-066855e6ccee>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Whirlpool | Associate Product Development Engineer - KitchenAid | St Joseph, MI, US | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403304336-associate-product-development-engineer-kitchenaid-st-joseph-michigan-usa>) |
