@@ -1,69 +1,6 @@
 {
-  "scanned_at": "2026-08-17T23:38:33.578Z",
-  "fresh_leads": [
-    {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-15",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "dd3f3c71f8fbd9059b85d64e",
-      "company_id": "amentum",
-      "company": "Amentum",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Junior RF Engineering Technician",
-      "location": "Dahlgren, Virginia, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/junior-rf-engineering-technician-dahlgren-virginia-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "posted_at": "2026-08-17",
-      "expires_at": "2026-11-15",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    }
-  ],
+  "scanned_at": "2026-08-18T00:00:11.397Z",
+  "fresh_leads": [],
   "removed_roles": [
     {
       "company": "Northrop Grumman",
@@ -75,6 +12,12 @@
       "company": "GE Aerospace",
       "title": "Data Engineer",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Arkansas-City/Data-Engineer_R5036560-2/apply",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Amentum",
+      "title": "Junior RF Engineering Technician",
+      "url": "https://www.amentumcareers.com/jobs/junior-rf-engineering-technician-dahlgren-virginia-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -117,6 +60,12 @@
       "company": "Black & Veatch",
       "title": "Associate Electrical Engineer - Power System Protection",
       "url": "https://careers.bv.com/job/Houston-Associate-Electrical-Engineer-Power-System-Protection-TX-77001/1409009833",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -278,7 +227,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 126,
+      "matches": 125,
       "phase": "fast-pass"
     },
     {
@@ -663,7 +612,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 297,
+      "matches": 298,
       "phase": "fast-pass"
     },
     {
@@ -832,17 +781,11 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "the aerospace corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "The Aerospace Corporation",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -901,7 +844,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 9,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -921,7 +864,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 78,
+      "matches": 106,
       "phase": "fast-pass"
     },
     {
@@ -1520,11 +1463,17 @@
       "company": "Boston Dynamics",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boston dynamics|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boston Dynamics",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Walmart Global Tech",
@@ -2622,8 +2571,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-17T23:38:33.578Z",
-    "elapsed_ms": 339493,
+    "scanned_at": "2026-08-18T00:00:11.397Z",
+    "elapsed_ms": 335652,
     "companies_in_target_list": 450,
     "ats_sources_configured": 76,
     "structured_sources_runtime": 229,
@@ -2635,23 +2584,23 @@
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4632,
-      "official_candidates": 1636,
-      "cached_verifications": 506,
+      "official_candidates": 1637,
+      "cached_verifications": 507,
       "reverify_hours": 24,
       "verification_attempts": 1130,
-      "verification_successes": 293,
+      "verification_successes": 292,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1545,
-        "untracked discipline": 748,
+        "untracked discipline": 750,
         "graduate-degree-only role": 97,
-        "excluded recruiting year": 157,
+        "excluded recruiting year": 156,
         "non-official application URL": 44,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 377,
-        "verification: official page has an excluded recruiting year": 96,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 376,
+        "verification: official page has an excluded recruiting year": 97,
         "verification: 404 Not Found": 13,
-        "verification: official posting closed: provider requisition is no longer listed": 107,
+        "verification: official posting closed: provider requisition is no longer listed": 108,
         "verification: official posting closed: official page does not identify the requisition": 31,
         "verification: official posting closed: Oracle requisition is no longer listed": 9,
         "verification: 405 Not Allowed": 31,
@@ -2663,14 +2612,14 @@
         "verification: fetch failed": 2,
         "verification: official posting closed: explicit closed-page message": 7,
         "verification: official posting closed: redirected away from the requisition": 6,
-        "verification: official provider verification unavailable: request timed out after 15000ms": 3,
+        "verification: official provider verification unavailable: 302 Moved Temporarily": 3,
         "verification: 410 Gone": 2,
         "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 9,
-    "discovery_new_sources_this_scan": 9,
+    "discovery_attempts_this_scan": 2,
+    "discovery_new_sources_this_scan": 2,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 63,
@@ -2686,24 +2635,24 @@
     "ok_sources": 209,
     "error_sources": 19,
     "blocked_sources": 1,
-    "ats_ok_sources": 71,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 72,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 93.4,
+    "ats_success_percent": 94.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
       "429 Too Many Requests": 16,
       "Request Timeout": 3
     },
-    "board_eligible_candidates": 1040,
+    "board_eligible_candidates": 1039,
     "provider_candidate_checks": 169,
     "provider_candidate_closed": 3,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 235,
+    "closure_checks": 237,
     "inactive_provider_checks": 181,
     "inactive_provider_closed": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 29,
+    "closed_roles_removed": 31,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
