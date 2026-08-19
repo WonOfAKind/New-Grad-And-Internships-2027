@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 18, 2026 at 8:01 PM EDT
+Last updated: August 19, 2026 at 9:12 AM EDT
 
-Current roles in this view: 56
+Current roles in this view: 60
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware ASIC Design | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Design for Test (DFT) | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Verification | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500>) |
 | BAE Systems | Technical Intern 3 – RF/Microwave Engineer, Summer 2027 | Westminster, Colorado, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302206&partnerid=25771&siteid=5403>) |
 | 🔥 L3Harris | Intern, Electrical Engineer - Spring 2027 | Greenville, TX, US | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.l3harris.com/en/job/greenville/intern-electrical-engineer-spring-2027/4832/99372980032>) |
 | Nidec | Electrical Engineering Co-op | North America/USA/Arkansas/Ft. Smith, AR | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://nidec.wd1.myworkdayjobs.com/Nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331>) |
@@ -58,7 +63,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
 | Kiewit | Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Electrical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412187100>) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |
-| True Anomaly | Avionics and Electrical Engineering Fall Co-op | Denver, CO \| Long Beach, CA | $28-$32/hour | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5192738007>) |
 | Huntsman | Electrical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027>) |
 | Agilent Technologies | Electrical Engineering Intern | Wilmington, DE | $22.00 - $24.00/hour | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526>) |
 | Neuralink | Electrical Engineer Intern, Implant Embedded Systems | Austin, Texas, United States; South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jun 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7702527003>) |
