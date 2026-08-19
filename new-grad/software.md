@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 6:43 PM EDT
+Last updated: August 19, 2026 at 7:03 PM EDT
 
-Current roles in this view: 218
+Current roles in this view: 216
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -91,7 +91,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343>) |
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
 | Esri | Software Development Engineer I Job \| Esri Career Opportunity | St. Louis, MO | $75,920 - $129,480 USD | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.esri.com/careers/5173239007>) |
@@ -204,7 +203,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TransMarket Group | Junior Quantitative Trader | Chicago, IL | - | Early career | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007>) |
 | TransMarket Group | Junior Software Engineer | Chicago, IL | - | Early career | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007>) |
 | AeroVironment | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 19, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 19, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | Ellipsis Labs | Software Engineer, New Grad | New York, NY | $150,000 - $200,000 | 2027 grad eligible | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d>) |
 | 🔥 Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb>) |
