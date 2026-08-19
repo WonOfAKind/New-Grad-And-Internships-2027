@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 4:48 PM EDT
+Last updated: August 19, 2026 at 5:09 PM EDT
 
-Current roles in this view: 218
+Current roles in this view: 219
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | BAE Systems | 2027 Entry Level Software Engineer | Fort Worth, Texas, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302881&partnerid=25771&siteid=5403>) |
-| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
+| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
 | Point72 | 2027 Cubist Quant Academy – Developers | New York | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7598678002>) |
 | SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | - | Explicit new grad role | First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729121002>) |
 | TikTok | Data Engineer Graduate (Data Platform - Global Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675484418022181173>) |
@@ -90,6 +90,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8662881002>) |
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
+| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
 | Esri | Software Development Engineer I Job \| Esri Career Opportunity | St. Louis, MO | $75,920 - $129,480 USD | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.esri.com/careers/5173239007>) |
