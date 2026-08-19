@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 5:42 PM EDT
+Last updated: August 19, 2026 at 6:03 PM EDT
 
 Current roles in this view: 34
 
@@ -41,7 +41,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | 🔥 Boeing | 2nd or 3rd Shift - Entry-Level Product Review Engineer (Liaison Engineering) | USA - North Charleston, SC | $71,400 - $96,600 | Early career | Posted Jul 10, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/XMLNAME-2nd-or-3rd-Shift---Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026512420>) |
 | Amentum | Early Career Structural Engineer | Oak Ridge, Tennessee, US | $61,000 - $86,000 | Early career | Posted Jul 9, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-engineer-oak-ridge-tennessee-united-states-818050e2-ba28-41fa-80a4-18c41d1721de>) |
-| 🔥 Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
+| 🔥 Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
 | 🔥 Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |

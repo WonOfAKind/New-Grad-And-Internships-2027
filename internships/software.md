@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 5:42 PM EDT
+Last updated: August 19, 2026 at 6:03 PM EDT
 
 Current roles in this view: 297
 
@@ -46,7 +46,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/neuralink/jobs/6594422003>) |
 | Point72 | Quantitative Developer Intern | New York | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8721562002>) |
 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-166 855 35Th St NE… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487>) |
-| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-192 1205 Continent… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324>) |
+| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-192 ~ 1205 Continental Place NE ~ BLDG 192 | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | ByteDance | Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://joinbytedance.com/search/7668315137242351925>) |
 | CloudFit Software | Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) | Lynchburg, VA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://20240827162904_yztgchk5mbbpx7fj.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027>) |
@@ -276,7 +276,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Point72 | Quantitative Research Intern | New York, NY; Seattle, WA | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297667002>) |
 | Point72 | Quantitative Research Intern (NLP) | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8018862002>) |
 | Point72 | Quantitative Research Internship | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
-| Point72 | Quantitative Researcher Intern | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
+| Point72 | Quantitative Researcher Intern | New York | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
 | Jane Street | Network Engineer Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8620793002>) |
 | Jane Street | Quantitative Researcher Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8498547002>) |

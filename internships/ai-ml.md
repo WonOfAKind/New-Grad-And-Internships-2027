@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 5:42 PM EDT
+Last updated: August 19, 2026 at 6:03 PM EDT
 
-Current roles in this view: 100
+Current roles in this view: 99
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Centific 🆁 | AI Research Intern - Physical AI | Remote Work( USA) | $40 Per Hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
 | 🔥 Microsoft | AI Software Engineering Intern | Washington, DC +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1>) |
