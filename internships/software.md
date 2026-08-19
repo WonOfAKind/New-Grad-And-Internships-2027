@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 4:02 PM EDT
+Last updated: August 19, 2026 at 4:48 PM EDT
 
-Current roles in this view: 295
+Current roles in this view: 297
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,12 +16,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Copart | Data Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617>) |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/detroitlions/jobs/4723291005>) |
 | InfiniteQuant 🆁 | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579-quantitative-developer-internship-summer-2027>) |
-| 🔥 Microsoft | AI Software Engineering Intern | Redmond, WA, US; Mountain View, CA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
+| 🔥 Microsoft | AI Software Engineering Intern | Washington, DC +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
+| N1 | Software Engineer Intern (Backend, Rust) | New York City | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6>) |
 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | $18.50 - $33.50 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492>) |
-| 🔥 NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492>) |
+| 🔥 NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499>) |
 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-107 400 Collins Rd… | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Intern--Summer-2027-_01868241>) |
+| ByteDance | Software Engineer Intern (Traffic Infrastructure) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://joinbytedance.com/search/7672626707586746629>) |
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7670875283026053381>) |
 | TikTok | Site Reliability Engineer Intern (Global SRE) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7670874691332212997>) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7667935739300792629>) |
