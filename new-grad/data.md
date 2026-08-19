@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 2:03 PM EDT
+Last updated: August 19, 2026 at 2:57 PM EDT
 
-Current roles in this view: 15
+Current roles in this view: 16
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Booz Allen Hamilton | Data Analyst, Junior | Washington, DC | $48,000.00 - $98,000.00 | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Analyst--Junior_R0246709>) |
 | TikTok | Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start | Fontana, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675510156642142469>) |
 | TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674027218993154357>) |
 | TikTok | Data Scientist Graduate (Multimedia) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7673672141010815237>) |
