@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-19T15:55:31.666Z",
+  "updated_at": "2026-08-19T16:51:06.664Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,10 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T15:55:31.666Z",
-      "last_scan_status": "error",
-      "last_scan_error": "NVIDIA workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-19T14:56:23.756Z"
+      "last_scan_at": "2026-08-19T16:51:06.664Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-19T16:51:06.664Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -3933,10 +3933,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T15:55:31.666Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-19T14:56:23.756Z"
+      "last_scan_at": "2026-08-19T16:51:06.664Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-19T16:51:06.664Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4593,10 +4593,10 @@
         "limit": 20,
         "verified_open_jobs": 704
       },
-      "last_scan_at": "2026-08-19T15:55:31.666Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-19T14:56:23.756Z"
+      "last_scan_at": "2026-08-19T16:51:06.664Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-19T16:51:06.664Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5851,9 +5851,9 @@
         "limit": 20,
         "verified_open_jobs": 308
       },
-      "last_scan_at": "2026-08-19T13:12:49.905Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T16:51:06.664Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T13:12:49.905Z"
     },
     "chevron": {
