@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 10:00 AM EDT
+Last updated: August 19, 2026 at 10:56 AM EDT
 
-Current roles in this view: 31
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Fall Intern, HLS Guidance Engineer | Huntsville, AL | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Fall-Intern--HLS-Guidance-Engineer_R0168404>) |
 | 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
+| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
 | 🔥 GE Aerospace | Edison Works Engineering Intern - Aero Design - US - Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---Aero-Design---US---Summer-2027_R5038737/apply>) |
 | 🔥 GE Aerospace | Edison Works Engineering Intern - US - Signature Design &amp; Test - Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---US---Signature-Design---Test---Summer-2027_R5038789-1/apply>) |
 | 🔥 GE Aerospace | Unison Engineering Intern - Fall 2027 | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1/apply>) |
