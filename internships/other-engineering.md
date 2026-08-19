@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 1:43 PM EDT
+Last updated: August 19, 2026 at 2:03 PM EDT
 
-Current roles in this view: 59
+Current roles in this view: 60
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Caterpillar | 2027 Summer Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | Microchip Technology | Intern - Engineering (Applications) | Lawrence, MA | $20.00-$28.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lawrence/Intern---Engineering--Applications-_R3569-26>) |
 | HNTB | Returning New Grad Field Engineer I - MAD (For current/previous HNTB interns only) – Summer 2027 | Philadelphia, PA (Pennsylvania); Harrisburg, PA; Charlotte, NC (Whitehall); Pittsburgh, PA; Baltimore, MD; Fairmont, WV (Elkins); Raleigh, NC; Charlotte, NC; Raleigh, NC (Raleigh Field); Virginia Beach, VA; Scott Depot, WV (Charleston); North Charleston, SC; Washington, DC; Glen Allen, VA (Richmond); King of Prussia, PA (Norristown); Arlington, VA (Alexandria) | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-New-Grad-Field-Engineer-I---MAD--For-current-previous-HNTB-interns-only----Summer-2027_R-31239-1>) |
 | Marmon Holdings | Engineering Co-op | Chicago, IL | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Co-op_JR0000045243-3>) |
@@ -69,6 +70,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
 | Mariana Minerals | Chemical Engineering Intern | Moab, UT | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a>) |
 | ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
-| HNTB | Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania); King of Prussia, PA (Norristown); King of Prussia, PA (Geerdes) | - | 2027 internship eligible | Posted Apr 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874>) |
+| HNTB | Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | Posted Apr 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874>) |
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Jul 23, 2025<br>First seen Aug 3, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR104026>) |
 

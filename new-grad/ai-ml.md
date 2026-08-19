@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 1:43 PM EDT
+Last updated: August 19, 2026 at 2:03 PM EDT
 
 Current roles in this view: 61
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
+| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
 | Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674023327725373701>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674025781001062709>) |
