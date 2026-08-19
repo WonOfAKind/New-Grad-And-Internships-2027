@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 3:41 PM EDT
+Last updated: August 19, 2026 at 4:02 PM EDT
 
-Current roles in this view: 61
+Current roles in this view: 62
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -65,6 +65,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668700671828707589>) |
 | TikTok | ML Infra Engineer Graduate (Ads Infra) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668693662561634613>) |
 | Booz Allen Hamilton | AI/ML Engineer, Junior | Wharton, NJ | $55,200.00 - $126,000.00 | Early career | Posted Jul 28, 2026<br>First seen Aug 11, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/AI-ML-Engineer--Junior_R0245456>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | $85,000 - $100,000 | Early career | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |

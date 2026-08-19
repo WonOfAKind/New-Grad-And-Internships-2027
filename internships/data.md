@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 3:41 PM EDT
+Last updated: August 19, 2026 at 4:02 PM EDT
 
 Current roles in this view: 29
 
@@ -23,7 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7672394389001816325>) |
 | The Boeing Company | Data Analytics Intern | Ridley Park, PA | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976>) |
 | TikTok | Data Science Intern (TikTok Product) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
-| TikTok | Data Scientist Intern - VOD Data - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
+| TikTok | Data Scientist Intern (VOD Data) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
 | TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | Motorola Solutions | Supply Chain Data Analyst Internship 2027 | Chicago, IL | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489>) |
 | The Nuclear Company | Data Science Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008>) |

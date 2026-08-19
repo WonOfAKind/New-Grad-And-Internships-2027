@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 3:41 PM EDT
+Last updated: August 19, 2026 at 4:02 PM EDT
 
-Current roles in this view: 59
+Current roles in this view: 60
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -65,6 +65,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HNTB | Co-op Roadway Engineer: Fall/Winter 2026-2027 | Blue Ash, OH (Cincinnati); Cleveland, OH; Columbus, OH | $21.07 - $31.60/hr | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Blue-Ash-OH-Cincinnati/Co-op-Roadway-Engineer--Fall-Winter-2026-2027_R-30054-1>) |
 | HNTB | Construction Management/Project Controls Co-op - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania); Philadelphia, PA (Philadelphia Airport) | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Construction-Management-Project-Controls-Co-op---Fall-Winter-2026-2027_R-29872>) |
 | Huntsman | Chemical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Chemical-Engineering-Intern_J-020025>) |
+| Unison (GE Aerospace) | Engineering Intern (Summer 2027) | Jacksonville, FL | $20/hour | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027>) |
 | Magna | Intern - Systems Engineering | Southfield, Michigan, US | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437>) |
 | Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
 | Mariana Minerals | Chemical Engineering Intern | Moab, UT | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a>) |

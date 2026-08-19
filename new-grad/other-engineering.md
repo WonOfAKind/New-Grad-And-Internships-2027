@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 3:41 PM EDT
+Last updated: August 19, 2026 at 4:02 PM EDT
 
-Current roles in this view: 97
+Current roles in this view: 96
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -50,7 +50,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Towson, MD, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25314/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Virginia Beach, VA, US | $80,000 - $83,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25287/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Warrenville, IL, US | $84,000-$87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25277/civil-engineering-analyst/job>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Kiewit | Field/Office Engineer - Central District (Entry-Level) | San Ygnacio, TX, US | $82,000 - $91,000 | Early career | Posted Aug 10, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
 | Kimley-Horn | Civil Engineering Analyst | Arlington, VA, US | $92,000 - $95,500 | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25212/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Baltimore, MD, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25168/civil-engineering-analyst/job>) |
