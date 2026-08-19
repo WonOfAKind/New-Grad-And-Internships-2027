@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 18, 2026 at 7:39 PM EDT
+Last updated: August 18, 2026 at 8:01 PM EDT
 
-Current roles in this view: 48
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,11 +21,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
-| 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866674/System-Engineer-I>) |
-| 🔥 Pratt &amp; Whitney | Systems Engineer I | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866673/Systems-Engineer-I>) |
+| 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01866674/System-Engineer-I>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420867300>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I | aurora, Colorado, United States of America | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867258/Systems-Engineer-I>) |
+| 🔥 Pratt &amp; Whitney | Systems Engineer I | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01866673/Systems-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | 2027 Fulltime - Systems Engineer II – Onsite | el segundo, California, United States of America | - | 2027 grad eligible | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01859558/2027-Fulltime-Systems-Engineer-II-Onsite>) |
 | 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865900/Manufacturing-Engineer-I>) |
@@ -58,6 +58,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
-| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 18, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 18, 2024<br>First seen Aug 18, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 
