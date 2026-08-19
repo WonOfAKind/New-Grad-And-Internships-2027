@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 5:09 PM EDT
+Last updated: August 19, 2026 at 5:42 PM EDT
 
-Current roles in this view: 219
+Current roles in this view: 218
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | BAE Systems | 2027 Entry Level Software Engineer | Fort Worth, Texas, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302881&partnerid=25771&siteid=5403>) |
-| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
+| General Motors | (New College Graduate) Associate AI &amp; Data Engineering Engineer | Warren, Michigan, United States of America; Austin, Texas, United States of America; Mountain View, California, United States of America | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970>) |
 | Point72 | 2027 Cubist Quant Academy – Developers | New York | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7598678002>) |
 | SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | - | Explicit new grad role | First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729121002>) |
 | TikTok | Data Engineer Graduate (Data Platform - Global Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675484418022181173>) |
@@ -205,7 +205,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TransMarket Group | Junior Quantitative Trader | Chicago, IL | - | Early career | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151574007>) |
 | TransMarket Group | Junior Software Engineer | Chicago, IL | - | Early career | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151549007>) |
 | AeroVironment | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 19, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 19, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 19, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | Ellipsis Labs | Software Engineer, New Grad | New York, NY | $150,000 - $200,000 | 2027 grad eligible | Posted Jul 17, 2026<br>First seen Jul 20, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d>) |
 | 🔥 Palantir | Forward Deployed Software Engineer, New Grad - US Government | Washington, D.C. | $135,000 - $145,000/year | Explicit new grad role | Posted Jul 17, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb>) |
@@ -225,9 +224,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Software Engineer, New Grad - Infrastructure | Palo Alto, CA | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d>) |
 | 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | New York, NY | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a>) |
 | 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af>) |
-| 🔥 Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
+| 🔥 Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Aquatic | Software Engineer, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002>) |
-| Tower Research Capital | Quantitative Trader/Researcher - 2027 | New York, Chicago | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
+| Tower Research Capital | Quantitative Trader | New York, NY; Chicago, IL | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | - | Early career | Posted Jun 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2125556/apply>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | $80,000 - $100,000 | Early career | Posted Jun 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294/apply>) |
 | KBR | Jr Software Developer Astro Engineer | Colorado Springs, Colorado | - | Early career | Posted May 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2123749/apply>) |

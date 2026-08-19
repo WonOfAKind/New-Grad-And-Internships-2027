@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-19T21:09:27.388Z",
+  "updated_at": "2026-08-19T21:42:47.807Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T21:09:27.388Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 442
       },
-      "last_scan_at": "2026-08-19T14:56:23.756Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T14:56:23.756Z"
     },
     "palo alto networks": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1435
       },
-      "last_scan_at": "2026-08-19T14:56:23.756Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T14:56:23.756Z"
     },
     "wiz": {
@@ -2358,9 +2358,9 @@
         "limit": 20,
         "verified_open_jobs": 339
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2501,7 +2501,7 @@
     },
     "hubspot": {
       "company": "HubSpot",
-      "checked_at": "2026-08-17T22:36:52.905Z",
+      "checked_at": "2026-08-19T21:36:42.441Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2525,10 +2525,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-17T22:43:16.515Z"
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-19T21:42:47.807Z"
     },
     "zendesk": {
       "company": "Zendesk",
@@ -3933,9 +3933,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T21:09:27.388Z"
     },
     "l3harris": {
@@ -4997,7 +4997,7 @@
     },
     "airbus": {
       "company": "Airbus",
-      "checked_at": "2026-08-18T13:54:10.875Z",
+      "checked_at": "2026-08-19T21:36:42.441Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5015,10 +5015,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-18T14:01:27.941Z"
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-19T21:42:47.807Z"
     },
     "aerovironment": {
       "company": "AeroVironment",
@@ -5165,9 +5165,9 @@
         "limit": 20,
         "verified_open_jobs": 413
       },
-      "last_scan_at": "2026-08-19T20:48:39.482Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-19T20:48:39.482Z"
     },
     "parker hannifin": {
@@ -5281,9 +5281,9 @@
         "limit": 20,
         "verified_open_jobs": 981
       },
-      "last_scan_at": "2026-08-19T21:09:27.388Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T21:09:27.388Z"
     },
     "johnson & johnson": {
@@ -5315,9 +5315,9 @@
         "limit": 20,
         "verified_open_jobs": 1156
       },
-      "last_scan_at": "2026-08-19T20:48:39.482Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T20:48:39.482Z"
     },
     "abbott": {
@@ -5756,9 +5756,9 @@
         "limit": 20,
         "verified_open_jobs": 247
       },
-      "last_scan_at": "2026-08-19T20:02:39.362Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T20:02:39.362Z"
     },
     "michelin": {
@@ -5851,9 +5851,9 @@
         "limit": 20,
         "verified_open_jobs": 308
       },
-      "last_scan_at": "2026-08-19T17:43:22.357Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T17:43:22.357Z"
     },
     "chevron": {
