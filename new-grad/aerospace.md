@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 9:12 AM EDT
+Last updated: August 19, 2026 at 10:00 AM EDT
 
 Current roles in this view: 45
 
@@ -19,8 +19,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | Systems Engineer - Entry Level | Huntsville, Alabama, United States | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302853&partnerid=25771&siteid=5403>) |
 | Moog | Engineer I | Mineral Wells, TX | $70,000.00 - $80,000.00 Annually | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19148>) |
 | Moog | Engineer I | Mineral Wells, TX | $70,000.00 - $80,000.00 Annually | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145>) |
+| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
-| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 Pratt &amp; Whitney | Life Cycle Engineering - Systems Engineer I | el segundo, California, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867208/Life-Cycle-Engineering-Systems-Engineer-I>) |
