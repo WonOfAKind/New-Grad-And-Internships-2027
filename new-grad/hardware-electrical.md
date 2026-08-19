@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 10:56 AM EDT
+Last updated: August 19, 2026 at 11:55 AM EDT
 
-Current roles in this view: 23
+Current roles in this view: 21
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -23,12 +23,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
 | AeroVironment | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 19, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
-| Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 4, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Jul 30, 2026<br>First seen Aug 19, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering-->) |
 | BAE Systems | FAST Lab – Entry Level FPGA Engineer | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 29, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301953&partnerid=25771&siteid=5403>) |
-| Boeing | DSP Algorithms Engineer (Entry-Level) | USA - El Segundo, CA | $79,050- $106,950 | Early career | Posted Jul 29, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Jul 21, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | First seen Aug 19, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |

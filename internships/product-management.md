@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 10:56 AM EDT
+Last updated: August 19, 2026 at 11:55 AM EDT
 
-Current roles in this view: 27
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -35,6 +35,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Uline | Product Management Intern | Kenosha, WI | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939>) |
 | 🔥 Amazon | 2027 Amazon Leadership Accelerator (ALA) Product Manager Internship | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship>) |
 | American Express | Product Management Intern | New York, NY | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916>) |
+| Skydio | Hardware Product Management Intern | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041243-product-manager-intern->) |
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8041243>) |
 | Oracle | Product Manager Intern - OVIP | Kansas City, MO | $19.09 - $36.35 per hour | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348>) |
