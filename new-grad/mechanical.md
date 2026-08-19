@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 19, 2026 at 6:03 PM EDT
+Last updated: August 19, 2026 at 6:43 PM EDT
 
 Current roles in this view: 34
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003>) |
 | 🔥 Toyota Motor North America | Engineer I | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095>) |
 | Kiewit | Field/Office Engineer - MEC Industrial (Entry-Level) | Phoenix, AZ, US | $82,000/yr | Early career | Posted Aug 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700>) |
@@ -34,7 +35,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Early Career Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Aug 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-engineer-oak-ridge-tennessee-united-states-4b7c3e56-64b7-435b-9d8a-066855e6ccee>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Whirlpool | Associate Product Development Engineer - KitchenAid | St Joseph, MI, US | - | Verified early career (BS) | Posted Jul 29, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403304336-associate-product-development-engineer-kitchenaid-st-joseph-michigan-usa>) |
-| 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Black &amp; Veatch | Associate Mechanical Engineer - Industrial Buildings and Utility Systems | Atlanta, GA, US | - | Verified early career (BS) | Posted Jul 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Engineer-Industrial-Buildings-and-Utility-Systems-KS-66062/1378645133>) |
