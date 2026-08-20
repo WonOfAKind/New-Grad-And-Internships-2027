@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 1:48 PM EDT
+Last updated: August 20, 2026 at 2:09 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 48
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $80,000 - $90,000 annually | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states-e05d76c3-73ca-45a2-806d-507dedb01c0c>) |
+| 🔥 Boeing | Entry-Level Loads and Dynamics Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $71,400 - $96,600 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Loads-and-Dynamics-Engineer_JR2026522380>) |
 | 🔥 Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | Moog | Engineer I | Mineral Wells, TX | $75,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19507>) |
 | 🔥 Pratt &amp; Whitney | Secure Systems Engineer 1 (Onsite) | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865634/Secure-Systems-Engineer-1-Onsite>) |
@@ -23,6 +24,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Engineer I | Mineral Wells, TX | $70,000.00 - $80,000.00 Annually | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
+| 🔥 Pratt &amp; Whitney | Systems Engineer I- Onsite | woburn, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867919/Systems-Engineer-I-Onsite>) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
 | 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01866674/System-Engineer-I>) |
