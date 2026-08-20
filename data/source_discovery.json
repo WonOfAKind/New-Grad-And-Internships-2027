@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-20T23:08:06.111Z",
+  "updated_at": "2026-08-20T23:42:12.453Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-20T23:08:06.111Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "netflix": {
@@ -2534,10 +2534,10 @@
         "limit": 20,
         "verified_open_jobs": 100
       },
-      "last_scan_at": "2026-08-20T23:08:06.111Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T20:48:35.550Z"
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:42:12.453Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -4140,9 +4140,10 @@
         "limit": 20,
         "verified_open_jobs": 167
       },
-      "last_scan_at": "2026-08-20T23:08:06.111Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:42:12.453Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4811,9 +4812,9 @@
         "limit": 20,
         "verified_open_jobs": 219
       },
-      "last_scan_at": "2026-08-20T21:45:27.168Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T21:45:27.168Z"
     },
     "mathworks": {
@@ -5182,10 +5183,10 @@
         "limit": 20,
         "verified_open_jobs": 1094
       },
-      "last_scan_at": "2026-08-20T23:08:06.111Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:10:30.513Z"
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:42:12.453Z"
     },
     "trane technologies": {
       "company": "Trane Technologies",
@@ -5264,10 +5265,10 @@
         "limit": 20,
         "verified_open_jobs": 970
       },
-      "last_scan_at": "2026-08-20T23:08:06.111Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T20:48:35.550Z"
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:42:12.453Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5298,10 +5299,10 @@
         "limit": 20,
         "verified_open_jobs": 1166
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T20:48:35.550Z"
+      "last_scan_at": "2026-08-20T23:42:12.453Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:42:12.453Z"
     },
     "abbott": {
       "company": "Abbott",
