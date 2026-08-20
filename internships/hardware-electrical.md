@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 20, 2026 at 5:10 PM EDT
+Last updated: August 20, 2026 at 5:45 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 69
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BAE Systems | 2027 Co-Op (Spring-Summer or Summer-Fall) Electrical Engineer (onsite) | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=299837&partnerid=25771&siteid=5403>) |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3>) |
+| Monolithic Power Systems | Technical Sales Engineer Intern | San Jose, CA | $37.00/hr | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Technical-Sales-Engineer-Intern_R-1892>) |
 | Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67781>) |
@@ -60,7 +62,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | DRW | FPGA Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Aug 3, 2026 | [Apply](<https://drw.com/work-at-drw/listings/fpga-intern-3484423>) |
 | Skydio | Hardware Product Management Intern | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
 | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX | - | 2027 internship eligible | Posted Jul 31, 2026<br>First seen Jul 31, 2026 | [Apply](<https://job-boards.greenhouse.io/virtu/jobs/8657286002>) |
-| BAE Systems | 2027 Co-Op (Spring-Summer or Summer-Fall) Electrical Engineer (onsite) | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=299837&partnerid=25771&siteid=5403>) |
 | BAE Systems | Engineering Intern (EE/CE/RF) III, Summer 2027 (Hybrid) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301582&partnerid=25771&siteid=5403>) |
 | BAE Systems | Operations Engineering (Industrial, Mechanical, Electrical) Co-op, Spring/Summer, 2027 | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300473&partnerid=25771&siteid=5403>) |
 | BAE Systems | Radio-frequency (RF) Engineering Intern III, Summer 2027 (Hybrid) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301579&partnerid=25771&siteid=5403>) |
