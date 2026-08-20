@@ -1,35 +1,796 @@
 {
-  "scanned_at": "2026-08-20T00:01:27.508Z",
+  "scanned_at": "2026-08-20T13:14:57.267Z",
   "fresh_leads": [
     {
-      "role_id": "eda568e335019b2edb700146",
-      "company_id": "crane-co",
-      "company": "Crane Co.",
+      "role_id": "5f522e8487603da61bcd5311",
+      "company_id": "tiktok",
+      "company": "TikTok",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Mechanical Engineering CO-OP",
-      "location": "Elyria, Ohio",
-      "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
+      "title": "Software Engineer Graduate (TikTok Search Data Infra) - 2027 Start",
+      "location": "San Jose, California, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "mechanical"
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://lifeattiktok.com/search/7675829388634392837",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "a172632bd6f934e2c7dfd5e3",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start",
+      "location": "Seattle, Washington, United States of America",
+      "role_type": "New Grad",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://lifeattiktok.com/search/7675843332462872885",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3efa9f20afded38df70b4e6b",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2027 Start",
+      "location": "San Jose, California, United States of America",
+      "role_type": "New Grad",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://lifeattiktok.com/search/7675844938504702213",
+      "source": "https://careers.tiktok.com/search",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|tiktok",
+      "source_adapter": "tiktok",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "e7becf05a2ab09d795d3efd4",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Summer",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7675517686256863541",
+      "source": "https://lifeattiktok.com/search/7675517686256863541",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:30.658Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "a9c3d2cdcf2e2343ac4911d7",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (TikTok Search Architecture) - 2027 Fall",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7675524738811218229",
+      "source": "https://lifeattiktok.com/search/7675524738811218229",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:30.895Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "80877cc6af1e85077142ff71",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Summer",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7675159726676101381",
+      "source": "https://lifeattiktok.com/search/7675159726676101381",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:31.521Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "68c541bb3541a5dea1ec51ec",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Infra, Performance Efficiency) - 2027 Fall",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7675163472469444917",
+      "source": "https://lifeattiktok.com/search/7675163472469444917",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:30.836Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "e087ae20ea246ad55413ea96",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "location": "Seattle, WA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$42.75- $42.75/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7674029284224092421",
+      "source": "https://lifeattiktok.com/search/7674029284224092421",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:31.188Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "d8e79d6b5ba72a9f79e9907d",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7672930401597671733",
+      "source": "https://lifeattiktok.com/search/7672930401597671733",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:31.309Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "8d65c5e9ea488905d220d859",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
+      "location": "Seattle, WA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$42.75- $42.75/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7672926068681951493",
+      "source": "https://lifeattiktok.com/search/7672926068681951493",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:32.190Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "d6439c674257a0eb9004c8ac",
+      "company_id": "tiktok",
+      "company": "TikTok",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Fall",
+      "location": "San Jose, CA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$45- $45/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://lifeattiktok.com/search/7672934842451577141",
+      "source": "https://lifeattiktok.com/search/7672934842451577141",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "tiktok|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-SWE-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:32.615Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "d197e003a91fdc18ee800dfb",
+      "company_id": "crowe",
+      "company": "Crowe",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "AI Functional Intern - WINTER 2027",
+      "location": "Chicago IL USA",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$27.00 - $42.00 per hour",
+      "grad_window": "2027 internship eligible",
+      "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+      "source": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "2026-10-30",
+      "updated_at": "",
+      "source_id": "crowe|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:40.507Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c83097a378ddd12c5149066e",
+      "company_id": "regions",
+      "company": "Regions",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "2027 ETP Intern - Technology, Operations, Digital, and Data - Analytics",
+      "location": "Hoover, AL - Riverchase Operations Center (Birmingham, AL)",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
       ],
       "specialties": [],
       "compensation": "",
       "grad_window": "2027 internship eligible",
-      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190",
-      "source": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190",
-      "date_seen": "2026-08-19",
-      "last_seen": "2026-08-19",
+      "url": "https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
+      "source": "https://regions.wd5.myworkdayjobs.com/en-US/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "2026-09-25",
+      "updated_at": "",
+      "source_id": "regions|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:14:40.665Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-18",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3df46442c0cbf69112dcf4fd",
+      "company_id": "peraton",
+      "company": "Peraton",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Jr Cyber Software Engineer",
+      "location": "CA",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$80,000 - $128,000",
+      "grad_window": "Early career",
+      "url": "https://www.careers.peraton.com/jobs/jr-cyber-software-engineer-san-diego-california-169255-jobs--information-technology--",
+      "source": "https://www.careers.peraton.com/",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
       "posted_at": "2026-08-19",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "crane co.|discovery_feed",
+      "source_id": "peraton|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "ed78c373dcbeedbe1fec4fb0",
+      "company_id": "whirlpool",
+      "company": "Whirlpool",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Controls Engineering LDP - Full Time",
+      "location": "Columbus, OH, US",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "url": "https://jobs.whirlpool.com/careers/job/34403012880-manufacturing-controls-engineering-ldp-full-time-columbus-ohio-usa",
+      "source": "https://jobs.whirlpool.com/",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "2027-02-15",
+      "updated_at": "",
+      "source_id": "whirlpool|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "1c305f253d7e4b53e50756eb",
+      "company_id": "e-space",
+      "company": "E-Space",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Embedded Software Engineering Intern",
+      "location": "Arlington, TX",
+      "role_type": "Internship",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3",
+      "source": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-20",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "e-space|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:13:33.799Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ef11e8db16bedc9fbcc0ae63",
+      "company_id": "rtx",
+      "company": "RTX",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Software Engineer I (Onsite)",
+      "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-12",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "rtx|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T13:13:47.848Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "de8ec967353ff7d605f53aff",
+      "company_id": "leidos",
+      "company": "Leidos",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Transportation Engineering Lab Intern",
+      "location": "McLean, VA",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00189519",
+      "source": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00189519",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "leidos|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-20T00:01:12.520Z",
+      "verified_at": "2026-08-20T13:14:28.293Z",
       "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "1093504ba1e3653db383b708",
+      "company_id": "kimley-horn",
+      "company": "Kimley-Horn",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Civil Engineering Analyst",
+      "location": "Fort Lauderdale, FL, US",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25064/civil-engineering-analyst/job",
+      "source": "https://jobs-kimley-horn.icims.com/jobs/search?ss=1",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-03",
+      "expires_at": "2027-08-03",
+      "updated_at": "",
+      "source_id": "kimley-horn|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "a051f5adc3e2ecbb340bf4a6",
+      "company_id": "kimley-horn",
+      "company": "Kimley-Horn",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Civil Engineering Analyst",
+      "location": "Vero Beach, FL, US",
+      "role_type": "New Grad",
+      "discipline": "Other Engineering",
+      "disciplines": [
+        "other-engineering"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25103/civil-engineering-analyst/job",
+      "source": "https://jobs-kimley-horn.icims.com/jobs/search?ss=1",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-03",
+      "expires_at": "2027-08-03",
+      "updated_at": "",
+      "source_id": "kimley-horn|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "2a9c2ea7802b8ea58d84102e",
+      "company_id": "palo-alto-networks",
+      "company": "Palo Alto Networks",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Associate Technical Marketing Engineer",
+      "location": "Office - USA - CA - Headquarters",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "ai-ml",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$94,000.00 - $153,000.00/yr",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
+      "source": "https://jobs.paloaltonetworks.com/en/search-jobs",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "palo alto networks|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "1eb9e780c13856a14a64f1a6",
+      "company_id": "whirlpool",
+      "company": "Whirlpool",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Controls Engineering LDP Intern",
+      "location": "Columbus, OH, US",
+      "role_type": "Internship",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.whirlpool.com/careers/job/34403012876-manufacturing-controls-engineering-ldp-intern-columbus-ohio-usa",
+      "source": "https://jobs.whirlpool.com/",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "2027-02-15",
+      "updated_at": "",
+      "source_id": "whirlpool|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "64b58c1313ba94a22263b9fb",
+      "company_id": "whirlpool",
+      "company": "Whirlpool",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern",
+      "location": "St Joseph, MI, US",
+      "role_type": "Internship",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical",
+        "hardware-electrical",
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa",
+      "source": "https://jobs.whirlpool.com/",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-19",
+      "expires_at": "2027-02-15",
+      "updated_at": "",
+      "source_id": "whirlpool|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ad4342c1d8a083b1c48abcbd",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Electrical Engineer 1",
+      "location": "Millersburg, Pennsylvania, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing",
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1",
+      "source": "https://jobs.thermofisher.com/global/en",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "2026-08-01",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     }
   ],
@@ -41,10 +802,22 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "reason": "no longer matches board eligibility policy"
+      "company": "PTC",
+      "title": "Junior Software Engineer",
+      "url": "https://ptc.wd1.myworkdayjobs.com/PTC/job/USA-San-Mateo-CA/Junior-Software-Engineer_JR112167",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "KBR",
+      "title": "Jr Software Engineer",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Jr-Software-Engineer_R2126837/apply",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "AbbVie",
+      "title": "Associate Software Engineer I",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564-associate-software-engineer-i",
+      "reason": "expired"
     },
     {
       "company": "AeroVironment",
@@ -77,12 +850,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Thermo Fisher Scientific",
       "title": "Manufacturing Electrical Engineer 1",
       "url": "https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1",
@@ -95,21 +862,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Draper",
       "title": "Entry Level RF Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Associate Technical Marketing Engineer",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -128,12 +883,6 @@
       "company": "Hyundai",
       "title": "Total Vehicle Evaluation Engineer I",
       "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Total-Vehicle-Evaluation-Engineer-I-CA-92618/1365341000",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "General Motors",
-      "title": "Early Career Virtual/Computer Aided Engineer",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -203,6 +952,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "GlobalFoundries",
+      "title": "Manufacturing Operations Engineer (2027 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Manufacturing-Operations-Engineer--2027-New-College-Graduate-_JR-2604695",
+      "reason": "official verification confirmed closure"
+    },
+    {
       "company": "ExxonMobil",
       "title": "Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4)",
       "url": "https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700",
@@ -257,9 +1012,21 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "GlobalFoundries",
-      "title": "Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027)",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604585",
+      "company": "Crane Co.",
+      "title": "Mechanical Engineering CO-OP",
+      "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Moog",
+      "title": "Intern, Product Engineering",
+      "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Mariana Minerals",
+      "title": "Chemical Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a",
       "reason": "official verification confirmed closure"
     }
   ],
@@ -291,7 +1058,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 899,
+      "matches": 897,
       "phase": "fast-pass"
     },
     {
@@ -301,7 +1068,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 125,
+      "matches": 127,
       "phase": "fast-pass"
     },
     {
@@ -321,7 +1088,7 @@
       "source_id": "stripe|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 107,
+      "matches": 108,
       "phase": "fast-pass"
     },
     {
@@ -341,7 +1108,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 981,
+      "matches": 983,
       "phase": "fast-pass"
     },
     {
@@ -390,7 +1157,7 @@
       "source_id": "tiktok|tiktok",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 199,
+      "matches": 210,
       "phase": "fast-pass"
     },
     {
@@ -470,7 +1237,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 95,
+      "matches": 80,
       "phase": "fast-pass"
     },
     {
@@ -510,7 +1277,7 @@
       "source_id": "epic games|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 28,
       "phase": "fast-pass"
     },
     {
@@ -520,7 +1287,7 @@
       "source_id": "box|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 19,
+      "matches": 20,
       "phase": "fast-pass"
     },
     {
@@ -550,7 +1317,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 49,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -580,7 +1347,7 @@
       "source_id": "point72|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 91,
+      "matches": 92,
       "phase": "fast-pass"
     },
     {
@@ -610,7 +1377,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 54,
+      "matches": 53,
       "phase": "fast-pass"
     },
     {
@@ -647,11 +1414,17 @@
       "company": "Blue Origin",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "blue origin|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Blue Origin",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Visa",
@@ -667,11 +1440,17 @@
       "company": "Leidos",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "leidos|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Leidos",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "RTX",
@@ -680,7 +1459,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 297,
+      "matches": 296,
       "phase": "fast-pass"
     },
     {
@@ -716,7 +1495,7 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "General Motors workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -792,7 +1571,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 14,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -802,7 +1581,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 72,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -812,7 +1591,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 199,
+      "matches": 200,
       "phase": "fast-pass"
     },
     {
@@ -839,11 +1618,17 @@
       "company": "Moog",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "moog|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 4,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Moog",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "The Aerospace Corporation",
@@ -912,7 +1697,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 4,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -922,7 +1707,7 @@
       "source_id": "peraton|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -932,7 +1717,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 80,
+      "matches": 94,
       "phase": "fast-pass"
     },
     {
@@ -1042,7 +1827,7 @@
       "source_id": "kimley-horn|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 53,
+      "matches": 55,
       "phase": "fast-pass"
     },
     {
@@ -1089,11 +1874,17 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "hntb|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 20,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "HNTB",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Thornton Tomasetti",
@@ -1138,7 +1929,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "NVIDIA workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1188,7 +1979,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 76,
+      "matches": 75,
       "phase": "fast-pass"
     },
     {
@@ -1268,7 +2059,7 @@
       "source_id": "capital one|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1298,7 +2089,7 @@
       "source_id": "cockroach labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 4,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1308,7 +2099,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -1345,33 +2136,21 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "CrowdStrike",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "crowdstrike|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
       "company": "Palo Alto Networks",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "palo alto networks|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
+      "phase": "fast-pass"
     },
     {
       "company": "Wiz",
@@ -1390,7 +2169,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 131,
+      "matches": 132,
       "phase": "fast-pass"
     },
     {
@@ -1530,7 +2309,7 @@
       "source_id": "tower research|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 53,
+      "matches": 55,
       "phase": "fast-pass"
     },
     {
@@ -1758,8 +2537,16 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "Workday workday scan timed out after 90000ms",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Workday",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -1826,7 +2613,7 @@
       "source_id": "grafana labs|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 57,
+      "matches": 55,
       "phase": "fast-pass"
     },
     {
@@ -1866,7 +2653,7 @@
       "source_id": "1password|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 10,
+      "matches": 9,
       "phase": "fast-pass"
     },
     {
@@ -1956,7 +2743,7 @@
       "source_id": "mistral ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 57,
+      "matches": 58,
       "phase": "fast-pass"
     },
     {
@@ -2116,7 +2903,7 @@
       "source_id": "kraken|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 33,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -2263,11 +3050,19 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "maxar|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2406,7 +3201,7 @@
       "source_id": "comcast|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -2422,7 +3217,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "Boeing workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2467,21 +3262,33 @@
       "company": "Red Hat",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "red hat|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Red Hat",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "F5",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "F5",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "f5|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Cummins",
@@ -2518,18 +3325,24 @@
       "source_id": "airbus|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 10,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
       "company": "AeroVironment",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "aerovironment|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "AeroVironment",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Toyota Motor North America",
@@ -2565,11 +3378,17 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "rockwell automation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2595,11 +3414,17 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "kla|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Stryker",
@@ -2648,7 +3473,7 @@
       "source_id": "whirlpool|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2665,11 +3490,17 @@
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "curtiss-wright|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Curtiss-Wright",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Draper",
@@ -2688,7 +3519,7 @@
       "source_id": "schneider electric|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2708,7 +3539,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -2745,11 +3576,17 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "bluehalo|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "BlueHalo",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -2823,43 +3660,43 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-20T00:01:27.508Z",
-    "elapsed_ms": 386501,
+    "scanned_at": "2026-08-20T13:14:57.267Z",
+    "elapsed_ms": 442368,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
     "discovered_sources_active": 168,
     "discovered_companies_active": 168,
-    "companies_with_active_sources": 242,
+    "companies_with_active_sources": 233,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4399,
+      "rows_parsed": 4419,
       "official_candidates": 1653,
-      "cached_verifications": 472,
+      "cached_verifications": 339,
       "reverify_hours": 24,
-      "verification_attempts": 1181,
-      "verification_successes": 283,
+      "verification_attempts": 1314,
+      "verification_successes": 428,
       "verification_deferred": 0,
       "rejection_counts": {
-        "missing required field": 1282,
-        "untracked discipline": 737,
-        "graduate-degree-only role": 110,
-        "excluded recruiting year": 162,
-        "non-official application URL": 44,
+        "missing required field": 1314,
+        "untracked discipline": 727,
+        "graduate-degree-only role": 109,
+        "excluded recruiting year": 154,
+        "non-official application URL": 48,
         "marked closed by discovery source": 1,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 433,
         "verification: official page has an excluded recruiting year": 93,
         "verification: official posting closed: Oracle requisition is no longer listed": 15,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 434,
+        "verification: official posting closed: provider requisition is no longer listed": 106,
+        "verification: official posting closed: 404 Not Found": 27,
         "verification: 404 Not Found": 13,
-        "verification: official posting closed: provider requisition is no longer listed": 108,
         "verification: official posting closed: official page does not identify the requisition": 33,
-        "verification: 405 Not Allowed": 27,
+        "verification: 405 Not Allowed": 24,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
-        "verification: official posting closed: 404 Not Found": 32,
         "verification: 403 Forbidden": 70,
-        "verification: official posting closed: official page shell does not expose the requisition": 48,
+        "verification: official posting closed: official page shell does not expose the requisition": 47,
         "verification: 400 Bad Request": 4,
         "verification: fetch failed": 2,
         "verification: official posting closed: explicit closed-page message": 6,
@@ -2869,8 +3706,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 45,
+    "discovery_new_sources_this_scan": 7,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 38,
@@ -2880,33 +3717,33 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 7,
+    "double_check_attempts": 18,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 259,
-    "ok_sources": 242,
-    "error_sources": 9,
+    "total_fetch_attempts": 270,
+    "ok_sources": 233,
+    "error_sources": 18,
     "blocked_sources": 1,
-    "ats_ok_sources": 81,
-    "ats_error_sources": 2,
+    "ats_ok_sources": 77,
+    "ats_error_sources": 6,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 96.4,
+    "ats_success_percent": 91.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 6,
-      "429 Too Many Requests": 3
+      "429 Too Many Requests": 16,
+      "Request Timeout": 2
     },
-    "board_eligible_candidates": 1075,
-    "provider_candidate_checks": 214,
-    "provider_candidate_closed": 1,
-    "provider_candidate_ineligible": 23,
+    "board_eligible_candidates": 1072,
+    "provider_candidate_checks": 179,
+    "provider_candidate_closed": 2,
+    "provider_candidate_ineligible": 24,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 270,
-    "inactive_provider_checks": 183,
-    "inactive_provider_closed": 1,
+    "closure_checks": 285,
+    "inactive_provider_checks": 208,
+    "inactive_provider_closed": 6,
     "inactive_provider_ineligible": 0,
-    "inactive_provider_unavailable": 0,
+    "inactive_provider_unavailable": 1,
     "closed_roles_removed": 38,
-    "expired_roles_removed": 0,
+    "expired_roles_removed": 1,
     "stale_after_days": 21,
     "unattempted_companies": []
   }

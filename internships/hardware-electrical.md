@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 8:01 PM EDT
+Last updated: August 20, 2026 at 9:14 AM EDT
 
-Current roles in this view: 66
+Current roles in this view: 68
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| E-Space | Embedded Software Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3>) |
 | Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67781>) |
@@ -20,6 +21,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Engineering_JR2023508-1>) |
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Physical Design / VLSI | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Physical-Design---VLSI_JR2023501>) |
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Hardware Verification | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Verification_JR2023500>) |
+| Whirlpool | Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern | St Joseph, MI, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa>) |
 | 🔥 MIT Lincoln Laboratory | Optical &amp; Quantum Communications Intern (Summer 2027) - Group 67 (Lexington, MA, US) | Lexington, MA, US | $25.00 - $27.00/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Optical-&-Quantum-Communications-Intern-%28Summer-2027%29-Group-67-MA-02420/1421248300>) |
 | BAE Systems | Technical Intern 3 – RF/Microwave Engineer, Summer 2027 | Westminster, Colorado, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302206&partnerid=25771&siteid=5403>) |
 | 🔥 L3Harris | Intern, Electrical Engineer - Spring 2027 | Greenville, TX, US | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.l3harris.com/en/job/greenville/intern-electrical-engineer-spring-2027/4832/99372980032>) |
