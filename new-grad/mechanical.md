@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 6:06 PM EDT
+Last updated: August 20, 2026 at 6:46 PM EDT
 
-Current roles in this view: 36
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -29,7 +29,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
 | Hyundai | Thermal Systems Engineer I | California City, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/California-City-Thermal-Systems-Engineer-I-CA-93505/1417921400>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
-| 🔥 General Motors | Early Career Virtual/Computer Aided Engineer | Warren, Michigan, United States of America | - | Early career | Posted Aug 7, 2026<br>First seen Aug 20, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Early-Career-Virtual-Computer-Aided-Engineer_JR-202617312>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | Black &amp; Veatch | Associate Buildings Mechanical Engineer - Federal | Overland Park, KS, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Buildings-Mechanical-Engineer-Federal-KS-66062/1383242433>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
