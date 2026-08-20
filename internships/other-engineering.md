@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 20, 2026 at 4:08 PM EDT
+Last updated: August 20, 2026 at 4:48 PM EDT
 
 Current roles in this view: 62
 
@@ -72,6 +72,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Magna | Intern - Systems Engineering | Southfield, Michigan, US | - | 2027 internship eligible | Posted Jun 30, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235437>) |
 | Magna | Product Engineering Intern | Grand Rapids, Michigan, US | - | 2027 internship eligible | Posted May 28, 2026<br>First seen Aug 4, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272>) |
 | ASM Global | Technology Engineering Intern | Frisco, TX | - | 2027 internship eligible | Posted Apr 29, 2026<br>First seen Aug 5, 2026 | [Apply](<https://asmglobal.wd1.myworkdayjobs.com/careers/job/Frisco-TX/Technology-Engineering-Intern_R100122391>) |
-| HNTB | Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania); King of Prussia, PA (Norristown); King of Prussia, PA (Geerdes) | - | 2027 internship eligible | Posted Apr 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874>) |
+| HNTB | Co-op Engineer: Track Design/Rail - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | Posted Apr 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Track-Design-Rail---Fall-Winter-2026-2027_R-29874>) |
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Jul 23, 2025<br>First seen Aug 3, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR104026>) |
 
