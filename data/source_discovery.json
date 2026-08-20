@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-19T23:39:22.265Z",
+  "updated_at": "2026-08-20T00:01:27.508Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-19T23:39:22.265Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T00:01:27.508Z",
+      "last_scan_status": "error",
+      "last_scan_error": "NVIDIA workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-19T23:39:22.265Z"
     },
     "netflix": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1442
       },
-      "last_scan_at": "2026-08-19T23:39:22.265Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T00:01:27.508Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T23:39:22.265Z"
     },
     "wiz": {
@@ -4577,9 +4577,9 @@
         "limit": 20,
         "verified_open_jobs": 741
       },
-      "last_scan_at": "2026-08-19T23:39:22.265Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T00:01:27.508Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-19T23:39:22.265Z"
     },
     "honeywell": {

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 19, 2026 at 7:39 PM EDT
+Last updated: August 19, 2026 at 8:01 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -24,7 +24,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 GE Aerospace | Manufacturing Engineering Co-op – US – Spring 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Co-op---US---Spring-2027_R5029663/apply>) |
 | 🔥 GE Aerospace | Manufacturing Engineering Intern – US – Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659/apply>) |
 | Envista Holdings | Process Engineering Intern | CA | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Yorba-Linda/Process-Engineering-Intern_R5026778>) |
-| GlobalFoundries | Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027) | USA - New York - Malta | $20.00 - $40.00/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604585>) |
 | GlobalFoundries | Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027) | USA - New York - Malta | $20.00 - $40.00/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587>) |
 | GlobalFoundries | Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027) | USA - New York - Malta | $20.00 - $40.00/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604576>) |
 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060>) |
