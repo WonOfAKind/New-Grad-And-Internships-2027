@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 2:09 PM EDT
+Last updated: August 20, 2026 at 3:02 PM EDT
 
-Current roles in this view: 111
+Current roles in this view: 112
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Kimley-Horn | Civil Engineering Analyst | Cincinnati, OH, US | - | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25949/civil-engineering-analyst/job>) |
+| Kimley-Horn | Civil Engineering Analyst | Southfield, MI, US | $80,000-$83,000 | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25285/civil-engineering-analyst/job>) |
 | ExxonMobil | Midstream Engineer (EIT) - Edmonton (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Aug 20, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-Edmonton-AB-T6B-2T4/1418891700>) |
 | Kimley-Horn | Civil Engineering Analyst | Celina, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25933/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Denton, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25934/civil-engineering-analyst/job>) |
@@ -21,6 +22,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | McKinney, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25936/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Richardson, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25941/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Sherman, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25930/civil-engineering-analyst/job>) |
+| Terracon | Water/Wastewater Field Engineer (Entry Level) | Little Rock, AR, UNITED STATES | - | Early career | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers.terracon.com/job/little-rock/water-wastewater-field-engineer-entry-level/37184/99500729440>) |
 | Kiewit | Field Engineer 1 - Northern California District | San Jose, CA, US | $87,000/yr | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Fairfield-Field-Engineer-1-Northern-California-District-CA-94533/1421354200>) |
 | Kiewit | Field Engineer 1 - Southern California | Phoenix, AZ, US | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Costa-Mesa-Field-Engineer-1-Southern-California-CA-92626/1421357100>) |
 | Kimley-Horn | Civil Engineering Analyst | Fort Worth, TX, US | - | Explicit new grad role | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25880/civil-engineering-analyst/job>) |
@@ -29,7 +31,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Lubbock, TX, US | - | Explicit new grad role | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25896/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Weatherford, TX, US | - | Explicit new grad role | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25898/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Westlake, TX, US | - | Explicit new grad role | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25900/civil-engineering-analyst/job>) |
-| Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | Comcast | Sales Engineer 1, Comcast Business | MD - Silver Spring, 11800 Tech Rd; MD - Millersville, 231 Najoles Rd Ste 250; MD - Baltimore, 8031 Corporate Dr | $62,100.00 - $93,150.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 20, 2026 | [Apply](<https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/MD---Silver-Spring-11800-Tech-Rd/Sales-Engineer-1--Comcast-Business_R442976>) |
 | Kimley-Horn | Civil Engineering Analyst | Boise, ID, US | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24974/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Broomfield, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24991/civil-engineering-analyst/job>) |
