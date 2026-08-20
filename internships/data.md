@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 20, 2026 at 6:46 PM EDT
+Last updated: August 20, 2026 at 7:08 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,8 +16,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
 | Philips | Graduate Level Co-op – Data Scientist – Plymouth, MN – Summer 2027 | Plymouth, Minnesota, United States | $33.00 - $48/hr | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567>) |
 | Notion | Data Science Intern (Winter 2027) | San Francisco, California | $55/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e>) |
-| Continental Resources | Data Analyst Intern - Summer 2027 | Oklahoma City, OK | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1>) |
-| Vanguard | College to Corporate IT Internship - Data Analyst - NC | Charlotte, NC | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_177677-1>) |
+| Continental Resources | Data Analyst Intern (Summer 2027) | Oklahoma City, OK | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1>) |
 | Vanguard | College to Corporate IT Internship - Data Science - NC | Charlotte, NC | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 20, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_177682-1>) |
 | Crowe | Data Analytics Developer Intern | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041>) |
 | Varda Space | Applications Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824822003>) |

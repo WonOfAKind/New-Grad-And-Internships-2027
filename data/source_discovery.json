@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-20T22:46:53.641Z",
+  "updated_at": "2026-08-20T23:08:06.111Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,10 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-20T22:06:12.556Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:45:27.168Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -814,7 +814,7 @@
     },
     "crowdstrike": {
       "company": "CrowdStrike",
-      "checked_at": "2026-08-20T13:08:37.252Z",
+      "checked_at": "2026-08-20T23:02:11.459Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -830,12 +830,12 @@
         "site": "crowdstrikecareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 433
+        "verified_open_jobs": 428
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T13:14:57.267Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -857,10 +857,10 @@
         "limit": 20,
         "verified_open_jobs": 1437
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:10:30.513Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "wiz": {
       "company": "Wiz",
@@ -1929,10 +1929,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T19:02:56.096Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -1954,10 +1954,10 @@
         "limit": 20,
         "verified_open_jobs": 1025
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:45:27.168Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 100
       },
-      "last_scan_at": "2026-08-20T20:48:35.550Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T20:48:35.550Z"
     },
     "qualtrics": {
@@ -3417,10 +3417,10 @@
         "limit": 20,
         "verified_open_jobs": 71
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:10:30.513Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -4122,7 +4122,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-20T16:48:21.660Z",
+      "checked_at": "2026-08-20T23:02:11.459Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4140,10 +4140,9 @@
         "limit": 20,
         "verified_open_jobs": 167
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:10:30.513Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -5024,10 +5023,10 @@
         "limit": 20,
         "verified_open_jobs": 311
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:45:27.168Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5183,9 +5182,9 @@
         "limit": 20,
         "verified_open_jobs": 1094
       },
-      "last_scan_at": "2026-08-20T21:10:30.513Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T21:10:30.513Z"
     },
     "trane technologies": {
@@ -5265,9 +5264,9 @@
         "limit": 20,
         "verified_open_jobs": 970
       },
-      "last_scan_at": "2026-08-20T20:48:35.550Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T20:48:35.550Z"
     },
     "johnson & johnson": {
@@ -5480,10 +5479,10 @@
         "limit": 20,
         "verified_open_jobs": 300
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T21:45:27.168Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
@@ -5514,10 +5513,10 @@
         "limit": 20,
         "verified_open_jobs": 364
       },
-      "last_scan_at": "2026-08-20T22:46:53.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T22:06:12.556Z"
+      "last_scan_at": "2026-08-20T23:08:06.111Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T23:08:06.111Z"
     },
     "draper": {
       "company": "Draper",
