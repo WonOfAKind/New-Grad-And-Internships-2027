@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 11:52 AM EDT
+Last updated: August 20, 2026 at 12:55 PM EDT
 
-Current roles in this view: 21
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -26,7 +26,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Abbott | Manufacturing Process Engineer I | United States - Maine - Scarborough | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31158324-1>) |
 | Moog | Associate Manufacturing Engineer | Salt Lake City, UT | $70,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Associate-Manufacturing-Engineer_R-26-18241>) |
 | Airbus | Manufacturing Engineer I - Technical Shop Floor Support (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I---Technical-Shop-Floor-Support--2nd-Shift-_JR10432688>) |
-| Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, United States of America | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Thermo Fisher Scientific | Manufacturing Electrical Engineer 1 | Millersburg, Pennsylvania, Stati Uniti d'America | - | Verified early career (BS) | Posted Jul 31, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01357491/Manufacturing-Electrical-Engineer-1>) |
 | Airbus | Manufacturing Engineer I | Mobile Area, AL | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I_JR10426486>) |

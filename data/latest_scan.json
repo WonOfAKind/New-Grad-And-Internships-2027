@@ -1,71 +1,92 @@
 {
-  "scanned_at": "2026-08-20T15:52:41.473Z",
+  "scanned_at": "2026-08-20T16:55:23.633Z",
   "fresh_leads": [
     {
-      "role_id": "9b06165284e778adb1d95d61",
-      "company_id": "johnson-johnson",
-      "company": "Johnson & Johnson",
-      "featured_company": true,
-      "featured_disciplines": [
-        "mechanical",
-        "product-management",
-        "manufacturing-industrial"
-      ],
-      "title": "Materials Engineering Co-Op Spring 2027",
-      "location": "Jacksonville, Florida, United States of America",
+      "role_id": "a2c71766b69d2af1c3f5777d",
+      "company_id": "infinitequant",
+      "company": "InfiniteQuant",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Quantitative Researcher - Internship - Summer 2027",
+      "location": "New York, New York, United States",
       "role_type": "Internship",
-      "discipline": "Mechanical Engineering",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "mechanical"
+        "software"
       ],
       "specialties": [],
-      "compensation": "",
+      "compensation": "$6,000-$10,000/month",
       "grad_window": "2027 internship eligible",
-      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1",
-      "source": "https://jj.wd5.myworkdayjobs.com/jj/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144592181-quantitative-researcher-internship-summer-2027",
+      "source": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421",
       "date_seen": "2026-08-20",
       "last_seen": "2026-08-20",
-      "posted_at": "2026-08-20",
-      "expires_at": "2026-09-28",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "johnson & johnson|discovery_feed",
+      "source_id": "infinitequant|discovery_feed",
       "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-20T15:52:18.256Z",
+      "verified_at": "2026-08-20T16:53:57.502Z",
       "verification_version": 6,
       "priority": "P0"
     },
     {
-      "role_id": "2aeef1dc96dab0b0af6f9ad8",
-      "company_id": "blue-origin",
-      "company": "Blue Origin",
-      "featured_company": true,
-      "featured_disciplines": [
-        "aerospace",
-        "mechanical",
-        "manufacturing-industrial"
-      ],
-      "title": "ASIC Engineer - Early Career",
-      "location": "Greater Seattle Area; Central Texas; Bay Area, CA",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
+      "role_id": "5e407d9ef67b6c90bb85b346",
+      "company_id": "pimco",
+      "company": "PIMCO",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "2027 Summer Intern – Trading Analyst, US",
+      "location": "Newport Beach, CA USA",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "software"
       ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$129,032.00 - $180,644.10",
-      "grad_window": "Early career",
-      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802",
-      "source": "https://www.blueorigin.com/careers/search",
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
+      "source": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763",
       "date_seen": "2026-08-20",
       "last_seen": "2026-08-20",
       "posted_at": "2026-08-20",
-      "expires_at": "2027-03-12",
-      "updated_at": "Posted Today",
-      "source_id": "blue origin|workday",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "pimco|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-20T16:54:54.348Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "2827c42c28d943e65594375a",
+      "company_id": "maxar",
+      "company": "Maxar",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "GIS Engineer (Jr)",
+      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
+      "role_type": "New Grad",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "$67,000.00 - $111,000.00 annually",
+      "grad_window": "Early career",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "source": "https://www.maxar.com/careers",
+      "date_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "posted_at": "",
+      "expires_at": "",
+      "updated_at": "Posted 30+ Days Ago",
+      "source_id": "maxar|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -74,93 +95,31 @@
       "priority": "P0"
     },
     {
-      "role_id": "c2e919796267099a186fd8da",
-      "company_id": "amentum",
-      "company": "Amentum",
+      "role_id": "2a9c2ea7802b8ea58d84102e",
+      "company_id": "palo-alto-networks",
+      "company": "Palo Alto Networks",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Power System Design Engineer - Entry Level",
-      "location": "Tullahoma, Tennessee, US",
+      "title": "Associate Technical Marketing Engineer",
+      "location": "Office - USA - CA - Headquarters",
       "role_type": "New Grad",
       "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
-        "hardware-electrical"
+        "hardware-electrical",
+        "ai-ml",
+        "software"
       ],
       "specialties": [],
-      "compensation": "$61,660 - $101,600",
-      "grad_window": "Early career",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "posted_at": "2026-07-16",
-      "expires_at": "2026-11-18",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "4f8d1345d64a3187aa85b122",
-      "company_id": "fannie-mae",
-      "company": "Fannie Mae",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Campus – Data Science Intern (Analytics & Modeling Program)",
-      "location": "Washington, DC",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
-      "disciplines": [
-        "data"
-      ],
-      "specialties": [],
-      "compensation": "$41.50 an hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
-      "source": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
-      "date_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
-      "posted_at": "2026-08-20",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "fannie mae|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-20T15:51:18.247Z",
-      "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "82621b67a2c3e85651597bb5",
-      "company_id": "curtiss-wright",
-      "company": "Curtiss-Wright",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Engineer - Quality and Calibration",
-      "location": "US-NY-Lansing (ST-800)",
-      "role_type": "New Grad",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [
-        "test-validation"
-      ],
-      "compensation": "$70,000-$75,000",
+      "compensation": "$94,000.00 - $153,000.00/yr",
       "grad_window": "Verified early career (BS)",
-      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
-      "source": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
+      "source": "https://jobs.paloaltonetworks.com/en/search-jobs",
       "date_seen": "2026-08-20",
       "last_seen": "2026-08-20",
       "posted_at": "",
       "expires_at": "",
       "updated_at": "Posted 30+ Days Ago",
-      "source_id": "curtiss-wright|workday",
+      "source_id": "palo alto networks|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -192,12 +151,6 @@
       "company": "AeroVironment",
       "title": "Software QA Automation Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Maxar",
-      "title": "GIS Engineer (Jr)",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -246,6 +199,12 @@
       "company": "Draper",
       "title": "Entry Level RF Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Amentum",
+      "title": "Power System Design Engineer - Entry Level",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -363,6 +322,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Curtiss-Wright",
+      "title": "Associate Engineer - Quality and Calibration",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Kimley-Horn",
       "title": "Entry Level Roadway Engineer",
       "url": "https://careers-kimley-horn.icims.com/jobs/24529/entry-level-roadway-engineer/job",
@@ -375,10 +340,28 @@
       "reason": "official verification confirmed closure"
     },
     {
+      "company": "Axon",
+      "title": "RenderATL - 2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "RenderATL",
+      "title": "RenderATL 2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+      "reason": "official verification confirmed closure"
+    },
+    {
       "company": "Valkyrie Trading",
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "ACDS",
+      "title": "AI Operations Engineer Intern",
+      "url": "https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Whirlpool",
@@ -415,7 +398,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 898,
+      "matches": 897,
       "phase": "fast-pass"
     },
     {
@@ -425,7 +408,7 @@
       "source_id": "roblox|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 127,
+      "matches": 129,
       "phase": "fast-pass"
     },
     {
@@ -465,7 +448,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 984,
+      "matches": 985,
       "phase": "fast-pass"
     },
     {
@@ -594,7 +577,7 @@
       "source_id": "elastic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 80,
+      "matches": 81,
       "phase": "fast-pass"
     },
     {
@@ -771,10 +754,8 @@
       "company": "Blue Origin",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "blue origin|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
+      "status": "error",
+      "error": "Blue Origin workday scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -830,23 +811,7 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "General Motors",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Caterpillar",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "General Motors workday scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -854,8 +819,8 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "error": "Caterpillar workday scan timed out after 90000ms",
+      "phase": "fast-pass"
     },
     {
       "company": "Northrop Grumman",
@@ -1034,7 +999,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -1054,7 +1019,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 79,
+      "matches": 81,
       "phase": "fast-pass"
     },
     {
@@ -1304,7 +1269,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 75,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -1471,17 +1436,11 @@
       "company": "Palo Alto Networks",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "palo alto networks|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1500,7 +1459,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 132,
+      "matches": 135,
       "phase": "fast-pass"
     },
     {
@@ -2306,16 +2265,8 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Booz Allen Hamilton workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2371,17 +2322,11 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "maxar|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Maxar",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2683,10 +2628,8 @@
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "carrier|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 4,
+      "status": "error",
+      "error": "Carrier workday scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
@@ -2816,7 +2759,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -2833,19 +2776,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "goodyear|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2939,8 +2874,8 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-20T15:52:41.473Z",
-    "elapsed_ms": 429018,
+    "scanned_at": "2026-08-20T16:55:23.633Z",
+    "elapsed_ms": 497213,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
@@ -2951,26 +2886,26 @@
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4424,
-      "official_candidates": 1659,
-      "cached_verifications": 449,
+      "rows_parsed": 4425,
+      "official_candidates": 1663,
+      "cached_verifications": 471,
       "reverify_hours": 24,
-      "verification_attempts": 1210,
-      "verification_successes": 320,
+      "verification_attempts": 1192,
+      "verification_successes": 300,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1314,
-        "untracked discipline": 730,
+        "untracked discipline": 729,
         "graduate-degree-only role": 109,
-        "excluded recruiting year": 153,
+        "excluded recruiting year": 152,
         "non-official application URL": 48,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 432,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 431,
+        "verification: official page has an excluded recruiting year": 95,
         "verification: official posting closed: provider requisition is no longer listed": 110,
-        "verification: official page has an excluded recruiting year": 94,
         "verification: official posting closed: Oracle requisition is no longer listed": 15,
-        "verification: official posting closed: 404 Not Found": 27,
-        "verification: 404 Not Found": 13,
+        "verification: official posting closed: 404 Not Found": 29,
+        "verification: 404 Not Found": 12,
         "verification: official posting closed: official page does not identify the requisition": 33,
         "verification: 405 Not Allowed": 24,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
@@ -2980,13 +2915,13 @@
         "verification: fetch failed": 2,
         "verification: official posting closed: explicit closed-page message": 6,
         "verification: official posting closed: redirected away from the requisition": 6,
-        "verification: official provider verification unavailable: 403 Forbidden": 1,
-        "verification: 410 Gone": 1
+        "verification: 410 Gone": 2,
+        "verification: official provider verification unavailable: 403 Forbidden": 1
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 38,
@@ -2996,32 +2931,31 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 6,
+    "double_check_attempts": 0,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 258,
+    "total_fetch_attempts": 252,
     "ok_sources": 242,
     "error_sources": 9,
     "blocked_sources": 1,
-    "ats_ok_sources": 80,
-    "ats_error_sources": 3,
+    "ats_ok_sources": 79,
+    "ats_error_sources": 4,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 95.2,
+    "ats_success_percent": 94,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "Request Timeout": 4,
-      "429 Too Many Requests": 5
+      "Request Timeout": 9
     },
-    "board_eligible_candidates": 1122,
-    "provider_candidate_checks": 227,
+    "board_eligible_candidates": 1124,
+    "provider_candidate_checks": 231,
     "provider_candidate_closed": 2,
     "provider_candidate_ineligible": 22,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 266,
-    "inactive_provider_checks": 172,
-    "inactive_provider_closed": 0,
+    "closure_checks": 269,
+    "inactive_provider_checks": 168,
+    "inactive_provider_closed": 2,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 36,
+    "closed_roles_removed": 40,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
