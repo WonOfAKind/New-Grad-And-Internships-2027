@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 12:55 PM EDT
+Last updated: August 20, 2026 at 1:48 PM EDT
 
-Current roles in this view: 20
+Current roles in this view: 19
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,7 +15,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003>) |
 | Freeform | Process Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895822003>) |
 | Whirlpool | Manufacturing Controls Engineering LDP - Full Time | Columbus, OH, US | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403012880-manufacturing-controls-engineering-ldp-full-time-columbus-ohio-usa>) |
-| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | Boston Scientific | Process Engineer 1 (Maple Grove, MN, US) | Maple Grove, MN, US | $ 59900 | Verified early career (BS) | First seen Aug 18, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Process-Engineer-1-MN/1420791300>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |

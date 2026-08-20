@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 12:55 PM EDT
+Last updated: August 20, 2026 at 1:48 PM EDT
 
-Current roles in this view: 35
+Current roles in this view: 34
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
 | 🔥 BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | Freeform | Materials Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003>) |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003>) |

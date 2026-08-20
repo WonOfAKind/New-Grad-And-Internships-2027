@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 12:55 PM EDT
+Last updated: August 20, 2026 at 1:48 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,7 +14,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $80,000 - $90,000 annually | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states-e05d76c3-73ca-45a2-806d-507dedb01c0c>) |
 | 🔥 Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
-| 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
 | Moog | Engineer I | Mineral Wells, TX | $75,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19507>) |
 | 🔥 Pratt &amp; Whitney | Secure Systems Engineer 1 (Onsite) | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865634/Secure-Systems-Engineer-1-Onsite>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729085002>) |
@@ -22,12 +21,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |
 | 🔥 BAE Systems | Systems Engineer - Entry Level | Huntsville, Alabama, United States | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302853&partnerid=25771&siteid=5403>) |
 | Moog | Engineer I | Mineral Wells, TX | $70,000.00 - $80,000.00 Annually | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145>) |
-| 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | 🔥 Boeing | Entry Level Engineers - Satellite/Space Systems Rotational Program | USA - El Segundo, CA; USA - Seal Beach, CA; USA - Huntington Beach, CA | $79,050 - $106,950 | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1>) |
-| 🔥 Pratt &amp; Whitney | Life Cycle Engineering - Systems Engineer I | el segundo, California, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867208/Life-Cycle-Engineering-Systems-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | System Engineer I | tewksbury, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01866674/System-Engineer-I>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420866700>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420867300>) |
@@ -60,6 +57,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
-| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 20, 2024<br>First seen Aug 20, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 
