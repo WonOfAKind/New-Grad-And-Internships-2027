@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-20T14:57:38.991Z",
+  "updated_at": "2026-08-20T15:52:41.473Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-20T13:14:57.267Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-20T15:52:41.473Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T15:52:41.473Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -3916,9 +3917,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-20T14:57:38.991Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T15:52:41.473Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-20T14:57:38.991Z"
     },
     "l3harris": {
@@ -4139,9 +4140,9 @@
         "limit": 20,
         "verified_open_jobs": 167
       },
-      "last_scan_at": "2026-08-19T23:39:22.265Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-20T15:52:41.473Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-19T23:39:22.265Z"
     },
     "oscar health": {
@@ -5513,10 +5514,10 @@
         "limit": 20,
         "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-08-20T14:57:38.991Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-20T14:02:39.943Z"
+      "last_scan_at": "2026-08-20T15:52:41.473Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-20T15:52:41.473Z"
     },
     "draper": {
       "company": "Draper",
