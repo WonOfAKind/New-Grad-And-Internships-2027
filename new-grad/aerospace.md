@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 9:14 AM EDT
+Last updated: August 20, 2026 at 10:02 AM EDT
 
-Current roles in this view: 47
+Current roles in this view: 50
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,13 +12,16 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $80,000 - $90,000 annually | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states-e05d76c3-73ca-45a2-806d-507dedb01c0c>) |
 | 🔥 Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | 🔥 Pratt &amp; Whitney | Mechanical Engineer I – Structural Analysis | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867074/Mechanical-Engineer-I-Structural-Analysis>) |
+| Moog | Engineer I | Mineral Wells, TX | $75,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19507>) |
 | 🔥 Pratt &amp; Whitney | Secure Systems Engineer 1 (Onsite) | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865634/Secure-Systems-Engineer-1-Onsite>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729085002>) |
 | Amentum | Early Career Payload Integration Systems Engineer (ES2) | Huntsville, Alabama, US | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states>) |
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |
 | 🔥 BAE Systems | Systems Engineer - Entry Level | Huntsville, Alabama, United States | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302853&partnerid=25771&siteid=5403>) |
+| Moog | Engineer I | Mineral Wells, TX | $70,000.00 - $80,000.00 Annually | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19145>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867143/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Manufacturing Engineer I | andover, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867139/Manufacturing-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | Systems Engineer I - Tac Comm | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01866193/Systems-Engineer-I-Tac-Comm>) |
