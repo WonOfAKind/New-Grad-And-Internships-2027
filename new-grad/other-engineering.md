@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 11:51 AM EDT
+Last updated: August 21, 2026 at 12:54 PM EDT
 
-Current roles in this view: 115
+Current roles in this view: 113
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -46,7 +46,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Entry-Level Civil Engineering- Land Development | Richardson, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25824/entry-level-civil-engineering--land-development/job>) |
 | HNTB | New Grad Field Engineer I- Winter/Summer 2027- SED Division (For Current/Former HNTB Interns ONLY) | Atlanta, GA; Lake Mary, FL; Orlando, FL (Orlando International Airport); Nashville, TN (City Center); Tampa, FL; Jacksonville, FL; Green Cove Springs, FL; Chipley, FL; Orlando, FL (Maitland, FL); Fort Lauderdale, FL; Tallahassee, FL; Kissimmee, FL (Neptune Road); Orlando, FL; Kissimmee, FL (Celebration Blvd); Bartow, FL; Ormond Beach, FL; Ocoee, FL (FTE Turnpike Headquarters); Orlando, FL (Sand Lake Road Interchange); Miami, FL | - | 2027 grad eligible | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Atlanta-GA/New-Grad-Field-Engineer-I--Winter-Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-ONLY-_R-31168-2>) |
 | Kimley-Horn | Civil Engineering Analyst | Greenwood Village, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24997/civil-engineering-analyst/job>) |
-| Abbott | System Engineer I | United States - Georgia - Atlanta; United States &gt; Massachusetts &gt; Burlington : 168 Middlesex Turnpike; United States &gt; Atlanta : 387 Technology Circle NW Suite 500 | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Georgia---Atlanta/System-Engineer-I_31158505-1>) |
 | Kimley-Horn | Civil Engineering Analyst | Atlanta, GA, US | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24811/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Birmingham, AL, US | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24881/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst - Land Development | Dallas, TX, US | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25790/civil-engineering-analyst----land-development/job>) |
@@ -112,7 +111,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Substation Structural Engineer | Tualatin, OR, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
 | Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Kimley-Horn | Civil Engineering Analyst | Everett, WA, US | $84,000 - $95,500 | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24887/civil-engineering-analyst/job>) |
-| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 21, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | HNTB | Bridge Engineer I | Madison, WI | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Madison-WI/Bridge-Engineer-I_R-28377>) |
 | HNTB | Transportation Engineer I | Scott Depot, WV (Charleston) | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Scott-Depot-WV-Charleston/Transportation-Engineer-I_R-30076>) |
 | Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |
