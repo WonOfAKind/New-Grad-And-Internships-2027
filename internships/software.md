@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 20, 2026 at 7:42 PM EDT
+Last updated: August 20, 2026 at 8:02 PM EDT
 
-Current roles in this view: 313
+Current roles in this view: 314
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | AbbVie | 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate) | North Chicago, Illinois, United States | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990014697918-2027-business-technology-solutions-intern-data-software-engineering-undergraduate->) |
+| 🔥 Databricks | Software Engineering Intern (2027 Start) - Winter | Bellevue, Washington; Mountain View, California; San Francisco, California | $54 - $60/hr USD | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/8732364002>) |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3>) |
 | Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027 | Cincinnati, OH | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588>) |
 | Intel | Software Engineer Graduate Intern | US, Arizona, Phoenix | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489>) |
@@ -293,7 +294,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Point72 | Quantitative Research Intern | New York, NY; Seattle, WA | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297667002>) |
 | Point72 | Quantitative Research Intern (NLP) | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8018862002>) |
 | Point72 | Quantitative Research Internship | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Jul 20, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7297642002>) |
-| Point72 | Quantitative Researcher Intern | New York, NY | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
+| Point72 | Quantitative Researcher Intern | New York | - | 2027 internship eligible | Posted Jul 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7586061002>) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849>) |
 | Jane Street | Network Engineer Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8620793002>) |
 | Jane Street | Quantitative Researcher Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8498547002>) |
