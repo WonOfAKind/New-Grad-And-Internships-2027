@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 20, 2026 at 8:02 PM EDT
+Last updated: August 21, 2026 at 9:14 AM EDT
 
-Current roles in this view: 16
+Current roles in this view: 17
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Amazon | Product Manager Technical (PMT) - 2027 | US, WA, Seattle | $151,200 - $204,600 | 2027 grad eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509770/product-manager-technical-pmt-2027>) |
 | TikTok | GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573235673073925>) |
 | TikTok | POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573398700165429>) |
 | TikTok | Product Manager Graduate (Content and Service, Search Ads) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675440171819960629>) |
