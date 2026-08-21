@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 12:54 PM EDT
+Last updated: August 21, 2026 at 1:47 PM EDT
 
-Current roles in this view: 213
+Current roles in this view: 214
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -193,6 +193,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Rocket Companies | Android Mobile Software Developer I | Seattle, WA | $118,800.00-$145,200.00 | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752>) |
 | Traba | Software Engineer New Grad | New York, NY | $120,000 | Explicit new grad role | Posted Jul 23, 2026<br>First seen Jul 24, 2026 | [Apply](<https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70>) |
 | AeroVironment | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 21, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Akuna Capital | Junior Quantitative Developer &amp; Strategist | Chicago, IL | $145,000 | Early career | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8016687>) |
 | Akuna Capital | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
 | Akuna Capital | Software Engineer (Entry-Level) - Python | Chicago, IL | $145,000 | 2027 grad eligible | Posted Jul 21, 2026<br>First seen Jul 22, 2026 | [Apply](<https://akunacapital.com/careers/job/8013230>) |

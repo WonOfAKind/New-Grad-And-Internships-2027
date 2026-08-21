@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 12:54 PM EDT
+Last updated: August 21, 2026 at 1:47 PM EDT
 
-Current roles in this view: 319
+Current roles in this view: 318
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -72,7 +72,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | $25 per hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380>) |
 | Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/neuralink/jobs/6594422003>) |
 | Point72 | Quantitative Developer Intern | New York | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8721562002>) |
-| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-166 855 35Th St NE… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487>) |
 | RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-192 1205 Continent… | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324>) |
 | Western Digital | Software Engineering Co-Op - Winter 2027 | Rochester, Minnesota, United States | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138184309-software-engineering-co-op-winter-2027>) |
 | ByteDance | Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://joinbytedance.com/search/7668315137242351925>) |
@@ -112,7 +111,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | RTX | Software Development Intern - Summer 2027 | Tewksbury, MA | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635>) |
 | TikTok | Backend Software Engineer Intern (Creation Platform) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670289874020993285>) |
 | TikTok | Data Engineer Intern (Monetization Data) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7671232204182276405>) |
-| TikTok | Data Engineering Project Intern (Ads Targeting) - 2027 Start | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
+| TikTok | Data Engineering Project Intern (Ads Targeting) - 2027 Start | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7668533140146817333>) |
 | TikTok | Frontend Engineer Intern (Ads Interface) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7671211313289398581>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670738362521520437>) |
 | TikTok | Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670700387322300677>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 12:54 PM EDT
+Last updated: August 21, 2026 at 1:47 PM EDT
 
-Current roles in this view: 49
+Current roles in this view: 48
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,7 +21,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | Moog | Engineer I | Mineral Wells, TX | $75,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 21, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19507>) |
-| 🔥 Pratt &amp; Whitney | Secure Systems Engineer 1 (Onsite) | cedar rapids, Iowa, United States of America | - | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01865634/Secure-Systems-Engineer-1-Onsite>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729085002>) |
 | Amentum | Early Career Payload Integration Systems Engineer (ES2) | Huntsville, Alabama, US | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states>) |
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |
