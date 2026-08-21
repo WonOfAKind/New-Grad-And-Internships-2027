@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 5:41 PM EDT
+Last updated: August 21, 2026 at 6:03 PM EDT
 
 Current roles in this view: 317
 
@@ -57,7 +57,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015>) |
 | Garda Capital Partners | Software Engineer Intern | New York, New York, United States | $50 - $50/hr USD | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/gardacp/jobs/6146213004>) |
 | GardaWorld | Software Engineer Intern | New York, New York, United States | $50 - $50/hr USD | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/gardacp/jobs/6146213004>) |
-| PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX USA | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745>) |
+| PIMCO | 2027 Summer Intern - Technology Analyst - Software Engineering | Austin, TX | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745>) |
 | ByteDance | Site Reliability Engineer Intern (Data Infra) - 2027 Summer | San Jose, California | $60- $60/hr | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://joinbytedance.com/search/7672922348676647221>) |
 | TikTok | Software Engineer Intern - TikTok Search Data Infra - 2027 Fall | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://lifeattiktok.com/search/7675129440242010421>) |
 | TikTok | Software Engineer Intern - TikTok Search Data Infra - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://lifeattiktok.com/search/7675128776856029445>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 5:41 PM EDT
+Last updated: August 21, 2026 at 6:03 PM EDT
 
 Current roles in this view: 103
 
@@ -13,10 +13,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Crowe | AI Functional Intern - WINTER 2027 | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015>) |
+| Elanco | Engineering Intern – Elwood, Kansas (Summer 2027) | Elwood, KS | $20-$40/hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Engineering-Intern---Elwood--Kansas--Summer-2027-_R0026898>) |
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA, US | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.micron.com/careers/job/43943574-intern-hbm-soc-rtl-design-engineer-folsom-california-united-states-of-america>) |
 | Millennium | 2027 Applied AI Engineer Intern, Miami | Miami, FL, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778848-2027-applied-ai-engineer-intern-miami-miami-florida-united-states-of-america>) |
 | Millennium | 2027 Applied AI Engineer Intern, New York | New York, NY, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778821-2027-applied-ai-engineer-intern-new-york-new-york-new-york-united-states-of-america>) |
-| Elanco | Engineering Intern – Clinton, Indiana (Summer 2027) | Clinton, IN | $20-$40/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Engineering-Intern---Clinton--Indiana--Summer-2027-_R0026868>) |
 | Eulerity | Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation | New York, NY | $18 - $20 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/eulerity/jobs/4706780006>) |
 | 🔥 Microsoft | AI Software Engineering Intern | Redmond, WA, US; Mountain View, CA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1>) |
