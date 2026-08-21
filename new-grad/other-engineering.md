@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 7:02 PM EDT
+Last updated: August 21, 2026 at 7:41 PM EDT
 
-Current roles in this view: 113
+Current roles in this view: 114
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -111,6 +111,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Substation Structural Engineer | Tualatin, OR, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
 | Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Kimley-Horn | Civil Engineering Analyst | Everett, WA, US | $84,000 - $95,500 | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24887/civil-engineering-analyst/job>) |
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 21, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | HNTB | Bridge Engineer I | Madison, WI | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Madison-WI/Bridge-Engineer-I_R-28377>) |
 | HNTB | Transportation Engineer I | Scott Depot, WV (Charleston) | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Scott-Depot-WV-Charleston/Transportation-Engineer-I_R-30076>) |
 | Booz Allen Hamilton | Structural Engineer, Junior | Lexington, MA | $55,300.00 - $126,000.00 | Early career | First seen Aug 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/Structural-Engineer--Junior_R0242443>) |

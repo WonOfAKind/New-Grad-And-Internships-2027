@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 7:02 PM EDT
+Last updated: August 21, 2026 at 7:41 PM EDT
 
-Current roles in this view: 74
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -84,6 +84,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Base Power | Firmware Engineering Intern | Austin, TX | - | 2027 internship eligible | Posted May 26, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7>) |
 | Base Power | Hardware Engineering Intern | Austin, TX | - | 2027 internship eligible | Posted May 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/base-power/f22cee0e-55d9-42cd-806e-1c1fc7217770>) |
 | Bio-Techne | Hardware Engineering Intern | San Jose, CA | $19.20 - $26.40/hr | 2027 internship eligible | Posted Feb 19, 2026<br>First seen Aug 3, 2026 | [Apply](<https://biotechne.wd5.myworkdayjobs.com/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533>) |
-| Ambarella | ASIC Design Engineer Intern | US Headquarters | - | 2027 internship eligible | Posted Sep 8, 2025<br>First seen Aug 3, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100100>) |
 | FLIR Systems | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted May 5, 2025<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 
