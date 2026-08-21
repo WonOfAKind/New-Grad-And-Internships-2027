@@ -1,17 +1,76 @@
 {
-  "scanned_at": "2026-08-21T22:03:01.041Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-08-21T22:43:28.296Z",
+  "fresh_leads": [
+    {
+      "role_id": "8da78e3ec3f7bcc343e71bc3",
+      "company_id": "boston-scientific",
+      "company": "Boston Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "R&D Engineer I (Maple Grove, MN, US, 55311)",
+      "location": "Maple Grove, MN, US, 55311",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "$ 59900",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1422164600",
+      "source": "https://jobs.bostonscientific.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "",
+      "expires_at": "2026-09-20",
+      "updated_at": "",
+      "source_id": "boston scientific|rss_jobs",
+      "source_adapter": "rss_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ba531c597b83784459f77cd4",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "100 Quality Circle Suite 100 Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$60,500 - $92,500",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
+      "updated_at": "Posted 8 Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ],
   "removed_roles": [
     {
       "company": "AeroVironment",
       "title": "Modeling and Simulation Software Integration Engineer (Junior)",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -57,18 +116,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Associate or Mid-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Draper",
       "title": "Entry Level RF Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
@@ -78,12 +125,6 @@
       "company": "Palo Alto Networks",
       "title": "Associate Technical Marketing Engineer",
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Amentum",
-      "title": "Power System Design Engineer - Entry Level",
-      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -223,6 +264,12 @@
       "title": "Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern",
       "url": "https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "KBR",
+      "title": "Systems Engineer, Jr.",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply",
+      "reason": "official qualifications do not match the bachelor's new-grad policy"
     }
   ],
   "scan_log": [
@@ -253,7 +300,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 898,
+      "matches": 901,
       "phase": "fast-pass"
     },
     {
@@ -303,7 +350,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 979,
+      "matches": 980,
       "phase": "fast-pass"
     },
     {
@@ -644,7 +691,7 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "Leidos workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -726,7 +773,7 @@
       "source_id": "varda space|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 70,
+      "matches": 68,
       "phase": "fast-pass"
     },
     {
@@ -786,7 +833,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 193,
+      "matches": 192,
       "phase": "fast-pass"
     },
     {
@@ -912,7 +959,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 104,
+      "matches": 88,
       "phase": "fast-pass"
     },
     {
@@ -982,7 +1029,7 @@
       "source_id": "boston scientific|rss_jobs",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -1077,10 +1124,8 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "hntb|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 21,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1333,21 +1378,33 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "crowdstrike|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Palo Alto Networks",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "palo alto networks|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1633,33 +1690,21 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Target Tech",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Home Depot Technology",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "target tech|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
+      "source_id": "home depot technology|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
+      "phase": "fast-pass"
     },
     {
       "company": "Lowe's Technology",
@@ -1746,16 +1791,8 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Workday",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -1791,11 +1828,19 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2061,11 +2106,17 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2191,17 +2242,11 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "booz allen hamilton|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Booz Allen Hamilton",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2257,11 +2302,17 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "maxar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2416,7 +2467,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Boeing workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -2519,19 +2570,11 @@
       "company": "AeroVironment",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "AeroVironment",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "aerovironment|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
-      "phase": "double-check"
+      "matches": 6,
+      "phase": "fast-pass"
     },
     {
       "company": "Toyota Motor North America",
@@ -2567,21 +2610,33 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "rockwell automation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Carrier",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "carrier|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 2,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "Carrier workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Trane Technologies",
@@ -2597,11 +2652,17 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "kla|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "KLA workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "Stryker",
@@ -2616,7 +2677,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "Stryker workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -2663,20 +2724,40 @@
       "company": "Sierra Nevada Corporation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "sierra nevada corporation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Curtiss-Wright",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Curtiss-Wright",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "curtiss-wright|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Draper",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
@@ -2687,7 +2768,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Schneider Electric",
@@ -2831,14 +2912,14 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-21T22:03:01.041Z",
-    "elapsed_ms": 421727,
+    "scanned_at": "2026-08-21T22:43:28.296Z",
+    "elapsed_ms": 392932,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
     "discovered_sources_active": 168,
     "discovered_companies_active": 168,
-    "companies_with_active_sources": 237,
+    "companies_with_active_sources": 230,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
@@ -2848,11 +2929,11 @@
       "cached_verifications": 479,
       "reverify_hours": 24,
       "verification_attempts": 1207,
-      "verification_successes": 299,
+      "verification_successes": 298,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1326,
-        "untracked discipline": 734,
+        "untracked discipline": 737,
         "graduate-degree-only role": 111,
         "excluded recruiting year": 154,
         "non-official application URL": 48,
@@ -2860,7 +2941,7 @@
         "verification: official posting closed: provider requisition is no longer listed": 115,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 434,
         "verification: official page has an excluded recruiting year": 92,
-        "verification: official posting closed: official page does not identify the requisition": 34,
+        "verification: official posting closed: official page does not identify the requisition": 35,
         "verification: official posting closed: Oracle requisition is no longer listed": 17,
         "verification: 404 Not Found": 12,
         "verification: 405 Not Allowed": 29,
@@ -2877,8 +2958,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 38,
@@ -2888,32 +2969,32 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 14,
+    "double_check_attempts": 20,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 266,
-    "ok_sources": 237,
-    "error_sources": 14,
+    "total_fetch_attempts": 272,
+    "ok_sources": 230,
+    "error_sources": 21,
     "blocked_sources": 1,
-    "ats_ok_sources": 78,
-    "ats_error_sources": 5,
+    "ats_ok_sources": 77,
+    "ats_error_sources": 6,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 92.9,
+    "ats_success_percent": 91.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 9,
-      "Request Timeout": 5
+      "429 Too Many Requests": 15,
+      "Request Timeout": 6
     },
-    "board_eligible_candidates": 1096,
-    "provider_candidate_checks": 213,
+    "board_eligible_candidates": 1071,
+    "provider_candidate_checks": 191,
     "provider_candidate_closed": 0,
     "provider_candidate_ineligible": 23,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 309,
-    "inactive_provider_checks": 191,
+    "closure_checks": 330,
+    "inactive_provider_checks": 214,
     "inactive_provider_closed": 0,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 37,
+    "closed_roles_removed": 34,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

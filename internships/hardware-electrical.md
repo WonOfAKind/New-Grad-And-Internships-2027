@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 6:03 PM EDT
+Last updated: August 21, 2026 at 6:43 PM EDT
 
-Current roles in this view: 74
+Current roles in this view: 75
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -20,6 +20,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | 2027 Co-Op (Spring-Summer or Summer-Fall) Electrical Engineer (onsite) | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=299837&partnerid=25771&siteid=5403>) |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3>) |
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA, US | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.micron.com/careers/job/43943574-intern-hbm-soc-rtl-design-engineer-folsom-california-united-states-of-america>) |
+| Micron Technology | Intern - HBM SoC RTL Design Engineer | Folsom, CA | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290>) |
 | Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780>) |
 | Motorola Solutions | Electrical Engineer Intern - Summer 2027 | Plantation, FL | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67781>) |

@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-21T22:03:01.041Z",
-  "generated_at": "2026-08-21T22:03:01.041Z",
+  "scan_id": "2026-08-21T22:43:28.296Z",
+  "generated_at": "2026-08-21T22:43:28.296Z",
   "companies": [
     {
       "id": "adobe",
@@ -8351,5 +8351,70 @@
       ]
     }
   ],
-  "roles": []
+  "roles": [
+    {
+      "role_id": "8da78e3ec3f7bcc343e71bc3",
+      "company_id": "boston-scientific",
+      "company": "Boston Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "R&D Engineer I (Maple Grove, MN, US, 55311)",
+      "location": "Maple Grove, MN, US, 55311",
+      "role_type": "New Grad",
+      "discipline": "Mechanical Engineering",
+      "disciplines": [
+        "mechanical"
+      ],
+      "specialties": [],
+      "compensation": "$ 59900",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1422164600",
+      "source": "https://jobs.bostonscientific.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "",
+      "expires_at": "2026-09-20",
+      "updated_at": "",
+      "source_id": "boston scientific|rss_jobs",
+      "source_adapter": "rss_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ba531c597b83784459f77cd4",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "100 Quality Circle Suite 100 Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$60,500 - $92,500",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-13",
+      "expires_at": "",
+      "updated_at": "Posted 8 Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ]
 }
