@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 10:02 AM EDT
+Last updated: August 21, 2026 at 10:56 AM EDT
 
-Current roles in this view: 74
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,7 +15,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kiewit | Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Electrical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412187100>) |
 | Moog | Intern, Electrical Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569>) |
 | Diversified Automation | Hardware Engineering Co-Op | Louisville, KY | - | 2027 internship eligible | First seen Aug 21, 2026 | [Apply](<https://jobs.lever.co/diversified-automation/3cea02c8-9a43-4542-96bb-df69a874f146>) |
-| Analog Devices | Mixed Signal Engineer Intern | US, MA, Wilmington | $22 - $41/hr | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299>) |
 | BAE Systems | 2027 Co-Op (Spring-Summer or Summer-Fall) Electrical Engineer (onsite) | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=299837&partnerid=25771&siteid=5403>) |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3>) |
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA, US | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.micron.com/careers/job/43943574-intern-hbm-soc-rtl-design-engineer-folsom-california-united-states-of-america>) |
@@ -73,9 +72,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | Radio-frequency (RF) Engineering Intern III, Summer 2027 (Hybrid) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301579&partnerid=25771&siteid=5403>) |
 | Skydio | Electrical Engineer Intern | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee>) |
 | Nightwing | Software / Hardware Engineering - Intern | Annapolis Junction, MD | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software---Hardware-Engineering---Intern_JR101733>) |
-| Akuna Capital | Hardware Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
+| Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018880>) |
 | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823945101>) |
-| Jane Street | Hardware Engineer (FPGA/ASIC) Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
+| Jane Street | Hardware Engineer (FPGA/ASIC) Internship, New York :: Jane Street | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8624440002>) |
 | Neuralink | Firmware Engineer Intern, Robotics and Surgery Engineering | South San Francisco, California, United States | $35/Hr | 2027 internship eligible | Posted Jul 22, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6648992003>) |
 | Huntsman | Electrical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027>) |
 | Agilent Technologies | Electrical Engineering Intern | Wilmington, DE | $22.00 - $24.00/hour | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 3, 2026 | [Apply](<https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526>) |

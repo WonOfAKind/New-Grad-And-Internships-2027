@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 10:02 AM EDT
+Last updated: August 21, 2026 at 10:56 AM EDT
 
-Current roles in this view: 57
+Current roles in this view: 59
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Kiewit | Mechanical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Mechanical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412141600>) |
+| Magna | Intern - Engineering Mechanical Optics | Auburn Hills, Michigan, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153>) |
+| Magna | Intern - Engineering Optics | Auburn Hills, Michigan, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-Optics_R00256157>) |
 | 🔥 Johnson &amp; Johnson | Materials Engineering Co-Op Fall 2027 | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380>) |
 | 🔥 Johnson &amp; Johnson | Materials Engineering Co-Op Spring 2027 | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1>) |
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279136>) |
