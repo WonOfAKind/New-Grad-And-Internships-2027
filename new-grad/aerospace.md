@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 1:47 PM EDT
+Last updated: August 21, 2026 at 2:08 PM EDT
 
-Current roles in this view: 48
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -20,7 +20,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
-| Moog | Engineer I | Mineral Wells, TX | $75,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 21, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Engineer-I_R-26-19507>) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729085002>) |
 | Amentum | Early Career Payload Integration Systems Engineer (ES2) | Huntsville, Alabama, US | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states>) |
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |
@@ -58,6 +57,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
-| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 21, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 21, 2024<br>First seen Aug 21, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 

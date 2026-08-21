@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 1:47 PM EDT
+Last updated: August 21, 2026 at 2:08 PM EDT
 
-Current roles in this view: 75
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Brunswick | Transducer Engineering Intern | Tulsa, OK | $18-$27 per hour | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320>) |
 | H3X Technologies | Embedded Controls Intern (Spring) | Louisville, Colorado | $23 - $37/hr | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40>) |
 | Kiewit | Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Electrical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412187100>) |
 | Moog | Intern, Electrical Engineering | Buffalo, NY | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569>) |
@@ -44,7 +43,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | GE Aerospace | Systems Engineering Intern - Electrical Engineering &amp; Computer Engineering/Science (Electric Power) - US - Summer 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027_R5030137-1/apply>) |
 | Generac | Intern Firmware Engineering | Reno, NV | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149>) |
 | Generac | Intern- Electrical Engineering | Reno, NV - USA | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148>) |
-| Rivian and Volkswagen Group Technologies | Electrical Design Engineering Intern | Irvine, California | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/rivianvw.tech/e93841e0-d1b4-484e-a1e7-6ac494c9868c>) |
 | Teledyne | Computer Engineering Intern | Lincoln, NE | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 4, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ29119>) |
 | 🔥 Anduril | 2027 Electrical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $30 - $45/hr USD | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5148101007>) |
 | GE Aerospace | Embedded Systems Engineer Co-op (Bohemia, NY) – Spring 2027 | Bohemia, New York, United States of America | - | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 9, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1/apply>) |
