@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 9:14 AM EDT
+Last updated: August 21, 2026 at 10:02 AM EDT
 
-Current roles in this view: 31
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Leidos | Robotics Engineer Intern | Huntsville, AL | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159>) |
 | Amentum | Fall Intern, HLS Guidance Engineer | Huntsville, AL | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Fall-Intern--HLS-Guidance-Engineer_R0168404>) |
 | 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
