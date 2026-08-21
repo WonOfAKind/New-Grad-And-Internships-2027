@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 21, 2026 at 5:03 PM EDT
+Last updated: August 21, 2026 at 5:41 PM EDT
 
-Current roles in this view: 38
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,9 +18,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Materials Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895783003>) |
 | Freeform | Mechanical Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894094003>) |
 | 🔥 Toyota Motor North America | Engineer I | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 21, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Development Program (ERDP) - Product Development Track | Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 21, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development - Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 21, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 21, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | Kiewit | Field/Office Engineer - MEC Industrial (Entry-Level) | Phoenix, AZ, US | $82,000/yr | Early career | Posted Aug 17, 2026<br>First seen Aug 21, 2026 | [Apply](<https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700>) |
 | Kimley-Horn | Mechanical Engineering Analyst | Virginia Beach, VA, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25858/mechanical-engineering-analyst/job>) |
 | 🔥 ExxonMobil | Reliability Engineer (Bonnyville, AB, CA, T9N 2J7) | Bonnyville, AB, CA, T9N 2J7 | - | Explicit new grad role | First seen Aug 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Bonnyville-Reliability-Engineer-AB-T9N-2J7/1418708700>) |

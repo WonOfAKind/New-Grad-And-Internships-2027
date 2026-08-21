@@ -1,6 +1,6 @@
 {
-  "scan_id": "2026-08-21T21:03:51.978Z",
-  "generated_at": "2026-08-21T21:03:51.978Z",
+  "scan_id": "2026-08-21T21:41:25.571Z",
+  "generated_at": "2026-08-21T21:41:25.571Z",
   "companies": [
     {
       "id": "adobe",
@@ -8351,5 +8351,169 @@
       ]
     }
   ],
-  "roles": []
+  "roles": [
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-19",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f02ddac8a084fe006a9653a3",
+      "company_id": "sierra-nevada-corporation",
+      "company": "Sierra Nevada Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "Dayton, OH",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
+      "source": "https://www.sncorp.com/Careers/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-18",
+      "expires_at": "",
+      "updated_at": "Posted 3 Days Ago",
+      "source_id": "sierra nevada corporation|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "35eada09d1cccfa2d5254455",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Engineer Associate (2nd Shift)",
+      "location": "Jefferson City, Tennessee, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$57,600.00 - $90,400.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "98d80609a11553d5fa85ab6b",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Engineer Associate",
+      "location": "Jefferson City, Tennessee, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$57,600.00 - $90,400.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "0fb238bf1a56dc9353fae99b",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electronics Engineer I",
+      "location": "New Hudson, Michigan, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$68,600.00 - $109,200.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R49587/Electronics-Engineer-I",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ]
 }

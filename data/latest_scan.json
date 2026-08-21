@@ -1,6 +1,170 @@
 {
-  "scanned_at": "2026-08-21T21:03:51.978Z",
-  "fresh_leads": [],
+  "scanned_at": "2026-08-21T21:41:25.571Z",
+  "fresh_leads": [
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-19",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "f02ddac8a084fe006a9653a3",
+      "company_id": "sierra-nevada-corporation",
+      "company": "Sierra Nevada Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "Dayton, OH",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
+      "source": "https://www.sncorp.com/Careers/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-18",
+      "expires_at": "",
+      "updated_at": "Posted 3 Days Ago",
+      "source_id": "sierra nevada corporation|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "35eada09d1cccfa2d5254455",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Engineer Associate (2nd Shift)",
+      "location": "Jefferson City, Tennessee, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$57,600.00 - $90,400.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "98d80609a11553d5fa85ab6b",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Manufacturing Engineer Associate",
+      "location": "Jefferson City, Tennessee, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$57,600.00 - $90,400.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "0fb238bf1a56dc9353fae99b",
+      "company_id": "oshkosh-corporation",
+      "company": "Oshkosh Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electronics Engineer I",
+      "location": "New Hudson, Michigan, United States of America",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$68,600.00 - $109,200.00",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://careers.oshkoshcorp.com/us/en/job/R49587/Electronics-Engineer-I",
+      "source": "https://careers.oshkoshcorp.com/",
+      "date_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "posted_at": "2026-08-21",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "oshkosh corporation|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    }
+  ],
   "removed_roles": [
     {
       "company": "AeroVironment",
@@ -42,12 +206,6 @@
       "company": "Peraton",
       "title": "Entry-Level Electrical Engineer",
       "url": "https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering--",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "title": "Electrical Engineer I",
-      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -291,7 +449,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 318,
+      "matches": 317,
       "phase": "fast-pass"
     },
     {
@@ -321,7 +479,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 980,
+      "matches": 979,
       "phase": "fast-pass"
     },
     {
@@ -530,7 +688,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 40,
       "phase": "fast-pass"
     },
     {
@@ -666,7 +824,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 302,
+      "matches": 301,
       "phase": "fast-pass"
     },
     {
@@ -702,18 +860,24 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "General Motors workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
       "company": "Caterpillar",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "caterpillar|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 11,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Caterpillar",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Northrop Grumman",
@@ -732,7 +896,7 @@
       "source_id": "varda space|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 69,
+      "matches": 70,
       "phase": "fast-pass"
     },
     {
@@ -892,7 +1056,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1069,11 +1233,17 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "hntb|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 21,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "HNTB",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Thornton Tomasetti",
@@ -1118,7 +1288,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "NVIDIA workday scan timed out after 60000ms",
+      "error": "429 Too Many Requests",
       "phase": "double-check"
     },
     {
@@ -1428,7 +1598,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 34,
       "phase": "fast-pass"
     },
     {
@@ -1635,8 +1805,10 @@
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Home Depot Technology workday scan timed out after 90000ms",
+      "source_id": "home depot technology|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2161,11 +2333,17 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 4,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
+      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2221,11 +2399,19 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "maxar|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2467,8 +2653,10 @@
       "company": "Airbus",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Airbus workday scan timed out after 90000ms",
+      "source_id": "airbus|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -2545,8 +2733,10 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "KLA workday scan timed out after 90000ms",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
     },
     {
@@ -2566,7 +2756,7 @@
       "source_id": "abbott|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -2603,8 +2793,10 @@
       "company": "Sierra Nevada Corporation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Sierra Nevada Corporation workday scan timed out after 90000ms",
+      "source_id": "sierra nevada corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -2664,7 +2856,15 @@
       "source_id": "oshkosh corporation|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 3,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Goodyear",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
@@ -2675,7 +2875,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2769,28 +2969,28 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-21T21:03:51.978Z",
-    "elapsed_ms": 460013,
+    "scanned_at": "2026-08-21T21:41:25.571Z",
+    "elapsed_ms": 388702,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
     "discovered_sources_active": 168,
     "discovered_companies_active": 168,
-    "companies_with_active_sources": 241,
+    "companies_with_active_sources": 242,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4493,
       "official_candidates": 1686,
-      "cached_verifications": 482,
+      "cached_verifications": 475,
       "reverify_hours": 24,
-      "verification_attempts": 1204,
-      "verification_successes": 297,
+      "verification_attempts": 1211,
+      "verification_successes": 304,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1326,
-        "untracked discipline": 737,
+        "untracked discipline": 734,
         "graduate-degree-only role": 111,
         "excluded recruiting year": 154,
         "non-official application URL": 48,
@@ -2815,8 +3015,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 38,
@@ -2826,32 +3026,32 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 3,
+    "double_check_attempts": 8,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 255,
-    "ok_sources": 241,
-    "error_sources": 10,
+    "total_fetch_attempts": 260,
+    "ok_sources": 242,
+    "error_sources": 9,
     "blocked_sources": 1,
-    "ats_ok_sources": 81,
-    "ats_error_sources": 2,
+    "ats_ok_sources": 79,
+    "ats_error_sources": 4,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 96.4,
+    "ats_success_percent": 94,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 1,
-      "Request Timeout": 9
+      "429 Too Many Requests": 5,
+      "Request Timeout": 4
     },
-    "board_eligible_candidates": 1115,
-    "provider_candidate_checks": 236,
+    "board_eligible_candidates": 1093,
+    "provider_candidate_checks": 209,
     "provider_candidate_closed": 0,
     "provider_candidate_ineligible": 23,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 298,
-    "inactive_provider_checks": 178,
+    "closure_checks": 319,
+    "inactive_provider_checks": 201,
     "inactive_provider_closed": 0,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 40,
+    "closed_roles_removed": 39,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []
