@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 2:58 PM EDT
+Last updated: August 21, 2026 at 3:40 PM EDT
 
-Current roles in this view: 104
+Current roles in this view: 103
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Analog Devices | Analog Design Engineer Intern | US, MA, Wilmington | $22 - $41/hr | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297>) |
 | Crowe | AI Functional Intern - WINTER 2027 | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015>) |
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA, US | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.micron.com/careers/job/43943574-intern-hbm-soc-rtl-design-engineer-folsom-california-united-states-of-america>) |
 | Millennium | 2027 Applied AI Engineer Intern, Miami | Miami, FL, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778848-2027-applied-ai-engineer-intern-miami-miami-florida-united-states-of-america>) |
