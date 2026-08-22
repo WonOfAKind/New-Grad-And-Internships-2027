@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 21, 2026 at 7:41 PM EDT
+Last updated: August 21, 2026 at 8:01 PM EDT
 
-Current roles in this view: 29
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 21, 2026 | [Apply](<https://lifeattiktok.com/search/7675616554318596357>) |
 | 🔥 Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027>) |
 | Datadog | Product Management Intern \| Datadog Careers | New York, New York, USA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
 | TikTok | Product Manager Intern (Content and Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673337777708550405>) |
