@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 6:06 PM EDT
+Last updated: August 24, 2026 at 6:48 PM EDT
 
 Current roles in this view: 83
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states>) |
 | Analog Devices | Digital Design Engineer Intern | Durham, NC | $19 - $35/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298>) |
 | Analog Devices | Product Engineer (Product Development) Intern | US, MA, Wilmington | $22 - $41/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302>) |
 | Curtiss-Wright | Engineer Intern | Grand Prairie, TX | $18-$19/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Grand-Prairie-ST-160/Engineer-Intern_JR11380>) |
@@ -82,7 +83,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Jane Street | Windows Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8628843002>) |
 | PDT Partners | Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | HNTB | Intern Engineer - Summer 2027 - Central Division (For Current/Former HNTB Interns Only) | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/Intern-Engineer---Summer-2027---Central-Division--For-Current-Former-HNTB-Interns-Only-_R-30882-1>) |
-| Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | HNTB | Co-op Engineer - Fall/Winter 2026-2027 | Indianapolis, IN; Westfield, IN (Carmel) | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Indianapolis-IN/Co-op-Engineer---Fall-Winter-2026-2027_R-30053-1>) |
 | HNTB | Co-op Engineer: Structures - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875-1>) |

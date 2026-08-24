@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 6:06 PM EDT
+Last updated: August 24, 2026 at 6:48 PM EDT
 
-Current roles in this view: 80
+Current roles in this view: 82
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Brunswick | Computer Graphics Engineering Intern | Champaign, IL | $18.00-$27.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325>) |
 | Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | $30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296>) |
+| Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
 | H3X Technologies | Embedded Controls Intern (Spring) | Louisville, Colorado | $23 - $37/hr | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40>) |
 | Kiewit | Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Electrical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412187100>) |

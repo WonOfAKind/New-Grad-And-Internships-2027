@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 6:06 PM EDT
+Last updated: August 24, 2026 at 6:48 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 70
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,6 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Disney | WDI Show Mechanical Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506>) |
 | Disney | WDI Show Mechanical Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505>) |
 | Freeform | Mechanical Engineering Intern (Spring 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7921114003>) |
+| 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | 🔥 Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
 | Kiewit | Mechanical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Mechanical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412141600>) |
 | Magna | Intern - Engineering Mechanical Optics | Auburn Hills, Michigan, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153>) |
@@ -75,6 +76,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | Operations Engineering (Industrial, Mechanical, Electrical) Co-op, Spring/Summer, 2027 | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300473&partnerid=25771&siteid=5403>) |
 | Skydio | Product Design Engineer Intern | San Mateo, California, United States | $41/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months->) |
+| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Huntsman | Mechanical Engineering Intern | Texas | - | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026>) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
 | 🔥 Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
