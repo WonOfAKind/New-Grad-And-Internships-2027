@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T21:47:21.269Z",
+  "updated_at": "2026-08-24T22:06:22.111Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -5265,9 +5265,9 @@
         "limit": 20,
         "verified_open_jobs": 960
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T22:06:22.111Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T20:51:40.228Z"
     },
     "johnson & johnson": {
@@ -5299,9 +5299,9 @@
         "limit": 20,
         "verified_open_jobs": 1157
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T22:06:22.111Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T20:51:40.228Z"
     },
     "abbott": {
