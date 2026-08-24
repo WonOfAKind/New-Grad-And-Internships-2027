@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 2:10 PM EDT
+Last updated: August 24, 2026 at 3:02 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 52
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -39,6 +39,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Pratt &amp; Whitney | Systems Engineer I | marlborough, Massachusetts, United States of America | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01866673/Systems-Engineer-I>) |
 | 🔥 Pratt &amp; Whitney | 2027 Fulltime - Systems Engineer II – Onsite | el segundo, California, United States of America | - | 2027 grad eligible | Posted Aug 15, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01859558/2027-Fulltime-Systems-Engineer-II-Onsite>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26073>) |
+| Amentum | Applied Multiphysics Engineer I | Greenville, South Carolina, US | $76,000 | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/applied-multiphysics-engineer-i-greenville-south-carolina-united-states-743d32d1-1729-4163-a74d-2e6221c09eb2>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Engagement) | Chantilly, Virginia | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Engagement-_R2125983/apply>) |
 | Spirit AeroSystems | Spirit Defense - Entry-Level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17257>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
@@ -61,5 +62,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
+| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 24, 2024<br>First seen Aug 24, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 

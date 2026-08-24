@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T18:10:45.040Z",
+  "updated_at": "2026-08-24T19:02:58.595Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
+      "last_scan_error": "NVIDIA workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T17:49:14.601Z"
     },
     "netflix": {
@@ -857,10 +857,10 @@
         "limit": 20,
         "verified_open_jobs": 1439
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T13:18:20.017Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "wiz": {
       "company": "Wiz",
@@ -2534,10 +2534,10 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T14:07:52.879Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -4140,10 +4140,10 @@
         "limit": 20,
         "verified_open_jobs": 169
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T13:18:20.017Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4577,10 +4577,10 @@
         "limit": 20,
         "verified_open_jobs": 644
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:59:02.565Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5480,10 +5480,10 @@
         "limit": 20,
         "verified_open_jobs": 297
       },
-      "last_scan_at": "2026-08-24T17:49:14.601Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:59:02.565Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
@@ -5514,10 +5514,10 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:59:02.565Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "draper": {
       "company": "Draper",
@@ -5835,10 +5835,10 @@
         "limit": 20,
         "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-24T18:10:45.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:59:02.565Z"
+      "last_scan_at": "2026-08-24T19:02:58.595Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "chevron": {
       "company": "Chevron",
