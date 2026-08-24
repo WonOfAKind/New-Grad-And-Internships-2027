@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T17:49:14.601Z",
+  "updated_at": "2026-08-24T18:10:45.040Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T17:49:14.601Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T17:49:14.601Z"
     },
     "netflix": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1439
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T13:18:20.017Z"
     },
     "wiz": {
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "qualtrics": {
@@ -4140,9 +4140,9 @@
         "limit": 20,
         "verified_open_jobs": 169
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T13:18:20.017Z"
     },
     "oscar health": {
@@ -4577,9 +4577,9 @@
         "limit": 20,
         "verified_open_jobs": 644
       },
-      "last_scan_at": "2026-08-24T15:59:02.565Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "honeywell": {
@@ -5149,9 +5149,10 @@
         "limit": 20,
         "verified_open_jobs": 405
       },
-      "last_scan_at": "2026-08-24T16:58:49.881Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T18:10:45.040Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5264,10 +5265,10 @@
         "limit": 20,
         "verified_open_jobs": 968
       },
-      "last_scan_at": "2026-08-24T16:58:49.881Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:03:37.737Z"
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T18:10:45.040Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5298,10 +5299,10 @@
         "limit": 20,
         "verified_open_jobs": 1161
       },
-      "last_scan_at": "2026-08-24T16:58:49.881Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T15:59:02.565Z"
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T18:10:45.040Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5513,9 +5514,9 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T15:59:02.565Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "draper": {
@@ -5834,9 +5835,9 @@
         "limit": 20,
         "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-24T15:59:02.565Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T18:10:45.040Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "chevron": {
