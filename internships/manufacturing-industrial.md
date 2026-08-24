@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 10:07 AM EDT
+Last updated: August 24, 2026 at 11:03 AM EDT
 
-Current roles in this view: 57
+Current roles in this view: 56
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -22,7 +22,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | 2027 Summer Internship - X-Plant Manufacturing Engineering | Mobile Area, AL | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143>) |
 | Campbell Soup Company | R&amp;D Process Engineer Co-op | NJ | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/R-D-Process-Engineer-Co-op_Req-67554>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Operations Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Operations-Engineer-Collegiate-Associate-Intern-GA-31401/1421926200>) |
-| 🔥 Caterpillar | 2027 Summer Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | Freeform | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003>) |
 | Freeform | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |

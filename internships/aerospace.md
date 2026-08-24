@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 10:07 AM EDT
+Last updated: August 24, 2026 at 11:03 AM EDT
 
-Current roles in this view: 40
+Current roles in this view: 39
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,13 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| 🔥 RTX | System Engineering Co-op (Remote) | US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75 | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902>) |
+| 🔥 RTX | System Engineering Co-op (Remote) | Aurora, CO | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-FlightSystem-Simulation-Engineer-Collegiate-Associate-Intern-GA-31401/1421960300>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Sciences Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Sciences-Engineer-Collegiate-Associate-Intern-GA-31401/1421898000>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Test-Engineer-Collegiate-Associate-Intern-GA-31401/1421914300>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight/System Simulation Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-FlightSystem-Simulation-Engineer-Collegiate-Associate-Intern-GA-31401/1421866000>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Powerplant/Propulsion Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-PowerplantPropulsion-Engineer-Collegiate-Associate-Intern-GA-31401/1421952200>) |
-| Caterpillar | 2027 Summer Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Flight Sciences Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-Engineer-Collegiate-Associate-Intern-GA-31401/1421694100>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
