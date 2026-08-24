@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 6:48 PM EDT
+Last updated: August 24, 2026 at 7:06 PM EDT
 
-Current roles in this view: 340
+Current roles in this view: 339
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -17,7 +17,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL | Lake Mary, FL, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA | Pittsburgh, PA, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254>) |
 | Booz Allen Hamilton | Software Engineer - Intern | Bremerton, WA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218>) |
-| Brunswick | Computer Graphics Engineering Intern | Champaign, IL | $18.00-$27.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325>) |
 | Brunswick | Software Engineering Intern | Champaign, IL | $18.00-$27.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316>) |
 | Disney | Glendale System Software Engineering Internship, Spring 2027 | Glendale, CA, USA | $31.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137>) |
 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564>) |
@@ -245,7 +244,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Intern, Trust and Safety-Engineering | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7662684280234232117>) |
 | Uline | Network Engineer Internship | Pleasant Prairie, WI | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Network-Engineer-Internship---Summer-2027_R265689>) |
 | Walleye Capital | Quantic - Quantitative Developer Intern | New York, NY; Boston, MA | $20,000/month | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
-| Western Digital | Summer 2027 Intern - Software Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering>) |
 | TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667934759481526581>) |
 | TikTok | Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837275459324213>) |
 | TikTok | Software Development Engineer Intern (Global E-Commerce-Quality Platform &amp; AI Test Automation) - 2027 Summer | Seattle, Washington, United States of America | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
@@ -305,6 +303,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Voloridge Investment Management | Quantitative Developer Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009>) |
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009>) |
 | Western Digital | Software Engineering Intern (Summer 2027) | San Jose, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
+| Western Digital | Summer 2027 Intern - Software Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering>) |
 | Deepgram 🆁 | Software Engineering- Internship (Fall 2026/Summer 2027) | USA \| Remote | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1>) |
 | Solar Turbines (Caterpillar) | 2027 Internship - Solutions Platforms Engineered | San Diego, California | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008>) |

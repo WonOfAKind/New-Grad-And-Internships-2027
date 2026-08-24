@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T22:48:34.900Z",
+  "updated_at": "2026-08-24T23:06:17.406Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1439
       },
-      "last_scan_at": "2026-08-24T19:02:58.595Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T19:02:58.595Z"
     },
     "wiz": {
@@ -1929,9 +1929,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T21:47:21.269Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Target Tech workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "home depot technology": {
@@ -1954,9 +1954,9 @@
         "limit": 20,
         "verified_open_jobs": 1026
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T20:51:40.228Z"
     },
     "lowe's technology": {
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T21:47:21.269Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "qualtrics": {
@@ -3417,9 +3417,9 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "recursion": {
@@ -3917,9 +3917,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T21:47:21.269Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "l3harris": {
@@ -4577,9 +4577,9 @@
         "limit": 20,
         "verified_open_jobs": 701
       },
-      "last_scan_at": "2026-08-24T21:47:21.269Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "honeywell": {
@@ -5149,9 +5149,9 @@
         "limit": 20,
         "verified_open_jobs": 405
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T20:51:40.228Z"
     },
     "parker hannifin": {
@@ -5183,9 +5183,9 @@
         "limit": 20,
         "verified_open_jobs": 1077
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T20:51:40.228Z"
     },
     "trane technologies": {
@@ -5265,9 +5265,9 @@
         "limit": 20,
         "verified_open_jobs": 960
       },
-      "last_scan_at": "2026-08-24T22:48:34.900Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T22:48:34.900Z"
     },
     "johnson & johnson": {
@@ -5299,9 +5299,9 @@
         "limit": 20,
         "verified_open_jobs": 1157
       },
-      "last_scan_at": "2026-08-24T22:48:34.900Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T22:48:34.900Z"
     },
     "abbott": {
@@ -5514,9 +5514,9 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T21:47:21.269Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "draper": {
@@ -5740,9 +5740,9 @@
         "limit": 20,
         "verified_open_jobs": 261
       },
-      "last_scan_at": "2026-08-24T15:59:02.565Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T23:06:17.406Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "michelin": {
