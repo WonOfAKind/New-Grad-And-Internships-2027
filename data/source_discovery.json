@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T15:03:37.737Z",
+  "updated_at": "2026-08-24T15:59:02.565Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T13:18:20.017Z"
     },
     "netflix": {
@@ -3917,9 +3917,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
       "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4576,9 +4576,10 @@
         "limit": 20,
         "verified_open_jobs": 644
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 90000ms"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5147,9 +5148,9 @@
         "limit": 20,
         "verified_open_jobs": 405
       },
-      "last_scan_at": "2026-08-24T15:03:37.737Z",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5296,10 +5297,10 @@
         "limit": 20,
         "verified_open_jobs": 1161
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-24T13:18:20.017Z"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5346,7 +5347,7 @@
     },
     "bechtel": {
       "company": "Bechtel",
-      "checked_at": "2026-08-17T15:36:11.885Z",
+      "checked_at": "2026-08-24T15:52:43.822Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5366,10 +5367,10 @@
         "robotsUrl": "https://jobs.bechtel.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-17T15:41:13.662Z",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-17T15:41:13.662Z"
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "black & veatch": {
       "company": "Black & Veatch",
@@ -5415,7 +5416,7 @@
     },
     "whirlpool": {
       "company": "Whirlpool",
-      "checked_at": "2026-08-17T15:36:11.885Z",
+      "checked_at": "2026-08-24T15:52:43.822Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5434,10 +5435,10 @@
         "robotsUrl": "https://jobs.whirlpool.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-17T15:41:13.662Z",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-17T15:41:13.662Z"
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "general dynamics": {
       "company": "General Dynamics",
@@ -5477,9 +5478,10 @@
         "limit": 20,
         "verified_open_jobs": 297
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
@@ -5510,10 +5512,10 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Curtiss-Wright workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-24T13:18:20.017Z"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "draper": {
       "company": "Draper",
@@ -5718,7 +5720,7 @@
     },
     "goodyear": {
       "company": "Goodyear",
-      "checked_at": "2026-08-21T20:37:08.864Z",
+      "checked_at": "2026-08-24T15:52:43.822Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5734,12 +5736,12 @@
         "site": "GoodyearCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 260
+        "verified_open_jobs": 261
       },
-      "last_scan_at": "2026-08-24T15:03:37.737Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-21T20:42:56.245Z"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5770,7 +5772,7 @@
     },
     "nasa jet propulsion laboratory": {
       "company": "NASA Jet Propulsion Laboratory",
-      "checked_at": "2026-08-17T15:36:11.885Z",
+      "checked_at": "2026-08-24T15:52:43.822Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5786,12 +5788,12 @@
         "site": "Jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 66
+        "verified_open_jobs": 68
       },
-      "last_scan_at": "2026-08-17T15:41:13.662Z",
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-17T15:41:13.662Z"
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "lawrence livermore national laboratory": {
       "company": "Lawrence Livermore National Laboratory",
@@ -5831,10 +5833,10 @@
         "limit": 20,
         "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-24T15:03:37.737Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T14:07:52.879Z"
+      "last_scan_at": "2026-08-24T15:59:02.565Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T15:59:02.565Z"
     },
     "chevron": {
       "company": "Chevron",
