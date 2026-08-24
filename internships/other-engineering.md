@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 11:59 AM EDT
+Last updated: August 24, 2026 at 12:58 PM EDT
 
 Current roles in this view: 77
 
@@ -51,7 +51,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AMAROK Security | Technical Sales Engineer Intern | South Carolina, Columbia | $15/hour | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/amarok/jobs/6141167004>) |
 | Kimley-Horn | Civil Engineering Intern | Philadelphia, PA, US | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25841/civil-engineering-intern/job>) |
 | Kimley-Horn | Civil Engineering Intern | Princeton, NJ, US | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25846/civil-engineering-intern/job>) |
-| Olsson | Civil Engineering Internship - Rail Public Projects | Utah - Remote | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5389567008>) |
 | Thornton Tomasetti | Structural Engineer Co-op | New York, United States of America | $25 - $35 hourly | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR6849EXTERNALENUS/Structural-Engineer-Co-op>) |
 | Vertiv | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278722>) |
 | Vertiv | Technical Sales Engineering Intern - IT Channel (Summer 2027) | Columbus, OH, United States | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278720>) |
@@ -77,6 +76,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Jane Street | Windows Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8628843002>) |
 | PDT Partners | Systems Engineering Intern | New York, NY | - | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Jul 24, 2026 | [Apply](<https://job-boards.greenhouse.io/pdtpartners/jobs/8083292>) |
 | HNTB | Intern Engineer - Summer 2027 - Central Division (For Current/Former HNTB Interns Only) | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/Intern-Engineer---Summer-2027---Central-Division--For-Current-Former-HNTB-Interns-Only-_R-30882-1>) |
+| Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Microchip Technology | Intern-Engineering (MEMS Design) | Detroit Sales, MI | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26>) |
 | HNTB | Co-op Engineer - Fall/Winter 2026-2027 | Indianapolis, IN; Westfield, IN (Carmel) | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Indianapolis-IN/Co-op-Engineer---Fall-Winter-2026-2027_R-30053-1>) |
 | HNTB | Co-op Engineer: Structures - Fall/Winter 2026-2027 | Philadelphia, PA (Pennsylvania) | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Co-op-Engineer--Structures---Fall-Winter-2026-2027_R-29875-1>) |

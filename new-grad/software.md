@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 11:59 AM EDT
+Last updated: August 24, 2026 at 12:58 PM EDT
 
 Current roles in this view: 216
 
@@ -129,7 +129,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670558992960358661>) |
 | AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
-| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
+| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | AeroVironment | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | Samsara | Software Engineer I - New Grad | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343>) |
@@ -177,7 +177,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ThreatLocker | Junior DevOps Engineer | Orlando, FL | - | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/threatlocker/jobs/6100007004>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |
 | Volaris Group | Software Developer I - Analyst | Worcester, MA | - | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/volarisgroup/Volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1>) |
-| AeroVironment | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
+| BlueHalo | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
 | Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 24, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Appian | Information Security Engineer (2027 Graduate) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8035744-information-security-engineer--2027-graduate->) |
 | Appian | Software Engineer (2027 Graduates) | McLean, VA | $115,000 - $118,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Jul 24, 2026 | [Apply](<https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates->) |

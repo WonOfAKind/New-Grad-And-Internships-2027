@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 11:59 AM EDT
+Last updated: August 24, 2026 at 12:58 PM EDT
 
-Current roles in this view: 117
+Current roles in this view: 118
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -93,6 +93,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
+| Kimley-Horn | Civil Engineering Analyst | Greenville, SC, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24966/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Peachtree Corners, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24803/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Woodstock, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25189/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Chattanooga, TN, US | - | Explicit new grad role | Posted Jul 29, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24920/civil-engineering-analyst/job>) |
