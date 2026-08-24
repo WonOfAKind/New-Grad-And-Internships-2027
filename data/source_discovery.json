@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T13:18:20.017Z",
+  "updated_at": "2026-08-24T14:07:52.879Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -832,9 +832,10 @@
         "limit": 20,
         "verified_open_jobs": 450
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1243,7 +1244,7 @@
     },
     "shield ai": {
       "company": "Shield AI",
-      "checked_at": "2026-08-17T13:50:11.643Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1255,12 +1256,12 @@
         "source_kind": "discovered",
         "discovered_from": "https://shield.ai/careers/",
         "site": "shieldai",
-        "verified_open_jobs": 431
+        "verified_open_jobs": 433
       },
-      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-17T13:55:46.227Z"
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
@@ -1646,7 +1647,7 @@
     },
     "broadcom": {
       "company": "Broadcom",
-      "checked_at": "2026-08-19T19:56:01.838Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1662,12 +1663,11 @@
         "site": "External_Career",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 360
+        "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
       "last_scan_status": "error",
-      "last_scan_error": "Broadcom workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-19T20:02:39.362Z"
+      "last_scan_error": "500 Internal Server Error"
     },
     "arm": {
       "company": "Arm",
@@ -1702,7 +1702,7 @@
     },
     "marvell": {
       "company": "Marvell",
-      "checked_at": "2026-08-19T19:56:01.838Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1718,12 +1718,12 @@
         "site": "MarvellCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 391
+        "verified_open_jobs": 374
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Marvell workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-19T20:02:39.362Z"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "micron": {
       "company": "Micron",
@@ -2532,9 +2532,10 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "request timed out after 10000ms"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3414,9 +3415,10 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "request timed out after 10000ms"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -3913,9 +3915,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
       "last_scan_status": "error",
-      "last_scan_error": "request timed out after 10000ms"
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4520,7 +4522,7 @@
     },
     "comcast": {
       "company": "Comcast",
-      "checked_at": "2026-08-19T21:03:02.169Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4531,17 +4533,17 @@
         "priority": "P1",
         "source_kind": "discovered",
         "discovered_from": "https://jobs.comcast.com/search-jobs",
-        "host": "comcast.wd5.myworkdayjobs.com",
+        "host": "comcast.wd115.myworkdayjobs.com",
         "tenant": "comcast",
         "site": "Comcast_Careers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 798
+        "verified_open_jobs": 667
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "410 Gone",
-      "last_verified_at": "2026-08-19T22:43:48.830Z"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "verizon": {
       "company": "Verizon",
@@ -5000,7 +5002,7 @@
     },
     "aerovironment": {
       "company": "AeroVironment",
-      "checked_at": "2026-08-21T13:55:35.587Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5016,12 +5018,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 311
+        "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "AeroVironment workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-21T14:02:11.884Z"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5034,7 +5036,7 @@
     },
     "toyota motor north america": {
       "company": "Toyota Motor North America",
-      "checked_at": "2026-08-17T13:50:11.643Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5050,12 +5052,12 @@
         "site": "TMNA",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 94
+        "verified_open_jobs": 96
       },
-      "last_scan_at": "2026-08-17T13:55:46.227Z",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-17T13:55:46.227Z"
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "honda": {
       "company": "Honda",
@@ -5125,7 +5127,7 @@
     },
     "rockwell automation": {
       "company": "Rockwell Automation",
-      "checked_at": "2026-08-21T20:37:08.864Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5143,10 +5145,9 @@
         "limit": 20,
         "verified_open_jobs": 405
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
       "last_scan_status": "error",
-      "last_scan_error": "Rockwell Automation workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-21T23:02:58.367Z"
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5292,9 +5293,9 @@
         "limit": 20,
         "verified_open_jobs": 1161
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Stryker workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T13:18:20.017Z"
     },
     "abbott": {
@@ -5506,9 +5507,9 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Curtiss-Wright workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-24T13:18:20.017Z"
     },
     "draper": {
@@ -5809,7 +5810,7 @@
     },
     "bluehalo": {
       "company": "BlueHalo",
-      "checked_at": "2026-08-21T13:55:35.587Z",
+      "checked_at": "2026-08-24T14:00:08.327Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5825,12 +5826,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 311
+        "verified_open_jobs": 324
       },
-      "last_scan_at": "2026-08-24T13:18:20.017Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-21T18:08:54.979Z"
+      "last_scan_at": "2026-08-24T14:07:52.879Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "chevron": {
       "company": "Chevron",

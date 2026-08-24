@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 9:18 AM EDT
+Last updated: August 24, 2026 at 10:07 AM EDT
 
-Current roles in this view: 48
+Current roles in this view: 50
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
+| 🔥 United Launch Alliance | Control Dynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Control-Dynamics-Engineer-1-CO-80112/1422380800>) |
+| 🔥 United Launch Alliance | Guidance Navigation and Control Engineer 1 | Centennial, CO, US | $73,790.00 - $122,983.00 | Verified early career (BS) | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Guidance-Navigation-and-Control-Engineer-1-CO-80112/1422383700>) |
+| 🔥 United Launch Alliance | Trajectory Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Trajectory-Engineer-1-CO-80112/1422381600>) |
 | 🔥 BAE Systems | Systems Engineer - Entry Level | Huntsville, Alabama, United States | - | Early career | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302853&partnerid=25771&siteid=5403>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Aug 21, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $80,000 - $90,000 annually | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states-e05d76c3-73ca-45a2-806d-507dedb01c0c>) |
@@ -58,6 +61,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
-| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 24, 2024<br>First seen Aug 24, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 
