@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 4:07 PM EDT
+Last updated: August 24, 2026 at 4:51 PM EDT
 
-Current roles in this view: 218
+Current roles in this view: 217
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -32,7 +32,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | BlueHalo | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | Five Rings | LINK 2027: Software Development Intensive Program | New York | - | 2027 grad eligible | First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008>) |
-| BlueHalo | Modeling and Simulation Software Integration Engineer (Junior) | Huntsville, AL | - | Early career | Posted Aug 17, 2026<br>First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440>) |
+| AeroVironment | Modeling and Simulation Software Integration Engineer (Junior) | Huntsville, AL | - | Early career | Posted Aug 17, 2026<br>First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440>) |
 | mthree | Junior Software Engineer | USA | $48,000 - $63,000 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006>) |
 | mthree | Junior Software Engineer | USA | $48,000 - $66,300 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006>) |
 | Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
@@ -95,7 +95,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8662881002>) |
 | Samsara | Software Engineer I - New Grad, SF - San Francisco - SF9 | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 24, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
 | Esri | Software Development Engineer I Job \| Esri Career Opportunity | St. Louis, MO | $75,920 - $129,480 USD | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.esri.com/careers/5173239007>) |

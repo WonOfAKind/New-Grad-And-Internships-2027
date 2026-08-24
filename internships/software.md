@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 4:07 PM EDT
+Last updated: August 24, 2026 at 4:51 PM EDT
 
-Current roles in this view: 336
+Current roles in this view: 337
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Audax Group | Data Engineer Co-Op | Boston, Massachusetts | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL | Lake Mary, FL, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA | Pittsburgh, PA, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254>) |
+| Booz Allen Hamilton | Software Engineer - Intern | Bremerton, WA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218>) |
 | Disney | Glendale System Software Engineering Internship, Spring 2027 | Glendale, CA, USA | $31.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137>) |
 | Freddie Mac | Multifamily Software Development Intern – Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564>) |
 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544>) |
@@ -25,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | N1 | Software Engineer Intern (Backend, Rust) | New York City | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6>) |
 | Philips | Co-op – Software System Engineering – Plymouth, MN – January 2027 | Plymouth, Minnesota, United States | $25.00 - $36/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406>) |
 | Replit | Software Engineering Intern | Foster City, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1>) |
+| The Hartford | Tech &amp; Data Program Summer 2027 - Data Engineer Intern (Columbus) | Columbus, OH | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610>) |
 | The Hartford | Tech &amp; Data Program Summer 2027 - Software Engineer Intern (Hartford) | Hartford, CT | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1>) |
 | The Hartford | Tech &amp; Data Program Summer 2027 – Data Engineer Intern (Hartford) | Hartford, CT | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1>) |
 | The Hartford | Tech &amp; Data Summer Program 2027 - Software Engineer Intern (Columbus) | Columbus, OH | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609>) |
@@ -87,7 +89,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Conagra Brands | IT Infrastructure Internship - Summer 2027 | Omaha, Nebraska | $20-28/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788>) |
 | Conagra Brands | Software Development Internship - Summer 2027 | Omaha, NE | $20-28/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787>) |
 | Datadog | Software Engineering Intern (Winter) \| Datadog Careers | Boston, MA; New York, NY | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8052095>) |
-| Hilton Worldwide | 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber) | Memphis, TN, United States; McLean, VA, United States; Dallas, TX, United States | $25.00 per hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257>) |
 | KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | $25 per hour | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380>) |
 | Neuralink | Software Engineer Intern, BCI Applications | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/neuralink/jobs/6594422003>) |
 | Point72 | Quantitative Developer Intern | New York, NY | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/8721562002>) |
