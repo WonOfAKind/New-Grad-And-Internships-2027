@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 4:51 PM EDT
+Last updated: August 24, 2026 at 5:47 PM EDT
 
-Current roles in this view: 337
+Current roles in this view: 338
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Advanced Space | 2027 Software Engineering Summer Internship | Westminster, CO | $26 - $35/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/advancedspace/jobs/4324855009>) |
 | Audax Group | Data Engineer Co-Op | Boston, Massachusetts | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL | Lake Mary, FL, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA | Pittsburgh, PA, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254>) |
@@ -243,7 +244,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Uline | Network Engineer Internship | Pleasant Prairie, WI | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Network-Engineer-Internship---Summer-2027_R265689>) |
 | Walleye Capital | Quantic - Quantitative Developer Intern | New York, NY; Boston, MA | $20,000/month | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006>) |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering>) |
-| TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667934759481526581>) |
+| TikTok | Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667934759481526581>) |
 | TikTok | Software Development Engineer Intern - Global E-Commerce - Quality Platform &amp; AI Test Automation - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837275459324213>) |
 | TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform &amp; AI Test Automation - 2027 Summer | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668837276597127477>) |
 | HPR | Software Engineering Intern - Summer 2027 | Needham, MA | $42.00/hour | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003>) |

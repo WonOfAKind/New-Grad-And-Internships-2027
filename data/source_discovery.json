@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-24T20:51:40.228Z",
+  "updated_at": "2026-08-24T21:47:21.269Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1929,9 +1929,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2515,7 +2516,7 @@
     },
     "zendesk": {
       "company": "Zendesk",
-      "checked_at": "2026-08-24T13:10:00.130Z",
+      "checked_at": "2026-08-24T21:41:04.719Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2533,10 +2534,10 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T19:02:58.595Z"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3916,10 +3917,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T19:47:19.095Z"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4121,7 +4122,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-08-24T13:10:00.130Z",
+      "checked_at": "2026-08-24T21:41:04.719Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4137,12 +4138,12 @@
         "site": "Vantor",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 169
+        "verified_open_jobs": 164
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T19:02:58.595Z"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4576,10 +4577,10 @@
         "limit": 20,
         "verified_open_jobs": 701
       },
-      "last_scan_at": "2026-08-24T20:51:40.228Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-24T20:07:49.176Z"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5513,9 +5514,10 @@
         "limit": 20,
         "verified_open_jobs": 358
       },
-      "last_scan_at": "2026-08-24T20:07:49.176Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-08-24T21:47:21.269Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-24T21:47:21.269Z"
     },
     "draper": {
       "company": "Draper",
