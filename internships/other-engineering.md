@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 3:47 PM EDT
+Last updated: August 24, 2026 at 4:07 PM EDT
 
-Current roles in this view: 80
+Current roles in this view: 81
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,7 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Disney | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013>) |
 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545>) |
 | Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
-| Microchip Technology | Intern - Engineer | CO - Boulder | $19.00-$30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R3657-26>) |
+| Microchip Technology | Intern - Engineer | Boulder, CO | $19.00-$30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R3657-26>) |
 | Thornton Tomasetti | Structural Engineer Intern | Kansas City, Missouri, United States of America | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7084EXTERNALENUS/Structural-Engineer-Intern>) |
 | Analog Devices | Algorithm Development Engineer Intern | Wilmington, MA | $22 - $41/hr | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1>) |
 | Hitachi | 2027 Summer Engineering Intern - Raleigh | Raleigh, North Carolina, United States | - | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571>) |
@@ -65,6 +65,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51>) |
 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
+| TikTok | LLM Post-training Engineer Intern - Research &amp; Product - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285031018432773>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | Returning Co-op Engineer- Fall/Winter/Spring 2026-2027-Great Lakes Division (For Current/Former HNTB Co-ops only) | Milwaukee, WI (East Wisconsin Avenue); Valparaiso, IN; Sterling Heights, MI; East Lansing, MI (Lansing); Ashwaubenon, WI (Green Bay); Jackson, MI; Indianapolis, IN; Downers Grove, IL; Detroit, MI; Allen Park, MI; Cleveland, OH; Grand Rapids, MI; Columbus, OH; Westfield, IN (Carmel); Blue Ash, OH (Cincinnati); Chicago, IL; Minneapolis, MN; Madison, WI | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Co-op-Engineer--Fall-Winter-Spring-2026-2027-Great-Lakes-Division--For-Current-Former-HNTB-Co-ops-only-_R-31050-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |
