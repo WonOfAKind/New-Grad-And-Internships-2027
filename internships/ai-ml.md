@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 3:01 PM EDT
+Last updated: August 25, 2026 at 3:49 PM EDT
 
 Current roles in this view: 110
 
@@ -30,8 +30,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Millennium | 2027 Applied AI Engineer Intern, New York | New York, NY, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778821-2027-applied-ai-engineer-intern-new-york-new-york-new-york-united-states-of-america>) |
 | Eulerity | Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation | New York, NY | $18 - $20 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/eulerity/jobs/4706780006>) |
 | 🔥 Microsoft | AI Software Engineering Intern | Washington, DC +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning Computer Architecture | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491>) |
 | Whirlpool | Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern | St Joseph, MI, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa>) |
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7670875283026053381>) |
 | American Express | AI Engineer I Intern, Enterprise Technology Services | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375>) |
