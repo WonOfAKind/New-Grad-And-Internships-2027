@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:58 PM EDT
+Last updated: August 25, 2026 at 1:48 PM EDT
 
-Current roles in this view: 85
+Current roles in this view: 83
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Brunswick | Engineering Intern | Tulsa, OK | $18.00-$27.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312>) |
 | Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | HNTB | Design Build Intern Engineer - Summer 2027 | Kansas City, MO | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Design-Build-Intern-Engineer---Summer-2027_R-31321-1>) |
 | HNTB | Intern Engineer - Summer 2027 | Columbus, OH; Cleveland, OH; Blue Ash, OH (Cincinnati) | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1>) |
@@ -25,7 +26,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Disney | WDI Civil Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1>) |
 | Disney | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013>) |
 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545>) |
-| Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | Kiewit | Field Engineer Intern - Northwest District, Heavy Civil (Summer 2027) | Boulder, CO, US | $20.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-Intern-Northwest-District%2C-Heavy-Civil-%28Summer-2027%29-WA-98660/1422893200>) |
 | Kodiak Robotics | Winter 2027 Intern, Controls | Mountain View, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4378402009>) |
 | Olsson | Civil Engineering Internship - Airports | Lincoln, NE | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5400072008>) |
@@ -34,8 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Analog Devices | Algorithm Development Engineer Intern | Wilmington, MA | $22 - $41/hr | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1>) |
 | Hitachi | 2027 Summer Engineering Intern - Raleigh | Raleigh, North Carolina, United States | - | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571>) |
 | Analog Devices | Analog Design Engineer Intern | Wilmington, MA | $22 - $41/hr | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297>) |
-| Brunswick | Engineering Intern | Tulsa, OK | $18.00-$27.00 per hour | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312>) |
-| Brunswick | Transducer Engineering Intern | Tulsa, OK | $18-$27 per hour | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320>) |
 | Magna | Intern - Engineering Optics | Auburn Hills, Michigan, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Intern---Engineering-Optics_R00256157>) |
 | Stantec | Civil Engineering Intern/Co-op - Transportation (Spring 2027) | New York, NY, United States | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007331>) |
 | Vertiv | Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279132>) |

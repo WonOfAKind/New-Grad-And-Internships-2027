@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-25T16:58:57.104Z",
+  "updated_at": "2026-08-25T17:48:37.902Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-25T16:58:57.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T16:58:57.104Z"
     },
     "netflix": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1432
       },
-      "last_scan_at": "2026-08-24T23:38:08.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T23:38:08.976Z"
     },
     "wiz": {
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-24T23:38:08.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T23:38:08.976Z"
     },
     "qualtrics": {
@@ -3424,9 +3424,9 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-24T23:38:08.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T23:38:08.976Z"
     },
     "recursion": {
@@ -3924,9 +3924,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-25T16:03:15.082Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "l3harris": {
@@ -4147,9 +4147,9 @@
         "limit": 20,
         "verified_open_jobs": 169
       },
-      "last_scan_at": "2026-08-25T13:15:30.618Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T13:15:30.618Z"
     },
     "oscar health": {
@@ -4584,9 +4584,9 @@
         "limit": 20,
         "verified_open_jobs": 681
       },
-      "last_scan_at": "2026-08-25T16:58:57.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-25T16:58:57.104Z"
     },
     "honeywell": {
@@ -5156,9 +5156,9 @@
         "limit": 20,
         "verified_open_jobs": 406
       },
-      "last_scan_at": "2026-08-25T16:58:57.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-25T16:58:57.104Z"
     },
     "parker hannifin": {
@@ -5272,9 +5272,9 @@
         "limit": 20,
         "verified_open_jobs": 946
       },
-      "last_scan_at": "2026-08-25T16:58:57.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T16:58:57.104Z"
     },
     "johnson & johnson": {
@@ -5487,9 +5487,9 @@
         "limit": 20,
         "verified_open_jobs": 301
       },
-      "last_scan_at": "2026-08-25T16:58:57.104Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T16:58:57.104Z"
     },
     "howmet aerospace": {
@@ -5521,9 +5521,9 @@
         "limit": 20,
         "verified_open_jobs": 357
       },
-      "last_scan_at": "2026-08-25T15:09:15.152Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Curtiss-Wright workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-25T15:09:15.152Z"
     },
     "draper": {
@@ -5749,9 +5749,9 @@
         "limit": 20,
         "verified_open_jobs": 246
       },
-      "last_scan_at": "2026-08-25T13:15:30.618Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T17:48:37.902Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T13:15:30.618Z"
     },
     "michelin": {

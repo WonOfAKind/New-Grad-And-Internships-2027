@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:58 PM EDT
+Last updated: August 25, 2026 at 1:48 PM EDT
 
 Current roles in this view: 347
 
@@ -83,9 +83,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | InfiniteQuant 🆁 | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States | $6,000-$10,000/month | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579-quantitative-developer-internship-summer-2027>) |
 | 🔥 Microsoft | AI Software Engineering Intern | Washington, DC +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
 | Northrop Grumman | 2027 Intern Software Engineer | United States-Florida-Melbourne | $18.50 - $33.50 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Software Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495>) |
-| 🔥 NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492>) |
-| 🔥 NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495>) |
+| 🔥 NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492>) |
+| 🔥 NVIDIA | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Santa Clara, CA | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499>) |
 | ByteDance | Software Engineer Intern (Traffic Infrastructure) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://joinbytedance.com/search/7672626707586746629>) |
 | TikTok | Machine Learning MLOps Intern (Global SRE) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7670875283026053381>) |
 | TikTok | Site Reliability Engineer Intern (Global SRE) - 2027 Summer | San Jose, California, United States of America | $45- $60/hr | 2027 internship eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7670874691332212997>) |
