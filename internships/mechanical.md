@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 4:48 PM EDT
+Last updated: August 25, 2026 at 5:09 PM EDT
 
 Current roles in this view: 73
 
@@ -43,7 +43,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Caterpillar | 2027 Engineering Corporate Internship Program Materials | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501>) |
 | 🔥 Caterpillar | 2027 Engineering Corporate Internship Program Welding | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506>) |
 | 🔥 GE Aerospace | Welding Engineering Intern - Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Welding-Engineering-Intern---Summer-2027_R5038782-1/apply>) |
-| Kiewit | Equipment Engineer Intern - Kiewit Equipment Services (Summer 2027) | Denver, CO, US | $18.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Equipment-Engineer-Intern-Kiewit-Equipment-Services-%28Summer-2027%29-WA-98660/1420832300>) |
+| Kiewit | Equipment Engineer Intern - Kiewit Equipment Services (Summer 2027) | Lenexa, KS, US | $18.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Equipment-Engineer-Intern-Kiewit-Equipment-Services-%28Summer-2027%29-WA-98660/1420832300>) |
 | 🔥 GE Aerospace | Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Fall 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Fall-2027_R5030145-1/apply>) |
 | 🔥 GE Aerospace | Systems Engineering Co-op - Mechanical/Aerospace Engineering (Electric Power) - US - Spring 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Mechanical-Aerospace-Engineering--Electric-Power----US---Spring-2027_R5030103-1/apply>) |
 | 🔥 GE Aerospace | Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 | Dayton, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027_R5030140-1/apply>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 4:48 PM EDT
+Last updated: August 25, 2026 at 5:09 PM EDT
 
 Current roles in this view: 86
 
@@ -30,7 +30,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Disney | WDI Project Engineering Intern, Spring 2027 | Glendale, CA, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Project-Engineering-Intern--Spring-2027_10158179>) |
 | Disney | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013>) |
 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545>) |
-| Kiewit | Field Engineer Intern - Northwest District, Heavy Civil (Summer 2027) | Boulder, CO, US | $20.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-Intern-Northwest-District%2C-Heavy-Civil-%28Summer-2027%29-WA-98660/1422893200>) |
+| Kiewit | Field Engineer Intern - Northwest District, Heavy Civil (Summer 2027) | Anchorage, AK, US | $20.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-Intern-Northwest-District%2C-Heavy-Civil-%28Summer-2027%29-WA-98660/1422893200>) |
 | Kodiak Robotics | Winter 2027 Intern, Controls | Mountain View, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4378402009>) |
 | Thornton Tomasetti | Structural Engineer Intern | Kansas City, Missouri, United States of America | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7084EXTERNALENUS/Structural-Engineer-Intern>) |
 | RTX | Systems Engineering Test Equipment Intern (Summer 2027) | el segundo, California, United States of America | - | 2027 internship eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450/apply>) |
