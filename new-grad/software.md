@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 5:45 PM EDT
+Last updated: August 25, 2026 at 6:04 PM EDT
 
-Current roles in this view: 222
+Current roles in this view: 220
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -41,7 +41,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | BlueHalo | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
 | Five Rings | LINK 2027: Software Development Intensive Program | New York | - | 2027 grad eligible | First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008>) |
-| AeroVironment | Modeling and Simulation Software Integration Engineer (Junior) | Huntsville, AL | - | Early career | Posted Aug 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440>) |
+| BlueHalo | Modeling and Simulation Software Integration Engineer (Junior) | Huntsville, AL | - | Early career | Posted Aug 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Modeling-and-Simulation-Software-Integration-Engineer--Junior-_8440>) |
 | mthree | Junior Software Engineer | USA | $48,000 - $63,000 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006>) |
 | mthree | Junior Software Engineer | USA | $48,000 - $66,300 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006>) |
 | Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
@@ -102,7 +102,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IXL Learning | Software Engineer, New Grad | Raleigh, NC | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663379002>) |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8662881002>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 25, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
 | Esri | Software Development Engineer I Job \| Esri Career Opportunity | St. Louis, MO | $75,920 - $129,480 USD | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.esri.com/careers/5173239007>) |
@@ -136,12 +135,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7668582542044072245>) |
 | TikTok | Software Engineer Graduate (Global CRM) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7668554579301124357>) |
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670558992960358661>) |
-| AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
+| BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | AeroVironment | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
-| Samsara | Software Engineer I - New Grad | San Francisco, CA | $136,850 - $161,000 USD | 2027 grad eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343>) |
 | TikTok | AI Effects Workflow Software Engineer Graduate (TikTok-Agentic Creation-Effect House) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669905277419948293>) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668824169648097541>) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668827379083823413>) |
@@ -230,7 +228,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Palantir | Software Engineer, New Grad - Production Infrastructure | Seattle, WA | $145,000 - $155,000/year | Explicit new grad role | Posted Jul 8, 2026<br>First seen Jul 5, 2026 | [Apply](<https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af>) |
 | 🔥 Anduril | 2027 Early Career Software Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5162263007>) |
 | Aquatic | Software Engineer, Early Career | Chicago, IL; New York, NY | $150,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002>) |
-| Tower Research Capital | Quantitative Trader | New York, NY; Chicago, IL | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
+| Tower Research Capital | Quantitative Trader/Researcher - 2027 | New York, Chicago | $150,000 - $250,000 | Early career | Posted Jul 7, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | - | Early career | Posted Jun 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2125556/apply>) |
 | KBR | Junior Software Engineer | Beavercreek, Ohio | $80,000 - $100,000 | Early career | Posted Jun 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294/apply>) |
 | KBR | Jr Software Developer Astro Engineer | Colorado Springs, Colorado | - | Early career | Posted May 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2123749/apply>) |
