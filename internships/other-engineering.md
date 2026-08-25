@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 2:10 PM EDT
+Last updated: August 25, 2026 at 3:01 PM EDT
 
-Current roles in this view: 85
+Current roles in this view: 84
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -31,7 +31,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freddie Mac | Single-Family Data Intern- Summer 2027 | McLean, VA | $32/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Data-Intern--Summer-2027_JR17545>) |
 | Kiewit | Field Engineer Intern - Northwest District, Heavy Civil (Summer 2027) | Boulder, CO, US | $20.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-Intern-Northwest-District%2C-Heavy-Civil-%28Summer-2027%29-WA-98660/1422893200>) |
 | Kodiak Robotics | Winter 2027 Intern, Controls | Mountain View, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4378402009>) |
-| Olsson | Civil Engineering Internship - Airports | Lincoln, NE | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5400072008>) |
 | Thornton Tomasetti | Structural Engineer Intern | Kansas City, Missouri, United States of America | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7084EXTERNALENUS/Structural-Engineer-Intern>) |
 | RTX | Systems Engineering Test Equipment Intern (Summer 2027) | el segundo, California, United States of America | - | 2027 internship eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450/apply>) |
 | Analog Devices | Algorithm Development Engineer Intern | Wilmington, MA | $22 - $41/hr | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1>) |
@@ -72,8 +71,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Parsons | Roadway Engineering Intern - Summer 2027 | IN, Indianapolis, R184488 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 11, 2026<br>First seen Aug 11, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---IN-Indianapolis/Roadway-Engineering-Intern---Summer-2027_R184488>) |
 | RE/SPEC Inc. | Student Engineering Intern - Cavern Geomechanics | Rapid City, South Dakota, United States | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.smartrecruiters.com/RESPECInc/744000107082695-student-engineering-intern-cavern-geomechanics>) |
 | SoloPulse | Systems Engineering Intern | Peachtree Corners, GA | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://jobs.lever.co/solopulseco/418b3949-3b21-48f9-b7a0-1c036ca0ba51>) |
+| Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448>) |
 | Vertiv | Test Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279024>) |
-| GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | $1,000 - $2,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 14, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2>) |
 | Becton Dickinson | Engineering Intern | USA CT - Canaan | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 12, 2026 | [Apply](<https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CT---Canaan/Engineering-Intern_R-549057-1>) |
 | HNTB | Returning Co-op Engineer- Fall/Winter/Spring 2026-2027-Great Lakes Division (For Current/Former HNTB Co-ops only) | Milwaukee, WI (East Wisconsin Avenue); Valparaiso, IN; Sterling Heights, MI; East Lansing, MI (Lansing); Ashwaubenon, WI (Green Bay); Jackson, MI; Indianapolis, IN; Downers Grove, IL; Detroit, MI; Allen Park, MI; Cleveland, OH; Grand Rapids, MI; Columbus, OH; Westfield, IN (Carmel); Blue Ash, OH (Cincinnati); Chicago, IL; Minneapolis, MN; Madison, WI | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Co-op-Engineer--Fall-Winter-Spring-2026-2027-Great-Lakes-Division--For-Current-Former-HNTB-Co-ops-only-_R-31050-1>) |
 | HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current &amp; Recent HNTB Interns Only) | Bellevue, WA (Seattle) | $25.28 - $37.92/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 6, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Bellevue-WA-Seattle/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31037>) |

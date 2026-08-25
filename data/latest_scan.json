@@ -1,30 +1,281 @@
 {
-  "scanned_at": "2026-08-25T18:10:53.945Z",
+  "scanned_at": "2026-08-25T19:01:03.545Z",
   "fresh_leads": [
     {
-      "role_id": "2827c42c28d943e65594375a",
-      "company_id": "maxar",
-      "company": "Maxar",
+      "role_id": "5a05ce2fb0437803943c14d8",
+      "company_id": "verkada",
+      "company": "Verkada",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "GIS Engineer (Jr)",
-      "location": "Bolling AFB, DC; Arlington, VA; Reston, VA",
-      "role_type": "New Grad",
-      "discipline": "AI / Machine Learning",
+      "title": "Backend Software Engineering Intern 2027",
+      "location": "San Mateo, CA United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "ai-ml"
+        "software"
       ],
       "specialties": [],
-      "compensation": "$67,000.00 - $111,000.00 annually",
-      "grad_window": "Early career",
-      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-      "source": "https://www.maxar.com/careers",
+      "compensation": "$55 - $65/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+      "source": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "",
+      "posted_at": "2026-08-25",
       "expires_at": "",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "maxar|workday",
+      "updated_at": "",
+      "source_id": "verkada|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T18:59:20.334Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "3d14ca978da2c42940b303d8",
+      "company_id": "verkada",
+      "company": "Verkada",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Embedded Software Engineering Intern 2027",
+      "location": "San Mateo, CA United States",
+      "role_type": "Internship",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical",
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$55 - $65/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+      "source": "https://job-boards.greenhouse.io/verkada/jobs/5211595007",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "verkada|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T18:59:20.336Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "8092327f19e0ccc5a03c7ea1",
+      "company_id": "verkada",
+      "company": "Verkada",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Frontend Software Engineering Intern 2027",
+      "location": "San Mateo, CA United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$55 - $65/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+      "source": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "verkada|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T18:59:20.331Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "9e19dbbee08e5895693c56e8",
+      "company_id": "verkada",
+      "company": "Verkada",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Mobile Software Engineering Intern 2027",
+      "location": "San Mateo, CA United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$55 - $65/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+      "source": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "verkada|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T19:00:28.024Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "b4f19d17fa2ed6a8e365b08d",
+      "company_id": "verkada",
+      "company": "Verkada",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Security Software Engineering Intern 2027",
+      "location": "San Mateo, CA United States",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "$55 - $65/hr USD",
+      "grad_window": "2027 internship eligible",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "source": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "verkada|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T19:00:28.027Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "7d8f3b0fcb26da040ae90a32",
+      "company_id": "disney",
+      "company": "Disney",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Labor Systems Data Analytics & Integration Intern, Spring 2027",
+      "location": "Lake Buena Vista, FL, USA",
+      "role_type": "Internship",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data"
+      ],
+      "specialties": [],
+      "compensation": "$31.00 per hour",
+      "grad_window": "2027 internship eligible",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+      "source": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-24",
+      "expires_at": "2026-08-31",
+      "updated_at": "",
+      "source_id": "disney|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T19:00:29.950Z",
+      "verification_version": 6,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [],
+      "compensation": "$61,660 - $101,600",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-23",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "5eb681ad4e97c1ebb40934b7",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Entry Level Electrical Engineer",
+      "location": "Lexington Park, Maryland, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$70,000 - $80,000",
+      "grad_window": "Early career",
+      "url": "https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-lexington-park-maryland-united-states",
+      "source": "https://www.amentumcareers.com/",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-04-13",
+      "expires_at": "2026-11-23",
+      "updated_at": "",
+      "source_id": "amentum|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c676c31102d3478aff848311",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Junior Scene Generation Engineer",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "source": "https://bluehalo.com/careers/",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-05",
+      "expires_at": "",
+      "updated_at": "Posted 20 Days Ago",
+      "source_id": "bluehalo|workday",
       "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
@@ -33,7 +284,7 @@
       "priority": "P0"
     },
     {
-      "role_id": "6171ad44270c83326e98ef81",
+      "role_id": "c904979670447466180b6f5f",
       "company_id": "brunswick",
       "company": "Brunswick",
       "featured_company": false,
@@ -46,10 +297,43 @@
         "manufacturing-industrial"
       ],
       "specialties": [],
-      "compensation": "$18.00-27.50 per hour",
+      "compensation": "$18.00-27.50/hr",
       "grad_window": "2027 internship eligible",
-      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051229",
-      "source": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051229",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223",
+      "source": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "brunswick|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-08-25T18:59:20.831Z",
+      "verification_version": 6,
+      "priority": "P1"
+    },
+    {
+      "role_id": "f7f941d9940c4cfe3eee21e6",
+      "company_id": "brunswick",
+      "company": "Brunswick",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Merucry Marine: Product Management Intern – Parts & Accessories",
+      "location": "Fond du Lac, WI",
+      "role_type": "Internship",
+      "discipline": "Product Management",
+      "disciplines": [
+        "product-management"
+      ],
+      "specialties": [
+        "product"
+      ],
+      "compensation": "$18.00- 27.50/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142",
+      "source": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
       "posted_at": "2026-08-25",
@@ -59,74 +343,8 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T18:10:22.720Z",
+      "verified_at": "2026-08-25T19:00:34.107Z",
       "verification_version": 6,
-      "priority": "P1"
-    },
-    {
-      "role_id": "2a9c2ea7802b8ea58d84102e",
-      "company_id": "palo-alto-networks",
-      "company": "Palo Alto Networks",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Associate Technical Marketing Engineer",
-      "location": "Office - USA - CA - Headquarters",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical",
-        "ai-ml",
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$94,000.00 - $153,000.00/yr",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
-      "source": "https://jobs.paloaltonetworks.com/en/search-jobs",
-      "date_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "posted_at": "",
-      "expires_at": "",
-      "updated_at": "Posted 30+ Days Ago",
-      "source_id": "palo alto networks|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P1"
-    },
-    {
-      "role_id": "f02ddac8a084fe006a9653a3",
-      "company_id": "sierra-nevada-corporation",
-      "company": "Sierra Nevada Corporation",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Electrical Engineer I",
-      "location": "Dayton, OH",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
-      "source": "https://www.sncorp.com/Careers/",
-      "date_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "posted_at": "2026-08-18",
-      "expires_at": "",
-      "updated_at": "Posted 7 Days Ago",
-      "source_id": "sierra nevada corporation|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
       "priority": "P1"
     }
   ],
@@ -150,6 +368,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Maxar",
+      "title": "GIS Engineer (Jr)",
+      "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Oshkosh Corporation",
       "title": "Electronics Engineer I",
       "url": "https://careers.oshkoshcorp.com/us/en/job/R49587/Electronics-Engineer-I",
@@ -162,6 +386,12 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Sierra Nevada Corporation",
+      "title": "Electrical Engineer I",
+      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "AeroVironment",
       "title": "Electrical Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
@@ -171,6 +401,12 @@
       "company": "Draper",
       "title": "Entry Level RF Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Associate Technical Marketing Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -276,12 +512,6 @@
       "reason": "official verification confirmed closure"
     },
     {
-      "company": "Philips",
-      "title": "Co-op - Software System Engineering - Plymouth - MN - January 2027",
-      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
-      "reason": "official verification confirmed closure"
-    },
-    {
       "company": "Valkyrie Trading",
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
@@ -336,16 +566,10 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "KBR",
-      "title": "Systems Engineer, Jr.",
-      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply",
-      "reason": "official qualifications do not match the bachelor's new-grad policy"
-    },
-    {
-      "company": "Disney",
-      "title": "Labor Systems Data Analytics & Integration Intern, Spring 2027",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
-      "reason": "explicit closed-page message"
+      "company": "Olsson",
+      "title": "Civil Engineering Internship - Airports",
+      "url": "https://job-boards.greenhouse.io/olsson/jobs/5400072008",
+      "reason": "official verification confirmed closure"
     }
   ],
   "scan_log": [
@@ -423,10 +647,8 @@
       "company": "Anduril",
       "adapter": "greenhouse",
       "source_kind": "configured",
-      "source_id": "anduril|greenhouse",
-      "reconciliation": "authoritative",
-      "status": "ok",
-      "matches": 971,
+      "status": "error",
+      "error": "request timed out after 10000ms",
       "phase": "fast-pass"
     },
     {
@@ -705,7 +927,7 @@
       "source_id": "instacart|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 45,
+      "matches": 46,
       "phase": "fast-pass"
     },
     {
@@ -742,17 +964,11 @@
       "company": "Visa",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "visa|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Visa",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Leidos",
@@ -777,7 +993,7 @@
       "source_id": "rtx|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 301,
+      "matches": 298,
       "phase": "fast-pass"
     },
     {
@@ -899,7 +1115,7 @@
       "source_id": "ge aerospace|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 74,
+      "matches": 73,
       "phase": "fast-pass"
     },
     {
@@ -909,7 +1125,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 207,
+      "matches": 208,
       "phase": "fast-pass"
     },
     {
@@ -946,11 +1162,17 @@
       "company": "The Aerospace Corporation",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "the aerospace corporation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "United Launch Alliance",
@@ -1009,7 +1231,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 8,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -1139,7 +1361,7 @@
       "source_id": "kimley-horn|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 38,
+      "matches": 36,
       "phase": "fast-pass"
     },
     {
@@ -1186,11 +1408,17 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "source_id": "hntb|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 22,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "HNTB",
+      "adapter": "workday",
+      "source_kind": "configured",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Thornton Tomasetti",
@@ -1226,11 +1454,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 25,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1279,7 +1513,7 @@
       "source_id": "reddit|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 74,
+      "matches": 75,
       "phase": "fast-pass"
     },
     {
@@ -1319,7 +1553,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 35,
+      "matches": 37,
       "phase": "fast-pass"
     },
     {
@@ -1399,7 +1633,7 @@
       "source_id": "singlestore|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 14,
+      "matches": 13,
       "phase": "fast-pass"
     },
     {
@@ -1436,21 +1670,35 @@
       "company": "CrowdStrike",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "CrowdStrike",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "crowdstrike|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
+      "phase": "double-check"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Palo Alto Networks",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "palo alto networks|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Wiz",
@@ -1479,7 +1727,7 @@
       "source_id": "cohere|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 41,
+      "matches": 40,
       "phase": "fast-pass"
     },
     {
@@ -1809,7 +2057,7 @@
       "source_id": "duolingo|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 15,
+      "matches": 19,
       "phase": "fast-pass"
     },
     {
@@ -1874,11 +2122,19 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2144,11 +2400,17 @@
       "company": "Verily",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "verily|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Verily",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Recursion",
@@ -2283,7 +2545,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Booz Allen Hamilton workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -2300,8 +2562,10 @@
       "company": "General Dynamics Mission Systems",
       "adapter": "html_jobs",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "403 Forbidden",
+      "source_id": "general dynamics mission systems|html_jobs",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
     },
     {
@@ -2338,11 +2602,19 @@
       "company": "Maxar",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "maxar|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2497,7 +2769,7 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Boeing workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -2603,7 +2875,7 @@
       "source_id": "aerovironment|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2640,11 +2912,17 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "rockwell automation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Rockwell Automation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -2670,10 +2948,24 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "kla|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 7,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "KLA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Stryker",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
@@ -2684,7 +2976,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 2,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Abbott",
@@ -2730,11 +3022,17 @@
       "company": "Sierra Nevada Corporation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "sierra nevada corporation|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 1,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Curtiss-Wright",
@@ -2806,19 +3104,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "goodyear|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -2834,19 +3124,11 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "BlueHalo",
-      "adapter": "workday",
-      "source_kind": "discovered",
       "source_id": "bluehalo|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 7,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Chevron",
@@ -2920,36 +3202,36 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-25T18:10:53.945Z",
-    "elapsed_ms": 482556,
+    "scanned_at": "2026-08-25T19:01:03.545Z",
+    "elapsed_ms": 462099,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
     "discovered_sources_active": 168,
     "discovered_companies_active": 168,
-    "companies_with_active_sources": 240,
+    "companies_with_active_sources": 233,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 4603,
-      "official_candidates": 1730,
-      "cached_verifications": 501,
+      "rows_parsed": 4607,
+      "official_candidates": 1732,
+      "cached_verifications": 499,
       "reverify_hours": 24,
-      "verification_attempts": 1229,
-      "verification_successes": 305,
+      "verification_attempts": 1233,
+      "verification_successes": 309,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1399,
-        "untracked discipline": 744,
+        "untracked discipline": 750,
         "graduate-degree-only role": 101,
         "excluded recruiting year": 141,
         "non-official application URL": 50,
         "marked closed by discovery source": 1,
-        "verification: official posting closed: provider requisition is no longer listed": 130,
+        "verification: official posting closed: provider requisition is no longer listed": 129,
         "verification: official page does not confirm 2027 new-grad/intern eligibility": 430,
-        "verification: official page has an excluded recruiting year": 93,
-        "verification: official posting closed: official page does not identify the requisition": 34,
+        "verification: official page has an excluded recruiting year": 94,
+        "verification: official posting closed: official page does not identify the requisition": 35,
         "verification: official posting closed: Oracle requisition is no longer listed": 18,
         "verification: 404 Not Found": 12,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
@@ -2957,17 +3239,17 @@
         "verification: 405 Not Allowed": 30,
         "verification: official posting closed: 404 Not Found": 29,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
-        "verification: 403 Forbidden": 72,
+        "verification: 403 Forbidden": 70,
         "verification: official posting closed: official page shell does not expose the requisition": 46,
         "verification: 400 Bad Request": 6,
         "verification: fetch failed": 2,
         "verification: official posting closed: redirected away from the requisition": 7,
-        "verification: 410 Gone": 1
+        "verification: 410 Gone": 2
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 3,
-    "discovery_new_sources_this_scan": 3,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 43,
@@ -2977,33 +3259,32 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 9,
+    "double_check_attempts": 18,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 261,
-    "ok_sources": 240,
-    "error_sources": 11,
+    "total_fetch_attempts": 270,
+    "ok_sources": 233,
+    "error_sources": 18,
     "blocked_sources": 1,
-    "ats_ok_sources": 79,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 77,
+    "ats_error_sources": 6,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 94,
+    "ats_success_percent": 91.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 7,
-      "Request Timeout": 3,
-      "403 Forbidden": 1
+      "Request Timeout": 6,
+      "429 Too Many Requests": 12
     },
-    "board_eligible_candidates": 1155,
-    "provider_candidate_checks": 242,
+    "board_eligible_candidates": 1122,
+    "provider_candidate_checks": 202,
     "provider_candidate_closed": 1,
     "provider_candidate_ineligible": 24,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 358,
-    "inactive_provider_checks": 217,
+    "closure_checks": 387,
+    "inactive_provider_checks": 248,
     "inactive_provider_closed": 1,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 36,
+    "closed_roles_removed": 37,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 2:10 PM EDT
+Last updated: August 25, 2026 at 3:01 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 34
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Brunswick | Mercury Marine: Product Management Intern – Oils &amp; Lubricants | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213>) |
+| Brunswick | Merucry Marine: Product Management Intern – Parts &amp; Accessories | Fond du Lac, WI | $18.00- 27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142>) |
 | 🔥 Microsoft | Product Management INTERN | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556978896>) |
 | TikTok | Product Manager Intern (PGC) - 2027 Summer | Los Angeles, California, United States of America | - | 2027 internship eligible | First seen Aug 24, 2026 | [Apply](<https://lifeattiktok.com/search/7673365416605010229>) |
 | TikTok | Product Manager Intern (PGC) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 24, 2026 | [Apply](<https://lifeattiktok.com/search/7673365923163638069>) |
