@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 24, 2026 at 7:38 PM EDT
+Last updated: August 24, 2026 at 8:00 PM EDT
 
-Current roles in this view: 218
+Current roles in this view: 219
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,6 +27,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | 2027 Entry Level Software Engineer | Fort Worth, Texas, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302881&partnerid=25771&siteid=5403>) |
 | BAE Systems | Entry Level Software Engineer | San Diego, California, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301511&partnerid=25771&siteid=5403>) |
 | Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | $125,000-$150,000 | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003>) |
+| Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Spojené státy (USA) | - | Verified early career (BS) | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jobs.thermofisher.com/cz/cz/job/R-01346350/Engineer-I-Reliability-Engineer>) |
 | Point72 | 2027 Cubist Quant Academy – Developers | New York | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/point72/jobs/7598678002>) |
 | TikTok | Data Engineer Graduate (Data Platform - Global Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675484418022181173>) |
 | AeroVironment | Software Engineer I-1 | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I-1_8366>) |
@@ -129,7 +130,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Data Arch - E-commerce) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7668582542044072245>) |
 | TikTok | Software Engineer Graduate (Global CRM) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7668554579301124357>) |
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670558992960358661>) |
-| AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
+| BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
 | 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | AeroVironment | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
