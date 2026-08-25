@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 5:09 PM EDT
+Last updated: August 25, 2026 at 5:45 PM EDT
 
 Current roles in this view: 49
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Boeing | Entry-Level Loads and Dynamics Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $71,400 - $96,600 | Early career | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Loads-and-Dynamics-Engineer_JR2026522380>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59497>) |
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
 | KBR | JR System Engineer | Chantilly, Virginia | - | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-System-Engineer_R2128868/apply>) |
@@ -27,7 +28,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168106-jobs--engineering-->) |
-| Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | 🔥 SpaceX | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8729085002>) |
 | Amentum | Early Career Payload Integration Systems Engineer (ES2) | Huntsville, Alabama, US | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states>) |
 | Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 5:09 PM EDT
+Last updated: August 25, 2026 at 5:45 PM EDT
 
-Current roles in this view: 34
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Boeing | Entry-Level Loads and Dynamics Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $71,400 - $96,600 | Early career | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Loads-and-Dynamics-Engineer_JR2026522380>) |
 | Boston Scientific | R&amp;D Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | 2027 grad eligible | First seen Aug 25, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-R&D-Engineer-I-MN-55112/1422436800>) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
 | Thermo Fisher Scientific | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01346350/Engineer-I-Reliability-Engineer>) |
