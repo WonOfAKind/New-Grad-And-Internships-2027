@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 6:47 PM EDT
+Last updated: August 25, 2026 at 7:08 PM EDT
 
-Current roles in this view: 368
+Current roles in this view: 367
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -313,7 +313,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Akuna Capital | Software Engineer Intern, C++ | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018847>) |
 | Akuna Capital | Software Engineer Intern, Full Stack Web | Chicago, IL | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8018893>) |
 | Anthelion Capital | Quant Developer / Quant Research Intern | New York, NY | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96>) |
-| Deepgram | Software Engineering Intern | Remote US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1>) |
+| Deepgram | Software Engineering Intern | Remote US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1>) |
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907399101>) |
 | Appian | Software Engineer Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8041237>) |
 | Chicago Trading Company | Software Engineering Internship | Chicago, IL | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005>) |
@@ -333,7 +333,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Voloridge Investment Management | Quantitative Research Intern | Jupiter, FL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4226247009>) |
 | Western Digital | Software Engineering Intern (Summer 2027) | San Jose, CA | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship>) |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, California, United States | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering>) |
-| Deepgram 🆁 | Software Engineering- Internship (Fall 2026/Summer 2027) | USA \| Remote | - | 2027 internship eligible | Posted Jul 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1>) |
 | Solar Turbines (Caterpillar) | 2027 Internship - Solutions Platforms Engineered | San Diego, California | $26.00 - $43.00/hr | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657>) |
 | Five Rings | Summer Intern 2027 - Software Developer | New York | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008>) |
 | Old Mission Capital | Software Engineer Intern (Summer 2027, June Start) | Chicago, IL | - | 2027 internship eligible | Posted Jul 15, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/oldmissioncapital/jobs/7796180003>) |
