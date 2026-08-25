@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 83
+Current roles in this view: 84
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Brunswick | Electrical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electrical-Engineering-Intern_JR-051233>) |
 | Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003>) |
+| Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1>) |
 | Moog | Intern, Hardware Engineering | Mineral Wells, TX | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417>) |
 | Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | $30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296>) |
 | Meridian Partners | Embedded Software Engineer Co-op | Cambridge, MA | $28 - $33/hr USD | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003>) |

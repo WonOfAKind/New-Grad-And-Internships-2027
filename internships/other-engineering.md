@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 84
+Current roles in this view: 85
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | HNTB | Design Build Intern Engineer - Summer 2027 | Kansas City, MO | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Design-Build-Intern-Engineer---Summer-2027_R-31321-1>) |
-| HNTB | Intern Engineer - Summer 2027 | Columbus, OH | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1>) |
+| HNTB | Intern Engineer - Summer 2027 | Columbus, OH; Cleveland, OH; Blue Ash, OH (Cincinnati) | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1>) |
 | HNTB | Intern Engineer - Summer 2027 | Minneapolis, MN | $22.12 - $33.18/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1>) |
+| Regal Rexnord | Engineering Co-Op | Charlotte, North Carolina, United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216>) |
 | Analog Devices | Digital Design Engineer Intern | Durham, NC | $19 - $35/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298>) |
 | Analog Devices | Product Engineer (Product Development) Intern | US, MA, Wilmington | $22 - $41/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302>) |
 | BP | Reservoir Engineer Intern (bpx energy) | United States of America - Colorado - Denver | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Reservoir-Engineer-Intern--bpx-energy-_RQ115142>) |
@@ -26,7 +28,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | Kiewit | Field Engineer Intern - Northwest District, Heavy Civil (Summer 2027) | Boulder, CO, US | $20.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-Intern-Northwest-District%2C-Heavy-Civil-%28Summer-2027%29-WA-98660/1422893200>) |
 | Kodiak Robotics | Winter 2027 Intern, Controls | Mountain View, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4378402009>) |
-| Microchip Technology | Intern - Engineer | Boulder, CO | $19.00-$30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R3657-26>) |
 | Olsson | Civil Engineering Internship - Airports | Lincoln, NE | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/olsson/jobs/5400072008>) |
 | Thornton Tomasetti | Structural Engineer Intern | Kansas City, Missouri, United States of America | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7084EXTERNALENUS/Structural-Engineer-Intern>) |
 | RTX | Systems Engineering Test Equipment Intern (Summer 2027) | el segundo, California, United States of America | - | 2027 internship eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450/apply>) |

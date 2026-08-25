@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 112
+Current roles in this view: 110
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | Nokia | Data Analytics &amp; AI Co-op | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743>) |
 | Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | $28 - $37/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/advancedspace/jobs/4324875009>) |
 | Audax Group | AI Engineer Co-Op | Boston, MA | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005>) |
@@ -104,7 +103,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Neuralink | Machine Learning Engineer Intern | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Jul 26, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/6594261003>) |
 | Magna | R&amp;D- Computer Vision Engineering Intern | Troy, MI | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
 | Magna International | R&amp;D- Computer Vision Engineering Intern | Troy, Michigan, US | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1>) |
-| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Intel | AI Software Engineering Intern | Phoenix, AZ | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
 | Workato | Intern, AI Engineering | San Francisco, CA | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.workato.com/careers/intern-ai-engineering-8492935002>) |

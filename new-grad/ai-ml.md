@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 63
+Current roles in this view: 61
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,7 +19,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674023327725373701>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674025781001062709>) |
 | ByteDance | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7667726338627356933>) |
-| Capgemini | Junior AI Data Scientist/Engineer | Atlanta, GA, GA, US | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-AI-Data-ScientistEngineer-GA-30301/1418864933>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |
 | TikTok | Machine Learning Engineer Graduate (Search Ads) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669698543896054069>) |
@@ -33,7 +32,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672532275557583157>) |
 | TikTok | Software Engineer Graduate (TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672517471946000645>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
-| Capgemini | Junior AI Data Scientist/Engineer | New York, NY, NY, US | - | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433>) |
 | TikTok | (General Hire)Machine Learning Engineer Graduate (TikTok Recommendation) - 2027 Start | San Jose, California, United States of America | $128,000 - $316,800 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663389745178757429>) |
 | TikTok | Backend Software Engineer Graduate (Emerging Products &amp; AI Safety) - 2027 Start | San Jose, California, United States of America | $128,000 - $316,800 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663036952090347829>) |
 | TikTok | Machine Learning Engineer Graduate (Data-Global E-Commerce-Search) - 2027 Start | Seattle, Washington, United States of America | $121,600 - $243,200 annually | 2027 grad eligible | Posted Aug 7, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668390999147776309>) |

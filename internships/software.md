@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 349
+Current roles in this view: 347
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | GlobalFoundries | Cybersecurity Intern (Summer 2027) | USA - New York - Malta | $20.00 - $40.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459>) |
 | Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486>) |
 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483>) |
 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485>) |
+| Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487>) |
 | RTX | Software Engineering Co-op (Summer/Fall 2027) (Onsite) | US-IA-CEDAR RAPIDS-131 5450 C Ave NE… | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518>) |
 | TikTok | Software Engineer Intern (TikTok- Developer Platform) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 25, 2026 | [Apply](<https://lifeattiktok.com/search/7667935739300792629>) |
 | Advanced Space | 2027 Software Engineering Summer Internship | Westminster, CO | $26 - $35/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/advancedspace/jobs/4324855009>) |
@@ -296,7 +296,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IMC Trading | Quantitative Research Intern (BS/MS) - Summer 2027 | Chicago, United States | - | 2027 internship eligible | Posted Jul 24, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907399101>) |
 | Appian | Software Engineer Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/appian/jobs/8041237>) |
 | Chicago Trading Company | Software Engineering Internship | Chicago, IL | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Jul 20, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005>) |
-| Intel | AI Software Engineering Intern | Hillsboro, OR | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639>) |
 | Intel | AI Software Engineering Intern | Phoenix, AZ | - | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641>) |
 | Marmon Holdings | Data Engineering Intern OR Student Co-Op | Milwaukee, WI | $27.00/hour | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453>) |
 | Tenstorrent | Software Engineering Intern, Power Modeling &amp; AI Tools | Santa Clara, California, United States | $50/hr | 2027 internship eligible | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007>) |
@@ -304,7 +303,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Akuna Capital | Quantitative Development &amp; Strategy Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8021481>) |
 | Akuna Capital | Quantitative Research Intern | Chicago, IL | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://akunacapital.com/careers/job/8036614>) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI | Remote (US) | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==>) |
-| Axon | 2027 US Software Engineering Internship | Seattle, Washington, United States | $45 - $45/hr USD | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003>) |
 | Chevron | Information Technology - Software Engineer Intern | Houston, TX | $23.65 - $37.50/hr | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1>) |
 | Chicago Trading Company | Quant Trading Intern (Summer 2027) | Chicago, IL | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Jul 21, 2026 | [Apply](<https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005>) |
 | Five Rings | Summer Intern 2027 - Quantitative Trader | New York | - | 2027 internship eligible | Posted Jul 20, 2026<br>First seen Aug 3, 2026 | [Apply](<https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008>) |

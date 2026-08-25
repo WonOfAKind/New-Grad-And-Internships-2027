@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 32
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,7 +27,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Black &amp; Veatch | Associate Mechanical Systems Engineer-Nuclear | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Systems-Engineer-Nuclear-KS-66062/1427174333>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | KBR | Junior Mechanical Engineer | Huntsville, Alabama | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2128289/apply>) |
-| Hyundai | Total Vehicle Evaluation Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Aug 10, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Total-Vehicle-Evaluation-Engineer-I-CA-92618/1365341000>) |
 | Hyundai | Thermal Systems Engineer I | California City, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/California-City-Thermal-Systems-Engineer-I-CA-93505/1417921400>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |

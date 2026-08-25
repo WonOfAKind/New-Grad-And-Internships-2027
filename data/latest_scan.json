@@ -1,155 +1,103 @@
 {
-  "scanned_at": "2026-08-25T16:03:15.082Z",
+  "scanned_at": "2026-08-25T16:58:57.104Z",
   "fresh_leads": [
     {
-      "role_id": "7d8f3b0fcb26da040ae90a32",
-      "company_id": "disney",
-      "company": "Disney",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Labor Systems Data Analytics & Integration Intern, Spring 2027",
-      "location": "Lake Buena Vista, FL, USA",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
-      "disciplines": [
-        "data"
+      "role_id": "146cad330cfc94be9dbb9645",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "$31.00 per hour",
-      "grad_window": "2027 internship eligible",
-      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
-      "source": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
-      "date_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "posted_at": "2026-08-24",
-      "expires_at": "2026-08-31",
-      "updated_at": "",
-      "source_id": "disney|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:50.586Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "0a40c402762c7dbfa5dd0cf0",
-      "company_id": "hntb",
-      "company": "HNTB",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Design Build Intern Engineer - Summer 2027",
-      "location": "Kansas City, MO",
+      "title": "2027 Software Test Engineering Intern- Huntsville AL",
+      "location": "United States-Alabama-Huntsville",
       "role_type": "Internship",
-      "discipline": "Other Engineering",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "other-engineering"
+        "software"
       ],
-      "specialties": [],
-      "compensation": "",
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$25.50- $32.00 per hour",
       "grad_window": "2027 internship eligible",
-      "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Design-Build-Intern-Engineer---Summer-2027_R-31321-1",
-      "source": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Design-Build-Intern-Engineer---Summer-2027_R-31321-1",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
+      "source": "https://www.northropgrumman.com/jobs/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
       "posted_at": "2026-08-25",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "hntb|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:53.461Z",
-      "verification_version": 6,
+      "expires_at": "2026-08-28",
+      "updated_at": "Posted Today",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P0"
     },
     {
-      "role_id": "7662f696a7ecfe0ccdc8bf36",
-      "company_id": "hntb",
-      "company": "HNTB",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Intern Engineer - Summer 2027",
-      "location": "Minneapolis, MN",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
+      "role_id": "a184615aa18016348ff2e724",
+      "company_id": "medtronic",
+      "company": "Medtronic",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "$22.12 - $33.18/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1",
-      "source": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1",
-      "date_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "posted_at": "2026-08-25",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "hntb|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:54.713Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "3a1031f9f4e9e0ecc856709f",
-      "company_id": "hntb",
-      "company": "HNTB",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Intern Engineer - Summer 2027",
-      "location": "Columbus, OH",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference",
+      "location": "Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America",
       "role_type": "Internship",
-      "discipline": "Other Engineering",
-      "disciplines": [
-        "other-engineering"
-      ],
-      "specialties": [],
-      "compensation": "$21.07 - $31.60/hr",
-      "grad_window": "2027 internship eligible",
-      "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1",
-      "source": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1",
-      "date_seen": "2026-08-25",
-      "last_seen": "2026-08-25",
-      "posted_at": "2026-08-25",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "hntb|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:54.867Z",
-      "verification_version": 6,
-      "priority": "P0"
-    },
-    {
-      "role_id": "35c6bb01cc11633d1ad65793",
-      "company_id": "kiewit",
-      "company": "Kiewit",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Field/Office Engineer - MEC Industrial (Entry-Level)",
-      "location": "Phoenix, AZ, US",
-      "role_type": "New Grad",
       "discipline": "Mechanical Engineering",
       "disciplines": [
         "mechanical",
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "$26.50-$45.25/hr",
+      "grad_window": "2027 internship eligible",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
+      "source": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-25",
+      "expires_at": "2026-10-15",
+      "updated_at": "Posted Today",
+      "source_id": "medtronic|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
+    },
+    {
+      "role_id": "c2e919796267099a186fd8da",
+      "company_id": "amentum",
+      "company": "Amentum",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Power System Design Engineer - Entry Level",
+      "location": "Tullahoma, Tennessee, US",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
         "hardware-electrical"
       ],
       "specialties": [],
-      "compensation": "$82,000/yr",
+      "compensation": "$61,660 - $101,600",
       "grad_window": "Early career",
-      "url": "https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "url": "https://www.amentumcareers.com/jobs/power-system-design-engineer-entry-level-tullahoma-tennessee-united-states",
+      "source": "https://www.amentumcareers.com/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "2026-08-17",
-      "expires_at": "2027-01-01",
+      "posted_at": "2026-07-16",
+      "expires_at": "2026-11-23",
       "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
+      "source_id": "amentum|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
@@ -158,30 +106,34 @@
       "priority": "P0"
     },
     {
-      "role_id": "bac5353282a4aa1f6ce3f701",
-      "company_id": "kiewit",
-      "company": "Kiewit",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Kiewit Building Group - Field/Office Engineer (Entry-Level)",
-      "location": "Point Pleasant, WV, US",
+      "role_id": "3d3617316a6498c6b9a2552e",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "location": "USA - El Segundo, CA",
       "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "discipline": "Hardware & Electrical Engineering",
       "disciplines": [
-        "other-engineering"
+        "hardware-electrical"
       ],
       "specialties": [],
-      "compensation": "$80,000/yr",
+      "compensation": "$79,050- $106,950",
       "grad_window": "Early career",
-      "url": "https://kiewitcareers.kiewit.com/job/Washington-Kiewit-Building-Group-FieldOffice-Engineer-%28Entry-Level%29-DC-20001/1388707900",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
+      "source": "https://jobs.boeing.com/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "2026-08-01",
-      "expires_at": "2026-09-02",
-      "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "posted_at": "2026-07-29",
+      "expires_at": "2026-08-26",
+      "updated_at": "Posted 27 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -189,30 +141,34 @@
       "priority": "P0"
     },
     {
-      "role_id": "bf0a55500bdb3ad68f7a0ba9",
-      "company_id": "kiewit",
-      "company": "Kiewit",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Field/Office Engineer - Central District (Entry-Level)",
-      "location": "Conway Springs, KS, US",
+      "role_id": "b319184a8cf139c51fbc45bb",
+      "company_id": "boeing",
+      "company": "Boeing",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "Entry Level or Associate Software Safety Engineer",
+      "location": "USA - Oklahoma City, OK",
       "role_type": "New Grad",
-      "discipline": "Other Engineering",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "other-engineering"
+        "software"
       ],
       "specialties": [],
-      "compensation": "$82,000 - $91,000",
-      "grad_window": "Early career",
-      "url": "https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "compensation": "$66,300 - $89,700",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
+      "source": "https://jobs.boeing.com/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "2026-08-10",
-      "expires_at": "2027-01-01",
-      "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
-      "source_adapter": "sitemap_jobs",
+      "posted_at": "2026-08-07",
+      "expires_at": "2026-08-31",
+      "updated_at": "Posted 18 Days Ago",
+      "source_id": "boeing|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -220,77 +176,79 @@
       "priority": "P0"
     },
     {
-      "role_id": "268d448bcceb4a4cf18718cb",
-      "company_id": "celonis",
-      "company": "Celonis",
+      "role_id": "c676c31102d3478aff848311",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Engineering Intern",
-      "location": "Remote, US, Massachusetts",
-      "role_type": "Internship",
-      "discipline": "Data Science & Analytics",
+      "title": "Junior Scene Generation Engineer",
+      "location": "Huntsville, AL",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "data",
-        "ai-ml",
         "software"
       ],
       "specialties": [],
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003",
-      "source": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
+      "grad_window": "Early career",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
+      "source": "https://bluehalo.com/careers/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "2026-08-25",
+      "posted_at": "2026-08-05",
       "expires_at": "",
-      "updated_at": "",
-      "source_id": "celonis|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:52.096Z",
-      "verification_version": 6,
-      "priority": "P1"
+      "updated_at": "Posted 20 Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P0"
     },
     {
-      "role_id": "82bda5daf32dd92f02f138d6",
-      "company_id": "regal-rexnord",
-      "company": "Regal Rexnord",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Engineering Co-Op",
-      "location": "Charlotte, North Carolina, United States",
-      "role_type": "Internship",
-      "discipline": "Aerospace Engineering",
+      "role_id": "08eb625398cb52c8b2eab0f7",
+      "company_id": "northrop-grumman",
+      "company": "Northrop Grumman",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
+      ],
+      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+      "location": "United States-Alabama-Huntsville",
+      "role_type": "New Grad",
+      "discipline": "Software Engineering",
       "disciplines": [
-        "aerospace"
+        "software"
       ],
       "specialties": [],
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "url": "https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216",
-      "source": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
+      "source": "https://www.northropgrumman.com/jobs/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
       "posted_at": "2026-08-25",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "regal rexnord|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zapplyjobs/Internships-2027",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-08-25T16:02:55.202Z",
-      "verification_version": 6,
+      "expires_at": "2026-08-29",
+      "updated_at": "Posted Today",
+      "source_id": "northrop grumman|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P1"
     },
     {
-      "role_id": "8b0bbe01a14e29d0327010ca",
-      "company_id": "kiewit",
-      "company": "Kiewit",
+      "role_id": "bbd1226f1b9d31c0374d3c93",
+      "company_id": "terracon",
+      "company": "Terracon",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Field / Office Engineer 1 - Kiewit Offshore Services 1",
-      "location": "Ingleside, TX, US",
+      "title": "Geotechnical Project Engineer",
+      "location": "Concord, CA, UNITED STATES",
       "role_type": "New Grad",
       "discipline": "Other Engineering",
       "disciplines": [
@@ -298,16 +256,49 @@
       ],
       "specialties": [],
       "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "url": "https://kiewitcareers.kiewit.com/job/Ingleside-Field-Office-Engineer-1-Kiewit-Offshore-Services-1-TX/1411999300",
-      "source": "https://kiewitcareers.kiewit.com/",
+      "grad_window": "Explicit new grad role",
+      "url": "https://careers.terracon.com/job/concord/geotechnical-project-engineer/37184/95040575072",
+      "source": "https://careers.terracon.com/",
       "date_seen": "2026-08-25",
       "last_seen": "2026-08-25",
-      "posted_at": "2026-08-21",
-      "expires_at": "2026-09-02",
+      "posted_at": "2026-08-11",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "kiewit|sitemap_jobs",
+      "source_id": "terracon|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "f02ddac8a084fe006a9653a3",
+      "company_id": "sierra-nevada-corporation",
+      "company": "Sierra Nevada Corporation",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Electrical Engineer I",
+      "location": "Dayton, OH",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "",
+      "grad_window": "Verified early career (BS)",
+      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
+      "source": "https://www.sncorp.com/Careers/",
+      "date_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "posted_at": "2026-08-18",
+      "expires_at": "",
+      "updated_at": "Posted 7 Days Ago",
+      "source_id": "sierra nevada corporation|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -323,12 +314,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "AeroVironment",
       "title": "Junior Scene Generation Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339",
@@ -338,6 +323,12 @@
       "company": "AeroVironment",
       "title": "Software QA Automation Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Tower Research Capital",
+      "title": "Quantitative Trader",
+      "url": "https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024142",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -359,21 +350,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Sierra Nevada Corporation",
-      "title": "Electrical Engineer I",
-      "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "AeroVironment",
       "title": "Electrical Engineer I",
       "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Boeing",
-      "title": "DSP Algorithms Engineer (Entry-Level)",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -401,15 +380,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Development Program (ERDP) - Product Development Track",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Rotational Product Development - Materials",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489",
+      "company": "Kiewit",
+      "title": "Field/Office Engineer - MEC Industrial (Entry-Level)",
+      "url": "https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -473,6 +446,24 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Kiewit",
+      "title": "Field / Office Engineer 1 - Kiewit Offshore Services 1",
+      "url": "https://kiewitcareers.kiewit.com/job/Ingleside-Field-Office-Engineer-1-Kiewit-Offshore-Services-1-TX/1411999300",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Field/Office Engineer - Central District (Entry-Level)",
+      "url": "https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Kiewit",
+      "title": "Kiewit Building Group - Field/Office Engineer (Entry-Level)",
+      "url": "https://kiewitcareers.kiewit.com/job/Washington-Kiewit-Building-Group-FieldOffice-Engineer-%28Entry-Level%29-DC-20001/1388707900",
+      "reason": "no longer matches board eligibility policy"
+    },
+    {
       "company": "Curtiss-Wright",
       "title": "Associate Engineer - Quality and Calibration",
       "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473",
@@ -495,6 +486,18 @@
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Axon",
+      "title": "2027 US Software Engineering Internship",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "reason": "official verification confirmed closure"
+    },
+    {
+      "company": "Intel",
+      "title": "AI Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Gulfstream Aerospace",
@@ -539,16 +542,34 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Corporate Parallel Co-op Program",
-      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Gulfstream Aerospace",
       "title": "Summer 2027 - IEF - Flight Operations Engineer Collegiate Associate Intern",
       "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Operations-Engineer-Collegiate-Associate-Intern-GA-31401/1421926200",
       "reason": "no longer matches board eligibility policy"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Junior AI Data Scientist/Engineer",
+      "url": "https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-AI-Data-ScientistEngineer-GA-30301/1418864933",
+      "reason": "explicit closed-page message"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Junior AI Data Scientist/Engineer",
+      "url": "https://careers.capgemini.com/job/New-York%2C-NY-Junior-AI-Data-ScientistEngineer-NY-10001/1418866433",
+      "reason": "explicit closed-page message"
+    },
+    {
+      "company": "Disney",
+      "title": "Labor Systems Data Analytics & Integration Intern, Spring 2027",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+      "reason": "explicit closed-page message"
+    },
+    {
+      "company": "Microchip Technology",
+      "title": "Intern - Engineer",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CO---Boulder/Intern---Engineer_R3657-26",
+      "reason": "official page shell does not expose the requisition"
     }
   ],
   "scan_log": [
@@ -629,7 +650,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 974,
+      "matches": 973,
       "phase": "fast-pass"
     },
     {
@@ -768,7 +789,7 @@
       "source_id": "chime|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 27,
+      "matches": 26,
       "phase": "fast-pass"
     },
     {
@@ -778,7 +799,7 @@
       "source_id": "confluent|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 25,
+      "matches": 24,
       "phase": "fast-pass"
     },
     {
@@ -898,7 +919,7 @@
       "source_id": "zscaler|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 57,
+      "matches": 56,
       "phase": "fast-pass"
     },
     {
@@ -1010,7 +1031,7 @@
       "adapter": "workday",
       "source_kind": "configured",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "General Motors workday scan timed out after 60000ms",
       "phase": "double-check"
     },
     {
@@ -1036,7 +1057,7 @@
       "source_id": "northrop grumman|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 10,
+      "matches": 12,
       "phase": "fast-pass"
     },
     {
@@ -1066,7 +1087,7 @@
       "source_id": "medtronic|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1106,7 +1127,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 204,
+      "matches": 205,
       "phase": "fast-pass"
     },
     {
@@ -1206,7 +1227,7 @@
       "source_id": "amentum|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 6,
+      "matches": 8,
       "phase": "fast-pass"
     },
     {
@@ -1226,7 +1247,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 109,
+      "matches": 89,
       "phase": "fast-pass"
     },
     {
@@ -1383,17 +1404,11 @@
       "company": "HNTB",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "hntb|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 22,
       "phase": "fast-pass"
-    },
-    {
-      "company": "HNTB",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Thornton Tomasetti",
@@ -1412,7 +1427,7 @@
       "source_id": "terracon|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 2,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -1429,17 +1444,11 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "nvidia|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 25,
       "phase": "fast-pass"
-    },
-    {
-      "company": "NVIDIA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1528,7 +1537,7 @@
       "source_id": "figma|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 36,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -1678,7 +1687,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 151,
+      "matches": 152,
       "phase": "fast-pass"
     },
     {
@@ -2693,8 +2702,10 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Boeing workday scan timed out after 90000ms",
+      "source_id": "boeing|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -2800,7 +2811,7 @@
       "source_id": "aerovironment|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 7,
+      "matches": 6,
       "phase": "fast-pass"
     },
     {
@@ -2830,7 +2841,7 @@
       "source_id": "hyundai|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 3,
+      "matches": 2,
       "phase": "fast-pass"
     },
     {
@@ -2845,16 +2856,20 @@
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "double-check"
     },
     {
       "company": "Carrier",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "Carrier workday scan timed out after 90000ms",
+      "source_id": "carrier|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 4,
       "phase": "fast-pass"
     },
     {
@@ -2871,17 +2886,11 @@
       "company": "KLA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "kla|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 7,
       "phase": "fast-pass"
-    },
-    {
-      "company": "KLA",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Stryker",
@@ -2945,24 +2954,10 @@
       "company": "Sierra Nevada Corporation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "fast-pass"
-    },
-    {
-      "company": "Sierra Nevada Corporation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
-    },
-    {
-      "company": "Curtiss-Wright",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "sierra nevada corporation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -2973,7 +2968,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 1,
-      "phase": "double-check"
+      "phase": "fast-pass"
     },
     {
       "company": "Draper",
@@ -3127,24 +3122,24 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-08-25T16:03:15.082Z",
-    "elapsed_ms": 479013,
+    "scanned_at": "2026-08-25T16:58:57.104Z",
+    "elapsed_ms": 478668,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 252,
     "discovered_sources_active": 168,
     "discovered_companies_active": 168,
-    "companies_with_active_sources": 238,
+    "companies_with_active_sources": 245,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
       "rows_parsed": 4599,
-      "official_candidates": 1728,
-      "cached_verifications": 493,
+      "official_candidates": 1729,
+      "cached_verifications": 507,
       "reverify_hours": 24,
-      "verification_attempts": 1235,
-      "verification_successes": 316,
+      "verification_attempts": 1222,
+      "verification_successes": 298,
       "verification_deferred": 0,
       "rejection_counts": {
         "missing required field": 1399,
@@ -3153,28 +3148,28 @@
         "excluded recruiting year": 141,
         "non-official application URL": 50,
         "marked closed by discovery source": 1,
-        "verification: official posting closed: provider requisition is no longer listed": 127,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 433,
-        "verification: official page has an excluded recruiting year": 91,
+        "verification: official posting closed: provider requisition is no longer listed": 128,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 431,
+        "verification: official page has an excluded recruiting year": 94,
         "verification: official posting closed: official page does not identify the requisition": 35,
         "verification: official posting closed: Oracle requisition is no longer listed": 19,
         "verification: 404 Not Found": 12,
         "verification: official provider verification unavailable: 403 Forbidden": 2,
+        "verification: official posting closed: explicit closed-page message": 7,
         "verification: 405 Not Allowed": 30,
-        "verification: official posting closed: 404 Not Found": 27,
+        "verification: official posting closed: 404 Not Found": 28,
         "verification: official provider verification unavailable: 422 Unprocessable Entity": 5,
         "verification: 403 Forbidden": 70,
         "verification: official posting closed: official page shell does not expose the requisition": 46,
         "verification: 400 Bad Request": 6,
         "verification: fetch failed": 2,
-        "verification: official posting closed: explicit closed-page message": 5,
         "verification: official posting closed: redirected away from the requisition": 7,
         "verification: 410 Gone": 2
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 4,
-    "discovery_new_sources_this_scan": 4,
+    "discovery_attempts_this_scan": 1,
+    "discovery_new_sources_this_scan": 1,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 43,
@@ -3184,32 +3179,32 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 10,
+    "double_check_attempts": 5,
     "unique_sources_attempted": 252,
-    "total_fetch_attempts": 262,
-    "ok_sources": 238,
-    "error_sources": 13,
+    "total_fetch_attempts": 257,
+    "ok_sources": 245,
+    "error_sources": 6,
     "blocked_sources": 1,
-    "ats_ok_sources": 79,
-    "ats_error_sources": 4,
+    "ats_ok_sources": 80,
+    "ats_error_sources": 3,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 94,
+    "ats_success_percent": 95.2,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
-      "429 Too Many Requests": 8,
-      "Request Timeout": 5
+      "429 Too Many Requests": 2,
+      "Request Timeout": 4
     },
-    "board_eligible_candidates": 1134,
-    "provider_candidate_checks": 210,
+    "board_eligible_candidates": 1169,
+    "provider_candidate_checks": 254,
     "provider_candidate_closed": 1,
     "provider_candidate_ineligible": 24,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 374,
-    "inactive_provider_checks": 237,
-    "inactive_provider_closed": 0,
+    "closure_checks": 349,
+    "inactive_provider_checks": 208,
+    "inactive_provider_closed": 2,
     "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 39,
+    "closed_roles_removed": 44,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 12:03 PM EDT
+Last updated: August 25, 2026 at 12:58 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Regal Rexnord | Engineering Co-Op | Charlotte, North Carolina, United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216>) |
 | Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states>) |
 | 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | 🔥 Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
