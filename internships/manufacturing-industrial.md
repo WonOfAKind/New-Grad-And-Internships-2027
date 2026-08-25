@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 24, 2026 at 8:00 PM EDT
+Last updated: August 25, 2026 at 9:15 AM EDT
 
 Current roles in this view: 57
 
@@ -22,11 +22,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | 2027 Summer Internship - Industrial Engineering - PPE/IE | Mobile Area, AL | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140>) |
 | Airbus | 2027 Summer Internship - X-Plant Manufacturing Engineering | Mobile Area, AL | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143>) |
 | Campbell Soup Company | R&amp;D Process Engineer Co-op | NJ | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/R-D-Process-Engineer-Co-op_Req-67554>) |
-| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Operations Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Operations-Engineer-Collegiate-Associate-Intern-GA-31401/1421926200>) |
+| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Operations Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Operations-Engineer-Collegiate-Associate-Intern-GA-31401/1421926200>) |
 | Freeform | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003>) |
 | Freeform | Process Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003>) |
-| 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
-| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
+| 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
+| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
 | 🔥 Johnson &amp; Johnson | Spring 2027 Quality Engineering Co-op | Cornelia, Georgia, United States of America | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Spring-2027-Quality-Engineering-Co-op_R-094937>) |
 | Whirlpool | Manufacturing Controls Engineering LDP Intern | Columbus, OH, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403012876-manufacturing-controls-engineering-ldp-intern-columbus-ohio-usa>) |
 | 🔥 Caterpillar | 2027 Engineering Corporate Internship Program Materials | Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Materials_R0000380501>) |
