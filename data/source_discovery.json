@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-25T23:08:21.214Z",
+  "updated_at": "2026-08-25T23:40:03.035Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1720,9 +1720,9 @@
         "limit": 20,
         "verified_open_jobs": 374
       },
-      "last_scan_at": "2026-08-24T14:07:52.879Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T14:07:52.879Z"
     },
     "micron": {
@@ -3423,10 +3423,10 @@
         "limit": 20,
         "verified_open_jobs": 72
       },
-      "last_scan_at": "2026-08-25T22:04:59.420Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-25T21:09:36.724Z"
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T23:40:03.035Z"
     },
     "recursion": {
       "company": "Recursion",
@@ -4146,9 +4146,9 @@
         "limit": 20,
         "verified_open_jobs": 170
       },
-      "last_scan_at": "2026-08-25T21:45:57.193Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T21:45:57.193Z"
     },
     "oscar health": {
@@ -4583,10 +4583,10 @@
         "limit": 20,
         "verified_open_jobs": 729
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-25T22:47:14.112Z"
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T23:40:03.035Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5271,9 +5271,9 @@
         "limit": 20,
         "verified_open_jobs": 950
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T23:08:21.214Z"
     },
     "johnson & johnson": {
@@ -5486,9 +5486,9 @@
         "limit": 20,
         "verified_open_jobs": 302
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T23:08:21.214Z"
     },
     "howmet aerospace": {
@@ -5748,10 +5748,10 @@
         "limit": 20,
         "verified_open_jobs": 249
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-25T20:48:24.456Z"
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T23:40:03.035Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5843,10 +5843,10 @@
         "limit": 20,
         "verified_open_jobs": 341
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-25T20:48:24.456Z"
+      "last_scan_at": "2026-08-25T23:40:03.035Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T23:40:03.035Z"
     },
     "chevron": {
       "company": "Chevron",
