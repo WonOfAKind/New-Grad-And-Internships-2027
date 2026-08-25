@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-25T15:09:15.152Z",
+  "updated_at": "2026-08-25T16:03:15.082Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-24T23:38:08.976Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T23:38:08.976Z"
     },
     "netflix": {
@@ -3924,9 +3924,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-25T13:15:30.618Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4583,9 +4584,9 @@
         "limit": 20,
         "verified_open_jobs": 681
       },
-      "last_scan_at": "2026-08-25T14:07:09.035Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 90000ms",
       "last_verified_at": "2026-08-25T14:07:09.035Z"
     },
     "honeywell": {
@@ -4987,7 +4988,7 @@
     },
     "airbus": {
       "company": "Airbus",
-      "checked_at": "2026-08-21T21:35:43.674Z",
+      "checked_at": "2026-08-25T15:56:36.610Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5005,10 +5006,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-08-25T15:09:15.152Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms",
-      "last_verified_at": "2026-08-21T21:41:25.571Z"
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "aerovironment": {
       "company": "AeroVironment",
@@ -5155,9 +5156,9 @@
         "limit": 20,
         "verified_open_jobs": 406
       },
-      "last_scan_at": "2026-08-25T15:09:15.152Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T15:09:15.152Z"
     },
     "parker hannifin": {
@@ -5189,9 +5190,9 @@
         "limit": 20,
         "verified_open_jobs": 1104
       },
-      "last_scan_at": "2026-08-25T13:15:30.618Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Carrier workday scan timed out after 90000ms",
       "last_verified_at": "2026-08-25T13:15:30.618Z"
     },
     "trane technologies": {
@@ -5271,9 +5272,9 @@
         "limit": 20,
         "verified_open_jobs": 946
       },
-      "last_scan_at": "2026-08-25T15:09:15.152Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T15:09:15.152Z"
     },
     "johnson & johnson": {
@@ -5486,9 +5487,9 @@
         "limit": 20,
         "verified_open_jobs": 301
       },
-      "last_scan_at": "2026-08-25T15:09:15.152Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T15:09:15.152Z"
     },
     "howmet aerospace": {
@@ -5874,7 +5875,7 @@
     },
     "shell": {
       "company": "Shell",
-      "checked_at": "2026-08-18T15:43:49.373Z",
+      "checked_at": "2026-08-25T15:56:36.610Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5890,12 +5891,12 @@
         "site": "shellcareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 130
+        "verified_open_jobs": 112
       },
-      "last_scan_at": "2026-08-18T15:50:07.010Z",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "dow": {
       "company": "Dow",
@@ -5908,7 +5909,7 @@
     },
     "dupont": {
       "company": "DuPont",
-      "checked_at": "2026-08-18T15:43:49.373Z",
+      "checked_at": "2026-08-25T15:56:36.610Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5928,10 +5929,10 @@
         "robotsUrl": "https://careers.dupont.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-18T15:50:07.010Z",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "air products": {
       "company": "Air Products",
@@ -5953,7 +5954,7 @@
     },
     "bp": {
       "company": "BP",
-      "checked_at": "2026-08-18T15:43:49.373Z",
+      "checked_at": "2026-08-25T15:56:36.610Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5969,12 +5970,12 @@
         "site": "bpCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 366
+        "verified_open_jobs": 339
       },
-      "last_scan_at": "2026-08-18T15:50:07.010Z",
+      "last_scan_at": "2026-08-25T16:03:15.082Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-18T15:50:07.010Z"
+      "last_verified_at": "2026-08-25T16:03:15.082Z"
     },
     "synopsys": {
       "company": "Synopsys",

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 11:09 AM EDT
+Last updated: August 25, 2026 at 12:03 PM EDT
 
 Current roles in this view: 83
 
@@ -16,7 +16,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003>) |
 | Moog | Intern, Hardware Engineering | Mineral Wells, TX | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417>) |
 | Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | $30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296>) |
-| Disney | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013>) |
 | Meridian Partners | Embedded Software Engineer Co-op | Cambridge, MA | $28 - $33/hr USD | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003>) |
 | Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
@@ -70,6 +69,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | $1,000 - $2,000/week | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 14, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-2>) |
 | Rainmaker | Electrical Engineering Intern - Fall | El Segundo, CA | - | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://jobs.lever.co/make-rain/3d4f859f-f2dd-4f2d-b15b-675e0d62a37b>) |
 | Draper | Embedded Quality &amp; Fielded Systems Intern | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718>) |
+| Kiewit | Field/Office Engineer Intern - Eastern District | Ellicott City, MD, US | $18.00/hr | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Woodcliff-Lake-FieldOffice-Engineer-Intern-Eastern-District-NJ-07677/1416815300>) |
 | BAE Systems | Electrical Engineering Coop (Summer/Fall 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301763&partnerid=25771&siteid=5403>) |
 | BAE Systems | Electrical Engineering Coop (Spring/Summer 2027), Onsite | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301761&partnerid=25771&siteid=5403>) |
 | Bosch Group | 2027 Spring Mechanical/Electrical Engineering Co-Op | Charleston, South Carolina, United States | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141338219-2027-spring-mechanical-electrical-engineering-co-op>) |

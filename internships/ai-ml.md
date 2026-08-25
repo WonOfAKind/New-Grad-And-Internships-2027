@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 11:09 AM EDT
+Last updated: August 25, 2026 at 12:03 PM EDT
 
-Current roles in this view: 113
+Current roles in this view: 112
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | Nokia | Data Analytics &amp; AI Co-op | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743>) |
 | Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | $28 - $37/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/advancedspace/jobs/4324875009>) |
 | Audax Group | AI Engineer Co-Op | Boston, MA | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005>) |
@@ -27,7 +28,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron | Intern - HBM SoC RTL Design Engineer | Folsom, CA, US | $38.84 - $50.24 an hour | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.micron.com/careers/job/43943574-intern-hbm-soc-rtl-design-engineer-folsom-california-united-states-of-america>) |
 | Millennium | 2027 Applied AI Engineer Intern, Miami | Miami, FL, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778848-2027-applied-ai-engineer-intern-miami-miami-florida-united-states-of-america>) |
 | Millennium | 2027 Applied AI Engineer Intern, New York | New York, NY, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 21, 2026 | [Apply](<https://mlp.eightfold.ai/careers/job/755957778821-2027-applied-ai-engineer-intern-new-york-new-york-new-york-united-states-of-america>) |
-| Caterpillar | 2027 Summer Corporate Intern - Engineering | Mossville, Illinois; Brooklyn Park, Minnesota; Decatur, Illinois; PA-Kennett Square-Tangent Energy Solutions; Sanford, North Carolina; Schertz, Texas; Athens, Georgia; Rapid City, South Dakota; Houston, Texas; Clayton, North Carolina; Alpharetta, Georgia; Tucson, Arizona; Green Valley, Arizona; South Milwaukee, Wisconsin; Fort Worth, Texas; Lafayette, Indiana; San Antonio, Texas; Pontiac, Illinois; Champaign, Illinois; Pittsburgh, Pennsylvania; El Reno, Oklahoma; Griffin, Georgia; Denison, Texas; East Peoria, Illinois; West Fargo, North Dakota; Mossville, Illinois; Peoria, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 17, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650>) |
 | Eulerity | Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation | New York, NY | $18 - $20 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/eulerity/jobs/4706780006>) |
 | 🔥 Microsoft | AI Software Engineering Intern | Washington, DC +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556962891>) |
 | 🔥 NVIDIA | NVIDIA 2027 Internships: Deep Learning | US, CA, Santa Clara | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1>) |
@@ -38,7 +38,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | American Express | AI Engineer Intern, Enterprise Technology Services | Atlanta, GA | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796>) |
 | American Express | AI Engineer Intern, Enterprise Technology Services | New York, NY | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698>) |
 | American Express | AI Engineer Intern, Enterprise Technology Services | Sunrise, FL | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745>) |
-| Caterpillar | 2027 Engineering Corporate Parallel Co-op Program | Mossville, Illinois; Champaign, Illinois; Tucson, Arizona; Green Valley, Arizona; Decatur, Illinois; Lafayette, Indiana; Mossville, Illinois | $25.00 - $43.00/hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Parallel-Co-op-Program_R0000380509>) |
 | The Nuclear Company | Summer 2027 AI Applied Research Internship | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008>) |
 | CloudFit Software | Future Intern, Early Interest (Summer 2027, Software / AI/ML / Cyber) | Lynchburg, VA | - | 2027 internship eligible | First seen Aug 17, 2026 | [Apply](<https://20240827162904_yztgchk5mbbpx7fj.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027>) |
 | The Nuclear Company | Spring 2027 AI Applied Research Internship | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008>) |

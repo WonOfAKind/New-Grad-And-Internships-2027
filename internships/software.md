@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 11:09 AM EDT
+Last updated: August 25, 2026 at 12:03 PM EDT
 
-Current roles in this view: 348
+Current roles in this view: 349
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | GlobalFoundries | Cybersecurity Intern (Summer 2027) | USA - New York - Malta | $20.00 - $40.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459>) |
 | Northrop Grumman | 2027 Software Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486>) |
 | Northrop Grumman | 2027 Software Test Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483>) |
@@ -120,7 +121,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Notion | Software Engineer Intern (Winter 2027) | San Francisco, California; New York, New York | $57/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8>) |
 | ONEOK | Cyber Security Intern - Tulsa, OK | Tulsa, OK | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449>) |
 | Teledyne | NHRC Software Engineering Internship | Huntsville, AL | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2>) |
-| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA; New York City, NY | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
+| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
 | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://joinbytedance.com/search/7668489218234157365>) |
 | TikTok | Mobile Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673663349758675205>) |
 | Exa Labs | Software Engineer, Intern | San Francisco, California | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16>) |
