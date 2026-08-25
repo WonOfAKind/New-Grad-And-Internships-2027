@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-25T22:04:59.420Z",
+  "updated_at": "2026-08-25T22:47:14.112Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1853,9 +1853,9 @@
         "limit": 20,
         "verified_open_jobs": 75
       },
-      "last_scan_at": "2026-08-24T15:03:37.737Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T22:47:14.112Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-24T15:03:37.737Z"
     },
     "figure ai": {
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 91
       },
-      "last_scan_at": "2026-08-25T21:09:36.724Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-25T22:47:14.112Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-25T21:09:36.724Z"
     },
     "qualtrics": {
@@ -4584,10 +4584,10 @@
         "limit": 20,
         "verified_open_jobs": 729
       },
-      "last_scan_at": "2026-08-25T22:04:59.420Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-25T21:45:57.193Z"
+      "last_scan_at": "2026-08-25T22:47:14.112Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T22:47:14.112Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5031,10 +5031,10 @@
         "limit": 20,
         "verified_open_jobs": 340
       },
-      "last_scan_at": "2026-08-25T22:04:59.420Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-25T20:07:31.396Z"
+      "last_scan_at": "2026-08-25T22:47:14.112Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-25T22:47:14.112Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",

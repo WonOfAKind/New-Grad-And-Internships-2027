@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 6:04 PM EDT
+Last updated: August 25, 2026 at 6:47 PM EDT
 
-Current roles in this view: 120
+Current roles in this view: 119
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,7 +21,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Kimley-Horn | Civil Engineering Analyst | Cincinnati, OH, US | - | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25949/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Southfield, MI, US | $80,000-$83,000 | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25285/civil-engineering-analyst/job>) |
-| Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | Kimley-Horn | Civil Engineering Analyst | Celina, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25933/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Denton, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25934/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Frisco, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25935/civil-engineering-analyst/job>) |
