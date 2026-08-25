@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 3:49 PM EDT
+Last updated: August 25, 2026 at 4:07 PM EDT
 
 Current roles in this view: 85
 
@@ -54,7 +54,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 13, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR110512>) |
 | Kiewit | BIM Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-BIM-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1420678800>) |
 | Micron Technology | Intern - Digital IP Design Engineer, DRAM | Boise, ID | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 13, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533>) |
-| Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458>) |
+| Micron Technology | Intern - DRAM Design Engineer | Boise, ID | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458>) |
 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468>) |
 | Neuralink | Biomedical Engineer Intern | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7872639003>) |
 | Neuralink | Digital IC Design Engineer Intern | South San Francisco, CA | $35/Hr | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 3, 2026 | [Apply](<https://boards.greenhouse.io/neuralink/jobs/7090489003>) |
