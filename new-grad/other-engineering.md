@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 10:07 AM EDT
+Last updated: August 25, 2026 at 11:09 AM EDT
 
-Current roles in this view: 113
+Current roles in this view: 115
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Comcast | Sales Engineer 1, Comcast Business | MD - Silver Spring, 11800 Tech Rd; MD - Millersville, 231 Najoles Rd Ste 250; MD - Baltimore, 8031 Corporate Dr | $62,100.00 - $93,150.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/MD---Silver-Spring-11800-Tech-Rd/Sales-Engineer-1--Comcast-Business_R442976>) |
 | Kiewit | Kiewit Energy - OGC Field Engineer 1 | Houston, TX, US | - | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Houston-Kiewit-Energy-OGC-Field-Engineer-1-TX-77001/1353205700>) |
 | HNTB | New Grad Field Engineer I - Summer 2027 (For Current/Former HNTB Interns Only) | Chicago, IL | $73,047.47 - $109,571.20 | 2027 grad eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chicago-IL/New-Grad-Field-Engineer-I---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31281-1>) |
-| Kiewit | Field / Office Engineer 1 - Kiewit Offshore Services 1 | Ingleside, TX, US | - | Verified early career (BS) | Posted Aug 21, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Ingleside-Field-Office-Engineer-1-Kiewit-Offshore-Services-1-TX/1411999300>) |
 | Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Kimley-Horn | Civil Engineering Analyst | Cincinnati, OH, US | - | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25949/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Southfield, MI, US | $80,000-$83,000 | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25285/civil-engineering-analyst/job>) |
@@ -36,6 +36,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Boise, ID, US | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24974/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Broomfield, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24991/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Colorado Springs, CO, US | $80,000-$87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25005/civil-engineering-analyst/job>) |
+| Motorola Solutions | Junior Field Applications Engineer | Reston, VA | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R64415>) |
 | Kimley-Horn | Civil Engineering Analyst | Frisco, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25823/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Philadelphia, PA, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25840/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Plymouth Meeting, PA, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25842/civil-engineering-analyst/job>) |
@@ -60,7 +61,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Virginia Beach, VA, US | $80,000 - $83,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25287/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Warrenville, IL, US | $84,000-$87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25277/civil-engineering-analyst/job>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59631>) |
-| Kiewit | Field/Office Engineer - Central District (Entry-Level) | Conway Springs, KS, US | $82,000 - $91,000 | Early career | Posted Aug 10, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
 | Kimley-Horn | Civil Engineering Analyst | Arlington, VA, US | $92,000 - $95,500 | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25212/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Baltimore, MD, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25168/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Houston, TX, US | - | Explicit new grad role | Posted Aug 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24953/civil-engineering-analyst/job>) |
@@ -90,7 +90,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Vero Beach, FL, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25103/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | West Palm Beach, FL, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25106/civil-engineering-analyst/job>) |
 | Kiewit | Field Engineer 1 - Northwest (Heavy Civil) | San Diego, CA, US | $79,000/yr | Verified early career (BS) | Posted Aug 2, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-1-Northwest-%28Heavy-Civil%29-WA-98660/1415415800>) |
-| Kiewit | Kiewit Building Group - Field/Office Engineer (Entry-Level) | Point Pleasant, WV, US | $80,000/yr | Early career | Posted Aug 1, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Washington-Kiewit-Building-Group-FieldOffice-Engineer-%28Entry-Level%29-DC-20001/1388707900>) |
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
@@ -108,8 +107,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Schneider Electric | Sales Engineering Development Program | Franklin, Tennessee, United States | $0 - $0 | Early career | Posted Jul 29, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers.se.com/jobs/128071>) |
 | Kimley-Horn | Civil Engineering Analyst | Charlotte, NC, US | - | Explicit new grad role | Posted Jul 28, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24943/civil-engineering-analyst/job>) |
 | HNTB | Traffic Engineer I | Houston, TX (Fannin) | - | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Houston-TX-Fannin/Traffic-Engineer-I_R-30908>) |
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Aug 25, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Phoenix, AZ, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
 | Black &amp; Veatch | Associate Substation Structural Engineer | Tualatin, OR, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
+| Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Kimley-Horn | Civil Engineering Analyst | Everett, WA, US | $84,000 - $95,500 | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24887/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Lehi, UT, US | - | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24888/civil-engineering-analyst/job>) |
 | HNTB | Bridge Engineer I | Madison, WI | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Madison-WI/Bridge-Engineer-I_R-28377>) |
