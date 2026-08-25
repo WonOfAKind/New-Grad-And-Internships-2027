@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 1:48 PM EDT
+Last updated: August 25, 2026 at 2:10 PM EDT
 
 Current roles in this view: 117
 
@@ -52,7 +52,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Terracon | Field Engineer | MI, UNITED STATES | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.terracon.com/job/michigan/field-engineer/37184/99156367200>) |
 | Kimley-Horn | Civil Engineering Analyst | Apple Valley, MN, US | $84,000-$87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25225/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Chicago, IL, US | $84,000-$87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24992/civil-engineering-analyst/job>) |
-| Kimley-Horn | Civil Engineering Analyst | Eden Prairie, MN, US | - | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25223/civil-engineering-analyst/job>) |
+| Kimley-Horn | Civil Engineering Analyst | Eden Prairie, MN, US | $84,000-$87,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25223/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Indianapolis, IN, US | - | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25021/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Richmond, VA, US | $80,000 - $83,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25407/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Richmond, VA, US | $80,000 - $83,000 | Explicit new grad role | Posted Aug 11, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25318/civil-engineering-analyst/job>) |
