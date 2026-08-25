@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 25, 2026 at 4:07 PM EDT
+Last updated: August 25, 2026 at 4:48 PM EDT
 
-Current roles in this view: 215
+Current roles in this view: 221
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Disney | Associate Software Engineer | Orlando, FL, USA | $92,900 - $124,500 per year | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Software-Engineer_10157526>) |
 | Freeform | Software Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | $125,000-$150,000 | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Cybersecurity Engineer - Constrained Cyber Solutions | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59212>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | United States-Alabama-Huntsville | - | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1>) |
+| SteerBridge | Junior Software Engineer | Vienna, VA | - | Early career | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5>) |
+| True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO or Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
+| True Anomaly | Software Engineer I, QA (New Grad) | Denver, CO or Long Beach, CA | $70,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007>) |
+| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO or Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
+| Zebra Technologies | Software Engineer I | Lincolnshire, Illinois | $68,400.00 - $102,600.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952>) |
 | Boston Scientific | Software Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 24, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Software-Engineer-I-MN-55112/1422654800>) |
 | KBR | Data Engineer, JR | Chantilly, Virginia | - | Early career | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783/apply>) |
 | KBR | Jr Software Developer | Colorado Springs, Colorado | - | Early career | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436/apply>) |

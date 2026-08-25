@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 4:07 PM EDT
+Last updated: August 25, 2026 at 4:48 PM EDT
 
 Current roles in this view: 110
 
@@ -13,11 +13,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Honeywell | Artificial Intelligence/Machine Learning - Summer 2027 Intern | United States | $25.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522>) |
+| Kodiak Robotics | Winter 2027 Intern, Artificial Intelligence/Machine Learning | Mountain View, CA | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4377407009>) |
 | Nokia | Data Analytics &amp; AI Co-op | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743>) |
 | Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | $28 - $37/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/advancedspace/jobs/4324875009>) |
 | Audax Group | AI Engineer Co-Op | Boston, MA | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
-| Kodiak Robotics | Winter 2027 Intern - Artificial Intelligence/Machine Learning | Mountain View, CA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4377407009>) |
 | Meridian Partners | Machine Learning Engineer Co-op | Cambridge, MA, Arlington, VA, Seattle, WA | $28 - $33/hr USD | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003>) |
 | 🔥 Microsoft | AI Software Engineering Intern - Edge | Redmond, WA, US; Mountain View, CA, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 21, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556979054>) |
 | Monolithic Power Systems | AI Developer Intern | San Jose - California | $30/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756>) |
@@ -112,9 +112,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IMC Trading | Machine Learning Research Intern - Summer 2027 - Chicago | Chicago, United States | - | 2027 internship eligible | Posted Jul 7, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907430101>) |
 | Campbell Soup Company | Agentic AI Engineer Co-Op | USA - Remote | - | 2027 internship eligible | Posted Jun 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015>) |
 | Campbell Soup Company | Agentic AI Engineer Co-Op | USA - Remote | - | 2027 internship eligible | Posted Jun 16, 2026<br>First seen Aug 3, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014>) |
+| Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913>) |
 | Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915>) |
 | Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914>) |
-| Campbell Soup Company | Business Analyst (Co-op), DA&amp;AI | USA - Remote | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913>) |
 | Campbell Soup Company | Data Engineer – Agentic AI &amp; ML Ops (Co-op) | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 24, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843>) |
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | NJ | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 7, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838>) |
 | Campbell Soup Company | Data Engineer, DA&amp;AI Co-Op | USA - NJ - Camden | - | 2027 internship eligible | Posted Jun 12, 2026<br>First seen Aug 5, 2026 | [Apply](<https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837>) |
