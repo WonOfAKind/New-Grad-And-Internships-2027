@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 2:26 PM EDT
+Last updated: August 26, 2026 at 5:18 PM EDT
 
-Current roles in this view: 114
+Current roles in this view: 111
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,11 +13,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Crowe | AI Functional Intern - WINTER 2027 | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 20, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015>) |
-| Microchip Technology | Intern- Engineering (Design) | AZ - Chandler | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Design-_R3695-26>) |
-| Microchip Technology | Intern- Engineering (Verification) | AZ - Chandler | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Verification-_R3700-26>) |
+| GlossGenius | Engineering Intern (Summer 2027) | New York City | $25 - $50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://job-boards.greenhouse.io/glossgenius/jobs/7978666003>) |
 | 🔥 Microsoft | AI Software Engineering Intern - Edge | Redmond, WA | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 21, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556979054>) |
 | TikTok | AI Infra Engineer Intern (Recommendation &amp; LLM) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7672671220798818613>) |
-| Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | Honeywell | Artificial Intelligence/Machine Learning - Summer 2027 Intern | United States | $25.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522>) |
 | Kodiak Robotics | Winter 2027 Intern, Artificial Intelligence/Machine Learning | Mountain View, CA | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4377407009>) |
 | Nokia | Data Analytics &amp; AI Co-op | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743>) |
@@ -57,7 +55,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
 | TikTok | AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7670529537944766773>) |
 | Micron | Intern - DRAM Design Engineer | Boise, ID, US | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://careers.micron.com/careers/job/43721384-intern-dram-design-engineer-boise-idaho-united-states-of-america>) |
-| Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | - | 2027 internship eligible | Posted Aug 10, 2026<br>First seen Aug 12, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108448>) |
 | The Nuclear Company | AI/ML Engineering Intern | Washington, DC | $2,000/month | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 10, 2026 | [Apply](<https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008>) |
 | Xsolla | AI-First Engineering Intern | Los Angeles, CA | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/xsolla/1c0e5375-2352-4a2c-a816-48ddebbdd3d6>) |
 | Xsolla | AI-First Engineering Intern | Raleigh, NC | - | 2027 internship eligible | Posted Aug 9, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874>) |

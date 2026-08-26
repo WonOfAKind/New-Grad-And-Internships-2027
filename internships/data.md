@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 2:26 PM EDT
+Last updated: August 26, 2026 at 5:18 PM EDT
 
 Current roles in this view: 49
 
@@ -12,10 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| CACI | Software Developer/Data Scientist Intern - Summer 2027 | Denver, CO, US | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120>) |
 | Johnson &amp; Johnson | Data Science Co-Op, Spring 2027 | Cincinnati, Ohio, United States of America | $23.50/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Spring-2027_R-095743>) |
 | MKS Instruments | 2027 Summer BI/Data Analytics IT Intern | Andover, MA | $22.00 - $27.00 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-BI-Data-Analytics-IT-Intern_R20657>) |
 | WhiteWater Midstream | Data Science Intern - Summer 2027 | Austin, TX | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007>) |
-| Disney | Environmental Sustainability Data Analytics Intern, Spring 2027 | Lake Buena Vista, FL | $31.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341>) |
+| Disney | Environmental Sustainability Data Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341>) |
 | Honeywell | Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern | United States | $23.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555>) |
 | Honeywell | Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern (US Person Required) | United States | $23.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155554>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship – Data Science – System Performance Evaluation | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59800>) |
@@ -29,7 +30,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY | New York, NY, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240>) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA | Pittsburgh, PA, United States | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241>) |
 | Canadian Solar | Data Analyst, Quality Intern | Mesquite, TX | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414>) |
-| Disney | Labor Systems Data Analytics &amp; Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 26, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; New York, NY, United States; Jersey City, NJ, United States; Newark, DE, United States; Palo Alto, CA, United States | $45.67-$45.67/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869>) |
 | Philips | Graduate Level Co-op - Data Scientist - Plymouth - MN - January 2027 | Plymouth, MN | $33.00 - $48/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 20, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567>) |
 | Walt Disney | Environmental Sustainability Data Analytics Intern - Spring 2027 | Lake Buena Vista, FL | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341-1>) |
