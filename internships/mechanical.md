@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 10:10 AM EDT
+Last updated: August 26, 2026 at 11:06 AM EDT
 
-Current roles in this view: 77
+Current roles in this view: 76
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Brunswick | Mechanical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231>) |
+| 🔥 Johnson &amp; Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | $23.50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1>) |
 | AeroVironment | Mechanical Engineering Intern | Sunrise, FL | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472>) |
 | Brunswick | Electro - Mechanical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298>) |
 | Brunswick | Mercury Marine: Materials Engineering Intern | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117>) |
@@ -38,7 +39,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Pelzer, SC, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133>) |
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Pelzer, SC, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279134>) |
 | Whirlpool | Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern | St Joseph, MI, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa>) |
-| Amentum | Mechanical Engineering Intern | US-ID-Scoville | $20.00 - $28.00/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1>) |
+| Amentum | Mechanical Engineering Intern | Scoville, ID | $20.00 - $28.00/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1>) |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003>) |
 | Vertiv | Mechanical Design Engineering Internship (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563>) |
 | Vertiv | Mechanical Design Engineering Internship (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279565>) |
@@ -83,8 +84,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | Operations Engineering (Industrial, Mechanical, Electrical) Co-op, Spring/Summer, 2027 | Cedar Rapids, Iowa, United States | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300473&partnerid=25771&siteid=5403>) |
 | Skydio | Product Design Engineer Intern | San Mateo, California, United States | $41/hr | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/ce482813-99c2-4eaa-a165-2ed201249182>) |
 | Bosch | Powertrain Controls Software Engineering Intern (6-Months) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months->) |
-| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
-| Unison (GE Aerospace) | Unison Engineering Intern - Summer 2027 | Jacksonville, Florida, United States of America; Dayton, Ohio, United States of America; Norwich, New York, United States of America; Saint George, Utah, United States of America | $20/hour | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027>) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | - | 2027 internship eligible | Posted Jun 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://generac.wd5.myworkdayjobs.com/External/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679>) |
 | 🔥 Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Thornton Tomasetti | Mechanical Engineer Co-op | New York, NY, USA | $25 - $35 hourly | 2027 internship eligible | Posted May 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/New-York-NY-USA/Mechanical-Engineer-Co-op_R6868>) |

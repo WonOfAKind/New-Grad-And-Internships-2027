@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 10:10 AM EDT
+Last updated: August 26, 2026 at 11:06 AM EDT
 
-Current roles in this view: 44
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |
 | Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states>) |
 | 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | 🔥 Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
@@ -25,7 +26,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Flight Sciences Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Flight-Sciences-Engineer-Collegiate-Associate-Intern-GA-31401/1421694100>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
-| 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |
 | Pivotal | Internship, GNC Engineering (Fall) | Palo Alto, CA | - | 2027 internship eligible | First seen Aug 18, 2026 | [Apply](<https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7>) |
 | 🔥 GE Aerospace | Edison Works Engineering Intern - Aero Design - US - Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---Aero-Design---US---Summer-2027_R5038737/apply>) |
 | 🔥 GE Aerospace | Edison Works Engineering Intern - US - Signature Design &amp; Test - Summer 2027 | Evendale, Ohio, United States of America | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Works-Engineering-Intern---US---Signature-Design---Test---Summer-2027_R5038789-1/apply>) |
@@ -52,8 +52,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | New Hampshire Systems Engineering Intern III, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302217&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineering Intern II, Summer 2027 (NH-Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302215&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineering Intern IV, Summer 2027 (NH - Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302214&partnerid=25771&siteid=5403>) |
-| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
-| Unison (GE Aerospace) | Unison Engineering Intern - Summer 2027 | Jacksonville, Florida, United States of America; Dayton, Ohio, United States of America; Norwich, New York, United States of America; Saint George, Utah, United States of America | $20/hour | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Aug 26, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
 
