@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 8:02 PM EDT
+Last updated: August 26, 2026 at 9:19 AM EDT
 
 Current roles in this view: 74
 
@@ -31,12 +31,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Flight Test Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Flight-Test-Engineer-Collegiate-Associate-Intern-GA-31401/1421914300>) |
 | 🔥 Johnson &amp; Johnson | Materials Engineering Co-Op Fall 2027 | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380>) |
 | 🔥 Johnson &amp; Johnson | Materials Engineering Co-Op Spring 2027 | Jacksonville, Florida, United States of America | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1>) |
-| 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
-| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
+| 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421682700>) |
+| 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Engineer Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Engineer-Collegiate-Associate-Intern-GA-31401/1421724400>) |
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Delaware, OH, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279136>) |
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Pelzer, SC, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133>) |
 | Vertiv | Mechanical/Thermal Engineering Intern (Summer 2027) | Pelzer, SC, United States | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279134>) |
-| Whirlpool | Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern | St Joseph, MI, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa>) |
+| Whirlpool | Whirlpool Engineering Rotational Leadership Development (WERLD) Program Intern | St Joseph, MI, US | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403336121-whirlpool-engineering-rotational-leadership-development-werld-program-intern-st-joseph-michigan-usa>) |
 | Amentum | Mechanical Engineering Intern | Scoville, ID | $20.00 - $28.00/hr | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1>) |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003>) |
 | Vertiv | Mechanical Design Engineering Internship (Summer 2027) | Westerville, OH, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279563>) |
