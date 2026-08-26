@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 12:39 PM EDT
+Last updated: August 26, 2026 at 2:26 PM EDT
 
-Current roles in this view: 116
+Current roles in this view: 119
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| HNTB | New Grad Structural Engineer I - Winter/Summer 2027 | Los Angeles, CA (Figueroa Street) | $76,367.81 - $114,551.72 | 2027 grad eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Los-Angeles-CA-Figueroa-Street/New-Grad-Structural-Engineer-I---Winter-Summer-2027_R-31355>) |
 | Comcast | Sales Engineer 1, Comcast Business | MD - Silver Spring, 11800 Tech Rd; MD - Millersville, 231 Najoles Rd Ste 250; MD - Baltimore, 8031 Corporate Dr | $62,100.00 - $93,150.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://comcast.wd115.myworkdayjobs.com/Comcast_Careers/job/MD---Silver-Spring-11800-Tech-Rd/Sales-Engineer-1--Comcast-Business_R442976>) |
 | HNTB | Returning Structural Engineer I - Winter/Summer 2027 - Central States Office (For Current/Former HNTB Interns Only) | Kansas City, MO | - | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-Structural-Engineer-I---Winter-Summer-2027---Central-States-Office--For-Current-Former-HNTB-Interns-Only-_R-31333-2>) |
 | Kiewit | Kiewit Energy - OGC Field Engineer 1 | Houston, TX, US | - | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Houston-Kiewit-Energy-OGC-Field-Engineer-1-TX-77001/1353205700>) |
 | Kimley-Horn | Civil Engineering Analyst | West Lafayette, IN, US | - | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26063/civil-engineering-analyst/job>) |
 | HNTB | New Grad Field Engineer I - Summer 2027 (For Current/Former HNTB Interns Only) | Chicago, IL | $73,047.47 - $109,571.20 | 2027 grad eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chicago-IL/New-Grad-Field-Engineer-I---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31281-1>) |
 | Kiewit | Field / Office Engineer 1 - Kiewit Offshore Services 1 | Ingleside, TX, US | - | Verified early career (BS) | Posted Aug 21, 2026<br>First seen Aug 26, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Ingleside-Field-Office-Engineer-1-Kiewit-Offshore-Services-1-TX/1411999300>) |
+| Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Kimley-Horn | Civil Engineering Analyst | Cincinnati, OH, US | - | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25949/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Southfield, MI, US | $80,000-$83,000 | Explicit new grad role | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25285/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Celina, TX, US | - | Explicit new grad role | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25933/civil-engineering-analyst/job>) |
@@ -95,6 +97,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
+| Kimley-Horn | Civil Engineering Analyst | Atlanta, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24796/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Greenville, SC, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24966/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Peachtree Corners, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24803/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Woodstock, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25189/civil-engineering-analyst/job>) |

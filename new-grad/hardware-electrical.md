@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 12:39 PM EDT
+Last updated: August 26, 2026 at 2:26 PM EDT
 
-Current roles in this view: 24
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Abbott | Engineer I, Product Analysis | United States - California - Sylmar | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Engineer-I--Product-Analysis_31159398-1>) |
 | Oshkosh Corporation | Electronics Engineer I | New Hudson, Michigan, United States of America | $68,600.00 - $109,200.00 | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49587/Electronics-Engineer-I>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | Posted Aug 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
-| Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area; Central Texas; Bay Area, CA | $129,032.00 - $180,644.10 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802>) |
 | Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 26, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering-->) |
@@ -34,6 +34,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | FAST Lab – Entry Level FPGA Engineer | Merrimack, New Hampshire, United States | - | Early career | Posted Jul 29, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301953&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | First seen Aug 26, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 26, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 

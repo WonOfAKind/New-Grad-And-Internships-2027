@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 12:39 PM EDT
+Last updated: August 26, 2026 at 2:26 PM EDT
 
-Current roles in this view: 224
+Current roles in this view: 222
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -49,7 +49,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | mthree | Junior Software Engineer | USA | $48,000 - $63,000 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006>) |
 | mthree | Junior Software Engineer | USA | $48,000 - $66,300 USD | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006>) |
 | Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | - | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
-| ExxonMobil | Reliability Engineer (Bonnyville, AB, CA, T9N 2J7) | Bonnyville, AB, CA, T9N 2J7 | - | Explicit new grad role | First seen Aug 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Bonnyville-Reliability-Engineer-AB-T9N-2J7/1418708700>) |
 | TikTok | Backend Software Engineer Graduate (Creation Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7673669198965278981>) |
 | TikTok | Self-Built Engineer Graduate (CDN Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7670364187265255733>) |
 | TikTok | Self-Built Engineer Graduate (CDN Platform) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7670364202242427189>) |
@@ -141,7 +140,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670558992960358661>) |
 | AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
-| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
+| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | AeroVironment | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668824169648097541>) |
@@ -184,7 +183,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Lexical Intelligence | NLM Software Engineer 1 | Bethesda, MD | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lexical.bamboohr.com/careers/73>) |
 | RTX | Conversion Software Engineer 1 | Richardson, TX | - | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534>) |
 | AeroVironment | Software QA Automation Engineer I | Moorpark, CA | $82,000 - $125,000 | Verified early career (BS) | First seen Aug 26, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Software-QA-Automation-Engineer-I_7976>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Aug 26, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | CACI | Junior Software Engineer | Chantilly, VA | $94,400 - $198,200 | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Chantilly-VA-US/Junior-Software-Engineer_326714>) |
 | ThreatLocker | Junior DevOps Engineer | Orlando, FL | - | Early career | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/threatlocker/jobs/6100007004>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |

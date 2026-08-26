@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 12:39 PM EDT
+Last updated: August 26, 2026 at 2:26 PM EDT
 
-Current roles in this view: 36
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -25,7 +25,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Toyota Motor North America | Engineer I | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 26, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095>) |
 | Kiewit | Field/Office Engineer - MEC Industrial (Entry-Level) | Phoenix, AZ, US | $82,000/yr | Early career | Posted Aug 17, 2026<br>First seen Aug 26, 2026 | [Apply](<https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700>) |
 | Kimley-Horn | Mechanical Engineering Analyst | Virginia Beach, VA, US | $84,000 - $87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25858/mechanical-engineering-analyst/job>) |
-| 🔥 ExxonMobil | Reliability Engineer (Bonnyville, AB, CA, T9N 2J7) | Bonnyville, AB, CA, T9N 2J7 | - | Explicit new grad role | First seen Aug 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Bonnyville-Reliability-Engineer-AB-T9N-2J7/1418708700>) |
 | Black &amp; Veatch | Associate Mechanical Systems Engineer-Nuclear | Ann Arbor, MI, US | - | Verified early career (BS) | Posted Aug 16, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Mechanical-Systems-Engineer-Nuclear-KS-66062/1427174333>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | KBR | Junior Mechanical Engineer | Huntsville, Alabama | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Mechanical-Engineer_R2128289/apply>) |
