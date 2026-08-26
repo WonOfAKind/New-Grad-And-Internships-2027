@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 7:40 PM EDT
+Last updated: August 25, 2026 at 8:02 PM EDT
 
-Current roles in this view: 109
+Current roles in this view: 108
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -84,7 +84,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Applied Machine Learning Production Engineer Intern | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7670009669494704437>) |
 | ByteDance | GPU/AI Application System Software Engineer Intern | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Aug 6, 2026<br>First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668464504736876853>) |
 | ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | Seattle, Washington | $42.75- $42.75/hr | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7668802157205965109>) |
-| ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
 | Core &amp; Main | Intern - AI/ML Data Engineering - Onsite - St. Louis | St. Louis, MO | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804>) |
 | TikTok | Software Engineer Intern, AI Agent &amp; Global Revenue Platform | San Jose, CA | $45- $60/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669712589169117445>) |
 | Yotta Labs | Research Engineer Intern - AI Systems | Remote (US) | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3>) |

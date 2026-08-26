@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 7:40 PM EDT
+Last updated: August 25, 2026 at 8:02 PM EDT
 
-Current roles in this view: 87
+Current roles in this view: 86
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -83,7 +83,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kiewit | Structural Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Structural-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1416357500>) |
 | Parsons | Bridge Engineering Intern - Summer 2027 | NY, New York, R184234 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---NY-New-York/Bridge-Engineering-Intern---Summer-2027_R184234>) |
 | Kimley-Horn | Civil Engineering Intern | Austin, TX, US | - | 2027 internship eligible | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24774/civil-engineering-intern/job>) |
-| RTX | Internship Engineering (m/f/d) | Bw, DE | - | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601>) |
 | HNTB | Returning Intern Engineer - Summer 2027 (Southeast Division) (For Current/Previous HNTB Interns ONLY) | Atlanta, GA; Lake Mary, FL; Orlando, FL; Bartow, FL; Tampa, FL; Jacksonville, FL; Chipley, FL; Fort Lauderdale, FL; Miami, FL; Tallahassee, FL | - | 2027 internship eligible | Posted Jul 28, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Atlanta-GA/Returning-Intern-Engineer----Summer-2027--Southeast-Division---For-Current-Previous-HNTB-Interns-ONLY-_R-30930-1>) |
 | Jane Street | Linux Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8626260002>) |
 | Jane Street | Windows Engineer Intern | New York, NY | - | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8628843002>) |

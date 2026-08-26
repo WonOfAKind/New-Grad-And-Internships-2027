@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 25, 2026 at 7:40 PM EDT
+Last updated: August 25, 2026 at 8:02 PM EDT
 
-Current roles in this view: 367
+Current roles in this view: 366
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -231,7 +231,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ByteDance | Software Engineer Intern (Global Payment - Compliance) - 2027 Fall | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 6, 2026 | [Apply](<https://joinbytedance.com/search/7669774721406208261>) |
 | BAE Systems | Software Engineering Intern IV, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302043&partnerid=25771&siteid=5403>) |
 | 🔥 Roblox | Software Engineer Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072713>) |
-| ByteDance | AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7668801556469762357>) |
 | ByteDance | Production System Engineer Project Intern (Server DevOps) - 2027 Start | San Jose, California | $25- $25/hr | 2027 internship eligible | First seen Aug 5, 2026 | [Apply](<https://joinbytedance.com/search/7662449816279419141>) |
 | ByteDance | Software Engineer Intern, Distributed NoSQL Database Systems | Seattle, WA | $42.75- $42.75/hr | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7668373268886161669>) |
 | Chicago Trading Company | Software Engineer Intern | Chicago, IL | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005>) |
