@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 9:19 AM EDT
+Last updated: August 26, 2026 at 10:10 AM EDT
 
-Current roles in this view: 35
+Current roles in this view: 36
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Kimley-Horn | Mechanical Engineering Analyst | Charlotte, NC, US | - | Explicit new grad role | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24950/mechanical-engineering-analyst/job>) |
 | Boston Scientific | R&amp;D Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-R&D-Engineer-I-MN-55112/1422436800>) |
 | 🔥 Boeing | Entry-Level Loads and Dynamics Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $71,400 - $96,600 | Early career | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Loads-and-Dynamics-Engineer_JR2026522380>) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
