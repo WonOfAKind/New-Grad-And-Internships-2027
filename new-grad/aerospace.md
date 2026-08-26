@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 47
+Current roles in this view: 49
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,7 +15,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1365616700>) |
 | 🔥 Boeing | Entry-Level Loads and Dynamics Engineer | USA - Berkeley, MO; USA - Hazelwood, MO | $71,400 - $96,600 | Early career | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Loads-and-Dynamics-Engineer_JR2026522380>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59497>) |
+| KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | - | Early career | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2128975/apply>) |
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
+| 🔥 United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | KBR | JR System Engineer | Chantilly, Virginia | - | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-System-Engineer_R2128868/apply>) |
 | Peraton | Junior Level Test Systems Engineer | VA | $80,000 - $128,000 | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-test-systems-engineer-springfield-virginia-169928-jobs--engineering-->) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
@@ -43,7 +45,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Archer Aviation | Associate Survivability and Operations Analysis Engineer | Remote; San Jose, California, United States | $70,400 - $96,800 | Verified early career (BS) | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/archer56/jobs/7719738003>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
-| KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | - | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2127828/apply>) |
 | Airbus | Manufacturing Engineer I - Technical Shop Floor Support (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I---Technical-Shop-Floor-Support--2nd-Shift-_JR10432688>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | KBR | Junior Systems Engineer | Beavercreek, Ohio | - | Early career | Posted Jul 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Systems-Engineer_R2127554/apply>) |
@@ -58,5 +59,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Radar Engineering/Analyst/Physics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jun 24, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59251>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
+| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 | Joby Aviation | Design Engineer, Actuators (early career) | Santa Cruz, CA, US | $97,600 - $131,000/yr | Early career | Posted Aug 26, 2024<br>First seen Aug 26, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5253/design-engineer%2c-actuators-%28early-career%29/job>) |
 

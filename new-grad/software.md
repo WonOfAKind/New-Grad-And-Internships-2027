@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
 Current roles in this view: 224
 
@@ -23,6 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | True Anomaly | Software Engineer 1 - QA | Long Beach, CA; Denver, CO | $70,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007>) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
 | True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
+| United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zebra Technologies | Software Engineer 1 | Lincolnshire, IL | $68,400.00 - $102,600.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952>) |
 | Boston Scientific | Software Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | Verified early career (BS) | First seen Aug 24, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Software-Engineer-I-MN-55112/1422654800>) |
 | KBR | Data Engineer, JR | Chantilly, Virginia | - | Early career | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783/apply>) |
@@ -105,7 +106,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | IXL Learning | Software Engineer, New Grad | Raleigh, NC | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663379002>) |
 | IXL Learning | Software Engineer, New Grad | San Mateo, CA | $110,000 - $135,000 | Explicit new grad role | Posted Aug 8, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8662881002>) |
 | AG Technologies | Hiring Entry Level Software Engineer | Dallas, Texas, United States | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/108734797-hiring-entry-level-software-engineer>) |
-| Boeing | Entry Level or Associate Software Safety Engineer | USA - Oklahoma City, OK | $66,300 - $89,700 | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 26, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085-1>) |
 | EAi Technologies | Entry Level .NET Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer>) |
 | EAi Technologies | Entry Level Software Developer | Vienna, VA | - | Early career | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer>) |
 | Esri | Software Development Engineer I Job \| Esri Career Opportunity | St. Louis, MO | $75,920 - $129,480 USD | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://www.esri.com/careers/5173239007>) |
@@ -141,7 +141,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (Global E-commerce-Search) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670558992960358661>) |
 | AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | Posted Aug 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Subsea Robotics Engineer - Maritime Robotics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 5, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59589>) |
-| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
+| 🔥 Roblox | [2027] Software Engineer, Early Career | San Mateo, CA, United States | $153,000 - $153,000 USD | Early career | Posted Aug 5, 2026<br>First seen Aug 5, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8072244>) |
 | AeroVironment | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | BlueHalo | Junior Software Engineer | 420 National Business Parkway, Jessup, MD | $83,500 - $180,000 | Early career | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322>) |
 | TikTok | Backend Software Engineer Graduate (Global E-commerce) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668824169648097541>) |

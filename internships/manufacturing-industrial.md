@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 63
+Current roles in this view: 64
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| 🔥 Johnson &amp; Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | $23.50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1>) |
+| Brunswick | Mercury Marine: Quality Engineering Co-op | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391>) |
+| Marmon Holdings | Continuous Improvement Engineering Co-op | Chicago, IL | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 18, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Co-op_JR0000045243-3>) |
 | Brunswick | Mercury Marine: Advanced Manufacturing/Operations Analytics Engineering Co-op | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238>) |
 | Brunswick | Mercury Marine: Facilities Engineering Intern | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051223>) |
 | Brunswick | Mercury Marine: Facilities Engineering Intern | Fond du Lac, WI | $18.00-27.50 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051229>) |

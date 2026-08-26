@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 110
+Current roles in this view: 111
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | 🔥 Microsoft | AI Software Engineering Intern - Edge | Redmond, WA | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 21, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556979054>) |
 | TikTok | AI Infra Engineer Intern (Recommendation &amp; LLM) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7672671220798818613>) |
 | Honeywell | Artificial Intelligence/Machine Learning - Summer 2027 Intern | United States | $25.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522>) |

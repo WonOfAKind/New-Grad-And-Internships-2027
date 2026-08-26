@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 370
+Current roles in this view: 372
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, Illinois, United States | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990014860211-2027-business-technology-solutions-intern-cloud-engineering-undergraduate->) |
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, Illinois, United States | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990014860386-2027-business-technology-solutions-intern-cloud-engineering-undergraduate->) |
 | AbbVie | 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate) | North Chicago, Illinois, United States | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990014860306-2027-business-technology-solutions-intern-data-software-engineering-undergraduate->) |
+| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | Fannie Mae | Campus – Treasury &amp; Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | $35.00 an hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872>) |
 | 🔥 Microsoft | AI Software Engineering Intern - Edge | Redmond, WA | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 21, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556979054>) |
 | QTS | Summer 2027 Internship: Internal Data Center Infrastructure Projects | Irving, TX | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906>) |
@@ -81,6 +82,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Walt Disney | Glendale System Software Engineering Internship - Spring 2027 | Glendale, CA | $31.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137-1>) |
 | Garda Capital Partners | Software Engineer Intern | New York, NY | $50 - $50/hr USD | 2027 internship eligible | Posted Aug 22, 2026<br>First seen Aug 18, 2026 | [Apply](<https://job-boards.greenhouse.io/gardacp/jobs/6146213004>) |
 | American Express | Cybersecurity Intern | Phoenix, AZ | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460>) |
+| Atoms | Robotics Software Engineer Intern | Pittsburgh, PA | $25.00 - $35.00/hour | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 26, 2026 | [Apply](<https://job-boards.greenhouse.io/cssmerge/jobs/8695475002>) |
 | Brunswick | Software Engineering Intern | Tulsa, OK | $18.00-$27.00 per hour | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321>) |
 | Humana | Software Engineer Intern, CenterWell and Humana Military | Louisville, KY | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1>) |
 | LLNL | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Livermore, California, United States | $6,752 - $8,201/month | 2027 internship eligible | First seen Aug 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/LLNL/3743990014731646-national-security-engineering-division-nsed-graduate-intern-summer-2027>) |
@@ -148,7 +150,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Notion | Software Engineer Intern (Winter 2027) | San Francisco, California; New York, New York | $57/hr | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 14, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8>) |
 | ONEOK | Cyber Security Intern - Tulsa, OK | Tulsa, OK | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Tulsa-OK/Cyber-Security-Intern---Tulsa--OK_R8449>) |
 | Teledyne | NHRC Software Engineering Internship | Huntsville, AL | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 13, 2026 | [Apply](<https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2>) |
-| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
+| The Voleon Group | Software Engineer Intern - (Summer 2027) | Berkeley, CA; New York City, NY | - | 2027 internship eligible | Posted Aug 14, 2026<br>First seen Aug 25, 2026 | [Apply](<https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6>) |
 | ByteDance | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | San Jose, California | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://joinbytedance.com/search/7668489218234157365>) |
 | TikTok | Mobile Software Engineer Intern (Global E-Commerce) - 2027 Summer | San Jose, California, United States of America | $45- $45/hr | 2027 internship eligible | First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673663349758675205>) |
 | Exa Labs | Software Engineer, Intern | San Francisco, California | - | 2027 internship eligible | Posted Aug 13, 2026<br>First seen Aug 13, 2026 | [Apply](<https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16>) |

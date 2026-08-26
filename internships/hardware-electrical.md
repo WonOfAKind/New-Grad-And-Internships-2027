@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 90
+Current roles in this view: 92
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| HNTB | Intern Electrical Engineer - Summer 2027 | Kansas City, MO; Overland Park, KS (Sprint Parkway) | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Intern-Electrical-Engineer---Summer-2027_R-31347-1>) |
 | Microsoft | Silicon Engineering INTERN | Santa Clara, CA, US; Mountain View, CA, US; Raleigh, NC, US | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556958170>) |
 | Brunswick | Electrical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electrical-Engineering-Intern_JR-051233>) |
 | Disney | WDW Computer Science / Computer Engineering Interns, Spring 2027 | Lake Buena Vista, FL | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145>) |
@@ -22,6 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Medtronic | Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference | Minneapolis, Minnesota, United States of America; Tempe, Arizona, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Newton, Massachusetts, United States of America; Memphis, Tennessee, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Fort Worth, Texas, United States of America; Santa Clara, California, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1>) |
 | Moog | Intern, Hardware Engineering | Mineral Wells, TX | $25.50 - $31.00 Hourly | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417>) |
 | Verkada | Embedded Software Engineering Intern 2027 | San Mateo, CA | $55 - $65/hr USD | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/verkada/jobs/5211595007>) |
+| Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states>) |
 | Disney | Disneyland Facilities Controls Electrical Engineering Intern, Spring 2027 | Anaheim, CA, USA | $30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296>) |
 | Meridian Partners | Embedded Software Engineer Co-op | Cambridge, MA | $28 - $33/hr USD | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003>) |
 | Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |

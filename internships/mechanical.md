@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 76
+Current roles in this view: 77
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Brunswick | Mechanical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Mechanical-Engineering-Intern_JR-051231>) |
-| 🔥 Johnson &amp; Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | $23.50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1>) |
+| Brunswick | Mercury Marine: Mechanical Engineering Intern | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390>) |
 | AeroVironment | Mechanical Engineering Intern | Sunrise, FL | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472>) |
 | Brunswick | Electro - Mechanical Engineering Intern | Menomonee Falls, WI | $18.00 - $27.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298>) |
 | Brunswick | Mercury Marine: Materials Engineering Intern | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117>) |
@@ -26,6 +26,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Disney | Disneyland Mechanical Engineering Intern, Spring 2027 | Anaheim, CA, USA | $30.00/hr | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Mechanical-Engineering-Intern--Spring-2027_10158421-2>) |
 | Disney | WDI Show Mechanical Engineering Intern, Glendale, Spring 2027 | Glendale, CA, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/WDI-Show-Mechanical-Engineering-Intern--Glendale--Spring-2027_10158506>) |
 | Disney | WDI Show Mechanical Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | $31.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Orlando--Spring-2027_10158505>) |
+| Disney | WDW Engineering Interns, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 26, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Engineering-Interns--Spring-2027_10158141>) |
 | 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Florida-Melbourne | $18.50 - $33.50/hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434>) |
 | 🔥 Northrop Grumman | 2027 Systems Safety Engineering Intern- Huntsville AL | United States-Alabama-Huntsville | $25.50- $32.00 per hour | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Systems-Safety-Engineering-Intern--Huntsville-AL_R10247396>) |
 | Kiewit | Mechanical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027) | Lenexa, KS, US | - | 2027 internship eligible | Posted Aug 21, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Mechanical-Design-Intern-Kiewit-Industrial-&-Water-Engineering-%28Summer-2027%29-KS/1412141600>) |

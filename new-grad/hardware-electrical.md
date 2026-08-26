@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
 Current roles in this view: 24
 
@@ -13,13 +13,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Oshkosh Corporation | Electronics Engineer I | New Hudson, Michigan, United States of America | $68,600.00 - $109,200.00 | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49587/Electronics-Engineer-I>) |
-| Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
+| United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | HPE | Electrical Hardware Engineer – HPC/AI Platform Engineering - Early Career | Spring, Texas, United States of America | - | Early career | Posted Aug 23, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1208230/Electrical-Hardware-Engineer-HPC-AI-Platform-Engineering-Early-Career>) |
+| Amentum | Early Career Civil Engineer | Oak Ridge, Tennessee, US | $70,000 - $120,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states>) |
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area; Central Texas; Bay Area, CA | $129,032.00 - $180,644.10 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802>) |
 | Gulfstream Aerospace | Electrical Systems &amp; Avionics MRB Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Electrical-Systems-&-Avionics-MRB-Engineer-I-GA-31401/1411651500>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 26, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering-->) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
-| Sierra Nevada Corporation | Electrical Engineer I | Dayton, OH | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 26, 2026 | [Apply](<https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Electrical-Engineer-I_R0030537>) |
 | Toyota Motor North America | Engineer I | Georgetown, Kentucky | - | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 26, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Georgetown-Kentucky/Engineer-I_10333095>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | GlobalFoundries | Electrical Test Engineer, Wafer Test | Essex Junction, VT | $58,400.00 - $100,800.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 18, 2026 | [Apply](<https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Electrical-Test-Engineer--Wafer-Test--2027-New-College-Graduate-_JR-2604747>) |

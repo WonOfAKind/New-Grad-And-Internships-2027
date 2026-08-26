@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 11:06 AM EDT
+Last updated: August 26, 2026 at 12:39 PM EDT
 
-Current roles in this view: 86
+Current roles in this view: 88
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| HNTB | Intern Engineer - Summer 2027 | Chicago, IL | $23.18 - $34.76/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chicago-IL/Intern-Engineer---Summer-2027_R-31344-1>) |
+| HNTB | Intern Engineer - Summer 2027 | Kansas City, MO; Oklahoma City, OK; Overland Park, KS (Sprint Parkway); Des Moines, IA; Overland Park, KS (129th Street); St. Louis, MO | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Intern-Engineer---Summer-2027_R-31346-1>) |
+| Johnson &amp; Johnson | GTO Engineering Co-op | Raritan, New Jersey, United States of America | $23.50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1>) |
+| Thornton Tomasetti | Structural Engineer Intern | Newark, New Jersey, United States of America | $30 - $35 hourly | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.thorntontomasetti.com/us/en/job/TTWTTZUSR7214EXTERNALENUS/Structural-Engineer-Intern>) |
 | Thornton Tomasetti | Structural Engineer Intern | Newark, NJ, USA | $30 - $35 hourly | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://tt.wd503.myworkdayjobs.com/ThorntonTomasetti/job/Newark-NJ-USA/Structural-Engineer-Intern_R7214>) |
 | Brunswick | Computer Graphics Engineering Intern | Champaign, IL | $18.00-$27.00/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325>) |
 | Brunswick | Engineering Intern | Tulsa, OK | $18.00-$27.00 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312>) |
 | Brunswick | Transducer Engineering Intern | Tulsa, OK | $18-$27 per hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 21, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Transducer-Engineering-Intern_JR-051320>) |
-| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
 | Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | HNTB | Design Build Intern Engineer - Summer 2027 | Kansas City, MO | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Design-Build-Intern-Engineer---Summer-2027_R-31321-1>) |
 | HNTB | Intern Engineer - Summer 2027 | Columbus, OH; Cleveland, OH; Blue Ash, OH (Cincinnati) | $21.07 - $31.60/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Columbus-OH/Intern-Engineer---Summer-2027_R-31318-1>) |
@@ -50,7 +53,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Microchip Technology | Intern - Engineering (Applications) | Lawrence, MA | $20.00-$28.00/hr | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lawrence/Intern---Engineering--Applications-_R3569-26>) |
 | Regions | 2027 ETP Intern - Technology - Operations - Digital - and Data - Analytics | Hoover, AL +1 | - | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Analytics_R105426>) |
 | HNTB | Returning New Grad Field Engineer I - MAD (For current/previous HNTB interns only) – Summer 2027 | Philadelphia, PA (Pennsylvania); Harrisburg, PA; Charlotte, NC (Whitehall); Pittsburgh, PA; Baltimore, MD; Fairmont, WV (Elkins); Raleigh, NC; Charlotte, NC; Raleigh, NC (Raleigh Field); Virginia Beach, VA; Scott Depot, WV (Charleston); North Charleston, SC; Washington, DC; Glen Allen, VA (Richmond); King of Prussia, PA (Norristown); Arlington, VA (Alexandria) | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Philadelphia-PA-Pennsylvania/Returning-New-Grad-Field-Engineer-I---MAD--For-current-previous-HNTB-interns-only----Summer-2027_R-31239-1>) |
-| Marmon Holdings | Engineering Co-op | Chicago, IL | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Co-op_JR0000045243-3>) |
 | Marmon Holdings | Engineering Intern | Chicago, IL | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3>) |
 | Vertiv | Engineering Internship - Lab Focus (Summer 2027) | Columbus, OH, United States | - | 2027 internship eligible | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279601>) |
 | Copart | Field Engineering Intern | Dallas, TX - Headquarters | - | 2027 internship eligible | Posted Aug 17, 2026<br>First seen Aug 13, 2026 | [Apply](<https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Field-Engineering-Intern_JR110512>) |
