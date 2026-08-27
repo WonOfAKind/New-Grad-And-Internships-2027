@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 27, 2026 at 3:56 PM EDT
+Last updated: August 27, 2026 at 6:19 PM EDT
 
-Current roles in this view: 23
+Current roles in this view: 24
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Abbott | Manufacturing Engineer I | United States - California - Sylmar | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Manufacturing-Engineer-I_31160150>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |
 | Boston Scientific | Manufacturing Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Aug 27, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Manufacturing-Engineer-I-MN-55311/1424027900>) |

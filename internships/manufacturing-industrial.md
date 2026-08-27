@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 27, 2026 at 3:56 PM EDT
+Last updated: August 27, 2026 at 6:19 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 69
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ABB | Manufacturing Engineering Intern - Summer 2027 | USA, NJ, Hackettstown | $20 - $34 per hour | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977>) |
 | Brunswick | Manufacturing Engineering Intern | New York Mills, MN | $18.00-$27.00/hr | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1>) |
-| 🔥 General Motors | 2027 Summer Intern - Manufacturing Controls Engineer | Arlington, Texas, United States of America; Wentzville, Missouri, United States of America; Romulus, Michigan, United States of America; Lake Orion, Michigan, United States of America; Bedford, Indiana, United States of America; Kansas City, Kansas, United States of America; Bay City, Michigan, United States of America; Wyoming, Michigan, United States of America; Defiance, Ohio, United States of America; Toledo, Ohio, United States of America; Spring Hill, Tennessee, United States of America; Pontiac, Michigan, United States of America; Saginaw, Michigan, United States of America; Lansing, Michigan, United States of America; Detroit, Michigan, United States of America; Flint, Michigan, United States of America; Bowling Green, Kentucky, United States of America; Parma, Ohio, United States of America; Marion, Indiana, United States of America | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Controls-Engineer_JR-202618844>) |
+| 🔥 General Motors | 2027 Summer Intern - Manufacturing Controls Engineer | Arlington, Texas, United States of America | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Controls-Engineer_JR-202618844>) |
 | Micron Technology | Intern - Process Quality Engineering | Boise, ID - ID1 | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Process-Quality-Engineering_JR109159>) |
 | Diversified Automation | Controls Engineering Co-op | Louisville, KY | - | 2027 internship eligible | First seen Aug 27, 2026 | [Apply](<https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365>) |
 | Brunswick | Mercury Marine: Quality Engineering Co-op | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Quality-Engineering-Co-op_JR-051391>) |

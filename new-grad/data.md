@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 27, 2026 at 3:56 PM EDT
+Last updated: August 27, 2026 at 6:19 PM EDT
 
 Current roles in this view: 17
 
@@ -14,7 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Data Science – System Performance Evaluation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59799>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
-| True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
+| True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO or Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
 | Peraton | Junior Level Modeling, Simulation, and Analysis Engineer | VA | $86,000 - $138,000 | Early career | Posted Aug 21, 2026<br>First seen Aug 27, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-modeling-simulation-and-analysis-engineer-chantilly-virginia-169907-jobs--engineering-->) |
 | TikTok | Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start | Fontana, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675510156642142469>) |
 | TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674027218993154357>) |

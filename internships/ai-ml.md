@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 27, 2026 at 3:56 PM EDT
+Last updated: August 27, 2026 at 6:19 PM EDT
 
 Current roles in this view: 118
 
@@ -12,19 +12,19 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Ambarella | Algorithm Engineer Intern | US Headquarters | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://ambarella.wd108.myworkdayjobs.com/Ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359>) |
-| Celonis | Engineering Intern | Remote, US, Massachusetts | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/celonis/jobs/7974381003>) |
+| Emerson Electric | Application Engineering Intern | Austin, TX, United States | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008043>) |
 | Grant Thornton | AI, Data &amp; Technology Intern - Summer 2027 | Chicago, IL, United States | $37 per hour | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115681>) |
 | Manulife | Summer Intern 2027 - AI | Boston, Massachusetts | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682>) |
 | Workiva | Summer 2027 Intern - Machine Learning Engineering | USA - Remote | $40.00 - $40.00/hr | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1>) |
+| IMC Trading | Performance Engineer Intern - Summer 2027 | Chicago, United States | - | 2027 internship eligible | First seen Aug 27, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4842595101>) |
+| Booz Allen Hamilton | AI RAN Telecommunications Engineer Intern | McLean, VA | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869>) |
 | Chemours 🆁 | AI &amp; Data Science Intern | US - Remote | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013>) |
 | Conduent 🆁 | Applied AI Engineer Intern | Remote US, United States | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529>) |
 | Crowe | AI Functional Intern - WINTER 2027 | Chicago IL USA | $27.00 - $42.00 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 20, 2026 | [Apply](<https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/AI-Functional-Intern---WINTER-2027_R-71015>) |
+| GlossGenius | Engineering Intern (Summer 2027) | New York City | $25 - $50 per hour | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://job-boards.greenhouse.io/glossgenius/jobs/7978666003>) |
 | Leidos | Software Engineering &amp; AI Intern | 6314 RemoteTeleworker US | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648>) |
-| Microchip Technology | Intern- Engineering (Design) | AZ - Chandler | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Design-_R3695-26>) |
 | 🔥 Microsoft | AI Software Engineering Intern - Edge | Redmond, WA | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 21, 2026 | [Apply](<https://apply.careers.microsoft.com/careers/job/1970393556979054>) |
 | TikTok | AI Infra Engineer Intern - Recommendation &amp; LLM - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7672671220798818613>) |
-| Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | Honeywell | Artificial Intelligence/Machine Learning - Summer 2027 Intern | United States | $25.50/hr | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522>) |
 | Kodiak Robotics | Winter 2027 Intern, Artificial Intelligence/Machine Learning | Mountain View, CA | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/kodiak/jobs/4377407009>) |
 | Nokia | Data Analytics &amp; AI Co-op | United States | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743>) |

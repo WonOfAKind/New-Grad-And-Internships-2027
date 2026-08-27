@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 27, 2026 at 3:56 PM EDT
+Last updated: August 27, 2026 at 6:19 PM EDT
 
-Current roles in this view: 46
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,14 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states-09e0e9a3-1a17-4cb7-ab6b-a70230cfda2a>) |
 | 🔥 BAE Systems | New Hampshire Systems Engineering Intern III, (Summer 2027) Onsite | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302217&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineering Intern II, Summer 2027 (NH-Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302215&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineering Intern IV, Summer 2027 (NH - Onsite) | Nashua, New Hampshire, United States | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302214&partnerid=25771&siteid=5403>) |
 | 🔥 Northrop Grumman | 2027 Intern Vehicle Engineering - CA OK ND | United States-California-Palmdale; United States-California-San Diego; United States-California-Edwards AFB; United States-California-Mojave; United States-California-Redondo Beach; United States-California-El Segundo; United States-Oklahoma-Oklahoma City | $17.50 - $39.00 per hour | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Vehicle-Engineering---CA-OK-ND_R10248142>) |
 | 🔥 RTX | System Engineering Co-op (Remote) | Aurora, CO | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 24, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902>) |
 | 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |
-| Parsons | Structural Design Intern | FL, Tallahassee, R185382 | $22.93 - $40.14/hr | 2027 internship eligible | Posted Aug 26, 2026<br>First seen Aug 26, 2026 | [Apply](<https://parsons.wd5.myworkdayjobs.com/Search/job/US---FL-Tallahassee/Structural-Design-Intern_R185382>) |
-| Freeform | Additive Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | $30/hour | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Stress Engineering - Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Stress-Engineering-Collegiate-Associate-Intern-GA-31401/1423681300>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Stress Engineering - Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Stress-Engineering-Collegiate-Associate-Intern-GA-31401/1423689500>) |
 | Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 24, 2026<br>First seen Aug 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states>) |
