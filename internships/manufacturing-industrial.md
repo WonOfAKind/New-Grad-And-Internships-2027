@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 26, 2026 at 5:18 PM EDT
+Last updated: August 26, 2026 at 8:53 PM EDT
 
-Current roles in this view: 65
+Current roles in this view: 64
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -70,7 +70,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Bosch Group | 2027 Spring Manufacturing Engineering Co-Op | Charleston, SC | - | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000141337134-2027-spring-manufacturing-engineering-co-op>) |
 | 🔥 Medtronic | Engineering Intern – Summer 2027 | Fridley, Minnesota, United States of America; Tempe, Arizona, United States of America; Eatontown, New Jersey, United States of America; Santa Rosa, California, United States of America; Lafayette, Colorado, United States of America; Boulder, Colorado, United States of America; Plymouth, Minnesota, United States of America; Mounds View, Minnesota, United States of America; Irvine, California, United States of America; North Haven, Connecticut, United States of America; Memphis, Tennessee, United States of America; Newton, Massachusetts, United States of America; Dexter, Michigan, United States of America; Santa Ana, California, United States of America; Mansfield, Massachusetts, United States of America; Fort Worth, Texas, United States of America; Minneapolis, Minnesota, United States of America; Brooklyn Center, Minnesota, United States of America; Jacksonville, Florida, United States of America; Boston, Massachusetts, United States of America; Brooklyn Park, Minnesota, United States of America | $26.50-$45.25/hr | 2027 internship eligible | Posted Aug 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1>) |
 | Marmon Holdings | Digital Production Engineering Intern OR Student Co-Op | Milwaukee, WI | $27.00/hour | 2027 internship eligible | Posted Jul 27, 2026<br>First seen Aug 3, 2026 | [Apply](<https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451>) |
-| 🔥 Blue Origin | Spring 2027 Engineering Intern - Undergraduate | Greater Seattle Area; Van Horn, TX; Huntsville, AL; Denver, CO; Space Coast, FL; Los Angeles, CA; Longmont, CO | - | 2027 internship eligible | Posted Jul 21, 2026<br>First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064>) |
 | Jane Street | Trading Desk Operations Engineer Internship | New York, NY | - | 2027 internship eligible | Posted Jul 10, 2026<br>First seen Aug 17, 2026 | [Apply](<https://www.janestreet.com/join-jane-street/position/8621450002>) |
 | 🔥 Caterpillar | 2027 Summer Corporate Intern- Manufacturing | Decatur, Illinois; Sanford, North Carolina; Menominee, Michigan; Schertz, Texas; Brooklyn Park, Minnesota; Franklin, Indiana; Mapleton, Illinois; Mossville, Illinois; West Fargo, North Dakota; Mossville, Illinois; Seguin, Texas | $25.00 - $43.00/hr | 2027 internship eligible | First seen Aug 3, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454>) |
 | Crane Co. | Sustaining Engineering Intern | Cincinnati, Ohio | - | 2027 internship eligible | Posted Jul 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Sustaining-Engineering-Intern_JR102023>) |

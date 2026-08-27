@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-08-26T21:18:30.401Z",
+  "updated_at": "2026-08-27T00:53:01.027Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -813,7 +813,7 @@
     },
     "crowdstrike": {
       "company": "CrowdStrike",
-      "checked_at": "2026-08-26T13:12:51.625Z",
+      "checked_at": "2026-08-27T00:47:19.178Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -829,12 +829,12 @@
         "site": "crowdstrikecareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 454
+        "verified_open_jobs": 440
       },
-      "last_scan_at": "2026-08-26T21:18:30.401Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-26T13:19:32.322Z"
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-08-27T00:53:01.027Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1934,7 +1934,7 @@
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-08-24T20:45:13.262Z",
+      "checked_at": "2026-08-27T00:47:19.178Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1950,12 +1950,11 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1026
+        "verified_open_jobs": 1040
       },
-      "last_scan_at": "2026-08-26T21:18:30.401Z",
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
       "last_scan_status": "error",
-      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
-      "last_verified_at": "2026-08-24T23:38:08.976Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2483,7 +2482,7 @@
     },
     "hubspot": {
       "company": "HubSpot",
-      "checked_at": "2026-08-19T21:36:42.441Z",
+      "checked_at": "2026-08-27T00:47:19.178Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2507,10 +2506,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-19T21:42:47.807Z",
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-19T21:42:47.807Z"
+      "last_verified_at": "2026-08-27T00:53:01.027Z"
     },
     "zendesk": {
       "company": "Zendesk",
@@ -2532,9 +2531,9 @@
         "limit": 20,
         "verified_open_jobs": 89
       },
-      "last_scan_at": "2026-08-26T21:18:30.401Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-26T21:18:30.401Z"
     },
     "qualtrics": {
@@ -5025,9 +5024,9 @@
         "limit": 20,
         "verified_open_jobs": 336
       },
-      "last_scan_at": "2026-08-26T13:19:32.322Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-26T13:19:32.322Z"
     },
     "kratos defense": {
@@ -5514,9 +5513,9 @@
         "limit": 20,
         "verified_open_jobs": 350
       },
-      "last_scan_at": "2026-08-26T21:18:30.401Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-08-27T00:53:01.027Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-08-26T21:18:30.401Z"
     },
     "draper": {
