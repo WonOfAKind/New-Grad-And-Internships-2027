@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 27, 2026 at 6:19 PM EDT
+Last updated: August 28, 2026 at 11:55 AM EDT
 
-Current roles in this view: 24
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,17 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
+| Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |
+| 🔥 ExxonMobil | Process Engineer - Student - Nanticoke - January 2027 (Nanticoke, ON, CA, N0A 1L0) | Nanticoke, ON, CA, N0A 1L0 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Nanticoke-Process-Engineer-Student-Nanticoke-January-2027-ON-N0A-1L0/1423972400>) |
+| 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
+| 🔥 ExxonMobil | Upstream Facilities Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Facilities-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423630300>) |
+| 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
 | Abbott | Manufacturing Engineer I | United States - California - Sylmar | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Manufacturing-Engineer-I_31160150>) |
-| Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
-| Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 27, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |
+| 🔥 GE Aerospace | Manufacturing Engineering Development Program (MEDP) – US – January 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Aug 28, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Development-Program--MEDP----US---January-2027-Start_R5031095-1/apply>) |
+| 🔥 GE Aerospace | Manufacturing Engineering Development Program (MEDP) – US – June 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Aug 28, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Development-Program--MEDP----US---June-2027-Start_R5031094-1/apply>) |
 | Boston Scientific | Manufacturing Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Aug 27, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Manufacturing-Engineer-I-MN-55311/1424027900>) |
-| 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1365616700>) |
+| 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1365616700>) |
 | Boston Scientific | Manufacturing Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Aug 26, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Manufacturing-Engineer-I-MN-55311/1423427600>) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 24, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
 | 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Quality Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Aug 23, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01855187/Leadership-Development-Program-Operations-Quality-Engineering-Track-Starts-June-2027>) |
