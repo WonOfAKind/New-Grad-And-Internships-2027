@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 28, 2026 at 11:55 AM EDT
+Last updated: August 28, 2026 at 6:21 PM EDT
 
-Current roles in this view: 30
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |
 | 🔥 ExxonMobil | Process Engineer - Student - Nanticoke - January 2027 (Nanticoke, ON, CA, N0A 1L0) | Nanticoke, ON, CA, N0A 1L0 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Nanticoke-Process-Engineer-Student-Nanticoke-January-2027-ON-N0A-1L0/1423972400>) |
+| 🔥 ExxonMobil | Process Engineer - Students Seeking Opportunities - Sarnia (Sarnia, ON, CA, N7T 7M5) | Sarnia, ON, CA, N7T 7M5 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Sarnia-Process-Engineer-Students-Seeking-Opportunities-Sarnia-ON-N7T-7M5/1424440500>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Facilities Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Facilities-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423630300>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
@@ -30,6 +31,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003>) |
 | Freeform | Process Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895822003>) |
 | Whirlpool | Manufacturing Controls Engineering LDP - Full Time | Columbus, OH, US | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403012880-manufacturing-controls-engineering-ldp-full-time-columbus-ohio-usa>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development - Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 28, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | Posted Aug 17, 2026<br>First seen Aug 28, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | Black &amp; Veatch | Associate Instrumentation &amp; Controls Engineer - Hydropower | Chattanooga, TN, US | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Instrumentation-&-Controls-Engineer-Hydropower-KS-66062/1405703733>) |
 | Black &amp; Veatch | Drinking Water Associate Process Engineer | Indianapolis, IN, US | $82,770 - $138,230.00 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Richmond-Drinking-Water-Associate-Process-Engineer-VA-23173/1258786401>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |
