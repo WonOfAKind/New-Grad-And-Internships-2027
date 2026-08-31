@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 28, 2026 at 6:21 PM EDT
+Last updated: August 31, 2026 at 11:05 AM EDT
 
-Current roles in this view: 17
+Current roles in this view: 18
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
 | 🔥 Amazon | Product Manager Technical (PMT) - 2027 | US, WA, Seattle | $151,200 - $204,600 | 2027 grad eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509770/product-manager-technical-pmt-2027>) |
 | TikTok | GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573235673073925>) |
 | TikTok | POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573398700165429>) |
@@ -24,7 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Graduate (Signal and Identity Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7673330687380490501>) |
 | LPL Financial Holdings | Product Management New Grad - Product | Austin, TX; Fort Mill, SC; Charlotte, NC | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
-| IXL Learning | Associate Product Manager, New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663710002>) |
+| IXL Learning | Associate Product Manager, New Grad | San Mateo, California, US | $95,000 - $120,000 | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8663710002>) |
 | 🔥 Amazon | 2027 Amazon Leadership Accelerator (ALA) - Product Manager Full Time | US, WA, Seattle | $151,200 - $204,600 | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 11, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time>) |
 | Uncountable | Product Manager – New Grad | San Francisco, CA; New York, NY | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc>) |
 | Appian | Product Manager (2027 Graduates) | McLean, VA | $110,000 - $113,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8069612-product-manager--2027-graduates->) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: August 28, 2026 at 6:21 PM EDT
+Last updated: August 31, 2026 at 11:05 AM EDT
 
-Current roles in this view: 63
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,15 +12,20 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
+| TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7679156878833682693>) |
+| Booz Allen Hamilton | AI Engineer, Junior | San Antonio, TX | $55,300.00 - $126,000.00 | Early career | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Junior_R0247358>) |
+| WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7>) |
+| Capital Health | IT Product Engineer I | Pennington, NJ | $78,769.60 - $102,960.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768>) |
+| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly/Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - AI/ML Research Engineer | Laurel, Maryland, United States | $85,000 Annually | Explicit new grad role | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59548>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7678145401619237173>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS - Artificial Intelligence and Complex Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59664>) |
-| Peraton | Junior Level Modeling, Simulation, and Analysis Engineer | VA | $86,000 - $138,000 | Early career | Posted Aug 21, 2026<br>First seen Aug 28, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-modeling-simulation-and-analysis-engineer-chantilly-virginia-169907-jobs--engineering-->) |
+| Peraton | Junior Level Modeling, Simulation, and Analysis Engineer | VA | $86,000 - $138,000 | Early career | Posted Aug 21, 2026<br>First seen Aug 31, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-modeling-simulation-and-analysis-engineer-chantilly-virginia-169907-jobs--engineering-->) |
 | Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675844938504702213>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675843332462872885>) |
-| Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | $79K-$111K | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674023327725373701>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674025781001062709>) |
 | ByteDance | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7667726338627356933>) |
@@ -52,7 +57,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669709290431236357>) |
 | TikTok | Machine Learning Engineer Graduate (Brand Ads) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668663594419374341>) |
 | TikTok | Machine Learning Engineer Graduate (Commerce Ads) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669711968024430853>) |
-| TikTok | Machine Learning Engineer Graduate (Commercial AI-CRM and Transaction) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669702699627661573>) |
 | TikTok | Machine Learning Engineer Graduate (TikTok-Data-Search-Recommendation-Global E-Commerce) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668384123840514309>) |
 | TikTok | Software Engineer Graduate (AI Agent &amp; Global Revenue Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668566347702569269>) |
 | 🔥 Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | US, CA, Cupertino | $127,100 - $185,000 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
@@ -68,11 +72,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668700671828707589>) |
 | TikTok | ML Infra Engineer Graduate (Ads Infra) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668693662561634613>) |
 | TikTok | Software Development Engineer Graduate (Global E-Commerce-Quality Platform &amp; AI Test Automation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668827381435517237>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
+| Maxar | GIS Engineer (Jr) | Bolling AFB, DC; Arlington, VA; Reston, VA | $67,000.00 - $111,000.00 annually | Early career | First seen Aug 31, 2026 | [Apply](<https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59458>) |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | $85,000 - $100,000 | Early career | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008>) |
 | Validity | Full Stack AI Software Engineer I | Boston, MA | $100,000 - $120,000 | Verified early career (BS) | Posted Jul 26, 2026<br>First seen Aug 9, 2026 | [Apply](<https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I>) |
 | Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
-| Qualcomm | Machine Learning Engineer - College Graduate | San Diego, CA, US | $122,800.00 - $184,200.00 | Explicit new grad role | Posted Apr 8, 2026<br>First seen Jul 21, 2026 | [Apply](<http://careers.qualcomm.com/careers/job/446717859953-machine-learning-engineer-college-graduate-san-diego-california-united-states-of-america>) |
 
