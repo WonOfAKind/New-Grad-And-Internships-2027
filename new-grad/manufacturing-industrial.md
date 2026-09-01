@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 1, 2026 at 12:42 PM EDT
+Last updated: September 1, 2026 at 3:39 PM EDT
 
 Current roles in this view: 38
 
@@ -27,7 +27,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Aug 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Manufacturing &amp; Industrial Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01855283/Leadership-Development-Program-Operations-Manufacturing-Industrial-Engineering-Track-Starts-June-2027>) |
-| 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Quality Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01855187/Leadership-Development-Program-Operations-Quality-Engineering-Track-Starts-June-2027>) |
+| 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Quality Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01855187/Leadership-Development-Program-Operations-Quality-Engineering-Track-Starts-June-2027>) |
 | 🔥 ExxonMobil | Process Engineer - Student - Nanticoke - January 2027 (Nanticoke, ON, CA, N0A 1L0) | Nanticoke, ON, CA, N0A 1L0 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Nanticoke-Process-Engineer-Student-Nanticoke-January-2027-ON-N0A-1L0/1423972400>) |
 | 🔥 ExxonMobil | Process Engineer - Students Seeking Opportunities - Sarnia (Sarnia, ON, CA, N7T 7M5) | Sarnia, ON, CA, N7T 7M5 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Sarnia-Process-Engineer-Students-Seeking-Opportunities-Sarnia-ON-N7T-7M5/1424440500>) |
 | 🔥 ExxonMobil | Upstream Facilities Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Facilities-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423630300>) |

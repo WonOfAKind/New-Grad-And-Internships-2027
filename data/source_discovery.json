@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-01T16:42:16.641Z",
+  "updated_at": "2026-09-01T19:39:47.999Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:42:16.641Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 427
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:42:16.641Z"
     },
     "palo alto networks": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1444
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:42:16.641Z"
     },
     "wiz": {
@@ -2534,9 +2534,9 @@
         "limit": 20,
         "verified_open_jobs": 93
       },
-      "last_scan_at": "2026-09-01T16:04:50.318Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "qualtrics": {
@@ -3400,9 +3400,9 @@
         "limit": 20,
         "verified_open_jobs": 78
       },
-      "last_scan_at": "2026-09-01T16:04:50.318Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "recursion": {
@@ -3937,7 +3937,7 @@
     },
     "general dynamics mission systems": {
       "company": "General Dynamics Mission Systems",
-      "checked_at": "2026-08-25T18:54:37.350Z",
+      "checked_at": "2026-09-01T19:33:45.633Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -3961,10 +3961,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-08-25T19:01:03.545Z",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-08-25T19:01:03.545Z"
+      "last_verified_at": "2026-09-01T19:39:47.999Z"
     },
     "axon": {
       "company": "Axon",
@@ -4558,9 +4558,10 @@
         "limit": 20,
         "verified_open_jobs": 698
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 60000ms"
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-01T19:39:47.999Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5296,9 +5297,9 @@
         "limit": 20,
         "verified_open_jobs": 1317
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
+      "last_scan_at": "2026-09-01T19:39:47.999Z",
       "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "abbott": {

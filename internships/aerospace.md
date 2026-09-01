@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 1, 2026 at 12:42 PM EDT
+Last updated: September 1, 2026 at 3:39 PM EDT
 
-Current roles in this view: 58
+Current roles in this view: 60
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,9 +13,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | AeroVironment | Summer 2027 GNC / Autonomy Intern | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA; San Diego, CA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-GNC---Autonomy-Intern_8610>) |
+| Hermeus | Propulsion Component Engineering Intern - Spring 2027 | Los Angeles, CA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11>) |
 | Moog | Actuation Engineer Intern (Summer 2027) | Torrance, CA | $28.00 - $35.00 Hourly | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612>) |
 | 🔥 Northrop Grumman | 2027 Intern - Electronics (Avionics) Engineering | United States-Oklahoma-Oklahoma City | $17.50 - $31.75/hour | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10248658-1>) |
 | 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Oklahoma-Oklahoma City | $17.50 - $31.75/hour | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653>) |
+| 🔥 RTX | Systems Engineering – Intern (Onsite) | US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401 | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering---Intern--Onsite-_01870675>) |
 | Woodward | Engineering Internship Summer 2027 | Fort Collins - Lincoln Campus; Fort Collins - Drake Campus; Niles, IL, US; Deerfield Beach, FL, US; Zeeland, MI, US; Rockford - Loves Park Campus (LPC); Spartanburg, SC, US; Rockford - Rock Cut Campus (RCC) | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Engineering-Internship-Summer-2027_JR113067>) |
 | Stoke Space | Summer 2027 Internship - Engineering | Cape Canaveral, Florida; Kent, Washington; Moses Lake, Washington | $28.00/hour | 2027 internship eligible | First seen Sep 1, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6175828004>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59874>) |
@@ -32,7 +34,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | Summer Internship - Cabin Engineering | Mobile Area, AL | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Cabin-Engineering_JR10430636>) |
 | Airbus | Summer Internship - Engineering 2027 | Wichita, KS | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Summer-Internship---Engineering-2027_JR10432902>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Internship - Weapon System Engineer (Analyst) | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59839>) |
-| northwoodspace | Supply Chain Data &amp; Analytics Intern (2027 Summer Internship) | Torrance, CA | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.ashbyhq.com/northwoodspace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490>) |
 | Amentum | Summer 2027 Intern - Structural Dynamics Engineer | Houston, Texas, US | - | 2027 internship eligible | Posted Aug 27, 2026<br>First seen Aug 27, 2026 | [Apply](<https://www.amentumcareers.com/jobs/summer-2027-intern-structural-dynamics-engineer-houston-texas-united-states-09e0e9a3-1a17-4cb7-ab6b-a70230cfda2a>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Stress Engineering - Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Stress-Engineering-Collegiate-Associate-Intern-GA-31401/1423681300>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Stress Engineering - Collegiate Associate Intern | Savannah, GA, US | - | 2027 internship eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Stress-Engineering-Collegiate-Associate-Intern-GA-31401/1423689500>) |
@@ -68,6 +69,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Varda Space | Guidance, Navigation &amp; Controls (GNC) Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824781003>) |
 | Varda Space | Propulsion Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824765003>) |
 | Varda Space | Structures Engineering Internship - Spring 2027 | El Segundo, California, United States | $33.00 - $120/hr | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 7, 2026 | [Apply](<https://job-boards.greenhouse.io/vardaspace/jobs/7824817003>) |
+| Unison (GE Aerospace) | Unison Engineering Intern - Summer 2027 | Jacksonville, Florida, United States of America; Dayton, Ohio, United States of America; Norwich, New York, United States of America; Saint George, Utah, United States of America | $20/hour | 2027 internship eligible | Posted Jul 16, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027>) |
 | Eaton | ETO Engineering Co-op | Syracuse, NY, US | - | 2027 internship eligible | Posted Jun 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687236797540>) |
 | Joby Aviation | Flight Test Intern (Dec 2026-Feb 2027) | Marina, CA, US | $22.00 - $31.00/hour | 2027 internship eligible | Posted Sep 1, 2024<br>First seen Aug 9, 2026 | [Apply](<https://careers-jobyaviation.icims.com/jobs/5297/flight-test-intern-%28dec-2026-feb-2027%29/job>) |
 
