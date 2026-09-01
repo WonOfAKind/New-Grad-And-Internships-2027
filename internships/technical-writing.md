@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: August 31, 2026 at 7:18 PM EDT
+Last updated: September 1, 2026 at 12:04 PM EDT
 
 Current roles in this view: 1
 
@@ -12,5 +12,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Eulerity | Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation | New York, NY | $18 - $20 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/eulerity/jobs/4706780006>) |
+| Eulerity | Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation | New York City, NY | $18 - $20 per hour | 2027 internship eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/eulerity/jobs/4706780006>) |
 
