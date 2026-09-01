@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 1, 2026 at 12:04 PM EDT
+Last updated: September 1, 2026 at 12:42 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 36
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| AeroVironment | Summer 2027 Systems Test Engineer | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Fairborn, OH; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA | - | Early career | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390>) |
+| Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429469>) |
+| Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429474>) |
 | Boston Scientific | R&amp;D Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Engineer-I-MN-55311/1424721100>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist/Analyst Sensor Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59870>) |
 | Sierra Space | Mechanical Engineer I - Ground Support Equipment | Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I---Ground-Support-Equipment_R26197-1>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 1, 2026 at 12:04 PM EDT
+Last updated: September 1, 2026 at 12:42 PM EDT
 
-Current roles in this view: 38
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| AeroVironment | Summer 2027 Systems Test Engineer | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Fairborn, OH; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA | - | Early career | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390>) |
+| Airbus | AGGP2027 - Graduate Certification Engineer I | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP2027---Graduate-Certification-Engineer-I_JR10430293>) |
+| Airbus | AGGP2027 - Graduate Manufacturing Engineer I | Kinston, NC | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/AGGP2027---Manufacturing-Engineer_JR10433378>) |
+| Airbus | AGGP2027 – Graduate Industrial Engineer I | Kinston, NC | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/AGGP2027---Graduate-Industrial-Engineer-I_JR10435313>) |
+| Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429469>) |
+| Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429474>) |
+| 🔥 Northrop Grumman | 2027 Associate Systems Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | $72,700 - $109,100 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Systems-Engineer---Rolling-Meadows-IL_R10248723>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist/Analyst Sensor Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59870>) |
 | 🔥 Northrop Grumman | 2027 Associate Systems Engineer - Roy UT | United States-Utah-Roy | $65,800- $98,800 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Systems-Engineer---Roy-UT_R10248486-1>) |
 | Sierra Space | Mechanical Engineer I - Ground Support Equipment | Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I---Ground-Support-Equipment_R26197-1>) |
@@ -20,7 +27,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1365616700>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer / Analyst | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59497>) |
 | KBR | Junior Systems Engineer (MBSE) | Huntsville, Alabama | - | Early career | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Junior-Systems-Engineer--MBSE-_R2128975/apply>) |
-| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO or Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
+| True Anomaly | Software Engineer I, Spacecraft Simulation (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007>) |
 | 🔥 United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | KBR | JR System Engineer | Chantilly, Virginia | - | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-System-Engineer_R2128868/apply>) |
 | Peraton | Junior Level Test Systems Engineer | VA | $80,000 - $128,000 | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-test-systems-engineer-springfield-virginia-169928-jobs--engineering-->) |
@@ -50,4 +57,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 | Amentum | Machine Design Engineer - Entry Level | Tullahoma, Tennessee, US | $76,500 | Early career | Posted Jun 30, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/machine-design-engineer-entry-level-tullahoma-tennessee-united-states-c664d2be-bf89-4dcf-9c70-2a8edf88278e>) |
 | Amentum | Junior Test Engineer | Dahlgren, Virginia, US | $80,000 - $100,000 | Early career | Posted Jun 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-test-engineer-dahlgren-virginia-united-states-c2203e02-57e1-47f7-9429-51c506d5b9b3>) |
+| KBR | Systems Engineer, Jr. | Chantilly, Virginia | - | Early career | Posted May 5, 2026<br>First seen Sep 1, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Jr_R2123176/apply>) |
 
