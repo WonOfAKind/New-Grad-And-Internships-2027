@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 2, 2026 at 3:36 PM EDT
+Last updated: September 2, 2026 at 6:05 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,6 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429474>) |
 | 🔥 BAE Systems | Engineer I – Spacecraft Mechanical Design | Boulder, Colorado, United States | - | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303533&partnerid=25771&siteid=5403>) |
 | Kimley-Horn | Mechanical Engineering Analyst | Reno, NV, US | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26250/mechanical-engineering-analyst/job>) |
+| Stryker | Design Engineer - Mechanical, RISE | Portage, Michigan | $64,400 - $94,400 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Mechanical--RISE_R571060>) |
 | 🔥 Blue Origin | Fluid Systems &amp; Propulsion Engineer I – Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Fluid-Systems---Propulsion-Engineer-I---Early-Career--2027-Starts-_R71321>) |
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
