@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 2, 2026 at 12:04 PM EDT
+Last updated: September 2, 2026 at 12:38 PM EDT
 
-Current roles in this view: 69
+Current roles in this view: 72
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -30,7 +30,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7679156878833682693>) |
 | WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7>) |
-| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA; Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
+| Capital Health | IT Product Engineer I | Pennington, NJ | $78,769.60 - $102,960.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768>) |
+| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly/Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
+| JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - AI/ML Research Engineer | Laurel, Maryland, United States | $85,000 Annually | Explicit new grad role | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59548>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7678145401619237173>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS - Artificial Intelligence and Complex Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59664>) |
@@ -65,6 +67,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Engineer Graduate (AI Agent &amp; Global Revenue Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668566347702569269>) |
 | 🔥 Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | US, CA, Cupertino | $127,100 - $185,000 | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs>) |
 | ByteDance | Software Engineer Graduate (AI Infrastructure-Compute Efficiency &amp; Scheduling) - 2027 Start | Seattle, WA | $121,600 - $243,200 annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Aug 3, 2026 | [Apply](<https://joinbytedance.com/search/7668799020705679669>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 2, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | TikTok | Design Engineering Graduate (Design System &amp; AI Workflow) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7667837906192877829>) |
 | TikTok | Machine Learning Engineer Graduate (Ads Delivery) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668660365135808821>) |
 | TikTok | Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668629846058223877>) |
