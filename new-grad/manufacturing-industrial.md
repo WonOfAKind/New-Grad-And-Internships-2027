@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 1, 2026 at 6:06 PM EDT
+Last updated: September 1, 2026 at 8:15 PM EDT
 
-Current roles in this view: 38
+Current roles in this view: 37
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -20,7 +20,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 ExxonMobil | Process Engineering Engineer - Associate (Gregory, TX, US, 78359) | Gregory, TX, US, 78359 | - | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Gregory-Process-Engineering-Engineer-Associate-TX-78359/1425366200>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
-| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
+| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Medtronic | Manufacturing Controls Engineer I | North Haven, Connecticut, United States of America | $69,600.00 - $104,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Manufacturing-Controls-Engineer-I_R76187-1>) |
 | 🔥 Medtronic | Quality Engineer I | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I_R76280>) |
 | 🔥 Medtronic | Quality Engineer I - | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I--_R76278-1>) |
@@ -49,5 +49,4 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | Manufacturing Engineer I - Technical Shop Floor Support (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I---Technical-Shop-Floor-Support--2nd-Shift-_JR10432688>) |
 | Airbus | Manufacturing Engineer I | Mobile Area, AL | - | Verified early career (BS) | First seen Aug 17, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I_JR10426486>) |
 | 🔥 Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
-| 🔥 Blue Origin | Manufacturing Engineer I - Early Career | Van Horn, TX | - | Early career | First seen Aug 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Manufacturing-Engineer-I---Early-Career_R52967>) |
 

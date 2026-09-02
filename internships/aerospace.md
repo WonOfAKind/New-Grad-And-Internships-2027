@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 1, 2026 at 6:06 PM EDT
+Last updated: September 1, 2026 at 8:15 PM EDT
 
-Current roles in this view: 57
+Current roles in this view: 59
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,7 +19,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Moog | Actuation Engineer Intern (Summer 2027) | Torrance, CA | $28.00 - $35.00 Hourly | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Actuation-Engineer-Intern--Summer-2027-_R-26-19612>) |
 | 🔥 Northrop Grumman | 2027 Intern - Electronics (Avionics) Engineering | United States-Oklahoma-Oklahoma City | $17.50 - $31.75/hour | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10248658-1>) |
 | 🔥 Northrop Grumman | 2027 Intern - Systems Engineering | United States-Oklahoma-Oklahoma City | $17.50 - $31.75/hour | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Systems-Engineering_R10248653>) |
+| Woodward | Engineering Internship Summer 2027 | Fort Collins - Lincoln Campus; Fort Collins - Drake Campus; Niles, IL, US; Deerfield Beach, FL, US; Zeeland, MI, US; Rockford - Loves Park Campus (LPC); Spartanburg, SC, US; Rockford - Rock Cut Campus (RCC) | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus/Engineering-Internship-Summer-2027_JR113067>) |
 | Stoke Space | Summer 2027 Internship - Engineering | Cape Canaveral, Florida; Kent, Washington; Moses Lake, Washington | $28.00/hour | 2027 internship eligible | First seen Sep 1, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6175828004>) |
+| Brunswick | Mercury Marine: NVH Engineering Intern | Fond du Lac, WI | $18.00-27.50/hr | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--NVH-Engineering-Intern_JR-051456>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59874>) |
 | Katalyst Space Technologies | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, Colorado, United States | - | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://job-boards.greenhouse.io/katalyst/jobs/6176711004>) |
 | 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |

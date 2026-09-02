@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-01T22:06:54.505Z",
+  "updated_at": "2026-09-02T00:15:36.793Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T22:06:54.505Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 425
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T22:06:54.505Z"
     },
     "palo alto networks": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1448
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T22:06:54.505Z"
     },
     "wiz": {
@@ -1835,7 +1835,7 @@
     },
     "boston dynamics": {
       "company": "Boston Dynamics",
-      "checked_at": "2026-08-25T23:02:23.959Z",
+      "checked_at": "2026-09-02T00:06:41.253Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1851,12 +1851,11 @@
         "site": "Boston_Dynamics",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 79
+        "verified_open_jobs": 81
       },
-      "last_scan_at": "2026-08-25T23:08:21.214Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
-      "last_verified_at": "2026-08-25T23:08:21.214Z"
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests"
     },
     "figure ai": {
       "company": "Figure AI",
@@ -3900,9 +3899,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T00:15:36.793Z"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4541,7 +4541,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-09-01T16:35:03.823Z",
+      "checked_at": "2026-09-02T00:06:41.253Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4557,12 +4557,11 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 698
+        "verified_open_jobs": 729
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-01T19:39:47.999Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -4977,7 +4976,7 @@
     },
     "airbus": {
       "company": "Airbus",
-      "checked_at": "2026-09-01T16:35:03.823Z",
+      "checked_at": "2026-09-02T00:06:41.253Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4995,10 +4994,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
       "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms",
-      "last_verified_at": "2026-09-01T16:42:16.641Z"
+      "last_scan_error": "Airbus workday scan timed out after 90000ms"
     },
     "aerovironment": {
       "company": "AeroVironment",
@@ -5145,9 +5143,9 @@
         "limit": 20,
         "verified_open_jobs": 406
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:42:16.641Z"
     },
     "parker hannifin": {
@@ -5179,9 +5177,9 @@
         "limit": 20,
         "verified_open_jobs": 1114
       },
-      "last_scan_at": "2026-08-27T22:19:52.633Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Carrier workday scan timed out after 90000ms",
       "last_verified_at": "2026-08-27T22:19:52.633Z"
     },
     "trane technologies": {
@@ -5299,9 +5297,9 @@
         "limit": 20,
         "verified_open_jobs": 1342
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
       "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "abbott": {
       "company": "Abbott",
@@ -5461,7 +5459,7 @@
     },
     "sierra nevada corporation": {
       "company": "Sierra Nevada Corporation",
-      "checked_at": "2026-09-01T16:35:03.823Z",
+      "checked_at": "2026-09-02T00:06:41.253Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5477,11 +5475,11 @@
         "site": "SNC_External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 301
+        "verified_open_jobs": 307
       },
-      "last_scan_at": "2026-09-01T16:42:16.641Z",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "Sierra Nevada Corporation workday scan timed out after 60000ms"
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
@@ -5512,9 +5510,9 @@
         "limit": 20,
         "verified_open_jobs": 346
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Curtiss-Wright workday scan timed out after 90000ms",
       "last_verified_at": "2026-09-01T22:06:54.505Z"
     },
     "draper": {
@@ -5740,9 +5738,9 @@
         "limit": 20,
         "verified_open_jobs": 250
       },
-      "last_scan_at": "2026-08-31T19:13:40.490Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T00:15:36.793Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Goodyear workday scan timed out after 60000ms",
       "last_verified_at": "2026-08-31T19:13:40.490Z"
     },
     "michelin": {

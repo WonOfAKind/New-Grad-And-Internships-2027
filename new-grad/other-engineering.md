@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 1, 2026 at 6:06 PM EDT
+Last updated: September 1, 2026 at 8:15 PM EDT
 
-Current roles in this view: 144
+Current roles in this view: 143
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -118,7 +118,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Tampa, FL, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24831/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Vero Beach, FL, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25103/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | West Palm Beach, FL, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 19, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25106/civil-engineering-analyst/job>) |
-| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Atlanta, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24796/civil-engineering-analyst/job>) |
