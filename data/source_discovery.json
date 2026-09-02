@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-02T16:38:24.131Z",
+  "updated_at": "2026-09-02T18:17:46.764Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-02T16:04:50.007Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -1928,9 +1929,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-01T16:04:50.318Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "home depot technology": {
@@ -1953,9 +1954,9 @@
         "limit": 20,
         "verified_open_jobs": 1051
       },
-      "last_scan_at": "2026-09-01T16:04:50.318Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "lowe's technology": {
@@ -4986,7 +4987,7 @@
     },
     "aerovironment": {
       "company": "AeroVironment",
-      "checked_at": "2026-08-31T19:06:45.523Z",
+      "checked_at": "2026-09-02T18:11:01.701Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5002,12 +5003,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 343
+        "verified_open_jobs": 352
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-08-31T19:13:40.490Z"
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5129,9 +5130,9 @@
         "limit": 20,
         "verified_open_jobs": 418
       },
-      "last_scan_at": "2026-09-02T16:04:50.007Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T16:04:50.007Z"
     },
     "parker hannifin": {
@@ -5231,7 +5232,7 @@
     },
     "kla": {
       "company": "KLA",
-      "checked_at": "2026-09-01T21:59:41.990Z",
+      "checked_at": "2026-09-02T18:11:01.701Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5247,12 +5248,11 @@
         "site": "Search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 965
+        "verified_open_jobs": 957
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-01T22:06:54.505Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5498,9 +5498,10 @@
         "limit": 20,
         "verified_open_jobs": 354
       },
-      "last_scan_at": "2026-09-02T16:04:50.007Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "draper": {
       "company": "Draper",
@@ -5725,9 +5726,10 @@
         "limit": 20,
         "verified_open_jobs": 5
       },
-      "last_scan_at": "2026-09-02T16:04:50.007Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5819,9 +5821,10 @@
         "limit": 20,
         "verified_open_jobs": 351
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-02T18:17:46.764Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "chevron": {
       "company": "Chevron",
