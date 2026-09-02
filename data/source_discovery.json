@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-02T18:17:46.764Z",
+  "updated_at": "2026-09-02T19:36:22.223Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-02T18:17:46.764Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T18:17:46.764Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 418
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T16:38:24.131Z"
     },
     "palo alto networks": {
@@ -857,9 +857,9 @@
         "limit": 20,
         "verified_open_jobs": 1452
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T16:38:24.131Z"
     },
     "wiz": {
@@ -1911,7 +1911,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-09-01T15:56:42.614Z",
+      "checked_at": "2026-09-02T19:29:21.303Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1929,14 +1929,14 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-02T18:17:46.764Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-01T16:04:50.318Z"
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T19:36:22.223Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-09-01T15:56:42.614Z",
+      "checked_at": "2026-09-02T19:29:21.303Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1952,12 +1952,12 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1051
+        "verified_open_jobs": 1066
       },
-      "last_scan_at": "2026-09-02T18:17:46.764Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-01T16:04:50.318Z"
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-02T19:36:22.223Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -3884,9 +3884,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-02T00:15:36.793Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T00:15:36.793Z"
     },
     "l3harris": {
@@ -4107,9 +4107,9 @@
         "limit": 20,
         "verified_open_jobs": 162
       },
-      "last_scan_at": "2026-09-01T22:06:54.505Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-01T22:06:54.505Z"
     },
     "oscar health": {
@@ -4544,9 +4544,9 @@
         "limit": 20,
         "verified_open_jobs": 685
       },
-      "last_scan_at": "2026-09-02T16:38:24.131Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 90000ms",
       "last_verified_at": "2026-09-02T16:38:24.131Z"
     },
     "honeywell": {
@@ -5845,9 +5845,9 @@
         "robotsUrl": "https://careers.chevron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-01T16:04:50.318Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-02T19:36:22.223Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Chevron sitemap_jobs scan timed out after 90000ms",
       "last_verified_at": "2026-09-01T16:04:50.318Z"
     },
     "shell": {
