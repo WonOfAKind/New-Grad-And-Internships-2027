@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 1, 2026 at 8:15 PM EDT
+Last updated: September 2, 2026 at 12:04 PM EDT
 
-Current roles in this view: 121
+Current roles in this view: 123
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| AMD | Data Analyst Intern/Co-op | Rochester, NY | $0 - $0/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.amd.com/careers-home/jobs/91175>) |
-| AMD | Data Analyst Intern/Co-op | San Jose, CA | $0 - $0/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.amd.com/careers-home/jobs/90895>) |
+| Boston Scientific | R&amp;D Research Algorithm &amp; Data Science Intern (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | - | 2027 internship eligible | First seen Sep 2, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-R&D-Research-Algorithm-&-Data-Science-Intern-MN-55112/1425725500>) |
+| C3 AI | Data Science - Intern (Summer 2027) | Redwood City, CA | $8,000 - $10,000 USD/month | 2027 internship eligible | First seen Sep 2, 2026 | [Apply](<https://c3.ai/job-description?gh_jid=8738918002>) |
 | American Express | Data Analytics Intern - Enterprise Technology Services | Charlotte, NC | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807>) |
 | American Express | Data Analytics Intern - Enterprise Technology Services | New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813>) |
 | American Express | Data Analytics Intern - Enterprise Technology Services | Palo Alto, CA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818>) |
@@ -47,14 +47,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | New York Life | 2027 Technology, Data, AI &amp; Ventures Summer Internship Program - Data Scientist Intern | New York, NY, US | $30-35/hour | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.newyorklife.com/careers/job/43624727-2027-technology-data-ai-ventures-summer-internship-program-data-scientist-intern-new-york-new-york-united-states>) |
 | PricewaterhouseCoopers (PwC) | Market Information and Data Analytics Intern - Multiple Teams | Boston, MA | $29.25 - $48.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers/job/IL-Rosemont/Market-Information-and-Data-Analytics--MIDA----Data-Quality----Intern---Summer-2027_757081WD>) |
 | State Farm | Summer 2027 Intern - Financial Operations - Data Analytics | Bloomington, Illinois, United States; Dunwoody, Georgia, United States; Richardson, Texas, United States; Tempe, Arizona, United States | $28.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://jobs.statefarm.com/main/jobs/45477>) |
-| Stryker | Data Analytics Intern - Multiple Teams | Portage, MI | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 31, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601>) |
 | Stryker 🆁 | Data Science Intern - Remote | Florida, Virtual Address | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731>) |
-| TikTok | Data Science Intern - Integrity and Safety | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
-| TikTok | Data Science Intern - TikTok Live | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
-| TikTok | Data Science Intern - TikTok Product | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
-| TikTok | Data Scientist Intern - VOD Data | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
-| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
-| Trata | Research Scientist Intern | San Francisco, CANew York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
+| TikTok | Data Science Intern - TikTok Integrity and Safety - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669682935444900149>) |
+| TikTok | Data Science Intern - TikTok LIVE - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700822370945333>) |
+| TikTok | Data Science Intern - TikTok Product - 2027 Summer | San Jose, CA | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669683639101884725>) |
+| TikTok | Data Scientist Intern - VOD Data - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 5, 2026 | [Apply](<https://lifeattiktok.com/search/7670287013157095733>) |
+| TikTok | Research Scientist Intern - Monetization Technology - Business Integrity - 2027 Summer | San Jose, CA | $45- $45/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668202600147552517>) |
+| Trata | Research Scientist Intern at Trata \| Y Combinator's Work at a Startup | San Francisco, CA / New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://www.workatastartup.com/jobs/94620>) |
 | WEC Energy Group | Intern - Renewables Data Analytics | Green Bay, WI, US | $23.10 - $27.55/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100>) |
 | Boston Scientific | AIS R&amp;D Research Data Science Intern (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | - | 2027 internship eligible | First seen Sep 1, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-AIS-R&D-Research-Data-Science-Intern-MN-55112/1425694800>) |
 | Dairyland Power Cooperative | Intern, Energy Data Analyst | La Crosse, Wisconsin | - | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Energy-Data-Analyst_JR101052>) |
@@ -65,7 +64,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Integra FEC | (SUMMER) Data Analyst Intern | Austin, Texas | - | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/integrainterns/jobs/5406110008>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Internship - Sensor Systems Engineering | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59874>) |
 | Philips | Co-op - Cybersecurity &amp; Data Analytics - Ultrasound Regulatory Affairs - Cambridge - MA - January 2027 | Cambridge, MA +2 | $29.00 - $32/hr | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Cybersecurity---Data-Analytics--Ultrasound-Regulatory-Affairs----Cambridge--MA---January-2027_590901>) |
+| Stryker | Summer 2027 Internship - Data Analytics - Michigan | Portage, Michigan | - | 2027 internship eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601>) |
 | Bosch Group | Calibration Process Data Science Intern (8 months/40 hours per week) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000146524429-calibration-process-data-science-intern-8-months-40-hours-per-week->) |
+| AMD | 2027 Undergrad Data Analyst Intern/co-op | Remote (US) | $0 - $0/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.amd.com/careers-home/jobs/91175>) |
+| AMD | 2027 Undergrad Data Analyst Intern/co-op | Santa Clara, CA | $0 - $0/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.amd.com/careers-home/jobs/90895>) |
 | Audax Group | Data Analytics Co-Op | Boston, MA | $30.00-$34.00/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 24, 2026 | [Apply](<https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005>) |
 | Blackstone | Data Science Summer Analyst | New York, NY | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 24, 2026 | [Apply](<https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/New-York/XMLNAME-2027-Data-Science-Summer-Analyst_44862>) |
 | BNY | Data Science Intern - Engineering | Jersey City, NJ | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 24, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238>) |
