@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-03T16:29:07.255Z",
+  "updated_at": "2026-09-03T19:32:49.012Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-02T22:05:23.004Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T22:05:23.004Z"
     },
     "netflix": {
@@ -832,9 +832,9 @@
         "limit": 20,
         "verified_open_jobs": 418
       },
-      "last_scan_at": "2026-09-02T22:05:23.004Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-02T22:05:23.004Z"
     },
     "palo alto networks": {
@@ -4542,7 +4542,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-09-02T21:57:51.326Z",
+      "checked_at": "2026-09-03T19:25:31.720Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4558,12 +4558,12 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 743
+        "verified_open_jobs": 745
       },
-      "last_scan_at": "2026-09-03T16:29:07.255Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 90000ms",
-      "last_verified_at": "2026-09-03T00:17:37.458Z"
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-03T19:32:49.012Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5145,9 +5145,9 @@
         "limit": 20,
         "verified_open_jobs": 423
       },
-      "last_scan_at": "2026-09-03T16:29:07.255Z",
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_error": "Rockwell Automation workday scan timed out after 60000ms"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5264,9 +5264,9 @@
         "limit": 20,
         "verified_open_jobs": 967
       },
-      "last_scan_at": "2026-09-03T16:29:07.255Z",
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
       "last_scan_status": "error",
-      "last_scan_error": "KLA workday scan timed out after 60000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5834,9 +5834,10 @@
         "limit": 20,
         "verified_open_jobs": 348
       },
-      "last_scan_at": "2026-09-03T16:29:07.255Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-03T19:32:49.012Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-03T19:32:49.012Z"
     },
     "chevron": {
       "company": "Chevron",
