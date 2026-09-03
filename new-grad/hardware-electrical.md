@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 12:02 PM EDT
+Last updated: September 3, 2026 at 12:29 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -28,7 +28,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zone 5 Technologies | Embedded Software Engineer 1/2 | San Luis Obispo, CA | $95,000 - $139,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008>) |
 | Abbott | Engineer I, Product Analysis | United States - California - Sylmar | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Sep 3, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Engineer-I--Product-Analysis_31159398-1>) |
-| Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Sep 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area; Central Texas; Bay Area, CA | $129,032.00 - $180,644.10 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Sep 3, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering-->) |

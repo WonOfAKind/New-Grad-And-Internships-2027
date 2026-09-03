@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 12:02 PM EDT
+Last updated: September 3, 2026 at 12:29 PM EDT
 
-Current roles in this view: 153
+Current roles in this view: 152
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -109,7 +109,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Indianapolis, IN, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25019/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Las Vegas, NV, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24993/civil-engineering-analyst/job>) |
 | Kiewit | Finance Analyst 1 - Kiewit Industrial &amp; Water Engineering | Westlake, TX, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Finance-Analyst-1-Kiewit-Industrial-&-Water-Engineering-KS/1416823500>) |
-| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Sep 3, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24769/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24765/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24764/civil-engineering-analyst/job>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 12:02 PM EDT
+Last updated: September 3, 2026 at 12:29 PM EDT
 
 Current roles in this view: 36
 
@@ -21,7 +21,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johnson Controls | Quality Engineer I | Largo-Florida-United States of America | $67,900 - $101,900 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Quality-Engineer-I_WD30278664>) |
 | Boston Scientific | Manufacturing Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Manufacturing-Engineer-I-MN-55311/1423427600>) |
 | 🔥 ExxonMobil | Process Engineering Engineer - Associate (Gregory, TX, US, 78359) | Gregory, TX, US, 78359 | - | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Gregory-Process-Engineering-Engineer-Associate-TX-78359/1425366200>) |
-| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
+| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Medtronic | Quality Engineer I | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I_R76280>) |
 | 🔥 Medtronic | Quality Engineer I - | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I--_R76278-1>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
