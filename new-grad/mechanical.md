@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 3:32 PM EDT
+Last updated: September 3, 2026 at 5:58 PM EDT
 
-Current roles in this view: 44
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,8 +13,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Amentum | Entry Level Radiation Test Engineer | Crane, Indiana, US | $70,000 -$80,000 annually | Early career | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-radiation-test-engineer-crane-indiana-united-states>) |
+| 🔥 BAE Systems | Engineer I – Spacecraft Mechanical Design | Boulder, Colorado, United States | - | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303533&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Mechanical Engineer I (Entry Level) | Lexington Park, Maryland, United States | - | Early career | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303449&partnerid=25771&siteid=5403>) |
-| 🔥 Boeing | Design Engineer, Entry Level | USA - El Segundo, CA | $ 76,500 - $ 103,500 | Early career | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Design-Engineer--Entry-Level_JR2026519473>) |
+| 🔥 Blue Origin | AM Applications Engineer - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL | $81,313.00 - $113,837.85 | Early career | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/AM-Applications-Engineer---Early-Career--2027-Starts-_R71755>) |
+| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
 | Johnson Controls | HVAC Controls Systems Engineer 1 | Austin-Texas-United States of America | $67,400 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Austin-Texas-United-States-of-America/HVAC-Controls-Systems-Engineer-1_WD30278990>) |
 | Sierra Nevada Corporation | Test Engineer I | Lone Tree, CO | $71,338.47 - $98,090.40 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Test-Engineer-I_R0030711>) |
 | Boston Scientific | Mechanical Design Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 78300 | 2027 grad eligible | First seen Sep 2, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Mechanical-Design-Engineer-I-MN-55112/1426210400>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 3:32 PM EDT
+Last updated: September 3, 2026 at 5:58 PM EDT
 
-Current roles in this view: 36
+Current roles in this view: 37
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Blue Origin | Materials and Processes Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL | $81,313.00 - $113,837.85 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Materials-and-Processes-Engineer-I---Early-Career--2027-Starts-_R71708>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 3, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 3, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
 | Airbus | Manufacturing Engineer I (A220) - 2nd Shift | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 2, 2026<br>First seen Sep 2, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--A220----2nd-Shift_JR10436782>) |
