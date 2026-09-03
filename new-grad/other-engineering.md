@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 2, 2026 at 6:05 PM EDT
+Last updated: September 2, 2026 at 8:17 PM EDT
 
-Current roles in this view: 150
+Current roles in this view: 153
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,6 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 2, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 2, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
 | ExxonMobil | Upstream Materials Integrity/Machinery Engineering - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 2, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Materials-IntegrityMachinery-Engineering-Students-Seeking-Opportunities-AB-T2C-5N1/1423272800>) |
+| Bridger | Early Career Product Engineer | New York, NY | $150,000 - $200,000 | Early career | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Kiewit | Field Engineer 1 - Northern California District (KIECON) | San Jose, CA, US | $87,000/yr | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Fairfield-Field-Engineer-1-Northern-California-District-%28KIECON%29-CA-94533/1425868000>) |
 | Kiewit | Field Engineer 1 - Northwest (Heavy Civil) | Tacoma, WA, US | $79,000/yr | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-1-Northwest-%28Heavy-Civil%29-WA-98660/1415415800>) |
 | Kiewit | NorCal-Pinnacle - Field Engineer 1 | Fairfield, CA, US | $86,000/yr | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Aug 31, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Wasco-NorCal-Pinnacle-Field-Engineer-1-CA-93280/1412830000>) |
@@ -126,6 +127,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Sep 2, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Kimley-Horn | Civil Engineering Analyst | Mesa, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25179/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Phoenix, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Aug 18, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25176/civil-engineering-analyst/job>) |
+| Kimley-Horn | Civil Engineering Analyst | Scottsdale, AZ, US | - | Explicit new grad role | Posted Jul 31, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25182/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Atlanta, GA, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 26, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24796/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Greenville, SC, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24966/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Mooresville, NC, US | - | Explicit new grad role | Posted Jul 30, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24948/civil-engineering-analyst/job>) |
@@ -143,6 +145,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Charlotte, NC, US | - | Explicit new grad role | Posted Jul 28, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24943/civil-engineering-analyst/job>) |
 | HNTB | Traffic Engineer I | Houston, TX (Fannin) | - | Verified early career (BS) | Posted Jul 27, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Houston-TX-Fannin/Traffic-Engineer-I_R-30908>) |
 | Black &amp; Veatch | Associate Overhead Transmission Line Structural Engineer | Phoenix, AZ, US | - | Verified early career (BS) | Posted Jul 25, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Overhead-Transmission-Line-Structural-Engineer-KS-66062/1389468733>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
 | Black &amp; Veatch | Associate Substation Structural Engineer | Tualatin, OR, US | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Associate-Substation-Structural-Engineer-KS-66062/1366019333>) |
 | Kimley-Horn | Civil Engineering Analyst | Everett, WA, US | $84,000 - $95,500 | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24887/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Lehi, UT, US | - | Explicit new grad role | Posted Jul 22, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24888/civil-engineering-analyst/job>) |
