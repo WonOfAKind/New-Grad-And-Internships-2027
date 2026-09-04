@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 10:31 AM EDT
+Last updated: September 4, 2026 at 12:25 PM EDT
 
-Current roles in this view: 156
+Current roles in this view: 157
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -34,7 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Capital Health | Product Engineer 1 | Pennington, NJ | $78,769.60 - $102,960.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768>) |
 | HNTB | New Grad Field Engineer I - Summer 2027 (For Current/Former HNTB Interns Only) | Chicago, IL | $73,047.47 - $109,571.20 | 2027 grad eligible | Posted Aug 28, 2026<br>First seen Aug 21, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chicago-IL/New-Grad-Field-Engineer-I---Summer-2027--For-Current-Former-HNTB-Interns-Only-_R-31281-1>) |
 | HNTB | New Grad Field Engineer I- Winter/Summer 2027- SED Division (For Current/Former HNTB Interns ONLY) | Atlanta, GA; Lake Mary, FL; Orlando, FL (Orlando International Airport); Nashville, TN (City Center); Tampa, FL; Jacksonville, FL; Green Cove Springs, FL; Chipley, FL; Orlando, FL (Maitland, FL); Fort Lauderdale, FL; Tallahassee, FL; Kissimmee, FL (Neptune Road); Orlando, FL; Kissimmee, FL (Celebration Blvd); Bartow, FL; Ormond Beach, FL; Ocoee, FL (FTE Turnpike Headquarters); Orlando, FL (Sand Lake Road Interchange); Miami, FL | - | 2027 grad eligible | Posted Aug 28, 2026<br>First seen Aug 17, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Atlanta-GA/New-Grad-Field-Engineer-I--Winter-Summer-2027--SED-Division--For-Current-Former-HNTB-Interns-ONLY-_R-31168-2>) |
-| HNTB | Returning Structural Engineer I - Winter/Summer 2027 - Central States Office (For Current/Former HNTB Interns Only) | Kansas City, MO | - | New grad or university grad | Posted Aug 28, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-Structural-Engineer-I---Winter-Summer-2027---Central-States-Office--For-Current-Former-HNTB-Interns-Only-_R-31333-2>) |
+| HNTB | Returning Structural Engineer I - Winter/Summer 2027 - Central States Office (For Current/Former HNTB Interns Only) | Kansas City, MO | - | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 25, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-Structural-Engineer-I---Winter-Summer-2027---Central-States-Office--For-Current-Former-HNTB-Interns-Only-_R-31333-2>) |
 | Kimley-Horn | Civil Engineering Analyst | Dallas, TX, US | - | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26162/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Dallas, TX, US | - | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26160/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Oklahoma City, OK, US | - | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 28, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26168/civil-engineering-analyst/job>) |
@@ -114,6 +114,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Indianapolis, IN, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25019/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Las Vegas, NV, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24993/civil-engineering-analyst/job>) |
 | Kiewit | Finance Analyst 1 - Kiewit Industrial &amp; Water Engineering | Westlake, TX, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Finance-Analyst-1-Kiewit-Industrial-&-Water-Engineering-KS/1416823500>) |
+| Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Sep 4, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24769/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24765/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24764/civil-engineering-analyst/job>) |

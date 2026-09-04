@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 10:31 AM EDT
+Last updated: September 4, 2026 at 12:25 PM EDT
 
-Current roles in this view: 66
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -54,6 +54,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285949553707317>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7669913085331409205>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7669910326745434421>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 4, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | TikTok | AI Engineer Graduate (Client Arch) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7664978367107713333>) |
 | TikTok | Machine Learning Engineer Graduate (Ads Signal &amp; Measurement) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700358734170373>) |
 | TikTok | Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669709290431236357>) |
