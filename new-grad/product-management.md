@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 12:25 PM EDT
+Last updated: September 4, 2026 at 3:56 PM EDT
 
 Current roles in this view: 20
 
@@ -14,7 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | 🔥 Roblox | [2027] Associate Product Manager, Early Career | San Mateo, CA, United States | $143,000 - $143,000 USD | Early career | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143976>) |
 | Home Depot | Associate Product Manager Program (Summer 2027) | Atlanta, GA | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Product-Manager-Program--Summer-2027-_Req192004>) |
-| IXL Learning | Associate Product Manager New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8765765002>) |
+| IXL Learning | Associate Product Manager, New Grad | San Mateo, California, US | $95,000 - $120,000 | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8765765002>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
 | 🔥 Amazon | Product Manager Technical (PMT) - 2027 | US, WA, Seattle | $151,200 - $204,600 | 2027 grad eligible | Posted Aug 21, 2026<br>First seen Aug 21, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509770/product-manager-technical-pmt-2027>) |
 | TikTok | GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573235673073925>) |
