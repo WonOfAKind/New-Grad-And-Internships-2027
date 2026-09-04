@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 5:58 PM EDT
+Last updated: September 3, 2026 at 8:09 PM EDT
 
-Current roles in this view: 27
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Motorola Solutions | Junior Field Applications Engineer | Reston, VA (VA58) | - | Explicit new grad role | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R68521>) |
 | Boston Scientific | Electrical Engineer I (Arden Hills, MN, US, 55112) | Arden Hills, MN, US, 55112 | $ 59900 | 2027 grad eligible | First seen Sep 3, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Arden-Hills-Electrical-Engineer-I-MN-55112/1426194200>) |
-| Amentum | Entry-Level Electrical Engineer | Crane, Indiana, US | $70,000-110,000 annually | Early career | Posted Sep 2, 2026<br>First seen Sep 3, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states-eef270ed-5b2f-43b2-9760-e13148e37c7b>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 3, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59771>) |
 | Pratt &amp; Whitney | Summer 2027 Systems Intern_(OnSite) | huntsville, Alabama, United States of America | - | Early career | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867391/Summer-2027-Systems-Intern-OnSite>) |
@@ -38,5 +38,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |
 | AeroVironment | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Sep 3, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Aug 7, 2026<br>First seen Sep 3, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 3, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 

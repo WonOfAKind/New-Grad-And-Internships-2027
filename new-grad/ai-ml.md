@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 5:58 PM EDT
+Last updated: September 3, 2026 at 8:09 PM EDT
 
-Current roles in this view: 65
+Current roles in this view: 68
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -53,6 +53,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285949553707317>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7669913085331409205>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7669910326745434421>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 3, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | TikTok | AI Engineer Graduate (Client Arch) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7664978367107713333>) |
 | TikTok | Machine Learning Engineer Graduate (Ads Signal &amp; Measurement) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669700358734170373>) |
 | TikTok | Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669709290431236357>) |
@@ -73,8 +74,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668700671828707589>) |
 | TikTok | ML Infra Engineer Graduate (Ads Infra) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668693662561634613>) |
 | TikTok | Software Development Engineer Graduate (Global E-Commerce-Quality Platform &amp; AI Test Automation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668827381435517237>) |
-| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
+| NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, California, United States | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | $85,000 - $100,000 | Early career | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008>) |
-| Milwaukee Tool | Applied Machine Learning Engineer 1 | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
+| Appian | Associate Application Engineer (2027 Graduates) | McLean, VA, US | $90,000 - $95,000 USD | 2027 grad eligible | Posted Jul 24, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8035372-associate-application-engineer--2027-graduates->) |
+| Bridger | Early Career Product Engineer | New York City | $150,000 - $200,000 | Early career | Posted Jul 23, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
+| Milwaukee Tool | Applied Machine Learning Engineer I - Advanced Engineering &amp; Technology | Brookfield, WI | - | Verified early career (BS) | Posted Jul 23, 2026<br>First seen Aug 9, 2026 | [Apply](<https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643>) |
 | IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
 

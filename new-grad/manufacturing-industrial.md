@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 3, 2026 at 5:58 PM EDT
+Last updated: September 3, 2026 at 8:09 PM EDT
 
 Current roles in this view: 37
 
@@ -12,17 +12,17 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| 🔥 Blue Origin | Materials and Processes Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL | $81,313.00 - $113,837.85 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Materials-and-Processes-Engineer-I---Early-Career--2027-Starts-_R71708>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 3, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 3, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
 | Airbus | Manufacturing Engineer I (A220) - 2nd Shift | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 2, 2026<br>First seen Sep 2, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--A220----2nd-Shift_JR10436782>) |
 | Airbus | AGGP 2027 - Graduate Manufacturing Engineer, X-Plant | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP-2027---Graduate-Manufacturing-Engineer--X-Plant_JR10429810>) |
 | Airbus | AGGP 2027- Graduate Manufacturing Engineer | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP-2027--Graduate-Manufacturing-Engineer_JR10429802>) |
 | Airbus | AGGP2027 - Graduate Manufacturing Engineer I | Kinston, NC | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/AGGP2027---Manufacturing-Engineer_JR10433378>) |
+| Airbus | AGGP2027 – Graduate Industrial Engineer I | Kinston, NC | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 3, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/AGGP2027---Graduate-Industrial-Engineer-I_JR10435313>) |
 | Johnson Controls | Quality Engineer I | Largo-Florida-United States of America | $67,900 - $101,900 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Quality-Engineer-I_WD30278664>) |
 | Boston Scientific | Manufacturing Engineer I (Maple Grove, MN, US, 55311) | Maple Grove, MN, US, 55311 | $ 59900 | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Maple-Grove-Manufacturing-Engineer-I-MN-55311/1423427600>) |
 | 🔥 ExxonMobil | Process Engineering Engineer - Associate (Gregory, TX, US, 78359) | Gregory, TX, US, 78359 | - | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Gregory-Process-Engineering-Engineer-Associate-TX-78359/1425366200>) |
-| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
+| 🔥 Blue Origin | Manufacturing Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Medtronic | Quality Engineer I | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I_R76280>) |
 | 🔥 Medtronic | Quality Engineer I - | Juncos, Puerto Rico, United States of America | - | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Juncos-Puerto-Rico-United-States-of-America/Quality-Engineer-I--_R76278-1>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
