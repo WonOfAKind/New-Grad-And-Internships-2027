@@ -559,6 +559,22 @@ export async function runSelfTests() {
     "early career with 2027 start",
   );
   assertEqual(
+    isEligibleRole(
+      "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "A bachelor's or master's degree in Computer Science, graduating between Fall 2026 and Summer 2027. At least two previous software engineering internships or equivalent practical experience, with no more than two years of full-time professional experience.",
+    ),
+    true,
+    "DoorDash 2027 entry-level SWE role remains eligible for bachelor's graduates",
+  );
+  assertEqual(
+    isEligibleRole(
+      "Software Engineer, New Grad 2027",
+      "A bachelor's degree is required. At least two but no more than five years of professional experience is required.",
+    ),
+    false,
+    "an experience ceiling does not hide a separate required minimum",
+  );
+  assertEqual(
     isEligibleRole("Software Engineer, New College Grad - 2026", "2027 new grad recruiting cycle"),
     false,
     "explicit title year overrides inferred source season",

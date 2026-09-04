@@ -319,6 +319,20 @@ function requiredExperienceYears(value) {
     ["six", 6], ["seven", 7], ["eight", 8], ["nine", 9], ["ten", 10],
   ]);
   const toYears = (value) => Number(value) || yearsByNumber.get(String(value).toLowerCase()) || 0;
+  // New-grad postings often state an experience ceiling such as "no more
+  // than two years of full-time professional experience." Remove those caps
+  // before looking for required minimums; otherwise the generic "two years
+  // of ... experience" matcher incorrectly rejects the role.
+  const experienceCeiling = new RegExp(
+    `\\b(?:no\\s+more\\s+than|at\\s+most|up\\s+to|less\\s+than|fewer\\s+than|maximum(?:\\s+of)?|max(?:imum)?\\.?)\\s+${experienceNumberToken}(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?\\s+(?:years?|yrs?)(?:['\\u2019])?(?:\\s+of)?\\s+(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
+    "gi",
+  );
+  const boundedRangeMinimum = new RegExp(
+    `\\bat\\s+least\\s+(${experienceNumberToken})(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?\\s+(?:but|and)\\s+(?:no\\s+more\\s+than|at\\s+most|up\\s+to|maximum(?:\\s+of)?|max(?:imum)?\\.?)\\s+${experienceNumberToken}(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?\\s+(?:years?|yrs?)(?:['\\u2019])?(?:\\s+of)?\\s+(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
+    "gi",
+  );
+  const boundedRangeMinimums = [...value.matchAll(boundedRangeMinimum)].map((match) => toYears(match[1]));
+  const minimumRequirementText = value.replace(experienceCeiling, "entry-level experience ceiling");
   const beforeExperience = new RegExp(
     `\\b(${experienceNumberToken})(?:\\s*\\(\\s*\\d{1,2}\\s*\\))?(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+(?:years?|yrs?)(?:['\\u2019])?(?:\\s+of)?\\s+(?:[a-z][a-z/-]*\\s+){0,8}experience\\b`,
     "gi",
@@ -332,9 +346,10 @@ function requiredExperienceYears(value) {
     "gi",
   );
   return [
-    ...[...value.matchAll(beforeExperience)].map((match) => toYears(match[1])),
-    ...[...value.matchAll(afterExperience)].map((match) => toYears(match[1])),
-    ...[...value.matchAll(minimumYears)].map((match) => toYears(match[1])),
+    ...boundedRangeMinimums,
+    ...[...minimumRequirementText.matchAll(beforeExperience)].map((match) => toYears(match[1])),
+    ...[...minimumRequirementText.matchAll(afterExperience)].map((match) => toYears(match[1])),
+    ...[...minimumRequirementText.matchAll(minimumYears)].map((match) => toYears(match[1])),
   ];
 }
 

@@ -3,9 +3,11 @@ name: Monitor roles
 on:
   workflow_dispatch:
   schedule:
-    # GitHub cron is UTC; the first step gates the exact weekday
-    # 8 AM-8 PM America/New_York window across daylight/standard time.
-    - cron: "13,43 0-1,12-23 * * *"
+    # GitHub may delay or drop scheduled events. Four staggered attempts per
+    # hour make it much less likely that a short-lived posting is missed while
+    # keeping the monitor inside the requested Eastern-time business window.
+    - cron: "7,22,37,52 9-20 * * 1-5"
+      timezone: "America/New_York"
 
 permissions:
   contents: write
@@ -25,7 +27,7 @@ jobs:
         run: |
           day=$(TZ=America/New_York date +%u)
           hour=$(TZ=America/New_York date +%H)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$day" -le 5 ] && [ "$hour" -ge 8 ] && [ "$hour" -le 20 ]; }; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$day" -le 5 ] && [ "$hour" -ge 9 ] && [ "$hour" -le 20 ]; }; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
