@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 6:00 PM EDT
+Last updated: September 4, 2026 at 8:04 PM EDT
 
 Current roles in this view: 35
 
@@ -21,6 +21,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59797>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59771>) |
 | Pratt &amp; Whitney | Summer 2027 Systems Intern_(OnSite) | huntsville, Alabama, United States of America | - | Early career | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.rtx.com/pl/pl/job/01867391/Summer-2027-Systems-Intern-OnSite>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 4, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Resilient Military Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59353>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist/Analyst Sensor Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59870>) |
@@ -39,7 +40,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Mechanical/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Aug 19, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301277&partnerid=25771&siteid=5403>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | Kiewit | Field/Office Engineer - MEC Industrial (Entry-Level) | Phoenix, AZ, US | $82,000/yr | Early career | Posted Aug 17, 2026<br>First seen Sep 4, 2026 | [Apply](<https://kiewitcareers.kiewit.com/MEC/job/Waltham-FieldOffice-Engineer-MEC-Industrial-%28Entry-Level%29-MA-02451/1420825700>) |
-| Motorola Solutions | Junior Field Applications Engineer | Reston, VA (VA58) | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R64415>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | $125,000.00 - $160,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706884002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | $135,000.00 - $175,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8703552002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |

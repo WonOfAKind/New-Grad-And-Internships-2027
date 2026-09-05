@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 6:00 PM EDT
+Last updated: September 4, 2026 at 8:04 PM EDT
 
-Current roles in this view: 153
+Current roles in this view: 154
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Kiewit | Finance Analyst 1 - Kiewit Industrial &amp; Water Engineering | Westlake, TX, US | - | Verified early career (BS) | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Finance-Analyst-1-Kiewit-Industrial-&-Water-Engineering-KS/1416823500>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 4, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 4, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 4, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
@@ -72,6 +73,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Boise, ID, US | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24974/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Broomfield, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24991/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Colorado Springs, CO, US | $80,000-$87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25005/civil-engineering-analyst/job>) |
+| Motorola Solutions | Junior Field Applications Engineer | Reston, VA | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R64415>) |
 | Kimley-Horn | Civil Engineering Analyst | Frisco, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25823/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Philadelphia, PA, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25840/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Plymouth Meeting, PA, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25842/civil-engineering-analyst/job>) |
@@ -110,7 +112,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Columbus, OH, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25015/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Indianapolis, IN, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25019/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Las Vegas, NV, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24993/civil-engineering-analyst/job>) |
-| Kiewit | Finance Analyst 1 - Kiewit Industrial &amp; Water Engineering | Westlake, TX, US | - | Verified early career (BS) | Posted Aug 5, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lenexa-Finance-Analyst-1-Kiewit-Industrial-&-Water-Engineering-KS/1416823500>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 24, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24769/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24765/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Austin, TX, US | - | Explicit new grad role | Posted Aug 3, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24764/civil-engineering-analyst/job>) |

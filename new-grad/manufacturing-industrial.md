@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 6:00 PM EDT
+Last updated: September 4, 2026 at 8:04 PM EDT
 
-Current roles in this view: 33
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -42,7 +42,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Whirlpool | Manufacturing Controls Engineering LDP - Full Time | Columbus, OH, US | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403012880-manufacturing-controls-engineering-ldp-full-time-columbus-ohio-usa>) |
 | Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, United States of America | - | Verified early career (BS) | Posted Aug 13, 2026<br>First seen Aug 11, 2026 | [Apply](<https://jobs.thermofisher.com/global/en/job/R-01363119/Quality-Engineer-I>) |
 | 🔥 Eaton | Manufacturing Engineer (Entry Level) | Minden, LA, US | $71,000 - $105,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 18, 2026 | [Apply](<https://eaton.eightfold.ai/careers/job/687238472915>) |
-| Thermo Fisher Scientific | Quality Engineer I | Austin, Texas, Stati Uniti d'America | - | Verified early career (BS) | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://jobs.thermofisher.com/it/it/job/R-01363119/Quality-Engineer-I>) |
 | Moog | Associate Manufacturing Engineer | Salt Lake City, UT | $70,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 9, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Associate-Manufacturing-Engineer_R-26-18241>) |
 | 🔥 Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
 

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 6:00 PM EDT
+Last updated: September 4, 2026 at 8:04 PM EDT
 
 Current roles in this view: 26
 
@@ -30,7 +30,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674027218993154357>) |
 | TikTok | Data Scientist Graduate (Multimedia) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7673672141010815237>) |
 | TikTok | Data Scientist Graduate (Multimedia) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7670288355678177589>) |
-| WebFX | Junior Business Data Analyst | Harrisburg, PA | $50,000 - $53,000 | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA>) |
+| WebFX | Jr. Business Data Analyst {Top 5 Employer in PA} - WebFX - Career Page | Harrisburg, PA | $50,000 - $53,000 | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA>) |
 | TikTok | Data Scientist Graduate (TikTok LIVE) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669660107303684405>) |
 | TikTok | Data Scientist Graduate (TikTok Platform Safety) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7667035008003328309>) |
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |

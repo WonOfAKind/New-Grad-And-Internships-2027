@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 4, 2026 at 6:00 PM EDT
+Last updated: September 4, 2026 at 8:04 PM EDT
 
-Current roles in this view: 72
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -41,6 +41,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675844938504702213>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675843332462872885>) |
+| Pipe17 | Junior Software Engineer, AI-Native (SEATTLE ONLY) | Seattle, WA | $79K-$111K | Early career | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://job-boards.greenhouse.io/pipe17/jobs/4717950005>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674023327725373701>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674025781001062709>) |
 | ByteDance | Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start | San Jose, CA | $128,000 - $256,000 annually | 2027 grad eligible | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://joinbytedance.com/search/7667726338627356933>) |
