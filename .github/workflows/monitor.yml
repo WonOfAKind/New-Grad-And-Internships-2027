@@ -2,6 +2,8 @@ name: Monitor roles
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types: [role-monitor]
   schedule:
     # GitHub may delay or drop scheduled events. Four staggered attempts per
     # hour make it much less likely that a short-lived posting is missed while
@@ -17,38 +19,55 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  monitor:
+  window:
+    name: Check monitor window
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-
+    timeout-minutes: 2
+    outputs:
+      run: ${{ steps.window.outputs.run }}
     steps:
       - name: Check weekday monitor window
         id: window
-        run: |
-          day=$(TZ=America/New_York date +%u)
-          hour=$(TZ=America/New_York date +%H)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$day" -le 5 ] && [ "$hour" -ge 9 ] && [ "$hour" -le 20 ]; }; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const now = new Date();
+            const parts = new Intl.DateTimeFormat('en-US', {
+              timeZone: 'America/New_York', weekday: 'short', hour: '2-digit', hourCycle: 'h23'
+            }).formatToParts(now);
+            const part = type => parts.find(p => p.type === type)?.value;
+            const inWindow = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'].includes(part('weekday'))
+              && Number(part('hour')) >= 9 && Number(part('hour')) < 20;
+            const run = context.eventName === 'workflow_dispatch' || inWindow;
+            core.setOutput('run', String(run));
+            core.info(run ? 'Monitor authorized for this run.' : 'Monitor skipped: outside weekday 09:00-20:00 (end exclusive) Eastern window.');
+            await core.summary.addHeading(run ? 'Monitor will run' : 'No scan performed')
+              .addTable([
+                [{data: 'Trigger', header: true}, context.eventName],
+                [{data: 'Checked at (UTC)', header: true}, now.toISOString()],
+                [{data: 'Allowed window', header: true}, 'Monday-Friday, 09:00-20:00 (end exclusive) America/New_York'],
+                [{data: 'Decision', header: true}, run ? 'Run scan' : 'Skip: arrived outside allowed hours']
+              ]).addRaw('Scheduled events can arrive late or be dropped by GitHub. A green window check is not a completed scan. Manual dispatch can run outside the window.').write();
 
+  monitor:
+    name: Scan and publish roles
+    needs: window
+    if: needs.window.outputs.run == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
       - name: Checkout
-        if: steps.window.outputs.run == 'true'
         uses: actions/checkout@v4
 
       - name: Setup Node
-        if: steps.window.outputs.run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Validate monitor parser
-        if: steps.window.outputs.run == 'true'
         run: npm run validate
 
       - name: Run monitor
-        if: steps.window.outputs.run == 'true'
         run: npm run monitor
         env:
           FETCH_TIMEOUT_MS: "10000"
@@ -71,12 +90,11 @@ jobs:
           STALE_AFTER_DAYS: "21"
 
       - name: Commit generated updates
-        if: steps.window.outputs.run == 'true'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md NEW_GRAD.md INTERNSHIPS.md new-grad internships data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json data/company_catalog.json data/notification_outbox.json docs/notifications/catalog.json
+          git add README.md NEW_GRAD.md INTERNSHIPS.md new-grad internships data/roles.json data/roles.csv data/latest_scan.json data/coverage.json data/source_discovery.json data/company_catalog.json
           if git diff --cached --quiet; then
             echo "No generated changes to commit."
             exit 0
@@ -98,9 +116,14 @@ jobs:
           echo "Unable to push generated updates after 3 attempts."
           exit 1
 
-      - name: Dispatch verified role notifications
-        if: steps.window.outputs.run == 'true'
-        run: npm run notify
+      - name: Report scan result
+        if: always()
         env:
-          NOTIFICATION_API_URL: ${{ secrets.NOTIFICATION_API_URL }}
-          NOTIFICATION_INGEST_SECRET: ${{ secrets.NOTIFICATION_INGEST_SECRET }}
+          MONITOR_STATUS: ${{ job.status }}
+        run: |
+          echo "## Scan result: $MONITOR_STATUS" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$MONITOR_STATUS" = "success" ]; then
+            node --input-type=module -e "import fs from 'node:fs'; const c = JSON.parse(fs.readFileSync('data/coverage.json')); fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, 'Scanned at: ' + c.scanned_at + '\n\nOfficial sources healthy: ' + c.ok_sources + '/' + c.unique_sources_attempted + '\n');"
+          else
+            echo "The scan or publication failed. The public board may still show an older scan; inspect the failed step." >> "$GITHUB_STEP_SUMMARY"
+          fi

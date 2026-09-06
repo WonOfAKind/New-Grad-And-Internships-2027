@@ -12,15 +12,17 @@ The monitor is a layered discovery and normalization pipeline.
 8. `monitor_company_roles.mjs` coordinates those modules and contains no provider parsing.
 9. `companies.mjs` validates canonical company metadata, aliases, parent relationships, the featured-company designation, and editable recommendation presets.
 
-After generation, `new-grad/` and `internships/` contain the discipline boards linked by `NEW_GRAD.md` and `INTERNSHIPS.md`. A role may appear in multiple discipline views, but remains one role in the totals and notification system.
-
-The optional notification path is deliberately separate from public board generation. The monitor writes a role outbox with no subscriber data; a secret-authenticated Supabase function matches it against double-opt-in preferences, records idempotent deliveries, and sends through Resend. Subscriber addresses never enter Git, generated artifacts, or browser-accessible Supabase tables.
+After generation, `new-grad/` and `internships/` contain the discipline boards linked by `NEW_GRAD.md` and `INTERNSHIPS.md`. A role may appear in multiple discipline views, but remains one role in the totals.
 
 Secondary-feed rows are published only after an official requisition check. The verifier requires provider-API confirmation for recognized Ashby, Greenhouse, Lever, and Workday URLs, detects soft 404 redirects on other sites, and periodically revalidates cached rows. Workday detail failures are checked against the authoritative search API by exact requisition ID. Unknown sites must expose a matching title or requisition ID in their page data. A feed listing, unchanged URL, or SPA shell alone is never treated as proof that a role remains open.
 
 New-grad eligibility requires employer evidence: explicit new-grad, graduate, or college-grad wording; an explicit 2027 graduation cycle in the title or posting; or a Summer 2027 start date. Generic early-career, entry-level, associate, Engineer I, and ordinary professional titles are discovery hints only and cannot qualify a row by themselves. Community-feed names and synthetic cycle labels are never accepted as employer evidence. Internship rows likewise require an explicit 2027 season or graduation window from the role or official posting.
 
 Cached roles that were not rediscovered in the current scan are also checked directly against recognized provider APIs before retention. This prevents older roles with incomplete source attribution from remaining merely because their original source is partial or ambiguous.
+
+New-grad degree checks target a first job after a bachelor's degree. A separate mandatory master's or doctorate cannot be overridden by an unrelated bachelor's mention. Genuine BS/MS alternatives and preferred graduate degrees are allowed. Required qualification sections are retained in `qualification_text` in the JSON/CSV data and rechecked when boards are generated, including cached roles. Deferred discovery checks preserve their previous verification version; only successful official checks advance it. Missing degree text is not proof of bachelor's eligibility.
+
+See [scheduled scan diagnostics](ACTIONS.md) for the observed GitHub scheduling gaps, time-window behavior, and independent dispatch fallback.
 
 Candidates from non-provider search indexes such as Phenom are verified against their destination ATS before publication. Provider-confirmed closures are removed, while temporarily unavailable provider checks are quarantined for that scan instead of being published optimistically.
 

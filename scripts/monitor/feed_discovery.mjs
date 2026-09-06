@@ -252,7 +252,7 @@ export function discoverySeedRejection(seed) {
   return "";
 }
 
-function seedToLead(seed, verifiedJob = null, cachedRole = null) {
+export function seedToLead(seed, verifiedJob = null, cachedRole = null) {
   const source = { company: seed.company, priority: "P1" };
   const parsed = verifiedJob && isRelevant(verifiedJob.title) ? verifiedJob : {
     title: seed.title,
@@ -261,6 +261,7 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
     url: seed.url,
   };
   const lead = htmlJobToLead(source, parsed);
+  if (!verifiedJob) lead.qualification_text = cachedRole?.qualification_text ?? "";
   lead.company = seed.company;
   lead.role_title = normalizeRoleTitle(parsed.title) || seed.title;
   lead.location = normalize(parsed.location) || seed.location;
@@ -283,7 +284,9 @@ function seedToLead(seed, verifiedJob = null, cachedRole = null) {
     : normalize(cachedRole?.verified_at) || new Date().toISOString();
   lead.source_id = `${normalizeCompanyName(seed.company).toLowerCase()}|discovery_feed`;
   lead.source_adapter = "discovery_feed";
-  lead.verification_version = discoveryVerificationVersion;
+  // Deferral is not verification. Keep the old version until an official
+  // requisition has actually passed the current policy.
+  lead.verification_version = verifiedJob ? discoveryVerificationVersion : Number(cachedRole?.verification_version) || 0;
   return lead;
 }
 
@@ -555,7 +558,11 @@ export async function scanDiscoveryFeeds(feeds, existingRoles = [], sourceHints 
       verificationQueue.push({ seed, existingRole });
     }
   }
-  verificationQueue.sort((a, b) => Number(Boolean(a.existingRole)) - Number(Boolean(b.existingRole))
+  // Recheck cached rows under an older policy before new discoveries during
+  // migrations, so the verification budget does not starve the existing board.
+  const verificationPriority = ({ existingRole }) => existingRole
+    && Number(existingRole.verification_version) !== discoveryVerificationVersion ? -1 : Number(Boolean(existingRole));
+  verificationQueue.sort((a, b) => verificationPriority(a) - verificationPriority(b)
     || Date.parse(b.seed.posted_at || "0") - Date.parse(a.seed.posted_at || "0"));
   const attempted = verificationQueue.slice(0, discoveryFeedVerifyLimit);
   const deferred = verificationQueue.slice(discoveryFeedVerifyLimit);

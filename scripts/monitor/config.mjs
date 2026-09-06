@@ -32,7 +32,7 @@ export const discoveryFeedConcurrency = envInteger("DISCOVERY_FEED_CONCURRENCY",
 export const discoveryFeedVerifyLimit = envInteger("DISCOVERY_FEED_VERIFY_LIMIT", 2000, { min: 1, max: 5000 });
 export const discoveryFeedTimeoutMs = envInteger("DISCOVERY_FEED_TIMEOUT_MS", 12000, { min: 1000, max: 120000 });
 export const discoveryFeedReverifyHours = envInteger("DISCOVERY_FEED_REVERIFY_HOURS", 24, { min: 1, max: 168 });
-export const discoveryVerificationVersion = 6;
+export const discoveryVerificationVersion = 7;
 export const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36";
 export const teslaStateUrl = "https://www.tesla.com/cua-api/apps/careers/state?site=US";
 export const supportedAdapters = new Set([

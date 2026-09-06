@@ -13,6 +13,8 @@ import {
   isFreshEnough,
   isProbablySenior,
   isRelevant,
+  hasIneligibleBachelorNewGradRequirements,
+  qualificationRequirementText,
   keyFor,
   normalizePostingDate,
   normalizeCompanyName,
@@ -52,6 +54,7 @@ import {
   renderRoleDates,
   renderRolePage,
   toPublicRole,
+  mergeRoles,
 } from "./output.mjs";
 import { closedPageReason, reconcileRoleLifecycle } from "./lifecycle.mjs";
 import { matchingJobPostingEvidence } from "./official_page.mjs";
@@ -73,6 +76,7 @@ import {
   providerDescriptorForSeed,
   validateDiscoveryFeeds,
   workdayRequisitionId,
+  seedToLead,
 } from "./feed_discovery.mjs";
 import {
   officialPageRejection,
@@ -196,6 +200,49 @@ export async function runSelfTests() {
     false,
     "graduate-degree-only minimum qualification rejected",
   );
+  const degreeCases = [
+    ["Minimum Qualifications: Bachelor's degree. Master's degree required.", true],
+    ["Minimum Qualifications: Master's degree required. Mentor students with a bachelor's degree.", true],
+    ["Minimum Qualifications: Bachelor's and master's degrees required.", true],
+    ["Minimum Qualifications: Master's degree in CS. Benefits: Support for bachelor's tuition.", true],
+    ["Minimum Qualifications: " + "Excellent communication skills. ".repeat(100) + "Master's degree required.", true],
+    ["<h2>Minimum Qualifications</h2><ul><li>Master&apos;s degree required.</li></ul>", true],
+    ["Minimum Qualifications: Master’s degree. Bachelor’s degree holders may apply with 3 years of experience.", true],
+    ["Qualifications: Bachelor's degree. Preferred Qualifications: Master's degree.", false],
+    ["Preferred Qualifications: Master's degree. Minimum Qualifications: Bachelor's degree.", false],
+    ["Requirements: Bachelor's degree. Master's in computer science preferred.", false],
+    ["Requirements: Bachelors degree or Masters degree in CS.", false],
+    ["Requirements: B.S./M.S. in engineering.", false],
+    ["Requirements: Bachelor's, master's or PhD in CS.", false],
+    ["Requirements: Bachelor's degree or higher in CS.", false],
+    ["Minimum Qualifications: Bachelor's or Master's degree required.", false],
+    ["Minimum Qualifications: Must have a master's or bachelor's degree.", false],
+    ["Minimum Qualifications: B.S. with 0 years of experience or M.S. with 0 years of experience.", false],
+    ["Minimum Qualifications: Master's in computer science preferred; Bachelor's required.", false],
+    ["Required Qualifications: MSc in computer science.", true],
+    ["Required Qualifications: Postgraduate degree in computer science.", true],
+    ["Requirements: Bachelor's degree. Knowledge of master data management.", false],
+  ];
+  for (const [requirements, rejected] of degreeCases) {
+    assertEqual(hasIneligibleBachelorNewGradRequirements(requirements), rejected,
+      `bachelor qualification policy: ${requirements.slice(0, 130)}`);
+  }
+  const multipleSections = "Minimum Qualifications: Bachelor's degree. Required Skills: C++ and Python. Preferred Qualifications: Master's degree.";
+  const savedRequirements = qualificationRequirementText(multipleSections);
+  assertEqual(qualificationRequirementText(savedRequirements), savedRequirements,
+    "repeated board generation does not duplicate requirement sections");
+  const cachedGraduateRole = toPublicRole({ company: "Example", title: "Software Engineer, New Grad",
+    location: "Boston, MA", url: "https://example.com/jobs/1234", description: degreeCases[0][0] }, "2026-09-06");
+  assertEqual(cachedGraduateRole.qualification_text.includes("Master's degree required"), true,
+    "public data retains official qualification evidence");
+  assertEqual(mergeRoles([cachedGraduateRole], [], "2026-09-06").length, 0,
+    "regenerating boards removes cached master's-only roles");
+  const cachedSeed = seedToLead({ company: "Example", title: "Software Engineer, New Grad",
+    location: "Boston, MA", url: "https://example.com/jobs/1234" }, null,
+    { ...cachedGraduateRole, verification_version: 6, verified_at: "2026-09-04T12:00:00Z" });
+  assertEqual(cachedSeed.verification_version, 6, "deferred old verification cannot become current");
+  assertEqual(cachedSeed.qualification_text, cachedGraduateRole.qualification_text,
+    "cached feed rows retain their degree requirements");
   assertEqual(
     isEligibleRole(
       "Associate Staff Quantum Engineer",

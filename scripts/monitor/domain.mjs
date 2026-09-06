@@ -286,16 +286,18 @@ export function hasExcludedDegreeProgram(title) {
   return excludedDegreeProgramPatterns.some((pattern) => pattern.test(title)) && !hasBachelorEligibility;
 }
 
-const bachelorDegreeToken = String.raw`(?:bachelor(?:'s|\s+of\s+(?:science|arts|engineering))?(?:\s+degree)?|baccalaureate(?:\s+degree)?|B\.?\s?(?:S|A|E)\.?(?:\s+degree)?)`;
-const graduateDegreeToken = String.raw`(?:master(?:'s|s|\s+of\s+(?:science|arts|engineering|business\s+administration))?(?:\s+degree)?|M\.?\s?(?:S|A|E|B\.?\s?A)\.?(?:\s+degree)?|Ph\.?\s?D\.?(?:\s+degree)?|doctorate|doctoral\s+degree|graduate\s+degree|advanced\s+degree)`;
+const bachelorDegreeToken = String.raw`(?:bachelor(?:'?s|\s+of\s+(?:science|arts|engineering))?(?:\s+degree)?|baccalaureate(?:\s+degree)?|B\.?\s?(?:Sc|Eng|S|A|E)\.?(?:\s+degree)?)`;
+const graduateDegreeToken = String.raw`(?:master(?:(?:'s|s)(?:\s+degree)?|\s+of\s+(?:science|arts|engineering|business\s+administration)|\s+degree)|M\.?\s?(?:S|A|E|B\.?\s?A)\.?(?:\s+degree)?|Ph\.?\s?D\.?(?:\s+degree)?|M\.?\s?Sc\.?(?:\s+degree)?|doctorate|doctoral\s+degree|postgraduate\s+degree|graduate\s+degree|advanced\s+degree)`;
 const experienceNumberToken = String.raw`(?:\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)`;
 
 export function qualificationRequirementText(value) {
-  const text = normalizeDisplayText(value).replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
+  const text = normalizeDisplayText(value)
+    .replace(/&apos;/gi, "'").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
+    .replace(/<[^>]*>/g, " ").replace(/[\u2018\u2019]/g, "'").replace(/\s+/g, " ").trim();
   if (!text) return "";
   const strongHeadingPattern = /\b(?:Minimum\s+(?:Qualifications?|Requirements?)|Required\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Basic\s+(?:Qualifications?|Requirements?)|Job\s+Requirements?|What\s+You(?:'ll|\s+Will)\s+Bring|What\s+We(?:'re|\s+Are)\s+Looking\s+For|Who\s+You\s+Are|You\s+(?:Have|Bring))\b/gi;
   const genericHeadingPattern = /\b(?:Qualifications?|Requirements?|Education)\b/gi;
-  const stops = /\b(?:Preferred\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Desired\s+(?:Qualifications?|Requirements?|Skills?|Experience)|Nice\s+to\s+Have|Recent\s+Graduate\s+Hiring\s+Range|Experienced\s+Hiring\s+Range|Disclaimer)\b/i;
+  const stops = /\b(?:Preferred\s+(?:Qualifications?|Requirements?|Skills?|Experience|Education)|Desired\s+(?:Qualifications?|Requirements?|Skills?|Experience|Education)|Nice\s+to\s+Have|Recent\s+Graduate\s+Hiring\s+Range|Experienced\s+Hiring\s+Range|Benefits|Disclaimer)\b/i;
   const strongStarts = [...text.matchAll(strongHeadingPattern)].map((match) => match.index).filter((index) => index !== undefined);
   // Once a page exposes an explicit required/minimum/basic section, do not
   // append every later generic occurrence of words such as "education" or
@@ -304,13 +306,16 @@ export function qualificationRequirementText(value) {
   // required master's or Ph.D.
   const starts = strongStarts.length > 0
     ? strongStarts
-    : [...text.matchAll(genericHeadingPattern)].map((match) => match.index).filter((index) => index !== undefined);
-  if (starts.length === 0) return text;
-  return starts.map((start) => {
-    const window = text.slice(start, start + 2400);
+    : [...text.matchAll(genericHeadingPattern)].map((match) => match.index)
+      .filter((index) => index !== undefined && !/\b(?:preferred|desired)\s+$/i.test(text.slice(0, index)));
+  if (starts.length === 0) return text.split(stops)[0];
+  return starts.map((start, index) => {
+    // Do not truncate long qualification lists before their degree requirement.
+    // Each section appears once, including when saved evidence is parsed again.
+    const window = text.slice(start, starts[index + 1] ?? text.length);
     const stop = window.search(stops);
     return stop < 0 ? window : window.slice(0, stop);
-  }).join(" ");
+  }).join(" ").replace(/\s+/g, " ").trim();
 }
 
 function requiredExperienceYears(value) {
@@ -371,22 +376,35 @@ export function hasIneligibleBachelorNewGradRequirements(text = "") {
   if (requiredYears.some((years) => years >= 1)) return true;
 
   const preferencePattern = new RegExp(
-    `(?:${graduateDegreeToken})\\s*(?:is\\s+)?(?:preferred|desired|a\\s+plus|an\\s+advantage|not\\s+required)\\b|\\b(?:preferred|desired)\\b(?:\\s+qualifications?)?\\s*[:\\-]?\\s*(?:an?\\s+)?(?:${graduateDegreeToken})`,
+    `(?:${graduateDegreeToken})(?:\\s+in\\s+[^.;,]{1,100}?)?\\s*(?:is\\s+)?(?:preferred|desired|a\\s+plus|an\\s+advantage|not\\s+required)\\b|\\b(?:preferred|desired)\\b(?:\\s+qualifications?)?\\s*[:\\-]?\\s*(?:an?\\s+)?(?:${graduateDegreeToken})`,
     "gi",
   );
   const requiredDegreeText = requirements.replace(preferencePattern, " ");
   const graduatePattern = new RegExp(`\\b${graduateDegreeToken}\\b\\.?`, "i");
   if (!graduatePattern.test(requiredDegreeText)) return false;
 
-  const bachelorPattern = new RegExp(`\\b${bachelorDegreeToken}\\b\\.?`, "i");
-  if (!bachelorPattern.test(requiredDegreeText)) return true;
+  // A bachelor's mention in benefits, mentoring, or a separate requirement is
+  // not an alternative to a mandatory graduate degree. Resolve degree choices
+  // within a clause, keeping abbreviation dots out of sentence boundaries.
+  const bachelorPattern = new RegExp(`\\b${bachelorDegreeToken}\\b\\.?`, "gi");
+  const graduateChoices = new RegExp(`\\b${graduateDegreeToken}\\b\\.?`, "gi");
+  const degreeClauses = requiredDegreeText
+    .replace(bachelorPattern, "BACHELOR_DEGREE")
+    .replace(graduateChoices, "GRADUATE_DEGREE")
+    .split(/[.;\n]+/);
+  for (const clause of degreeClauses.filter((part) => part.includes("GRADUATE_DEGREE"))) {
+    const choice = /BACHELOR_DEGREE[^.;]{0,160}?(?:\bor\b|\/)\s*[^.;]{0,60}?GRADUATE_DEGREE|GRADUATE_DEGREE[^.;]{0,160}?(?:\bor\b|\/)\s*[^.;]{0,60}?BACHELOR_DEGREE/i;
+    if (!choice.test(clause)) return true;
 
+  }
+
+  const positiveExperienceNumberToken = String.raw`(?:[1-9]\d?|one|two|three|four|five|six|seven|eight|nine|ten)`;
   const bachelorExperienceAfter = new RegExp(
-    `\\b${bachelorDegreeToken}\\b\\.?[^.;]{0,180}?\\b${experienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?`,
+    `\\b${bachelorDegreeToken}\\b\\.?[^.;]{0,180}?\\b${positiveExperienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?`,
     "i",
   );
   const bachelorExperienceBefore = new RegExp(
-    `\\b${experienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?[^.;]{0,140}?\\b${bachelorDegreeToken}\\b\\.?`,
+    `\\b${positiveExperienceNumberToken}(?:\\s*(?:\\+|[-\\u2013\\u2014]\\s*\\d{1,2}\\+?)|\\s+or\\s+more)?\\s+years?[^.;]{0,140}?\\b${bachelorDegreeToken}\\b\\.?`,
     "i",
   );
   const bachelorExtensiveExperience = new RegExp(
@@ -598,7 +616,7 @@ export function priorityFor(title, sourcePriority) {
 
 export function isFreshEnough(lead) {
   const title = roleTitle(lead);
-  const evidence = [lead.description, lead.graduation_match, lead.grad_window, lead.season_hint]
+  const evidence = [lead.description, lead.qualification_text, lead.graduation_match, lead.grad_window, lead.season_hint]
     .map(normalize)
     .filter((value) => !/^(?:2027 (?:new grad recruiting|internship) cycle|early career|internship|new grad or university grad)$/i.test(value));
   const context = evidence.join("\n");

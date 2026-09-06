@@ -109,6 +109,7 @@ export function oracleJobToLead(source, job) {
     company: source.company,
     role_title: title,
     location,
+    description: content,
     resume_choice: resumeChoice,
     priority: priorityFor(title, source.priority),
     direct_apply_url: url,

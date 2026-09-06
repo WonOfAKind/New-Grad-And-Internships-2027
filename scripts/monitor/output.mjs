@@ -13,18 +13,19 @@ import {
   dateOnly,
   disciplineName,
   keyFor,
+  hasExcludedDegreeProgram,
+  hasIneligibleBachelorNewGradRequirements,
   normalize,
   normalizeCompanyName,
   normalizeDisplayText,
   normalizePostingDate,
   roleTitle,
   roleType,
+  qualificationRequirementText,
   specialtiesFor,
 } from "./domain.mjs";
 import { isHttpUrl } from "./http.mjs";
 import { companyDetails, featuredLegend } from "./companies.mjs";
-
-const notificationSiteUrl = "https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/";
 
 export function flattenLogs(results) {
   return results.flatMap((result) => Array.isArray(result.log) ? result.log : [result.log]);
@@ -144,6 +145,7 @@ export function toPublicRole(lead, scannedAt, { seenNow = true } = {}) {
     specialties: specialtiesFor(title),
     compensation: normalize(lead.compensation),
     grad_window: gradWindow,
+    qualification_text: qualificationRequirementText(lead.qualification_text ?? lead.description ?? ""),
     url,
     source: normalize(lead.career_source_url) || normalize(lead.source) || url,
     date_seen: firstSeen,
@@ -178,6 +180,7 @@ export function mergeRoles(existing, candidates, scannedAt) {
       date_seen: existingRole?.date_seen || role.date_seen,
       posted_at: role.posted_at || existingRole?.posted_at || "",
       expires_at: role.expires_at || existingRole?.expires_at || "",
+      qualification_text: role.qualification_text || existingRole?.qualification_text || "",
       source_id: role.source_id || existingRole?.source_id || "",
       source_adapter: role.source_adapter || existingRole?.source_adapter || "",
       discovered_via: role.discovered_via || existingRole?.discovered_via || "",
@@ -187,7 +190,9 @@ export function mergeRoles(existing, candidates, scannedAt) {
       last_seen: dateOnly(scannedAt),
     });
   }
-  return [...byKey.values()].sort(compareRoles);
+  return [...byKey.values()].filter((role) => role.role_type !== "New Grad"
+    || (!hasExcludedDegreeProgram(role.title)
+      && !hasIneligibleBachelorNewGradRequirements(role.qualification_text))).sort(compareRoles);
 }
 
 export function assertBoardIntegrity(roles) {
@@ -199,6 +204,10 @@ export function assertBoardIntegrity(roles) {
     }
     if (role.role_type === "New Grad" && roleType(role.title, "") === "Internship") {
       throw new Error(`Internship leaked into New Grad board: ${role.company} - ${role.title}`);
+    }
+    if (role.role_type === "New Grad" && (hasExcludedDegreeProgram(role.title)
+      || hasIneligibleBachelorNewGradRequirements(role.qualification_text))) {
+      throw new Error(`Graduate-only or experienced role leaked into New Grad board: ${role.company} - ${role.title}`);
     }
     if (!Array.isArray(role.disciplines) || role.disciplines.length === 0
       || role.disciplines.some((discipline) => !validDisciplines.has(discipline))) {
@@ -253,7 +262,7 @@ export function csvEscape(value) {
 }
 
 export function rolesToCsv(roles) {
-  const columns = ["role_id", "company_id", "company", "featured_company", "featured_disciplines", "title", "location", "role_type", "discipline", "disciplines", "specialties", "compensation", "grad_window", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
+  const columns = ["role_id", "company_id", "company", "featured_company", "featured_disciplines", "title", "location", "role_type", "discipline", "disciplines", "specialties", "compensation", "grad_window", "qualification_text", "url", "source", "discovered_via", "verification_status", "verified_at", "verification_version", "date_seen", "last_seen", "posted_at", "expires_at", "source_id", "source_adapter", "updated_at", "priority"];
   return [
     columns.join(","),
     ...roles.map((role) => columns.map((column) => csvEscape(Array.isArray(role[column]) ? role[column].join(";") : role[column])).join(",")),
@@ -386,7 +395,7 @@ export function renderReadme(roles, coverage, freshCount) {
   const internshipCount = roles.filter((role) => role.role_type === "Internship").length;
   return `# New Grad and Internship Roles 2027
 
-Public, GitHub Actions-powered tracker for 2027 new grad and internship roles.
+Public, GitHub Actions-powered tracker for bachelor's graduates in the class of 2027 and 2027 internship roles.
 
 Tracked disciplines:
 
@@ -395,8 +404,6 @@ ${boardDisciplines.map((discipline) => `- ${discipline.name}`).join("\n")}
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
 [Contributors](CONTRIBUTORS.md)
-
-[Get company-specific email notifications](${notificationSiteUrl})
 
 Last updated: ${formatReadmeTimestamp(coverage.scanned_at)}
 
@@ -435,6 +442,8 @@ Secondary discovery feeds healthy: ${coverage.discovery_feeds?.feeds_ok ?? 0}/${
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
+- New-grad roles must allow a first job after a bachelor's degree. Required master's, PhD, and experienced-bachelor's alternatives are excluded; a preferred master's or a genuine BS/MS choice is allowed. A new-grad title alone does not establish degree eligibility.
+- Graduation labels describe recruiting-cycle evidence, not a guarantee that every applicant qualifies. Roles without published degree requirements still need an individual check.
 - New-grad rows must explicitly identify a new-grad/graduate/college-grad role, name the 2027 graduation cycle, state a Summer 2027 start, or combine a level-one title with explicit early-career and bachelor's eligibility on the official posting. Generic early-career, entry-level, and level-one wording does not qualify by itself.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
 - Curated 2027 community lists are used only as secondary discovery inputs. Their cycle labels are not eligibility evidence. A row is published only with an individual employer/ATS requisition URL, and unseen URLs must pass a live official-page check first.

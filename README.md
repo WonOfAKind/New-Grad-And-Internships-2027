@@ -1,6 +1,6 @@
 # New Grad and Internship Roles 2027
 
-Public, GitHub Actions-powered tracker for 2027 new grad and internship roles.
+Public, GitHub Actions-powered tracker for bachelor's graduates in the class of 2027 and 2027 internship roles.
 
 Tracked disciplines:
 
@@ -18,8 +18,6 @@ Tracked disciplines:
 This board is generated from official company career pages and ATS pages where possible. It is intended for discovery only; always verify the posting on the company site before applying.
 
 [Contributors](CONTRIBUTORS.md)
-
-[Get company-specific email notifications](https://wonofakind.github.io/New-Grad-And-Internships-2027/notifications/)
 
 Last updated: September 4, 2026 at 8:04 PM EDT
 
@@ -58,6 +56,8 @@ Secondary discovery feeds healthy: 7/7
 - This repository does not submit applications.
 - Personal application status, resumes, and private notes should not be committed here.
 - Salary/hourly data is extracted only when the official posting text exposes it.
+- New-grad roles must allow a first job after a bachelor's degree. Required master's, PhD, and experienced-bachelor's alternatives are excluded; a preferred master's or a genuine BS/MS choice is allowed. A new-grad title alone does not establish degree eligibility.
+- Graduation labels describe recruiting-cycle evidence, not a guarantee that every applicant qualifies. Roles without published degree requirements still need an individual check.
 - New-grad rows must explicitly identify a new-grad/graduate/college-grad role, name the 2027 graduation cycle, state a Summer 2027 start, or combine a level-one title with explicit early-career and bachelor's eligibility on the official posting. Generic early-career, entry-level, and level-one wording does not qualify by itself.
 - New ATS sources, official job links, JSON-LD, and job sitemaps are discovered and cached automatically.
 - Curated 2027 community lists are used only as secondary discovery inputs. Their cycle labels are not eligibility evidence. A row is published only with an individual employer/ATS requisition URL, and unseen URLs must pass a live official-page check first.

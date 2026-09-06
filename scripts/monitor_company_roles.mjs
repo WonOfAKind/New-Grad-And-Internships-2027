@@ -71,19 +71,15 @@ const scanOutputPath = path.join(dataDir, "latest_scan.json");
 const coverageOutputPath = path.join(dataDir, "coverage.json");
 const csvOutputPath = path.join(dataDir, "roles.csv");
 const companyCatalogPath = path.join(dataDir, "company_catalog.json");
-const notificationOutboxPath = path.join(dataDir, "notification_outbox.json");
 const readmePath = path.join(rootDir, "README.md");
 const newGradPath = path.join(rootDir, "NEW_GRAD.md");
 const internshipsPath = path.join(rootDir, "INTERNSHIPS.md");
 const newGradDir = path.join(rootDir, "new-grad");
 const internshipsDir = path.join(rootDir, "internships");
-const notificationsDocsDir = path.join(rootDir, "docs", "notifications");
-const notificationCatalogPath = path.join(notificationsDocsDir, "catalog.json");
 
 await fs.mkdir(dataDir, { recursive: true });
 await fs.mkdir(newGradDir, { recursive: true });
 await fs.mkdir(internshipsDir, { recursive: true });
-await fs.mkdir(notificationsDocsDir, { recursive: true });
 const targets = await readJson(targetPath, []);
 const companyMetadata = await readJson(companyMetadataPath, { companies: [], recommendation_presets: [] });
 const atsSources = await readJson(sourcePath, []);
@@ -148,7 +144,8 @@ const providerCandidateChecks = await mapConcurrent(
         };
       }
       return {
-        lead: verifiedJob?.url ? { ...lead, direct_apply_url: verifiedJob.url } : lead,
+        lead: { ...lead, role_title: officialTitle, description: verifiedJob.description,
+          direct_apply_url: verifiedJob.url || applyUrl(lead) },
         original_url: applyUrl(lead),
         status: "active",
         error: "",
@@ -191,14 +188,15 @@ const inactiveProviderChecks = await mapConcurrent(
       const verifiedJob = await verifyKnownProvider(role, runtimeSources, discoveryFeedTimeoutMs, providerVerificationCache);
       const officialTitle = roleTitle({ title: verifiedJob?.title ?? roleTitle(role) });
       const officialContext = `${verifiedJob?.location ?? role.location ?? ""}\n${verifiedJob?.description ?? ""}\n${verifiedJob?.url ?? applyUrl(role)}`;
-      if (role.role_type === "New Grad" && !isEligibleRole(officialTitle, officialContext)) {
+      if (!isEligibleRole(officialTitle, officialContext)) {
         return {
           role,
           status: "ineligible",
           error: "official qualifications do not match the bachelor's new-grad policy",
         };
       }
-      return { role, status: "active", error: "" };
+      return { role: { ...role, title: officialTitle, qualification_text: verifiedJob.description,
+        verification_version: discoveryVerificationVersion, verified_at: scannedAt }, status: "active", error: "" };
     } catch (error) {
       return {
         role,
@@ -298,9 +296,9 @@ const coverage = {
       && !discovery.state.companies[target.company.toLowerCase()])
     .map((target) => target.company),
 };
-const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt));
-const notificationFreshLeads = allFreshLeads.map((lead) => toPublicRole(lead, scannedAt));
-const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scannedAt)
+const refreshedRetainedRoles = lifecycle.roles.map((role) => inactiveProviderChecks
+  .find((check) => check.status === "active" && applyUrl(check.role) === applyUrl(role))?.role ?? role);
+const updatedLeads = mergeRoles(refreshedRetainedRoles, boardEligibleCandidates, scannedAt)
   .filter((role) => isRecentlySeen(role, scannedAt))
   .filter(isAllowedLocation)
   .filter((role) => !isCareerLandingPageUrl(applyUrl(role)))
@@ -310,20 +308,14 @@ const updatedLeads = mergeRoles(lifecycle.roles, boardEligibleCandidates, scanne
   .filter((role) => role.priority !== "P2");
 assertBoardIntegrity(updatedLeads);
 const currentRoleIds = new Set(updatedLeads.map((role) => role.role_id));
-const notificationRoles = notificationFreshLeads.filter((role) => currentRoleIds.has(role.role_id));
+const publicFreshLeads = freshLeads.map((lead) => toPublicRole(lead, scannedAt))
+  .filter((role) => currentRoleIds.has(role.role_id));
 const companyCatalog = publicCompanyCatalog(targets);
 companyCatalog.generated_at = scannedAt;
 await fs.writeFile(roleDataPath, `${JSON.stringify(updatedLeads, null, 2)}\n`, "utf8");
 await fs.writeFile(discoveryPath, `${JSON.stringify(discovery.state, null, 2)}\n`, "utf8");
 await fs.writeFile(csvOutputPath, rolesToCsv(updatedLeads), "utf8");
 await fs.writeFile(companyCatalogPath, `${JSON.stringify(companyCatalog, null, 2)}\n`, "utf8");
-await fs.writeFile(notificationCatalogPath, `${JSON.stringify(companyCatalog, null, 2)}\n`, "utf8");
-await fs.writeFile(notificationOutboxPath, `${JSON.stringify({
-  scan_id: scannedAt,
-  generated_at: scannedAt,
-  companies: companyCatalog.companies,
-  roles: notificationRoles,
-}, null, 2)}\n`, "utf8");
 await fs.writeFile(scanOutputPath, `${JSON.stringify({
   scanned_at: scannedAt,
   fresh_leads: publicFreshLeads,

@@ -1,6 +1,6 @@
 # Discipline Coverage
 
-The monitor uses multi-label categories: a spacecraft avionics role can appear in Aerospace and Hardware/Electrical, while a structures role can appear in Aerospace and Mechanical. This improves field-specific discovery without duplicating the underlying role or its notification identity.
+The monitor uses multi-label categories: a spacecraft avionics role can appear in Aerospace and Hardware/Electrical, while a structures role can appear in Aerospace and Mechanical. This improves field-specific discovery without duplicating the underlying role or its stable identity.
 
 ## Maintained title vocabulary
 
@@ -27,4 +27,4 @@ Curated structured sources include Northrop Grumman, BAE Systems, GE Aerospace, 
 
 The fire emoji is discipline-specific. It means a company is a curated standout for the category currently being viewed, using industry scale, technical reputation, and established early-career programs; it is not a universal company ranking. For example, Palantir is marked on Software Engineering pages, while Northrop Grumman is marked on Aerospace and Mechanical pages but not Software Engineering pages. `data/company_metadata.json` is the sole source for the designation.
 
-Recommendation presets cover Software, AI/ML, Data, Product Management, Aerospace, Mechanical, Hardware/Electrical, and Manufacturing/Industrial employers. They are starting points only: the notification UI selects nothing by default, and users can add or remove any company before opting in.
+Recommendation presets cover Software, AI/ML, Data, Product Management, Aerospace, Mechanical, Hardware/Electrical, and Manufacturing/Industrial employers. They group employers in the public company catalog for field-specific discovery.
