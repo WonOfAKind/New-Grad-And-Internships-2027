@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 7, 2026 at 2:20 PM EDT
+Last updated: September 7, 2026 at 5:43 PM EDT
 
 Current roles in this view: 28
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
 | 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Quality Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01855187/Leadership-Development-Program-Operations-Quality-Engineering-Track-Starts-June-2027>) |
+| 🔥 Blue Origin | Materials and Processes Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL | $81,313.00 - $113,837.85 | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Materials-and-Processes-Engineer-I---Early-Career--2027-Starts-_R71708>) |
 | 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1426956200>) |
 | Airbus | Manufacturing Engineer I (A220) - 2nd Shift | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 2, 2026<br>First seen Sep 2, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--A220----2nd-Shift_JR10436782>) |
 | Airbus | AGGP 2027 - Graduate Manufacturing Engineer, X-Plant | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP-2027---Graduate-Manufacturing-Engineer--X-Plant_JR10429810>) |
@@ -38,6 +39,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Freeform | Manufacturing Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895758003>) |
 | Freeform | Process Engineer (New Grad Summer 2027) | Los Angeles, CA (On-site) | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 19, 2026 | [Apply](<https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895822003>) |
 | Whirlpool | Manufacturing Controls Engineering LDP - Full Time | Columbus, OH, US | - | 2027 grad eligible | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://jobs.whirlpool.com/careers/job/34403012880-manufacturing-controls-engineering-ldp-full-time-columbus-ohio-usa>) |
-| Solar Turbines | 2027 Entry Level Gas Turbine Product Engineer (GTPE) | San Diego, California | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Sep 4, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | 🔥 Anduril | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136970007>) |
 
