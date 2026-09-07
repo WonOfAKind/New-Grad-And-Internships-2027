@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 7, 2026 at 5:43 PM EDT
+Last updated: September 7, 2026 at 7:53 PM EDT
 
 Current roles in this view: 19
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Software Engineer; Data Scientist; Ontologist – Threat Analytic Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59849>) |
+| Crowdstrike | Engineer 1 New Grad - Data Scientist | Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Sep 1, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Advanced Kinetic Weapons Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59882>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Data Analyst - Engagement Optimization | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59507>) |
 | National Software Management | Entry Level Data Analyst / Business Analyst | Jersey City, New Jersey, United States | - | Early career | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269-entry-level-data-analyst-business-analyst>) |
@@ -30,5 +31,4 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7668512600592812293>) |
 | TikTok | Data Scientist Graduate (TikTok-Search) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669658702904871173>) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Sep 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
-| CrowdStrike | Engineer I, Data Scientist - New Grad (Hybrid) | USA - Sunnyvale, CA | $90,000 - $125,000 per year | Explicit new grad role | Posted Jul 21, 2026<br>First seen Jul 20, 2026 | [Apply](<https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1>) |
 
