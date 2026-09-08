@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 7, 2026 at 7:53 PM EDT
+Last updated: September 8, 2026 at 11:00 AM EDT
 
-Current roles in this view: 66
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -33,7 +33,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - AI/ML Research Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59548>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7678145401619237173>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS - Artificial Intelligence and Complex Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59664>) |
-| Peraton | Junior Level Modeling, Simulation, and Analysis Engineer | VA | $86,000 - $138,000 | Early career | Posted Aug 21, 2026<br>First seen Sep 7, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-modeling-simulation-and-analysis-engineer-chantilly-virginia-169907-jobs--engineering-->) |
+| Peraton | Junior Level Modeling, Simulation, and Analysis Engineer | VA | $86,000 - $138,000 | Early career | Posted Aug 21, 2026<br>First seen Sep 8, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-modeling-simulation-and-analysis-engineer-chantilly-virginia-169907-jobs--engineering-->) |
 | Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675844938504702213>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675843332462872885>) |
@@ -49,6 +49,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672532275557583157>) |
 | TikTok | Software Engineer Graduate (TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672517471946000645>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 7, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Graduate (Data-Arch-TikTok Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876337129425205>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285495593273605>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285949553707317>) |
