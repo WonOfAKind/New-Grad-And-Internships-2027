@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 1:22 PM EDT
+Last updated: September 8, 2026 at 4:04 PM EDT
 
-Current roles in this view: 32
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,12 +13,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer or RF Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59975>) |
+| Northrop Grumman | 2027 Associate Electrical Engineer / Electrical Engineer - Roy UT | United States-Utah-Roy | $65,800- $98,800 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer---Roy-UT_R10249846>) |
 | Pratt &amp; Whitney | Summer 2027 Systems Intern_(OnSite) | huntsville, Alabama, United States of America | - | Early career | Posted Sep 7, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867391/Summer-2027-Systems-Intern-OnSite>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59881>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Sep 5, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | GE Vernova | GE Vernova Nuclear Edison Engineering Development Program - US 2027 | Wilmington NC USA | $75,000.00 | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Edison-Engineering-Development-Program---US-2027_R5045476-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59503>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59953>) |
+| Motorola Solutions | Junior Field Applications Engineer | Reston, VA (VA58) | - | Explicit new grad role | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Reston-VA--VA58/Junior-Field-Applications-Engineer_R68521>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 8, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59797>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59771>) |
@@ -29,7 +31,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Resideo | Firmware Engineer 1 | Aurora, IL | - | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zone 5 Technologies | Embedded Software Engineer 1/2 | San Luis Obispo, CA | $95,000 - $139,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008>) |
-| Abbott | Engineer I, Product Analysis | United States - California - Sylmar | $73,900.00 - $116,000.00 | Verified early career (BS) | Posted Aug 26, 2026<br>First seen Sep 7, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Engineer-I--Product-Analysis_31159398-1>) |
 | Boeing | DSP Algorithms Engineer (Associate or Mid-Level) | USA - El Segundo, CA | $98,600 - $133,400 | Verified early career (BS) | Posted Aug 25, 2026<br>First seen Sep 7, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Algorithms-Engineer--Associate-or-Mid-Level-_JR2026512386-1>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Aug 25, 2026<br>First seen Aug 26, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area; Central Texas; Bay Area, CA | $129,032.00 - $180,644.10 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802>) |

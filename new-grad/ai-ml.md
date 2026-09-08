@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 1:22 PM EDT
+Last updated: September 8, 2026 at 4:04 PM EDT
 
 Current roles in this view: 71
 
@@ -15,7 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670351062847260981>) |
 | TikTok | Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670331433437956405>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59503>) |
-| The MIL Corporation | Hiring AI Developer (Software Engineering, Junior Analyst), CSC - CBD - Washington, DC | Washington, DC | $80,000 - $103,000 per year | Early career | Posted Sep 4, 2026<br>First seen Sep 8, 2026 | [Apply](<https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?cws=38&org=MILCORP&rid=16305>) |
+| The MIL Corporation | Hiring AI Developer (Software Engineering, Junior Analyst), CSC - CBD - Tysons Corner, VA | Washington, DC | $80,000 - $103,000 per year | Early career | Posted Sep 4, 2026<br>First seen Sep 8, 2026 | [Apply](<https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?cws=38&org=MILCORP&rid=16305>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Intelligent Autonomous Systems Development, Test and Artificial Intelligence (AI) | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59691>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59797>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Sep 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |

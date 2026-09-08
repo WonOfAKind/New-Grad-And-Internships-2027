@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 1:22 PM EDT
+Last updated: September 8, 2026 at 4:04 PM EDT
 
-Current roles in this view: 64
+Current roles in this view: 66
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Aerospace Modeling &amp; Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59982>) |
 | 🔥 Northrop Grumman | 2027 Associate Systems Safety Engineer - Roy UT | United States-Utah-Roy | $ 65,800 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Systems-Safety-Engineer---Roy-UT_R10249776-1>) |
+| 🔥 Northrop Grumman | 2027 Associate Test Engineer / Test Engineer - Roy UT | United States-Utah-Roy | $59,900 - $89,900 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Test-Engineer---Test-Engineer---Roy-UT_R10249877-1>) |
+| Sierra Space | Test Engineer I | Louisville, CO | $73,175.00 - $100,615.25 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Test-Engineer-I_R26200-1>) |
 | 🔥 Gulfstream Aerospace | Human Factors Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Sep 7, 2026<br>First seen Sep 8, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Human-Factors-Engineer-I-GA-31401/1427325700>) |
 | 🔥 Pratt &amp; Whitney | Summer 2027 Systems Intern_(OnSite) | huntsville, Alabama, United States of America | - | Early career | Posted Sep 7, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01867391/Summer-2027-Systems-Intern-OnSite>) |
 | The Aerospace Corporation | 2027 System of Systems Engineer | Chantilly, VA; El Segundo, CA; Colorado Springs, CO | $80,000.00 - $90,000.00 | 2027 grad eligible | Posted Sep 7, 2026<br>First seen Sep 7, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/XMLNAME-2027-System-of-Systems-Engineer_R016464>) |

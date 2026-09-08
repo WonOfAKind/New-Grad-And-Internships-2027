@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 1:22 PM EDT
+Last updated: September 8, 2026 at 4:04 PM EDT
 
-Current roles in this view: 29
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Operations Engineering MHE Lifecycle Spring and Summer 2027 (Bellevue, WA ) | US, WA, Bellevue | - | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-spring-and-summer-2027-bellevue-wa>) |
 | 🔥 Northrop Grumman | 2027 Associate Industrial Engineer/ Industrial Engineer - Roy UT | United States-Utah-Roy | $72,100 - $ 108,100 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Industrial-Engineer--Industrial-Engineer---Roy-UT_R10249787>) |
 | 🔥 Northrop Grumman | 2027 Associate Industrial Engineer/ Industrial Engineer - Roy UT | United States-Utah-Roy | $72,100 - $ 108,100 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Industrial-Engineer--Industrial-Engineer---Roy-UT_R10249784>) |
+| 🔥 Northrop Grumman | 2027 Associate Material Process Engineer / Material Process Engineer - Roy UT | United States-Utah-Roy | $59,900 - $89,900 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Material-Process-Engineer---Material-Process-Engineer---Roy-UT_R10249881>) |
+| 🔥 ExxonMobil | Process Engineer - Students Seeking Opportunities - Sarnia (Sarnia, ON, CA, N7T 7M5) | Sarnia, ON, CA, N7T 7M5 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Sep 8, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Sarnia-Process-Engineer-Students-Seeking-Opportunities-Sarnia-ON-N7T-7M5/1424440500>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 8, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 ExxonMobil | Upstream Mine/Plant Automation Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MinePlant-Automation-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423296400>) |
 | 🔥 Pratt &amp; Whitney | Leadership Development Program – Operations, Manufacturing &amp; Industrial Engineering Track (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Sep 5, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers.rtx.com/de/de/job/01855283/Leadership-Development-Program-Operations-Manufacturing-Industrial-Engineering-Track-Starts-June-2027>) |

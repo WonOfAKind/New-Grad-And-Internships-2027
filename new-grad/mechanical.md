@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 1:22 PM EDT
+Last updated: September 8, 2026 at 4:04 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Northrop Grumman | 2027 Associate Test Engineer / Test Engineer - Roy UT | United States-Utah-Roy | $59,900 - $89,900 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Test-Engineer---Test-Engineer---Roy-UT_R10249877-1>) |
+| Sierra Space | Test Engineer I | Louisville, CO | $73,175.00 - $100,615.25 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Test-Engineer-I_R26200-1>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Sep 5, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | GE Vernova | GE Vernova Nuclear Edison Engineering Development Program - US 2027 | Wilmington NC USA | $75,000.00 | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Edison-Engineering-Development-Program---US-2027_R5045476-1>) |
 | Amentum | Entry Level Radiation Test Engineer | Crane, Indiana, US | $70,000 -$80,000 annually | Early career | Posted Sep 3, 2026<br>First seen Sep 3, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-radiation-test-engineer-crane-indiana-united-states>) |

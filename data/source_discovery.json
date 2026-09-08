@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-08T17:22:16.251Z",
+  "updated_at": "2026-09-08T20:04:43.046Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -854,9 +854,9 @@
         "limit": 20,
         "verified_open_jobs": 428
       },
-      "last_scan_at": "2026-09-08T15:00:56.217Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-08T15:00:56.217Z"
     },
     "palo alto networks": {
@@ -3922,9 +3922,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-07T21:43:09.509Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-07T21:43:09.509Z"
     },
     "l3harris": {
@@ -4145,9 +4145,9 @@
         "limit": 20,
         "verified_open_jobs": 128
       },
-      "last_scan_at": "2026-09-04T22:00:00.218Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-04T22:00:00.218Z"
     },
     "oscar health": {
@@ -4582,9 +4582,9 @@
         "limit": 20,
         "verified_open_jobs": 657
       },
-      "last_scan_at": "2026-09-08T15:00:56.217Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-08T15:00:56.217Z"
     },
     "honeywell": {
@@ -5549,10 +5549,10 @@
         "limit": 20,
         "verified_open_jobs": 354
       },
-      "last_scan_at": "2026-09-08T17:22:16.251Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-08T15:00:56.217Z"
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-08T20:04:43.046Z"
     },
     "draper": {
       "company": "Draper",
@@ -5759,7 +5759,7 @@
     },
     "goodyear": {
       "company": "Goodyear",
-      "checked_at": "2026-09-07T23:45:39.384Z",
+      "checked_at": "2026-09-08T19:57:38.621Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5777,10 +5777,9 @@
         "limit": 20,
         "verified_open_jobs": 3
       },
-      "last_scan_at": "2026-09-08T17:22:16.251Z",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-07T23:53:09.599Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "michelin": {
       "company": "Michelin",
@@ -5854,7 +5853,7 @@
     },
     "bluehalo": {
       "company": "BlueHalo",
-      "checked_at": "2026-09-07T23:45:39.384Z",
+      "checked_at": "2026-09-08T19:57:38.621Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5870,12 +5869,11 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 345
+        "verified_open_jobs": 349
       },
-      "last_scan_at": "2026-09-08T17:22:16.251Z",
+      "last_scan_at": "2026-09-08T20:04:43.046Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-07T23:53:09.599Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "chevron": {
       "company": "Chevron",
