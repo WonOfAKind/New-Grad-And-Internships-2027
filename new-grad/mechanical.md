@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 4:04 PM EDT
+Last updated: September 8, 2026 at 6:41 PM EDT
 
-Current roles in this view: 47
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,7 +27,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Summer 2027 Systems Test Engineer | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Fairborn, OH; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA | - | Early career | Posted Sep 1, 2026<br>First seen Sep 8, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390>) |
 | Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429469>) |
 | Airbus | AGGP2027 – Graduate Stress Engineer I | Wichita, KS | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/AGGP2027---Graduate-Stress-Engineer-I_JR10429474>) |
-| BlueHalo | Summer 2027 Systems Test Engineer | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Fairborn, OH; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA | - | Early career | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390>) |
 | Kimley-Horn | Mechanical Engineering Analyst | Reno, NV, US | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26250/mechanical-engineering-analyst/job>) |
 | Stryker | Design Engineer - Mechanical, RISE | Portage, Michigan | $64,400 - $94,400 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Mechanical--RISE_R571060>) |
 | 🔥 Blue Origin | Fluid Systems &amp; Propulsion Engineer I – Early Career (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Fluid-Systems---Propulsion-Engineer-I---Early-Career--2027-Starts-_R71321>) |

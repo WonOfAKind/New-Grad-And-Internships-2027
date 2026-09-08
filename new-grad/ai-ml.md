@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 8, 2026 at 4:04 PM EDT
+Last updated: September 8, 2026 at 6:41 PM EDT
 
-Current roles in this view: 71
+Current roles in this view: 72
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -17,6 +17,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59503>) |
 | The MIL Corporation | Hiring AI Developer (Software Engineering, Junior Analyst), CSC - CBD - Tysons Corner, VA | Washington, DC | $80,000 - $103,000 per year | Early career | Posted Sep 4, 2026<br>First seen Sep 8, 2026 | [Apply](<https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?cws=38&org=MILCORP&rid=16305>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Intelligent Autonomous Systems Development, Test and Artificial Intelligence (AI) | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59691>) |
+| Bridger | Early Career Product Engineer | New York City | $150,000 - $200,000 | Early career | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59797>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Sep 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |
