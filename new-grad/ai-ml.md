@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 9, 2026 at 3:59 PM EDT
+Last updated: September 9, 2026 at 6:14 PM EDT
 
-Current roles in this view: 73
+Current roles in this view: 71
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59653>) |
-| The Aerospace Corporation | 2027 Signal Processing and Artificial Intelligence Engineer | El Segundo, CA | - | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449>) |
+| The Aerospace Corporation | 2027 Signal Processing and Artificial Intelligence Engineer | El Segundo, CA | $90,000.00 - $140,000.00 | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449>) |
 | TikTok | Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670351062847260981>) |
 | TikTok | Testing Engineer Graduate (TikTok-Testing-Social-User and Relation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670331433437956405>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59503>) |
@@ -32,8 +32,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7679156878833682693>) |
 | WeRide | New Grads 2027 - Software Engineer - Perception/Computer Vision | San Jose, CA | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7>) |
-| Capital Health | IT Product Engineer I | Pennington, NJ | $78,769.60 - $102,960.00 | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768>) |
-| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly/Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
+| Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA; Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - AI/ML Research Engineer | Laurel, Maryland, United States | $85,000 Annually | Explicit new grad role | Posted Aug 26, 2026<br>First seen Aug 27, 2026 | [Apply](<https://careers.jhuapl.edu/jobs/59548>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7678145401619237173>) |
@@ -54,7 +53,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Machine Learning Engineer Graduate (TikTok Vertical Recommendation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672532275557583157>) |
 | TikTok | Software Engineer Graduate (TikTok AI Search &amp; Visual Search Infra Team) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672517471946000645>) |
 | TikTok | AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 10, 2026 | [Apply](<https://lifeattiktok.com/search/7665989305914984709>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 7, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | TikTok | Recommendation Architecture AI/ML Infrastructure Engineer Graduate (Data-Arch-TikTok Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670876337129425205>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285495593273605>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Live) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 6, 2026 | [Apply](<https://lifeattiktok.com/search/7670285949553707317>) |
