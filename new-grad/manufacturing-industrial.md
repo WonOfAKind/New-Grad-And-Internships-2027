@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 9, 2026 at 1:16 PM EDT
+Last updated: September 9, 2026 at 3:59 PM EDT
 
-Current roles in this view: 32
+Current roles in this view: 33
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| DuPont | 2027 Entry Level Engineering Direct Hire Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Early career | Posted Sep 9, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Entry-Level-Engineering-Direct-Hire-Opportunities>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 9, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | Amazon | Operations Engineering MHE Lifecycle Spring and Summer 2027 (Bellevue, WA ) | US, WA, Bellevue | - | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-spring-and-summer-2027-bellevue-wa>) |
 | 🔥 Northrop Grumman | 2027 Associate Industrial Engineer/ Industrial Engineer - Roy UT | United States-Utah-Roy | $72,100 - $ 108,100 | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Industrial-Engineer--Industrial-Engineer---Roy-UT_R10249787>) |
