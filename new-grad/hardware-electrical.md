@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 10, 2026 at 3:42 PM EDT
+Last updated: September 10, 2026 at 5:59 PM EDT
 
-Current roles in this view: 38
+Current roles in this view: 37
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Entry Level Engineering Direct Hire Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering>) |
+| DuPont | 2027 Full-time - Engineering | Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Early career | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering>) |
 | DuPont | 2027 Entry Level Engineering Direct Hire Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering>) |
 | DuPont | 2027 Entry Level Engineering Direct Hire Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering>) |
 | Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
@@ -29,7 +29,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 10, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
-| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 10, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Resilient Military Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Sep 1, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59353>) |
 | BAE Systems | FAST Lab – Entry Level FPGA Engineer | Merrimack, New Hampshire, United States | - | Early career | Posted Aug 30, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=301953&partnerid=25771&siteid=5403>) |

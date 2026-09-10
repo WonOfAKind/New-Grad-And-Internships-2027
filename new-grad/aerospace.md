@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 10, 2026 at 3:42 PM EDT
+Last updated: September 10, 2026 at 5:59 PM EDT
 
-Current roles in this view: 73
+Current roles in this view: 74
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -18,6 +18,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26130-1>) |
 | Sierra Space | Mechanical Engineer I (Contract) | Louisville, CO | - | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I--Contract-_R26221-1>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states>) |
+| 🔥 Gulfstream Aerospace | Operations Engineer 1 | Savannah, GA, US | - | Verified early career (BS) | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-1-GA-31401/1428736800>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
 | Sierra Space | Dream Chaser Flight Controller - Systems Engineer I | Louisville, CO | $77,685.00 - $106,816.50 | Verified early career (BS) | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Dream-Chaser-Flight-Controller---Systems-Engineer-I_R26224-1>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Structures/ Structural Design Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Structures-Structural-Design-Collegiate-Associate-GA-31401/1428064500>) |
