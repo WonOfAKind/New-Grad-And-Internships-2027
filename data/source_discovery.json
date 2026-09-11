@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-11T19:44:00.540Z",
+  "updated_at": "2026-09-11T22:01:45.057Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -4727,9 +4727,9 @@
         "limit": 20,
         "verified_open_jobs": 87
       },
-      "last_scan_at": "2026-09-11T17:08:00.336Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-11T17:08:00.336Z"
     },
     "vast": {
@@ -5018,13 +5018,14 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-11T19:44:00.540Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms"
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-11T22:01:45.057Z"
     },
     "aerovironment": {
       "company": "AeroVironment",
-      "checked_at": "2026-09-09T17:08:13.920Z",
+      "checked_at": "2026-09-11T21:55:06.311Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5040,12 +5041,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 349
+        "verified_open_jobs": 363
       },
-      "last_scan_at": "2026-09-11T19:44:00.540Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-09T17:16:06.160Z"
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-11T22:01:45.057Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5334,9 +5335,10 @@
         "limit": 20,
         "verified_open_jobs": 1456
       },
-      "last_scan_at": "2026-09-11T17:08:00.336Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-11T22:01:45.057Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5402,9 +5404,10 @@
         "robotsUrl": "https://jobs.bechtel.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-11T19:44:00.540Z",
-      "last_scan_status": "error",
-      "last_scan_error": "404 Not Found"
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-11T22:01:45.057Z"
     },
     "black & veatch": {
       "company": "Black & Veatch",
@@ -5740,7 +5743,7 @@
     },
     "goodyear": {
       "company": "Goodyear",
-      "checked_at": "2026-09-10T21:52:43.687Z",
+      "checked_at": "2026-09-11T21:55:06.311Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5758,10 +5761,10 @@
         "limit": 20,
         "verified_open_jobs": 3
       },
-      "last_scan_at": "2026-09-11T19:44:00.540Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-10T21:59:41.649Z"
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-11T22:01:45.057Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5853,9 +5856,9 @@
         "limit": 20,
         "verified_open_jobs": 363
       },
-      "last_scan_at": "2026-09-11T17:08:00.336Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-11T22:01:45.057Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-11T17:08:00.336Z"
     },
     "chevron": {

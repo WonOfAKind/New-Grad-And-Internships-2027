@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 11, 2026 at 3:44 PM EDT
+Last updated: September 11, 2026 at 6:01 PM EDT
 
-Current roles in this view: 142
+Current roles in this view: 143
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Space Systems Quality Engineer Intern, Summer 2027 | Boulder, Colorado, United States | - | 2027 internship eligible | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303459&partnerid=25771&siteid=5403>) |
 | Draper | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | $20.00 - $45.00/hr | 2027 internship eligible | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Internship - Systems Engineer | Laurel, Maryland, United States | $22.60 Hourly | 2027 internship eligible | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60042>) |
-| BlueHalo | Summer 2027 Systems Engineering/Test Intern | Moorpark, CA | - | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552>) |
+| AeroVironment | Summer 2027 Systems Engineering/Test Intern | Moorpark, CA | - | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 11, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Summer-2027-Systems-Engineering-Test-Intern_8552>) |
 | 🔥 Northrop Grumman | 2027 Engineering Intern - Huntsville AL | United States-Alabama-Huntsville | $25.50 - $32.00 per hour | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Engineering-Intern---Huntsville-AL_R10250391>) |
 | 🔥 Northrop Grumman | 2027 Fall Co-Op - Survivability Engineer | United States-California-El Segundo | $18.50 - $33.50/hour | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417>) |
 | 🔥 Northrop Grumman | 2027 Guidance Navigation and Control Intern Dulles VA | United States-Virginia-Dulles | - | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322>) |

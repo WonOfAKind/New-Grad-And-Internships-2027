@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 11, 2026 at 3:44 PM EDT
+Last updated: September 11, 2026 at 6:01 PM EDT
 
-Current roles in this view: 72
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59817>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59653>) |
 | The Aerospace Corporation | 2027 Signal Processing and Artificial Intelligence Engineer | El Segundo, CA | $90,000.00 - $140,000.00 | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449>) |
