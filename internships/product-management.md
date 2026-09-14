@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 14, 2026 at 10:43 AM EDT
+Last updated: September 14, 2026 at 2:41 PM EDT
 
 Current roles in this view: 49
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Machina Labs | Machina Labs - Product Management, Intern | Chatsworth, CA | - | 2027 internship eligible | First seen Sep 14, 2026 | [Apply](<https://jobs.lever.co/MachinaLabs/c54d0857-09f3-479c-8d8d-cfa55d358be6/apply>) |
-| Red Hat | Product Manager Intern | Raleigh, United States of America | - | 2027 internship eligible | First seen Sep 14, 2026 | [Apply](<https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Product-Manager-Intern_R-059060>) |
+| Intuit | Summer 2027: Product Manager Intern | Mountain View, California, United States; San Diego, California, United States | $39.57 - $76.92/hr | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 14, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632>) |
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN, United States of America | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Dodge Center, Minnesota, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49796/Product-Management-Intern-Summer-2027>) |
