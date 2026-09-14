@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 14, 2026 at 2:41 PM EDT
+Last updated: September 14, 2026 at 6:08 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,12 +13,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 General Motors | Entry Level - Wireless EF Design &amp; Validation Engineer | Warren, Michigan, United States of America | - | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Wireless-EF-Design---Validation-Engineer_JR-202619982>) |
-| Solar Turbines | 2027 Entry Level Engineer Rotation Turbomachinery Operations | San Diego, California | $92,500 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Engineer-Rotation-Turbomachinery-Operations_R0000382939>) |
+| Solar Turbines | 2027 Entry Level Engineer Rotation Turbomachinery Operations | San Diego, CA | $92,500 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Engineer-Rotation-Turbomachinery-Operations_R0000382939>) |
+| 🔥 Pratt &amp; Whitney | Leadership Development Program – Engineering, Aerospace/Mechanical Discipline (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Sep 13, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01874396/Leadership-Development-Program-Engineering-Aerospace-Mechanical-Discipline-Starts-June-2027>) |
 | 🔥 Blue Origin | AM Applications Engineer - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/AM-Applications-Engineer---Early-Career--2027-Starts-_R71755>) |
 | 🔥 Blue Origin | Fluid Systems &amp; Propulsion Engineer I – Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Fluid-Systems---Propulsion-Engineer-I---Early-Career--2027-Starts-_R71321>) |
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
-| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
+| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Structures/ Structural Design Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Structures-Structural-Design-Collegiate-Associate-GA-31401/1428064500>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Systems Engineering - Collegiate Associate in GAC (Savannah) | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Systems-Engineering-Collegiate-Associate-in-GAC-%28Savannah%29-GA-31401/1427917500>) |
