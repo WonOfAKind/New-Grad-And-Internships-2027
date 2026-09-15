@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 15, 2026 at 12:16 PM EDT
+Last updated: September 15, 2026 at 1:47 PM EDT
 
 Current roles in this view: 18
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| MITRE | Associate Data Scientist | McLean, Virginia, United States of America; Bedford, Massachusetts, United States of America | $80,000 - $100,000 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist>) |
+| MITRE | Associate Data Scientist | McLean, VA; Bedford, MA | $80,000 - $100,000 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist>) |
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443>) |
 | ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 15, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59817>) |

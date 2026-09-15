@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 15, 2026 at 12:16 PM EDT
+Last updated: September 15, 2026 at 1:47 PM EDT
 
-Current roles in this view: 108
+Current roles in this view: 110
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| DuPont | 2027 Full-time - Engineering | Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 15, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 15, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 15, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
@@ -53,7 +55,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Weatherford | Field Engineer 1 - Production Automation | Williston, ND | - | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/106656>) |
 | ExxonMobil | Upstream Civil Engineering (Water &amp; Geotech) - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Aug 28, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Civil-Engineering-%28Water-&-Geotech%29-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423303000>) |
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Aug 27, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
-| Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | Savannah, GA, US | $80,000/yr | Early career | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
+| Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | Washington, DC, US | $80,000/yr | Early career | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
 | Kimley-Horn | Civil Engineering Analyst | Alpharetta, GA, US | - | Explicit new grad role | Posted Aug 26, 2026<br>First seen Sep 1, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24783/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Cumming, GA, US | - | Explicit new grad role | Posted Aug 26, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24830/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | West Lafayette, IN, US | - | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26063/civil-engineering-analyst/job>) |

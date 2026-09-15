@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 15, 2026 at 12:16 PM EDT
+Last updated: September 15, 2026 at 1:47 PM EDT
 
 Current roles in this view: 75
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
 | Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59817>) |

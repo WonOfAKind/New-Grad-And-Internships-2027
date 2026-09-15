@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 15, 2026 at 12:16 PM EDT
+Last updated: September 15, 2026 at 1:47 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 52
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingo/jobs/8806187002>) |
 | LabCorp | Intern - IT Product Manager | USA - NC - Durham - 10 Moore Drive, United States of America | - | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
+| Red Hat | Product Manager Intern | Raleigh, United States of America | - | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Product-Manager-Intern_R-059060>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | Intuit | Summer 2027: Product Manager Intern | Mountain View, California, United States; San Diego, California, United States | $39.57 - $76.92/hr | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 14, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632>) |
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN, United States of America | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
