@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 15, 2026 at 4:36 PM EDT
+Last updated: September 15, 2026 at 7:16 PM EDT
 
-Current roles in this view: 75
+Current roles in this view: 78
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
 | Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59817>) |
@@ -23,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59503>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Intelligent Autonomous Systems Development, Test and Artificial Intelligence (AI) | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59691>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
+| Nuvo | New Grad Product Engineer | New York, NY; San Francisco, CA | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.gem.com/nuvo/am9icG9zdDpVEVfFsFLv-Cz18Cw3-Ai8>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Sep 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |
 | TikTok | (General Hire) Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start | San Jose, California, United States of America | $128,000 - $256,000 annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Aug 4, 2026 | [Apply](<https://lifeattiktok.com/search/7669691374918011141>) |
 | TikTok | (General Hire)Machine Learning Engineer Graduate (TikTok Recommendation) - 2027 Start | San Jose, California, United States of America | $128,000 - $316,800 annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7663389745178757429>) |
