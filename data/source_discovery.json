@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-15T17:47:11.499Z",
+  "updated_at": "2026-09-15T20:36:54.974Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -2559,9 +2559,9 @@
         "limit": 20,
         "verified_open_jobs": 90
       },
-      "last_scan_at": "2026-09-10T17:06:28.955Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-15T20:36:54.974Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-10T17:06:28.955Z"
     },
     "qualtrics": {
@@ -3925,9 +3925,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-15T17:47:11.499Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-15T20:36:54.974Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-15T17:47:11.499Z"
     },
     "l3harris": {
@@ -4585,9 +4585,9 @@
         "limit": 20,
         "verified_open_jobs": 673
       },
-      "last_scan_at": "2026-09-15T17:47:11.499Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-15T20:36:54.974Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-15T17:47:11.499Z"
     },
     "honeywell": {
@@ -5021,9 +5021,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-15T17:47:11.499Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-15T20:36:54.974Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Airbus workday scan timed out after 90000ms",
       "last_verified_at": "2026-09-15T17:47:11.499Z"
     },
     "aerovironment": {

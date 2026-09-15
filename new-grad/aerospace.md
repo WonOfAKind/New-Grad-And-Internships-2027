@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 15, 2026 at 1:47 PM EDT
+Last updated: September 15, 2026 at 4:36 PM EDT
 
-Current roles in this view: 82
+Current roles in this view: 84
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Quality Engineer I | Greenlawn, New York, United States | - | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303821&partnerid=25771&siteid=5403>) |
 | 🔥 Boeing | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA - El Segundo, CA | $80,750-109,250 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750-1>) |
+| Sierra Space | Guidance, Navigation &amp; Control Engineer I | Louisville, CO | $83,999.00 - $115,498.25 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Guidance--Navigation---Control-Engineer-I_R26255>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26256>) |
 | Sierra Space | Test Engineer I | Louisville, CO | $73,175.00 - $100,615.25 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Test-Engineer-I_R26200-1>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Sep 14, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
@@ -35,7 +37,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
-| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
+| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
 | 🔥 Gulfstream Aerospace | Operations Engineer 1 | Savannah, GA, US | - | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-1-GA-31401/1399894300>) |
 | 🔥 Northrop Grumman | 2027 Converting Associate Systems Engineer - Roy UT | United States-Utah-Roy | $ 65,800 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting--Associate-Systems-Engineer---Roy-UT_R10250274-1>) |
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26130-1>) |
