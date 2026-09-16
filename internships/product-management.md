@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 16, 2026 at 4:32 PM EDT
+Last updated: September 16, 2026 at 7:20 PM EDT
 
 Current roles in this view: 54
 
@@ -14,7 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | 🔥 Johnson &amp; Johnson | Product Management Co-Op | Jacksonville, FL | - | 2027 internship eligible | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Product-Management-Co-Op_R-098262>) |
 | AspenTech | Product Owner Intern — Product Management - Summer 2027 | Bedford, United States of America | $28.00 - $ 32.00/hour | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
-| Red Hat | Product Manager Intern | Raleigh, United States of America | - | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Product-Manager-Intern_R-059060>) |
+| Rockwell Automation | Intern, Product Management | United States of America Mequon, United States of America | $22 - $32/hr | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Intern--Product-Management_R26-6971>) |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingo/jobs/8806187002>) |
 | LabCorp | Intern - IT Product Manager | USA - NC - Durham - 10 Moore Drive, United States of America | - | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |

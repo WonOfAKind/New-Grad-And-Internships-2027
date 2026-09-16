@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-16T20:32:26.134Z",
+  "updated_at": "2026-09-16T23:20:34.568Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -818,9 +818,9 @@
         "limit": 20,
         "verified_open_jobs": 387
       },
-      "last_scan_at": "2026-09-15T16:16:57.116Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-15T16:16:57.116Z"
     },
     "palo alto networks": {
@@ -1913,7 +1913,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-09-14T18:33:57.253Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1931,10 +1931,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-14T18:41:25.293Z"
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2102,7 +2102,7 @@
     },
     "expedia group": {
       "company": "Expedia Group",
-      "checked_at": "2026-09-09T22:07:37.341Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2118,12 +2118,12 @@
         "site": "search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 175
+        "verified_open_jobs": 166
       },
-      "last_scan_at": "2026-09-09T22:14:28.228Z",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-09-09T22:14:28.228Z"
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "hopper": {
       "company": "Hopper",
@@ -2518,7 +2518,7 @@
     },
     "zendesk": {
       "company": "Zendesk",
-      "checked_at": "2026-09-15T23:09:25.292Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2536,10 +2536,9 @@
         "limit": 20,
         "verified_open_jobs": 96
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-15T23:16:57.728Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "qualtrics": {
       "company": "Qualtrics",
@@ -3402,9 +3401,9 @@
         "limit": 20,
         "verified_open_jobs": 76
       },
-      "last_scan_at": "2026-09-16T17:44:38.130Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-16T17:44:38.130Z"
     },
     "recursion": {
@@ -3884,7 +3883,7 @@
     },
     "booz allen hamilton": {
       "company": "Booz Allen Hamilton",
-      "checked_at": "2026-09-15T23:09:25.292Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -3902,10 +3901,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
       "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-15T23:16:57.728Z"
+      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 60000ms"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4107,7 +4105,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-09-15T16:06:58.026Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4123,12 +4121,12 @@
         "site": "Vantor",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 139
+        "verified_open_jobs": 144
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-15T17:47:11.499Z"
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "oscar health": {
       "company": "Oscar Health",
@@ -4562,10 +4560,10 @@
         "limit": 20,
         "verified_open_jobs": 689
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-16T17:44:38.130Z"
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5004,7 +5002,7 @@
     },
     "aerovironment": {
       "company": "AeroVironment",
-      "checked_at": "2026-09-14T22:01:15.509Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5020,12 +5018,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 366
+        "verified_open_jobs": 361
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-14T22:08:55.297Z"
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5161,9 +5159,9 @@
         "limit": 20,
         "verified_open_jobs": 401
       },
-      "last_scan_at": "2026-09-16T17:44:38.130Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-16T17:44:38.130Z"
     },
     "parker hannifin": {
@@ -5281,9 +5279,9 @@
         "limit": 20,
         "verified_open_jobs": 1015
       },
-      "last_scan_at": "2026-09-16T20:32:26.134Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-16T20:32:26.134Z"
     },
     "johnson & johnson": {
@@ -5315,9 +5313,9 @@
         "limit": 20,
         "verified_open_jobs": 1450
       },
-      "last_scan_at": "2026-09-16T17:44:38.130Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Stryker workday scan timed out after 60000ms",
       "last_verified_at": "2026-09-16T17:44:38.130Z"
     },
     "abbott": {
@@ -5843,7 +5841,7 @@
     },
     "chevron": {
       "company": "Chevron",
-      "checked_at": "2026-09-09T22:07:37.341Z",
+      "checked_at": "2026-09-16T23:13:33.830Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5860,10 +5858,10 @@
         "robotsUrl": "https://careers.chevron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-09T22:14:28.228Z",
+      "last_scan_at": "2026-09-16T23:20:34.568Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-09-09T22:14:28.228Z"
+      "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "shell": {
       "company": "Shell",
