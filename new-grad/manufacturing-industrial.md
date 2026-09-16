@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 1:44 PM EDT
+Last updated: September 16, 2026 at 4:32 PM EDT
 
-Current roles in this view: 44
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26144>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
@@ -44,7 +43,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Airbus | AGGP 2027 - Graduate Manufacturing Engineer, X-Plant | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP-2027---Graduate-Manufacturing-Engineer--X-Plant_JR10429810>) |
 | Airbus | AGGP 2027- Graduate Manufacturing Engineer | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP-2027--Graduate-Manufacturing-Engineer_JR10429802>) |
 | Airbus | AGGP2027 - Graduate Manufacturing Engineer I | Kinston, NC | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/AGGP2027---Manufacturing-Engineer_JR10433378>) |
-| Johnson Controls | Quality Engineer I | Largo-Florida-United States of America | $67,900 - $101,900 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://jci.wd5.myworkdayjobs.com/JCI/job/Largo-Florida-United-States-of-America/Quality-Engineer-I_WD30278664>) |
 | 🔥 ExxonMobil | Process Engineering Engineer - Associate (Gregory, TX, US, 78359) | Gregory, TX, US, 78359 | - | Verified early career (BS) | First seen Sep 1, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Gregory-Process-Engineering-Engineer-Associate-TX-78359/1425366200>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R47496/Manufacturing-Engineer-Associate>) |
 | Oshkosh Corporation | Manufacturing Engineer Associate (2nd Shift) | Jefferson City, Tennessee, United States of America | $57,600.00 - $90,400.00 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 21, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R43015/Manufacturing-Engineer-Associate-2nd-Shift>) |

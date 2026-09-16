@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 1:44 PM EDT
+Last updated: September 16, 2026 at 4:32 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,16 +12,17 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Moog | Associate Electrical Engineer / Electronic Design Engineer. | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Associate-Electrical-Engineer---Electronic-Design-Engineer_R-26-17318>) |
 | Northrop Grumman | 2027 Associate Electronics Engineer - Pathways Program - Linthicum MD | United States-Maryland-Linthicum | $72,700 - $109,100 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Electronics-Engineer---Pathways-Program---Linthicum-MD_R10251108>) |
 | HPE | Mechanical / Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213443/Mechanical-Hardware-Engineer-I-Graduate>) |
 | BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
 | Boeing | DSP Algorithms Engineer (Entry-Level) | USA - El Segundo, CA | $79,050- $106,950 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1>) |
 | Boeing | Entry-level Digital Electronics Circuit &amp; Unit Hardware Design Engineer | USA - El Segundo, CA | $76,050 - $106,950 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2>) |
-| HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, United States of America | - | Verified early career (BS) | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1213427/Electrical-Hardware-Engineer-I-Graduate>) |
+| HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213427/Electrical-Hardware-Engineer-I-Graduate>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer - Space Science Electronics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60047>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
 | 🔥 MIT Lincoln Laboratory | Electrical Engineer-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400-$140,000 | Verified early career (BS) | First seen Sep 14, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-Associate-Staff-MA-02420/1429841100>) |
-| HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, United States of America | - | Verified early career (BS) | Posted Sep 12, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1213435/Electrical-Hardware-Engineer-I-Graduate>) |
+| HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 12, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213435/Electrical-Hardware-Engineer-I-Graduate>) |
 | General Motors | Entry-Level Manufacturing Controls/Electrical Engineer | Defiance, Ohio, United States of America; Buffalo, New York, United States of America; Romulus, Michigan, United States of America; Roanoke, Indiana, United States of America; Lansing, Michigan, United States of America; Wentzville ASSY, STPG - Wentzville ASSY, STPG | - | Early career | Posted Sep 11, 2026<br>First seen Sep 15, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Entry-Level-Manufacturing-Controls-Electrical-Engineer_JR-202620159>) |
 | The Aerospace Corporation | IC 2027 Electrical Design Engineer | El Segundo, CA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 11, 2026<br>First seen Sep 14, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016563>) |
 | The Aerospace Corporation | IC 2027 Electrical Design Engineer | El Segundo, CA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 11, 2026<br>First seen Sep 14, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016564>) |
@@ -52,6 +53,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | $125,000.00 - $160,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706884002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | $135,000.00 - $175,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8703552002>) |
 | SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |
+| BlueHalo | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | First seen Sep 16, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | AeroVironment | Electrical Engineer I | 100 Quality Circle Suite 100 Huntsville, AL | $60,500 - $92,500 | Verified early career (BS) | First seen Sep 14, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/100-Quality-Circle-Suite-100-Huntsville-AL/Electrical-Engineer-III_7294>) |
 | Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 7, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate Robotics Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Jul 27, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59458>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 1:44 PM EDT
+Last updated: September 16, 2026 at 4:32 PM EDT
 
-Current roles in this view: 23
+Current roles in this view: 21
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data &amp; Analytics, Enterprise Technology Services- New York, NY | New York, NY, United States | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097>) |
-| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data &amp; Analytics, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281>) |
-| BNY | 2027 BNY Analyst Program - Engineering (Data Science) - New York, NY | New York, NY, United States | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245>) |
-| BNY | 2027 BNY Analyst Program - Engineering (Data Science) - Pittsburgh, PA | Pittsburgh, PA, United States | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246>) |
+| BNY | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245>) |
+| BNY | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246>) |
 | ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL | $58,000 - $138,000 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/clarityinnovates/jobs/5238122007>) |
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL | $58,000 - $138,000 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/clarityinnovates/jobs/5238058007>) |

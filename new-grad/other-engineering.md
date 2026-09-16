@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 1:44 PM EDT
+Last updated: September 16, 2026 at 4:32 PM EDT
 
-Current roles in this view: 110
+Current roles in this view: 114
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data &amp; Analytics, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013097>) |
+| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data &amp; Analytics, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
@@ -73,6 +76,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Boise, ID, US | - | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24974/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Broomfield, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24991/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Colorado Springs, CO, US | $80,000-$87,000 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25005/civil-engineering-analyst/job>) |
+| AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Sep 14, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Kimley-Horn | Entry-Level Civil Engineering - Roadway | Irving, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25822/entry-level-civil-engineering---roadway/job>) |
 | Kimley-Horn | Entry-Level Civil Engineering- Land Development | Richardson, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25824/entry-level-civil-engineering--land-development/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Greenwood Village, CO, US | $80,000-$91,500 | Explicit new grad role | Posted Aug 13, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24997/civil-engineering-analyst/job>) |
