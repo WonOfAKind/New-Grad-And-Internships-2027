@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 17, 2026 at 4:40 PM EDT
+Last updated: September 17, 2026 at 7:11 PM EDT
 
 Current roles in this view: 56
 
@@ -23,7 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Dodge Center, Minnesota, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49796/Product-Management-Intern-Summer-2027>) |
-| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
+| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA, United States | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7677493272788683013>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7680555984532982069>) |
 | American Express | Digital Product Management Intern - Enterprise Technology Services | New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143>) |
@@ -51,7 +51,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vanguard | College to Corporate IT Internship - Technical Product Manager | Malvern, PA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969>) |
 | Workiva | Spring &amp; Summer 2027 Intern - Product Management | Remote (US) | $40.00 - $40.00/hr | 2027 internship eligible | Posted Aug 30, 2026<br>First seen Aug 31, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355>) |
 | Datadog | Product Management Intern \| Datadog Careers | New York, NY | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
-| Skydio | Hardware Product Management Intern - Fall 2026/Winter 2027 | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
+| Skydio | Hardware Product Management Intern | San Mateo, CA | $47/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
 | Vertiv | Services Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667>) |
 | BNY | Product Management Intern - Product Management | New York, NY | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345>) |
 | DTCC | Product Management Intern - 2027 Internship Program | Tampa, FL; Jersey City, NJ | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410>) |
