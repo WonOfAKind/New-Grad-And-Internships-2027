@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 7:20 PM EDT
+Last updated: September 17, 2026 at 11:38 AM EDT
 
-Current roles in this view: 21
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | BNY | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245>) |
 | BNY | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246>) |
-| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 16, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
-| Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL | $58,000 - $138,000 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/clarityinnovates/jobs/5238122007>) |
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL | $58,000 - $138,000 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/clarityinnovates/jobs/5238058007>) |
 | MITRE | Associate Data Scientist | McLean, VA; Bedford, MA | $80,000 - $100,000 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.mitre.org/us/en/job/R117471/Associate-Data-Scientist>) |
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443>) |

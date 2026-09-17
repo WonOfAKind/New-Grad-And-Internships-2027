@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 16, 2026 at 7:20 PM EDT
+Last updated: September 17, 2026 at 11:38 AM EDT
 
-Current roles in this view: 54
+Current roles in this view: 56
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Austin, TX | - | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W>) |
+| Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Foster City, CA | - | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1>) |
 | 🔥 Johnson &amp; Johnson | Product Management Co-Op | Jacksonville, FL | - | 2027 internship eligible | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Product-Management-Co-Op_R-098262>) |
 | AspenTech | Product Owner Intern — Product Management - Summer 2027 | Bedford, United States of America | $28.00 - $ 32.00/hour | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
 | Rockwell Automation | Intern, Product Management | United States of America Mequon, United States of America | $22 - $32/hr | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Intern--Product-Management_R26-6971>) |

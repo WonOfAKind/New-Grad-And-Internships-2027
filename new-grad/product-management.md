@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 16, 2026 at 7:20 PM EDT
+Last updated: September 17, 2026 at 11:38 AM EDT
 
-Current roles in this view: 22
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Foster City, CA | - | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W>) |
 | American Express | Campus Undergraduate Full-Time Associate - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956>) |
 | BNY | 2027 BNY Analyst Program - Product Management | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895>) |
-| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Austin, TX | $104,000 USD | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1>) |
+| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Austin, TX | $104,000 USD | Explicit new grad role | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1>) |
 | 🔥 Stripe | Product Manager: New Grad Accelerator | San Francisco, New York City, Seattle | - | Explicit new grad role | First seen Sep 16, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/7737124>) |
 | Solace Health | Associate Product Manager (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea>) |
 | Robinhood | Associate Product Manager (New Grad) | Menlo Park, CA; New York, NY | $130,000 - $130,000 USD | Explicit new grad role | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8199973>) |
