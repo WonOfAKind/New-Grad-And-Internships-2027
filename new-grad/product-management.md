@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 17, 2026 at 11:38 AM EDT
+Last updated: September 17, 2026 at 1:43 PM EDT
 
 Current roles in this view: 23
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Foster City, CA | - | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W>) |
+| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Foster City, CA | $116,480 USD | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W>) |
 | American Express | Campus Undergraduate Full-Time Associate - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956>) |
 | BNY | 2027 BNY Analyst Program - Product Management | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895>) |
 | Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Austin, TX | $104,000 USD | Explicit new grad role | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1>) |
@@ -34,5 +34,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | LPL Financial Holdings | Product Management New Grad - Product | Austin, TX; Fort Mill, SC; Charlotte, NC | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
 | Uncountable | Product Manager – New Grad | San Francisco, CA; New York, NY | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc>) |
-| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) | San Francisco, CA; Mountain View, CA; Bellevue, WA | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/7586263002>) |
+| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, Washington; Mountain View, California; San Francisco, California | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/7586263002>) |
 

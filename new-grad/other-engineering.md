@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 17, 2026 at 11:38 AM EDT
+Last updated: September 17, 2026 at 1:43 PM EDT
 
 Current roles in this view: 107
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | BAE Systems | Entry Level Programs - Controls | Endicott, New York, United States | - | Early career | Posted Sep 17, 2026<br>First seen Sep 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303616&partnerid=25771&siteid=5403>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America | - | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Kiewit | Field Engineer 1 - Southern California | Phoenix, AZ, US | - | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Costa-Mesa-Field-Engineer-1-Southern-California-CA-92626/1421357100>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 17, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
@@ -118,5 +119,4 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Entry Level Civil Engineer - Water/Wastewater | Ocala, FL, US | - | Explicit new grad role | Posted Jun 24, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24534/entry-level-civil-engineer---water-wastewater/job>) |
 | Kimley-Horn | Entry Level Roadway Engineer | Gainesville, FL, US | - | Explicit new grad role | Posted Jun 24, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24529/entry-level-roadway-engineer/job>) |
 | Kimley-Horn | Entry Level Civil Engineer - ITS | Fort Lauderdale, FL, US | - | Explicit new grad role | Posted Jun 17, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/24435/entry-level-civil-engineer---its/job>) |
-| SIG | Associate Linux/Windows Engineer - New Grad | Bala Cynwyd (Philadelphia Area), Pennsylvania, United States | $0 - $0 | Explicit new grad role | Posted May 7, 2026<br>First seen Sep 17, 2026 | [Apply](<https://careers.sig.com/jobs/9408>) |
 

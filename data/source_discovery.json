@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-17T15:38:21.907Z",
+  "updated_at": "2026-09-17T17:43:44.466Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -818,9 +818,10 @@
         "limit": 20,
         "verified_open_jobs": 382
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "palo alto networks": {
       "company": "Palo Alto Networks",
@@ -1930,9 +1931,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-16T23:20:34.568Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Target Tech workday scan timed out after 60000ms",
       "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "home depot technology": {
@@ -2343,9 +2344,9 @@
         "limit": 20,
         "verified_open_jobs": 384
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2486,7 +2487,7 @@
     },
     "hubspot": {
       "company": "HubSpot",
-      "checked_at": "2026-09-10T16:58:23.363Z",
+      "checked_at": "2026-09-17T17:36:26.593Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2510,10 +2511,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-10T17:06:28.955Z",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-09-10T17:06:28.955Z"
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "zendesk": {
       "company": "Zendesk",
@@ -2535,9 +2536,9 @@
         "limit": 20,
         "verified_open_jobs": 101
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-17T15:38:21.907Z"
     },
     "qualtrics": {
@@ -3401,9 +3402,9 @@
         "limit": 20,
         "verified_open_jobs": 73
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-17T15:38:21.907Z"
     },
     "recursion": {
@@ -3667,9 +3668,9 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-15T16:16:57.116Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "403 Forbidden",
       "last_verified_at": "2026-09-15T16:16:57.116Z"
     },
     "mastercard": {
@@ -3901,9 +3902,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-17T15:38:21.907Z"
     },
     "l3harris": {
@@ -4561,9 +4562,9 @@
         "limit": 20,
         "verified_open_jobs": 689
       },
-      "last_scan_at": "2026-09-16T23:20:34.568Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-16T23:20:34.568Z"
     },
     "honeywell": {
@@ -4997,9 +4998,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms"
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "aerovironment": {
       "company": "AeroVironment",
@@ -5160,9 +5162,10 @@
         "limit": 20,
         "verified_open_jobs": 410
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5279,9 +5282,10 @@
         "limit": 20,
         "verified_open_jobs": 1015
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "error",
-      "last_scan_error": "KLA workday scan timed out after 60000ms"
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5312,9 +5316,10 @@
         "limit": 20,
         "verified_open_jobs": 1463
       },
-      "last_scan_at": "2026-09-17T15:38:21.907Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-17T17:43:44.466Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-17T17:43:44.466Z"
     },
     "abbott": {
       "company": "Abbott",
