@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 17, 2026 at 1:43 PM EDT
+Last updated: September 17, 2026 at 4:40 PM EDT
 
-Current roles in this view: 80
+Current roles in this view: 81
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | - | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America | - | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America | - | Explicit new grad role | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Atlanta, GA | Atlanta, GA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252>) |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982>) |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Palo Alto, CA | Palo Alto, CA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 17, 2026 at 1:43 PM EDT
+Last updated: September 17, 2026 at 4:40 PM EDT
 
-Current roles in this view: 86
+Current roles in this view: 88
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,17 +12,19 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Entry Level Systems Engineer | San Diego, California, United States | - | Early career | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303341&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Quality Engineer I | Greenlawn, New York, United States | - | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303821&partnerid=25771&siteid=5403>) |
+| 🔥 Northrop Grumman | 2027 Associate Systems Safety Engineer - Huntsville AL | United States-Alabama-Huntsville | $72,700- $109,100 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Safety-Engineer---Huntsville-AL_R10251430>) |
+| Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Sep 16, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
 | 🔥 Northrop Grumman | 2027 Associate Aeronautical Engineer/Aeronautical Engineer - Chandler AZ | United States-Arizona-Chandler | $65,800 - $98,800 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Associate-Aeronautical-Engineer-Aeronautical-Engineer---Chandler-AZ_R10251140>) |
-| Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 16, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26144>) |
+| 🔥 United Launch Alliance | Propulsion Systems Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Propulsion-Systems-Engineer-1-AL-35601/1431168300>) |
 | 🔥 Boeing | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA - El Segundo, CA | $80,750-109,250 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750-1>) |
 | Sierra Space | Guidance, Navigation &amp; Control Engineer I | Louisville, CO | $83,999.00 - $115,498.25 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Guidance--Navigation---Control-Engineer-I_R26255>) |
 | Sierra Space | Manufacturing Engineer I - Solar | Broomfield, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Manufacturing-Engineer-I---Solar_R26265-1>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26256>) |
-| Sierra Space | Test Engineer I | Louisville, CO | $73,175.00 - $100,615.25 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Test-Engineer-I_R26200-1>) |
 | 🔥 United Launch Alliance | Dynamic Environments Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 16, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Dynamic-Environments-Engineer-1-CO-80112/1430869100>) |
 | 🔥 United Launch Alliance | Mechanical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 16, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Mechanical-Engineer-1-CO-80112/1430766800>) |
 | 🔥 United Launch Alliance | Structural Dynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 16, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Structural-Dynamics-Engineer-1-CO-80112/1430780900>) |

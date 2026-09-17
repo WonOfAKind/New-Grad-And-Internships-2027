@@ -19,15 +19,15 @@ This board is generated from official company career pages and ATS pages where p
 
 [Contributors](CONTRIBUTORS.md)
 
-Last updated: September 17, 2026 at 1:43 PM EDT
+Last updated: September 17, 2026 at 4:40 PM EDT
 
 Companies in registry: 464
 
 Companies successfully scanned: 232
 
-Current roles: 3003
+Current roles: 3030
 
-Fresh roles this scan: 34
+Fresh roles this scan: 39
 
 Structured sources active: 252
 
@@ -37,8 +37,8 @@ Secondary discovery feeds healthy: 7/7
 
 ## Role Boards
 
-- [New Grad Roles](NEW_GRAD.md): 642 roles
-- [Internship Roles](INTERNSHIPS.md): 2361 roles
+- [New Grad Roles](NEW_GRAD.md): 644 roles
+- [Internship Roles](INTERNSHIPS.md): 2386 roles
 
 ## Data Files
 

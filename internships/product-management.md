@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 17, 2026 at 1:43 PM EDT
+Last updated: September 17, 2026 at 4:40 PM EDT
 
 Current roles in this view: 56
 
@@ -16,7 +16,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1>) |
 | 🔥 Johnson &amp; Johnson | Product Management Co-Op | Jacksonville, FL | - | 2027 internship eligible | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Product-Management-Co-Op_R-098262>) |
 | AspenTech | Product Owner Intern — Product Management - Summer 2027 | Bedford, United States of America | $28.00 - $ 32.00/hour | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
-| Rockwell Automation | Intern, Product Management | United States of America Mequon, United States of America | $22 - $32/hr | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Intern--Product-Management_R26-6971>) |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingo/jobs/8806187002>) |
 | LabCorp | Intern - IT Product Manager | USA - NC - Durham - 10 Moore Drive, United States of America | - | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
@@ -52,6 +51,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vanguard | College to Corporate IT Internship - Technical Product Manager | Malvern, PA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969>) |
 | Workiva | Spring &amp; Summer 2027 Intern - Product Management | Remote (US) | $40.00 - $40.00/hr | 2027 internship eligible | Posted Aug 30, 2026<br>First seen Aug 31, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355>) |
 | Datadog | Product Management Intern \| Datadog Careers | New York, NY | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
+| Skydio | Hardware Product Management Intern - Fall 2026/Winter 2027 | San Mateo, California, United States | $47/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
 | Vertiv | Services Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667>) |
 | BNY | Product Management Intern - Product Management | New York, NY | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345>) |
 | DTCC | Product Management Intern - 2027 Internship Program | Tampa, FL; Jersey City, NJ | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410>) |
