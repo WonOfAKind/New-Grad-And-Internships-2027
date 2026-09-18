@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 18, 2026 at 12:26 PM EDT
+Last updated: September 18, 2026 at 1:11 PM EDT
 
-Current roles in this view: 108
+Current roles in this view: 107
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -92,7 +92,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Civil Engineering Analyst | Pearland, TX, US | - | Explicit new grad role | Posted Aug 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25048/civil-engineering-analyst/job>) |
 | Kimley-Horn | Civil Engineering Analyst | Reston, VA, US | $92,000 - $95,500 | Explicit new grad role | Posted Aug 10, 2026<br>First seen Sep 8, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25208/civil-engineering-analyst/job>) |
 | Curtiss-Wright | Associate Engineer - Quality and Calibration | US-NY-Lansing (ST-800) | $70,000-$75,000 | Verified early career (BS) | First seen Sep 7, 2026 | [Apply](<https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Lansing-ST-800/Quality-Assurance-Engineer--Assoc_JR10473>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 7, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Solar Turbines | Entry Level Gas Turbine Product Engineer - Gtpe | San Diego, CA | $77,264.00 - $115,896.00 | Early career | Posted Aug 7, 2026<br>First seen Sep 4, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291>) |
 | Kiewit | Field Engineer 1 - (Heavy Civil) - South Central District | Little Rock, AR, US | - | Verified early career (BS) | Posted Aug 6, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Westlake-Field-Engineer-1-%28Heavy-Civil%29-South-Central-District-TX/1417169100>) |
 | Kimley-Horn | Civil Engineering Analyst | Akron, OH, US | - | Explicit new grad role | Posted Aug 6, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25012/civil-engineering-analyst/job>) |
