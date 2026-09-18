@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 18, 2026 at 5:57 PM EDT
+Last updated: September 18, 2026 at 7:49 PM EDT
 
 Current roles in this view: 56
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 18, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | Qualcomm | Product Management Internship - Summer 2027 | San Diego, CA, US | $17.00 - $98.00/hr | 2027 internship eligible | First seen Sep 18, 2026 | [Apply](<https://careers.qualcomm.com/careers/job/446720741706>) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Austin, TX | $39 - $46/hr | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W>) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1>) |
@@ -19,7 +20,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AspenTech | Product Owner Intern — Product Management - Summer 2027 | Bedford, United States of America | $28.00 - $ 32.00/hour | 2027 internship eligible | First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingo/jobs/8806187002>) |
 | LabCorp | Intern - IT Product Manager | USA - NC - Durham - 10 Moore Drive, United States of America | - | 2027 internship eligible | First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
-| Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | Intuit | Summer 2027: Product Manager Intern | Mountain View, California, United States; San Diego, California, United States | $39.57 - $76.92/hr | 2027 internship eligible | Posted Sep 10, 2026<br>First seen Sep 14, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632>) |
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |

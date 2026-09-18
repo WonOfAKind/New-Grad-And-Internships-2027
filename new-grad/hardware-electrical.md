@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 18, 2026 at 5:57 PM EDT
+Last updated: September 18, 2026 at 7:49 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -29,6 +29,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 12, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213435/Electrical-Hardware-Engineer-I-Graduate>) |
 | General Motors | Entry-Level Manufacturing Controls/Electrical Engineer | Defiance, Ohio, United States of America; Buffalo, New York, United States of America; Romulus, Michigan, United States of America; Roanoke, Indiana, United States of America; Lansing, Michigan, United States of America; Wentzville ASSY, STPG - Wentzville ASSY, STPG | - | Early career | Posted Sep 11, 2026<br>First seen Sep 15, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Defiance-Ohio-United-States-of-America/Entry-Level-Manufacturing-Controls-Electrical-Engineer_JR-202620159>) |
 | The Aerospace Corporation | IC 2027 Electrical Design Engineer | El Segundo, CA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 11, 2026<br>First seen Sep 14, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016563>) |
+| Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 18, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
 | Gulfstream Aerospace | Summer 2027 - IEF - Systems Engineering - Collegiate Associate in GAC (Savannah) | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Systems-Engineering-Collegiate-Associate-in-GAC-%28Savannah%29-GA-31401/1427917500>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer or RF Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59975>) |
