@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 17, 2026 at 7:11 PM EDT
+Last updated: September 18, 2026 at 12:26 PM EDT
 
-Current roles in this view: 56
+Current roles in this view: 55
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -48,7 +48,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
 | TikTok | Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | $35 - $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667874197682899205>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
-| Vanguard | College to Corporate IT Internship - Technical Product Manager | Malvern, PA | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969>) |
 | Workiva | Spring &amp; Summer 2027 Intern - Product Management | Remote (US) | $40.00 - $40.00/hr | 2027 internship eligible | Posted Aug 30, 2026<br>First seen Aug 31, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355>) |
 | Datadog | Product Management Intern \| Datadog Careers | New York, NY | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
 | Skydio | Hardware Product Management Intern | San Mateo, CA | $47/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
