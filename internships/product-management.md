@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 18, 2026 at 1:11 PM EDT
+Last updated: September 18, 2026 at 3:42 PM EDT
 
-Current roles in this view: 55
+Current roles in this view: 56
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Qualcomm | Product Management Internship - Summer 2027 | San Diego, CA, US | $17.00 - $98.00/hr | 2027 internship eligible | First seen Sep 18, 2026 | [Apply](<https://careers.qualcomm.com/careers/job/446720741706>) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Austin, TX | $39 - $46/hr | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W>) |
 | Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Sep 17, 2026<br>First seen Sep 17, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1>) |
 | 🔥 Johnson &amp; Johnson | Product Management Co-Op | Jacksonville, FL | - | 2027 internship eligible | Posted Sep 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Product-Management-Co-Op_R-098262>) |

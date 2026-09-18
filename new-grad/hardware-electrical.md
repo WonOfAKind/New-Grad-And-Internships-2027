@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 18, 2026 at 1:11 PM EDT
+Last updated: September 18, 2026 at 3:42 PM EDT
 
-Current roles in this view: 44
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amazon | Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS) | US, WA, Bellevue | $96,600 - $160,000 | Verified early career (BS) | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs>) |
 | BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Sep 17, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Electrical/Computer Engineer - RF Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Sep 18, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60087>) |
 | Northrop Grumman | (Skillbridge) – Electrical Engineer 1 | United States-Arizona-Chandler | $63,900.00 - $95,900.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Sep 18, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10251603>) |

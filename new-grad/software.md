@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 18, 2026 at 1:11 PM EDT
+Last updated: September 18, 2026 at 3:42 PM EDT
 
-Current roles in this view: 291
+Current roles in this view: 293
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| SteerBridge | Junior Data Engineer | Vienna, VA | - | Early career | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a>) |
+| Toyota Motor North America | Software Engineer (Early Career Professional) | Plano, Texas | - | Early career | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071>) |
 | CME Group | Software Engineering Fellowship - Summer 2027 | Chicago - 20 S. Wacker, United States of America | - | Early career | First seen Sep 18, 2026 | [Apply](<https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Software-Engineering-Fellowship---Summer-2027_34824>) |
 | TikTok | Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 18, 2026 | [Apply](<https://lifeattiktok.com/search/7672532801686571317>) |
 | BAE Systems | 2027 Entry Level Software Engineer | San Diego, California, United States | - | Early career | Posted Sep 17, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302885&partnerid=25771&siteid=5403>) |
@@ -63,7 +65,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Amentum | Entry Level Software Engineer | Dahlgren, Virginia, US | - | Early career | Posted Sep 10, 2026<br>First seen Sep 11, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-software-engineer-dahlgren-virginia-united-states-9b2aa019-5869-4a29-9003-3a05704e4a64>) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
-| Blue Origin | Software Development Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $110,623.00 - $154,871.85 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Artificial Intelligence, Data Science, Software Engineering - Analytic Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59817>) |
 | Boeing | Entry-Level Systems Engineer (Digital Comm &amp; Networks Sys Engrg) | USA - El Segundo, CA | $79,050 - $106,950 | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769-1>) |
 | AeroVironment | Software Engineer I | Sunrise, FL | $60,500 - $92,500 | Verified early career (BS) | Posted Sep 8, 2026<br>First seen Sep 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Software-Engineer-I_8682>) |
@@ -87,6 +88,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Entry-Level Software Engineer | Austin, TX | $68,000 - $119,000 | Early career | Posted Sep 1, 2026<br>First seen Sep 18, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Austin-TX/Entry-Level-Software-Engineer_8600>) |
 | American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services | Phoenix, AZ | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013259>) |
 | BAE Systems | Entry Level Software Engineer (Hybrid) | Durham, North Carolina, United States | - | Early career | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303556&partnerid=25771&siteid=5403>) |
+| Blue Origin | Software Development Engineer I - Early Career | Kent, WA | $110,623.00 - $154,871.85 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326>) |
 | BlueHalo | Entry-Level Software Engineer | Austin, TX | $68,000 - $119,000 | Early career | Posted Sep 1, 2026<br>First seen Sep 17, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Austin-TX/Entry-Level-Software-Engineer_8600>) |
 | Everlaw | Software Engineer 1 | Oakland, CA | $140,000 per year | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://job-boards.greenhouse.io/everlaw/jobs/4705236006>) |
 | General Motors | Entry Level Software Engineer | Milford, Michigan, United States of America; Warren, Michigan, United States of America | - | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501>) |
