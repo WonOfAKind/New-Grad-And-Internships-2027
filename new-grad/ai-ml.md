@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 21, 2026 at 2:46 PM EDT
+Last updated: September 21, 2026 at 6:26 PM EDT
 
 Current roles in this view: 89
 
@@ -12,11 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| AbbVie | Associate AI Data Scientist I | North Chicago, Illinois, United States | - | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990015538268-associate-ai-data-scientist-i>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/br/pt/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| Hearst | 2027 Hearst AI Newsroom Developer Fellowship Program | San Francisco, CA, United States | - | Explicit new grad role | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417>) |
-| Texas Sports Academy | Junior Software Engineer, AI-Forward - Texas Sports Academy Main | Remote (US) | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/EE83780698>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| Hearst | 2027 Hearst AI Newsroom Developer Fellowship Program | San Francisco, CA | - | Explicit new grad role | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417>) |
+| Texas Sports Academy | Junior Software Engineer, AI-Forward | Remote (US) | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/EE83780698>) |
 | VIAVI | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC USA | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1>) |
 | AIG | 2027 Early Careers: Analyst, Gen AI Engineering – United States, Atlanta, GA | GA-Atlanta | - | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1>) |
 | Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 21, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30218008>) |
