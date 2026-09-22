@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 22, 2026 at 4:36 PM EDT
+Last updated: September 22, 2026 at 7:21 PM EDT
 
-Current roles in this view: 80
+Current roles in this view: 79
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -28,6 +28,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | The Aerospace Corporation | IC 2027 Aerospace Software and Simulation Engineer | El Segundo, CA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Sep 18, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Aerospace-Software-and-Simulation-Engineer_R016573>) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Sep 16, 2026<br>First seen Aug 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=300655&partnerid=25771&siteid=5403>) |
+| Peraton | Associate Systems Engineer | UT | $66,000 - $106,000 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-170493-jobs--engineering-->) |
 | 🔥 United Launch Alliance | Propulsion Systems Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Propulsion-Systems-Engineer-1-AL-35601/1431168300>) |
 | 🔥 Boeing | Entry Level Command and Data Handling Network Engineer (Autonomous Navigation Systems) | USA - El Segundo, CA | $80,750-109,250 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Command-and-Data-Handling-Network--Autonomous-Navigation-Systems-_JR2026523750-1>) |
 | Sierra Space | Manufacturing Engineer I - Solar | Broomfield, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Manufacturing-Engineer-I---Solar_R26265-1>) |
@@ -79,8 +80,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | KBR | JR System Engineer | Chantilly, Virginia | - | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-System-Engineer_R2128868/apply>) |
 | Peraton | Junior Level Test Systems Engineer | VA | $80,000 - $128,000 | Early career | Posted Aug 24, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-test-systems-engineer-springfield-virginia-169928-jobs--engineering-->) |
 | Peraton | Associate Systems Engineer | UT | $51,000 - $82,000 | Verified early career (BS) | Posted Aug 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-168105-jobs--engineering-->) |
-| Amentum | Early Career Payload Integration Systems Engineer (ES2) | Huntsville, Alabama, US | - | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-payload-integration-systems-engineer-es2-huntsville-alabama-united-states>) |
-| Amentum | System Engineer Junior | Vandenberg Space Force Base, California, US | $75,000 - $85,000 annually | Early career | Posted Aug 18, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.amentumcareers.com/jobs/system-engineer-junior-vandenberg-space-force-base-california-united-states>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Aug 17, 2026<br>First seen Sep 7, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1420867300>) |
 | KBR | Jr. Systems Engineer (Digital Engineering Engagement) | Chantilly, Virginia | - | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Engagement-_R2125983/apply>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile, Reentry, and Hypersonics Systems Performance | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 10, 2026<br>First seen Aug 10, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59631>) |
