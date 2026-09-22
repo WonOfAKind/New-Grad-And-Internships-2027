@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 22, 2026 at 1:45 PM EDT
+Last updated: September 22, 2026 at 4:36 PM EDT
 
-Current roles in this view: 52
+Current roles in this view: 53
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Northrop Grumman | 2027 Associate (Thermal) Mechanical Engineer / (Thermal) Mechanical Engineer - Hanover MD | United States-Maryland-Hanover | $66,200 - $99,200 | 2027 grad eligible | Posted Sep 22, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Associate-Mechanical-Engineer---Mechanical-Engineer---Hanover-MD_R10251949>) |
+| 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
 | 🔥 Northrop Grumman | 2027 Associate Mechanical Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $66,200 - $99,200 | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Mechanical-Engineer---Pathways-Program---Baltimore-MD_R10251122>) |
-| 🔥 Northrop Grumman | 2027 Associate Mechanical Engineer / Mechanical Engineer - Hanover MD | United States-Maryland-Hanover | $66,200 - $99,200 | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hanover/XMLNAME-2027-Associate-Mechanical-Engineer---Mechanical-Engineer---Hanover-MD_R10251949>) |
 | 🔥 Northrop Grumman | 2027 Mechanical Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $79,600 - $119,400 | Early career | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer---Pathways-Program---Baltimore-MD_R10251175>) |
 | The Aerospace Corporation | IC 2027 Site Reliability Engineer | El Segundo, CA; Chantilly, VA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 21, 2026<br>First seen Sep 22, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Site-Reliability-Engineer_R016336>) |
 | HPE | Mechanical Hardware Engineer I Graduate | Sunnyvale, California, United States of America | - | Verified early career (BS) | Posted Sep 20, 2026<br>First seen Sep 22, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214998/Mechanical-Hardware-Engineer-I-Graduate>) |

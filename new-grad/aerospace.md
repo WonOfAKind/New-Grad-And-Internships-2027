@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 22, 2026 at 1:45 PM EDT
+Last updated: September 22, 2026 at 4:36 PM EDT
 
 Current roles in this view: 80
 
@@ -12,12 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
 | 🔥 Northrop Grumman | 2027 Associate Systems Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $72,700 - $109,100 | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Systems-Engineer---Pathways-Program---Baltimore-MD_R10251791>) |
 | 🔥 Northrop Grumman | 2027 Systems Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $87,600 - $131,400 | Early career | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer---Pathways-Program---Baltimore-MD_R10251794>) |
 | Sierra Space | Guidance, Navigation &amp; Controls Engineer I | Centennial, CO; Louisville, CO | $83,999.00 - $115,498.25 | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Guidance--Navigation---Controls-Engineer-I_R26306-1>) |
 | The Aerospace Corporation | IC 2027 Site Reliability Engineer | El Segundo, CA; Chantilly, VA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 21, 2026<br>First seen Sep 22, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Site-Reliability-Engineer_R016336>) |
-| 🔥 Anduril | Entry Level Systems Engineer, C2 Integration | Costa Mesa, California, United States | $100,000 - $145,000 USD | Early career | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5243880007>) |
-| 🔥 Anduril | New Grad Systems Engineer, C2 Integration | Costa Mesa, California, United States | $100,000 - $145,000 USD | Explicit new grad role | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5241134007>) |
+| 🔥 Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Early career | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5243880007>) |
+| 🔥 Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Explicit new grad role | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5241134007>) |
 | 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Rocket Lab USA | Flight Software Engineer 1 | Littleton, CO | $85,000 - $100,000 USD | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/rocketlab/jobs/7992129003>) |
@@ -36,7 +37,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 United Launch Alliance | Structural Dynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 16, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Structural-Dynamics-Engineer-1-CO-80112/1430780900>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Navigation Prototyping and Analysis Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60023>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Systems Engineer - Mission Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60039>) |
-| The Aerospace Corporation | IC 2027 Spacecraft Systems Engineer | El Segundo, CA | - | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 18, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Spacecraft-Systems-Engineer_R016454>) |
 | 🔥 United Launch Alliance | Mechanical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Mechanical-Engineer-1-CO-80112/1430181500>) |
 | 🔥 Pratt &amp; Whitney | Leadership Development Program – Engineering, Aerospace/Mechanical Discipline (Starts June 2027) | arlington, Virginia, United States of America | - | 2027 grad eligible | Posted Sep 13, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.rtx.com/ca/fr/job/01874396/Leadership-Development-Program-Engineering-Aerospace-Mechanical-Discipline-Starts-June-2027>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Missile GNC Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60032>) |
