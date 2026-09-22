@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 21, 2026 at 6:26 PM EDT
+Last updated: September 22, 2026 at 1:45 PM EDT
 
-Current roles in this view: 67
+Current roles in this view: 68
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | - | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/134770032394543814>) |
 | American Express | Product Management Intern | New York, NY | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916>) |
 | American Express | Product Management Intern, Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041243-product-manager-intern->) |
