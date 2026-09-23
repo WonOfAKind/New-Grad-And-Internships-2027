@@ -1,32 +1,34 @@
 {
-  "scanned_at": "2026-09-23T20:51:13.577Z",
+  "scanned_at": "2026-09-23T23:20:39.492Z",
   "fresh_leads": [
     {
-      "role_id": "0b614a9e680e982b75a87287",
-      "company_id": "scale-ai",
-      "company": "Scale AI",
+      "role_id": "e0b1aa0a00481c21305aa9f4",
+      "company_id": "bluehalo",
+      "company": "BlueHalo",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Software Engineer, Public Sector - New Grad",
-      "location": "San Francisco, CA",
-      "role_type": "New Grad",
-      "discipline": "Software Engineering",
+      "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+      "location": "Moorpark, CA",
+      "role_type": "Internship",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "software"
+        "aerospace",
+        "hardware-electrical",
+        "ai-ml"
       ],
       "specialties": [],
-      "compensation": "$124,000 - $162,000 USD",
-      "grad_window": "Explicit new grad role",
-      "qualification_text": "requirements Ship full-stack tooling that lets analysts query, visualize, and explore mission data Deploy and harden applications into secure, air-gapped, and cloud-native government environments Requirements A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics) Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to users, figuring out 'what' to build and then iterating Previous Product/Software Engineering internship experience Track record of shipping high-quality products and features at scale Experience building systems that process large volumes of data Experience with Python, Typescript, React, and/or MongoDB Strong written and verbal communication — you will work directly with government stakeholders and must be able to explain technical concepts to non-technical audiences Comfort with ambiguity and evolving requirements, and a willingness to learn new domains quickly qualifications, interview performance, and relevant education or training. Scale employees in eligible roles are also granted equity based compensation, subject to Board of Director approval. Your recruiter can share more about the specific salary range for your preferred location during the hiring process, and confirm whether the hired role will be eligible for equity grant. You'll also receive",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
-      "source": "https://www.scale.com/careers",
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "qualification_text": "Basic Qualifications ( Required Skills & Experience) Currently pursuing a Bachelor's or Master's degree in Computer Science , Aerospace, Electrical Engineering, Robotics , or a related technical field Coursework or project experience in areas such as robotics, autonomy, or computer vision Proficiency in C/C++ (modern standards like C++11 or later preferred) Familiarity with Python and/or MATLAB for data analysis or prototyping Interest in working with UAS , robotics, or autonomous systems Strong analytical, communication, and problem-solving skills Willingness to learn, collaborate, and work in a hands-on environment",
+      "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
+      "source": "https://bluehalo.com/careers/",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
-      "posted_at": "",
+      "posted_at": "2026-09-21",
       "expires_at": "",
-      "updated_at": "2026-09-23T13:55:35-04:00",
-      "source_id": "scale ai|greenhouse",
-      "source_adapter": "greenhouse",
+      "updated_at": "Posted 2 Days Ago",
+      "source_id": "bluehalo|workday",
+      "source_adapter": "workday",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -34,7 +36,7 @@
       "priority": "P0"
     },
     {
-      "role_id": "73d050048ee6479397818bae",
+      "role_id": "bd2449c2b5875231b0dfabbb",
       "company_id": "rtx",
       "company": "RTX",
       "featured_company": true,
@@ -43,201 +45,71 @@
         "mechanical",
         "manufacturing-industrial"
       ],
-      "title": "Test Engineering Co-Op (Summer/Fall 2027)",
-      "location": "melbourne, Florida, United States of America",
-      "role_type": "Internship",
-      "discipline": "Other Engineering",
+      "title": "Engineering Development Program Engineer I (Onsite)",
+      "location": "US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9",
+      "role_type": "New Grad",
+      "discipline": "Aerospace Engineering",
       "disciplines": [
-        "other-engineering"
+        "aerospace"
       ],
-      "specialties": [
-        "test-validation"
-      ],
+      "specialties": [],
       "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Test-Engineering-Co-Op--Summer-Fall-2027-_01875965/apply",
-      "source": "https://careers.rtx.com/global/en/search-results",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-22",
-      "expires_at": "",
-      "updated_at": "2026-09-23T00:00:00.000+0000",
-      "source_id": "rtx|phenom",
-      "source_adapter": "phenom",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "b6ad220d60b85abf38c27608",
-      "company_id": "klaviyo",
-      "company": "Klaviyo",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Machine Learning Engineer Internship-Summer 2027",
-      "location": "Palo Alto, CA",
-      "role_type": "Internship",
-      "discipline": "AI / Machine Learning",
-      "disciplines": [
-        "ai-ml"
-      ],
-      "specialties": [],
-      "compensation": "$65 - $65/hr USD",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "job requirements. If you're a close but not exact match with the description, we hope you'll still consider applying. At Klaviyo, we believe the future of software lies not in productivity tools for human users but in software that can run and optimize itself based on outcome or reward metrics. We've built the infrastructure and application that serve as the interface between businesses and consumers. We now have over 200,000 customers, billions of consumer profiles, and hundreds of billions of customer messages and follow-on conversion data. We have a big opportunity to build state-of-the-art AI and machine learning technologies at Klaviyo to power our products and develop AI agents that can automatically create and execute marketing or customer experiences, strategies, and campaigns for any business. As a Machine Learning Engineer Intern at Klaviyo , you will work with a team of Machine Learning and Full-stack engineers to build models that extract insights from the massive streams of data that Klaviyo ingests continuously. You will apply cutting-edge techniques from deep learning, language modeling, recommender systems, and more to integrate artificial intelligence into our product and bring customers value. You will be a contributing member of the team, learning from experienced engineers and helping to set the standard for excellence. You should have foundational knowledge in machine learning or data science, especially in the domain of deep learning, recommender systems, NLP, generative AI, or related areas. Things you'll do &amp; make a difference Build high-impact ML systems, tackling challenges such as model development, deployment, and scale, with direct ownership of high impact systems. Contribute to the modeling &amp; system design and implementation decisions. Contribute to the development and execution of technical strategies that align with Klaviyo's business goals, ensuring products are not only exceptional but also aligned with the broader vision for a reliable and user-friendly AI/ML platform. Engage with internal stakeholders to understand their needs and resolve blockers. Learn and improve upon engineering-wide processes like recruiting, performance development, communication, and agile development. Stay abreast of emerging AI trends and technologies, identifying and leveraging opportunities for their application within Klaviyo's ecosystem. Work with the team on project planning and defining achievements, identifying dependencies, and meeting business goals. What we are looking for: Pursuing an advanced degree Phd preferred in Computer Science, Artificial Intelligence, Machine Learning, or a related field, Graduating in December 2027 or May/June 2028 Previous internship experience in AI, machine learning, or related fields, with a strong interest in building and deploying machine learning projects. Familiar with large-scale data processing techniques. Good communication skills, capable of collaborating with team members and learning from stakeholders. Foundational understanding through prior internships and projects of AI technologies and their application in business contexts, including deep learning, recommendation systems, NLP, generative AI, or related areas. Ability to code in Python and use standard ML technologies such as PyTorch. job requirements and candidate submitted applications. We began using Covey Scout for Inbound on April 3, 2025. Please see the independent bias audit report covering our use of Covey here Massachusetts Applicants: It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Our salary range reflects the cost of labor across various U.S. geographic markets. The range displayed below reflects the minimum and maximum target salaries for the position across all our US locations. The base salary offered for this position is determined by several factors, including the applicant's job-related skills, relevant experience, education or training, and work location. In addition to base salary, our total compensation package may include participation in the company's annual cash bonus plan, variable compensation (OTE) for sales and customer success roles, equity, sign-on payments, and a comprehensive range of health, welfare, and wellbeing",
-      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
-      "source": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003",
+      "grad_window": "Verified early career (BS)",
+      "qualification_text": "Requirements: The ability to obtain and maintain a U.S. government issued security clearance is required.​ U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance Security Clearance Type: DoD Clearance: Secret Security Clearance Status: Active and existing security clearance required after day 1 Are you ready to explore the world of aerospace and defense? Do you want to learn from and collaborate with some of the greatest minds in the industry? At RTX, our internships, co-ops and full-time careers provide an exceptional foundation to work on complex problems, advance your skills and create a safer, more connected world. Discover opportunities to make a difference at RTX. What You Will Do: Pratt & Whitney's North Berwick Engineering Center (NBEC), located in Southern Maine, is home to a highly collaborative engineering community co-located with Pratt & Whitney's largest manufacturing facility. NBEC supports engineering activities across the full gas-turbine engine—including the Fan, Low Pressure Compressor, High Pressure Compressor, Low Pressure Turbine and High Pressure Turbine—for both commercial and military product lines. This unique co-location enables exceptional hands-on collaboration between engineering, manufacturing, assembly, and operations teams. NBEC engineers contribute across a wide variety of disciplines, including design, structures, project engineering, durability, aero/thermal, repair development, and engineering support to operations. As a Engineering Development Program Engineer I at Pratt & Whitney, you will...... Provide technical support across development, production, and aftermarket programs. Apply engineering principles to solve complex technical challenges. Collaborate with multidisciplinary teams. Assist with technical investigations, testing support, production engineering activities, and continuous improvement projects. Execute Engineering Standard Work and contribute to engineering reviews. What You Will Learn: Candidates hired will begin their first 2.5 years at Pratt & Whitney as part of the Engineering Development Program (EDP). This program consists of three rotations that are 12 months - 9 months - 9 months in duration and typically occur in three distinct disciplines within the hiring department. The intent of our EDP is to offer breadth & depth in various technical experiences through challenging positions available in our organizations. This program will help expand your professional and technical competencies that will serve as the foundation for exceptional contributions that you will make at Pratt & Whitney. Develop breadth and depth through three structured rotations across different engineering disciplines. Participate in technical training such as gas-turbine fundamentals, hands-on engine learning, and mentorship courses. Build your professional network through North Berwick Engine Center Lunch 'n Learns, social events, Engineering Development program (EDP) -wide meetings, and interactions with engineering leaders. Opportunities for exposure to both commercial and military product lines and experience the full lifecycle of engine hardware—from concept to production to sustainment. Qualifications You Must Have: Bachelor's degree in Mechanical, Aerospace, Materials, Electrical, Chemical, Systems, or related Science, Technology Engineering or Mathematics (STEM) field obtained by start date. Experience with one or more Microsoft Office tools Minimum Cumulative GPA of 3.0 Experience may be obtained through on-the-job experience, research, coursework, or projects Qualifications We Prefer: Experience developing broad engineering capability through rotational experiences. Internship, co-op, or project experience related to engineering analysis, design, testing, manufacturing, or systems development. Experience interacting with technical teams, customers, or manufacturing organizations. Demonstrated teamwork, communication skills, and problem-solving ability. Prior RTX internship, co-op, or work experience. What We Offer Our values drive our actions, behaviors, and performance with a vision for a safer, more connected world. At RTX we value: Safety, Trust, Respect, Accountability, Collaboration, and Innovation. Selected candidate will be automatically enrolled in the P&W Engineering Development Program (Rotational Program within P&W). Hands-on collaboration with North Berwick Engine Center (NBEC) engineering and manufacturing groups. Structured training, mentoring, and networking aligned with EDP pillars. Relocation Eligibility Learn More and Apply Now! Please ensure the role type defined below is appropriate for your needs before applying to this role. This position is classified as: Onsite: Employees who are working in Onsite roles will work primarily onsite. This includes all production and maintenance employees, as they are essential to the development of our products. As part of our commitment to maintaining a secure hiring process, candidates may be asked to attend select steps of the interview process in-person at one of our office locations, regardless of whether the role is designated as on-site, hybrid or remote. The salary range for this role is 57,200 USD - 108,800 USD. The salary range provided is a good faith estimate representative of all experience levels. RTX considers several factors when extending an offer, including but not limited to, the role, function and associated responsibilities, a candidate's work experience, location, education/training, and key skills. Hired applicants may be eligible for",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Engineering-Development-Program-Engineer-I--Onsite-_01872522",
+      "source": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Engineering-Development-Program-Engineer-I--Onsite-_01872522",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "posted_at": "2026-09-23",
-      "expires_at": "",
+      "expires_at": "2026-09-26",
       "updated_at": "",
-      "source_id": "klaviyo|discovery_feed",
+      "source_id": "rtx|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:27.776Z",
+      "verified_at": "2026-09-23T23:19:05.345Z",
       "verification_version": 7,
       "priority": "P0"
     },
     {
-      "role_id": "eac2b84344521289b21493d7",
-      "company_id": "renderatl",
-      "company": "RenderATL",
+      "role_id": "b862c03be89f2fd90f08a220",
+      "company_id": "state-street",
+      "company": "State Street",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "2027 US Software Engineering Internship",
-      "location": "Seattle, Washington, United States",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$45 - $45/hr USD",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "you have foundational computer science knowledge and a strong command of one or more object-oriented programming languages. Your passion is software engineering and coming up with innovative solutions for customer problems. You will grow rapidly by driving high impact features to production with coaching from your veteran teammates. This role will enable you to elevate your skills to the next level. As an intern, you will have regular 1:1s with your mentor, an experienced engineer on your team. You will get career advice through regular meetings with your manager, who is accountable for developing the careers of their reports. As part of your internship, you'll get visibility by presenting your ideas, vision, and accomplishments to executive leadership. Join Forces in an exciting environment where you use your passion, experience, and analytical skills to help bring new solutions to public safety and leave a positive impact on the world. What You'll Do Owning and driving end-to-end features with Product and Design Working with the latest open source technologies Participating in code reviews and architecture design meetings Ensuring that your code hits a high bar for quality and performance Daily involvement with all team activities, from standup and sprint planning to team morale events Opportunity for on-site agency visits, including ride alongs What You Bring Pursuing graduation in a Computer Science, Engineering, or a related field at a community college, university, or bootcamp Experience in at least one object-oriented language such as Java, Python, Scala, Go, C#, or similar Effective communication and collaboration skills Cultural alignment to Axon Company Values: https://global.axon.com/company/values A previous software development internship Up-to-date knowledge of the latest in software engineering and open source technologies Working knowledge of database technology such as SQL or NoSQL Good Linux/Unix/Mac experience Work Location This role is based out of our Seattle or Boston office and follows a hybrid schedule. We rely on in-person collaboration and ask that team members work onsite Tuesdays through Fridays, with the flexibility to work remotely on Mondays, unless there is an approved workplace accommodation. We believe that connection fuels innovation, and our in-office culture is designed to foster meaningful teamwork, mentorship, and shared success. Please Note Strive for a full 12 weeks Semester interns: May 2027 – August 2027 Quarter interns: June 2027 – August 2027 Axon's hourly pay philosophy is made up of base pay and bonus. The actual hourly pay is dependent upon many factors such as: level, function, training, transferable skills, work experience, business needs, geographic market, and often a combination of all these factors. Our",
-      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "source": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "renderatl|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:27.831Z",
-      "verification_version": 7,
-      "priority": "P0"
-    },
-    {
-      "role_id": "97f3c8426d4f91bc5d6e8767",
-      "company_id": "caci",
-      "company": "CACI",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Cyber Software Engineer, Junior",
-      "location": "Florham Park, NJ, US",
+      "title": "Junior SIEM Data Engineer",
+      "location": "Quincy, Massachusetts",
       "role_type": "New Grad",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$66,700 - $133,300",
+      "compensation": "$70,000 - $118,750",
       "grad_window": "Early career",
-      "qualification_text": "Qualifications: Required : Hands‑on experience in software design & development, cybersecurity R&D, systems analysis, or capability development. Strong background in networking, distributed systems, autonomous systems, or cyber operations concepts. Proficiency in Python and machine learning frameworks like PyTorch, Tensorflow, numpy, scipy or sklearn. Ability to work in research‑oriented, fast‑moving environments with multidisciplinary teams. Experience with machine learning in perception, planning or control of autonomous systems. Strong Algorithms & Data Structures knowledge Understanding of networking concepts and protocols. (E.g., TCP/IP, TLS) U.S. citizenship with ability to obtain and maintain a security clearance Desired : Experience supporting government research-oriented customers or service cyber components. • Experience developing algorithms for embedded systems and platforms. • Experience in computer vision, machine learning, mathematical optimization, understanding of video encoding Experience working on multithreaded and distributed systems Active Secret, TS, or TS/SCI clearance. - What You Can Expect: A culture of integrity. At CACI, we place character and innovation at the center of everything we do. As a valued team member, you'll be part of a high-performing group dedicated to our customer's missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust. CACI values the unique contributions that every employee brings to our company and our customers - every day. You'll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. A focus on continuous growth. Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy. Pay Range : There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, education, and time off",
-      "url": "https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Cyber-Software-Engineer--Junior_332538",
-      "source": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer--Junior_332538",
+      "qualification_text": "requirements, and support the delivery of reliable security data for downstream cyber analytics and detection use cases. Why This Role Is Important to Us The team you will be joining is part of Cyber Data & Analytics , a function that is vital to the company as it enables cybersecurity teams to make faster, data-driven decisions and strengthen the firm's ability to detect, investigate, and respond to evolving cyber threats. High-quality cybersecurity data is foundational to effective threat detection, incident response, risk reporting, observability, automation, and analytics. This role helps ensure that enterprise security telemetry is accurate , complete, searchable, and fit for purposes across cybersecurity platforms and data environments. What you will be responsible for As Junior SIEM Data Engineer you will: Support onboarding and validation of cybersecurity telemetry from enterprise applications, infrastructure, cloud services, endpoints, identity systems, networks, and security platforms. Assist with analyzing source data structures, log formats, field availability, timestamp patterns, and metadata requirements. S upport data ingestion, transformation, enrichment, routing, and validation activities under the guidance of senior engineers. Help validate data quality across raw, enriched, curated, and analytics-ready data layers. Perform basic data checks for completeness, accuracy, freshness, schema consistency, duplicate records, timestamps, and field-level quali ty. Use query languages and analytical techniques to search, validate , compare, and troubleshoot security telemetry. Assist with identifying data gaps, missing fields, parsing issues, incorrect timestamps, routing issues, and inconsistencies between source and destination data. Support documentation of data source requirements, field mappings, data flow diagrams, transformation logic, validation results, and operational runbooks. Work with cybersecurity, infrastructure, cloud, application, and data engineering teams to understand data requirements and support issue resolution. Participate in operational support activities such as ticket updates, issue tracking, testing, validation evidence, handoffs, and root cause documentation. Support second-line troubleshooting for data engineering jobs, pipelines, and data delivery issues impacting cyber data platforms, under the guidance of senior engineers. What we value These skills will help you succeed in this role: Strong analytical thinking, attention to detail, and willingness to learn security data engineering concepts. Foundational understanding of data engineering, data analytics, cybersecurity, information systems, or cloud computing concepts. Basic knowledge of data ingestion, transformation, enrichment, validation, data quality, and data documentation practices. Ability to use query languages or scripting concepts to analyze, validate , and troubleshoot data. Strong communication , documentation, collaboration, and problem-solving skills, with the ability to work effectively with geographically distributed teams. Education & Requirement This role may follow a hybrid work model, with in-office presence required based on team, business, and location expectations. Standard working hours are 8:00 AM to 5:00 PM local time for the employee's designated work location. Flexibility may be required for occasional operational support, release of activities, incident resolution, escalation support, or data delivery of recovery efforts. Why this role is important to us Our technology function, Global Technology Services (GTS), is vital to State Street and is the key enabler for our business to deliver data and insights to our clients. We're driving the company's digital transformation and expanding business capabilities using industry best practices and advanced technologies such as cloud, artificial intelligence and robotics process automation. We offer a collaborative environment where technology skills and innovation are valued in a global organization. We're looking for top technical talent to join our team and deliver creative technology solutions that help us become an end-to-end, next-generation financial services company. Join us if you want to grow your technical skills, solve real problems and make your mark on our industry. About State Street What we do. State Street is one of the largest custodian banks, asset managers, and asset intelligence companies in the world. From technology to product innovation, we're making our mark on the financial services industry. For more than two centuries, we've been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing , data & analytics, investment research & trading and investment management to institutional clients. Work, Live and Grow. We make all efforts to create a great work environment. Our",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
+      "source": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "posted_at": "2026-09-23",
-      "expires_at": "",
+      "expires_at": "2026-09-24",
       "updated_at": "",
-      "source_id": "caci|discovery_feed",
+      "source_id": "state street|discovery_feed",
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.442Z",
+      "verified_at": "2026-09-23T23:19:05.354Z",
       "verification_version": 7,
       "priority": "P0"
     },
     {
-      "role_id": "06405ee52da0c83e95db39c7",
-      "company_id": "stantec",
-      "company": "Stantec",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)",
-      "location": "New York, NY, United States",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "Minimum requirements include prior exposure to CAD Design programs (AutoCAD/MicroStation), and current good academic standing in accredited engineering school. Past experience with Civil 3D and/or Bentley Inroads/Openroads Designer is preferred. This position requires a 40hr/week commitment. Education and Experience Must be currently enrolled in a Bachelors or Masters Civil Engineering Program #Student Typical office environment involves working with computers and remaining sedentary for long periods of time. Field work may include exposure to the elements including inclement weather. Summer Interns are expected to work 40hrs/week minimum in the office. This description is not a comprehensive listing of activities, duties or responsibilities that may be required of the employee and other duties, responsibilities and activities may be assigned or may be changed at any time with or without notice. Stantec is a place where the best and brightest come to build on each others' talents, do exciting work, and make an impact on the world around us. Join us and redefine your personal best.",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956",
-      "source": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "stantec|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.791Z",
-      "verification_version": 7,
-      "priority": "P0"
-    },
-    {
-      "role_id": "540662b2d62371509ecf864e",
+      "role_id": "b6faf69414632af0d15dab44",
       "company_id": "general-dynamics-information-technology",
       "company": "General Dynamics Information Technology",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "GDIT Summer Internship Program – Summer 2027 Software Development Internship",
-      "location": "USA LA Bossier City",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "$19.55 - $26.45/hr",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "Qualifications: Skills: Collaboration, Computer Information, Computer Literacy Certifications: None Experience: 0 + years of related experience US Citizenship Required: No Job Description: Sponsorship is not available for this role. At GDIT, our people are our business. We pride ourselves on the work our innovators do to support and secure some of the most complex government, defense, and intelligence projects across the world. We wouldn't be successful without our ability to attract new talent to join our team. What sets a GDIT internship experience apart from other organizations in the industry? GDIT's Summer Internship Program is designed with you in mind! Our internship provides you the opportunity to be a part of a collaborative team that is helping to solve our clients' most challenging matters. Throughout GDIT's 10-week Summer Internship Program, you will have the opportunity to do the following: Work side-by-side with GDIT professionals delivering work for clients. Collaborate with a team of peers to research and propose solutions to a current business challenge. Participate in a mentoring circle led by an early career champion. Interact with GDIT leaders. Participate in professional development. How You'll Make this Internship Opportunity Your Own GDIT is seeking a talented Software Developer who is passionate about technology and software applications. This individual must be motivated to deliver innovative capabilities that directly impact some of GDIT's most complex government, defense, and intelligence projects across the country. A Day in the Life Assist in researching, designing, developing, and/or modifying enterprise-wide systems and/or software applications. Assist in designing and coding software components, units, and modules that meet product specifications and development schedules. Assist in performing systems modeling, simulation, and analysis. Assist in testing and debugging assigned components and units. Participates in large system and subsystem planning. Collaborate with hardware engineers on machine characteristics that affect software systems and works with them to resolve incompatibilities working closely with supervision, software development team and customer support team. Create and modify new and/or existing technical documentation such as user manuals, system documentation, and training materials. Troubleshoot problems and provides customer support for software operating systems and application issues. Maintain current knowledge of relevant technology as assigned. Participate in special projects as required. What You'll Need to Deliver Your Best Every Day Strong communication skills. Ability to build meaningful relationships with manager and members of your team in a remote environment. Be self-aware enough to identify and correct your mistakes, and not be afraid to ask for help when needed. Prioritize tasks and responsibilities. Be active in seeking out ways to develop yourself and gain new knowledge personally and professionally. Intuitiveness with an ability to identify and solve complex problems related to rapidly changing technology. A sense of genuine, intellectual curiosity and a nimble mindset Basic understanding of Microsoft Office products (e.g., Word, PowerPoint, SharePoint, Excel, and Teams) The Must-Haves Currently enrolled in an associate's, bachelor's or master's degree program in computer science, IT, engineering, or other STEM field from a United States-based college or university. Desire to learn new software languages and technologies. What Will Make You a Stand-Out Candidate Understanding of automation technologies Understanding of software development best practices Understanding of ITSM concepts GDIT interns are paid and full-time (40 hours/week) for 10 consecutive weeks. Applicants should have a minimum of one semester remaining in their studies after their internship concludes. Take the first step and apply today! Note: We receive a high volume of applications and review them on a rolling basis. We encourage you to apply as soon as possible. Our goal is to follow up with you within two weeks of your application. #GDITInternship #GDITLA The likely hourly rate for this position is between $19.55 - $26.45. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range. Scheduled Weekly Hours: 40 Travel Required: Less than 10% T elecommuting Options: Hybrid Work Location: USA LA Bossier City Additional Work Locations: Total Rewards at GDIT: Our",
-      "url": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
-      "source": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "general dynamics information technology|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.815Z",
-      "verification_version": 7,
-      "priority": "P0"
-    },
-    {
-      "role_id": "e980b5e3f77176a09c52f895",
-      "company_id": "general-dynamics-information-technology",
-      "company": "General Dynamics Information Technology",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "GDIT Summer Internship Program – Summer 2027 AI Network Engineering Internship",
+      "title": "GDIT Summer Internship Program – Summer 2027 Generative AI Software Development Internship",
       "location": "USA LA Bossier City",
       "role_type": "Internship",
       "discipline": "AI / Machine Learning",
@@ -248,9 +120,9 @@
       "specialties": [],
       "compensation": "$19.55 - $26.45/hr",
       "grad_window": "2027 internship eligible",
-      "qualification_text": "Qualifications: Skills: Collaboration, Computer Information, Computer Literacy Certifications: None Experience: 0 + years of related experience US Citizenship Required: No Job Description: Sponsorship is not available for this role. At GDIT, our people are our business. We pride ourselves on the work our innovators do to support and secure some of the most complex government, defense, and intelligence projects across the world. We wouldn't be successful without our ability to attract new talent to join our team. What sets a GDIT internship experience apart from other organizations in the industry? GDIT's Summer Internship Program is designed with you in mind! Our internship provides you the opportunity to be a part of a collaborative team that is helping to solve our clients' most challenging matters. Throughout GDIT's 10-week Summer Internship Program, you will have the opportunity to do the following: Work side-by-side with GDIT professionals delivering work for clients. Collaborate with a team of peers to research and propose solutions to a current business challenge. Participate in a mentoring circle led by an early career champion. Interact with GDIT leaders. Participate in professional development. How You'll Make this Internship Opportunity Your Own Our AI Network Engineering summer interns will work on a range of projects that ideally align with their interests. Some interns will design and prototype agentic AI workflows that integrate data from existing monitoring and control platforms to generate actionable, automated operational intelligence. Other interns will develop methods for aggregating telemetry, analyzing patterns, correlating signals across tools, and producing concise daily reports that highlight key tasks and recommended next steps. This work will explore ways AI can streamline routine diagnostics and pre‑remediation activities, ultimately delivering a functional proof‑of‑concept demonstrating how intelligent agents can support more informed decision-making and help prepare for future automation capabilities. The ideal intern will be familiar with AI/ML concepts, including agentic workflows and LLMs. The Must-Haves Currently enrolled in an associate's, bachelor's or master's degree program in computer science, IT, engineering, or other STEM field from a United States-based college or university. Basic understanding of Microsoft Office products (e.g., Word, PowerPoint, SharePoint, Excel, and Teams) What You'll Need to Deliver Your Best Every Day Problem solving and interest in automated technical workflows Interest in data analytics, log ingestion, and pattern detection Interest in network telemetry and monitoring data (e.g., SNMP, syslog, REST APIs) Interest in tools like SolarWinds, NetBrain, ScienceLogic, or similar platforms Knowledge of AI/ML concepts such as agentic workflows and LLMs Knowledge of networking fundamentals Knowledge of Python or other programming languages to integrate with APIs Experience working in a collaborative team environment. Intuitiveness with an ability to identify and solve complex problems related to rapidly changing technology. Ability to effectively articulate technical challenges and solutions. GDIT interns are paid and full-time (40 hours/week) for 10 consecutive Applicants should have a minimum of one semester remaining in their studies after their internship concludes. Take the first step and apply today! Note: We receive a high volume of applications and review them on a rolling basis. We encourage you to apply as soon as possible. Our goal is to follow up with you within two weeks of your application. #GDITInternship #GDITLA The likely hourly rate for this position is between $19.55 - $26.45. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range. Scheduled Weekly Hours: 40 Travel Required: Less than 10% T elecommuting Options: Hybrid Work Location: USA LA Bossier City Additional Work Locations: Total Rewards at GDIT: Our",
-      "url": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
-      "source": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "qualification_text": "Qualifications: Skills: Collaboration, Computer Information, Computer Literacy Certifications: None Experience: 0 + years of related experience US Citizenship Required: No Job Description: Sponsorship is not available for this role. At GDIT, our people are our business. We pride ourselves on the work our innovators do to support and secure some of the most complex government, defense, and intelligence projects across the world. We wouldn't be successful without our ability to attract new talent to join our team. What sets a GDIT internship experience apart from other organizations in the industry? GDIT's Summer Internship Program is designed with you in mind! Our internship provides you the opportunity to be a part of a collaborative team that is helping to solve our clients' most challenging matters. Throughout GDIT's 10-week Summer Internship Program, you will have the opportunity to do the following: Work side-by-side with GDIT professionals delivering work for clients. Collaborate with a team of peers to research and propose solutions to a current business challenge. Participate in a mentoring circle led by an early career champion. Interact with GDIT leaders. Participate in professional development. How You'll Make this Internship Opportunity Your Own Our Generative AI Software Development summer interns will work on a range of projects that ideally align with their interests. Some interns will support the continued development of generative AI solutions by assisting with design, configuration, testing, documentation, and data analysis. Other interns will help evaluate generative artificial intelligence capabilities, improve solution performance and user experience, and contribute to prototypes and features supporting future customer implementations. The ideal intern will have knowledge of AI engineering and cloud platforms. The Must-Haves Currently enrolled in an associate's, bachelor's or master's degree program in computer science, IT, engineering, or other STEM field from a United States-based college or university. Basic understanding of Microsoft Office products (e.g., Word, PowerPoint, SharePoint, Excel, and Teams) What You'll Need to Deliver Your Best Every Day Problem solving and interest in big data. Interest in data transformation, model selection, cross-validation, and deployment Interest or experience with big data platform tools Knowledge of AI engineering techniques Knowledge of at least one major cloud provider - AWS, Azure, or GCP Knowledge of Python or other programming languages Experience working in a collaborative team environment. Intuitiveness with an ability to identify and solve complex problems related to rapidly changing technology. Ability to effectively articulate technical challenges and solutions. GDIT interns are paid and full-time (40 hours/week) for 10 consecutive Applicants should have a minimum of one semester remaining in their studies after their internship concludes. Take the first step and apply today! Note: We receive a high volume of applications and review them on a rolling basis. We encourage you to apply as soon as possible. Our goal is to follow up with you within two weeks of your application. #GDITInternship #GDITLA The likely hourly rate for this position is between $19.55 - $26.45. This is not, however, a guarantee of compensation or salary. Rather, salary will be set based on experience, geographic location and possibly contractual requirements and could fall outside of this range. Scheduled Weekly Hours: 40 Travel Required: Less than 10% T elecommuting Options: Hybrid Work Location: USA LA Bossier City Additional Work Locations: Total Rewards at GDIT: Our",
+      "url": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
+      "source": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "posted_at": "2026-09-23",
@@ -260,101 +132,73 @@
       "source_adapter": "discovery_feed",
       "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
       "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:29.102Z",
+      "verified_at": "2026-09-23T23:19:05.429Z",
       "verification_version": 7,
       "priority": "P0"
     },
     {
-      "role_id": "84b0eacfcfb010edb0da5e19",
-      "company_id": "insulet-corporation",
-      "company": "Insulet Corporation",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Intern, DevOps Engineer: June-August 2027 (Onsite)",
-      "location": "San Diego, California",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
+      "role_id": "9385de7f1d90a35c8eef33bc",
+      "company_id": "bae-systems",
+      "company": "BAE Systems",
+      "featured_company": true,
+      "featured_disciplines": [
+        "aerospace",
+        "mechanical",
+        "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "$25.00 - $34.00/hr",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "Minimum Requirements: Pursuing a Bachelor's in Computer Science or Electrical and Computer Engineering",
-      "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202",
-      "source": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202",
+      "title": "Junior Quality Engineer",
+      "location": "Hill AFB, Utah, United States",
+      "role_type": "New Grad",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "",
+      "grad_window": "Explicit new grad role",
+      "qualification_text": "Take on the role of Junior Quality Engineer supporting the U.S. Air Force's Sentinel ICBM program. Contribute to quality engineering for critical weapon system development, reviewing technical documentation and collaborating with cross-functional teams. Ideal for recent engineering graduates or those with up to two years' experience in quality engineering. Full-Time Engineering & Technology",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304538&partnerid=25771&siteid=5403",
+      "source": "https://jobs.baesystems.com/global/en/",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "posted_at": "2026-09-23",
-      "expires_at": "2026-12-31",
-      "updated_at": "",
-      "source_id": "insulet corporation|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.895Z",
-      "verification_version": 7,
+      "expires_at": "",
+      "updated_at": "2026-09-23T23:03:16.918+0000",
+      "source_id": "bae systems|phenom",
+      "source_adapter": "phenom",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
       "priority": "P0"
     },
     {
-      "role_id": "c8beb52a7410de70f860632a",
-      "company_id": "waymo",
-      "company": "Waymo",
+      "role_id": "0dcf6d9c3a645d6d65297093",
+      "company_id": "abb",
+      "company": "ABB",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "location": "Mountain View, California, US; San Francisco, California, US",
+      "title": "Chemist/Chemical Engineer Intern - Summer 2027",
+      "location": "Bartlesville, Oklahoma, États-Unis d'Amérique",
       "role_type": "Internship",
-      "discipline": "Software Engineering",
+      "discipline": "Other Engineering",
       "disciplines": [
-        "software"
+        "other-engineering"
       ],
       "specialties": [],
-      "compensation": "$60 - $60/hr USD",
+      "compensation": "$20 - $34 per hour",
       "grad_window": "2027 internship eligible",
-      "qualification_text": "You have: Progressing towards BS or MS in Computer Science or related technical field Interested in infrastructure work: building internal tools, frameworks, and libraries Interested in working in scaling commercial operations Excellent communication skills - both technically with other engineers, and with non-technical stakeholders Excited about working on self-driving cars! We prefer: Experience in general distributed systems and backend development Experience programming in C++ and/or with writing robust, efficient code Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in. The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company's generous You have: Progressing towards BS or MS in Computer Science or related technical field Interested in infrastructure work: building internal tools, frameworks, and libraries Interested in working in scaling commercial operations Excellent communication skills - both technically with other engineers, and with non-technical stakeholders Excited about working on self-driving cars! We prefer: Experience in general distributed systems and backend development Experience programming in C++ and/or with writing robust, efficient code Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in. The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company's generous job requirements and business needs. Waymo does not discriminate against, and prohibits harassment of, any applicant or employee based on race, color, sex, sexual orientation, gender identity, religion, national origin, age, disability, military status, family status, pregnancy, genetic information or any other basis protected by applicable law. Waymo will also consider for employment qualified applicants with criminal records in accordance with applicable law. Waymo is committed to making sure our hiring process is accessible for all candidates. If you need assistance applying for a role or participating in the interview process due to a disability, please let the recruiting team know or email waymo-candidatesupport@google.com. (This email address is intended to be used only for requesting accommodations as part of the application process. Other inquiries will not receive a response.) Tweet Share Quick Links How We Hire Our you have our full support. Enhanced leave options include 26 weeks of paid leave for birthing parents and 18 weeks of paid leave for non-birthing parents. Community and personal development At Waymo, you'll find a range of opportunities to grow, connect, and give back. We offer education reimbursement, personal and professional development, mentorship, and other ways to connect through Employee Resource Groups (ERGs), other internal groups, and even time off to volunteer. Cool perks Access to Google offices, cafes, wellness centers, massages, and so much more. To support your wellbeing at home, you can enjoy at-home fitness and cooking classes, and more. Previous Next Health and wellness Our people are at the heart of everything we do. At Waymo, you can enjoy top-notch medical, dental and vision insurance, mental wellness support, gym membership, and special wellness programs. Financial wellness Your financial peace of mind is important to us. At Waymo, we offer competitive compensation, bonus opportunities, equity, employees provident fund, and lots of other perks and employee discounts. Flexibility and time off Take the time you need to relax and recharge. Enjoy the flexibility to work from another location for four weeks per year. We support an on-site or hybrid work model and offer remote working opportunities, paid time off, bereavement, sick, and parental leave. Supporting families When it comes to growing your family or caring for your loved ones, you have our full support. Enhanced leave options include 26 weeks of paid leave for birthing parents and 18 weeks of paid leave for non-birthing parents. Community and personal development At Waymo, you'll find a range of opportunities to grow, connect, and give back. We offer education reimbursement, personal and professional development, mentorship, and other ways to connect through Employee Resource Groups (ERGs), other internal groups, and even time off to volunteer. Cool perks Access to Google offices, cafes, wellness centers, massages, and so much more. To support your wellbeing at home, you can enjoy at-home fitness and cooking classes, and more. Learn more Ready to Apply? Waymo.com Candidate Privacy Policy Privacy Policy Terms Zero Tolerance Safety Publications Contact Us Blog Research Legal First Responders Waymo Community Notice to CA Residents © 2019-2024 Waymo LLC Search jobs Candidate Details Cookies allow websites to make your Internet experience better. For example, when you set a default language on a website, cookies help the site remember your choice. You can block some or all cookies, but this can cause certain features to stop working. Note that any choice you make here will only affect this website on this browser and device. To learn more about how your data is shared, view our Candidate Privacy Policy page. Manage Consent Preferences Strictly Necessary Cookies These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences , logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. Performance Cookies These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Manage Cookies I do not accept I accept Save",
-      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
-      "source": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "qualification_text": "education/employment opportunities. The work model for the role is onsite/hybrid in Bartlesville, OK You will be mainly accountable for: Collaborating with various teams to support ABB's operations, ensuring effective coordination and timely project completion within the defined timelines. Leveraging insights about customer needs and ABB's offerings to identify suitable solutions for clients, leading to project results that meet customer expectations. Participating in team meetings, brainstorming sessions, and other collaborative efforts. Seeking feedback and guidance from manager and team members to improve performance and skills. Follow specific instructions of supervisor or senior Chemist to perform the less complex professional assignments requiring application of standard engineering principles and practices. Use computers and selected programs for such matters as preparing reports and conducting analyses. Setup Gas Chromatograph applications and verify separations when testing GC columns. Follow all chemical lab safety procedures. Making simple blends for GC testing. Qualifications for the role: Currently enrolled in a bachelor's or master's degree program in Chemistry, Chemical Engineering, or a related field, in the United States. Intern must have reliable transportation to and from the worksite. Must be legally authorized to work in the United States without company sponsorship now and in the future. Utilize critical thinking skills to analyze complex situations and develop strategic solutions. Effectively organize and prioritize tasks to meet deadlines. Exhibit the capability to manage several tasks at once while maintaining high standards of quality. Collaborate with team members to convey ideas, share information, and provide updates on project progress. Why ABB? What's in it for you We want you to bring your full self to work—your ideas, your energy, your ambition. You'll have the tools and freedom to grow your skills, shape your path, and take on challenges that matter. Here, your work creates impact you can see and feel, every day. ABB is an Equal Employment Opportunity and Affirmative Action employer for protected Veterans and Individuals with Disabilities at ABB. All qualified applicants will receive consideration for employment without regard to their- sex (gender identity, gender expression, sexual orientation), marital status, citizenship, age, race and ethnicity, inclusive of traits historically associated with race or ethnicity, including but not limited to hair texture and protective hairstyles, color, religious creed, national origin, pregnancy, physical or mental disability, genetic information, protected Veteran status, or any other characteristic protected by federal and state law. For more information regarding your (EEO) rights as an applicant, please visit the following websites: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf As an Equal Employment Opportunity and Affirmative Action Employer for Protected Veterans and Individuals with Disabilities, applicants may request to review the plan of a particular ABB facility between the hours of 9:00 A.M. - 5:00 P.M. EST Monday through Friday by contacting an ABB HR Representative at 1-888-694-7762. Protected Veterans and Individuals with Disabilities may request a reasonable accommodation if you are unable or limited in your ability to use or access ABB's career site as a result of your disability. You may request reasonable accommodations by calling an ABB HR Representative at 1-888-694-7762 or by sending an email to US-AskHR@abb.com . Resumes and applications will not be accepted in this manner. Internships at ABB within the United States are not eligible for company-sponsored medical qualifications, graduation year and experience. This position is expected to pay between $20 - $34 per hour. Construire un avenir plus propre et plus intelligent nécessite toutes sortes d'esprits : les curieux, les courageux et les créatifs. C'est pourquoi nous accueillons des personnes de tous horizons et aux expériences variées. Envie de faire bouger les choses? Postulez aujourd'hui ou rendez-vous sur https://www.abb.com pour en savoir plus sur l'impact de nos solutions à travers le monde. We're sorry… the job you are trying to apply for has been filled. Souhaitez-vous parcourir les catégories ci-dessous : Pour obtenir des renseignements sur la façon dont nous traitons vos données à caractère personnel , veuillez lire notre Politique de confidentialité — Why joining a team that runs what runs the world? Comment postuler Êtes-vous prêt à faire fonctionner ce qui fait tourner le monde? Obtenez plus d'informations sur notre processus de recrutement et trouvez des conseils et des astuces utiles pour rejoindre l'équipe. En savoir plus slide 1 of 5 Work with purpose Whatever your role at ABB, you can be sure you are helping to create a better world. Through our leading technologies and responsible business practices, we help to address the world's energy challenges, transform industries, and embed sustainability in everything we do, contributing to better lives for people across the globe. — En savoir plus Afficher plus La vie chez ABB Nos valeurs — le courage, la bienveillance, la curiosité et la collaboration — sont au cœur de notre culture. Elles guident nos actions et notre capacité d'innovation. Chez ABB, le progrès est attendu pour vous, votre équipe et le monde qui vous entoure. Nous croyons en l'apprentissage tout au long de la vie et en l'épanouissement personnel. C'est pourquoi nous nous engageons à vous fournir les outils, le soutien et les opportunités nécessaires pour apprendre, créer des liens et évoluer. Lire la suite Diversité et inclusion chez ABB Chez ABB, nous nous engageons à relever certains des plus grands défis mondiaux de notre époque. Cela n'est possible que grâce à des personnes exceptionnelles qui œuvrent chaque jour dans ce sens. Une culture fondée sur la diversité et l'inclusion est essentielle à notre réussite et constitue une véritable force. Chez ABB, nous aspirons à une culture où les différences individuelles ne sont pas seulement acceptées, mais pleinement valorisées et célébrées. Lire la suite ___ Rejoignez nos réseaux Rejoignez notre ABB Talent Community pour accéder aux opportunités d'emploi ciblées et apprenez-en plus sur la vie chez ABB en suivant notre actualité. Join now Avertissement de fraude | Avis de confidentialité du candidat | Diversité et inclusion 200 Gibraltar Road, Suite 315, Horsham, PA 19044 TEL: 888-985-7755 --> Ces liens vous dirigeront vers notre site mondial qui n'est disponible qu'en anglais. Produits et Systèmes Offres A-Z Services Où acheter Solutions pour l'industrie Les partenaires de distribution Bâtiments et infrastructures Automatisation industrielle Industrie maritime et portuaire Industrie pétrolière et gazière Production d'énergie Investisseurs Ressources pour les investisseurs et les actionnaires Résultats trimestriels et rapports annuels Gouvernance d'entreprise Calendrier, événements et publications Entreprise Événements clients Actualités et medias Qui sommes-nous ? Innovation Carrières Développement durable Fournisseurs EEO and Affirmative Action © Copyright 2024 ABB Informations sur les fournisseurs Privacy Notice Change cookie settings Data subject request --> --> --> --> --> -->",
+      "url": "https://careers.abb/global/fr/job/JR00047103/Chemist-Chemical-Engineer-Intern-Summer-2027",
+      "source": "https://careers.abb/global/en",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
-      "posted_at": "2026-09-15",
-      "expires_at": "2026-12-22",
+      "posted_at": "2026-09-22",
+      "expires_at": "",
       "updated_at": "",
-      "source_id": "waymo|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:50:02.079Z",
-      "verification_version": 7,
-      "priority": "P0"
-    },
-    {
-      "role_id": "ff893ae45c7afec38cc7667d",
-      "company_id": "amentum",
-      "company": "Amentum",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Entry-Level Electrical Engineer",
-      "location": "Crane, Indiana, US",
-      "role_type": "New Grad",
-      "discipline": "Hardware & Electrical Engineering",
-      "disciplines": [
-        "hardware-electrical"
-      ],
-      "specialties": [
-        "hardware-electronics"
-      ],
-      "compensation": "$70,000-110,000 annually",
-      "grad_window": "Early career",
-      "qualification_text": "Minimum Qualifications: Bachelor's degree in electrical engineering and relevant experience or understanding of microelectronics and / or electronic components Experience with lab test equipment such as oscilloscopes, meters, and analyzers Excellent problem-solving, communication, and interpersonal skills Motivated and creative with the ability to work effectively across several different functional areas in a collaborative environment Well organized and able to handle multiple projects Ability to be a team player and receive mentoring from senior engineers and leadership Aptitude for solving technical problems and creating customer solutions Understanding of concepts, theories, and methods related to the composition, structure, and properties of microelectronics Must be able to obtain and maintain an active Secret clearance (Note: U.S. Citizenship Required to obtain a security clearance) - Interim Clearance required to start Minimum Qualifications: Bachelor's degree in electrical engineering and relevant experience or understanding of microelectronics and / or electronic components Experience with lab test equipment such as oscilloscopes, meters, and analyzers Excellent problem-solving, communication, and interpersonal skills Motivated and creative with the ability to work effectively across several different functional areas in a collaborative environment Well organized and able to handle multiple projects Ability to be a team player and receive mentoring from senior engineers and leadership Aptitude for solving technical problems and creating customer solutions Understanding of concepts, theories, and methods related to the composition, structure, and properties of microelectronics Must be able to obtain and maintain an active Secret clearance (Note: U.S. Citizenship Required to obtain a security clearance) - Interim Clearance required to start",
-      "url": "https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states-31657653-9a68-40d9-aec6-3ed5d55afebf",
-      "source": "https://www.amentumcareers.com/",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-02",
-      "expires_at": "2026-12-22",
-      "updated_at": "",
-      "source_id": "amentum|sitemap_jobs",
+      "source_id": "abb|sitemap_jobs",
       "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
@@ -363,160 +207,275 @@
       "priority": "P0"
     },
     {
-      "role_id": "ad5758905567f8f589900e7b",
-      "company_id": "figma",
-      "company": "Figma",
+      "role_id": "b862b314dd92af1cbd8e4705",
+      "company_id": "american-express",
+      "company": "American Express",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Engineer Intern (2027)",
-      "location": "San Francisco, CA • New York, NY",
+      "title": "Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC",
+      "location": "Charlotte, NC, United States",
+      "role_type": "New Grad",
+      "discipline": "Data Science & Analytics",
+      "disciplines": [
+        "data",
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 grad eligible",
+      "qualification_text": "Minimum Qualifications Must have earned a Bachelor's degree in Business Administration, Finance, Information Technology, Information Systems, Business Analytics, Data Analytics, Computer Science, Economics, or another relevant field before the full time start date. Students must have a graduation date between December 2026 and June 2027. Interest or experience in data analytics, financial management, portfolio reporting, technology delivery, business intelligence, or data informed decision making. Foundational knowledge of data analytics concepts, including data collection, validation, analysis, visualization, and insight generation. Foundational understanding of financial management principles such as budgeting, forecasting, cost tracking, variance analysis, or financial modeling. Awareness of Software Development Lifecycle and Agile methodology concepts within a technology delivery environment. Foundational understanding of Generative AI concepts, responsible use, appropriate use contexts, prompt based workflows, and human validation of AI generated outputs. Strong analytical thinking, attention to detail, communication, organization, problem solving, and collaboration skills.",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679",
+      "source": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-09-23",
+      "expires_at": "2026-10-31",
+      "updated_at": "",
+      "source_id": "american express|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-09-23T23:19:05.123Z",
+      "verification_version": 7,
+      "priority": "P1"
+    },
+    {
+      "role_id": "8f78b5a4fca6bc75fd041bf6",
+      "company_id": "stryker",
+      "company": "Stryker",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "Design Engineer - Electrical, RISE",
+      "location": "Portage, Michigan",
+      "role_type": "New Grad",
+      "discipline": "Hardware & Electrical Engineering",
+      "disciplines": [
+        "hardware-electrical"
+      ],
+      "specialties": [
+        "hardware-electronics"
+      ],
+      "compensation": "$69,500 - $110,900 USD",
+      "grad_window": "2027 grad eligible",
+      "qualification_text": "requirements. Aid in the development process by ensuring designs are cost efficient, manufacturable, and reliable. May assist in evaluating vendor capability to support development. Submit periodic reports on assigned topics to manager/supervisor/mentor. Present to team members and leadership on accomplishments during each six-month rotation May interact with customers to resolve product issues. All other duties as assigned. What you need B.S or M.S. in Electrical Engineering or related engineering discipline; we will only consider candidates with December 2026 or spring of 2027 graduation dates. 3.0 minimum cumulative GPA (or equivalent). Must be legally authorized to work in the U.S. and not require employment-based sponsorship now or in the future. Self-starter with demonstrated efficient work methods, analytical & problem-solving skills, and ability to handle multiple tasks in a fast-paced environment. The individual should enjoy working in a fast paced, dynamic and results orientated team environment. Strong communication skills with the ability to effectively work cross-functionally and externally as required. Basic knowledge of engineering fundamentals. Must be able to read and interpret complex engineering drawings and have the ability to understand geometrical dimensioning and tolerancing. Experience in an FDA regulated or regulated industry beneficial. High level of PC Skills required. Excellent attention to detail. The Company Stryker is one of the world's leading medical technology companies and, together with our customers, is driven to make healthcare better. We offer innovative products and services in Orthopedics, Medical and Surgical, and Neurotechnology and Spine that help improve patient and hospital outcomes. We grow talent. We give you the opportunity to develop your career based on your strengths and potential, including the possibility to move geographically, functionally, laterally, and vertically. Stryker is a career destination for engaged, passionate and talented people who are driven to seek the innovation, growth, and opportunity that only we offer. Join our global team of 40,000+ people! United States of America Pay Ranges: USN : $69,500 - $110,900 USD Annual US5 : $73,000 - $116,400 USD Annual US10 : $76,500 - $122,000 USD Annual US15 : $79,900 - $127,500 USD Annual US20 : $83,400 - $133,100 USD Annual US30 : $90,400 - $144,200 USD Annual View the U.S. work location and transparency guide to find the pay range for your location. Travel Percentage: 10% Stryker Corporation is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status. Stryker is an EO employer – M/F/Veteran/Disability. Stryker Corporation will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information.",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061",
+      "source": "https://careers.stryker.com/",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-09-01",
+      "expires_at": "",
+      "updated_at": "Posted 22 Days Ago",
+      "source_id": "stryker|workday",
+      "source_adapter": "workday",
+      "discovered_via": "",
+      "verification_status": "",
+      "verified_at": "",
+      "verification_version": 0,
+      "priority": "P1"
+    },
+    {
+      "role_id": "7b6efc6b4a9f4a2bf3b117b6",
+      "company_id": "johnson-johnson",
+      "company": "Johnson & Johnson",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "product-management",
+        "manufacturing-industrial"
+      ],
+      "title": "Software Test Engineering Co-op (Beatbox)",
+      "location": "Danvers, Massachusetts, United States of America",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$23.50/hr",
+      "grad_window": "2027 internship eligible",
+      "qualification_text": "Required Skills:",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707",
+      "source": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--Beatbox-_R-098707",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-09-23",
+      "expires_at": "2026-11-06",
+      "updated_at": "",
+      "source_id": "johnson & johnson|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-09-23T23:19:05.212Z",
+      "verification_version": 7,
+      "priority": "P1"
+    },
+    {
+      "role_id": "3f636bc02ec7be5e88002f61",
+      "company_id": "johnson-johnson",
+      "company": "Johnson & Johnson",
+      "featured_company": true,
+      "featured_disciplines": [
+        "mechanical",
+        "product-management",
+        "manufacturing-industrial"
+      ],
+      "title": "Software Test Engineering Co-op (RLM)",
+      "location": "Danvers, Massachusetts, United States of America",
+      "role_type": "Internship",
+      "discipline": "Software Engineering",
+      "disciplines": [
+        "software"
+      ],
+      "specialties": [
+        "test-validation"
+      ],
+      "compensation": "$23.50/hr",
+      "grad_window": "2027 internship eligible",
+      "qualification_text": "Required Skills:",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
+      "source": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Test-Engineering-Co-op--RLM-_R-098669",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-09-23",
+      "expires_at": "2026-11-06",
+      "updated_at": "",
+      "source_id": "johnson & johnson|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-09-23T23:19:05.409Z",
+      "verification_version": 7,
+      "priority": "P1"
+    },
+    {
+      "role_id": "f15edfd85bea68590225d024",
+      "company_id": "texas-instruments",
+      "company": "Texas Instruments",
+      "featured_company": true,
+      "featured_disciplines": [
+        "hardware-electrical",
+        "manufacturing-industrial"
+      ],
+      "title": "Software Engineering Intern",
+      "location": "Dallas, TX, United States; Sugar Land, TX, United States",
       "role_type": "Internship",
       "discipline": "Software Engineering",
       "disciplines": [
         "software"
       ],
       "specialties": [],
-      "compensation": "$46 - $46/hr USD",
+      "compensation": "",
       "grad_window": "2027 internship eligible",
-      "qualification_text": "you have: Experience coding in Python or a similar language and writing SQL queries Experience building or working with data pipelines, ETL, or large datasets Curiosity about how data systems work and interest in making them more scalable and reliable Strong communication and collaboration skills Excitement to learn, get feedback, and grow as a data engineer At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you're excited about this role but your past experience doesn't align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Pay Transparency Disclosure This internship role is based in either Figma's San Francisco or New York hub offices, and has the hourly base pay rate stated below. Figma also offers interns a housing stipend and travel reimbursement. Figma's compensation and",
-      "url": "https://boards.greenhouse.io/figma/jobs/6178851004",
-      "source": "https://www.figma.com/careers/",
+      "qualification_text": "Minimum Requirements: Currently pursuing a Bachelor's degree in Electrical Engineering, Electrical and Computer Engineering, Computer Engineering, Computer Science or related field Cumulative 3.0/4.0 GPA or higher",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573",
+      "source": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-09-09",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "texas instruments|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-09-23T23:19:45.489Z",
+      "verification_version": 7,
+      "priority": "P1"
+    },
+    {
+      "role_id": "d55fc6daffcc1075d6c3e8c6",
+      "company_id": "xaira-therapeutics",
+      "company": "Xaira Therapeutics",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "AI Scientist Intern, Computational Protein Design",
+      "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+      "role_type": "Internship",
+      "discipline": "AI / Machine Learning",
+      "disciplines": [
+        "ai-ml"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "qualification_text": "Qualifications Currently pursuing a MS or PhD in Computer Science, Machine Learning, or a related technical field, with strong publication record Hands-on experience with PyTorch and training/inference of AI models on GPUs Strong interest in AI innovation and its applications to interdisciplinary fields such as biology and chemistry Extensive hands-on experience with deep learning methods and frameworks Ability to work collaboratively in a team environment and learn from experienced mentors A scientifically curious mindset with a passion for exploring new challenges Experience with large-scale distributed training and inference is a plus Exposure to molecular structure or biological sequence data or computational biology/bioinformatics is a plus, but not required Prior research experience demonstrated through publications and/or significant open source code authorship Interest in contributing to open-source deep learning libraries and frameworks is a plus Internship Duration 3 months The expected monthly compensation range is $10,000–$15,000, depending on experience and qualifications. We are open to higher compensation for candidates with exceptional experience or impact. This internship is designed to provide a unique learning experience, offering hands-on exposure to the intersection of AI and computational protein design while allowing you to contribute meaningfully to real-world projects.",
+      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
+      "source": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
+      "date_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "posted_at": "2026-08-28",
+      "expires_at": "",
+      "updated_at": "",
+      "source_id": "xaira therapeutics|discovery_feed",
+      "source_adapter": "discovery_feed",
+      "discovered_via": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+      "verification_status": "official requisition verified",
+      "verified_at": "2026-09-23T23:20:03.894Z",
+      "verification_version": 7,
+      "priority": "P1"
+    },
+    {
+      "role_id": "ad38d59ecb94b710b4ad20b2",
+      "company_id": "boston-scientific",
+      "company": "Boston Scientific",
+      "featured_company": false,
+      "featured_disciplines": [],
+      "title": "R&D Sustaining Engineering Intern (Maple Grove, MN, US, 55311)",
+      "location": "Maple Grove, MN, US, 55311",
+      "role_type": "Internship",
+      "discipline": "Manufacturing & Industrial Engineering",
+      "disciplines": [
+        "manufacturing-industrial"
+      ],
+      "specialties": [],
+      "compensation": "",
+      "grad_window": "2027 internship eligible",
+      "qualification_text": "Required Qualifications Must graduate between Fall 2027 and Spring 2028 Currently pursuing a bachelors or graduate degree in Biomedical, Mechanical Engineering, or Chemical Engineering. Must be able to commit to one of the following full internship program periods: May 17th – August 6th OR May 24th – August 13th Must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization Must have reliable transportation to and from the Maple Grove, MN (Arbor Lakes) Boston Scientific Corporate location Experience collaborating on an engineering project in school or in a professional environment",
+      "url": "https://jobs.bostonscientific.com/job/Maple-Grove-R&D-Sustaining-Engineering-Intern-MN-55311/1433212500",
+      "source": "https://jobs.bostonscientific.com/",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "posted_at": "",
-      "expires_at": "",
-      "updated_at": "2026-09-23T15:30:27-04:00",
-      "source_id": "figma|greenhouse",
-      "source_adapter": "greenhouse",
+      "expires_at": "2026-10-23",
+      "updated_at": "",
+      "source_id": "boston scientific|rss_jobs",
+      "source_adapter": "rss_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
       "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "9cc1add5ae3d3d122d0d6c90",
-      "company_id": "booz-allen-hamilton",
-      "company": "Booz Allen Hamilton",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "University - Summer 2027 - Quantum Research Intern",
-      "location": "Washington, DC",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "You Have: Experience with research in computer science, quantum technology, physics, chemistry, or mathematics in an academic environment Experience coding using quantum high-level or machine-level languages Knowledge of an object-oriented language, including Java, C++, C#, or Python Ability to perform data gathering, analytical, and problem-solving work Ability to obtain a Secret clearance Scheduled to obtain a Bachelor's degree by Winter 2028 Nice If You Have: Pursuing a Bachelor's degree in CS, Physics, Mathematics, Data Science, Computer Engineering, or Systems Engineering preferred; pursing a Master's degree a plus Clearance: Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information. Compensation At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement",
-      "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University---Summer-2027---Quantum-Research-Intern_R0250129",
-      "source": "https://careers.boozallen.com/jobs/search",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "2026-12-21",
-      "updated_at": "Posted Today",
-      "source_id": "booz allen hamilton|workday",
-      "source_adapter": "workday",
-      "discovered_via": "",
-      "verification_status": "",
-      "verified_at": "",
-      "verification_version": 0,
-      "priority": "P0"
-    },
-    {
-      "role_id": "05f3b758b8c3bd92efcf773f",
-      "company_id": "hitachi",
-      "company": "Hitachi",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Intern – Network Engineering",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "role_type": "Internship",
-      "discipline": "Software Engineering",
-      "disciplines": [
-        "software"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "2027 internship eligible",
-      "qualification_text": "Required skills/experience: Knowledge of networking and/or radio technologies Broad knowledge of Switching and Routing protocols Broad knowledge of wireless communications Ability to use test equipment Excellent written and oral communications skills and ability to communicate complex technical information Strong relevant technical skills Proficiency in Microsoft Office Suite. Attention to detail and ability to multi-task. Education: Current Engineering student at a 4-year university with a graduation date between December 2027 and December 2028. Languages: Fluent in English, both written and verbal. Equal Opportunity Employer (EOE)-Females/Minorities/Protected Veterans/Individuals with Disabilities If you need a reasonable accommodation to apply for a job at Hitachi, please send the nature of request and contact information to hrunitedstates@hitachirail.com. Queries other than accommodation requests will not be responded to. Thank you for your interest in Hitachi Rail. If your application is of interest, we will be in contact. Please do not hesitate to discover more about us and our latest jobs at https://www.hitachirail.com/careers . At Hitachi Rail, there is a place for everyone. We welcome and value differences in background, age, gender, sexuality, family status, disability, race, nationality, ethnicity, religion, and world view. It is our commitment to create an inclusive environment - we are proud to be an equal opportunity employer. We would be delighted if you would be one of our followers at https://www.linkedin.com/company/hitachirail",
-      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1",
-      "source": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Pittsburgh-Pennsylvania-United-States/Intern---Network-Engineering_R0145672-1",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "",
-      "updated_at": "",
-      "source_id": "hitachi|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.660Z",
-      "verification_version": 7,
       "priority": "P1"
     },
     {
-      "role_id": "1af8c0b099f5856e141b87b8",
-      "company_id": "jabil",
-      "company": "Jabil",
+      "role_id": "83f6e245378f04d6849ac39a",
+      "company_id": "thermo-fisher-scientific",
+      "company": "Thermo Fisher Scientific",
       "featured_company": false,
       "featured_disciplines": [],
-      "title": "Data Engineering Intern",
-      "location": "St. Petersburg/Tampa, FL",
+      "title": "Manufacturing Engineering Co-op",
+      "location": "Marietta, Ohio, United States of America",
       "role_type": "Internship",
-      "discipline": "Software Engineering",
+      "discipline": "Manufacturing & Industrial Engineering",
       "disciplines": [
-        "software"
+        "manufacturing-industrial"
       ],
-      "specialties": [],
-      "compensation": "",
+      "specialties": [
+        "manufacturing"
+      ],
+      "compensation": "$18.50 - $28.75/hr",
       "grad_window": "2027 internship eligible",
-      "qualification_text": "Required Skills Strong interest in data management, analytics, reporting, or manufacturing operations. Foundational SQL skills, including joins, filters, aggregations, and basic data validation. Strong Excel skills and comfort working with structured datasets. Strong attention to detail and ability to identify data inconsistencies. Good documentation and communication skills. Ability to work with both technical and non-technical stakeholders. you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access Jabil.com/Careers site as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Always_Accessible@Jabil.com or calling 727-803-7988 with the nature of your request and contact information. Please do not direct any other general employment related questions to this e-mail or phone number. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to. #whereyoubelong #AWorldofPossibilities #EarlyCareer",
-      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
-      "source": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581",
+      "qualification_text": "requirement of the position. Strategic Business Impact For this role, projects may include the following responsibilities: Support day-to-day activities and projects across the team, working with various stakeholders as needed. Assist with data collection, analysis, documentation, and general process improvement initiatives. Contribute to cross-functional projects while gaining exposure to business operations. Compensation & Relocation Our Undergraduate co-ops offer an hourly rate between $18.50 - $28.75 dependent upon the role type and location you are supporting (aligned to respective cost-of-living guidelines). If eligible, a relocation stipend is offered in the amount of $5,000. Students must be located 50+ miles away from the physical location of the internship to be eligible for the relocation stipend. Please note that interns are required to have a reliable mode of transportation to and from their assigned work location for the duration of their co-op. What We Look For Academic Background & Work Experience: Undergraduate student completing a Bachelor's degree in Mechanical Engineering, Industrial Engineering, or a related between December 2027 – June 2029. Previous related co-ops, internships, and / or work experience preferred. Leadership Profile: · Proven leadership experience through student organizations, athletics, Greek life, community service, volunteer organizations, campus programs, military service, or other leadership roles. · A track record of influencing others, leading initiatives, driving results, and creating positive impact within teams and organizations. · Demonstrated ability to navigate ambiguity, adapt to changing priorities, and solve complex problems. · Evidence of grit, resilience, and perseverance when facing challenges, setbacks, or competing priorities. · Strong learning agility, intellectual curiosity, and an innovative mindset. · Excellent interpersonal communication skills and emotional intelligence, with the ability to build relationships across diverse teams. · Geographic mobility and flexibility required to pursue internship and future career opportunities in locations aligned with business needs. · Onsite and in-office work is an essential function of this role and is required throughout the program and in future placements to support collaboration across businesses, functions, and locations. If this sounds like you, we'd love to hear from you! To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience. We're sorry… the job you are trying to apply for has been filled. At Thermo Fisher Scientific, you'll discover an environment that encourages your continual professional development, and you'll have the opportunity to do work that has an impact – because every day, you'll be contributing to our Mission - to enable our customers make the world healthier, cleaner and safer. Thermo Fisher Scientific offers best-in-class Internships and Leadership Development Programs that provide students & new grads with hands-on learning, meaningful project work, and unparalleled growth and networking opportunities. Accessibility/Disability Access We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other",
+      "url": "https://jobs.thermofisher.com/global/en/job/R-01366628/Manufacturing-Engineering-Co-op",
+      "source": "https://jobs.thermofisher.com/global/en",
       "date_seen": "2026-09-23",
       "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
+      "posted_at": "2026-09-21",
       "expires_at": "",
       "updated_at": "",
-      "source_id": "jabil|discovery_feed",
-      "source_adapter": "discovery_feed",
-      "discovered_via": "https://github.com/aprameyak/2027-tech-jobs",
-      "verification_status": "official requisition verified",
-      "verified_at": "2026-09-23T20:49:28.766Z",
-      "verification_version": 7,
-      "priority": "P1"
-    },
-    {
-      "role_id": "1e0ec6c21a5b66e68249484b",
-      "company_id": "sierra-space",
-      "company": "Sierra Space",
-      "featured_company": false,
-      "featured_disciplines": [],
-      "title": "Mechanical Engineer I (Contract)",
-      "location": "Louisville, CO",
-      "role_type": "New Grad",
-      "discipline": "Mechanical Engineering",
-      "disciplines": [
-        "mechanical",
-        "aerospace"
-      ],
-      "specialties": [],
-      "compensation": "",
-      "grad_window": "Verified early career (BS)",
-      "qualification_text": "minimum qualifications below. The Minimum Qualifications: Requires Bachelor's degree in a related field (or equivalent work experience in lieu of degree). Typically entry-level 0 - 2 years of experience. Basic understanding of Mechanical Engineering technical principles, standards, theories, and concepts. Basic application and use of technical principles, standards, theories, and concepts. Ability to help develop solutions to routine technical problems of limited scope and complexity. Ability to work in a team and follow guidance from senior engineers. Clear verbal and written communication of technical concepts and information.",
-      "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I--Contract-_R26221-1",
-      "source": "https://www.sierraspace.com/careers/",
-      "date_seen": "2026-09-23",
-      "last_seen": "2026-09-23",
-      "posted_at": "2026-09-23",
-      "expires_at": "",
-      "updated_at": "Posted Today",
-      "source_id": "sierra space|workday",
-      "source_adapter": "workday",
+      "source_id": "thermo fisher scientific|sitemap_jobs",
+      "source_adapter": "sitemap_jobs",
       "discovered_via": "",
       "verification_status": "",
       "verified_at": "",
@@ -568,12 +527,6 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Northrop Grumman",
-      "title": "2027 Digital Engineer - Pathways Program - Baltimore MD",
-      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10251171",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "title": "2027 Graduate - Electrical/Computer Engineer - RF Engineering",
       "url": "http://careers.jhuapl.edu/jobs/60087",
@@ -586,9 +539,9 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "The Aerospace Corporation",
-      "title": "IC 2027 Electrical Design Engineer",
-      "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Electrical-Design-Engineer_R016563",
+      "company": "Boeing",
+      "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2",
       "reason": "official verification confirmed closure"
     },
     {
@@ -598,15 +551,15 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Draper",
-      "title": "Entry Level RF Engineer",
-      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
+      "company": "Amentum",
+      "title": "Entry-Level Electrical Engineer",
+      "url": "https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states-31657653-9a68-40d9-aec6-3ed5d55afebf",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Stryker",
-      "title": "Design Engineer - Electrical, RISE",
-      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061",
+      "company": "Draper",
+      "title": "Entry Level RF Engineer",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626",
       "reason": "no longer matches board eligibility policy"
     },
     {
@@ -670,22 +623,16 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Texas Instruments",
-      "title": "Software Engineering Intern",
-      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573",
-      "reason": "official qualifications do not match the bachelor's new-grad policy"
-    },
-    {
       "company": "Valkyrie Trading",
       "title": "Junior Software Engineer Intern",
       "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c",
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Xaira Therapeutics",
-      "title": "AI Scientist Intern, Computational Protein Design",
-      "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
-      "reason": "official qualifications do not match the bachelor's new-grad policy"
+      "company": "Wex 🆁",
+      "title": "DevOps & AI Engineering Intern (Undergrad​uate)",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+      "reason": "official verification confirmed closure"
     },
     {
       "company": "Navy Federal",
@@ -694,46 +641,28 @@
       "reason": "no longer matches board eligibility policy"
     },
     {
-      "company": "Boeing",
-      "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Microelectronics R&D Intern",
-      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675",
-      "reason": "no longer matches board eligibility policy"
-    },
-    {
-      "company": "Stanley Black & Decker",
-      "title": "Mechanical Engineering Intern Summer 2027",
-      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017",
-      "reason": "official verification confirmed closure"
-    },
-    {
-      "company": "RTX",
-      "title": "Lean Manufacturing Co-Op (Spring/Summer 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Lean-Manufacturing-Co-Op--Spring-Summer-2027-_01871269/apply",
-      "reason": "official verification confirmed closure"
-    },
-    {
-      "company": "RTX",
-      "title": "Lean Manufacturing Co-Op (Summer/Fall 2027)",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Lean-Manufacturing-Co-Op--Summer-Fall-2027-_01871273/apply",
-      "reason": "official verification confirmed closure"
-    },
-    {
       "company": "Amazon",
       "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
       "url": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
       "reason": "no longer matches board eligibility policy"
     },
     {
+      "company": "Amentum",
+      "title": "Early Career Civil Engineer",
+      "url": "https://www.amentumcareers.com/jobs/early-career-civil-engineer-oak-ridge-tennessee-united-states",
+      "reason": "HTTP 404"
+    },
+    {
       "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-embedded-software-engineer-mountain-view-california-united-states",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
       "reason": "official page does not identify the requisition"
     },
     {
-      "company": "Pratt & Whitney",
-      "title": "Lean Manufacturing Co-Op (Summer/Fall 2027)",
-      "url": "https://careers.rtx.com/pl/pl/job/01871273/Lean-Manufacturing-Co-Op-Summer-Fall-2027",
-      "reason": "HTTP 410"
+      "company": "Motorola Solutions",
+      "title": "2027 Internship - Electrical Engineering",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/XMLNAME-2027-Internship---Electrical-Engineering_R68781",
+      "reason": "official page shell does not expose the requisition"
     }
   ],
   "scan_log": [
@@ -764,7 +693,7 @@
       "source_id": "spacex|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1029,
+      "matches": 1033,
       "phase": "fast-pass"
     },
     {
@@ -784,7 +713,7 @@
       "source_id": "databricks|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 340,
+      "matches": 341,
       "phase": "fast-pass"
     },
     {
@@ -814,7 +743,7 @@
       "source_id": "anduril|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 1088,
+      "matches": 1083,
       "phase": "fast-pass"
     },
     {
@@ -834,7 +763,7 @@
       "source_id": "robinhood|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 75,
+      "matches": 74,
       "phase": "fast-pass"
     },
     {
@@ -1023,7 +952,7 @@
       "source_id": "toast|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 59,
+      "matches": 58,
       "phase": "fast-pass"
     },
     {
@@ -1275,7 +1204,7 @@
       "source_id": "ge vernova|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 31,
+      "matches": 32,
       "phase": "fast-pass"
     },
     {
@@ -1295,7 +1224,7 @@
       "source_id": "bae systems|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 214,
+      "matches": 217,
       "phase": "fast-pass"
     },
     {
@@ -1312,17 +1241,11 @@
       "company": "Woodward",
       "adapter": "workday",
       "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "woodward|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 3,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Woodward",
-      "adapter": "workday",
-      "source_kind": "configured",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Moog",
@@ -1357,7 +1280,7 @@
       "source_id": "united launch alliance|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 19,
+      "matches": 18,
       "phase": "fast-pass"
     },
     {
@@ -1427,7 +1350,7 @@
       "source_id": "kbr|phenom",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 106,
+      "matches": 88,
       "phase": "fast-pass"
     },
     {
@@ -1497,7 +1420,7 @@
       "source_id": "boston scientific|rss_jobs",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 13,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -1624,11 +1547,17 @@
       "company": "NVIDIA",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "nvidia|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 41,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "NVIDIA",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Netflix",
@@ -1847,7 +1776,7 @@
       "source_id": "anthropic|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 169,
+      "matches": 168,
       "phase": "fast-pass"
     },
     {
@@ -1917,7 +1846,7 @@
       "source_id": "lambda|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 34,
+      "matches": 35,
       "phase": "fast-pass"
     },
     {
@@ -1927,7 +1856,7 @@
       "source_id": "fireworks ai|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 16,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -1937,7 +1866,7 @@
       "source_id": "applied intuition|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 135,
+      "matches": 136,
       "phase": "fast-pass"
     },
     {
@@ -2134,21 +2063,33 @@
       "company": "Target Tech",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "target tech|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 0,
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Target Tech",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
+    },
+    {
+      "company": "Home Depot Technology",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
       "company": "Home Depot Technology",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "home depot technology|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 3,
-      "phase": "fast-pass"
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Lowe's Technology",
@@ -2157,7 +2098,7 @@
       "source_id": "lowe's technology|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 5,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -2184,11 +2125,19 @@
       "company": "Zillow",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Zillow",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "zillow|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Yelp",
@@ -2245,16 +2194,8 @@
       "adapter": "workday",
       "source_kind": "discovered",
       "status": "error",
-      "error": "429 Too Many Requests",
+      "error": "Workday workday scan timed out after 90000ms",
       "phase": "fast-pass"
-    },
-    {
-      "company": "Workday",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Workday workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "HPE",
@@ -2263,7 +2204,7 @@
       "source_id": "hpe|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 12,
+      "matches": 10,
       "phase": "fast-pass"
     },
     {
@@ -2290,11 +2231,19 @@
       "company": "Zendesk",
       "adapter": "workday",
       "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Zendesk",
+      "adapter": "workday",
+      "source_kind": "discovered",
       "source_id": "zendesk|workday",
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Zapier",
@@ -2323,7 +2272,7 @@
       "source_id": "docker|ashby",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 18,
+      "matches": 17,
       "phase": "fast-pass"
     },
     {
@@ -2473,7 +2422,7 @@
       "source_id": "snorkel ai|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 12,
+      "matches": 11,
       "phase": "fast-pass"
     },
     {
@@ -2670,11 +2619,17 @@
       "company": "Booz Allen Hamilton",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "booz allen hamilton|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 49,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "L3Harris",
@@ -2723,7 +2678,15 @@
       "source_id": "astranis|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 70,
+      "matches": 76,
+      "phase": "fast-pass"
+    },
+    {
+      "company": "Maxar",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
     },
     {
@@ -2734,7 +2697,7 @@
       "reconciliation": "partial",
       "status": "ok",
       "matches": 0,
-      "phase": "fast-pass"
+      "phase": "double-check"
     },
     {
       "company": "Cedar",
@@ -2753,7 +2716,7 @@
       "source_id": "doximity|greenhouse",
       "reconciliation": "authoritative",
       "status": "ok",
-      "matches": 6,
+      "matches": 5,
       "phase": "fast-pass"
     },
     {
@@ -2880,11 +2843,17 @@
       "company": "Boeing",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "boeing|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 19,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "Boeing",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Honeywell",
@@ -2977,7 +2946,7 @@
       "source_id": "pratt & whitney|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 13,
+      "matches": 15,
       "phase": "fast-pass"
     },
     {
@@ -2994,11 +2963,17 @@
       "company": "AeroVironment",
       "adapter": "workday",
       "source_kind": "discovered",
-      "source_id": "aerovironment|workday",
-      "reconciliation": "partial",
-      "status": "ok",
-      "matches": 15,
+      "status": "error",
+      "error": "429 Too Many Requests",
       "phase": "fast-pass"
+    },
+    {
+      "company": "AeroVironment",
+      "adapter": "workday",
+      "source_kind": "discovered",
+      "status": "error",
+      "error": "429 Too Many Requests",
+      "phase": "double-check"
     },
     {
       "company": "Toyota Motor North America",
@@ -3035,24 +3010,18 @@
       "adapter": "oracle",
       "source_kind": "discovered",
       "status": "error",
-      "error": "request timed out after 10000ms",
+      "error": "Emerson oracle scan timed out after 90000ms",
       "phase": "fast-pass"
     },
     {
       "company": "Rockwell Automation",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "rockwell automation|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 1,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Rockwell Automation",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Carrier",
@@ -3071,7 +3040,7 @@
       "source_id": "trane technologies|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 19,
+      "matches": 16,
       "phase": "fast-pass"
     },
     {
@@ -3088,17 +3057,11 @@
       "company": "Stryker",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "stryker|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 53,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Stryker",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "Stryker workday scan timed out after 60000ms",
-      "phase": "double-check"
     },
     {
       "company": "Abbott",
@@ -3147,7 +3110,7 @@
       "source_id": "curtiss-wright|workday",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 0,
+      "matches": 1,
       "phase": "fast-pass"
     },
     {
@@ -3177,7 +3140,7 @@
       "source_id": "abb|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 23,
+      "matches": 25,
       "phase": "fast-pass"
     },
     {
@@ -3187,7 +3150,7 @@
       "source_id": "thermo fisher scientific|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 1,
+      "matches": 3,
       "phase": "fast-pass"
     },
     {
@@ -3204,17 +3167,11 @@
       "company": "Goodyear",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "goodyear|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 0,
       "phase": "fast-pass"
-    },
-    {
-      "company": "Goodyear",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -3230,17 +3187,11 @@
       "company": "BlueHalo",
       "adapter": "workday",
       "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
+      "source_id": "bluehalo|workday",
+      "reconciliation": "partial",
+      "status": "ok",
+      "matches": 15,
       "phase": "fast-pass"
-    },
-    {
-      "company": "BlueHalo",
-      "adapter": "workday",
-      "source_kind": "discovered",
-      "status": "error",
-      "error": "429 Too Many Requests",
-      "phase": "double-check"
     },
     {
       "company": "Chevron",
@@ -3269,7 +3220,7 @@
       "source_id": "dupont|sitemap_jobs",
       "reconciliation": "partial",
       "status": "ok",
-      "matches": 15,
+      "matches": 14,
       "phase": "fast-pass"
     },
     {
@@ -3324,40 +3275,40 @@
     }
   ],
   "coverage": {
-    "scanned_at": "2026-09-23T20:51:13.577Z",
-    "elapsed_ms": 565921,
+    "scanned_at": "2026-09-23T23:20:39.492Z",
+    "elapsed_ms": 510380,
     "companies_in_target_list": 464,
     "ats_sources_configured": 84,
     "structured_sources_runtime": 253,
     "discovered_sources_active": 169,
     "discovered_companies_active": 169,
-    "companies_with_active_sources": 236,
+    "companies_with_active_sources": 235,
     "discovery_feeds": {
       "feeds_configured": 7,
       "feeds_ok": 7,
       "feeds_error": 0,
-      "rows_parsed": 11656,
-      "official_candidates": 4264,
-      "cached_verifications": 1592,
+      "rows_parsed": 11677,
+      "official_candidates": 4275,
+      "cached_verifications": 1601,
       "reverify_hours": 24,
       "verification_attempts": 2000,
-      "verification_successes": 647,
-      "verification_deferred": 2181,
+      "verification_successes": 641,
+      "verification_deferred": 2177,
       "rejection_counts": {
         "missing required field": 4346,
-        "graduate-degree-only role": 348,
-        "excluded recruiting year": 324,
-        "untracked discipline": 1467,
+        "graduate-degree-only role": 349,
+        "excluded recruiting year": 325,
+        "untracked discipline": 1473,
         "non-official application URL": 129,
         "marked closed by discovery source": 1,
-        "verification: official page does not confirm 2027 new-grad/intern eligibility": 647,
+        "verification: official page does not confirm 2027 new-grad/intern eligibility": 649,
         "verification: official posting closed: official page does not identify the requisition": 58,
         "verification: official posting closed: redirected away from the requisition": 15,
         "verification: official posting closed: provider requisition is no longer listed": 154,
         "verification: official page has an excluded recruiting year": 90,
-        "verification: official posting closed: 404 Not Found": 38,
-        "verification: 405 Not Allowed": 96,
-        "verification: official posting closed: official page shell does not expose the requisition": 54,
+        "verification: official posting closed: official page shell does not expose the requisition": 56,
+        "verification: 405 Not Allowed": 97,
+        "verification: official posting closed: 404 Not Found": 39,
         "verification: 403 Forbidden": 123,
         "verification: official posting closed: explicit closed-page message": 8,
         "verification: official posting closed: Oracle requisition is no longer listed": 47,
@@ -3370,8 +3321,8 @@
       },
       "errors": []
     },
-    "discovery_attempts_this_scan": 0,
-    "discovery_new_sources_this_scan": 0,
+    "discovery_attempts_this_scan": 4,
+    "discovery_new_sources_this_scan": 4,
     "discovery_due_remaining": 0,
     "discovery_status_counts": {
       "error": 45,
@@ -3381,33 +3332,33 @@
     },
     "direct_sources_attempted": 0,
     "double_check_enabled": true,
-    "double_check_attempts": 11,
+    "double_check_attempts": 14,
     "unique_sources_attempted": 253,
-    "total_fetch_attempts": 264,
-    "ok_sources": 236,
-    "error_sources": 16,
+    "total_fetch_attempts": 267,
+    "ok_sources": 235,
+    "error_sources": 17,
     "blocked_sources": 1,
-    "ats_ok_sources": 76,
-    "ats_error_sources": 7,
+    "ats_ok_sources": 77,
+    "ats_error_sources": 6,
     "ats_blocked_sources": 1,
-    "ats_success_percent": 90.5,
+    "ats_success_percent": 91.7,
     "minimum_ats_success_percent": 75,
     "error_breakdown": {
       "404 Not Found": 1,
-      "429 Too Many Requests": 9,
-      "Request Timeout": 6
+      "429 Too Many Requests": 11,
+      "Request Timeout": 5
     },
-    "board_eligible_candidates": 3016,
-    "provider_candidate_checks": 562,
+    "board_eligible_candidates": 2979,
+    "provider_candidate_checks": 521,
     "provider_candidate_closed": 0,
-    "provider_candidate_ineligible": 42,
+    "provider_candidate_ineligible": 43,
     "provider_candidate_unavailable": 0,
-    "closure_checks": 700,
-    "inactive_provider_checks": 546,
-    "inactive_provider_closed": 4,
-    "inactive_provider_ineligible": 2,
+    "closure_checks": 733,
+    "inactive_provider_checks": 556,
+    "inactive_provider_closed": 2,
+    "inactive_provider_ineligible": 0,
     "inactive_provider_unavailable": 0,
-    "closed_roles_removed": 35,
+    "closed_roles_removed": 30,
     "expired_roles_removed": 0,
     "stale_after_days": 21,
     "unattempted_companies": []

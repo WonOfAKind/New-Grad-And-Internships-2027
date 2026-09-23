@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 23, 2026 at 4:51 PM EDT
+Last updated: September 23, 2026 at 7:20 PM EDT
 
-Current roles in this view: 48
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Sep 23, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
 | Northrop Grumman | 2027 Associate Digital Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $80,100 - $102,000 | Verified early career (BS) | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10251163>) |
 | Airbus | Associate Embedded Software Engineer | Bingen, WA | $84,000 - $134,000/year | Early career | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/Associate-Embedded-Software-Engineer_JR10443985>) |
 | 🔥 Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246141007>) |
@@ -22,13 +23,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HPE | Mechanical Hardware Engineer I Graduate | Sunnyvale, California, United States of America | - | Verified early career (BS) | Posted Sep 20, 2026<br>First seen Sep 22, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214998/Mechanical-Hardware-Engineer-I-Graduate>) |
 | Amazon | Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS) | US, WA, Bellevue | $96,600 - $160,000 | Verified early career (BS) | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
-| BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Sep 17, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Electrical/Computer Engineer - RF Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Sep 23, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60087>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | Moog | Associate Electrical Engineer / Electronic Design Engineer. | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 23, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Associate-Electrical-Engineer---Electronic-Design-Engineer_R-26-17318>) |
 | HPE | Mechanical / Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213443/Mechanical-Hardware-Engineer-I-Graduate>) |
 | Boeing | DSP Algorithms Engineer (Entry-Level) | USA - El Segundo, CA | $79,050- $106,950 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1>) |
-| Boeing | Entry-level Digital Electronics Circuit &amp; Unit Hardware Design Engineer | USA - El Segundo, CA | $76,050 - $106,950 | Early career | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2>) |
 | HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213427/Electrical-Hardware-Engineer-I-Graduate>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer - Space Science Electronics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60047>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
@@ -45,10 +44,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | GE Vernova | GE Vernova Nuclear Edison Engineering Development Program - US 2027 | Wilmington NC USA | $75,000.00 | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Edison-Engineering-Development-Program---US-2027_R5045476-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59503>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
-| Amentum | Entry-Level Electrical Engineer | Crane, Indiana, US | $70,000-110,000 annually | Early career | Posted Sep 2, 2026<br>First seen Sep 23, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states-31657653-9a68-40d9-aec6-3ed5d55afebf>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 23, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 23, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Alarm.com | Embedded Software Engineer I | Tysons, VA | $90,000 - $100,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/alarmcom/jobs/8622530002>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zone 5 Technologies | Embedded Software Engineer I/II | San Luis Obispo, CA | $95,000 - $139,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008>) |

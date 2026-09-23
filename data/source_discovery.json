@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-23T20:51:13.577Z",
+  "updated_at": "2026-09-23T23:20:39.492Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-23T17:58:19.166Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-23T17:58:19.166Z"
     },
     "netflix": {
@@ -1929,9 +1929,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-23T17:58:19.166Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-23T17:58:19.166Z"
     },
     "home depot technology": {
@@ -1954,9 +1954,9 @@
         "limit": 20,
         "verified_open_jobs": 1042
       },
-      "last_scan_at": "2026-09-18T23:49:01.706Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-18T23:49:01.706Z"
     },
     "lowe's technology": {
@@ -2116,7 +2116,7 @@
     },
     "expedia group": {
       "company": "Expedia Group",
-      "checked_at": "2026-09-16T23:13:33.830Z",
+      "checked_at": "2026-09-23T23:14:13.846Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2132,12 +2132,12 @@
         "site": "search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 166
+        "verified_open_jobs": 167
       },
-      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-09-16T23:20:34.568Z"
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "hopper": {
       "company": "Hopper",
@@ -2358,9 +2358,9 @@
         "limit": 20,
         "verified_open_jobs": 367
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 60000ms"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -3928,9 +3928,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-23T17:58:19.166Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-23T17:58:19.166Z"
     },
     "l3harris": {
@@ -4588,9 +4588,9 @@
         "limit": 20,
         "verified_open_jobs": 747
       },
-      "last_scan_at": "2026-09-23T17:58:19.166Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-23T17:58:19.166Z"
     },
     "honeywell": {
@@ -5049,9 +5049,9 @@
         "limit": 20,
         "verified_open_jobs": 366
       },
-      "last_scan_at": "2026-09-18T16:26:02.599Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-09-18T16:26:02.599Z"
     },
     "kratos defense": {
@@ -5164,9 +5164,9 @@
         "limit": 100,
         "verified_open_jobs": 30
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
       "last_scan_status": "error",
-      "last_scan_error": "request timed out after 10000ms"
+      "last_scan_error": "Emerson oracle scan timed out after 90000ms"
     },
     "rockwell automation": {
       "company": "Rockwell Automation",
@@ -5188,10 +5188,10 @@
         "limit": 20,
         "verified_open_jobs": 440
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-23T17:58:19.166Z"
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
@@ -5342,10 +5342,10 @@
         "limit": 20,
         "verified_open_jobs": 1465
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms",
-      "last_verified_at": "2026-09-23T17:58:19.166Z"
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5747,7 +5747,7 @@
     },
     "goodyear": {
       "company": "Goodyear",
-      "checked_at": "2026-09-22T17:37:13.883Z",
+      "checked_at": "2026-09-23T23:14:13.846Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5765,10 +5765,10 @@
         "limit": 20,
         "verified_open_jobs": 3
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-22T23:21:05.691Z"
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "michelin": {
       "company": "Michelin",
@@ -5842,7 +5842,7 @@
     },
     "bluehalo": {
       "company": "BlueHalo",
-      "checked_at": "2026-09-22T23:14:41.082Z",
+      "checked_at": "2026-09-23T23:14:13.846Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5858,16 +5858,16 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 367
+        "verified_open_jobs": 370
       },
-      "last_scan_at": "2026-09-23T20:51:13.577Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-22T23:21:05.691Z"
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "chevron": {
       "company": "Chevron",
-      "checked_at": "2026-09-16T23:13:33.830Z",
+      "checked_at": "2026-09-23T23:14:13.846Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5884,10 +5884,10 @@
         "robotsUrl": "https://careers.chevron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-09-16T23:20:34.568Z",
+      "last_scan_at": "2026-09-23T23:20:39.492Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-09-16T23:20:34.568Z"
+      "last_verified_at": "2026-09-23T23:20:39.492Z"
     },
     "shell": {
       "company": "Shell",

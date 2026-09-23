@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 23, 2026 at 4:51 PM EDT
+Last updated: September 23, 2026 at 7:20 PM EDT
 
 Current roles in this view: 69
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Vertiv | Product Management Intern (Summer 2027) | Lincoln, NE, United States | - | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558>) |
+| Vertiv | Product Management Intern (Summer 2027) | Lincoln, NE | - | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558>) |
 | 🔥 Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | - | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/134770032394543814>) |
 | Mastercard | Product Management Intern, Summer 2027 - St. Louis, MO (US) | O'Fallon, Missouri | $30/hr | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1>) |
 | American Express | Product Management Intern | New York, NY | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916>) |
@@ -42,7 +42,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Dodge Center, Minnesota, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49796/Product-Management-Intern-Summer-2027>) |
-| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
+| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA, United States | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7677493272788683013>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7680555984532982069>) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143>) |
