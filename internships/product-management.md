@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 22, 2026 at 7:21 PM EDT
+Last updated: September 23, 2026 at 1:58 PM EDT
 
 Current roles in this view: 69
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Vertiv | Product Management Intern (Summer 2027) | Lincoln, NE, United States | - | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558>) |
 | 🔥 Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | - | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/134770032394543814>) |
 | Mastercard | Product Management Intern, Summer 2027 - St. Louis, MO (US) | O'Fallon, Missouri | $30/hr | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1>) |
 | American Express | Product Management Intern | New York, NY | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916>) |
@@ -52,7 +53,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Oshkosh | Product Management Intern | Dodge Center, MN | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796>) |
 | Philips | Co-op – Software Engineering (APM) - Cambridge, MA - Jan - Aug | Cambridge, MA | $25.00 - $28/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097>) |
 | TikTok | AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670010726514493749>) |
-| TikTok | AI Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667578131150506293>) |
 | TikTok | AI Product Manager Intern (TikTok-Product-Social) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 21, 2026 | [Apply](<https://lifeattiktok.com/search/7675616554318596357>) |
 | TikTok | AI Safety Evaluation &amp; Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 11, 2026 | [Apply](<https://lifeattiktok.com/search/7670529537944766773>) |
 | TikTok | Product Manager Intern (Ads Interface and Platform) - 2027 Summer | San Jose, California, United States of America | $35- $55/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672562486917286149>) |
