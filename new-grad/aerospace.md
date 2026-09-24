@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 24, 2026 at 4:59 PM EDT
+Last updated: September 24, 2026 at 7:49 PM EDT
 
-Current roles in this view: 83
+Current roles in this view: 85
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Peraton | Junior Level Systems Engineer | VA | $86,000 - $138,000 | Early career | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-level-systems-engineer-chantilly-virginia-171276-jobs--engineering-->) |
+| Peraton | Junior Systems Engineer | VA | $86,000 - $138,000 | Early career | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-chantilly-virginia-171285-jobs--engineering-->) |
 | Sierra Space | Systems Engineer I | Louisville, CO | $77,685.00 - $106,816.50 | Verified early career (BS) | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Systems-Engineer-I_R26253>) |
 | 🔥 BAE Systems | Entry Level Systems Engineer | San Diego, California, United States | - | Early career | Posted Sep 23, 2026<br>First seen Sep 17, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303341&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304569&partnerid=25771&siteid=5403>) |
@@ -26,7 +28,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | The Aerospace Corporation | IC 2027 Site Reliability Engineer | El Segundo, CA; Chantilly, VA | $90,000.00 - $100,000.00 | 2027 grad eligible | Posted Sep 21, 2026<br>First seen Sep 22, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/IC-2027-Site-Reliability-Engineer_R016336>) |
 | 🔥 Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Early career | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5243880007>) |
 | 🔥 Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Explicit new grad role | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5241134007>) |
-| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Rocket Lab USA | Flight Software Engineer 1 | Littleton, CO | $85,000 - $100,000 USD | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/rocketlab/jobs/7992129003>) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
@@ -51,7 +53,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 21, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 18, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
-| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
+| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
 | 🔥 Northrop Grumman | 2027 Converting Associate Systems Engineer - Roy UT | United States-Utah-Roy | $ 65,800 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting--Associate-Systems-Engineer---Roy-UT_R10250274-1>) |
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26130-1>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states>) |

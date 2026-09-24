@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 24, 2026 at 4:59 PM EDT
+Last updated: September 24, 2026 at 7:49 PM EDT
 
 Current roles in this view: 41
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Bechtel | 2027 University Hire (U.S.) - Process Engineer | United States | $87,612 - $105,144 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297391EXTERNALENUS/2027-University-Hire-U-S-Process-Engineer>) |
 | Bechtel | 2027 University Hire (U.S.) - Project Controls Engineer | United States | $79,440 - $95,328 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297394EXTERNALENUS/2027-University-Hire-U-S-Project-Controls-Engineer>) |
 | Bechtel | 2027 University Hire (U.S.) - Systems Engineer | United States | $84,204 - $101,052 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297392EXTERNALENUS/2027-University-Hire-U-S-Systems-Engineer>) |

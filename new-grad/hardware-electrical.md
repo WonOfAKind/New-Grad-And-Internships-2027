@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 24, 2026 at 4:59 PM EDT
+Last updated: September 24, 2026 at 7:49 PM EDT
 
-Current roles in this view: 49
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027>) |
 | Amazon | Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027 | US, TX, Austin | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
+| Northrop Grumman | (Skillbridge) – Electrical Engineer 1 | United States-Arizona-Chandler | $63,900.00 - $95,900.00 | Verified early career (BS) | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10250694>) |
 | Northrop Grumman | (Skillbridge) – Electrical Engineer 1 | United States-Arizona-Chandler | $63,900.00 - $95,900.00 | Verified early career (BS) | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10251603>) |
 | Bechtel | 2027 University Hire (U.S.) - Electrical Engineer | United States | $84,984 - $101,988 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297377EXTERNALENUS/2027-University-Hire-U-S-Electrical-Engineer>) |
 | BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Sep 23, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
@@ -49,16 +50,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | GE Vernova | GE Vernova Nuclear Edison Engineering Development Program - US 2027 | Wilmington NC USA | $75,000.00 | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Edison-Engineering-Development-Program---US-2027_R5045476-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59503>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
+| Amentum | Entry-Level Electrical Engineer | Crane, Indiana, US | $70,000-110,000 annually | Early career | Posted Sep 2, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 24, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
-| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 24, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Alarm.com | Embedded Software Engineer I | Tysons, VA | $90,000 - $100,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/alarmcom/jobs/8622530002>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zone 5 Technologies | Embedded Software Engineer I/II | San Luis Obispo, CA | $95,000 - $139,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008>) |
 | Blue Origin | ASIC Engineer - Early Career | Greater Seattle Area; Central Texas; Bay Area, CA | $129,032.00 - $180,644.10 | Early career | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Aug 20, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-169322-jobs--engineering-->) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Irvine, CA | $125,000.00 - $160,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706884002>) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Palo Alto, CA | $135,000.00 - $175,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8703552002>) |
-| SpaceX | New Graduate Engineer, Silicon Engineering | Redmond, WA | $125,000.00 - $165,000.00 | Explicit new grad role | Posted Aug 17, 2026<br>First seen Aug 14, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8706885002>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 
