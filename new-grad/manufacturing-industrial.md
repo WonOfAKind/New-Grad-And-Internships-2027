@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 24, 2026 at 1:58 PM EDT
+Last updated: September 24, 2026 at 4:59 PM EDT
 
-Current roles in this view: 39
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Sep 24, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Bechtel | 2027 University Hire (U.S.) - Process Engineer | United States | $87,612 - $105,144 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297391EXTERNALENUS/2027-University-Hire-U-S-Process-Engineer>) |
+| Bechtel | 2027 University Hire (U.S.) - Project Controls Engineer | United States | $79,440 - $95,328 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297394EXTERNALENUS/2027-University-Hire-U-S-Project-Controls-Engineer>) |
+| Bechtel | 2027 University Hire (U.S.) - Systems Engineer | United States | $84,204 - $101,052 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297392EXTERNALENUS/2027-University-Hire-U-S-Systems-Engineer>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 24, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | Airbus | AGGP2027 - Graduate Quality Engineering | Mobile Area, AL | - | 2027 grad eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP2027---Graduate-Quality-Control-Manager_JR10434815>) |
 | 🔥 BAE Systems | Junior Quality Engineer | Hill AFB, Utah, United States | - | Explicit new grad role | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304538&partnerid=25771&siteid=5403>) |

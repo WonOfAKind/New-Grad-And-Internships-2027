@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 24, 2026 at 1:58 PM EDT
+Last updated: September 24, 2026 at 4:59 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 73
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| LSEG | Engineering Graduate Programme (Boston) | Boston, MA | $52,100 - $86,800 | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://lseg.wd3.myworkdayjobs.com/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734>) |
+| M&amp;T Bank | 2027 Enterprise Operations Development Program- Homeowner Assistance Center (LM Controls, System Admin and Portfolio Reporting) | Getzville, NY | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://mtb.wd5.myworkdayjobs.com/Campus/job/Getzville-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Homeowner-Assistance-Center---LM-Controls--System-Admin-and-Portfolio-Reporting-_R89726>) |
 | Bechtel | 2027 University Hire (U.S.) - Civil/Structural Engineer | United States | $82,440 - $98,928 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297372EXTERNALENUS/2027-University-Hire-U-S-Civil-Structural-Engineer>) |
 | Bechtel | 2027 University Hire (U.S.) - Environmental Engineer | United States | $81,612 - $97,944 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297379EXTERNALENUS/2027-University-Hire-U-S-Environmental-Engineer>) |
+| Bechtel | 2027 University Hire (U.S.) - Nuclear Engineer | United States | $88,500 - $106,200 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297386EXTERNALENUS/2027-University-Hire-U-S-Nuclear-Engineer>) |
+| Bechtel | 2027 University Hire (U.S.) - Startup Engineer | United States | $83,004 - $99,612 annually | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297398EXTERNALENUS/2027-University-Hire-U-S-Startup-Engineer>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 24, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 24, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 24, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
@@ -61,6 +65,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HNTB | New Grad Field Engineer I- Central Division- For Current/Former HNTB Interns Only | Dallas, TX; New Orleans, LA; Plano, TX (Granite Parkway); Kansas City, MO; Round Rock, TX; Houston, TX (Fannin); El Paso, TX; San Antonio, TX (McAllister Freeway); Des Moines, IA; St. Louis, MO; Fort Worth, TX; Oklahoma City, OK; Overland Park, KS (129th Street); Overland Park, KS (Sprint Parkway); Baton Rouge, LA; Little Rock, AR; Austin, TX | - | Explicit new grad role | Posted Aug 27, 2026<br>First seen Aug 18, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Dallas-TX/New-Grad-Field-Engineer-I--Central-Division--For-Current-Former-HNTB-Interns-Only_R-30954-1>) |
 | Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | El Paso, TX, US | $80,000/yr | Early career | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
 | BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Sep 23, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Terracon | Water/Wastewater Field Engineer (Entry Level) | Little Rock, AR, UNITED STATES | - | Early career | Posted Aug 19, 2026<br>First seen Aug 20, 2026 | [Apply](<https://careers.terracon.com/job/little-rock/water-wastewater-field-engineer-entry-level/37184/99500729440>) |
 | Kiewit | Field Engineer 1 - Northern California District | San Jose, CA, US | $87,000/yr | Verified early career (BS) | Posted Aug 18, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Fairfield-Field-Engineer-1-Northern-California-District-CA-94533/1421354200>) |
 | Kimley-Horn | Entry-Level Civil Engineering - Roadway | Irving, TX, US | - | Explicit new grad role | Posted Aug 14, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/25822/entry-level-civil-engineering---roadway/job>) |

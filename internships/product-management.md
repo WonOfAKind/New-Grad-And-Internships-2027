@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 24, 2026 at 1:58 PM EDT
+Last updated: September 24, 2026 at 4:59 PM EDT
 
-Current roles in this view: 69
+Current roles in this view: 70
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Tradeweb | Summer 2027 Data Product Manager Internship | New York, NY, United States | $22-$25 hourly | 2027 internship eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932>) |
 | Vertiv | Product Management Intern (Summer 2027) | Lincoln, NE | - | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278558>) |
 | 🔥 Google | Associate Product Manager Intern, Summer 2027 | Mountain View, CA | - | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.google.com/about/careers/applications/jobs/results/134770032394543814>) |
 | Mastercard | Product Management Intern, Summer 2027 - St. Louis, MO (US) | O'Fallon, Missouri | $30/hr | 2027 internship eligible | Posted Sep 22, 2026<br>First seen Sep 22, 2026 | [Apply](<https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1>) |
