@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 23, 2026 at 7:20 PM EDT
+Last updated: September 24, 2026 at 1:58 PM EDT
 
 Current roles in this view: 24
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| American Express | Campus Undergraduate Full-Time Analyst - 2027 Data &amp; Analytics , Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | - | 2027 grad eligible | Posted Sep 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679>) |
-| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 23, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
+| LSEG | Engineering Graduate Programme (Boston) | Boston, Massachusetts | $52,100 - $86,800 | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://lseg.wd3.myworkdayjobs.com/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734>) |
+| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 24, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | AbbVie | Associate AI Data Scientist I | North Chicago, Illinois, United States | - | Verified early career (BS) | Posted Sep 21, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990015538268-associate-ai-data-scientist-i>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004-entry-level-data-business-analyst>) |
