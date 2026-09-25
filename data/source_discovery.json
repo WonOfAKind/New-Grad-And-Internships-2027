@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-25T18:03:11.204Z",
+  "updated_at": "2026-09-25T21:37:52.955Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -1928,9 +1929,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Target Tech workday scan timed out after 60000ms"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
@@ -2055,7 +2057,7 @@
     },
     "zillow": {
       "company": "Zillow",
-      "checked_at": "2026-09-23T17:49:47.746Z",
+      "checked_at": "2026-09-25T21:30:32.074Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2071,12 +2073,12 @@
         "site": "Zillow_Group_External",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 116
+        "verified_open_jobs": 126
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-23T17:58:19.166Z"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "opendoor": {
       "company": "Opendoor",
@@ -5029,7 +5031,7 @@
     },
     "aerovironment": {
       "company": "AeroVironment",
-      "checked_at": "2026-09-24T17:50:22.129Z",
+      "checked_at": "2026-09-25T21:30:32.074Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5045,12 +5047,12 @@
         "site": "AVAV",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 367
+        "verified_open_jobs": 364
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-24T17:58:30.196Z"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "kratos defense": {
       "company": "Kratos Defense",
@@ -5288,7 +5290,7 @@
     },
     "kla": {
       "company": "KLA",
-      "checked_at": "2026-09-24T20:52:20.051Z",
+      "checked_at": "2026-09-25T21:30:32.074Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5304,12 +5306,12 @@
         "site": "Search",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1021
+        "verified_open_jobs": 1028
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "KLA workday scan timed out after 60000ms",
-      "last_verified_at": "2026-09-24T20:59:16.516Z"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
@@ -5340,9 +5342,10 @@
         "limit": 20,
         "verified_open_jobs": 1474
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "abbott": {
       "company": "Abbott",
@@ -5520,7 +5523,7 @@
     },
     "curtiss-wright": {
       "company": "Curtiss-Wright",
-      "checked_at": "2026-09-18T23:42:00.054Z",
+      "checked_at": "2026-09-25T21:30:32.074Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5536,12 +5539,12 @@
         "site": "CW_External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 347
+        "verified_open_jobs": 353
       },
-      "last_scan_at": "2026-09-25T18:03:11.204Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests",
-      "last_verified_at": "2026-09-18T23:49:01.706Z"
+      "last_scan_at": "2026-09-25T21:37:52.955Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-09-25T21:37:52.955Z"
     },
     "draper": {
       "company": "Draper",
