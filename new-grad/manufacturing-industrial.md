@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 29, 2026 at 2:43 PM EDT
+Last updated: September 29, 2026 at 6:41 PM EDT
 
-Current roles in this view: 40
+Current roles in this view: 41
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Airbus | Manufacturing Engineer I (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--2nd-Shift-_JR10444287>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 29, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Sep 29, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Sep 29, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America | - | Explicit new grad role | Posted Sep 28, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Sep 28, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Moog | Associate Quality Engineer | Torrance, CA | $80,000.00 - $85,000.00 Annually | Verified early career (BS) | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Associate-Quality-Engineer_R-26-20181>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | 🔥 Gulfstream Aerospace | Operations Engineer I | Savannah, GA, US | - | Verified early career (BS) | Posted Sep 27, 2026<br>First seen Sep 28, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Operations-Engineer-I-GA-31401/1434549300>) |

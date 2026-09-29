@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 29, 2026 at 2:43 PM EDT
+Last updated: September 29, 2026 at 6:41 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 48
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -37,7 +37,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 18, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
 | 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
-| Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Structures/ Structural Design Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Structures-Structural-Design-Collegiate-Associate-GA-31401/1428064500>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - Systems Engineering - Collegiate Associate in GAC (Savannah) | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Systems-Engineering-Collegiate-Associate-in-GAC-%28Savannah%29-GA-31401/1427917500>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Sep 5, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
@@ -59,7 +58,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | Early career | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | Amentum | Early Career Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Aug 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-engineer-oak-ridge-tennessee-united-states-4b7c3e56-64b7-435b-9d8a-066855e6ccee>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Thermal and EO/IR Modeling and Simulation Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Aug 3, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59496>) |
-| Amentum | Early Career Structural Engineer | Oak Ridge, Tennessee, US | $61,000 - $86,000 | Early career | Posted Jul 9, 2026<br>First seen Sep 7, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-engineer-oak-ridge-tennessee-united-states-818050e2-ba28-41fa-80a4-18c41d1721de>) |
 | 🔥 Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
 | 🔥 Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 

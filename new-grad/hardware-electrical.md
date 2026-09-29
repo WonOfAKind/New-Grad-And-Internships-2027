@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 29, 2026 at 2:43 PM EDT
+Last updated: September 29, 2026 at 6:41 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304563&partnerid=25771&siteid=5403>) |
+| Boeing | Entry Level Electrical Design Engineer | USA - Hazelwood, MO | - | Early career | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Electrical-Design-Engineer_JR2026521869-1>) |
 | Medtronic | Hardware Engineer I - ACM | Lafayette, Colorado, United States of America | $76,800.00 - $115,200.00 | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60057>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - Neural Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 25, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60068>) |
@@ -46,9 +47,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | GE Vernova | GE Vernova Nuclear Edison Engineering Development Program - US 2027 | Wilmington NC USA | $75,000.00 | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Edison-Engineering-Development-Program---US-2027_R5045476-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59503>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
-| Amentum | Entry-Level Electrical Engineer | Crane, Indiana, US | $70,000-110,000 annually | Early career | Posted Sep 2, 2026<br>First seen Sep 29, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Sep 2, 2026<br>First seen Sep 29, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 29, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Alarm.com | Embedded Software Engineer I | Tysons, VA | $90,000 - $100,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/alarmcom/jobs/8622530002>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
 | Zone 5 Technologies | Embedded Software Engineer I/II | San Luis Obispo, CA | $95,000 - $139,000 USD | Verified early career (BS) | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/zone5technologies/jobs/5209498008>) |
