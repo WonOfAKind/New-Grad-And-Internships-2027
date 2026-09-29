@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 28, 2026 at 4:13 PM EDT
+Last updated: September 29, 2026 at 2:43 PM EDT
 
 Current roles in this view: 67
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
 | Philips | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, Washington, United States | $25.00 - $28/hr | 2027 internship eligible | Posted Sep 28, 2026<br>First seen Sep 28, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564>) |
 | Tradeweb | Summer 2027 Data Product Manager Internship | New York, NY, United States | $22-$25 hourly | 2027 internship eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932>) |
 | ABB | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 24, 2026 | [Apply](<https://careers.abb/global/fr/job/JR00047280/Product-Management-Intern-Summer-2027>) |
@@ -64,7 +65,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
 | TikTok | Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | $35 - $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667874197682899205>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
-| Workiva | Spring &amp; Summer 2027 Intern - Product Management | Remote (US) | $40.00 - $40.00/hr | 2027 internship eligible | Posted Aug 30, 2026<br>First seen Aug 31, 2026 | [Apply](<https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355>) |
 | Datadog | Product Management Intern \| Datadog Careers | New York, NY | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 17, 2026 | [Apply](<https://careers.datadoghq.com/detail/8108241>) |
 | Skydio | Hardware Product Management Intern - Fall 2026/Winter 2027 | San Mateo, CA | $47/hr | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Sep 17, 2026 | [Apply](<https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf>) |
 | Vertiv | Services Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667>) |
