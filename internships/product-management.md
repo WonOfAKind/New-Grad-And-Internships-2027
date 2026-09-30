@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 29, 2026 at 6:41 PM EDT
+Last updated: September 30, 2026 at 2:33 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -33,7 +33,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Intuit | Product Manager Intern | Mountain View, CASan Diego, CA | $39.57 - $76.92/hr | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 14, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632>) |
 | Klaviyo | Product Manager Co-op - Spring 2027 | Boston, MA | $42 - $42/hr USD | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003>) |
 | LabCorp | IT Product Manager Intern - Payer Team | Durham, NC | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
-| Mastercard | Technical Product Management Intern - Switching Solutions | O'Fallon, MO | $25-30/hr | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711>) |
 | Momentive | Product Management Intern - Specialty Additives | Friendly, WV | $22.00 - $26.00/hr | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816>) |
 | Robert Bosch Venture Capital | Product Management AI-Tool Intern (8 months/40hrs per week) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000148575999-product-management-ai-tool-intern-8-months-40hrs-per-week->) |
 | Zurn Elkay Water Solutions | Product Management Intern | Paso Robles, CA | $18.25 - $23/hour | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109>) |
