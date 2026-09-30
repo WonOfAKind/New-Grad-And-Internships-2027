@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 30, 2026 at 2:33 PM EDT
+Last updated: September 30, 2026 at 6:40 PM EDT
 
-Current roles in this view: 67
+Current roles in this view: 69
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
+| Schneider Electric | Graduate Product Management Intern | Franklin, Tennessee, United States | $29.50-$35.50 per hour | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.se.com/jobs/135310>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
 | Philips | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, WA | $25.00 - $28/hr | 2027 internship eligible | Posted Sep 28, 2026<br>First seen Sep 28, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564>) |
 | Tradeweb | Summer 2027 Data Product Manager Internship | New York, NY, United States | $22-$25 hourly | 2027 internship eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932>) |

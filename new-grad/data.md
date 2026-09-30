@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 30, 2026 at 2:33 PM EDT
+Last updated: September 30, 2026 at 6:40 PM EDT
 
 Current roles in this view: 22
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Booz Allen Hamilton | Data Scientist, Junior | Norfolk, VA | $61,900.00 - $141,000.00 | Early career | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Data-Scientist--Junior_R0250696>) |
 | ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
-| General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | Posted Sep 28, 2026<br>First seen Sep 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004-entry-level-data-business-analyst>) |
 | BNY | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245>) |

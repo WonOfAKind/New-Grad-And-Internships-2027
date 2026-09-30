@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 30, 2026 at 2:33 PM EDT
+Last updated: September 30, 2026 at 6:40 PM EDT
 
-Current roles in this view: 68
+Current roles in this view: 69
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,13 +12,14 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Kiewit | Field Engineer 1 - Northwest (Heavy Civil) | San Diego, CA, US | $79,000/yr | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-1-Northwest-%28Heavy-Civil%29-WA-98660/1415415800>) |
+| Kiewit | Field Engineer 1 - Northwest (Heavy Civil) | Tacoma, WA, US | $79,000/yr | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Aug 17, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Vancouver-Field-Engineer-1-Northwest-%28Heavy-Civil%29-WA-98660/1415415800>) |
 | Kiewit | Kiewit Energy - OGC Field Engineer 1 | Houston, TX, US | - | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Sep 1, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Houston-Kiewit-Energy-OGC-Field-Engineer-1-TX-77001/1425306600>) |
 | ExxonMobil | Environment, Climate &amp; Regulatory Engineer Student - January 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Environment%2C-Climate-&-Regulatory-Engineer-Student-January-2027-AB-T2C-5N1/1423763800>) |
 | ExxonMobil | Midstream Engineer (EIT) - AB and ON (Edmonton, AB, CA, T6B 2T4) | Edmonton, AB, CA, T6B 2T4 | - | Early career | First seen Sep 30, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Midstream-Engineer-%28EIT%29-AB-and-ON-AB-T6B-2T4/1424489000>) |
 | ExxonMobil | Upstream Engineer - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Engineer-Students-Seeking-Opportunities-AB-T2C-5N1/1424263400>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | 2027 grad eligible | Posted Sep 28, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/es/es/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | Savannah, GA, US | $80,000/yr | Early career | Posted Sep 26, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
+| General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | Posted Sep 28, 2026<br>First seen Sep 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |
+| Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | Washington, DC, US | $80,000/yr | Early career | Posted Sep 26, 2026<br>First seen Sep 2, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
 | Bechtel | 27 New Grad \| US \| Project Controls Engr | United States | $79,440 - $95,328 annually | Explicit new grad role | First seen Sep 25, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297394EXTERNALENUS/27-New-Grad-US-Project-Controls-Engr>) |
 | LSEG | Engineering Graduate Programme (Boston) | Boston, MA | $52,100 - $86,800 | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://lseg.wd3.myworkdayjobs.com/Careers/job/Boston-Massachusetts/Engineering-Graduate-Programme--Boston-_R0123734>) |
 | M&amp;T Bank | 2027 Enterprise Operations Development Program- Homeowner Assistance Center (LM Controls, System Admin and Portfolio Reporting) | Getzville, NY | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://mtb.wd5.myworkdayjobs.com/Campus/job/Getzville-NY/XMLNAME-2027-Enterprise-Operations-Development-Program--Homeowner-Assistance-Center---LM-Controls--System-Admin-and-Portfolio-Reporting-_R89726>) |
@@ -48,7 +49,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vanguard | Entry Level Application Engineer - 2027 Start Date | Charlotte, NC | - | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412>) |
 | Vanguard | Entry Level Application Engineer - 2027 Start Date - Malvern | Malvern, PA | - | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1>) |
 | Kiewit | Entry Level Field Engineer - Kiewit Foundations Co. 2027 | Houston, TX, US | $82,000/yr | Early career | Posted Sep 12, 2026<br>First seen Sep 14, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Birmingham-Entry-Level-Field-Engineer-Kiewit-Foundations-Co_-2027-AL-35201/1429338700>) |
-| Kiewit | Field/Office Engineer - Central District (Entry-Level) | Marshall, MN, US | $82,000 - $91,000 | Early career | Posted Sep 9, 2026<br>First seen Sep 7, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
+| Kiewit | Field/Office Engineer - Central District (Entry-Level) | Aspen, CO, US | $82,000 - $91,000 | Early career | Posted Sep 9, 2026<br>First seen Sep 7, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
 | Gulfstream Aerospace | Summer 2027 - IEF - Systems Engineering - Collegiate Associate in GAC (Savannah) | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Systems-Engineering-Collegiate-Associate-in-GAC-%28Savannah%29-GA-31401/1427917500>) |
 | ExxonMobil | Upstream Materials Integrity/Machinery Engineering - Students Seeking Opportunities (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-Materials-IntegrityMachinery-Engineering-Students-Seeking-Opportunities-AB-T2C-5N1/1423272800>) |
 | HNTB | New Grad Civil Engineer I - Aviation Group | Las Vegas, NV (Via Austi Parkway) | $69,727.13 - $104,590.70 | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 7, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Las-Vegas-NV-Via-Austi-Parkway/New-Grad-Civil-Engineer-I---Aviation-Group_R-31484-1>) |

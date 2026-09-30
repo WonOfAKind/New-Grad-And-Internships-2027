@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: September 30, 2026 at 2:33 PM EDT
+Last updated: September 30, 2026 at 6:40 PM EDT
 
-Current roles in this view: 75
+Current roles in this view: 76
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 Northrop Grumman | 2027 Associate Systems Engineer - Huntsville (AL) | United States-Alabama-Huntsville | $72,700 - 109,100 | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Engineer---Huntsville--AL-_R10253699>) |
+| Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
 | 🔥 MIT Lincoln Laboratory | Engineering-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400 - $140,000 | Early career | First seen Sep 30, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Engineering-Associate-Staff-MA-02420/1381640200>) |
 | Airbus | Manufacturing Engineer I (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--2nd-Shift-_JR10444287>) |
 | 🔥 Boeing | Entry-Level Guidance, Navigation, and Control (GNC) Engineer | USA - Hill AFB, UT; USA - Layton, UT | $75,650-$102,350 | Early career | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hill-AFB-UT/Entry-Level-Guidance--Navigation--and-Control--GNC--Engineer_JR2026523033>) |
@@ -53,7 +54,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 21, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Blue Origin | Structural &amp; Mechanical Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $81,313.00 - $113,837.85 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Structural---Mechanical-Engineer-I---Early-Career--2027-Starts-_R71329>) |
 | 🔥 Blue Origin | Test Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 18, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Test-Engineer-I---Early-Career--2027-Starts-_R71328>) |
-| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
+| 🔥 Blue Origin | Thermal Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO | $80,499.00 - $112,697.55 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 3, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709>) |
 | Sierra Space | Manufacturing Engineer I | Louisville, CO | $73,231.00 - $100,714.00 | Verified early career (BS) | Posted Sep 10, 2026<br>First seen Sep 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Manufacturing-Engineer-I_R26130-1>) |
 | 🔥 Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
 | 🔥 Gulfstream Aerospace | Spring 2027 - IEF - Structures/ Structural Design Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Structures-Structural-Design-Collegiate-Associate-GA-31401/1428064500>) |
