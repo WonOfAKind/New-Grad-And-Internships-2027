@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 31
+Current roles in this view: 32
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | 🔥 BAE Systems | Junior Quality Engineer | Hill AFB, Utah, United States | - | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304538&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Quality Engineer I | Greenlawn, New York, United States | - | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303821&partnerid=25771&siteid=5403>) |
+| Disney | Decision Science Product Engineering Graduate Associate, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002-2>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |

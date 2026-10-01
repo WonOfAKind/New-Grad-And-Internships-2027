@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 66
+Current roles in this view: 67
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL, United States | - | 2027 internship eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784>) |
 | Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
 | Schneider Electric | Graduate Product Management Intern | Franklin, Tennessee, United States | $29.50-$35.50 per hour | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.se.com/jobs/135310>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 42
+Current roles in this view: 44
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,6 +16,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Oct 1, 2026<br>First seen Sep 29, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304563&partnerid=25771&siteid=5403>) |
 | 🔥 MIT Lincoln Laboratory | RF Communications System Engineer/Analyst-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400-$140,000 | Verified early career (BS) | First seen Oct 1, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-RF-Communications-System-EngineerAnalyst-Associate-Staff-MA-02420/1435676200>) |
 | Northrop Grumman | 2027 Associate Hardware Mechanical Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | $66,200 - $96,400 | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Hardware-Mechanical-Engineer---Rolling-Meadows-IL_R10251726>) |
+| United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Oct 1, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1436016400>) |
 | Boeing | Entry Level Electrical Design Engineer | USA - Hazelwood, MO | - | Early career | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Entry-Level-Electrical-Design-Engineer_JR2026521869-1>) |
 | Medtronic | Hardware Engineer I - ACM | Lafayette, Colorado, United States of America | $76,800.00 - $115,200.00 | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082-1>) |
 | Peraton | Entry-Level Electrical Engineer | MD | $66,000 - $106,000 | Early career | Posted Sep 29, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-electrical-engineer-aberdeen-proving-ground-maryland-171444-jobs--engineering-->) |
@@ -33,6 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Electrical/Computer Engineer - RF Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Oct 1, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60087>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
+| Moog | Associate Electrical Engineer / Electronic Design Engineer. | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Oct 1, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Associate-Electrical-Engineer---Electronic-Design-Engineer_R-26-17318>) |
 | HPE | Mechanical / Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 15, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213443/Mechanical-Hardware-Engineer-I-Graduate>) |
 | HPE | Electrical Hardware Engineer I Graduate | Spring, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213427/Electrical-Hardware-Engineer-I-Graduate>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer - Space Science Electronics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60047>) |

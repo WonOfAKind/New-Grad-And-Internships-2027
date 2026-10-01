@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 75
+Current roles in this view: 78
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a23453f1-ca4e-4a89-ab14-50f9f81da550>) |
 | 🔥 BAE Systems | Entry Level Systems Engineer | San Diego, California, United States | - | Early career | Posted Oct 1, 2026<br>First seen Sep 17, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303341&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Oct 1, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304569&partnerid=25771&siteid=5403>) |
@@ -20,8 +21,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 MIT Lincoln Laboratory | Engineering-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400 - $140,000 | Early career | First seen Oct 1, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Engineering-Associate-Staff-MA-02420/1381640200>) |
 | 🔥 Northrop Grumman | 2027 Associate Systems Engineer - Huntsville (AL) | United States-Alabama-Huntsville | $72,700 - 109,100 | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Systems-Engineer---Huntsville--AL-_R10253699>) |
 | Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Oct 1, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
+| 🔥 United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO, US | $77,111.00 - $128,518.00 | Verified early career (BS) | Posted Sep 30, 2026<br>First seen Oct 1, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1436016400>) |
 | Airbus | Manufacturing Engineer I (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--2nd-Shift-_JR10444287>) |
 | Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states-53b35e4d-2bcb-4831-9de6-75eb653b0cc1>) |
+| Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states>) |
 | 🔥 Boeing | Entry-Level Guidance, Navigation, and Control (GNC) Engineer | USA - Hill AFB, UT; USA - Layton, UT | $75,650-$102,350 | Early career | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hill-AFB-UT/Entry-Level-Guidance--Navigation--and-Control--GNC--Engineer_JR2026523033>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60057>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |

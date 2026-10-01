@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 88
+Current roles in this view: 89
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Disney | Decision Science Product Engineering Graduate Associate, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002-2>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
@@ -98,6 +99,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Software Development Engineer Graduate (Global E-Commerce-Quality Platform &amp; AI Test Automation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 3, 2026 | [Apply](<https://lifeattiktok.com/search/7668827381435517237>) |
 | NewsBreak | Applied AI Engineer, Advertising Agents (New Grad) | Mountain View, CA | $135,000 - $155,000 USD | Explicit new grad role | Posted Jul 27, 2026<br>First seen Jul 28, 2026 | [Apply](<https://job-boards.greenhouse.io/newsbreak/jobs/4700278006>) |
 | Tax Relief Advocates | Junior Machine Learning Engineer | Irvine, CA | $85,000 - $100,000 | Early career | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008>) |
-| IMC Trading | Graduate Machine Learning Researcher - Chicago | Chicago, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
+| IMC Trading | Graduate Deep Learning Researcher - Chicago, New York | Chicago, United States; New York, United States | $300,000 | 2027 grad eligible | First seen Jul 20, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4907416101>) |
 | Notion | Software Engineer, Early Career (AI) | San Francisco, California | $130,000-$150,000 | Explicit new grad role | Posted Jul 6, 2026<br>First seen Sep 4, 2026 | [Apply](<https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28>) |
 

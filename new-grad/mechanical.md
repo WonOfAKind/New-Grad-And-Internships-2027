@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 1, 2026 at 2:57 PM EDT
+Last updated: October 1, 2026 at 7:03 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 46
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a23453f1-ca4e-4a89-ab14-50f9f81da550>) |
 | 🔥 MIT Lincoln Laboratory | Engineering-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400 - $140,000 | Early career | First seen Oct 1, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Engineering-Associate-Staff-MA-02420/1381640200>) |
 | 🔥 Boeing | Entry-Level Mechanical Product Design and Analysis Engineer | USA - El Segundo, CA | $79,050- $106,950 | Early career | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Mechanical-Product-Design-and-Analysis-Engineer_JR2026511162-1>) |
