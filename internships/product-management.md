@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: September 30, 2026 at 6:40 PM EDT
+Last updated: October 1, 2026 at 2:57 PM EDT
 
-Current roles in this view: 69
+Current roles in this view: 66
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,7 +27,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041243-product-manager-intern->) |
 | Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://higher.gs.com/roles/171513?type=students>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
-| Allied Solutions | Product Management Intern - Risk Management | St Paul, MN | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083>) |
 | AspenTech | Product Owner Intern - Product Management | Houston, TXBedford, MA | $28.00 - $ 32.00/hour | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
 | Duolingo | Associate Product Manager Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002>) |
 | Fidelity National Information Services | Product Management Intern - FIS University Program | Milwaukee, WIJacksonville, FLAtlanta, GA | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691>) |
@@ -47,8 +46,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7677493272788683013>) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143>) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678>) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Sunrise, FL | Sunrise, FL | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627>) |
 | Medline | Product Management Intern | Chicago, IL; Northfield, IL | $23.25 - $33.75 Hourly | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983>) |
 | Oshkosh | Product Management Intern | Appleton, WI | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746>) |
 | Oshkosh | Product Management Intern | Dodge Center, MN | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796>) |
