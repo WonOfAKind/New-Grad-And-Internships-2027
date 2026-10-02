@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 2, 2026 at 2:29 PM EDT
+Last updated: October 2, 2026 at 6:31 PM EDT
 
 Current roles in this view: 31
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 2, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | - | Explicit new grad role | Posted Oct 2, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 2, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 2, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 2, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Oct 2, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | 🔥 BAE Systems | Junior Quality Engineer | Hill AFB, Utah, United States | - | Explicit new grad role | Posted Oct 1, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304538&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Quality Engineer I | Greenlawn, New York, United States | - | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303821&partnerid=25771&siteid=5403>) |
