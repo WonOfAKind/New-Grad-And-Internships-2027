@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 1, 2026 at 7:03 PM EDT
+Last updated: October 2, 2026 at 2:29 PM EDT
 
 Current roles in this view: 67
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL, United States | - | 2027 internship eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784>) |
+| BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL | - | 2027 internship eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784>) |
 | Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
 | Schneider Electric | Graduate Product Management Intern | Franklin, Tennessee, United States | $29.50-$35.50 per hour | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.se.com/jobs/135310>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
@@ -42,6 +42,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Qualcomm | Product Management Internship - Summer 2027 | San Diego, CA, US | $17.00 - $98.00/hr | 2027 internship eligible | First seen Sep 18, 2026 | [Apply](<https://careers.qualcomm.com/careers/job/446720741706>) |
 | Duolingo | Associate Product Manager, Intern | Pittsburgh, PA | $54 - $56/hr USD | 2027 internship eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/duolingo/jobs/8806187002>) |
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
+| U.S. Bank | 2027 Product Management Summer Intern | Minneapolis, MN | $21.25 - $28.32/hr | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Dodge Center, Minnesota, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49796/Product-Management-Intern-Summer-2027>) |
 | 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
@@ -73,7 +74,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027>) |
 | Vertiv | IT Systems Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239>) |
 | Vertiv | Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933>) |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - New York, NY | New York, NY | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152>) |
 | Pentair | Product Management Internship | Golden Valley, MN | $28.00/hour | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://pentair.wd5.myworkdayjobs.com/Pentair_Careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713>) |
 | Uline | Product Management Intern | Kenosha, WI | - | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939>) |
 | 🔥 Amazon | 2027 Amazon Leadership Accelerator (ALA) Product Manager Internship | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 4, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship>) |
