@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 2, 2026 at 6:31 PM EDT
+Last updated: October 5, 2026 at 5:27 PM EDT
 
 Current roles in this view: 23
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Oct 5, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1>) |
 | RFCUNY | Associate Data Analyst | New York, NY | - | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696>) |
-| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Oct 2, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004-entry-level-data-business-analyst>) |

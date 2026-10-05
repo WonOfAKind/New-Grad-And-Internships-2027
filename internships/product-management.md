@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 2, 2026 at 6:31 PM EDT
+Last updated: October 5, 2026 at 5:27 PM EDT
 
-Current roles in this view: 67
+Current roles in this view: 65
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,7 +16,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
 | Schneider Electric | Graduate Product Management Intern | Franklin, Tennessee, United States | $29.50-$35.50 per hour | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.se.com/jobs/135310>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
-| Philips | Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027 | Bothell, WA | $25.00 - $28/hr | 2027 internship eligible | Posted Sep 28, 2026<br>First seen Sep 28, 2026 | [Apply](<https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564>) |
 | Tradeweb | Summer 2027 Data Product Manager Internship | New York, NY, United States | $22-$25 hourly | 2027 internship eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932>) |
 | ABB | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 24, 2026 | [Apply](<https://careers.abb/global/fr/job/JR00047280/Product-Management-Intern-Summer-2027>) |
 | ABB | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, Yhdysvallat | $20 - $34 per hour | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 29, 2026 | [Apply](<https://careers.abb/finland/fi/job/JR00047280/Product-Management-Intern-Summer-2027>) |
@@ -34,7 +33,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Gordon Food Service | Digital Product Management Intern | Wyoming, MI | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336>) |
 | Intuit | Product Manager Intern | Mountain View, CASan Diego, CA | $39.57 - $76.92/hr | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 14, 2026 | [Apply](<https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632>) |
 | Klaviyo | Product Manager Co-op - Spring 2027 | Boston, MA | $42 - $42/hr USD | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003>) |
-| LabCorp | IT Product Manager Intern - Payer Team | Durham, NC | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Intern---IT-Product-Manager_2632185>) |
 | Momentive | Product Management Intern - Specialty Additives | Friendly, WV | $22.00 - $26.00/hr | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816>) |
 | Robert Bosch Venture Capital | Product Management AI-Tool Intern (8 months/40hrs per week) | Farmington Hills, Michigan, United States | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000148575999-product-management-ai-tool-intern-8-months-40hrs-per-week->) |
 | Zurn Elkay Water Solutions | Product Management Intern | Paso Robles, CA | $18.25 - $23/hour | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109>) |
@@ -45,7 +43,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | U.S. Bank | 2027 Product Management Summer Intern | Minneapolis, MN | $21.25 - $28.32/hr | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Dodge Center, Minnesota, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49796/Product-Management-Intern-Summer-2027>) |
-| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA, United States | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
+| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7677493272788683013>) |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143>) |
 | Medline | Product Management Intern | Chicago, IL; Northfield, IL | $23.25 - $33.75 Hourly | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983>) |
