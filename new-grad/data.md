@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 6, 2026 at 3:01 PM EDT
+Last updated: October 6, 2026 at 7:06 PM EDT
 
-Current roles in this view: 24
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,7 +13,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Oct 6, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
-| Boeing | Entry Level Test &amp; Evaluation Engineer | USA - Heath, OH | $71,400 - $96,600 | Early career | Posted Oct 5, 2026<br>First seen Oct 6, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1>) |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1>) |
 | RFCUNY | Associate Data Analyst | New York, NY | - | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
