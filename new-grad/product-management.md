@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 6, 2026 at 7:06 PM EDT
+Last updated: October 7, 2026 at 3:26 PM EDT
 
-Current roles in this view: 19
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | $140,000 - $140,000 USD | Early career | First seen Oct 7, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6180116004>) |
 | American Express | Campus Undergraduate Full-Time Associate - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956>) |
 | BNY | 2027 BNY Analyst Program - Product Management | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895>) |
 | 🔥 Stripe | Product Manager: New Grad Accelerator | San Francisco, New York City, Seattle | - | Explicit new grad role | First seen Sep 16, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/7737124>) |
