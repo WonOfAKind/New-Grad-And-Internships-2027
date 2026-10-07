@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 7, 2026 at 3:26 PM EDT
+Last updated: October 7, 2026 at 7:44 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Sierra Space | Electrical Engineer I | Louisville, CO; Centennial, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Electrical-Engineer-I_R26344-1>) |
+| Sierra Space | Electrical Engineer I (C&amp;DH or EPS) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-or-EPS-_R26384>) |
+| Sierra Space | Electrical Engineer I (C&amp;DH/GNC Hardware) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-GNC-Hardware-_R26357-1>) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | Posted Oct 6, 2026<br>First seen Oct 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | Boeing | Entry Level Test &amp; Evaluation Engineer | USA - Heath, OH | $71,400 - $96,600 | Early career | Posted Oct 5, 2026<br>First seen Oct 6, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - Neural Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 5, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60068>) |
@@ -43,7 +46,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Junior Electrical Engineer (NASA Balloon Program) | TX | $51,000 - $82,000 | Early career | Posted Sep 10, 2026<br>First seen Oct 7, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-electrical-engineer-nasa-balloon-program-palestine-texas-170479-jobs--engineering-->) |
 | Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer or RF Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59975>) |
-| The Aerospace Corporation | 2027 Signal Processing and Artificial Intelligence Engineer | El Segundo, CA | $90,000.00 - $140,000.00 | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Signal-Processing-and-Artificial-Intelligence-Engineer_R016449>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | First seen Oct 7, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 7, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59881>) |

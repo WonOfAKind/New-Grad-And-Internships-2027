@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-07T19:26:44.698Z",
+  "updated_at": "2026-10-07T23:44:36.964Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -62,9 +62,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
-      "last_scan_status": "error",
-      "last_scan_error": "NVIDIA workday scan timed out after 60000ms"
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "netflix": {
       "company": "Netflix",
@@ -1878,7 +1879,7 @@
     },
     "target tech": {
       "company": "Target Tech",
-      "checked_at": "2026-10-05T21:20:03.501Z",
+      "checked_at": "2026-10-07T23:37:42.547Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1896,14 +1897,14 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Target Tech workday scan timed out after 60000ms",
-      "last_verified_at": "2026-10-05T21:27:33.970Z"
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-10-05T21:20:03.501Z",
+      "checked_at": "2026-10-07T23:37:42.547Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1919,12 +1920,12 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 978
+        "verified_open_jobs": 984
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
-      "last_verified_at": "2026-10-05T21:27:33.970Z"
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -2325,9 +2326,9 @@
         "limit": 20,
         "verified_open_jobs": 382
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 60000ms"
+      "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
     "cisco": {
       "company": "Cisco",
@@ -4783,9 +4784,10 @@
         "limit": 20,
         "verified_open_jobs": 142
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "canonical": {
       "company": "Canonical",
@@ -4816,9 +4818,10 @@
         "limit": 20,
         "verified_open_jobs": 209
       },
-      "last_scan_at": "2026-10-07T19:26:44.698Z",
-      "last_scan_status": "error",
-      "last_scan_error": "429 Too Many Requests"
+      "last_scan_at": "2026-10-07T23:44:36.964Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "mathworks": {
       "company": "MathWorks",
