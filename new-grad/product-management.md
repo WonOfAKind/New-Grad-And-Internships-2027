@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 7, 2026 at 7:44 PM EDT
+Last updated: October 8, 2026 at 3:22 PM EDT
 
 Current roles in this view: 20
 
@@ -12,13 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| IXL Learning | Associate Product Manager, New Grad | San Mateo, California, US | $95,000 - $120,000 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8862211002>) |
 | Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | $140,000 - $140,000 USD | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6180116004>) |
 | American Express | Campus Undergraduate Full-Time Associate - 2027 Digital Product Management, Enterprise Technology Services- New York, NY | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956>) |
 | BNY | 2027 BNY Analyst Program - Product Management | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895>) |
 | 🔥 Stripe | Product Manager: New Grad Accelerator | San Francisco, New York City, Seattle | - | Explicit new grad role | First seen Sep 16, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/7737124>) |
 | Solace Health | Associate Product Manager (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea>) |
-| Robinhood | Associate Product Manager (New Grad) | Menlo Park, CA; New York, NY | $130,000 - $130,000 USD | Explicit new grad role | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8199973>) |
-| IXL Learning | Associate Product Manager New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://job-boards.greenhouse.io/ixllearning/jobs/8765765002>) |
+| Robinhood | Associate Product Manager (New Grad) | New York, NY | $130,000 - $130,000 USD | Explicit new grad role | Posted Sep 14, 2026<br>First seen Sep 14, 2026 | [Apply](<https://boards.greenhouse.io/robinhood/jobs/8199973>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Social) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 31, 2026 | [Apply](<https://lifeattiktok.com/search/7675616322118584629>) |
 | TikTok | GEO Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573235673073925>) |
 | TikTok | POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7667573398700165429>) |
