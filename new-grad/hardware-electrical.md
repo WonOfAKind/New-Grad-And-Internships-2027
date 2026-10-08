@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 8, 2026 at 3:22 PM EDT
+Last updated: October 8, 2026 at 7:54 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 43
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -15,6 +15,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Electrical Engineer I | Petaluma, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Petaluma-CA/Electrical-Engineer-I_9066>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Oct 8, 2026<br>First seen Sep 29, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304563&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 8, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
+| Leidos | Entry Level Avionics Engineer - Hypersonics | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Avionics-Engineer---Hypersonics_R-00194083>) |
+| Leidos | Entry-Level Electrical Hardware Design Engineer | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Electrical-Hardware-Design-Engineer_R-00194096>) |
 | Sierra Space | Electrical Engineer I | Louisville, CO; Centennial, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 8, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Electrical-Engineer-I_R26344-1>) |
 | Sierra Space | Electrical Engineer I (C&amp;DH or EPS) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 8, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-or-EPS-_R26384>) |
 | Sierra Space | Electrical Engineer I (C&amp;DH/GNC Hardware) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-GNC-Hardware-_R26357-1>) |
@@ -47,10 +49,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer or RF Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59975>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | First seen Oct 8, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59881>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
 | United Launch Alliance | Embedded Flight Software Engineer 1 | Centennial, CO | $77,111.00 - $128,518.00 | Explicit new grad role | Posted Aug 28, 2026<br>First seen Aug 26, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Embedded-Flight-Software-Engineer-1-CO-80112/1423541600>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 

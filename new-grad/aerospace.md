@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 8, 2026 at 3:22 PM EDT
+Last updated: October 8, 2026 at 7:54 PM EDT
 
-Current roles in this view: 82
+Current roles in this view: 83
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Leidos | Entry Level Avionics Engineer - Hypersonics | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Avionics-Engineer---Hypersonics_R-00194083>) |
 | 🔥 BAE Systems | Mechanical Engineer I (Entry Level) | Lexington Park, Maryland, United States | - | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303449&partnerid=25771&siteid=5403>) |
 | Sierra Space | Electrical Engineer I (C&amp;DH/GNC Hardware) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-GNC-Hardware-_R26357-1>) |
 | Sierra Space | Loads &amp; Dynamics Engineer I | Centennial, CO; Louisville, CO | $82,646.00 - $113,638.25 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 8, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Loads---Dynamics-Engineer-I_R26356-1>) |
@@ -45,7 +46,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
 | 🔥 Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Early career | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5243880007>) |
 | 🔥 Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Explicit new grad role | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5241134007>) |
-| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |

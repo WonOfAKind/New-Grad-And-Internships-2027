@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 8, 2026 at 3:22 PM EDT
+Last updated: October 8, 2026 at 7:54 PM EDT
 
 Current roles in this view: 29
 
@@ -14,7 +14,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America | - | Explicit new grad role | Posted Oct 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | 🔥 ExxonMobil | Project Management Engineer - Students Seeking Opportunities (Edmonton, AB, CA, AB T6P) | Edmonton, AB, CA, AB T6P | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Edmonton-Project-Management-Engineer-Students-Seeking-Opportunities-AB-AB-T6P/1424240600>) |
 | Nissan | Current Model Paint Engineering - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America | - | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Current-Model-Paint-Engineering---Summer-2027---Smyrna--TN_R00214287>) |
 | Airbus | AGGP2027 - Graduate Quality Engineering | Mobile Area, AL | - | 2027 grad eligible | Posted Oct 3, 2026<br>First seen Oct 5, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/AGGP2027---Graduate-Quality-Control-Manager_JR10434815>) |
