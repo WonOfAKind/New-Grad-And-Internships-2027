@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 8, 2026 at 7:54 PM EDT
+Last updated: October 9, 2026 at 2:54 PM EDT
 
-Current roles in this view: 26
+Current roles in this view: 22
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,13 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Disney | Associate Marketing Data Scientist | Celebration, FL, USA | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936>) |
-| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
-| Boeing | Entry Level Test &amp; Evaluation Engineer | USA - Heath, OH | $71,400 - $96,600 | Early career | Posted Oct 5, 2026<br>First seen Oct 6, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1>) |
+| ExxonMobil | Upstream Mining/Tailings Engineering - Students Seeking Opportunities - Jan/May 2027 (Calgary, AB, CA, T2C 5N1) | Calgary, AB, CA, T2C 5N1 | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Calgary-Upstream-MiningTailings-Engineering-Students-Seeking-Opportunities-JanMay-2027-AB-T2C-5N1/1423291300>) |
+| Disney | Associate Marketing Data Scientist | Celebration, FL | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936>) |
 | Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1>) |
 | RFCUNY | Associate Data Analyst | New York, NY | - | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
-| General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | Posted Sep 28, 2026<br>First seen Sep 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004-entry-level-data-business-analyst>) |
 | BNY | 2027 BNY Analyst Program - Engineering (Data Science) | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82245>) |
@@ -34,8 +32,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
 | TikTok | Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start | Fontana, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675510156642142469>) |
-| TikTok | Data Scientist Graduate (E-Commerce Governance) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 17, 2026 | [Apply](<https://lifeattiktok.com/search/7674027218993154357>) |
 | TikTok | Data Scientist Graduate (Multimedia) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7670288355678177589>) |
-| WebFX | Junior Business Data Analyst | Harrisburg, PA | $50,000 - $53,000 | Early career | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA>) |
 | Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Sep 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 
