@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-09T18:54:15.648Z",
+  "updated_at": "2026-10-09T23:03:32.885Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -1895,9 +1895,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-07T23:44:36.964Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Target Tech workday scan timed out after 60000ms",
       "last_verified_at": "2026-10-07T23:44:36.964Z"
     },
     "home depot technology": {
@@ -2516,9 +2516,9 @@
         "limit": 20,
         "verified_open_jobs": 133
       },
-      "last_scan_at": "2026-10-08T23:54:24.216Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-08T23:54:24.216Z"
     },
     "qualtrics": {
@@ -2700,9 +2700,9 @@
         "robotsUrl": "https://www.pulumi.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-10-06T19:01:49.448Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "503 Service Unavailable",
       "last_verified_at": "2026-10-06T19:01:49.448Z"
     },
     "temporal": {
@@ -3907,9 +3907,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-08T23:54:24.216Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-08T23:54:24.216Z"
     },
     "l3harris": {
@@ -5321,9 +5321,9 @@
         "limit": 20,
         "verified_open_jobs": 1476
       },
-      "last_scan_at": "2026-10-08T23:54:24.216Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Stryker workday scan timed out after 60000ms",
       "last_verified_at": "2026-10-08T23:54:24.216Z"
     },
     "abbott": {
@@ -5502,7 +5502,7 @@
     },
     "curtiss-wright": {
       "company": "Curtiss-Wright",
-      "checked_at": "2026-10-02T22:24:18.059Z",
+      "checked_at": "2026-10-09T22:56:25.821Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5518,12 +5518,12 @@
         "site": "CW_External_Career_Site",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 364
+        "verified_open_jobs": 361
       },
-      "last_scan_at": "2026-10-02T22:31:53.348Z",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-02T22:31:53.348Z"
+      "last_verified_at": "2026-10-09T23:03:32.885Z"
     },
     "draper": {
       "company": "Draper",
@@ -5748,9 +5748,9 @@
         "limit": 20,
         "verified_open_jobs": 27
       },
-      "last_scan_at": "2026-10-08T23:54:24.216Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-08T23:54:24.216Z"
     },
     "michelin": {
@@ -5843,9 +5843,9 @@
         "limit": 20,
         "verified_open_jobs": 388
       },
-      "last_scan_at": "2026-10-08T23:54:24.216Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-09T23:03:32.885Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-08T23:54:24.216Z"
     },
     "chevron": {

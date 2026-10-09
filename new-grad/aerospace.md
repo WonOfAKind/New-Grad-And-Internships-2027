@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 9, 2026 at 2:54 PM EDT
+Last updated: October 9, 2026 at 7:03 PM EDT
 
-Current roles in this view: 85
+Current roles in this view: 84
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |
 | 🔥 Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | $100,000 - $130,000 USD | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5262340007>) |
@@ -49,7 +48,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
 | 🔥 Anduril | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Early career | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5243880007>) |
 | 🔥 Anduril | New Grad Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | $100,000 - $145,000 USD | Explicit new grad role | First seen Sep 21, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5241134007>) |
-| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | 🔥 United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 17, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |

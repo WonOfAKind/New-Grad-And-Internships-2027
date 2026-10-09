@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 9, 2026 at 2:54 PM EDT
+Last updated: October 9, 2026 at 7:03 PM EDT
 
-Current roles in this view: 309
+Current roles in this view: 312
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| CACI | Junior Software Engineer | Sarasota, FL, US | $55,100 - $110,100 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Sarasota-FL-US/Junior-Software-Engineer_333295>) |
+| Cboe Global Markets | Associate Software Engineer, Web | Kansas City, MO | $76,500-$99,000 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2>) |
 | Stryker | Software Engineering, R&amp;D Engineering Development Program | Fort Lauderdale, Florida | $77,700 - $129,500 USD | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Software-Engineering--R-D-Engineering-Development-Program_R575603>) |
 | TikTok | Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7672532801686571317>) |
 | IXL Learning | Software Engineer, New Grad | Raleigh, NC | $110,000 - $135,000 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8862049002>) |
@@ -102,8 +104,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Texas Sports Academy | Junior Software Engineer, AI-Forward | Remote (US) | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/EE83780698>) |
 | VIAVI | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC USA | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1>) |
 | Akuna Capital University | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
+| American Express | Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, Enterprise Technology Services- New York, NY | New York, NY, United States | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Oct 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796>) |
 | American Express | Data Engineer 1 - Enterprise Technology Services | Phoenix, AZ | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286>) |
-| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Dell Technologies | Software Engineer 1 - IT | Texas | $89,520 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 25, 2026 | [Apply](<https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784>) |
 | General Motors | Software Engineer - Early Careers | Seattle, WAAustin, TXWarren, MI | $84,900 | Early career | Posted Sep 19, 2026<br>First seen Sep 18, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418>) |
 | Klaviyo | Software Engineer 1 | Boston, MA | $104,000 - $156,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003>) |
@@ -111,7 +114,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Perseus Group | Software Engineer 1 | Sharon, PAJacksonville, FL | - | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341>) |
 | Radiant | Software Engineer New Grad | El Segundo, CA | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687>) |
 | SIFT | Software Engineer New Grad | Marina Del Rey, CA | $125,000 - $145,000 per year | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134>) |
-| SpaceX | Software Engineer New Grad - Software - Starship | Hawthorne, CA | $125,000.00 - $150,000.00 | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 8, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8743362002>) |
+| SpaceX | New Graduate Engineer, Software (Starship) | Hawthorne, CA | $125,000.00 - $150,000.00 | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 8, 2026 | [Apply](<https://boards.greenhouse.io/spacex/jobs/8743362002>) |
 | Textron | Software Engineer 1 - Weapons | Wilmington, MA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818>) |
 | True Anomaly | Software Engineer 1 New Grad - Elixir | Long Beach, CADenver, CO | $75,000 | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
@@ -156,7 +159,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | LexisNexis Risk Solutions | Software Engineer New Grad | Alpharetta, GA | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1>) |
 | LexisNexis Risk Solutions | Software Engineer New Grad - Risk Solutions Technology Graduate Program | Boca Raton, FL | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2>) |
 | RELX | Software Engineer New Grad | Alpharetta, GA | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2>) |
-| 🔥 Stripe | Software Engineer, New Grad | San Francisco, CA; Seattle, WA; New York, NY | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/8128744>) |
+| 🔥 Stripe | Software Engineer, New Grad | San Francisco, Seattle, New York | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/8128744>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Sep 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |
 | Textron | 2027 Entry Level — Software/Computer Science Engineering | Fort Worth, TX | - | Early career | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1540252>) |
 | Textron | Software Engineer 1 - Electronic Systems | Hunt Valley, Cockeysville, MD | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666>) |

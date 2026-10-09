@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 9, 2026 at 2:54 PM EDT
+Last updated: October 9, 2026 at 7:03 PM EDT
 
-Current roles in this view: 88
+Current roles in this view: 89
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670686314588801333>) |
+| TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670685495206857013>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://lifeattiktok.com/search/7694054165508557109>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://lifeattiktok.com/search/7694352871949682997>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://lifeattiktok.com/search/7694353236283935029>) |
