@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 13, 2026 at 3:58 PM EDT
+Last updated: October 13, 2026 at 7:36 PM EDT
 
-Current roles in this view: 39
+Current roles in this view: 40
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -50,5 +50,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59881>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
+| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 

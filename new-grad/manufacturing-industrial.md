@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 13, 2026 at 3:58 PM EDT
+Last updated: October 13, 2026 at 7:36 PM EDT
 
 Current roles in this view: 28
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 13, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 13, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 13, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | - | Explicit new grad role | Posted Oct 13, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 13, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Boston Scientific | Design Quality Engineer I (Marlborough, MA, US, 01752) | Marlborough, MA, US, 01752 | $ 62800 | Verified early career (BS) | First seen Oct 13, 2026 | [Apply](<https://jobs.bostonscientific.com/job/Marlborough-Design-Quality-Engineer-I-MA-01752/1439730200>) |
 | 🔥 Northrop Grumman | 2027 Associate Qualilty Engineer / Quality Engineer - Utah | United States-Utah-Corinne; United States-Utah-Clearfield; United States-Utah-Salt Lake City; United States-Utah-Magna | $59,900 - $89,900 | Verified early career (BS) | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Associate-Qualilty-Engineer---Quality-Engineer---Utah_R10255490>) |
