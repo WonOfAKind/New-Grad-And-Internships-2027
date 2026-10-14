@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 13, 2026 at 7:36 PM EDT
+Last updated: October 14, 2026 at 2:05 PM EDT
 
 Current roles in this view: 23
 
@@ -13,9 +13,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | AbbVie | Associate Data Scientist I | North Chicago, Illinois, United States | - | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990016070676-associate-data-scientist-i>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Data Scientist; Computer Scientist; Engineer - Decision Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 14, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60569>) |
 | Xcel Energy | Associate Data Scientist | Denver, CO | $84,900.00 - $120,566.66 per year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2>) |
 | Disney | Associate Marketing Data Scientist | Celebration, FL | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936>) |
-| Disney | Graduate Associate, Data Analytics, Spring 2027 | Lake Buena Vista, FL, USA | - | 2027 grad eligible | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graduate-Associate--Data-Analytics--Spring-2027_10160000-1>) |
 | RFCUNY | Associate Data Analyst | New York, NY | - | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
