@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 14, 2026 at 2:05 PM EDT
+Last updated: October 14, 2026 at 5:43 PM EDT
 
-Current roles in this view: 87
+Current roles in this view: 86
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Oct 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 14, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |
@@ -56,7 +56,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Dark Wolf Solutions | Junior AI Software Engineer | Chantilly, VA; Herndon, VA | $90,000.00 - $130,000.00 | Early career | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 26, 2026 | [Apply](<https://lifeattiktok.com/search/7678145401619237173>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Peraton | Entry Level Environmental Engineer | UT | $51,000 - $82,000 | Early career | Posted Aug 20, 2026<br>First seen Aug 18, 2026 | [Apply](<https://www.careers.peraton.com/jobs/entry-level-environmental-engineer-clearfield-utah-169741-jobs--environmental-health-and-safety-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675844938504702213>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Supply Chain &amp; Logistics) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Aug 20, 2026 | [Apply](<https://lifeattiktok.com/search/7675843332462872885>) |

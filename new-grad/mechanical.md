@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 14, 2026 at 2:05 PM EDT
+Last updated: October 14, 2026 at 5:43 PM EDT
 
-Current roles in this view: 51
+Current roles in this view: 53
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -22,6 +22,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Hyundai | Ride and Handling Engineer I | Irvine, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 13, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Ride-and-Handling-Engineer-I-CA-92618/1276446600>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |
+| Stryker | Project Engineer, Advanced Operations Global Engineering Development Program | Tempe, Arizona | $64,400 - $94,400 USD | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573450-1>) |
+| Stryker | Robotics Engineer, R&amp;D Engineering Development Program | Fort Lauderdale, Florida | $77,700 - $129,500 USD | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Robotics-Engineer--R-D-Engineering-Development-Program_R575600>) |
 | Amentum | Early Career Specialty Mechanical Engineer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-specialty-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Mechanical Engineer - Space Science Instrumentation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 7, 2026<br>First seen Oct 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60500>) |
 | Nissan | Current Model Paint Engineering - Summer 2027 - Smyrna, TN | Smyrna, Tennessee - United States of America | - | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Current-Model-Paint-Engineering---Summer-2027---Smyrna--TN_R00214287>) |

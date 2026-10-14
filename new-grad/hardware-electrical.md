@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 14, 2026 at 2:05 PM EDT
+Last updated: October 14, 2026 at 5:43 PM EDT
 
 Current roles in this view: 40
 
@@ -43,6 +43,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | First seen Oct 14, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
 | 🔥 MIT Lincoln Laboratory | Electrical Engineer-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400-$140,000 | Verified early career (BS) | First seen Sep 14, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-Associate-Staff-MA-02420/1429841100>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 14, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | Posted Sep 10, 2026<br>First seen Sep 18, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | Peraton | Junior Electrical Engineer (NASA Balloon Program) | TX | $51,000 - $82,000 | Early career | Posted Sep 10, 2026<br>First seen Oct 14, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-electrical-engineer-nasa-balloon-program-palestine-texas-170479-jobs--engineering-->) |
 | Gulfstream Aerospace | Summer 2027 - IEF - MRB/Liaison Eng - Avionics &amp; Elec Sys MRB Eng - Collegiate Associate | Savannah, GA, US | - | Early career | Posted Sep 9, 2026<br>First seen Sep 10, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-MRBLiaison-Eng-Avionics-&-Elec-Sys-MRB-Eng-Collegiate-Associate-GA-31401/1428560800>) |
@@ -50,6 +51,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59881>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Sep 21, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 
