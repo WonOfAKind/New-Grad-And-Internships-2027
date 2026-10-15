@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 15, 2026 at 4:41 PM EDT
+Last updated: October 15, 2026 at 7:22 PM EDT
 
-Current roles in this view: 52
+Current roles in this view: 55
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -16,6 +16,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Northrop Grumman | Tooling Engineer 1 | United States-West Virginia-Rocket Center | $59,900.00 - $89,900.00 | Verified early career (BS) | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Tooling-Engineer-1_R10256267>) |
 | 🔥 United Launch Alliance | Mechanical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Oct 15, 2026<br>First seen Sep 16, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Mechanical-Engineer-1-CO-80112/1430766800>) |
 | AeroVironment | System Test Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 15, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/System-Test-Engineer-I_9098>) |
+| BlueHalo | System Test Engineer I | Moorpark, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 15, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Moorpark-CA/System-Test-Engineer-I_9098>) |
+| HPE | Mechanical Hardware Engineer I - 0T1031 | Sunnyvale, California, United States of America | - | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 15, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214954/Mechanical-Hardware-Engineer-I-0T1031>) |
 | 🔥 Northrop Grumman | 2027 Associate H/W Mechanical Engineer – Annapolis MD | United States-Maryland-Annapolis | $66,200 - $99,200 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-H-W-Mechanical-Engineer---Annapolis-MD_R10254906>) |
 | AeroVironment | Summer 2027 Systems Test Engineer | Simi Valley, CA; Huntsville, AL; Pottstown, PA; Sunrise, FL; Herndon, VA; Moorpark, CA; San Luis Obispo, CA; Annapolis Junction, MD; Germantown, MD; Albuquerque, NM; Minneapolis, MN; Arlington, VA; Melbourne, FL; Petaluma, CA | - | Early career | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Simi-Valley-CA/Summer-2027-Systems-Test-Engineer_8390>) |
 | HPE | Mechanical Hardware Engineer I - 0T1031 | Roseville, California, United States of America | - | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214960/Mechanical-Hardware-Engineer-I-0T1031>) |
@@ -23,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
 | Sierra Space | Mechanical Engineer I (Mechanisms) | Durham, NC | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 11, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Durham-NC/Mechanical-Engineer-I--Mechanisms-_R26386-1>) |
 | 🔥 BAE Systems | ICBM Sustainment - Junior Mechanical Engineer | Hill AFB, Utah, United States | - | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305342&partnerid=25771&siteid=5403>) |
+| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | Hyundai | Ride and Handling Engineer I | Irvine, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 13, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Ride-and-Handling-Engineer-I-CA-92618/1276446600>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |
