@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 4:07 PM EDT
+Last updated: October 16, 2026 at 6:53 PM EDT
 
-Current roles in this view: 314
+Current roles in this view: 315
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Northrop Grumman | 2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411>) |
+| Northrop Grumman | 2027 Associate/Software Engineer Pathways Dulles VA | United States-Virginia-Dulles | $76,200 - $114,400 | Early career | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499>) |
 | TikTok | Backend Engineer Graduate (Account) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://lifeattiktok.com/search/7696779797359233333>) |
 | TikTok | Backend Engineer Graduate (Social Foundation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://lifeattiktok.com/search/7696782198126545157>) |
 | TikTok | Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://lifeattiktok.com/search/7672532801686571317>) |
@@ -113,11 +114,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Akuna Capital University | Junior Quantitative Researcher | Chicago, IL | $145,000 | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://akunacapital.com/careers/job/8036541>) |
 | American Express | Data Engineer 1 - Enterprise Technology Services | Phoenix, AZ | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 16, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013286>) |
 | American Express | Software Engineer 1 - Enterprise Technology Services | New York, NY | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Oct 9, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796>) |
-| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Arch | Software Engineer - Early Careers | New York, NY | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d>) |
 | Dell Technologies | Software Engineer 1 - IT | Texas | $89,520 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 25, 2026 | [Apply](<https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784>) |
 | Domino Data Lab | Software Engineer New Grad | New York, NY | - | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Oct 12, 2026 | [Apply](<https://app.careerpuck.com/job-board/domino-data-lab/job/7992556>) |
-| General Motors | Software Engineer - Early Careers | Seattle, WA; Austin, TX; Warren, MI | $84,900 | Early career | Posted Sep 19, 2026<br>First seen Sep 18, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418>) |
 | Klaviyo | Software Engineer 1 | Boston, MA | $104,000 - $156,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003>) |
 | Meow | Software Engineer New Grad | New York, NY | $140k-$150k base salary | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218>) |
 | Perpay | Software Engineer – New Grad | Philadelphia, PA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://job-boards.greenhouse.io/perpay/jobs/4034578007>) |
@@ -134,6 +134,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BNY | 2027 BNY Analyst Program - Engineering (Developer) | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247>) |
 | BNY | 2027 BNY Analyst Program - Engineering (Developer) | Pittsburgh, PA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248>) |
 | General Motors | Data Engineer - Data Software Engineering and Cloud Platforms, Early Career | Austin, Texas, United States of America; Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | Posted Sep 16, 2026<br>First seen Sep 18, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428>) |
+| General Motors | Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers | Austin, Texas, United States of America; Warren, Michigan, United States of America | $84,900 | Early career | Posted Sep 16, 2026<br>First seen Sep 18, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418>) |
 | AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Oct 16, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Oct 16, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 4:07 PM EDT
+Last updated: October 16, 2026 at 6:53 PM EDT
 
 Current roles in this view: 57
 
@@ -63,7 +63,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Mechanical Engineer I - Ground Support Equipment | Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I---Ground-Support-Equipment_R26197-1>) |
 | 🔥 Caterpillar | 2027 Engineering Rotational Development Program (ERDP) - Product Development Track | Mossville, Illinois; Tucson, Arizona; Brooklyn Park, Minnesota; Green Valley, Arizona; Decatur, Illinois; Morton, Illinois; Fort Worth, Texas; Lafayette, Indiana; Rapid City, South Dakota; Houston, Texas; Clayton, Ohio; East Peoria, Illinois; West Fargo, North Dakota; Peoria, Illinois | $81,370.00 - $133,810.00 | 2027 grad eligible | First seen Sep 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program--ERDP-----Product-Development-Track_R0000387636-1>) |
 | 🔥 Caterpillar | 2027 Engineering Rotational Product Development - Materials | Mossville, Illinois | $81,370.00 - $133,810.00 | 2027 grad eligible | First seen Sep 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development--Materials_R0000380489>) |
-| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | 2027 grad eligible | First seen Sep 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
+| 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | Early career | First seen Sep 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | 2027 grad eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
 | Amentum | Early Career Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Aug 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-engineer-oak-ridge-tennessee-united-states-4b7c3e56-64b7-435b-9d8a-066855e6ccee>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 4:07 PM EDT
+Last updated: October 16, 2026 at 6:53 PM EDT
 
-Current roles in this view: 89
+Current roles in this view: 92
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,6 +14,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | KLA | Customer Support Engineer - New College Grad | Chandler, AZ | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918>) |
 | Booz Allen Hamilton | Engineering Technician, Junior | Wharton, NJ | $53,000.00 - $108,000.00 | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1>) |
 | EXL | Junior AI Engineer | Remote (US) | - | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550>) |
@@ -30,6 +32,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - Artificial Intelligence and Complex Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 5, 2026<br>First seen Aug 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59664>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - Neural Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 5, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60068>) |
 | Peraton | Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 Top Secret/SCI w/Poly | MD | $104,000 - $166,000 | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 16, 2026 | [Apply](<https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-top-secret-sci-w-poly-laurel-maryland-171539-jobs--cms-scientific-research-analysis-->) |
+| General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | Posted Sep 28, 2026<br>First seen Sep 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |
 | Peraton | Artificial Intelligence/Machine Learning (AI/ML) Engineer 1 | MD | $80,000 - $128,000 | Verified early career (BS) | Posted Sep 22, 2026<br>First seen Oct 16, 2026 | [Apply](<https://www.careers.peraton.com/jobs/artificial-intelligence-machine-learning-ai-ml-engineer-1-laurel-maryland-171011-jobs--cms-scientific-research-analysis-->) |
 | Hearst | 2027 Hearst AI Newsroom Developer Fellowship Program | San Francisco, CA | - | Explicit new grad role | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417>) |
 | Texas Sports Academy | Junior Software Engineer, AI-Forward | Remote (US) | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/EE83780698>) |

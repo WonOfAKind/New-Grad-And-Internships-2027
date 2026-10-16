@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 4:07 PM EDT
+Last updated: October 16, 2026 at 6:53 PM EDT
 
 Current roles in this view: 86
 
@@ -64,7 +64,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Control, Actuation, and Test Systems Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 27, 2026<br>First seen Sep 28, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59876>) |
 | 🔥 United Launch Alliance | Systems Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Sep 27, 2026<br>First seen Sep 28, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Systems-Engineer-1-CO-80112/1434489100>) |
 | 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
-| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Sep 19, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Peraton | Junior Systems Engineer, TS/SCI w/Poly | MD | $66,000 - $106,000 | Early career | Posted Sep 17, 2026<br>First seen Aug 25, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-systems-engineer-ts-sci-w-poly-fort-meade-maryland-167256-jobs--information-technology-->) |
 | Peraton | Associate Systems Engineer | UT | $66,000 - $106,000 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-170493-jobs--engineering-->) |
