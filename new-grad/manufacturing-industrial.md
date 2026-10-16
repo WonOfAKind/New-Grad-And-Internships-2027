@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 1:29 PM EDT
+Last updated: October 16, 2026 at 4:07 PM EDT
 
-Current roles in this view: 28
+Current roles in this view: 26
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,9 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Carrier | Associate Controls Engineer - Automated Logic - Building Automation (BAS) | CAM69: ALC - Mass (Canton), 95 Shawmut Road, Canton, MA, 02021 USA | $53,000.00 - $106,000.00 annually | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Oct 15, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAM69-ALC---Mass-Canton-95-Shawmut-Road-Canton-MA-02021-USA/Associate-Controls-Engineer---Automated-Logic---Building-Automation--BAS-_30216432>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | 🔥 Toyota Motor North America | Engineer I - Hybrid Electric Vehicle (HEV) Battery Production | Liberty, North Carolina | - | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Liberty-North-Carolina/Engineer-I---Hybrid-Electric-Vehicle--HEV--Battery-Production_10325600-1>) |
 | 🔥 Northrop Grumman | Tooling Engineer 1 | United States-West Virginia-Rocket Center | $59,900.00 - $89,900.00 | Verified early career (BS) | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Tooling-Engineer-1_R10256267>) |
 | Emerson Electric | Controls &amp; Automation Engineering Co‑Op – Latham, NY - Summer 2027 | Latham, NY, United States | - | New grad or university grad | First seen Oct 14, 2026 | [Apply](<https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010708>) |

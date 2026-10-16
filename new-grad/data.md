@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 1:29 PM EDT
+Last updated: October 16, 2026 at 4:07 PM EDT
 
-Current roles in this view: 23
+Current roles in this view: 24
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| KLA | Customer Support Engineer - New College Grad | Chandler, AZ | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918>) |
 | AbbVie | Associate Data Scientist I | North Chicago, Illinois, United States | - | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990016070676-associate-data-scientist-i>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Data Scientist; Computer Scientist; Engineer - Decision Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 14, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60569>) |
 | Xcel Energy | Associate Data Scientist | Denver, CO | $84,900.00 - $120,566.66 per year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2>) |

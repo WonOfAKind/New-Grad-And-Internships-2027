@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 1:29 PM EDT
+Last updated: October 16, 2026 at 4:07 PM EDT
 
-Current roles in this view: 43
+Current roles in this view: 42
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America | $58,800.00 - $92,400.00 | 2027 grad eligible | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | - | 2027 grad eligible | Posted Oct 16, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Kiewit | Field Engineer 1 - Southern California | Phoenix, AZ, US | - | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Costa-Mesa-Field-Engineer-1-Southern-California-CA-92626/1421357100>) |
-| Booz Allen Hamilton | Engineering Technician, Junior | Wharton, NJ | $53,000.00 - $108,000.00 | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1>) |
 | Kiewit | Entry Level Field Engineer - Kiewit Foundations Co. 2027 | Houston, TX, US | $82,000/yr | Early career | Posted Oct 12, 2026<br>First seen Sep 14, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Birmingham-Entry-Level-Field-Engineer-Kiewit-Foundations-Co_-2027-AL-35201/1429338700>) |
 | Accenture Federal Services | Junior Automation Test Engineer | Arlington, VA | $74,800 - $138,700 USD | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006>) |
 | Bechtel | 27 New Grad \| US \| Project Controls Engr | United States | $79,440 - $95,328 annually | Explicit new grad role | Posted Oct 9, 2026<br>First seen Sep 25, 2026 | [Apply](<https://jobs.bechtel.com/us/en/job/BCFBCKUS297394EXTERNALENUS/27-New-Grad-US-Project-Controls-Engr>) |
-| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | HNTB | Structural Engineer I | New York, NY | $83,008.49 - $124,512.74 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 16, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/New-York-NY/Structural-Engineer-I_R-31758>) |
 | Stryker | Project Engineer, Advanced Operations Global Engineering Development Program | Fort Lauderdale, Florida | $64,400 - $94,400 USD | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573031>) |
 | Kiewit | Field/Office Engineer - Central District (Entry-Level) | Denver, CO, US | $82,000 - $91,000 | Early career | Posted Oct 8, 2026<br>First seen Sep 7, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
@@ -41,7 +41,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Terracon | Summer Engineering Technician - Summer 2027 | Lincoln, NE, UNITED STATES; Omaha, Nebraska, United States | - | New grad or university grad | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://careers.terracon.com/job/lincoln/summer-engineering-technician-summer-2027/37184/100709686832>) |
 | Terracon | Summer Engineering Technician - Summer 2027 | Omaha, NE, UNITED STATES; Lincoln, Nebraska, United States | - | New grad or university grad | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://careers.terracon.com/job/omaha/summer-engineering-technician-summer-2027/37184/100709686816>) |
 | Gulfstream Aerospace | Summer 2027 - IEF - Systems Engineering - Collegiate Associate in GAC (Savannah) | Savannah, GA, US | - | Early career | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Systems-Engineering-Collegiate-Associate-in-GAC-%28Savannah%29-GA-31401/1427917500>) |
-| Trane Technologies | Entry Level Energy Engineer | San Antonio, Texas, États-Unis d'Amérique | $75,000.00 | Explicit new grad role | Posted Sep 6, 2026<br>First seen Oct 16, 2026 | [Apply](<https://careers.tranetechnologies.com/global/fr/job/JR-15302/Entry-Level-Energy-Engineer>) |
 | HNTB | New Grad Civil Engineer I - Aviation Group | Las Vegas, NV (Via Austi Parkway) | $69,727.13 - $104,590.70 | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 7, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Las-Vegas-NV-Via-Austi-Parkway/New-Grad-Civil-Engineer-I---Aviation-Group_R-31484-1>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Communication Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59503>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – System Realization and Resilience Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 2, 2026<br>First seen Sep 8, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59591>) |

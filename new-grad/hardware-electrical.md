@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 16, 2026 at 1:29 PM EDT
+Last updated: October 16, 2026 at 4:07 PM EDT
 
-Current roles in this view: 41
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | Northrop Grumman | 2027 Associate Embedded Software Engineer - Pathways Program - Baltimore MD | United States-Maryland-Baltimore | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10256411>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
+| Moog | Associate Electrical Engineer / Electronic Design Engineer | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 16, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419>) |
 | Northrop Grumman | 2027 Associate S/W Embedded Engineer – Annapolis MD | United States-Maryland-Annapolis | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909>) |
 | Boeing | Entry Level ASIC/FPGA Design Verification Engineer | USA - El Segundo, CA | $79,050 - $106,950 | Early career | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-2>) |
 | 🔥 NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
+| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | AeroVironment | Electrical Engineer I | Petaluma, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Petaluma-CA/Electrical-Engineer-I_9066>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Oct 8, 2026<br>First seen Sep 29, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304563&partnerid=25771&siteid=5403>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 8, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
@@ -41,6 +44,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Amazon | Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS) | US, WA, Bellevue | $96,600 - $160,000 | Verified early career (BS) | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Electrical/Computer Engineer - RF Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Oct 16, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60087>) |
+| Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
 | Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Oct 16, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer - Space Science Electronics | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60047>) |
