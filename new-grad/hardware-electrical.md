@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 19, 2026 at 3:23 PM EDT
+Last updated: October 19, 2026 at 7:03 PM EDT
 
-Current roles in this view: 45
+Current roles in this view: 47
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | KLA | Semiconductor Field Service Engineer - New College Grad | Hillsboro, OR | - | Explicit new grad role | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1>) |
+| 🔥 NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | Northrop Grumman | (Skillbridge) – Electrical Engineer 1 | United States-Arizona-Chandler | $63,900.00 - $95,900.00 | Verified early career (BS) | Posted Oct 18, 2026<br>First seen Oct 19, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256544>) |
 | Northrop Grumman | (Skillbridge) – Electrical Engineer 1 | United States-Arizona-Chandler | $63,900.00 - $95,900.00 | Verified early career (BS) | Posted Oct 18, 2026<br>First seen Oct 19, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10256539>) |
 | 🔥 Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
@@ -42,6 +43,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software/Electrical/Computer Engineer - Advanced RF Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60121>) |
 | 🔥 Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246141007>) |
 | HPE | Mechanical Hardware Engineer I Graduate | Sunnyvale, California, United States of America | - | Verified early career (BS) | Posted Sep 20, 2026<br>First seen Sep 22, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214998/Mechanical-Hardware-Engineer-I-Graduate>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 19, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Amazon | Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS) | US, WA, Bellevue | $96,600 - $160,000 | Verified early career (BS) | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Electrical/Computer Engineer - RF Engineering | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 17, 2026<br>First seen Oct 19, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60087>) |

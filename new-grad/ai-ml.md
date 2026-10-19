@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 19, 2026 at 3:23 PM EDT
+Last updated: October 19, 2026 at 7:03 PM EDT
 
-Current roles in this view: 91
+Current roles in this view: 92
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -14,7 +14,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 |---|---|---|---|---|---|---|
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America | - | Explicit new grad role | Posted Oct 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Tonawanda, New York, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 19, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| 🔥 NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | KLA | Customer Support Engineer - New College Grad | Chandler, AZ | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Customer-Support-Engineer---NCG_2641918>) |
 | Booz Allen Hamilton | Engineering Technician, Junior | Wharton, NJ | $53,000.00 - $108,000.00 | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1>) |

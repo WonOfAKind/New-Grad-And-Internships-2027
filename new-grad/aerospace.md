@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 19, 2026 at 3:23 PM EDT
+Last updated: October 19, 2026 at 7:03 PM EDT
 
-Current roles in this view: 86
+Current roles in this view: 85
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -56,7 +56,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 BAE Systems | Quality Engineer I | Greenlawn, New York, United States | - | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Sep 15, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303821&partnerid=25771&siteid=5403>) |
 | 🔥 United Launch Alliance | Systems Test Engineer 1 | Pueblo, CO, US | $64,740.00 - $107,900.00 | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Oct 2, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1436247500>) |
 | Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Oct 19, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
-| Airbus | Manufacturing Engineer I (2nd Shift) | Mobile Area, AL | - | Verified early career (BS) | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Manufacturing-Engineer-I--2nd-Shift-_JR10444287>) |
 | Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states>) |
 | Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states-53b35e4d-2bcb-4831-9de6-75eb653b0cc1>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60057>) |
