@@ -1,10 +1,10 @@
 {
   "version": 4,
-  "updated_at": "2026-10-19T23:03:43.804Z",
+  "updated_at": "2026-10-20T18:06:02.210Z",
   "companies": {
     "meta": {
       "company": "Meta",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "400 Bad Request",
@@ -62,9 +62,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-19T23:03:43.804Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-19T23:03:43.804Z"
     },
     "netflix": {
@@ -146,7 +146,7 @@
     },
     "servicenow": {
       "company": "ServiceNow",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -186,7 +186,7 @@
     },
     "uber": {
       "company": "Uber",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -213,7 +213,7 @@
     },
     "pinterest": {
       "company": "Pinterest",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -310,7 +310,7 @@
     },
     "dropbox": {
       "company": "Dropbox",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -319,10 +319,10 @@
     },
     "zoom": {
       "company": "Zoom",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
-      "reason": "robots.txt unreachable: fetch failed",
+      "reason": "403 Forbidden",
       "robots_url": "",
       "source": null
     },
@@ -490,7 +490,7 @@
     },
     "block": {
       "company": "Block",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "fetch failed",
@@ -770,7 +770,7 @@
     },
     "hashicorp": {
       "company": "HashiCorp",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -894,7 +894,7 @@
     },
     "xai": {
       "company": "xAI",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1251,7 +1251,7 @@
     },
     "hudson river trading": {
       "company": "Hudson River Trading",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1269,7 +1269,7 @@
     },
     "citadel": {
       "company": "Citadel",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1278,7 +1278,7 @@
     },
     "citadel securities": {
       "company": "Citadel Securities",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1433,7 +1433,7 @@
     },
     "aquatic capital": {
       "company": "Aquatic Capital",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1502,7 +1502,7 @@
     },
     "faire": {
       "company": "Faire",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1602,7 +1602,7 @@
     },
     "intel": {
       "company": "Intel",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1816,7 +1816,7 @@
     },
     "toyota research institute": {
       "company": "Toyota Research Institute",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -1919,9 +1919,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-19T23:03:43.804Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-19T23:03:43.804Z"
     },
     "home depot technology": {
@@ -1944,9 +1944,9 @@
         "limit": 20,
         "verified_open_jobs": 976
       },
-      "last_scan_at": "2026-10-19T23:03:43.804Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
       "last_verified_at": "2026-10-19T23:03:43.804Z"
     },
     "lowe's technology": {
@@ -1980,11 +1980,11 @@
     },
     "wayfair": {
       "company": "Wayfair",
-      "checked_at": "2026-10-19T19:15:44.188Z",
-      "status": "error",
+      "checked_at": "2026-10-20T17:56:38.161Z",
+      "status": "none",
       "method": "",
-      "reason": "429 Too Many Requests",
-      "robots_url": "",
+      "reason": "no supported ATS, JobPosting JSON-LD, official job links, or job sitemap found",
+      "robots_url": "https://www.wayfair.com/robots.txt",
       "source": null
     },
     "chewy": {
@@ -2047,12 +2047,28 @@
     },
     "zillow": {
       "company": "Zillow",
-      "checked_at": "2026-10-19T19:15:44.188Z",
-      "status": "error",
-      "method": "",
-      "reason": "403 Forbidden",
-      "robots_url": "",
-      "source": null
+      "checked_at": "2026-10-20T17:56:38.161Z",
+      "status": "discovered",
+      "method": "ats-fingerprint",
+      "reason": "",
+      "robots_url": "https://www.zillow.com/robots.txt",
+      "source": {
+        "company": "Zillow",
+        "adapter": "workday",
+        "priority": "P1",
+        "source_kind": "discovered",
+        "discovered_from": "https://www.zillow.com/careers/",
+        "host": "zillow.wd5.myworkdayjobs.com",
+        "tenant": "zillow",
+        "site": "Zillow_Group_External",
+        "searchText": "new grad",
+        "limit": 20,
+        "verified_open_jobs": 158
+      },
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-20T18:06:02.210Z"
     },
     "opendoor": {
       "company": "Opendoor",
@@ -2163,7 +2179,7 @@
     },
     "quizlet": {
       "company": "Quizlet",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2205,7 +2221,7 @@
     },
     "canva": {
       "company": "Canva",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2305,7 +2321,7 @@
     },
     "sap": {
       "company": "SAP",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2314,7 +2330,7 @@
     },
     "workday": {
       "company": "Workday",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -2330,9 +2346,9 @@
         "site": "Workday",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 386
+        "verified_open_jobs": 377
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Workday workday scan timed out after 90000ms"
     },
@@ -2407,7 +2423,7 @@
     },
     "netapp": {
       "company": "NetApp",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2425,7 +2441,7 @@
     },
     "nutanix": {
       "company": "Nutanix",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2434,7 +2450,7 @@
     },
     "rubrik": {
       "company": "Rubrik",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -2600,7 +2616,7 @@
     },
     "grafana labs": {
       "company": "Grafana Labs",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -3149,7 +3165,7 @@
     },
     "midjourney": {
       "company": "Midjourney",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3359,7 +3375,7 @@
     },
     "tempus": {
       "company": "Tempus",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "429 Too Many Requests",
@@ -3505,7 +3521,7 @@
     },
     "coinbase": {
       "company": "Coinbase",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3632,7 +3648,7 @@
     },
     "paypal": {
       "company": "PayPal",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3735,7 +3751,7 @@
     },
     "fidelity investments": {
       "company": "Fidelity Investments",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -3869,7 +3885,7 @@
     },
     "schonfeld": {
       "company": "Schonfeld",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4083,7 +4099,7 @@
     },
     "rocket lab": {
       "company": "Rocket Lab",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4110,7 +4126,7 @@
     },
     "maxar": {
       "company": "Maxar",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: fetch failed",
@@ -4522,7 +4538,7 @@
     },
     "verizon": {
       "company": "Verizon",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4549,14 +4565,14 @@
         "limit": 20,
         "verified_open_jobs": 785
       },
-      "last_scan_at": "2026-10-16T22:53:33.362Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Boeing workday scan timed out after 90000ms",
       "last_verified_at": "2026-10-16T22:53:33.362Z"
     },
     "honeywell": {
       "company": "Honeywell",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4571,15 +4587,15 @@
         "siteNumber": "Honeywell",
         "searchText": "2027",
         "limit": 100,
-        "verified_open_jobs": 45
+        "verified_open_jobs": 47
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Honeywell oracle scan timed out after 90000ms"
     },
     "ford": {
       "company": "Ford",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4596,7 +4612,7 @@
         "limit": 100,
         "verified_open_jobs": 5
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Ford oracle scan timed out after 90000ms"
     },
@@ -4633,7 +4649,7 @@
     },
     "lucid motors": {
       "company": "Lucid Motors",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -4827,7 +4843,7 @@
     },
     "mathworks": {
       "company": "MathWorks",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4836,7 +4852,7 @@
     },
     "autodesk": {
       "company": "Autodesk",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -4863,7 +4879,7 @@
     },
     "cummins": {
       "company": "Cummins",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4878,9 +4894,9 @@
         "siteNumber": "CX_1",
         "searchText": "2027",
         "limit": 100,
-        "verified_open_jobs": 169
+        "verified_open_jobs": 172
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Cummins oracle scan timed out after 90000ms"
     },
@@ -4989,7 +5005,7 @@
     },
     "airbus": {
       "company": "Airbus",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5007,7 +5023,7 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Airbus workday scan timed out after 90000ms"
     },
@@ -5129,7 +5145,7 @@
     },
     "emerson": {
       "company": "Emerson",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5144,9 +5160,9 @@
         "siteNumber": "CX_1",
         "searchText": "2027",
         "limit": 100,
-        "verified_open_jobs": 32
+        "verified_open_jobs": 33
       },
-      "last_scan_at": "2026-10-19T19:23:45.205Z",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
       "last_scan_status": "error",
       "last_scan_error": "Emerson oracle scan timed out after 90000ms"
     },
@@ -5177,7 +5193,7 @@
     },
     "parker hannifin": {
       "company": "Parker Hannifin",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5254,7 +5270,7 @@
     },
     "applied materials": {
       "company": "Applied Materials",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5297,7 +5313,7 @@
     },
     "johnson & johnson": {
       "company": "Johnson & Johnson",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5324,9 +5340,9 @@
         "limit": 20,
         "verified_open_jobs": 1492
       },
-      "last_scan_at": "2026-10-19T23:03:43.804Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-20T18:06:02.210Z",
+      "last_scan_status": "error",
+      "last_scan_error": "Stryker workday scan timed out after 60000ms",
       "last_verified_at": "2026-10-19T23:03:43.804Z"
     },
     "abbott": {
@@ -5434,7 +5450,7 @@
     },
     "3m": {
       "company": "3M",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "robots.txt unreachable: request timed out after 10000ms",
@@ -5487,7 +5503,7 @@
     },
     "sierra nevada corporation": {
       "company": "Sierra Nevada Corporation",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "404 Not Found",
@@ -5496,7 +5512,7 @@
     },
     "howmet aerospace": {
       "company": "Howmet Aerospace",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "500 Internal Server Error",
@@ -5671,7 +5687,7 @@
     },
     "intuitive surgical": {
       "company": "Intuitive Surgical",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5767,7 +5783,7 @@
     },
     "regal rexnord": {
       "company": "Regal Rexnord",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5819,7 +5835,7 @@
     },
     "saic": {
       "company": "SAIC",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5902,7 +5918,7 @@
     },
     "dow": {
       "company": "Dow",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -5938,7 +5954,7 @@
     },
     "air products": {
       "company": "Air Products",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -6013,7 +6029,7 @@
     },
     "wsp": {
       "company": "WSP",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "403 Forbidden",
@@ -6031,7 +6047,7 @@
     },
     "carollo engineers": {
       "company": "Carollo Engineers",
-      "checked_at": "2026-10-19T19:15:44.188Z",
+      "checked_at": "2026-10-20T17:56:38.161Z",
       "status": "error",
       "method": "",
       "reason": "405 Not Allowed",

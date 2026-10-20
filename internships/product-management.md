@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 19, 2026 at 7:03 PM EDT
+Last updated: October 20, 2026 at 2:06 PM EDT
 
 Current roles in this view: 57
 
@@ -57,7 +57,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Product Manager Intern (Scaled Growth) - 2027 Summer | San Jose, California, United States of America | $35- $55/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 14, 2026 | [Apply](<https://lifeattiktok.com/search/7673559305519794437>) |
 | TikTok | Product Manager Intern (Signal and Identity Product) - 2027 Summer | San Jose, California, United States of America | $35- $55/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7672554809555192117>) |
 | TikTok | Product Manager Intern (TikTok-Product Infrastructure-Account) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670009830602721589>) |
-| TikTok | Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem) - 2027 Summer | San Jose, California, United States of America | $35 - $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667874197682899205>) |
+| TikTok | Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem)- 2027 Summer | San Jose, California, United States of America | $35 - $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7667874197682899205>) |
 | TikTok | Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer | San Jose, California, United States of America | $35- $35/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Aug 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670420287191517493>) |
 | Vertiv | Services Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667>) |
 | BNY | Product Management Intern - Product Management | New York, NY | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345>) |
