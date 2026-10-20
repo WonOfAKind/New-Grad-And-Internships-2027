@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 20, 2026 at 2:06 PM EDT
+Last updated: October 20, 2026 at 5:42 PM EDT
 
-Current roles in this view: 82
+Current roles in this view: 81
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -50,7 +50,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Thermal Analysis Engineer I | Louisville, CO; Centennial, CO | $82,646.00 - $113,638.25 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 20, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Thermal-Analysis-Engineer-I_R26353>) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | Posted Oct 6, 2026<br>First seen Oct 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | 🔥 United Launch Alliance | Structural / Mechanical Engineer 1 | Cape Canaveral, FL, US | - | Verified early career (BS) | Posted Oct 6, 2026<br>First seen Oct 7, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Cape-Canaveral-Structural-Mechanical-Engineer-1-FL-32925/1437998600>) |
-| Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a23453f1-ca4e-4a89-ab14-50f9f81da550>) |
 | 🔥 BAE Systems | Entry Level Systems Engineer | San Diego, California, United States | - | Early career | Posted Oct 1, 2026<br>First seen Sep 17, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303341&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Oct 1, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304569&partnerid=25771&siteid=5403>) |

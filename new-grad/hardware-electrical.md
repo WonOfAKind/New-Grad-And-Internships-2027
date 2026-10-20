@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 20, 2026 at 2:06 PM EDT
+Last updated: October 20, 2026 at 5:42 PM EDT
 
-Current roles in this view: 36
+Current roles in this view: 35
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,8 +13,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
-| Northrop Grumman | 2027 Pathways Associate Electronics Engineer / Electronics Engineer - Linthicum MD | United States-Maryland-Linthicum | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Pathways-Associate-Electronics-Engineer---Electronics-Engineer---Linthicum-MD_R10256787>) |
-| KLA | Semiconductor Field Service Engineer - New College Grad | Hillsboro, OR | - | Explicit new grad role | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1>) |
 | 🔥 Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | Moog | Associate Electrical Engineer / Electronic Design Engineer | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 20, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419>) |
@@ -36,6 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software/Electrical/Computer Engineer - Advanced RF Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60121>) |
 | 🔥 Anduril | 2027 Early Career Firmware Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246141007>) |
 | HPE | Mechanical Hardware Engineer I Graduate | Sunnyvale, California, United States of America | - | Verified early career (BS) | Posted Sep 20, 2026<br>First seen Sep 22, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1214998/Mechanical-Hardware-Engineer-I-Graduate>) |
+| Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Oct 20, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | Amazon | Hardware Dev. Engineer I (Electrical), One Materials Handling System (OMHS) | US, WA, Bellevue | $96,600 - $160,000 | Verified early career (BS) | Posted Sep 18, 2026<br>First seen Sep 18, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10553866/hardware-dev-engineer-i-electrical-one-materials-handling-system-omhs>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
