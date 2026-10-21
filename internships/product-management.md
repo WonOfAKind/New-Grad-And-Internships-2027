@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
 Current roles in this view: 58
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, IL | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
-| Amplify | Summer 2027: Product Management Intern | Remote - United States | - | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
+| Amplify | Product Management Intern | Remote in USA | - | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | $20.00 - $25.00 per hour | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065>) |
 | Watts Water | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | - | 2027 internship eligible | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702>) |
 | Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, South Carolina, United States | - | 2027 internship eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154671460-product-management-co-op-spring-2027>) |

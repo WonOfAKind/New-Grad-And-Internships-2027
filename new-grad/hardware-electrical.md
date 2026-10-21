@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
 Current roles in this view: 37
 
@@ -17,9 +17,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Northrop Grumman | 2027 Associate Electrical Engineer / Electrical Engineer - Roy UT | United States-Utah-Roy | $79,300 - $118,900 | Verified early career (BS) | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer---Roy-UT_R10257019>) |
 | Sierra Space | RF Engineer I | Broomfield, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/RF-Engineer-I_R26443-1>) |
 | Draper | Entry Level RF Engineer | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Oct 20, 2026<br>First seen Oct 21, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Entry-Level-RF-Engineer_JR002626>) |
+| 🔥 NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | 🔥 Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
-| Moog | Associate Electrical Engineer / Electronic Design Engineer | Phoenix, AZ | $75,000.00 - $105,000.00 Annually | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 21, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419>) |
 | 🔥 NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
 | AeroVironment | Electrical Engineer I | Petaluma, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Petaluma-CA/Electrical-Engineer-I_9066>) |

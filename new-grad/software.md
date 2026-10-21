@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
-Current roles in this view: 305
+Current roles in this view: 307
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Entry Level Software Engineer | Dahlgren, Virginia, US | - | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-software-engineer-dahlgren-virginia-united-states-e01afcaa-e7de-4fa4-9814-6afe1e96fc3e>) |
+| Amentum | Entry Level Software Engineer | US-VA-Dahlgren | - | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259>) |
 | TikTok | Backend Engineer Graduate (Account) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 21, 2026 | [Apply](<https://lifeattiktok.com/search/7696779797359233333>) |
 | TikTok | Backend Engineer Graduate (Social Foundation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 21, 2026 | [Apply](<https://lifeattiktok.com/search/7696782198126545157>) |
 | TikTok | Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 21, 2026 | [Apply](<https://lifeattiktok.com/search/7672532801686571317>) |
+| Expedia Group | Software Developer I | USA - Missouri - Springfield | - | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 21, 2026 | [Apply](<https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635>) |
 | 🔥 Palantir | Software Engineer, New Grad - Query Engines | New York, NY | $145,000 - $155,000/year | Explicit new grad role | First seen Oct 20, 2026 | [Apply](<https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac>) |
 | Accenture Federal Services | Junior Software Developer | St. Louis, MO | $65,900 - $126,000 USD | Early career | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006>) |
 | 🔥 Amazon | Software Development Engineer, Early Career - 2027 (US) | US, WA, Seattle | - | Early career | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us>) |
@@ -24,9 +27,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Analog Devices | Associate Software Engineer | Wilmington, MA | $71,989 - $99,006 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556>) |
 | BAE Systems | Entry Level Software Engineer | Wayne, New Jersey, United States | - | Early career | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305466&partnerid=25771&siteid=5403>) |
 | Boeing | Entry-Level Flight Simulation Software Engineer | USA - Berkeley, MO | $78,200 - $105,800 | Early career | Posted Oct 14, 2026<br>First seen Oct 15, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1>) |
-| 🔥 NVIDIA | SoC Software Engineer - New College Grad 2027 | Santa Clara, CA | - | 2027 grad eligible | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744>) |
 | Boeing | Entry-Level Software Engineer–Developer | USA - Richardson, TX | $ 83,300- $ 112,700 | Early career | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1>) |
 | Leidos | Junior Software Developer | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Developer_R-00194110>) |
+| 🔥 NVIDIA | SoC Software Engineer - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 14, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744>) |
 | Sierra Space | Software Engineer I - Flight Software | Louisville, CO; Centennial, CO | $83,999.00 - $115,498.25 | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1>) |
 | BAE Systems | Entry Level Software Engineer | San Diego, California, United States | - | Early career | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305234&partnerid=25771&siteid=5403>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Researcher - Cyber Capabilities Development | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 12, 2026<br>First seen Oct 13, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60429>) |
@@ -63,9 +66,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Reverse Engineer – Offensive Cyber Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59906>) |
 | Voloridge Investment Management | Quantitative Developer - University Graduate | Jupiter, FL | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009>) |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA | $124,000 - $162,000 USD | Explicit new grad role | First seen Sep 23, 2026 | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4736426005>) |
-| SingleStore | MIT-Software Engineer-New Grad \|Engine\| | United States | - | Explicit new grad role | First seen Sep 22, 2026 | [Apply](<https://job-boards.greenhouse.io/singlestore/jobs/8220863>) |
-| SingleStore | MIT-Software Engineer-New Grad \|Helios\| | United States | - | Explicit new grad role | First seen Sep 22, 2026 | [Apply](<https://job-boards.greenhouse.io/singlestore/jobs/8220882>) |
-| AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Oct 21, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
+| BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Oct 21, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | 9to9 Software Solutions | Entry level software Developer | Pittsburgh, Pennsylvania, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227-entry-level-software-developer>) |
 | AG Technologies | Entry Level Software Engineer | San Antonio, Texas, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/743999655632519-entry-level-software-engineer>) |
 | AG Technologies | Hiring Entry Level &amp; experience software engineer | Tampa, Florida, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/AGTechnologies1/743999658568718-hiring-entry-level-experience-software-engineer>) |
@@ -159,6 +160,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | LexisNexis Risk Solutions | Software Engineer New Grad | Alpharetta, GA | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1>) |
 | LexisNexis Risk Solutions | Software Engineer New Grad - Risk Solutions Technology Graduate Program | Boca Raton, FL | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2>) |
 | RELX | Software Engineer New Grad | Alpharetta, GA | $59,200 - $98,600 | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2>) |
+| RTX | Software Engineer I - Test Solutions - Onsite | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) | - | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Oct 21, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1>) |
 | 🔥 Stripe | Software Engineer, New Grad | San Francisco, CA; Seattle, WA; New York, NY | - | Explicit new grad role | Posted Sep 1, 2026<br>First seen Aug 31, 2026 | [Apply](<https://job-boards.greenhouse.io/stripe/jobs/8128744>) |
 | Texas Sports Academy | Junior Software Engineer (AI-Forward) - Texas Sports Academy Main | Austin, TX | - | Early career | Posted Sep 1, 2026<br>First seen Aug 13, 2026 | [Apply](<https://apply.workable.com/texas-sports-academy-main/j/009164EC9C>) |
 | Textron | 2027 Entry Level — Software/Computer Science Engineering | Fort Worth, TX | - | Early career | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://textron.taleo.net/careersection/textron_ur/jobdetail.ftl?job=1540252>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
-Current roles in this view: 50
+Current roles in this view: 52
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,9 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Early Career HVAC Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-hvac-mechanical-engineer-oak-ridge-tennessee-united-states>) |
+| Amentum | Early Career Mechanical Process Engineer | Detroit, Michigan, US; Greenville, South Carolina, US; Tullahoma, Tennessee, US | $70,000 - $90,000 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-process-engineer-tullahoma-tennessee-united-states-detroit-michigan-greenville-south-carolina>) |
 | 🔥 Northrop Grumman | 2027 Associate Electromechanical Engineer / Electromechanical Engineer - Rolling Meadows IL | United States-Illinois-Rolling Meadows | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Electromechanical-Engineer---Electromechanical-Engineer---Rolling-Meadows-IL_R10257089>) |
-| 🔥 BAE Systems | Mechanical Engineer I (Entry Level) | Lexington Park, Maryland, United States | - | Early career | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303449&partnerid=25771&siteid=5403>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26426-1>) |
+| NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | Hyundai | NVH Engineer I | Irvine, CA, US | $78,000/Year | Verified early career (BS) | Posted Oct 18, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-NVH-Engineer-I-CA-92618/1360612000>) |
 | Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a59f5e4b-5d4a-42b5-b034-0e020be40f7c>) |
 | 🔥 BAE Systems | Mechanical Engineer (Entry Level) | Totowa, New Jersey, United States | - | Early career | Posted Oct 15, 2026<br>First seen Oct 16, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305432&partnerid=25771&siteid=5403>) |

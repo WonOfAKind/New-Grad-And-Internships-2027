@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
-Current roles in this view: 18
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Early Career Mechanical Process Engineer | Detroit, Michigan, US; Greenville, South Carolina, US; Tullahoma, Tennessee, US | $70,000 - $90,000 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-process-engineer-tullahoma-tennessee-united-states-detroit-michigan-greenville-south-carolina>) |
 | 🔥 BAE Systems | Quality Engineer - Jr. Position | Hill AFB, Utah, United States | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305844&partnerid=25771&siteid=5403>) |
+| 🔥 Boeing | Manufacturing Engineer (Government Training Engineering) (Entry-Level or Associate) | USA - Oklahoma City, OK | $66,300 - $89,700 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191-1>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| Spirit AeroSystems | Spirit Defense - Entry-level Research NDI Engineer | Wichita, Kansas, United States | $62,250 - $95,450 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17772>) |
 | 🔥 ExxonMobil | Instrumentation &amp; Controls Engineer - Students Seeking Opportunities - Sarnia (Sarnia, ON, CA, N7T 7M5) | Sarnia, ON, CA, N7T 7M5 | $63,600.00 - $82,320.00 | 2027 grad eligible | First seen Oct 20, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Sarnia-Instrumentation-&-Controls-Engineer-Students-Seeking-Opportunities-Sarnia-ON-N7T-7M5/1442032500>) |
 | 🔥 Toyota Motor North America | Engineer I - Hybrid Electric Vehicle (HEV) Battery Production | Liberty, North Carolina | - | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://toyota.wd503.myworkdayjobs.com/TMNA/job/Liberty-North-Carolina/Engineer-I---Hybrid-Electric-Vehicle--HEV--Battery-Production_10325600-1>) |
 | Emerson Electric | Controls &amp; Automation Engineering Co‑Op – Latham, NY - Summer 2027 | Latham, NY, United States | - | New grad or university grad | First seen Oct 14, 2026 | [Apply](<https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010708>) |

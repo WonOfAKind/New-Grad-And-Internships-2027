@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
 Current roles in this view: 86
 
@@ -13,8 +13,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Hemlock, Michigan, United States of America | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 21, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| 🔥 NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | EXL | Junior AI Engineer | Remote (US) | - | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550>) |
 | Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 21, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |

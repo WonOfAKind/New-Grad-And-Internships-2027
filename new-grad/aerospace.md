@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 21, 2026 at 2:07 PM EDT
+Last updated: October 21, 2026 at 5:41 PM EDT
 
 Current roles in this view: 81
 
@@ -12,9 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Spirit AeroSystems | Spirit Defense - Entry-level Research NDI Engineer | Wichita, Kansas, United States | $62,250 - $95,450 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17772>) |
 | 🔥 United Launch Alliance | Control Dynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Oct 21, 2026<br>First seen Oct 20, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Control-Dynamics-Engineer-1-CO-80112/1422380800>) |
 | 🔥 MIT Lincoln Laboratory | GNC and Autonomy Engineer-Associate Staff (Lexington, MA, US) | Lexington, MA, US | $116,400 - $140,000 | Early career | First seen Oct 21, 2026 | [Apply](<https://careers.ll.mit.edu/job/Lexington-GNC-and-Autonomy-Engineer-Associate-Staff-MA-02420/1442210300>) |
-| 🔥 BAE Systems | Mechanical Engineer I (Entry Level) | Lexington Park, Maryland, United States | - | Early career | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303449&partnerid=25771&siteid=5403>) |
 | 🔥 Northrop Grumman | 2027 Associate Hazards Analyst Engineer/ Hazard Analyst Engineer - Utah | United States-Utah-Corinne; United States-Utah-Magna | $59,900.00 - $89,900.00 | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 21, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Associate-Hazards-Analyst-Engineer--Hazard-Analyst-Engineer---Utah_R10256834>) |
 | 🔥 Northrop Grumman | 2027 Associate Pathways Aerospace Engineer / Pathways Aerospace Engineer - Linthicum MD | United States-Maryland-Linthicum | $87,600 - $131,400 | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Pathways-Aerospace-Engineer---Pathways-Aerospace-Engineer---Linthicum-MD_R10256780>) |
 | Sierra Space | Mechanical Engineer I | Louisville, CO; Centennial, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Mechanical-Engineer-I_R26426-1>) |
