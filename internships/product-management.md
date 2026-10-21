@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 20, 2026 at 5:42 PM EDT
+Last updated: October 21, 2026 at 2:07 PM EDT
 
 Current roles in this view: 58
 
@@ -12,7 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, Illinois | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
+| Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, IL | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
+| Amplify | Summer 2027: Product Management Intern | Remote - United States | - | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | $20.00 - $25.00 per hour | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065>) |
 | Watts Water | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | - | 2027 internship eligible | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702>) |
 | Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, South Carolina, United States | - | 2027 internship eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154671460-product-management-co-op-spring-2027>) |
@@ -20,7 +21,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TikTok | Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7693732178706974981>) |
 | BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL | - | 2027 internship eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784>) |
 | Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
-| Schneider Electric | Graduate Product Management Intern | Franklin, Tennessee, United States | $29.50-$35.50 per hour | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://careers.se.com/jobs/135310>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
 | Tradeweb | Summer 2027 Data Product Manager Internship | New York, NY | $22-$25 hourly | 2027 internship eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932>) |
 | ABB | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Sep 23, 2026<br>First seen Sep 24, 2026 | [Apply](<https://careers.abb/global/fr/job/JR00047280/Product-Management-Intern-Summer-2027>) |
