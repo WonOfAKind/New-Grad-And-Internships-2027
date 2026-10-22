@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 21, 2026 at 5:41 PM EDT
+Last updated: October 22, 2026 at 2:04 PM EDT
 
-Current roles in this view: 58
+Current roles in this view: 57
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -63,7 +63,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vertiv | Services Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667>) |
 | BNY | Product Management Intern - Product Management | New York, NY | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345>) |
 | DTCC | Product Management Intern - 2027 Internship Program | Tampa, FL; Jersey City, NJ | - | 2027 internship eligible | Posted Aug 28, 2026<br>First seen Aug 31, 2026 | [Apply](<https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410>) |
-| 🔥 Amazon | Product Manager Technical (PMT) Intern - Summer 2027 | US, WA, Seattle | - | 2027 internship eligible | Posted Aug 20, 2026<br>First seen Aug 20, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027>) |
 | Vertiv | IT Systems Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 12, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239>) |
 | Vertiv | Product Management Intern | Westerville, OH | - | 2027 internship eligible | Posted Aug 12, 2026<br>First seen Aug 10, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933>) |
 | Pentair | Product Management Internship | Golden Valley, MN | $28.00/hour | 2027 internship eligible | Posted Aug 7, 2026<br>First seen Aug 9, 2026 | [Apply](<https://pentair.wd5.myworkdayjobs.com/Pentair_Careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713>) |
