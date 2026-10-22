@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 22, 2026 at 2:04 PM EDT
+Last updated: October 22, 2026 at 5:36 PM EDT
 
-Current roles in this view: 53
+Current roles in this view: 52
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -27,7 +27,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Test Engineer I | Louisville, CO | $73,175.00 - $100,615.25 | Verified early career (BS) | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Test-Engineer-I_R26402-1>) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
 | Sierra Space | Mechanical Engineer I (Mechanisms) | Durham, NC | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 11, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Durham-NC/Mechanical-Engineer-I--Mechanisms-_R26386-1>) |
-| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | Hyundai | Ride and Handling Engineer I | Irvine, CA, US | $90,000.00/Year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 13, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Ride-and-Handling-Engineer-I-CA-92618/1276446600>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |

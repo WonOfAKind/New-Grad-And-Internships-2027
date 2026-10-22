@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 22, 2026 at 2:04 PM EDT
+Last updated: October 22, 2026 at 5:36 PM EDT
 
-Current roles in this view: 21
+Current roles in this view: 22
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,9 +13,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | 🔥 BAE Systems | Junior Quality Engineer | Hill AFB, Utah, United States | - | Explicit new grad role | Posted Oct 22, 2026<br>First seen Oct 21, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=305844&partnerid=25771&siteid=5403>) |
+| 🔥 Blue Origin | Engineer - Materials &amp; Processes I (Propulsion) - Early Career (Evergreen) | Huntsville, AL; Greater Seattle Area | $81,313.00 - $113,837.85 | Early career | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Engineer---Materials---Processes-I--Propulsion----Early-Career--Evergreen-_R74598>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Oct 22, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 22, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 22, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America; Tonawanda, New York, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 22, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | Amentum | Early Career Mechanical Process Engineer | Detroit, Michigan, US; Greenville, South Carolina, US; Tullahoma, Tennessee, US | $70,000 - $90,000 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-process-engineer-tullahoma-tennessee-united-states-detroit-michigan-greenville-south-carolina>) |
 | 🔥 Boeing | Manufacturing Engineer (Government Training Engineering) (Entry-Level or Associate) | USA - Oklahoma City, OK | $66,300 - $89,700 | Early career | Posted Oct 21, 2026<br>First seen Oct 21, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Manufacturing-Engineer--Government-Training-Engineering---Entry-Level-or-Associate-_JR2026516191-1>) |
 | Spirit AeroSystems | Spirit Defense - Entry-level Research NDI Engineer | Wichita, Kansas, United States | $62,250 - $95,450 | Early career | Posted Oct 21, 2026<br>First seen Oct 22, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17772>) |
