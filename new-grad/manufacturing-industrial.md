@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 1:58 PM EDT
+Last updated: October 23, 2026 at 4:54 PM EDT
 
-Current roles in this view: 22
+Current roles in this view: 21
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -25,7 +25,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Emerson Electric | Controls &amp; Automation Engineering Co‑Op – Latham, NY - Summer 2027 | Latham, NY, United States | - | New grad or university grad | First seen Oct 14, 2026 | [Apply](<https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010708>) |
 | 🔥 United Launch Alliance | Material &amp; Process Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Material-&-Process-Engineer-1-AL-35601/1440296200>) |
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
-| Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 23, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |
 | 🔥 Anduril | 2027 Early Career Quality Engineer | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States | $90,000 - $112,000 USD | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5262324007>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
 | Terracon | Summer Engineering/Construction Materials Testing Technician - Summer 2027 | Cedar Rapids, IA, UNITED STATES | - | New grad or university grad | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://careers.terracon.com/job/cedar-rapids/summer-engineering-construction-materials-testing-technician-summer-2027/37184/100720196800>) |

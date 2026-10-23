@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 1:58 PM EDT
+Last updated: October 23, 2026 at 4:54 PM EDT
 
-Current roles in this view: 92
+Current roles in this view: 89
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -19,12 +19,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | HPE | Associate Sales Engineer Graduate | Spring, Texas, États-Unis d'Amérique | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Oct 23, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1217410/Associate-Sales-Engineer-Graduate>) |
 | HPE | Test Engineer, HPC &amp; AI Systems - (Early Career) | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Oct 21, 2026<br>First seen Oct 23, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1214365/Test-Engineer-HPC-AI-Systems-Early-Career>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Junior AI Platform Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 21, 2026<br>First seen Oct 22, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60364>) |
-| 🔥 NVIDIA | Technical Product Marketing Engineer, Robotics Simulation - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Robotics-Simulation---New-College-Grad-2027_JR2027742>) |
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | Booz Allen Hamilton | Engineering Technician, Junior | Wharton, NJ | $53,000.00 - $108,000.00 | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1>) |
 | EXL | Junior AI Engineer | Remote (US) | - | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550>) |
 | Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
-| Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 23, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |
 | TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670686314588801333>) |
 | TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670685495206857013>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://lifeattiktok.com/search/7694054165508557109>) |
@@ -41,7 +39,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | VIAVI | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 18, 2026 | [Apply](<https://lifeattiktok.com/search/7686999927260105013>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Oct 16, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59653>) |
 | TikTok | Testing Engineer Graduate (TikTok - Intelligent Creation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 7, 2026 | [Apply](<https://lifeattiktok.com/search/7670351062847260981>) |

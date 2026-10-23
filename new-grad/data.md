@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 1:58 PM EDT
+Last updated: October 23, 2026 at 4:54 PM EDT
 
 Current roles in this view: 23
 
@@ -34,5 +34,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
 | TikTok | Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start | Fontana, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675510156642142469>) |
 | TikTok | Data Scientist Graduate (Multimedia) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 13, 2026 | [Apply](<https://lifeattiktok.com/search/7670288355678177589>) |
-| Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Early career | Posted Jul 23, 2026<br>First seen Sep 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
+| Insilico Logix | Business Analyst/ Data Analyst - Entry Level | Herndon, Virginia, United States | - | Explicit new grad role | Posted Jul 23, 2026<br>First seen Sep 7, 2026 | [Apply](<https://jobs.smartrecruiters.com/InsilicoLogix/743999653809331-business-analyst-data-analyst-entry-level>) |
 
