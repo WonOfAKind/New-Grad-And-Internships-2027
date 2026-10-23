@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 4:54 PM EDT
+Last updated: October 23, 2026 at 7:41 PM EDT
 
-Current roles in this view: 52
+Current roles in this view: 50
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -41,7 +41,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 United Launch Alliance | Structural / Mechanical Engineer 1 | Cape Canaveral, FL, US | - | Verified early career (BS) | Posted Oct 6, 2026<br>First seen Oct 7, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Cape-Canaveral-Structural-Mechanical-Engineer-1-FL-32925/1437998600>) |
 | Hyundai | Infotainment Engineer I (North America Quality Center - NAQC) | Irvine, CA, US | $90,000/Year | Verified early career (BS) | Posted Oct 4, 2026<br>First seen Sep 7, 2026 | [Apply](<https://careers-americas.hyundai.com/hatci/job/Irvine-Infotainment-Engineer-I-%28North-America-Quality-Center-NAQC%29-CA-92618/1398547000>) |
 | Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
-| Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a23453f1-ca4e-4a89-ab14-50f9f81da550>) |
 | 🔥 United Launch Alliance | Systems Test Engineer 1 | Pueblo, CO, US | $64,740.00 - $107,900.00 | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Oct 2, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1436247500>) |
 | Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Oct 23, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
 | 🔥 United Launch Alliance | Weld Engineer 1 | Decatur, AL, US | - | Verified early career (BS) | Posted Sep 28, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Decatur-Weld-Engineer-1-AL-35601/1388523400>) |
@@ -61,7 +60,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Caterpillar | 2027 Engineering Rotational Product Development Program-Welding | Mossville, Illinois | $89,210.00 - $133,810.00 | 2027 grad eligible | First seen Sep 23, 2026 | [Apply](<https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Rotational-Development-Program-Welding_R0000380498>) |
 | Amentum | Entry-Level Mechanical Engineer | Oak Ridge, Tennessee, US | $80,000 - $100,000 | Early career | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-mechanical-engineer-oak-ridge-tennessee-united-states>) |
 | Stoke Space | Test Engineer (Level 1 - Early Career) | Moses Lake, Washington | $95,550 - $120,645 | 2027 grad eligible | First seen Aug 9, 2026 | [Apply](<https://job-boards.greenhouse.io/stokespacetechnologies/jobs/5708088004>) |
-| Amentum | Early Career Mechanical Engineer | Oak Ridge, Tennessee, US | $75,000 - $115,000 | Early career | Posted Aug 3, 2026<br>First seen Aug 9, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-mechanical-engineer-oak-ridge-tennessee-united-states-4b7c3e56-64b7-435b-9d8a-066855e6ccee>) |
 | 🔥 Anduril | 2027 Early Career Mechanical Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Jul 5, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5136984007>) |
 | 🔥 Boeing | Entry Level or Associate Design, Analysis and Test Engineer **Sign on Bonus Potential** | USA - Berkeley, MO; USA - Hazelwood, MO; USA - Mascoutah, IL | $73,950 - $100,050 | Early career | First seen Aug 3, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-or-Experienced-Design--Analysis-and-Test-Engineer---Sign-on-Bonus-Potential--_JR2026510865>) |
 

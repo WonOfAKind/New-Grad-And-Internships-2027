@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 23, 2026 at 4:54 PM EDT
+Last updated: October 23, 2026 at 7:41 PM EDT
 
-Current roles in this view: 231
+Current roles in this view: 233
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,10 +13,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Bertelsmann | Data Science Intern | New York, New York (NY), United States | $19.00 per hour | 2027 internship eligible | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157546634-data-science-intern>) |
+| ID.me | Summer Intern 2027 - Analytics Engineer Intern | Mountain View, CA | - | 2027 internship eligible | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003>) |
 | Koppers | Financial Data Analyst Intern | Peachtree City, GA | - | 2027 internship eligible | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://koppers.wd5.myworkdayjobs.com/Koppers/job/Peachtree-City-GA/Financial-Data-Analyst-Intern_REQ03221>) |
+| Sun Life | Data Science Intern - Summer 2027 Intern | Wellesley Hills, Massachusetts | - | 2027 internship eligible | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1>) |
 | Allstate Insurance Company 🆁 | Arity - Data Analytics Engineer Intern | USA - IL (Remote) | $33 an hour | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286>) |
 | CVS Health | Innovation &amp; Technology Internship - Data Science - Summer 2027 (Graduate) | NY - New York | $51.60 - $51.60/hr | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 23, 2026 | [Apply](<https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038>) |
-| 🔥 Databricks | Data Science Intern (2027 Start) | Mountain View, California; San Francisco, California | $54 - $60/hr USD | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6866538002>) |
+| 🔥 Databricks | Data Science Intern (2027 Start) | Mountain View, CA; San Francisco, CA | $54 - $60/hr USD | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6866538002>) |
 | General Dynamics Information Technology | Financial Data Analyst Intern (Seasonal) | USA VA Falls Church | $27.43 - $37.11/hr | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761>) |
 | Paccar | Summer 2027 - AfterSales Data Analyst Intern | Kirkland, WA, US | $25 per hour | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033>) |
 | STR | Data Analyst Intern | Arlington, VA Woburn, MA | $25.20 - $54.00/hour | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006>) |

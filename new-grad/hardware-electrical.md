@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 4:54 PM EDT
+Last updated: October 23, 2026 at 7:41 PM EDT
 
-Current roles in this view: 38
+Current roles in this view: 39
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -48,6 +48,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Peraton | Junior Electrical Engineer (NASA Balloon Program) | TX | $51,000 - $82,000 | Early career | Posted Sep 10, 2026<br>First seen Oct 23, 2026 | [Apply](<https://www.careers.peraton.com/jobs/junior-electrical-engineer-nasa-balloon-program-palestine-texas-170479-jobs--engineering-->) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Defense Systems Simulation &amp; Analysis – Electrical Engineer/Physicist/Mathematician | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 6, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59881>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59953>) |
+| Amentum | Entry-Level Electrical Engineer | Crane, Indiana, US | $70,000-110,000 annually | Early career | Posted Sep 2, 2026<br>First seen Oct 23, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-electrical-engineer-crane-indiana-united-states-eef270ed-5b2f-43b2-9760-e13148e37c7b>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - RF Systems Evaluation and Integration Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59771>) |
 | IMC Trading | Graduate Hardware Engineer | Chicago, United States | $200,000 | 2027 grad eligible | Posted Jul 18, 2026<br>First seen Jul 5, 2026 | [Apply](<https://job-boards.eu.greenhouse.io/imc/jobs/4823805101>) |
 

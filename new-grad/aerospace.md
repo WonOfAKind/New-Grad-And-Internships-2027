@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 4:54 PM EDT
+Last updated: October 23, 2026 at 7:41 PM EDT
 
-Current roles in this view: 79
+Current roles in this view: 77
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Amentum | Junior DevSecOps Engineer | Dahlgren, Virginia, US | - | Early career | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-devsecops-engineer-dahlgren-virginia-united-states>) |
 | 🔥 BAE Systems | Entry Level Systems Engineer | San Diego, California, United States | - | Early career | Posted Oct 23, 2026<br>First seen Sep 17, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303341&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | FAST Labs - Systems Engineer - Early Career Levels | Merrimack, New Hampshire, United States | - | Early career | Posted Oct 23, 2026<br>First seen Sep 23, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304569&partnerid=25771&siteid=5403>) |
 | 🔥 Blue Origin | Engineer - Materials &amp; Processes I (Propulsion) - Early Career (Evergreen) | Huntsville, AL; Greater Seattle Area | $81,313.00 - $113,837.85 | Early career | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Engineer---Materials---Processes-I--Propulsion----Early-Career--Evergreen-_R74598>) |
@@ -55,7 +54,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | Posted Oct 6, 2026<br>First seen Oct 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | 🔥 United Launch Alliance | Structural / Mechanical Engineer 1 | Cape Canaveral, FL, US | - | Verified early career (BS) | Posted Oct 6, 2026<br>First seen Oct 7, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Cape-Canaveral-Structural-Mechanical-Engineer-1-FL-32925/1437998600>) |
 | Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
-| Amentum | Early Career Structural Designer | Oak Ridge, Tennessee, US | - | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-structural-designer-oak-ridge-tennessee-united-states-a23453f1-ca4e-4a89-ab14-50f9f81da550>) |
 | 🔥 United Launch Alliance | Systems Test Engineer 1 | Pueblo, CO, US | $64,740.00 - $107,900.00 | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Oct 2, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1436247500>) |
 | Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Oct 23, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
 | Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states>) |
