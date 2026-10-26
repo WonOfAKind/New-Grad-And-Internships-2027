@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 23, 2026 at 7:41 PM EDT
+Last updated: October 26, 2026 at 3:20 PM EDT
 
-Current roles in this view: 18
+Current roles in this view: 19
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 26, 2026 | [Apply](<https://lifeattiktok.com/search/7680761598014015797>) |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8862211002>) |
 | Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | $140,000 - $140,000 USD | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6180116004>) |
 | BNY | 2027 BNY Analyst Program - Product Management | New York, NY | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895>) |
@@ -29,5 +30,5 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | LPL Financial Holdings | Product Management New Grad - Product | Austin, TX; Fort Mill, SC; Charlotte, NC | - | Explicit new grad role | Posted Aug 12, 2026<br>First seen Aug 13, 2026 | [Apply](<https://lplfinancial.wd1.myworkdayjobs.com/University/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1>) |
 | TikTok | AI Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Aug 12, 2026 | [Apply](<https://lifeattiktok.com/search/7667472978298767621>) |
 | Uncountable | Product Manager – New Grad | San Francisco, CA; New York, NY | - | Explicit new grad role | Posted Jul 27, 2026<br>First seen Aug 9, 2026 | [Apply](<https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc>) |
-| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) | San Francisco, CA; Mountain View, CA; Bellevue, WA | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/7586263002>) |
+| 🔥 Databricks | Associate Product Manager, New Grad (2027 Start) | Bellevue, Washington; Mountain View, California; San Francisco, California | $133,000 - $150,000 USD | 2027 grad eligible | Posted Jul 16, 2026<br>First seen Aug 11, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/7586263002>) |
 

@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 23, 2026 at 7:41 PM EDT
+Last updated: October 26, 2026 at 3:20 PM EDT
 
 Current roles in this view: 62
 
@@ -12,10 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Patreon | Product Manager Intern | New York, NY San Francisco, CA | - | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d>) |
+| Patreon | Product Manager Intern - Summer 2027 | New York, NY San Francisco, CA | - | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d>) |
 | Walmart | Summer 2027 Intern: Automation - Product Manager - Corporate Intern | (USA) TX LANCASTER 07382 ECOMM FULFILLMENT SERVICES | $21.00 - $40.00/hr | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, IL | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
-| Amplify | Product Management Intern | Remote in USA | - | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
+| Amplify | Summer 2027: Product Management Intern | Remote in USA | - | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | $20.00 - $25.00 per hour | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065>) |
 | Propio | Product Manager Intern | Overland Park, KS | - | 2027 internship eligible | Posted Oct 14, 2026<br>First seen Oct 23, 2026 | [Apply](<https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630>) |
 | Watts Water | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | - | 2027 internship eligible | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702>) |
@@ -23,7 +23,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Vertiv | Energy Storage Product Management Intern (Summer 2027) | Delaware, OH | - | 2027 internship eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379>) |
 | TikTok | Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7693732178706974981>) |
 | Residex Software | Product Management Intern | United States | $25.00 per hour | 2027 internship eligible | Posted Oct 8, 2026<br>First seen Oct 23, 2026 | [Apply](<https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799>) |
-| Viget | Project &amp; Product Manager Intern | Boulder, CO | - | 2027 internship eligible | Posted Oct 7, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4>) |
+| Viget | Project &amp; Product Manager Intern (2027) | Boulder, CO | - | 2027 internship eligible | Posted Oct 7, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4>) |
 | BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL | - | 2027 internship eligible | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784>) |
 | Epic Games | Technical Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6178818004>) |
 | Epic Games | Product Management Intern | Cary,North Carolina,United States | - | 2027 internship eligible | Posted Sep 29, 2026<br>First seen Sep 29, 2026 | [Apply](<https://job-boards.greenhouse.io/epicgames/jobs/6161289004>) |
@@ -47,7 +47,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Qualcomm | Product Management Internship - Summer 2027 | San Diego, CA, US | $17.00 - $98.00/hr | 2027 internship eligible | Posted Sep 18, 2026<br>First seen Sep 21, 2026 | [Apply](<https://careers.qualcomm.com/careers/job/446720741706-product-management-internship-summer-2027-san-diego-california-united-states-of-america>) |
 | Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | - | 2027 internship eligible | Posted Sep 8, 2026<br>First seen Sep 8, 2026 | [Apply](<https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 5, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
-| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
+| 🔥 Roblox | [Summer 2027] Product Management Intern | San Mateo, CA, United States | $62 - $62/hr USD | 2027 internship eligible | Posted Sep 4, 2026<br>First seen Sep 2, 2026 | [Apply](<https://job-boards.greenhouse.io/roblox/jobs/8143981>) |
 | TikTok | Product Manager Intern (TikTok LIVE-AI &amp; Ecosystem Governance) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Sep 3, 2026 | [Apply](<https://lifeattiktok.com/search/7677493272788683013>) |
 | Medline | Product Management Intern | Chicago, IL; Northfield, IL | $23.25 - $33.75 Hourly | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983>) |
 | Oshkosh | Product Management Intern | Appleton, WI | $18.00 - $37.00/hr | 2027 internship eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746>) |
