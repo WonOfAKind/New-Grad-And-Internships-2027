@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 26, 2026 at 3:20 PM EDT
+Last updated: October 26, 2026 at 7:17 PM EDT
 
-Current roles in this view: 91
+Current roles in this view: 89
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -21,7 +21,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Junior AI Platform Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 21, 2026<br>First seen Oct 22, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60364>) |
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | EXL | Junior AI Engineer | Remote (US) | - | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21550>) |
-| Carrier | Engineering Leadership Program | CAN01: Carrier-Syracuse, 6304 Carrier Parkway, East Syracuse, NY, 13057 USA | $53,000.00 - $106,000.00 annually | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 26, 2026 | [Apply](<https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Leadership-Program_30217947>) |
 | TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670686314588801333>) |
 | TikTok | Machine Learning Engineer Graduate (Conversational AI) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7670685495206857013>) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start | Seattle, Washington, United States of America | - | 2027 grad eligible | First seen Oct 8, 2026 | [Apply](<https://lifeattiktok.com/search/7694054165508557109>) |
@@ -39,7 +38,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | VIAVI | Early Careers Rotational Program Development Engineer - Software Engineering/AI Track | Morrisville, NC | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1>) |
 | Peraton | Systems Engineering, Associate - St. Louis, MO | MO | $51,000 - $82,000 | 2027 grad eligible | Posted Sep 18, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/systems-engineering-associate-st-louis-mo-st-louis-missouri-170471-jobs--engineering-->) |
 | TikTok | Machine Learning Engineer Graduate (E-Commerce Recommendation Video) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 18, 2026 | [Apply](<https://lifeattiktok.com/search/7686999927260105013>) |
-| Palo Alto Networks | Associate Technical Marketing Engineer | Office - USA - CA - Headquarters | $94,000.00 - $153,000.00/yr | Verified early career (BS) | First seen Oct 16, 2026 | [Apply](<https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Associate-Technical-Marketing-Engineer_JR-012285>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineering/Science - Signals Exploitation Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 14, 2026<br>First seen Sep 15, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59992>) |
 | Pinecone | Associate Field Engineer | New York City | - | Explicit new grad role | Posted Sep 11, 2026<br>First seen Sep 11, 2026 | [Apply](<https://jobs.ashbyhq.com/pinecone/2cf3b58f-a912-497f-9bfe-84144c4a1e3d>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59653>) |
