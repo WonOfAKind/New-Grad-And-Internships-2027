@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 27, 2026 at 2:46 PM EDT
+Last updated: October 27, 2026 at 6:47 PM EDT
 
-Current roles in this view: 315
+Current roles in this view: 321
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Amentum | Software Engineer Junior | US-CA-Vandenberg AFB | $70,000 - $85,000 annually | Early career | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629>) |
+| 🔥 Databricks | Software Engineer - New Grad (2027 Start) | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | $145,000 - $155,000 USD | 2027 grad eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6865698002>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Engineer or Scientist – Offensive Cyber Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 27, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59906>) |
+| Northrop Grumman | 2027 Associate Software Engineer - Azusa CA | United States-California-Azusa | $76,200 - $114,400 | Verified early career (BS) | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890>) |
+| Northrop Grumman | 2027 Associate Software Engineer - Boulder CO | United States-Colorado-Boulder | $76,200 - $114,400 | Verified early career (BS) | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908>) |
 | Northrop Grumman | 2027 Associate Software Engineer / Software Engineer - Colorado Springs CO | United States-Colorado-Colorado Springs | $69,900 - 103,900 | Verified early career (BS) | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768>) |
+| 🔥 Databricks | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | Bellevue, Washington; Mountain View, California | $145,000 - $155,000 USD | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://job-boards.greenhouse.io/databricks/jobs/6865704002>) |
 | TikTok | Backend Engineer Graduate (Account) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://lifeattiktok.com/search/7696779797359233333>) |
 | TikTok | Backend Engineer Graduate (Social Foundation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://lifeattiktok.com/search/7696782198126545157>) |
 | TikTok | Backend Engineer Graduate (TikTok Vertical Recommendation Architecture) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://lifeattiktok.com/search/7672532801686571317>) |
@@ -77,7 +83,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | AeroVironment | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Oct 27, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | 🔥 Amazon | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software/Electrical/Computer Engineer - Advanced RF Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60121>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Reverse Engineer – Offensive Cyber Capabilities | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59906>) |
 | Voloridge Investment Management | Quantitative Developer - University Graduate | Jupiter, FL | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009>) |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA | $124,000 - $162,000 USD | Explicit new grad role | First seen Sep 23, 2026 | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4736426005>) |
 | 9to9 Software Solutions | Entry level software Developer | Pittsburgh, Pennsylvania, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227-entry-level-software-developer>) |
@@ -162,7 +167,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | TransMarket Group | Junior Data Engineer | Chicago, IL | - | Early career | Posted Sep 4, 2026<br>First seen Sep 4, 2026 | [Apply](<https://job-boards.greenhouse.io/transmarketgroup/jobs/5151492007>) |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | $124,000 - $162,000 USD | Explicit new grad role | First seen Sep 4, 2026 | [Apply](<https://job-boards.greenhouse.io/scaleai/jobs/4730836005>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Software Engineer; Data Scientist; Ontologist – Threat Analytic Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59849>) |
-| Blue Origin | Software Development Engineer I - Early Career (2027 Starts) | Greater Seattle Area; Space Coast, FL; Huntsville, AL; Denver, CO; Los Angeles, CA | $110,623.00 - $154,871.85 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326>) |
+| Blue Origin | Software Development Engineer I - Early Career | Kent, WA | $110,623.00 - $154,871.85 | Verified early career (BS) | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Modeling, Simulation and Analysis Tool Software Developer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59599>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer - Engagement Optimization | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59510>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Developer - Tactical System Prototyping and Deployment | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 1, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59558>) |
@@ -191,6 +196,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra | Software Engineer, Agent (New Grad 2027) | San Francisco, CA; New York, NY | - | 2027 grad eligible | Posted Aug 31, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00>) |
 | 🔥 Palantir | Forward Deployed Infrastructure Engineer, New Grad - US Government | Honolulu, HI | $135,000 - $145,000/year | Explicit new grad role | First seen Aug 31, 2026 | [Apply](<https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12>) |
 | N1 | New Grad Software Engineer (Full Stack) | New York, NY | $100K- $180K | Explicit new grad role | Posted Aug 30, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.ashbyhq.com/N1/73724fe2-9a93-4a60-b349-4fd3d2efa94a>) |
+| Rilla | Software Engineer, New Grads | New York City | - | Explicit new grad role | Posted Aug 29, 2026<br>First seen Oct 27, 2026 | [Apply](<https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5>) |
 | ServiceNow | Associate Software Engineer, Core Infrastructure - Moveworks | Mountain View, CALIFORNIA, United States | - | Verified early career (BS) | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/ServiceNow/744000107369741-associate-software-engineer-core-infrastructure-moveworks>) |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | California - Pleasanton | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Oct 20, 2026 | [Apply](<https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6>) |
 | Veeva Systems | Associate Software Engineer - 2027 Start Dates | Massachusetts - Boston | - | 2027 grad eligible | Posted Aug 29, 2026<br>First seen Oct 20, 2026 | [Apply](<https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd>) |

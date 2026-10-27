@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 27, 2026 at 2:46 PM EDT
+Last updated: October 27, 2026 at 6:47 PM EDT
 
-Current roles in this view: 44
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Boeing | Entry-level Digital Electronics Circuit &amp; Unit Hardware Design Engineer | USA - El Segundo, CA | $76,050 - $106,950 | Early career | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2>) |
 | Draper | Analog Hardware Design Engineer 1 | Cambridge, MA | $62,500.00 - $140,000.00 | Verified early career (BS) | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Hardware-Power-Engineer-1_JR003062>) |
 | Firefly Aerospace | Wire Harness Electrical Engineer I | Cedar Park, TX | - | Explicit new grad role | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://fireflyspace.wd115.myworkdayjobs.com/Firefly/job/Cedar-Park-TX/Wire-Harness-Electrical-Engineer-I_JR100277>) |
+| Northrop Grumman | 2027 Pathways Associate Electrical Engineer / Electrical Engineer - Linthicum MD | United States-Maryland-Linthicum | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Pathways-Associate-Electrical-Engineer---Electrical-Engineer---Linthicum-MD_R10257906>) |
 | Northrop Grumman | 2027 Associate Electrical Engineer / Electrical Engineer - Roy UT | United States-Utah-Roy | $79,300 - $118,900 | 2027 grad eligible | Posted Oct 25, 2026<br>First seen Oct 26, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Electrical-Engineer---Electrical-Engineer---Roy-UT_R10257538>) |
 | Northrop Grumman | 2027 Associate Embedded Software Engineer - Morrisville NC | United States-North Carolina-Morrisville | $72,700 - $109,100 | Verified early career (BS) | Posted Oct 25, 2026<br>First seen Oct 26, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Associate-Embedded-Software-Engineer---Morrisville-NC_R10257541>) |
-| Trane Technologies | 2027 Accelerated Development Program - Engineering | Davidson, Caroline du Nord, États-Unis d'Amérique; Clarksville, Tennessee, États-Unis d'Amérique; La Crosse, Wisconsin, États-Unis d'Amérique; Minneapolis, Minnesota, États-Unis d'Amérique; Noblesville, Indiana, États-Unis d'Amérique; St Paul, Minnesota, États-Unis d'Amérique; Tyler, Texas, États-Unis d'Amérique | $78,500.00 - $86,350.00 | Explicit new grad role | Posted Oct 24, 2026<br>First seen Oct 27, 2026 | [Apply](<https://careers.tranetechnologies.com/global/fr/job/JR-7587/2027-Accelerated-Development-Program-Engineering>) |
 | BAE Systems | 2027 Entry Level Software Engineer - Hardware | San Diego, California, United States | - | Early career | Posted Oct 23, 2026<br>First seen Sep 14, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=302981&partnerid=25771&siteid=5403>) |
 | BAE Systems | Entry Level Hardware Engineer - Electrical/Power/Firmware/RF (Hybrid) | Nashua, New Hampshire, United States | - | Early career | Posted Oct 23, 2026<br>First seen Sep 29, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=304563&partnerid=25771&siteid=5403>) |
 | BAE Systems | Entry Level Programs - Controls | Endicott, New York, United States | - | Early career | Posted Oct 23, 2026<br>First seen Sep 9, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=303616&partnerid=25771&siteid=5403>) |
@@ -29,7 +30,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 NVIDIA | Low Power ASIC Engineer - New College Grad 2027 | US, CA, Santa Clara | - | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 15, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
 | AeroVironment | Electrical Engineer I | Petaluma, CA | $66,500 - $101,500 | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Petaluma-CA/Electrical-Engineer-I_9066>) |
-| 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Reverse Engineer - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 8, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
+| 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Engineer/Scientist - Systems Exploitation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 8, 2026<br>First seen Sep 2, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59797>) |
 | Leidos | Entry Level Avionics Engineer - Hypersonics | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Avionics-Engineer---Hypersonics_R-00194083>) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | Posted Oct 6, 2026<br>First seen Oct 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 BS/MS Graduate - Neural Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 5, 2026<br>First seen Sep 25, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60068>) |

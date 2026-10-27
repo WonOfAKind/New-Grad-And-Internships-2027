@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 27, 2026 at 2:46 PM EDT
+Last updated: October 27, 2026 at 6:47 PM EDT
 
 Current roles in this view: 91
 
@@ -12,11 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 27, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America | - | Explicit new grad role | Posted Oct 27, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 27, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Tonawanda, New York, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Edina, Minnesota, United States of America | - | Explicit new grad role | Posted Oct 27, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Tonawanda, New York, United States of America; Richmond, Virginia, United States of America; Wilmington, Delaware, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Oct 27, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | HPE | Associate Sales Engineer Graduate | Durham, North Carolina, United States of America | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Oct 27, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1217409/Associate-Sales-Engineer-Graduate>) |
-| HPE | Associate Sales Engineer Graduate | Spring, Texas, États-Unis d'Amérique | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Oct 27, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1217410/Associate-Sales-Engineer-Graduate>) |
+| HPE | Associate Sales Engineer Graduate | Spring, Texas, United States of America | - | Explicit new grad role | Posted Oct 21, 2026<br>First seen Oct 27, 2026 | [Apply](<https://careers.hpe.com/us/en/job/1217410/Associate-Sales-Engineer-Graduate>) |
 | HPE | Test Engineer, HPC &amp; AI Systems - (Early Career) | Spring, Texas, États-Unis d'Amérique | - | Early career | Posted Oct 21, 2026<br>First seen Oct 23, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1214365/Test-Engineer-HPC-AI-Systems-Early-Career>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Junior AI Platform Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 21, 2026<br>First seen Oct 22, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60364>) |
 | Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
