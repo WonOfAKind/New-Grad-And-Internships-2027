@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-28T18:57:06.040Z",
+  "updated_at": "2026-10-28T23:01:04.898Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -40,9 +40,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
       "last_scan_status": "error",
-      "last_scan_error": "NVIDIA workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "netflix": {
       "company": "Netflix",
@@ -808,9 +808,9 @@
         "limit": 20,
         "verified_open_jobs": 1405
       },
-      "last_scan_at": "2026-10-27T18:46:58.312Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-27T18:46:58.312Z"
     },
     "wiz": {
@@ -3410,9 +3410,9 @@
         "limit": 20,
         "verified_open_jobs": 85
       },
-      "last_scan_at": "2026-10-23T23:41:30.973Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-23T23:41:30.973Z"
     },
     "recursion": {
@@ -3898,9 +3898,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
       "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4108,9 +4108,9 @@
         "limit": 20,
         "verified_open_jobs": 139
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-28T18:57:06.040Z"
     },
     "oscar health": {
@@ -4527,7 +4527,7 @@
     },
     "boeing": {
       "company": "Boeing",
-      "checked_at": "2026-10-27T18:39:04.780Z",
+      "checked_at": "2026-10-28T22:54:18.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -4543,12 +4543,11 @@
         "site": "EXTERNAL_CAREERS",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 737
+        "verified_open_jobs": 754
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
       "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 90000ms",
-      "last_verified_at": "2026-10-27T18:46:58.312Z"
+      "last_scan_error": "429 Too Many Requests"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5182,7 +5181,7 @@
     },
     "carrier": {
       "company": "Carrier",
-      "checked_at": "2026-10-27T18:39:04.780Z",
+      "checked_at": "2026-10-28T22:54:18.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5198,12 +5197,12 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1035
+        "verified_open_jobs": 1078
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Carrier workday scan timed out after 90000ms",
-      "last_verified_at": "2026-10-27T18:46:58.312Z"
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-28T23:01:04.898Z"
     },
     "trane technologies": {
       "company": "Trane Technologies",
@@ -5302,7 +5301,7 @@
     },
     "stryker": {
       "company": "Stryker",
-      "checked_at": "2026-10-26T23:11:04.263Z",
+      "checked_at": "2026-10-28T22:54:18.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5318,16 +5317,16 @@
         "site": "StrykerCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1479
+        "verified_open_jobs": 1484
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Stryker workday scan timed out after 60000ms",
-      "last_verified_at": "2026-10-26T23:17:57.846Z"
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-28T23:01:04.898Z"
     },
     "abbott": {
       "company": "Abbott",
-      "checked_at": "2026-10-23T20:47:41.752Z",
+      "checked_at": "2026-10-28T22:54:18.161Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5345,10 +5344,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-28T18:57:06.040Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Abbott workday scan timed out after 90000ms",
-      "last_verified_at": "2026-10-23T23:41:30.973Z"
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-28T23:01:04.898Z"
     },
     "jacobs": {
       "company": "Jacobs",
@@ -5731,9 +5730,9 @@
         "limit": 20,
         "verified_open_jobs": 69
       },
-      "last_scan_at": "2026-10-27T18:46:58.312Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-28T23:01:04.898Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-27T18:46:58.312Z"
     },
     "michelin": {
