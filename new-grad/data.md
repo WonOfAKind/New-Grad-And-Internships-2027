@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 28, 2026 at 7:01 PM EDT
+Last updated: October 29, 2026 at 3:04 PM EDT
 
 Current roles in this view: 22
 
