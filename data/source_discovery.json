@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-29T19:04:46.477Z",
+  "updated_at": "2026-10-29T23:20:48.958Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -40,9 +40,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "error",
-      "last_scan_error": "NVIDIA workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "netflix": {
       "company": "Netflix",
@@ -808,9 +808,9 @@
         "limit": 20,
         "verified_open_jobs": 1400
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-29T19:04:46.477Z"
     },
     "wiz": {
@@ -2320,9 +2320,9 @@
         "limit": 20,
         "verified_open_jobs": 399
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "error",
-      "last_scan_error": "Workday workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "cisco": {
       "company": "Cisco",
@@ -2465,7 +2465,7 @@
     },
     "hubspot": {
       "company": "HubSpot",
-      "checked_at": "2026-10-22T21:29:18.162Z",
+      "checked_at": "2026-10-29T23:14:10.194Z",
       "status": "discovered",
       "method": "official-job-links",
       "reason": "",
@@ -2489,10 +2489,10 @@
         "keepDetailQuery": true,
         "detailLimit": 30
       },
-      "last_scan_at": "2026-10-22T21:36:28.048Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-22T21:36:28.048Z"
+      "last_verified_at": "2026-10-29T23:20:48.958Z"
     },
     "zendesk": {
       "company": "Zendesk",
@@ -2514,9 +2514,9 @@
         "limit": 20,
         "verified_open_jobs": 149
       },
-      "last_scan_at": "2026-10-23T23:41:30.973Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-23T23:41:30.973Z"
     },
     "qualtrics": {
@@ -3898,9 +3898,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "l3harris": {
       "company": "L3Harris",
@@ -4108,9 +4108,9 @@
         "limit": 20,
         "verified_open_jobs": 140
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-29T19:04:46.477Z"
     },
     "oscar health": {
@@ -4545,9 +4545,9 @@
         "limit": 20,
         "verified_open_jobs": 740
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "error",
-      "last_scan_error": "Boeing workday scan timed out after 90000ms"
+      "last_scan_error": "429 Too Many Requests"
     },
     "honeywell": {
       "company": "Honeywell",
@@ -5002,9 +5002,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Airbus workday scan timed out after 90000ms"
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-29T23:20:48.958Z"
     },
     "aerovironment": {
       "company": "AeroVironment",
@@ -5181,7 +5182,7 @@
     },
     "carrier": {
       "company": "Carrier",
-      "checked_at": "2026-10-28T22:54:18.161Z",
+      "checked_at": "2026-10-29T23:14:10.194Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5197,12 +5198,11 @@
         "site": "jobs",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 1078
+        "verified_open_jobs": 1033
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "error",
-      "last_scan_error": "Carrier workday scan timed out after 90000ms",
-      "last_verified_at": "2026-10-28T23:01:04.898Z"
+      "last_scan_error": "Carrier workday scan timed out after 60000ms"
     },
     "trane technologies": {
       "company": "Trane Technologies",
@@ -5326,7 +5326,7 @@
     },
     "abbott": {
       "company": "Abbott",
-      "checked_at": "2026-10-28T22:54:18.161Z",
+      "checked_at": "2026-10-29T23:14:10.194Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -5344,10 +5344,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Abbott workday scan timed out after 90000ms",
-      "last_verified_at": "2026-10-28T23:01:04.898Z"
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-29T23:20:48.958Z"
     },
     "jacobs": {
       "company": "Jacobs",
@@ -5730,9 +5730,9 @@
         "limit": 20,
         "verified_open_jobs": 76
       },
-      "last_scan_at": "2026-10-29T19:04:46.477Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-29T19:04:46.477Z"
     },
     "michelin": {
@@ -5825,14 +5825,14 @@
         "limit": 20,
         "verified_open_jobs": 395
       },
-      "last_scan_at": "2026-10-23T23:41:30.973Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-23T23:41:30.973Z"
     },
     "chevron": {
       "company": "Chevron",
-      "checked_at": "2026-10-22T21:29:18.162Z",
+      "checked_at": "2026-10-29T23:14:10.194Z",
       "status": "discovered",
       "method": "job-sitemap",
       "reason": "",
@@ -5849,10 +5849,10 @@
         "robotsUrl": "https://careers.chevron.com/robots.txt",
         "detailLimit": 30
       },
-      "last_scan_at": "2026-10-22T21:36:28.048Z",
+      "last_scan_at": "2026-10-29T23:20:48.958Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-22T21:36:28.048Z"
+      "last_verified_at": "2026-10-29T23:20:48.958Z"
     },
     "shell": {
       "company": "Shell",

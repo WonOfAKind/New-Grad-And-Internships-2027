@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 29, 2026 at 3:04 PM EDT
+Last updated: October 29, 2026 at 7:20 PM EDT
 
-Current roles in this view: 22
+Current roles in this view: 23
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Micron Technology | New College Grad - Data Scientist, AI for Business Functions | Boise, ID - Main Site | - | Explicit new grad role | Posted Oct 29, 2026<br>First seen Oct 29, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682>) |
 | CACI | Junior Data Analyst | Florham Park, NJ | $61,100 - $122,200 | Early career | Posted Oct 17, 2026<br>First seen Oct 20, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671>) |
 | AbbVie | Associate Data Scientist I | North Chicago, Illinois, United States | - | Verified early career (BS) | Posted Oct 13, 2026<br>First seen Oct 13, 2026 | [Apply](<https://jobs.smartrecruiters.com/AbbVie/3743990016070676-associate-data-scientist-i>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Data Scientist; Computer Scientist; Engineer - Decision Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 13, 2026<br>First seen Oct 14, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60569>) |
