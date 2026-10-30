@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 30, 2026 at 2:42 PM EDT
+Last updated: October 30, 2026 at 6:44 PM EDT
 
-Current roles in this view: 63
+Current roles in this view: 65
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| HP | Product Management Intern | Spring, Texas, United States of America | $23to $28 per hour | 2027 internship eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1>) |
+| 🔥 Snowflake | Product Management Intern (Summer 2027) | US-CA-Menlo Park | - | 2027 internship eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf>) |
 | Micron | Intern – CMBU Product Management | San Jose, CA, US | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 30, 2026 | [Apply](<https://careers.micron.com/careers/job/45166471-intern-%E2%80%93-cmbu-product-management-san-jose-california-united-states-of-america>) |
 | Micron Technology | Intern – CMBU Product Management | San Jose, CA | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941>) |
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |

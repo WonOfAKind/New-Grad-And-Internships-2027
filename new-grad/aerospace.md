@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 30, 2026 at 2:42 PM EDT
+Last updated: October 30, 2026 at 6:44 PM EDT
 
-Current roles in this view: 77
+Current roles in this view: 79
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -51,6 +51,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Mechanical/Aerospace/Materials Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Mechanical-Aerospace-Materials-Engineering---US---2027-Start_R5031063-1/apply>) |
 | Sierra Space | Mechanical Engineer I (Mechanisms) | Durham, NC | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 11, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Durham-NC/Mechanical-Engineer-I--Mechanisms-_R26386-1>) |
 | 🔥 United Launch Alliance | Thermodynamics Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Thermodynamics-Engineer-1-CO-80112/1439310500>) |
+| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | McLean, VA | $53,000.00 - $108,000.00 | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Modeling-and-Simulation-Engineer--Junior_R0251453>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |
 | 🔥 Anduril | 2027 Early Career Systems Engineer | Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | $100,000 - $130,000 USD | 2027 grad eligible | First seen Oct 9, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5262340007>) |
@@ -60,6 +61,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Thermal Analysis Engineer I | Louisville, CO; Centennial, CO | $82,646.00 - $113,638.25 | Verified early career (BS) | Posted Oct 7, 2026<br>First seen Oct 30, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Thermal-Analysis-Engineer-I_R26353>) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | Posted Oct 6, 2026<br>First seen Oct 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | 🔥 United Launch Alliance | Structural / Mechanical Engineer 1 | Cape Canaveral, FL, US | - | Verified early career (BS) | Posted Oct 6, 2026<br>First seen Oct 7, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Cape-Canaveral-Structural-Mechanical-Engineer-1-FL-32925/1437998600>) |
+| Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
 | 🔥 United Launch Alliance | Systems Test Engineer 1 | Pueblo, CO, US | $64,740.00 - $107,900.00 | Verified early career (BS) | Posted Oct 1, 2026<br>First seen Oct 2, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1436247500>) |
 | Spirit AeroSystems | Entry-level Material Review Engineer | Wichita, Kansas, United States | $63,750 - $97,750 | Early career | Posted Sep 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://careers.spiritaero.com/jobs/17660>) |
 | Amentum | Junior Integration Engineer | Vandenberg Space Force Base, California, US | $75,000 - $80,000 annually | Early career | Posted Sep 28, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-integration-engineer-vandenberg-space-force-base-california-united-states>) |

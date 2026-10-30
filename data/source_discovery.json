@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-30T18:42:06.536Z",
+  "updated_at": "2026-10-30T22:44:45.852Z",
   "companies": {
     "meta": {
       "company": "Meta",
@@ -40,9 +40,9 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-30T18:42:06.536Z",
-      "last_scan_status": "ok",
-      "last_scan_error": "",
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
+      "last_scan_status": "error",
+      "last_scan_error": "429 Too Many Requests",
       "last_verified_at": "2026-10-30T18:42:06.536Z"
     },
     "netflix": {
@@ -1442,7 +1442,7 @@
     },
     "mercury": {
       "company": "Mercury",
-      "checked_at": "2026-10-23T20:47:41.752Z",
+      "checked_at": "2026-10-30T22:37:50.506Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1456,10 +1456,10 @@
         "board": "mercury",
         "verified_open_jobs": 76
       },
-      "last_scan_at": "2026-10-23T20:54:25.914Z",
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-23T20:54:25.914Z"
+      "last_verified_at": "2026-10-30T22:44:45.852Z"
     },
     "faire": {
       "company": "Faire",
@@ -1598,7 +1598,7 @@
     },
     "broadcom": {
       "company": "Broadcom",
-      "checked_at": "2026-10-23T20:47:41.752Z",
+      "checked_at": "2026-10-30T22:37:50.506Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1614,12 +1614,12 @@
         "site": "External_Career",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 366
+        "verified_open_jobs": 376
       },
-      "last_scan_at": "2026-10-23T20:54:25.914Z",
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-23T20:54:25.914Z"
+      "last_verified_at": "2026-10-30T22:44:45.852Z"
     },
     "arm": {
       "company": "Arm",
@@ -1654,7 +1654,7 @@
     },
     "marvell": {
       "company": "Marvell",
-      "checked_at": "2026-10-23T20:47:41.752Z",
+      "checked_at": "2026-10-30T22:37:50.506Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1670,12 +1670,12 @@
         "site": "MarvellCareers",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 341
+        "verified_open_jobs": 345
       },
-      "last_scan_at": "2026-10-23T20:54:25.914Z",
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
       "last_scan_status": "ok",
       "last_scan_error": "",
-      "last_verified_at": "2026-10-23T20:54:25.914Z"
+      "last_verified_at": "2026-10-30T22:44:45.852Z"
     },
     "micron": {
       "company": "Micron",
@@ -1887,7 +1887,7 @@
     },
     "home depot technology": {
       "company": "Home Depot Technology",
-      "checked_at": "2026-10-28T18:48:06.318Z",
+      "checked_at": "2026-10-30T22:37:50.506Z",
       "status": "discovered",
       "method": "ats-fingerprint",
       "reason": "",
@@ -1903,12 +1903,12 @@
         "site": "CareerDepot",
         "searchText": "new grad",
         "limit": 20,
-        "verified_open_jobs": 971
+        "verified_open_jobs": 973
       },
-      "last_scan_at": "2026-10-30T18:42:06.536Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Home Depot Technology workday scan timed out after 60000ms",
-      "last_verified_at": "2026-10-28T18:57:06.040Z"
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-30T22:44:45.852Z"
     },
     "lowe's technology": {
       "company": "Lowe's Technology",
@@ -3899,9 +3899,10 @@
         "limit": 20,
         "verified_open_jobs": 2000
       },
-      "last_scan_at": "2026-10-30T18:42:06.536Z",
-      "last_scan_status": "error",
-      "last_scan_error": "Booz Allen Hamilton workday scan timed out after 90000ms"
+      "last_scan_at": "2026-10-30T22:44:45.852Z",
+      "last_scan_status": "ok",
+      "last_scan_error": "",
+      "last_verified_at": "2026-10-30T22:44:45.852Z"
     },
     "l3harris": {
       "company": "L3Harris",

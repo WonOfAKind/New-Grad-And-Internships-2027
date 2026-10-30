@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 30, 2026 at 2:42 PM EDT
+Last updated: October 30, 2026 at 6:44 PM EDT
 
-Current roles in this view: 319
+Current roles in this view: 321
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,10 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 Adobe | 2027 University Graduate - Software Engineer | San Jose, California, United States of America; Austin, Texas, United States of America; San Francisco, California, United States of America; Lehi, Utah, United States of America; Seattle, Washington, United States of America; New York, United States of America | $76,700 - $152,200 annually | 2027 grad eligible | Posted Oct 30, 2026<br>First seen Sep 25, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R172083/2027-University-Graduate-Software-Engineer>) |
+| 🔥 Amazon | Software Development Engineer (Database) Early Career- 2027 (US) | US, WA, Seattle | - | Early career | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us>) |
 | Amentum | Entry Level Software Engineer - SECRET | Dahlgren, Virginia, US | $75K - $90K | Early career | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://www.amentumcareers.com/jobs/entry-level-software-engineer-secret-dahlgren-virginia-united-states-44762730-f656-4eee-8105-b4f63f3acfca>) |
+| RTX | Entry-Level Software Developer - Application Support &amp; Sustainment (Remote) | US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 | - | Early career | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356>) |
 | The Aerospace Corporation | IC 2027 Software Integration Engineer | Chantilly, VA | $70,100.00 - $105,100.00 | 2027 grad eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007>) |
 | TikTok | Backend Engineer Graduate (Account) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 30, 2026 | [Apply](<https://lifeattiktok.com/search/7696779797359233333>) |
 | TikTok | Backend Engineer Graduate (Social Foundation) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 30, 2026 | [Apply](<https://lifeattiktok.com/search/7696782198126545157>) |
@@ -57,7 +60,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Accenture Federal Services | Junior Software Developer | St. Louis, MO | $65,900 - $126,000 USD | Early career | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://boards.greenhouse.io/accenturefederalservices/jobs/4723148006>) |
 | 🔥 Amazon | Software Development Engineer, Early Career - 2027 (US) | US, WA, Seattle | - | Early career | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate -Cybersecurity Software Engineer - Cyber Concepts | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Oct 19, 2026<br>First seen Oct 22, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60116>) |
-| 🔥 Adobe | 2027 University Graduate - Software Engineer | San Jose, California, United States of America; Austin, Texas, United States of America; San Francisco, California, United States of America; Lehi, Utah, United States of America; Seattle, Washington, United States of America; New York, United States of America | $76,700 - $152,200 annually | 2027 grad eligible | Posted Oct 15, 2026<br>First seen Sep 25, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R172083/2027-University-Graduate-Software-Engineer>) |
 | HPE | Systems/Software Engineer I - Graduate | Houston, Texas, États-Unis d'Amérique | - | Verified early career (BS) | Posted Oct 15, 2026<br>First seen Oct 7, 2026 | [Apply](<https://careers.hpe.com/ca/fr/job/1213648/Systems-Software-Engineer-I-Graduate>) |
 | Analog Devices | Associate Software Engineer | Wilmington, MA | $71,989 - $99,006 | Verified early career (BS) | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556>) |
 | 🔥 NVIDIA | SoC Software Engineer - New College Grad 2027 | Santa Clara, CA | - | 2027 grad eligible | Posted Oct 14, 2026<br>First seen Oct 14, 2026 | [Apply](<https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744>) |
