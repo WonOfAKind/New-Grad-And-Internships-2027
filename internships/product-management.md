@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: October 29, 2026 at 7:20 PM EDT
+Last updated: October 30, 2026 at 2:42 PM EDT
 
-Current roles in this view: 62
+Current roles in this view: 63
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Micron | Intern – CMBU Product Management | San Jose, CA, US | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 30, 2026 | [Apply](<https://careers.micron.com/careers/job/45166471-intern-%E2%80%93-cmbu-product-management-san-jose-california-united-states-of-america>) |
 | Micron Technology | Intern – CMBU Product Management | San Jose, CA | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941>) |
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | $25.50 - $32.00/hour | 2027 internship eligible | Posted Oct 26, 2026<br>First seen Oct 26, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652>) |
