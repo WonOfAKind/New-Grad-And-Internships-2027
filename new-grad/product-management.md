@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 30, 2026 at 6:44 PM EDT
+Last updated: November 2, 2026 at 5:51 PM EST
 
-Current roles in this view: 19
+Current roles in this view: 20
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Addepar | Product Manager - Early Career, AI Platform | New York, NY | $83,000 - $130,000 USD | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://job-boards.greenhouse.io/addepar1/jobs/8910404002>) |
 | TikTok | Product Manager Graduate (TikTok LIVE - Platform Trust And Ecosystem) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Oct 26, 2026 | [Apply](<https://lifeattiktok.com/search/7680761598014015797>) |
 | IXL Learning | Associate Product Manager, New Grad | San Mateo, CA | $95,000 - $120,000 | Explicit new grad role | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://www.ixl.com/company/careers?gh_jid=8862211002>) |
 | Figma | Early Career, Associate Product Manager (2027) | San Francisco, CA | $140,000 - $140,000 USD | Early career | Posted Oct 7, 2026<br>First seen Oct 7, 2026 | [Apply](<https://boards.greenhouse.io/figma/jobs/6180116004>) |

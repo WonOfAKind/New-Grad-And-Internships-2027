@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: October 30, 2026 at 6:44 PM EDT
+Last updated: November 2, 2026 at 5:51 PM EST
 
-Current roles in this view: 23
+Current roles in this view: 29
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Cenovus Energy | New Grad, Process Data Solutions, Calgary (June 2027) | CA-AB-Calgary | $10,000 annually | 2027 grad eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1>) |
+| CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
+| Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
+| Jobs for Humanity | Junior Data Analyst | Framingham, Massachusetts, United States | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.smartrecruiters.com/JobsForHumanity/744000105355265-junior-data-analyst>) |
+| Signet Jewelers | Associate Data Analyst, Central Merchandise Operations | Support Center - Akron, OH | - | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analyst--Central-Merchandise-Operations_REQ_81709>) |
+| The Walt Disney Company | Associate Marketing Data Scientist | Celebration, FL, USA | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936-2>) |
 | Booz Allen Hamilton | Data Scientist, Junior | Washington, DC | $62,000.00 - $141,000.00 | Early career | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist--Junior_R0252702>) |
 | Micron Technology | New College Grad - Data Scientist, AI for Business Functions | Boise, ID | - | Explicit new grad role | Posted Oct 29, 2026<br>First seen Oct 29, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682>) |
 | CACI | Junior Data Analyst | Florham Park, NJ | $61,100 - $122,200 | Early career | Posted Oct 17, 2026<br>First seen Oct 20, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671>) |
@@ -19,7 +25,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Xcel Energy | Associate Data Scientist | Denver, CO | $84,900.00 - $120,566.66 per year | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2>) |
 | Disney | Associate Marketing Data Scientist | Celebration, FL | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 8, 2026<br>First seen Oct 8, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936>) |
 | RFCUNY | Associate Data Analyst | New York, NY | - | Verified early career (BS) | Posted Oct 2, 2026<br>First seen Oct 2, 2026 | [Apply](<https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Associate-Data-Analyst_JR4696>) |
-| General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | First seen Oct 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |
 | TikTok | Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Sep 30, 2026 | [Apply](<https://lifeattiktok.com/search/7690792271319943429>) |
 | Prosidian Consulting | Data Analyst - Junior - Transition and Economic Development (HR \| Exempt) [008H008Y1] | Washington, District of Columbia, United States | - | Early career | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/prosidianconsulting/743999717075530-data-analyst-junior-transition-and-economic-development-hr-exempt-008h008y1->) |
 | National Software Management | Entry Level Data Analyst - Business Analyst | Atlanta, GA | - | Explicit new grad role | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000146255004-entry-level-data-business-analyst>) |
@@ -29,6 +34,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59653>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Software Engineer; Data Scientist; Ontologist – Threat Analytic Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59849>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Advanced Kinetic Weapons Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59882>) |
 | National Software Management | Entry Level Data Analyst / Business Analyst | Jersey City, New Jersey, United States | - | Early career | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269-entry-level-data-analyst-business-analyst>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
