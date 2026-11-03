@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 2, 2026 at 5:51 PM EST
+Last updated: November 3, 2026 at 3:37 PM EST
 
-Current roles in this view: 29
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Cenovus Energy | New Grad, Process Data Solutions, Calgary (June 2027) | CA-AB-Calgary | $10,000 annually | 2027 grad eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
 | Jobs for Humanity | Junior Data Analyst | Framingham, Massachusetts, United States | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.smartrecruiters.com/JobsForHumanity/744000105355265-junior-data-analyst>) |
-| Signet Jewelers | Associate Data Analyst, Central Merchandise Operations | Support Center - Akron, OH | - | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analyst--Central-Merchandise-Operations_REQ_81709>) |
-| The Walt Disney Company | Associate Marketing Data Scientist | Celebration, FL, USA | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936-2>) |
+| Signet Jewelers | Associate Data Analyst, Central Merchandise Operations | Support Center, OH | - | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Data-Analyst--Central-Merchandise-Operations_REQ_81709>) |
+| The Walt Disney Company | Associate Marketing Data Scientist | Celebration, FL | $92,900.00 - $124,500.00 per year | Verified early career (BS) | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Associate-Marketing-Data-Scientist_10161936-2>) |
 | Booz Allen Hamilton | Data Scientist, Junior | Washington, DC | $62,000.00 - $141,000.00 | Early career | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Data-Scientist--Junior_R0252702>) |
 | Micron Technology | New College Grad - Data Scientist, AI for Business Functions | Boise, ID | - | Explicit new grad role | Posted Oct 29, 2026<br>First seen Oct 29, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682>) |
 | CACI | Junior Data Analyst | Florham Park, NJ | $61,100 - $122,200 | Early career | Posted Oct 17, 2026<br>First seen Oct 20, 2026 | [Apply](<https://caci.wd1.myworkdayjobs.com/External/job/Florham-Park-NJ-US/Junior-Data-Analyst_332671>) |

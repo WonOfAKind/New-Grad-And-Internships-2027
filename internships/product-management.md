@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 2, 2026 at 5:51 PM EST
+Last updated: November 3, 2026 at 3:37 PM EST
 
 Current roles in this view: 69
 
@@ -12,12 +12,13 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Pyrotek | Intern - Product Management | Spokane, Washington, United States | $22.00 per hour | 2027 internship eligible | Posted Nov 3, 2026<br>First seen Nov 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/Pyrotek3/744000158830479-intern-product-management>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
-| UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL, United States; Chicago, IL, United States | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
+| UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
 | Viget | Project &amp; Product Manager Intern (2027) | Boulder, CO | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4>) |
 | Amplify | Summer 2027: Product Management Intern | Remote (US) | - | 2027 internship eligible | Posted Oct 31, 2026<br>First seen Oct 21, 2026 | [Apply](<https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e>) |
-| Hewlett Packard (HP) | Product Management Intern | Spring, Texas, United States of America | $23to $28 per hour | 2027 internship eligible | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358>) |
+| Hewlett Packard (HP) | Product Management Intern | Spring, TX | $23to $28 per hour | 2027 internship eligible | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358>) |
 | Life Fitness | Product Management Intern | Rosemont, IL | $19.00 - $23.00 per hour | 2027 internship eligible | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280>) |
 | HP | Product Management Intern | Spring, TX | $23to $28 per hour | 2027 internship eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1>) |
 | 🔥 Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA | - | 2027 internship eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf>) |
@@ -31,7 +32,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | $20.00 - $25.00 per hour | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065>) |
 | Propio | Product Manager Intern | Overland Park, KS | - | 2027 internship eligible | Posted Oct 14, 2026<br>First seen Oct 23, 2026 | [Apply](<https://recruiting.paylocity.com/Recruiting/Jobs/Details/4587630>) |
 | Watts Water | Product Management Co-op, Jan-June 2027 | Menomonee Falls, WI | - | 2027 internship eligible | Posted Oct 12, 2026<br>First seen Oct 12, 2026 | [Apply](<https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702>) |
-| Bosch | Product Management Co-op- Spring 2027 | Fountain Inn, South Carolina, United States | - | 2027 internship eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/BoschGroup/744000154671460-product-management-co-op-spring-2027>) |
 | Vertiv | Energy Storage Product Management Intern (Summer 2027) | Delaware, OH | - | 2027 internship eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379>) |
 | TikTok | Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Oct 9, 2026 | [Apply](<https://lifeattiktok.com/search/7693732178706974981>) |
 | Residex Software | Product Management Intern | United States | $25.00 per hour | 2027 internship eligible | Posted Oct 8, 2026<br>First seen Oct 23, 2026 | [Apply](<https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575799>) |
