@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 3, 2026 at 7:59 PM EST
+Last updated: November 4, 2026 at 3:54 PM EST
 
 Current roles in this view: 69
 
@@ -12,7 +12,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Pyrotek | Intern - Product Management | Spokane, Washington, United States | $22.00 per hour | 2027 internship eligible | Posted Nov 3, 2026<br>First seen Nov 3, 2026 | [Apply](<https://jobs.smartrecruiters.com/Pyrotek3/744000158830479-intern-product-management>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
@@ -26,6 +25,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Micron Technology | Intern – CMBU Product Management | San Jose, CA | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941>) |
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | $25.50 - $32.00/hour | 2027 internship eligible | Posted Oct 26, 2026<br>First seen Oct 26, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652>) |
+| ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Nov 4, 2026 | [Apply](<https://careers.abb/canada/fr/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
 | ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, Yhdysvallat | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Oct 26, 2026 | [Apply](<https://careers.abb/finland/fi/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
 | Walmart | Summer 2027 Intern: Automation - Product Manager - Corporate Intern | Lancaster, TX | $21.00 - $40.00/hr | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, IL | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
