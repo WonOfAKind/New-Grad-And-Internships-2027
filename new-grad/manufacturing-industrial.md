@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 3, 2026 at 3:37 PM EST
+Last updated: November 3, 2026 at 7:59 PM EST
 
-Current roles in this view: 30
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| DuPont | 2027 Full-time – Engineering Opportunities | Hemlock, Michigan, United States of America; Edina, Minnesota, United States of America; Wilmington, Delaware, United States of America; Richmond, Virginia, United States of America; Midland, Michigan, United States of America; Tonawanda, New York, United States of America | - | Explicit new grad role | Posted Nov 3, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Nov 3, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/us/en/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Nov 3, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
-| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Edina, Minnesota, United States of America; Tonawanda, New York, United States of America; Midland, Michigan, United States of America; Hemlock, Michigan, United States of America; Wilmington, Delaware, United States of America | - | Explicit new grad role | Posted Nov 3, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/kr/ko/job/250299W/2027-Full-time-Engineering-Opportunities>) |
+| DuPont | 2027 Full-time – Engineering Opportunities | Richmond, Virginia, United States of America; Tonawanda, New York, United States of America; Edina, Minnesota, United States of America; Hemlock, Michigan, United States of America; Midland, Michigan, United States of America; Wilmington, Delaware, United States of America | $58,800.00 - $92,400.00 | Explicit new grad role | Posted Nov 3, 2026<br>First seen Sep 15, 2026 | [Apply](<https://careers.dupont.com/tw/zh/job/250299W/2027-Full-time-Engineering-Opportunities>) |
 | 🔥 Medtronic | Quality Engineer I (CAS), Rice Creek, MN | Minneapolis, Minnesota, United States of America | $66,400.00 - $99,600.00 | Explicit new grad role | Posted Nov 3, 2026<br>First seen Nov 3, 2026 | [Apply](<https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Quality-Engineer-I---CAS---Rice-Creek--MN_R80934-1>) |
+| Moog | Associate Manufacturing Engineer | Arvada, CO | $75,000.00 - $90,000.00 Annually | Verified early career (BS) | Posted Nov 3, 2026<br>First seen Nov 3, 2026 | [Apply](<https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Arvada-CO/Associate-Manufacturing-Engineer_R-26-20802>) |
 | 🔥 Northrop Grumman | 2027 Associate Supplier Quality Engineer / Supplier Quality Engineer - Utah | United States-Utah-Corinne; United States-Utah-Clearfield; United States-Utah-Salt Lake City; United States-Utah-Magna | $59,900 - $89,900 | Verified early career (BS) | Posted Nov 2, 2026<br>First seen Nov 2, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Associate-Supplier-Quality-Engineer---Supplier-Quality-Engineer---Utah_R10258832>) |
 | Abbott | Manufacturing Automation Engineer I | United States - Maine - Scarborough | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Oct 29, 2026<br>First seen Nov 3, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Automation-Engineer-I_31163050>) |
 | Abbott | Manufacturing Process Engineer I | United States - Maine - Scarborough | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Oct 29, 2026<br>First seen Oct 29, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31163047>) |
