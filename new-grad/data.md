@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 4, 2026 at 3:54 PM EST
+Last updated: November 5, 2026 at 4:09 PM EST
 
-Current roles in this view: 27
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044>) |
+| M&amp;T Bank | 2027 Technology Development Program - Cloud Storage &amp; Data Protection Engineer | Buffalo, NY | - | Explicit new grad role | Posted Nov 4, 2026<br>First seen Nov 5, 2026 | [Apply](<https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
 | Jobs for Humanity | Junior Data Analyst | Framingham, Massachusetts, United States | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.smartrecruiters.com/JobsForHumanity/744000105355265-junior-data-analyst>) |
@@ -33,6 +35,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Software Engineer; Machine Learning Engineer; Data Scientist - Tactical Intelligence Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 8, 2026<br>First seen Sep 9, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59653>) |
 | Johns Hopkins Applied Physics Laboratory | 2027 Graduate – Software Engineer; Data Scientist; Ontologist – Threat Analytic Systems | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 3, 2026<br>First seen Sep 4, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59849>) |
+| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Advanced Kinetic Weapons Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59882>) |
 | National Software Management | Entry Level Data Analyst / Business Analyst | Jersey City, New Jersey, United States | - | Early career | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269-entry-level-data-analyst-business-analyst>) |
 | JPMorgan Chase | 2027 Data &amp; AI Program - Full Time - Analyst - United States | New York, NY, United States; Chicago, IL, United States; Columbus, OH, United States; Wilmington, DE, United States; Plano, TX, United States; Jersey City, NJ, United States; Palo Alto, CA, United States; Newark, DE, United States | $110,000.00-$115,000.00 | 2027 grad eligible | Posted Aug 27, 2026<br>First seen Sep 2, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773954>) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |

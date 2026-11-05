@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 4, 2026 at 3:54 PM EST
+Last updated: November 5, 2026 at 4:09 PM EST
 
-Current roles in this view: 69
+Current roles in this view: 70
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Sonos | Software Product Management Intern (Seattle) | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
