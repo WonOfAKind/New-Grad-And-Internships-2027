@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 5, 2026 at 4:09 PM EST
+Last updated: November 6, 2026 at 3:32 PM EST
 
-Current roles in this view: 70
+Current roles in this view: 75
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Sonos | Software Product Management Intern (Seattle) | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
+| T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, Texas | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
+| T-Mobile | Summer 2027 Product Management Internship | Philadelphia, Pennsylvania | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735>) |
+| TikTok | POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 6, 2026 | [Apply](<https://lifeattiktok.com/search/7696000179569854725>) |
+| Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876>) |
+| Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1>) |
+| Sonos | Software Product Management Intern - Seattle | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
@@ -24,7 +29,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Snowflake | Product Management Intern (Summer 2027) | Menlo Park, CA | - | 2027 internship eligible | Posted Oct 30, 2026<br>First seen Oct 30, 2026 | [Apply](<https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf>) |
 | Micron | Intern – CMBU Product Management | San Jose, CA, US | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 30, 2026 | [Apply](<https://careers.micron.com/careers/job/45166471-intern-%E2%80%93-cmbu-product-management-san-jose-california-united-states-of-america>) |
 | Micron Technology | Intern – CMBU Product Management | San Jose, CA | $55.82 - $55.82 an hour | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941>) |
-| Visa | Product Management Intern, Data and AI Team - Summer 2027 | US - Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |
+| Visa | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | $25.50 - $32.00/hour | 2027 internship eligible | Posted Oct 26, 2026<br>First seen Oct 26, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652>) |
 | ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Nov 4, 2026 | [Apply](<https://careers.abb/canada/fr/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
 | ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, Yhdysvallat | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Oct 26, 2026 | [Apply](<https://careers.abb/finland/fi/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
