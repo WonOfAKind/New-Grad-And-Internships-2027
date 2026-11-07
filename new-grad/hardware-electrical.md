@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 6, 2026 at 3:32 PM EST
+Last updated: November 6, 2026 at 7:24 PM EST
 
 Current roles in this view: 47
 
@@ -41,7 +41,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Broadcom | Test Engineer (ATE) | USA-CA San Jose Innovation Drive | - | Explicit new grad role | Posted Oct 16, 2026<br>First seen Oct 16, 2026 | [Apply](<https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448>) |
 | United Launch Alliance | Avionics Components Electrical Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Avionics-Components-Electrical-Engineer-1-CO-80112/1421221200>) |
 | GE Aerospace | Edison Engineering Development Program (EEDP) Engines – Electrical Engineering – US – 2027 Start | Evendale, Ohio, United States of America | - | 2027 grad eligible | Posted Oct 11, 2026<br>First seen Oct 12, 2026 | [Apply](<https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Edison-Engineering-Development-Program--EEDP--Engines---Electrical-Engineering---US---2027-Start_R5031071-2/apply>) |
-| BlueHalo | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | First seen Nov 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
+| AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | First seen Nov 6, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
 | Stryker | Design Engineer - Electrical, RISE | Portage, Michigan | $69,500 - $110,900 USD | 2027 grad eligible | First seen Nov 6, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Design-Engineer---Electrical--RISE_R571061>) |
 | 🔥 Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Autonomous Systems Engineer: Navigation, Controls, Hardware, Software, and Simulation | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 28, 2026<br>First seen Sep 29, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/60057>) |
 | Amazon | ASIC Engineer I, Annapurna Labs, Early Career - 2027 | US, CA, Cupertino | - | 2027 grad eligible | Posted Sep 24, 2026<br>First seen Sep 24, 2026 | [Apply](<https://www.amazon.jobs/en/jobs/10558918/asic-engineer-i-annapurna-labs-early-career-2027>) |

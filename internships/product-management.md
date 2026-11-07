@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 6, 2026 at 3:32 PM EST
+Last updated: November 6, 2026 at 7:24 PM EST
 
 Current roles in this view: 75
 
@@ -12,8 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, Texas | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
-| T-Mobile | Summer 2027 Product Management Internship | Philadelphia, Pennsylvania | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735>) |
+| T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
+| T-Mobile | Summer 2027 Product Management Internship | Philadelphia, PA | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735>) |
 | TikTok | POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 6, 2026 | [Apply](<https://lifeattiktok.com/search/7696000179569854725>) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876>) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1>) |

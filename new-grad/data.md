@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 6, 2026 at 3:32 PM EST
+Last updated: November 6, 2026 at 7:24 PM EST
 
-Current roles in this view: 27
+Current roles in this view: 28
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -13,6 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044>) |
+| Booz Allen Hamilton | Modeling and Simulation Engineer, Junior | Rome, NY | $55,200.00 - $126,000.00 | Early career | Posted Nov 3, 2026<br>First seen Nov 3, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Modeling-and-Simulation-Engineer--Junior_R0252936>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
 | Jobs for Humanity | Junior Data Analyst | Framingham, Massachusetts, United States | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.smartrecruiters.com/JobsForHumanity/744000105355265-junior-data-analyst>) |
