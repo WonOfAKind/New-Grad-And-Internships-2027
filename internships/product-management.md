@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 6, 2026 at 7:24 PM EST
+Last updated: November 9, 2026 at 6:31 PM EST
 
-Current roles in this view: 75
+Current roles in this view: 77
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,12 +12,15 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 9, 2026 | [Apply](<https://lifeattiktok.com/search/7696000178264361269>) |
+| Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Nov 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
 | T-Mobile | Summer 2027 Product Management Internship | Philadelphia, PA | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735>) |
-| TikTok | POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 6, 2026 | [Apply](<https://lifeattiktok.com/search/7696000179569854725>) |
+| TikTok | POI Content Product Manager Intern (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 6, 2026 | [Apply](<https://lifeattiktok.com/search/7696000179569854725>) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876>) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1>) |
 | Sonos | Software Product Management Intern - Seattle | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
+| Pyrotek | Intern - Product Management | Spokane, Washington, United States | $22.00 per hour | 2027 internship eligible | Posted Nov 3, 2026<br>First seen Nov 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/Pyrotek3/744000160635163-intern-product-management>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
@@ -50,7 +53,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | American Express | Product Management Intern, Global Merchant &amp; Network Services | Phoenix, AZ | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 13, 2026 | [Apply](<https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148>) |
 | Appian | Product Manager Intern | McLean, VA | $8,666/month | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Aug 9, 2026 | [Apply](<https://careers.appian.com/jobs/8041243-product-manager-intern->) |
 | Goldman Sachs | AWM Product Management Analyst Intern | Dallas, TX | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Sep 21, 2026 | [Apply](<https://higher.gs.com/roles/171513?type=students>) |
-| Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Sep 20, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | AspenTech | Product Owner Intern - Product Management | Houston, TX; Bedford, MA | $28.00 - $ 32.00/hour | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 16, 2026 | [Apply](<https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Product-Owner-Intern---Product-Management----Summer-2027_R9471>) |
 | Ernst &amp; Young | USA - Tax - Other Tax - EY Foundry Product Manager - Chelsea - Intern - Summer 2027 | New York, NY | $48.08 per hour | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Oct 12, 2026 | [Apply](<https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw>) |
 | Gordon Food Service | Digital Product Management Intern | Wyoming, MI | - | 2027 internship eligible | Posted Sep 19, 2026<br>First seen Sep 21, 2026 | [Apply](<https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336>) |
