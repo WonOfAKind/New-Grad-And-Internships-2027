@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 9, 2026 at 6:31 PM EST
+Last updated: November 10, 2026 at 3:53 PM EST
 
-Current roles in this view: 43
+Current roles in this view: 45
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,8 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| ExxonMobil | Power Engineering Technician Student - Kearl - May (Kearl Lake, AB, CA, T6B 3P9) | Kearl Lake, AB, CA, T6B 3P9 | - | 2027 grad eligible | First seen Nov 9, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Kearl-Lake-Power-Engineering-Technician-Student-Kearl-May-AB-T6B-3P9/1445072200>) |
-| Kiewit | Field/Office Engineer - Central District (Entry-Level) | Littleton, CO, US | $82,000 - $91,000 | Early career | Posted Nov 6, 2026<br>First seen Sep 7, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
+| Kiewit | Entry Level Field Engineer - Kiewit Foundations Co. 2027 | Jackson, MS, US | $82,000/yr | Early career | Posted Nov 10, 2026<br>First seen Oct 26, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Entry-Level-Field-Engineer-Kiewit-Foundations-Co_-2027-NE-68046/1429338700>) |
+| ExxonMobil | Power Engineering Technician Student - Kearl - May (Kearl Lake, AB, CA, T6B 3P9) | Kearl Lake, AB, CA, T6B 3P9 | - | 2027 grad eligible | First seen Nov 10, 2026 | [Apply](<https://jobs.exxonmobil.com/job/Kearl-Lake-Power-Engineering-Technician-Student-Kearl-May-AB-T6B-3P9/1445072200>) |
+| Kiewit | Field/Office Engineer - Central District (Entry-Level) | San Ygnacio, TX, US | $82,000 - $91,000 | Early career | Posted Nov 6, 2026<br>First seen Sep 7, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Lone-Tree-FieldOffice-Engineer-Central-District-%28Entry-Level%29-CO-80112/1418331400>) |
 | HNTB | New Grad Field Engineer I - Summer 2027 | Lake Mary, FL; Ormond Beach, FL; Kissimmee, FL (Celebration Blvd) | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Lake-Mary-FL/New-Grad-Field-Engineer-I---Summer-2027_R-32329-1>) |
 | Kimley-Horn | Entry Level Land Development Engineering Analyst | Lakeland, FL, US | - | Early career | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/27621/entry-level-land-development-engineering-analyst/job>) |
 | M&amp;T Bank | 2027 Technology Development Program - Cloud Storage &amp; Data Protection Engineer | Buffalo, NY | - | Explicit new grad role | Posted Nov 4, 2026<br>First seen Nov 5, 2026 | [Apply](<https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cloud-Storage---Data-Protection-Engineer_R91745>) |
@@ -25,9 +26,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kiewit | Kiewit Building Group - Field Engineer (Entry-Level) | El Paso, TX, US | $80,000/yr | Early career | Posted Oct 25, 2026<br>First seen Oct 12, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Kiewit-Building-Group-Field-Engineer-%28Entry-Level%29-NE-68046/1424545500>) |
 | ABB | Discovery Information Systems Track - 2027 | Cary, North Carolina, Vereinigte Staaten von Amerika | $80,000 annually | 2027 grad eligible | Posted Oct 24, 2026<br>First seen Nov 4, 2026 | [Apply](<https://careers.abb/dach/de/job/JR00050513/Discovery-Information-Systems-Track-2027>) |
 | Amentum | Junior DevSecOps Engineer | Dahlgren, Virginia, US | - | Early career | Posted Oct 23, 2026<br>First seen Oct 23, 2026 | [Apply](<https://www.amentumcareers.com/jobs/junior-devsecops-engineer-dahlgren-virginia-united-states>) |
-| Black &amp; Veatch | Entry Level Engineering Technician | Houston, TX, US | - | Early career | Posted Oct 16, 2026<br>First seen Nov 9, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Entry-Level-Engineering-Technician-KS-66062/1439161233>) |
+| Black &amp; Veatch | Entry Level Engineering Technician | San Marcos, CA, US | - | Early career | Posted Oct 16, 2026<br>First seen Nov 10, 2026 | [Apply](<https://careers.bv.com/job/Overland-Park-Entry-Level-Engineering-Technician-KS-66062/1439161233>) |
 | Kiewit | Field Engineer 1 - Southern California | Abilene, TX, US | - | Verified early career (BS) | Posted Oct 16, 2026<br>First seen Aug 19, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Costa-Mesa-Field-Engineer-1-Southern-California-CA-92626/1421357100>) |
-| Kiewit | Entry Level Field Engineer - Kiewit Foundations Co. 2027 | Jackson, MS, US | $82,000/yr | Early career | Posted Oct 12, 2026<br>First seen Oct 26, 2026 | [Apply](<https://kiewitcareers.kiewit.com/job/Omaha-Entry-Level-Field-Engineer-Kiewit-Foundations-Co_-2027-NE-68046/1429338700>) |
+| Booz Allen Hamilton | Engineering Technician, Junior | Wharton, NJ | $53,000.00 - $108,000.00 | Early career | Posted Oct 15, 2026<br>First seen Oct 15, 2026 | [Apply](<https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wharton-NJ/Engineering-Technician--Junior_R0251690-1>) |
 | Accenture Federal Services | Junior Automation Test Engineer | Arlington, VA | $74,800 - $138,700 USD | Early career | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://boards.greenhouse.io/accenturefederalservices/jobs/4720595006>) |
 | HNTB | Structural Engineer I | New York, NY | $83,008.49 - $124,512.74 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 16, 2026 | [Apply](<https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/New-York-NY/Structural-Engineer-I_R-31758>) |
 | Stryker | Project Engineer, Advanced Operations Global Engineering Development Program | Fort Lauderdale, Florida | $64,400 - $94,400 USD | 2027 grad eligible | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Project-Engineer--Advanced-Operations-Global-Engineering-Development-Program_R573031>) |
@@ -38,6 +39,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Kimley-Horn | Entry-Level Civil Engineer - Water/Wastewater | Fort Worth, TX, US | - | Early career | Posted Oct 5, 2026<br>First seen Oct 5, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/27012/entry-level-civil-engineer---water-wastewater/job>) |
 | BlueHalo | Junior Scene Generation Engineer | Huntsville, AL | - | Early career | First seen Nov 4, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Huntsville-AL/Junior-Scene-Generation-Engineer_8339>) |
 | Kimley-Horn | Entry Level Structural Engineer - Parking | Saint Paul, MN, US | $84,000-$87,000 | Early career | Posted Oct 2, 2026<br>First seen Oct 5, 2026 | [Apply](<https://careers-kimley-horn.icims.com/jobs/26981/entry-level-structural-engineer---parking/job>) |
+| Amentum | Early Career Controls and Instrumentation Engineer | Detroit, Michigan, US; Tullahoma, Tennessee, US | $80,000- $115,000 | Early career | Posted Oct 1, 2026<br>First seen Oct 1, 2026 | [Apply](<https://www.amentumcareers.com/jobs/early-career-controls-and-instrumentation-engineer-tullahoma-tennessee-united-states-detroit-michigan>) |
 | Vertiv | Junior System Engineer | Pelzer, SC | - | Early career | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283184>) |
 | Vertiv | Junior System Engineer | Pelzer, SC | - | Early career | Posted Sep 30, 2026<br>First seen Sep 30, 2026 | [Apply](<https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20283185>) |
 | General Motors | Data Governance Engineer, Early Careers | Warren, Michigan, United States of America | $84,900 - $130,500 | Early career | First seen Oct 30, 2026 | [Apply](<https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Governance-Engineer--Early-Careers_JR-202620794>) |

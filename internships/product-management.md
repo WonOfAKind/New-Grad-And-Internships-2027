@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 9, 2026 at 6:31 PM EST
+Last updated: November 10, 2026 at 3:53 PM EST
 
-Current roles in this view: 77
+Current roles in this view: 79
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Legrand | Product Management Intern | Syracuse, NY, United States | - | 2027 internship eligible | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837>) |
+| NBCUniversal | Streaming Platforms, Product Management Internships – Summer 2027 | New York, New York, United States | - | 2027 internship eligible | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249-streaming-platforms-product-management-internships-summer-2027>) |
 | TikTok | GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 9, 2026 | [Apply](<https://lifeattiktok.com/search/7696000178264361269>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Nov 8, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
 | T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
