@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 10, 2026 at 3:53 PM EST
+Last updated: November 10, 2026 at 8:04 PM EST
 
-Current roles in this view: 52
+Current roles in this view: 53
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Missile Test Engineer - Entry Level | Rockville, Maryland, United States | - | Early career | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=306219&partnerid=25771&siteid=5403>) |
 | 🔥 United Launch Alliance | Mechanical Design Engineer 1 | Centennial, CO, US | $67,895.00 - $113,159.00 | Verified early career (BS) | Posted Nov 8, 2026<br>First seen Nov 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Mechanical-Design-Engineer-1-CO-80112/1449230800>) |
 | 🔥 United Launch Alliance | Prop Systems Design Engineer 1 | Centennial, CO, US | $70,952.00 - $118,253.00 | Verified early career (BS) | Posted Nov 8, 2026<br>First seen Nov 9, 2026 | [Apply](<https://jobs.ulalaunch.com/job/Centennial-Prop-Systems-Design-Engineer-1-CO-80112/1449230400>) |
 | Abbott | Test Systems Development Engineer I | United States - Massachusetts - Burlington | $50,700.00 - $101,300.00 | Verified early career (BS) | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Massachusetts---Burlington/Test-Systems-Development-Engineer-I_31166246-1>) |

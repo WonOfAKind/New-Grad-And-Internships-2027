@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 10, 2026 at 3:53 PM EST
+Last updated: November 10, 2026 at 8:04 PM EST
 
-Current roles in this view: 87
+Current roles in this view: 89
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| 🔥 BAE Systems | Missile Test Engineer - Entry Level | Rockville, Maryland, United States | - | Early career | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=306219&partnerid=25771&siteid=5403>) |
 | 🔥 BAE Systems | Systems Engineer - New Grad (2027) | Cedar Rapids, Iowa, United States | - | 2027 grad eligible | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=306700&partnerid=25771&siteid=5403>) |
 | 🔥 Pratt &amp; Whitney | Engineering Development Program, Test Equipment Design, Engineer I (Onsite) | east hartford, Connecticut, United States of America | - | Verified early career (BS) | Posted Nov 10, 2026<br>First seen Nov 4, 2026 | [Apply](<https://careers.rtx.com/de/de/job/01884132/Engineering-Development-Program-Test-Equipment-Design-Engineer-I-Onsite>) |
 | Sierra Space | Electrical Engineer I (C&amp;DH/GNC Hardware) | Centennial, CO; Louisville, CO | $77,403.00 - $106,450.50 | Verified early career (BS) | Posted Nov 10, 2026<br>First seen Nov 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Electrical-Engineer-I--C-DH-GNC-Hardware-_R26357-1>) |
@@ -67,6 +68,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Sierra Space | Loads &amp; Dynamics Engineer I | Centennial, CO | $82,646.00 - $113,638.25 | Verified early career (BS) | Posted Oct 12, 2026<br>First seen Oct 13, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Loads---Dynamics-Engineer-I_R26356-1>) |
 | Sierra Space | Mechanical Engineer I (Mechanisms) | Durham, NC | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 11, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Durham-NC/Mechanical-Engineer-I--Mechanisms-_R26386-1>) |
 | AeroVironment | Entry-Level Radar Exploitation Engineer | Dayton, OH | $60,500 - $86,100 | Early career | First seen Nov 10, 2026 | [Apply](<https://avav.wd1.myworkdayjobs.com/AVAV/job/Dayton-OH/Entry-Level-Radar-Exploitation-Engineer_9060>) |
+| Leidos | Entry Level Avionics Engineer - Hypersonics | Huntsville, AL | $57,850.00 - $104,575.00 | Early career | First seen Nov 10, 2026 | [Apply](<https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Avionics-Engineer---Hypersonics_R-00194083>) |
 | Sierra Space | Thermal Analysis Engineer I | Louisville, CO; Centennial, CO | $82,646.00 - $113,638.25 | Verified early career (BS) | First seen Nov 10, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Thermal-Analysis-Engineer-I_R26353>) |
 | Sierra Space | Mechanical Engineer I (Environmental/Propulsion) | Madison, WI; Middleton, WI | $70,213.00 - $96,542.50 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 7, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-I--Environmental-Propulsion-_R26388-1>) |
 | Sierra Space | Mechanical Engineer I (Thermal Design) | Centennial, CO; Louisville, CO | $77,234.00 - $106,196.75 | Verified early career (BS) | Posted Oct 9, 2026<br>First seen Oct 9, 2026 | [Apply](<https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Mechanical-Engineer-I--Thermal-Design-_R26385-1>) |
@@ -83,7 +85,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | 🔥 Blue Origin | Fluid Systems &amp; Propulsion Engineer I – Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Fluid-Systems---Propulsion-Engineer-I---Early-Career--2027-Starts-_R71321>) |
 | 🔥 Blue Origin | Manufacturing Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Longmont, CO | $69,015.00 - $96,621.00 | 2027 grad eligible | First seen Oct 27, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Manufacturing-Engineer-I---Early-Career--2027-Starts-_R71327>) |
 | 🔥 Anduril | 2027 Early Career Flight Test Engineer | Costa Mesa, California, United States | $86,000 - $114,000 USD | 2027 grad eligible | First seen Sep 22, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5246225007>) |
-| 🔥 Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
+| 🔥 Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | $112,000 - $149,000 USD | 2027 grad eligible | Posted Sep 19, 2026<br>First seen Sep 2, 2026 | [Apply](<https://boards.greenhouse.io/andurilindustries/jobs/5228868007>) |
 | Peraton | Associate Systems Engineer | UT | $66,000 - $106,000 | Verified early career (BS) | Posted Sep 16, 2026<br>First seen Sep 22, 2026 | [Apply](<https://www.careers.peraton.com/jobs/associate-systems-engineer-hill-afb-utah-170493-jobs--engineering-->) |
 | 🔥 Blue Origin | Aerospace Systems Engineer I – Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $74,537.00 - $104,351.10 | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Aerospace-Systems-Engineer-I---Early-Career--2027-Starts-_R71322>) |
 | 🔥 Blue Origin | Avionics / Embedded Software Engineer I - Early Career &amp; New Graduate Rotation (2027 Starts) | Greater Seattle Area; Van Horn, TX; Space Coast, FL; Huntsville, AL; Denver, CO | $101,405.00 - $141,966.30 | 2027 grad eligible | First seen Oct 16, 2026 | [Apply](<https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324>) |
