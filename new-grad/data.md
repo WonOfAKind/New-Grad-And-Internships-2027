@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 12, 2026 at 4:33 PM EST
+Last updated: November 13, 2026 at 4:02 PM EST
 
-Current roles in this view: 28
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,7 +12,9 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 12, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
+| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 13, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
+| Boeing | C-17 Design and Analysis Engineer (Entry Level or Associate) | USA - Oklahoma City, OK | $68,850 - $93,150 | Early career | Posted Nov 13, 2026<br>First seen Nov 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-2>) |
+| Northrop Grumman | 2027 Associate Logistics Engineer - Linthicum MD | United States-Maryland-Baltimore | $54,700 - $82,100 | Verified early career (BS) | Posted Nov 13, 2026<br>First seen Nov 13, 2026 | [Apply](<https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Logistics-Engineer---Linthicum-MD_R10260670>) |
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
