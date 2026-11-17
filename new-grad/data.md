@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 16, 2026 at 6:27 PM EST
+Last updated: November 17, 2026 at 5:21 PM EST
 
-Current roles in this view: 29
+Current roles in this view: 31
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,10 +12,12 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 16, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
-| Draper | Early Career Engineer, Draper Capstone Cohort (2026-2027) | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Nov 16, 2026<br>First seen Nov 16, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2026-2027-_JR003157>) |
-| JPMorgan Chase | Technology, Data and Product - United States - 2027 ReEntry Program | Plano, TX, United States; Houston, TX, United States; Atlanta, GA, United States; Tampa, FL, United States; Chicago, IL, United States; Columbus, OH, United States; Jersey City, NJ, United States; New York, NY, United States; Newark, DE, United States; Palo Alto, CA, United States; Seattle, WA, United States | - | 2027 grad eligible | Posted Nov 16, 2026<br>First seen Nov 16, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809152>) |
+| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 17, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
+| JPMorgan Chase | Technology, Data and Product - United States - 2027 ReEntry Program | Plano, TX, United States; Houston, TX, United States; Atlanta, GA, United States; Tampa, FL, United States; Chicago, IL, United States; Columbus, OH, United States; Jersey City, NJ, United States; New York, NY, United States; Newark, DE, United States; Palo Alto, CA, United States; Seattle, WA, United States; Charlotte, NC, United States | $80,000.00-$140,000.00 | 2027 grad eligible | Posted Nov 17, 2026<br>First seen Nov 16, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809152>) |
+| Draper | Early Career Engineer, Draper Capstone Cohort (2026-2027) | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Nov 16, 2026<br>First seen Nov 17, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2026-2027-_JR003157>) |
+| Boeing | C-17 Design and Analysis Engineer (Entry Level or Associate) | USA - Oklahoma City, OK | $68,850 - $93,150 | Early career | Posted Nov 13, 2026<br>First seen Nov 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-2>) |
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044>) |
+| SIG | Market Surveillance Data and Technology Analyst: August 2027 Start | Bala Cynwyd (Philadelphia Area), Pennsylvania, United States | $0 - $0 | 2027 grad eligible | Posted Nov 4, 2026<br>First seen Nov 17, 2026 | [Apply](<https://careers.sig.com/jobs/11693>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
 | Eastern Research Group | Entry-Level Occupational Safety and Health Data Analyst | Fairfax, VA | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1>) |
 | Jobs for Humanity | Junior Data Analyst | Framingham, Massachusetts, United States | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.smartrecruiters.com/JobsForHumanity/744000105355265-junior-data-analyst>) |

@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 16, 2026 at 6:27 PM EST
+Last updated: November 17, 2026 at 5:21 PM EST
 
-Current roles in this view: 80
+Current roles in this view: 79
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -26,7 +26,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876>) |
 | Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1>) |
 | Sonos | Software Product Management Intern - Seattle | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
-| Pyrotek | Intern - Product Management | Spokane, Washington, United States | $22.00 per hour | 2027 internship eligible | Posted Nov 3, 2026<br>First seen Nov 9, 2026 | [Apply](<https://jobs.smartrecruiters.com/Pyrotek3/744000160635163-intern-product-management>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
