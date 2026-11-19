@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 18, 2026 at 4:59 PM EST
+Last updated: November 19, 2026 at 5:13 PM EST
 
 Current roles in this view: 81
 
@@ -13,7 +13,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
-| 🔥 Uber | 2027 Product Management Intern, US | San Francisco, CA, United States | $56.80 per hour | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Nov 18, 2026 | [Apply](<https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983>) |
+| 🔥 Uber | 2027 Product Management Intern, US | San Francisco, CA | $56.80 per hour | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Nov 18, 2026 | [Apply](<https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983>) |
 | Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | $39.00 per hour | 2027 internship eligible | Posted Nov 16, 2026<br>First seen Nov 16, 2026 | [Apply](<https://job-boards.greenhouse.io/addepar1/jobs/8910324002>) |
 | Camping World | New Product Development Product Management Intern | Lincolnshire, IL | - | 2027 internship eligible | Posted Nov 14, 2026<br>First seen Nov 16, 2026 | [Apply](<https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086>) |
 | Lowe's Technology | Digital Product Management - Undergrad Internship - Summer 2027 | Charlotte, North Carolina, United States of America | - | 2027 internship eligible | Posted Nov 14, 2026<br>First seen Sep 15, 2026 | [Apply](<https://talent.lowes.com/us/en/job/JR-02645845/Digital-Product-Management-Undergrad-Internship-Summer-2027>) |
