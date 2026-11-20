@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 19, 2026 at 5:13 PM EST
+Last updated: November 20, 2026 at 4:52 PM EST
 
-Current roles in this view: 81
+Current roles in this view: 82
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| TikTok | AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 20, 2026 | [Apply](<https://lifeattiktok.com/search/7598849238706735365>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | 🔥 Uber | 2027 Product Management Intern, US | San Francisco, CA | $56.80 per hour | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Nov 18, 2026 | [Apply](<https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983>) |
 | Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | $39.00 per hour | 2027 internship eligible | Posted Nov 16, 2026<br>First seen Nov 16, 2026 | [Apply](<https://job-boards.greenhouse.io/addepar1/jobs/8910324002>) |

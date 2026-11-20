@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 19, 2026 at 5:13 PM EST
+Last updated: November 20, 2026 at 4:52 PM EST
 
 Current roles in this view: 4
 
