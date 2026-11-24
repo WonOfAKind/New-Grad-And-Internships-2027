@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 20, 2026 at 4:52 PM EST
+Last updated: November 24, 2026 at 6:33 PM EST
 
-Current roles in this view: 82
+Current roles in this view: 85
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,6 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA, United States | $27 - $27/hr USD | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009>) |
+| Fanatics Collectibles | Summer 2027 Internship - Product Management Intern, Card Tech | New York, NY, United States | $27 - $27/hr USD | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009>) |
+| Lucid Software | Product Management Internship - Summer 2027 | Raleigh, NC | - | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004>) |
+| Lucid Software | Product Management Internship - Summer 2027 | Salt Lake City, UT | - | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004>) |
+| iCapital Network | Product Management - Summer 2027 Intern | New York, New York, United States | $55.00 per hour | 2027 internship eligible | Posted Nov 20, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002>) |
 | TikTok | AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 20, 2026 | [Apply](<https://lifeattiktok.com/search/7598849238706735365>) |
 | Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | 🔥 Uber | 2027 Product Management Intern, US | San Francisco, CA | $56.80 per hour | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Nov 18, 2026 | [Apply](<https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983>) |
@@ -26,11 +31,8 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | T-Mobile | Summer 2027 Associate Technical Product Manager Internship | Frisco, TX | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499>) |
 | T-Mobile | Summer 2027 Product Management Internship | Philadelphia, PA | $27/hour | 2027 internship eligible | Posted Nov 6, 2026<br>First seen Nov 6, 2026 | [Apply](<https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735>) |
 | TikTok | POI Content Product Manager Intern (TikTok Local Services) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 6, 2026 | [Apply](<https://lifeattiktok.com/search/7696000179569854725>) |
-| Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876>) |
-| Invesco | Early Career Intern - Digital Product Management | Atlanta, Georgia | $35/hr | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 6, 2026 | [Apply](<https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1>) |
 | Sonos | Software Product Management Intern (Seattle) | Seattle, WA | - | 2027 internship eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1>) |
 | Pyrotek | Intern - Product Management | Spokane, Washington, United States | $22.00 per hour | 2027 internship eligible | Posted Nov 3, 2026<br>First seen Nov 18, 2026 | [Apply](<https://jobs.smartrecruiters.com/Pyrotek3/744000162385949-intern-product-management>) |
-| TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | Seattle, Washington, United States of America | - | 2027 internship eligible | First seen Nov 2, 2026 | [Apply](<https://lifeattiktok.com/search/7701480558070597893>) |
 | UL Solutions | 2027 Summer Intern: Product Management Intern | Northbrook, IL | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Nov 2, 2026 | [Apply](<https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625>) |
 | Viget | Project &amp; Product Manager Intern (2027) | Boulder, CO | - | 2027 internship eligible | Posted Nov 1, 2026<br>First seen Oct 23, 2026 | [Apply](<https://jobs.lever.co/viget/969d8237-ec1a-4ec4-ba09-b08bcfcd81c4>) |
@@ -44,6 +46,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Visa | Product Management Intern, Data and AI Team - Summer 2027 | Foster City, CA | $46 - $55/hr | 2027 internship eligible | Posted Oct 27, 2026<br>First seen Oct 27, 2026 | [Apply](<https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Product Management | Lincolnshire, IL | $25.50 - $32.00/hour | 2027 internship eligible | Posted Oct 26, 2026<br>First seen Oct 26, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652>) |
 | ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, États-Unis d'Amérique | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Nov 4, 2026 | [Apply](<https://careers.abb/canada/fr/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
+| ABB | Product Management Intern Drive Products - Summer 2027 | New Berlin, Wisconsin, Yhdysvallat | $20 - $34 per hour | 2027 internship eligible | Posted Oct 25, 2026<br>First seen Nov 24, 2026 | [Apply](<https://careers.abb/finland/fi/job/JR00047254/Product-Management-Intern-Drive-Products-Summer-2027>) |
 | Walmart | Summer 2027 Intern: Automation - Product Manager - Corporate Intern | Lancaster, TX | $21.00 - $40.00/hr | 2027 internship eligible | Posted Oct 22, 2026<br>First seen Oct 22, 2026 | [Apply](<https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739>) |
 | Zebra Technologies | 2027 Summer Internship (US) - Supplies &amp; Sensors Product Manager | Lincolnshire, IL | $25.50-$32.00/hr | 2027 internship eligible | Posted Oct 20, 2026<br>First seen Oct 20, 2026 | [Apply](<https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640>) |
 | Zurn Elkay Water Solutions | Product Management Intern - Summer 2027 | Downers Grove, IL | $20.00 - $25.00 per hour | 2027 internship eligible | Posted Oct 19, 2026<br>First seen Oct 19, 2026 | [Apply](<https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065>) |
