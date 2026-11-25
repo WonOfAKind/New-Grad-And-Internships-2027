@@ -2,9 +2,9 @@
 
 [Project overview](../README.md) | [All New Grad Categories](../NEW_GRAD.md)
 
-Last updated: November 24, 2026 at 6:33 PM EST
+Last updated: November 25, 2026 at 6:10 PM EST
 
-Current roles in this view: 31
+Current roles in this view: 30
 
 🔥 Standout employers are curated separately for each discipline using industry scale, technical reputation, and established early-career programs. The designation is not a universal company ranking.
 
@@ -12,11 +12,11 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
-| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 23, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
-| Integra FEC | Junior Data Scientist | Austin, Texas | - | Early career | Posted Nov 23, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/integra/jobs/5487065008>) |
+| Adobe | 2027 University Graduate - Data Scientist | San Jose, California, United States of America | $90,000 - $164,250 annually | 2027 grad eligible | Posted Nov 25, 2026<br>First seen Nov 12, 2026 | [Apply](<https://careers.adobe.com/us/en/job/R173462/2027-University-Graduate-Data-Scientist>) |
+| Integra FEC | Junior Data Scientist | Austin, TX | - | Early career | Posted Nov 23, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/integra/jobs/5487065008>) |
 | TikTok | Data Scientist Graduate (TikTok Product) - 2027 Start | San Jose, California, United States of America | - | 2027 grad eligible | First seen Nov 18, 2026 | [Apply](<https://lifeattiktok.com/search/7669654422861383941>) |
 | JPMorgan Chase | Technology, Data and Product - United States - 2027 ReEntry Program | Plano, TX, United States; Houston, TX, United States; Atlanta, GA, United States; Tampa, FL, United States; Chicago, IL, United States; Columbus, OH, United States; Jersey City, NJ, United States; New York, NY, United States; Newark, DE, United States; Palo Alto, CA, United States; Seattle, WA, United States; Charlotte, NC, United States | $80,000.00-$140,000.00 | 2027 grad eligible | Posted Nov 17, 2026<br>First seen Nov 16, 2026 | [Apply](<https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809152>) |
-| Draper | Early Career Engineer, Draper Capstone Cohort (2026-2027) | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Nov 16, 2026<br>First seen Nov 24, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2026-2027-_JR003157>) |
+| Draper | Early Career Engineer, Draper Capstone Cohort (2026-2027) | Cambridge, MA | $62,500.00 - $140,000.00 | Early career | Posted Nov 16, 2026<br>First seen Nov 25, 2026 | [Apply](<https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Early-Career-Engineer--Draper-Capstone-Cohort--2026-2027-_JR003157>) |
 | Boeing | C-17 Design and Analysis Engineer (Entry Level or Associate) | USA - Oklahoma City, OK | $68,850 - $93,150 | Early career | Posted Nov 13, 2026<br>First seen Nov 13, 2026 | [Apply](<https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-2>) |
 | Smithfield Foods | Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates | Smithfield, VA | - | 2027 grad eligible | Posted Nov 5, 2026<br>First seen Nov 5, 2026 | [Apply](<https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044>) |
 | CGS Federal (Contact Government Services) | HR Data Analytics &amp; Reporting Specialist (HRDARS) – Junior | Washington, DC | - | Early career | Posted Oct 31, 2026<br>First seen Nov 2, 2026 | [Apply](<https://jobs.lever.co/cgsfederal/4bab3e18-7cf6-4d4f-aa11-56db4e83e7ed>) |
@@ -38,7 +38,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | BNY | 2027 BNY Analyst Program - Engineering (Data Science) | Pittsburgh, PA | - | 2027 grad eligible | Posted Sep 16, 2026<br>First seen Sep 16, 2026 | [Apply](<https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246>) |
 | Clarity Innovations | Junior Data Analyst | Hurlburt Field, FL | $58,000 - $138,000 | Early career | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://job-boards.greenhouse.io/clarityinnovates/jobs/5238058007>) |
 | Solace Health | Associate Data Scientist (College Grad 2027) | Redwood City, CA | - | 2027 grad eligible | Posted Sep 15, 2026<br>First seen Sep 15, 2026 | [Apply](<https://jobs.ashbyhq.com/solace/77ca492c-4142-4931-beeb-e85d9d0ac443>) |
-| Johns Hopkins Applied Physics Laboratory | 2027 Graduate - Advanced Kinetic Weapons Engineer | Laurel, Maryland, United States | $85,000 Annually | 2027 grad eligible | Posted Sep 1, 2026<br>First seen Sep 7, 2026 | [Apply](<http://careers.jhuapl.edu/jobs/59882>) |
 | National Software Management | Entry Level Data Analyst / Business Analyst | Jersey City, New Jersey, United States | - | Early career | Posted Aug 29, 2026<br>First seen Aug 31, 2026 | [Apply](<https://jobs.smartrecruiters.com/NationalSoftwareManagement1/744000144639269-entry-level-data-analyst-business-analyst>) |
 | True Anomaly | Software Engineer I, Data Science (New Grad) | Denver, CO; Long Beach, CA | $75,000 | Explicit new grad role | Posted Aug 25, 2026<br>First seen Aug 25, 2026 | [Apply](<https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007>) |
 | TikTok | Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Centers Operations) - 2027 Start | Fontana, California, United States of America | - | 2027 grad eligible | First seen Aug 19, 2026 | [Apply](<https://lifeattiktok.com/search/7675510156642142469>) |
