@@ -2,7 +2,7 @@
 
 [Project overview](../README.md) | [All Internships Categories](../INTERNSHIPS.md)
 
-Last updated: November 26, 2026 at 6:02 PM EST
+Last updated: November 27, 2026 at 5:45 PM EST
 
 Current roles in this view: 85
 
@@ -12,6 +12,7 @@ Roles are sorted newest-first. Always verify availability and details on the off
 
 | Company | Role | Location | Salary / Hourly | Grad Window | Posted / First Seen | Apply |
 |---|---|---|---|---|---|---|
+| Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Nov 27, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | TikTok | Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 25, 2026 | [Apply](<https://lifeattiktok.com/search/7701486873210390837>) |
 | Fanatics Collectibles | Summer 2027 Internship - Product Management Intern | Seattle, WA | $27 - $27/hr USD | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009>) |
 | Fanatics Collectibles | Summer 2027 Internship - Product Management Intern, Card Tech | New York, NY | $27 - $27/hr USD | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009>) |
@@ -19,7 +20,6 @@ Roles are sorted newest-first. Always verify availability and details on the off
 | Lucid Software | Product Management Internship - Summer 2027 | Salt Lake City, UT | - | 2027 internship eligible | Posted Nov 24, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004>) |
 | iCapital Network | Product Management - Summer 2027 Intern | New York, NY | $55.00 per hour | 2027 internship eligible | Posted Nov 20, 2026<br>First seen Nov 24, 2026 | [Apply](<https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002>) |
 | TikTok | AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2027 Start | San Jose, California, United States of America | - | 2027 internship eligible | First seen Nov 20, 2026 | [Apply](<https://lifeattiktok.com/search/7598849238706735365>) |
-| Oshkosh Corporation | Product Management Intern (Summer 2027) | Appleton, Wisconsin, United States of America | $18.00 - $37.00/hr | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Aug 31, 2026 | [Apply](<https://careers.oshkoshcorp.com/us/en/job/R49746/Product-Management-Intern-Summer-2027>) |
 | 🔥 Uber | 2027 Product Management Intern, US | San Francisco, CA | $56.80 per hour | 2027 internship eligible | Posted Nov 18, 2026<br>First seen Nov 18, 2026 | [Apply](<https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983>) |
 | Addepar | Technical Product Management Intern (ADX) - Summer 2027 | New York, NY | $39.00 per hour | 2027 internship eligible | Posted Nov 16, 2026<br>First seen Nov 16, 2026 | [Apply](<https://job-boards.greenhouse.io/addepar1/jobs/8910324002>) |
 | Camping World | New Product Development Product Management Intern | Lincolnshire, IL | - | 2027 internship eligible | Posted Nov 14, 2026<br>First seen Nov 16, 2026 | [Apply](<https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/New-Product-Development-Product-Management-Intern_26_09086>) |
